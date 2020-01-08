@@ -12,12 +12,13 @@ agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
 hero-title: Hero title
-hero-subtitle: Hero subtitle
+#hero-subtitle: Hero subtitle
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
 button:
-  - text: Learn More
+#  - text: Learn More
+  - text: CTA
     url: /who-we-are/
     
 key-highlights:
@@ -47,7 +48,9 @@ key-highlights:
     description: Set a solid foundation with key essentials
     url: https://google.com
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
+#resources-title: Resources
+resources-title: PRODUCT & SERVICES
+#resources-subtitle: Be in the know
+#resources-more-button: More Resources
+resources-more-button: Find out more
 resources-more-button-url: Media/
