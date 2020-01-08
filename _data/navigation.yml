@@ -33,14 +33,16 @@
 #  - title: IPOS
 #    url: /list-of-e-services/IPOS/
 - title: Business Guides
-  url: /business-guides/guide1/
+  url: /business-guides/success-stories/
   sub-links:
-  - title: Guide1
-    url: /business-guides/guide1/
-  - title: Guide2
-    url: /business-guides/guide2/
-  - title: Guide3
-    url: /business-guides/guide3/
+  - title: Success Stories
+    url: /business-guides/success-stories/
+  - title: Toolkits
+    url: /business-guides/toolkits/
+  - title: Articles
+    url: /business-guides/articles/
+  - title: Learn
+    url: /business-guides/learn/
 - title: Media
   url: /Media/
   sub-links:
