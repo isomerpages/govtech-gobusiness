@@ -5,5 +5,4 @@ permalink: /products-and-services/product1/
 breadcrumb: Product1
 collection_name: products-and-services
 ---
-
-Lorem ipsum sit amet Dolores Umbridge
+Product1 Description

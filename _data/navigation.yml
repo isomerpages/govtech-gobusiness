@@ -11,10 +11,10 @@
     url: /products-and-services/product1/
   - title: Product2
     url: /products-and-services/product2/
-#  - title: Service1
-#    url: /products-and-services/service1/
-#  - title: Service2
-#    url: /products-and-services/service2/
+  - title: Service1
+    url: /products-and-services/service1/
+  - title: Service2
+    url: /products-and-services/service2/
 #- title: List Of e-Services
 #  url: /list-of-e-services/license-one/
 #  sub-links:
