@@ -11,7 +11,8 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Hero title
+hero-title: Hero Banner
+#hero-title: Hero title
 #hero-subtitle: Hero subtitle
 hero-banner: /images/hero-banner.png
 
@@ -53,4 +54,8 @@ resources-title: PRODUCT & SERVICES
 #resources-subtitle: Be in the know
 #resources-more-button: More Resources
 resources-more-button: Find out more
+resources-more-button-url: Media/
+
+resources-title: NEWS
+resources-more-button: Read more
 resources-more-button-url: Media/
