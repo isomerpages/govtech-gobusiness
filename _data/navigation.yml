@@ -15,23 +15,32 @@
     url: /products-and-services/service1/
   - title: Service2
     url: /products-and-services/service2/
-- title: List Of e-Services
-  url: /list-of-e-services/license-one/
+#- title: List Of e-Services
+#  url: /list-of-e-services/license-one/
+#  sub-links:
+#  - title: License One
+#    url: /list-of-e-services/license-one/
+#  - title: ACRA
+#    url: /list-of-e-services/ACRA/
+#  - title: CorpPass
+#    url: /list-of-e-services/CorpPass/
+#  - title: IRAS
+#    url: /list-of-e-services/IRAS/
+#  - title: CPF
+#    url: /list-of-e-services/CPF/
+#  - title: BGP
+#    url: /list-of-e-services/BGP/
+#  - title: IPOS
+#    url: /list-of-e-services/IPOS/
+- title: Business Guides
+  url: /business-guides/guide1/
   sub-links:
-  - title: License One
-    url: /list-of-e-services/license-one/
-  - title: ACRA
-    url: /list-of-e-services/ACRA/
-  - title: CorpPass
-    url: /list-of-e-services/CorpPass/
-  - title: IRAS
-    url: /list-of-e-services/IRAS/
-  - title: CPF
-    url: /list-of-e-services/CPF/
-  - title: BGP
-    url: /list-of-e-services/BGP/
-  - title: IPOS
-    url: /list-of-e-services/IPOS/
+  - title: Guide1
+    url: /business-guides/guide1/
+  - title: Guide2
+    url: /business-guides/guide2/
+  - title: Guide3
+    url: /business-guides/guide3/
 - title: Media
   url: /Media/
   sub-links:
@@ -41,7 +50,7 @@
     url: /Media/News/
   - title: Publications
     url: /Media/Publications/
-- title: Contact Us
-  url: /contact-us/
+#- title: Contact Us
+#  url: /contact-us/
 - title: Who We Are
   url: /who-we-are/
