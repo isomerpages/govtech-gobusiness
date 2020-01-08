@@ -25,17 +25,27 @@ key-highlights:
 #    description: Important highlight A is important
 #    url: https://google.com
 #    external: true
+#  - title: Highlight B
+#    description: Important highlight B is equally important
+#    url: https://yahoo.com
+#    external: true
+#  - title: Page A
+#    description: Page A is important too
+#    url: /page-A/
   - title: PRODUCT & SERVICES
     description: Access to our wide range of products & services for your biz
     url: https://google.com
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+  - title: E-ADVISOR
+    description: Learn about relevant Gov assistance for your Biz needs
+    url: https://google.com
     external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: GEBIZ ALERTS
+    description: Be informed about the latest Gov contracts
+    url: https://google.com
+  - title: START
+    description: Set a solid foundation with key essentials
+    url: https://google.com
 
 resources-title: Resources
 resources-subtitle: Be in the know
