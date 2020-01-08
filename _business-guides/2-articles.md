@@ -5,4 +5,4 @@ permalink: /business-guides/articles/
 breadcrumb: Articles
 collection_name: business-guides
 ---
-Guide3 Description
+Articles Description

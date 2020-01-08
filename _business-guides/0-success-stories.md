@@ -5,4 +5,4 @@ permalink: /business-guides/success-stories/
 breadcrumb: Success Stories
 collection_name: business-guides
 ---
-Guide1 Description
+Success Stories Description
