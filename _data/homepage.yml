@@ -50,12 +50,18 @@ key-highlights:
     url: https://google.com
 
 #resources-title: Resources
-resources-title: PRODUCT & SERVICES
 #resources-subtitle: Be in the know
 #resources-more-button: More Resources
-resources-more-button: Find out more
-resources-more-button-url: Media/
 
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title: PRODUCT & SERVICES
+#programmes-subtitle: Co-creating for better value
+#programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-more-button: Find out more
+#programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
+
+# Recources Section
 resources-title: NEWS
 resources-more-button: Read more
 resources-more-button-url: Media/
