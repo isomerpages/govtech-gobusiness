@@ -5,10 +5,12 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+#favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-GoBiz.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+#agency-logo: /images/isomer-logo.svg
+agency-logo: /images/GoBizlogo.svg
 
 # Hero Banner
 hero-title: Hero Banner
@@ -21,7 +23,7 @@ button:
 #  - text: Learn More
   - text: CTA
     url: /who-we-are/
-    
+
 key-highlights:
 #  - title: Highlight A
 #    description: Important highlight A is important
@@ -57,7 +59,7 @@ key-highlights:
 # To edit the programme details, go to programmes.yml
 programmes-title: PRODUCT & SERVICES
 programmes-subtitle: Co-creating for better value
-programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.
 programmes-more-button: Find out more
 #programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
 programmes-more-button-url: Media/
