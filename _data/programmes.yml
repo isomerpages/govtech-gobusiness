@@ -1,17 +1,17 @@
-- title: Beeline
-  category: CITIZEN
+- title: Title1
+  category: CATEGORY1
   desc: Beeline is an open, cloud-based smart mobility platform developed to provide data-driven shuttle bus services for commuters.
   img: images/programmes/products-and-services/products-and-services-1.png
-  bg-color: bg-beeline
+  #bg-color: bg-beeline
 
-- title: ParkingSG
-  category: CITIZEN
+- title: Title2
+  category: CATEGORY2
   desc: Parking.sg allows you to pay short-term parking charges through your mobile device at all existing coupon-based public car parks.
   img: images/programmes/products-and-services/products-and-services-2.png
-  bg-color: bg-parkingsg
+  #bg-color: bg-parkingsg
 
-- title: SingPass
-  category: CITIZEN
+- title: Title3
+  category: CATEGORY3
   desc: Launched in 2003, Singapore Personal Access (SingPass) allows users to access over hundreds of digital services provided by more than 60 government agencies easily and securely.
   img: images/programmes/products-and-services/products-and-services-3.png
-  bg-color: bg-singpass
+  #bg-color: bg-singpass
