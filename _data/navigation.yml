@@ -8,8 +8,7 @@
   url: /products-and-services/product1/
   sub-links:
   - title: Product1
-#    url: /products-and-services/product1/
-    url: /products-and-services/license-one/
+    url: /products-and-services/product1/
 #  - title: Product2
 #    url: /products-and-services/product2/
 #  - title: Service1

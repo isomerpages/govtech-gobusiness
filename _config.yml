@@ -44,4 +44,6 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 collections:
   list-of-e-services:
     output: true
+  products-and-services:
+    output: true
 resources_name: Media
