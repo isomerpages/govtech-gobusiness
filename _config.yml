@@ -46,4 +46,6 @@ collections:
     output: true
   products-and-services:
     output: true
+  business-guides:
+    output: true
 resources_name: Media
