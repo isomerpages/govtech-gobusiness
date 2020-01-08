@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: License One
-permalink: /list-of-e-services/license-one/
+permalink: /products-and-services/license-one/
 breadcrumb: License One
-collection_name: list-of-e-services
+collection_name: products-and-services
 ---
 
 Lorem ipsum sit amet Dolores Umbridge
