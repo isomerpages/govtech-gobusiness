@@ -11,7 +11,7 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Hero title 1
+hero-title: Hero title
 hero-subtitle: Hero subtitle
 hero-banner: /images/hero-banner.png
 
@@ -21,8 +21,12 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
+#  - title: Highlight A
+#    description: Important highlight A is important
+#    url: https://google.com
+#    external: true
+  - title: PRODUCT & SERVICES
+    description: Access to our wide range of products & services for your biz
     url: https://google.com
     external: true
   - title: Highlight B
