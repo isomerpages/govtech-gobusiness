@@ -48,4 +48,6 @@ collections:
     output: true
   business-guides:
     output: true
+  who-we-are:
+    output: true
 resources_name: Media

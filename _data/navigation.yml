@@ -54,5 +54,14 @@
     url: /Media/Publications/
 #- title: Contact Us
 #  url: /contact-us/
+#- title: Who We Are
+#  url: /who-we-are/
 - title: Who We Are
-  url: /who-we-are/
+  url: /who-we-are/about-us/
+  sub-links:
+  - title: About Us
+    url: /who-we-are/about-us/
+  - title: Vision, Mission & Values
+    url: /who-we-are/vision-mission-and-values/
+  - title: Our Team
+    url: /who-we-are/our-team/
