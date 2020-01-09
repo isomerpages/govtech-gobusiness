@@ -242,15 +242,18 @@ $desktop: 960px + (2 * $gap) !default;
       a{
         &.active{
           @include touch(){
-            border-bottom:2px solid $secondary;
+            //border-bottom:2px solid $secondary;
+						border-bottom:2px solid #313840;
           }
         }
       }
     }
   }
   .navbar-link:hover:after {
-    border-bottom: 1px solid $secondary;
-    border-left: 1px solid $secondary;
+    //border-bottom: 1px solid $secondary;
+    //border-left: 1px solid $secondary;
+		border-bottom: 1px solid #00838f;
+    border-left: 1px solid #00838f;
   }
 
   .navbar-item{
