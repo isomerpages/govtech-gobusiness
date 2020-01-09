@@ -56,10 +56,10 @@
   - title: Courses
     url: /business-guides/courses/
 - title: Media
-  url: /Media/
+  url: /Media/News/
   sub-links:
-  - title: All
-    url: /Media/
+#  - title: All
+#    url: /Media/
   - title: News
     url: /Media/News/
   - title: Publications
