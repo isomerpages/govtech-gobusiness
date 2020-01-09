@@ -14,7 +14,8 @@ agency-logo: /images/GoBizlogo.svg
 #agency-logo: /images/GoBizlogo.png
 
 # Hero Banner
-hero-title: Hero Banner
+#hero-title: Hero Banner
+hero-title: Consider long-term strategies to take your business to the next level
 #hero-title: Hero title
 #hero-subtitle: Hero subtitle
 hero-banner: /images/hero-banner.png
@@ -22,7 +23,8 @@ hero-banner: /images/hero-banner.png
 #Call to Action Button
 button:
 #  - text: Learn More
-  - text: CTA
+#  - text: CTA
+  - text: Login to GoBusiness
     #url: /who-we-are/
     url: https://www.gobusiness.gov.sg/licences
     #external: true
@@ -39,20 +41,22 @@ key-highlights:
 #  - title: Page A
 #    description: Page A is important too
 #    url: /page-A/
-  - title: PRODUCTS & SERVICES
-    description: Access to our wide range of products & services for your biz
+  - title: GoBusiness Licensing
+    description: Get step-by-step help to apply for the licences with our Guided Journey feature
     url: https://google.com
     external: true
   - title: E-ADVISOR
-    description: Learn about relevant Gov assistance for your Biz needs
+    description: Learn about relevant Government assistance for your Business needs
     url: https://google.com
     external: true
   - title: GEBIZ ALERTS
-    description: Be informed about the latest Gov contracts
+    description: Be informed about the latest Government contracts
     url: https://google.com
-  - title: START
-    description: Set a solid foundation with key essentials
+    external: true
+  - title: Starting Up Right
+    description: Understand the market and obligations of business operations
     url: https://google.com
+    external: true
 
 #resources-title: Resources
 #resources-subtitle: Be in the know
@@ -61,8 +65,8 @@ key-highlights:
 # Programmes Section
 # To edit the programme details, go to programmes.yml
 programmes-title: PRODUCT & SERVICES
-programmes-subtitle: Co-creating for better value
-programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.
+programmes-subtitle: Supporting Businesses Better
+programmes-description: Access to our wide range of products & services across government agencies. Get connected now.
 programmes-more-button: Find out more
 #programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
 programmes-more-button-url: Media/
