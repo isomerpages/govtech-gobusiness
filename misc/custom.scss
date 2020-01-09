@@ -230,7 +230,7 @@ $desktop: 960px + (2 * $gap) !default;
 			border-left:1px solid darken(#00838f,10%);
 		}
 		&:hover{
-			background-color: darken($primary,10%);
+			background-color: darken(#00838f,10%);
 		}
 	}
 }
