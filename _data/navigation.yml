@@ -60,10 +60,18 @@
   sub-links:
 #  - title: All
 #    url: /Media/
-  - title: News
-    url: /Media/News/
-  - title: Publications
-    url: /Media/Publications/
+#  - title: News
+#    url: /Media/News/
+#  - title: Publications
+#    url: /Media/Publications/
+  - title: Press Release
+    url: /Media/press-release/
+  - title: Announcement
+    url: /Media/announcement/
+  - title: Events
+    url: /Media/events/
+  - title: Blogs
+    url: /Media/blog/
 #- title: Contact Us
 #  url: /contact-us/
 #- title: Who We Are
