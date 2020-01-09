@@ -1,13 +1,13 @@
-- title: Title1
-  category: CATEGORY1
-  desc: Description 1 Description 1 Description 1 Description 1 Description 1
-  img: images/programmes/products-and-services/products-and-services-1.png
+- title: GoBusiness Licensing
+  category: PRODUCT
+  desc: Business Grants Portal brings government grants for businesses into one place, so it's easier to find and apply for the grants you need.
+  img: images/programmes/products-and-services/carousell_banner1.png
   bg-color: bg-beeline
 
-- title: Title2
-  category: CATEGORY2
-  desc: Description 2 Description 2 Description 2 Description 2 Description 2
-  img: images/programmes/products-and-services/products-and-services-2.png
+- title: Business Grants
+  category: PRODUCT
+  desc: Business Grants Portal brings government grants for businesses into one place, so it's easier to find and apply for the grants you need.
+  img: images/programmes/products-and-services/carousell_banner2.png
   bg-color: bg-parkingsg
 
 #- title: Title3
