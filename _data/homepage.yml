@@ -15,9 +15,9 @@ agency-logo: /images/GoBizlogo.svg
 
 # Hero Banner
 #hero-title: Hero Banner
-#hero-title: Consider long-term strategies to take your business to the next level
+hero-title: Consider long-term strategies to take your business to the next level
 #hero-title: Hero title
-hero-subtitle: Consider long-term strategies to take your business to the next level
+#hero-subtitle: Consider long-term strategies to take your business to the next level
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
