@@ -223,9 +223,11 @@ $desktop: 960px + (2 * $gap) !default;
 #key-highlights{
 	background-color: $primary;
 	.col {
-		border-left:1px solid darken($primary,10%);
+		//border-left:1px solid darken($primary,10%);
+		border-left:1px solid darken(#00838f,10%);
 		@include touch(){
-			border-top:1px solid darken($primary,10%);
+			//border-top:1px solid darken($primary,10%);
+			border-left:1px solid darken(#00838f,10%);
 		}
 		&:hover{
 			background-color: darken($primary,10%);
