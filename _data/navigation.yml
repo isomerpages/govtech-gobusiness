@@ -19,6 +19,12 @@
     url: /products-and-services/bizfile/
   - title: myTax
     url: /products-and-services/mytax/
+  - title: myCPF
+    url: /products-and-services/mycpf/
+  - title: CorpPass
+    url: /products-and-services/corppass/
+  - title: SingPass
+    url: /products-and-services/singpass/
 #- title: List Of e-Services
 #  url: /list-of-e-services/license-one/
 #  sub-links:
