@@ -69,10 +69,10 @@
 #- title: Who We Are
 #  url: /who-we-are/
 - title: Who We Are
-  url: /who-we-are/about-us/
+  url: /who-we-are/vision-mission-and-values/
   sub-links:
-  - title: About Us
-    url: /who-we-are/about-us/
+#  - title: About Us
+#    url: /who-we-are/about-us/
   - title: Vision, Mission & Values
     url: /who-we-are/vision-mission-and-values/
   - title: Our Team
