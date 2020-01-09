@@ -5,10 +5,10 @@
 ##################################
 
 - title: Products & Services
-  url: /products-and-services/product1/
+  url: /products-and-services/e-advisor/
   sub-links:
-  - title: Product1
-    url: /products-and-services/product1/
+  - title: E-Advisor
+    url: /products-and-services/e-advisor/
   - title: Product2
     url: /products-and-services/product2/
   - title: Service1
