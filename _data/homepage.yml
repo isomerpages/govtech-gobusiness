@@ -22,7 +22,9 @@ hero-banner: /images/hero-banner.png
 button:
 #  - text: Learn More
   - text: CTA
-    url: /who-we-are/
+    #url: /who-we-are/
+    url: https://www.gobusiness.gov.sg/licences
+    #external: true
 
 key-highlights:
 #  - title: Highlight A
