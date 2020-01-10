@@ -5,7 +5,8 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #6031b6;
+//$primary: #6031b6;
+$primary: #00838f;
 //$secondary: #4372d6;
 $secondary: #313840;
 $secondary-hover: lighten($secondary, 10%);
@@ -222,16 +223,16 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Homepage
 #key-highlights{
-	background-color: #00838f;
+	background-color: $primary;
 	.col {
-		//border-left:1px solid darken($primary,10%);
-		border-left:1px solid darken(#00838f,10%);
+		border-left:1px solid darken($primary,10%);
+		//border-left:1px solid darken(#00838f,10%);
 		@include touch(){
-			//border-top:1px solid darken($primary,10%);
-			border-left:1px solid darken(#00838f,10%);
+			border-top:1px solid darken($primary,10%);
+			//border-left:1px solid darken(#00838f,10%);
 		}
 		&:hover{
-			background-color: darken(#00838f,10%);
+			background-color: darken($primary,10%);
 		}
 	}
 }
