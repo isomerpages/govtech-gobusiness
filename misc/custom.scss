@@ -265,21 +265,25 @@ $desktop: 960px + (2 * $gap) !default;
 
     .selector{
       &.active{
-        background-color:$secondary;
+        //background-color:$secondary;
+				background-color:#00838f;
       }
     }
     &.active{
       @include desktop(){
-        border-bottom:1px solid $secondary;
+        //border-bottom:1px solid $secondary;
+				border-bottom:1px solid #00838f;
       }
     }
   }
 .navbar-item:hover {
   a {
-    color:$secondary;
+    //color:$secondary;
+		color:#00838f;
   }
   .selector {
-      background-color:$secondary;
+      //background-color:$secondary;
+			background-color:#00838f;
     }
   }
 }
