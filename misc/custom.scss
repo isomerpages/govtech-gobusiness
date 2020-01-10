@@ -7,8 +7,8 @@
 // HLB brand colors
 //$primary: #6031b6;
 $primary: #00838f;
-//$secondary: #4372d6;
-$secondary: #313840;
+$secondary: #4372d6;
+//$secondary: #313840;
 $secondary-hover: lighten($secondary, 10%);
 
 $media-color-one: #49759a;
@@ -245,7 +245,7 @@ $desktop: 960px + (2 * $gap) !default;
         &.active{
           @include touch(){
             //border-bottom:2px solid $secondary;
-						border-bottom:2px solid #313840;
+						border-bottom:2px solid #00838f;
           }
         }
       }
