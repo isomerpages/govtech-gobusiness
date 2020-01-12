@@ -11,8 +11,10 @@ $secondary: #4372d6;
 //$secondary: #313840;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #49759a;
-$media-color-two: #744d9f;
+//$media-color-one: #49759a;
+//$media-color-two: #744d9f;
+$media-color-one: #00838f;
+$media-color-two: #00838f;
 $media-color-three: #00838f;
 $media-color-four: #00838f;
 $media-color-five: #00838f;
@@ -352,12 +354,6 @@ $desktop: 960px + (2 * $gap) !default;
 .image-card:hover {
   .news-content {
     background-color: darken(#ffffff, 10%);
-  }
-}
-
-.image-card {
-  .news-content {
-    background-color: #00838f;
   }
 }
 
