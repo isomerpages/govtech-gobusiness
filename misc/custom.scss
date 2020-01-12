@@ -260,7 +260,8 @@ $desktop: 960px + (2 * $gap) !default;
 
   .navbar-item{
     .sub-link.is-active{
-      color:$secondary;
+      //color:$secondary;
+			color:#00838f;
     }
 
     .selector{
@@ -282,8 +283,8 @@ $desktop: 960px + (2 * $gap) !default;
 		color:#00838f;
   }
   .selector {
-      background-color:$secondary;
-			//background-color:#00838f;
+      //background-color:$secondary;
+			background-color:#00838f;
     }
   }
 }
