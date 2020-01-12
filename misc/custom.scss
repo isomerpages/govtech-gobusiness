@@ -355,6 +355,12 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+.image-card {
+  .news-content {
+    background-color: #00838f;
+  }
+}
+
 .hero-dropdown {
   display: flex;
   padding-top: 1.75rem;
