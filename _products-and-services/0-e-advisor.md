@@ -6,5 +6,3 @@ breadcrumb: E-Advisor
 collection_name: products-and-services
 ---
 E-Advisor Description
-### blablabla
-<img src="/images/hero-banner.png" />
