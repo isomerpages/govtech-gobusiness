@@ -20,15 +20,15 @@ Licensing Description </br>
   </select>
 </form>
 
-<p>Click the button to change the selected fruit to banana.</p>
+<p>Click the button to change the selected fruit to banana..</p>
 
 <button type="button" onclick="myFunction()">Try it</button>
 
-<script>
+<script\>
 function myFunction() {
   document.getElementById("mySelect").value = "banana";
 }
-</script>
+</script\>
 
 <p id="demo">JavaScript can change HTML content.</p>
 
