@@ -24,11 +24,11 @@ Licensing Description </br>
 
 <button type="button" onclick="myFunction()">Try it</button>
 
-<script\>
+<script type="text/javascript">
 function myFunction() {
   document.getElementById("mySelect").value = "banana";
 }
-</script\>
+</script>
 
 <p id="demo">JavaScript can change HTML content.</p>
 
