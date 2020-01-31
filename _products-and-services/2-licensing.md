@@ -7,6 +7,12 @@ collection_name: products-and-services
 ---
 Licensing Description </br>
 
+<script type="text/javascript">
+function test() {
+  alert('aa');
+}
+</script>
+
 <html>
 <body>
 
@@ -22,7 +28,7 @@ Licensing Description </br>
 
 <p>Click the button to change the selected fruit to banana..</p>
 
-<button type="button" onclick="myFunction()">Try it</button>
+<button type="button" onclick="test()">Try it</button>
 
 <script type="text/javascript">
 function myFunction() {
