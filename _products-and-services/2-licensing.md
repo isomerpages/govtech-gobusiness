@@ -9,9 +9,8 @@ collection_name: products-and-services
 <p>The Productivity Solutions Grant (PSG) supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity.</p>
 
 <a href="#aaa">Go To Middle</a>
-
-<h4>What is PSG?</h4>
 <div>
+<h4>What is PSG?</h4>
 <p>Technology is not about fancy and expensive high-end solutions. You can kick start your technology journey by taking simple steps to automate existing processes and improve productivity. The Productivity Solutions Grant (PSG) supports companies keen on adopting IT solutions and equipment to enhance business processes.
 
 
