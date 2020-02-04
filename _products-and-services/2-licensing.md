@@ -11,7 +11,7 @@ collection_name: products-and-services
 <h4>What is PSG?</h4>
 <div style="display:none">
 <p>Technology is not about fancy and expensive high-end solutions. You can kick start your technology journey by taking simple steps to automate existing processes and improve productivity. The Productivity Solutions Grant (PSG) supports companies keen on adopting IT solutions and equipment to enhance business processes.
-</div>
+
 
 For a start, PSG covers sector-specific solutions including the retail, food, logistics, precision engineering, construction and landscaping industries. Other than sector-specific solutions, PSG also supports adoption of solutions that cut across industries, such as in areas of customer management, data analytics, financial management and inventory tracking.
 
@@ -28,6 +28,7 @@ From 1 July 2019, companies with approved Productivity Solutions Grant (PSG) app
 The subsidy, which is part of the enhanced PSG, allows companies to upskill employees and claim up to 70% of out-of-pocket training expenses, capped at $10,000 per eligible company. This is provided on top of existing government course fee subsidies, and in addition to the sector-specific grant cap for the PSG pre-scoped productivity solutions.
 
 Companies have up to 31 March 2023 to submit their applications. For more information on PSG (SFTS) and the list of suggested training courses, please visit <a href="https://www.skillsfuture.sg/psgtrainingsubsidy">skillsfuture.sg/psgtrainingsubsidy</a>.</p>
+</div>
 
 <h3>Is my business eligible for PSG?</h3>
 <p>Companies can apply for PSG if they meet the following criteria:</p>
