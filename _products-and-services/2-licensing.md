@@ -32,10 +32,19 @@ Companies have up to 31 March 2023 to submit their applications. For more inform
 <h3>Is my business eligible for PSG?</h3>
 <p>Companies can apply for PSG if they meet the following criteria:</p>
 <ul>
-<li>Registered and operating in Singapore</li>
-<li>Purchase/lease/subscription of the IT solutions or equipment must be used in Singapore</li>
-<li>(Selected solutions only) An SME with minimum 30% local shareholding; AND Company's Group annual sales turnover less than S$100 million, OR less than 200 employees</li>
+  <li>Registered and operating in Singapore</li>
+  <li>Purchase/lease/subscription of the IT solutions or equipment must be used in Singapore</li>
+  <li>(Selected solutions only) An SME with minimum 30% local shareholding; AND Company's Group annual sales turnover less than S$100 million, OR less than 200 employees</li>
 </ul>
+
+<h3>How can my business apply for PSG?</h3>
+<p>Here are the steps you can take when applying for PSG:</p>
+<ol>
+<li>Access the list of supportable solutions from below and identify relevant solutions that best suit your business needs.</li>
+<li>For IT solutions : Get a quotation from the pre-approved vendor.</li>
+<li>For equipment : Source for the equipment and get a quotation from the vendor.
+Submit an application on the Business Grant Portal (BGP). You will need to register for a CorpPass account to transact on the portal.</li>
+</ol>
 
 <div>
   <img src="/images/sme_tech_solution_1.jpg" align="left" style="width:250px;height:160px;">
