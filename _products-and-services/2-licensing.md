@@ -41,8 +41,8 @@ collection_name: products-and-services
 <p>Here are the steps you can take when applying for PSG:</p>
 <ol>
   <li>Access the list of supportable solutions from below and identify relevant solutions that best suit your business needs.</li>
-  <li>For IT solutions : Get a quotation from the pre-approved vendor.</li>
-      For equipment : Source for the equipment and get a quotation from the vendor.
+  <li>For **IT solutions** : Get a quotation from the pre-approved vendor.</li>
+      For **equipment** : Source for the equipment and get a quotation from the vendor.
   <li>Submit an application on the <a target="_blank" href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>. You will need to register for a CorpPass account to transact on the portal.</li>
 </ol>
 
