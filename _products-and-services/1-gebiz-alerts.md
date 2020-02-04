@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: GeBiz Alerts
+title: GeBIZ Alerts
 permalink: /products-and-services/gebiz-alerts/
-breadcrumb: GeBiz Alerts
+breadcrumb: GeBIZ Alerts
 collection_name: products-and-services
 ---
 <h3>What is GeBIZ Alerts?</h3>
