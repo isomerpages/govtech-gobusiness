@@ -314,7 +314,8 @@ $desktop: 960px + (2 * $gap) !default;
 
 .media-category-button {
   text-decoration: none !important;
-  color: #323232;
+  //color: #323232;
+	color: #300838;
   margin-right: 2.5rem;
   letter-spacing: 0.5px;
 }
