@@ -46,14 +46,14 @@ Companies have up to 31 March 2023 to submit their applications. For more inform
   Submit an application on the <a href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>. You will need to register for a CorpPass account to transact on the portal.</li>
 </ol>
 
-<div>
+
 <h4>List of PSG1</h4>
 <ul>
 <li><a href="#psg1">Accounting Management + Human Resource Management System (HRMS)</a></li>
 <li><a href="#psg2">Collection & Delivery Management System (CDMS)</a></li>
 <li><a href="#psg3">Augmented Demand Planning System (ADPS)</a></li>
-<ul>
-</div>
+</ul>
+
 
 <div id="psg1">
   <img src="/images/sme_tech_solution_1.jpg" align="left" style="width:250px;height:160px;">
