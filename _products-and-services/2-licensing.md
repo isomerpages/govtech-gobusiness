@@ -47,7 +47,7 @@ Companies have up to 31 March 2023 to submit their applications. For more inform
 </ol>
 
 
-<h4>List of PSG1</h4>
+<h4>List of PSG</h4>
 <ul>
 <li><a href="#psg1">Accounting Management + Human Resource Management System (HRMS)</a></li>
 <li><a href="#psg2">Accounting Management and Sales Management System</a></li>
