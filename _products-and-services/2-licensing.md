@@ -57,7 +57,7 @@ Companies have up to 31 March 2023 to submit their applications. For more inform
 
 <div id="psg1">
   <img src="/images/sme_tech_solution_1.jpg" align="left" style="width:250px;height:160px;">
-  <a href="https://govtech-gb-staging.netlify.com/media/tech-depot/test"><h4>Accounting Management + Human Resource Management System (HRMS)</h4></a>
+  <a href="https://govtech-gb-staging.netlify.com/media/tech-depot/test"><h4 style="text-decoration: none">Accounting Management + Human Resource Management System (HRMS)</h4></a>
   <p>An integrated software solution which offers the stated core functions to address business needs.</p>
 </div>
 <div id="psg2">
