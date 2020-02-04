@@ -23,7 +23,7 @@ In line with Budget 2019, with effect from 8 April 2019, solutions supported by 
 
 Productivity Solutions Grant (SkillsFuture Training Subsidy)
 
-From 1 July 2019, companies with approved Productivity Solutions Grant (PSG) applications can apply for the Productivity Solutions Grant (SkillsFuture Training Subsidy) [PSG (SFTS)] via the <a href="https://www.businessgrants.gov.sg/">Business Grants Portal (BGP)</a>.
+From 1 July 2019, companies with approved Productivity Solutions Grant (PSG) applications can apply for the Productivity Solutions Grant (SkillsFuture Training Subsidy) [PSG (SFTS)] via the <a target="_blank" href="https://www.businessgrants.gov.sg/" >Business Grants Portal (BGP)</a>.
 
 The subsidy, which is part of the enhanced PSG, allows companies to upskill employees and claim up to 70% of out-of-pocket training expenses, capped at $10,000 per eligible company. This is provided on top of existing government course fee subsidies, and in addition to the sector-specific grant cap for the PSG pre-scoped productivity solutions.
 
