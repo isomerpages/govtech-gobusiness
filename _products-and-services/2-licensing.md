@@ -44,7 +44,7 @@ Companies have up to 31 March 2023 to submit their applications. For more inform
   <li>Access the list of supportable solutions from below and identify relevant solutions that best suit your business needs.</li>
   <li>For IT solutions : Get a quotation from the pre-approved vendor.</li>
   <li>For equipment : Source for the equipment and get a quotation from the vendor.
-  Submit an application on the Business Grant Portal (BGP). You will need to register for a CorpPass account to transact on the portal.</li>
+  Submit an application on the <a href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>. You will need to register for a CorpPass account to transact on the portal.</li>
 </ol>
 
 <div>
