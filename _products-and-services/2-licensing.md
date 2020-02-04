@@ -26,6 +26,13 @@ The subsidy, which is part of the enhanced PSG, allows companies to upskill empl
 
 Companies have up to 31 March 2023 to submit their applications. For more information on PSG (SFTS) and the list of suggested training courses, please visit <a href="https://www.skillsfuture.sg/psgtrainingsubsidy">skillsfuture.sg/psgtrainingsubsidy</a>.</p>
 
+<h3>Is my business eligible for PSG?</h3>
+<p>Companies can apply for PSG if they meet the following criteria:
+
+Registered and operating in Singapore
+Purchase/lease/subscription of the IT solutions or equipment must be used in Singapore
+(Selected solutions only) An SME with minimum 30% local shareholding; AND Company's Group annual sales turnover less than S$100 million, OR less than 200 employees</p>
+
 <div>
   <img src="/images/sme_tech_solution_1.jpg" align="left" style="width:250px;height:160px;">
   <h4>Last Mile Logistics Management</h4>
