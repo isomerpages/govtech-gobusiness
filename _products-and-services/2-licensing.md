@@ -8,7 +8,7 @@ collection_name: products-and-services
 <h3>PRODUCTIVITY SOLUTIONS GRANT</h3>
 <p>The Productivity Solutions Grant (PSG) supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity.</p>
 
-<a href="#aaa">Go To Middle</a>
+
 
 <h4>What is PSG?</h4>
 <p>Technology is not about fancy and expensive high-end solutions. You can kick start your technology journey by taking simple steps to automate existing processes and improve productivity. The Productivity Solutions Grant (PSG) supports companies keen on adopting IT solutions and equipment to enhance business processes.
@@ -46,7 +46,14 @@ Companies have up to 31 March 2023 to submit their applications. For more inform
   Submit an application on the <a href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>. You will need to register for a CorpPass account to transact on the portal.</li>
 </ol>
 
-<div>
+<h4>List of PSG</h4>
+<ul>
+<li><a href="#psg1">Accounting Management + Human Resource Management System (HRMS)</a></li>
+<li>Collection & Delivery Management System (CDMS)</li>
+<li>Augmented Demand Planning System (ADPS)</li>
+<ul>
+
+<div id="psg1">
   <img src="/images/sme_tech_solution_1.jpg" align="left" style="width:250px;height:160px;">
   <h4>Last Mile Logistics Management</h4>
   <p>A planning and tracking solution to improve the last mile logistics se of drivers/vehicles to effectively meet customer imposed pickup and delivery requirements amidst resource constraints.</p>
