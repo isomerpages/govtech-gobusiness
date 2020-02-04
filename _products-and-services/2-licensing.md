@@ -63,8 +63,7 @@ Companies have up to 31 March 2023 to submit their applications. For more inform
   <h4>Collection & Delivery Management System (CDMS)</h4>
   <p>A mobile Near Field Communication/barcode-based solution to ensure right items are collected and delivered to the right customer on-time.</p>
 </div>
-<div id="psg3">
-  <img src="/images/sme_tech_solution_3.jpg" align="left" style="width:250px;height:160px;">
+
+  <img id="psg3" src="/images/sme_tech_solution_3.jpg" align="left" style="width:250px;height:160px;">
   <h4>Augmented Demand Planning System (ADPS)</h4>
   <p>To automate the processes of demand forecasting, demand sensing and demand shaping, and validation to align with customer and market requirements.</p>
-</div>
