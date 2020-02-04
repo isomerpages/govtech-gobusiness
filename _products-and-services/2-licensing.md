@@ -8,10 +8,10 @@ collection_name: products-and-services
 <h3>PRODUCTIVITY SOLUTIONS GRANT</h3>
 <p>The Productivity Solutions Grant (PSG) supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity.</p>
 
-<button onclick="alert('abc');">Click me</button>
+<a href="#aaa">Go To Middle</a>
 
-<h4 onclick="document.getElementById('myDIV').display = 'block'">What is PSG?</h4>
-<div id="myDIV" style="display:none">
+<h4>What is PSG?</h4>
+<div>
 <p>Technology is not about fancy and expensive high-end solutions. You can kick start your technology journey by taking simple steps to automate existing processes and improve productivity. The Productivity Solutions Grant (PSG) supports companies keen on adopting IT solutions and equipment to enhance business processes.
 
 
@@ -32,6 +32,7 @@ The subsidy, which is part of the enhanced PSG, allows companies to upskill empl
 Companies have up to 31 March 2023 to submit their applications. For more information on PSG (SFTS) and the list of suggested training courses, please visit <a href="https://www.skillsfuture.sg/psgtrainingsubsidy">skillsfuture.sg/psgtrainingsubsidy</a>.</p>
 </div>
 
+<div>
 <h4>Is my business eligible for PSG?</h4>
 <p>Companies can apply for PSG if they meet the following criteria:</p>
 <ul>
@@ -39,7 +40,9 @@ Companies have up to 31 March 2023 to submit their applications. For more inform
   <li>Purchase/lease/subscription of the IT solutions or equipment must be used in Singapore</li>
   <li>(Selected solutions only) An SME with minimum 30% local shareholding; AND Company's Group annual sales turnover less than S$100 million, OR less than 200 employees</li>
 </ul>
+</div>
 
+<div>
 <h4>How can my business apply for PSG?</h4>
 <p>Here are the steps you can take when applying for PSG:</p>
 <ol>
@@ -48,6 +51,7 @@ Companies have up to 31 March 2023 to submit their applications. For more inform
   <li>For equipment : Source for the equipment and get a quotation from the vendor.
   Submit an application on the <a href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>. You will need to register for a CorpPass account to transact on the portal.</li>
 </ol>
+</div>
 
 <div>
   <img src="/images/sme_tech_solution_1.jpg" align="left" style="width:250px;height:160px;">
@@ -59,7 +63,7 @@ Companies have up to 31 March 2023 to submit their applications. For more inform
   <h4>Collection & Delivery Management System (CDMS)</h4>
   <p>A mobile Near Field Communication/barcode-based solution to ensure right items are collected and delivered to the right customer on-time.</p>
 </div>
-<div>
+<div id="aaa">
   <img src="/images/sme_tech_solution_3.jpg" align="left" style="width:250px;height:160px;">
   <h4>Augmented Demand Planning System (ADPS)</h4>
   <p>To automate the processes of demand forecasting, demand sensing and demand shaping, and validation to align with customer and market requirements.</p>
