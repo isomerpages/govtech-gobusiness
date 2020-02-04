@@ -58,15 +58,15 @@ Companies have up to 31 March 2023 to submit their applications. For more inform
 <div id="psg1">
   <img src="/images/sme_tech_solution_1.jpg" align="left" style="width:250px;height:160px;">
   <h4>Accounting Management + Human Resource Management System (HRMS)</h4>
-  <p>A planning and tracking solution to improve the last mile logistics se of drivers/vehicles to effectively meet customer imposed pickup and delivery requirements amidst resource constraints.</p>
+  <p>An integrated software solution which offers the stated core functions to address business needs.</p>
 </div>
 <div id="psg2">
   <img src="/images/sme_tech_solution_2.jpg" align="left" style="width:250px;height:160px;">
   <h4>Accounting Management and Sales Management System</h4>
-  <p>A mobile Near Field Communication/barcode-based solution to ensure right items are collected and delivered to the right customer on-time.</p>
+  <p>An integrated software solution which offers the stated core functions to address business needs.</p>
 </div>
 <div id="psg3">
   <img src="/images/sme_tech_solution_3.jpg" align="left" style="width:250px;height:160px;">
   <h4>Accounting Management, CRM, Inventory Management and Sales Management System</h4>
-  <p>To automate the processes of demand forecasting, demand sensing and demand shaping, and validation to align with customer and market requirements.</p>
+  <p>An integrated software solution which offers the stated core functions to address business needs.</p>
 </div>
