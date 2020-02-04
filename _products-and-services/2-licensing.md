@@ -24,7 +24,7 @@ From 1 July 2019, companies with approved Productivity Solutions Grant (PSG) app
 
 The subsidy, which is part of the enhanced PSG, allows companies to upskill employees and claim up to 70% of out-of-pocket training expenses, capped at $10,000 per eligible company. This is provided on top of existing government course fee subsidies, and in addition to the sector-specific grant cap for the PSG pre-scoped productivity solutions.
 
-Companies have up to 31 March 2023 to submit their applications. For more information on PSG (SFTS) and the list of suggested training courses, please visit skillsfuture.sg/psgtrainingsubsidy.</p>
+Companies have up to 31 March 2023 to submit their applications. For more information on PSG (SFTS) and the list of suggested training courses, please visit <a href="https://www.skillsfuture.sg/psgtrainingsubsidy">skillsfuture.sg/psgtrainingsubsidy</a>.</p>
 
 <div>
   <img src="/images/sme_tech_solution_1.jpg" align="left" style="width:250px;height:160px;">
