@@ -46,12 +46,14 @@ Companies have up to 31 March 2023 to submit their applications. For more inform
   Submit an application on the <a href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>. You will need to register for a CorpPass account to transact on the portal.</li>
 </ol>
 
-<h4>List of PSG</h4>
+<div>
+<h4>List of PSG1</h4>
 <ul>
 <li><a href="#psg1">Accounting Management + Human Resource Management System (HRMS)</a></li>
 <li><a href="#psg2">Collection & Delivery Management System (CDMS)</a></li>
 <li><a href="#psg3">Augmented Demand Planning System (ADPS)</a></li>
 <ul>
+</div>
 
 <div id="psg1">
   <img src="/images/sme_tech_solution_1.jpg" align="left" style="width:250px;height:160px;">
@@ -63,7 +65,8 @@ Companies have up to 31 March 2023 to submit their applications. For more inform
   <h4>Collection & Delivery Management System (CDMS)</h4>
   <p>A mobile Near Field Communication/barcode-based solution to ensure right items are collected and delivered to the right customer on-time.</p>
 </div>
-
-  <img id="psg3" src="/images/sme_tech_solution_3.jpg" align="left" style="width:250px;height:160px;">
+<div id="psg3">
+  <img src="/images/sme_tech_solution_3.jpg" align="left" style="width:250px;height:160px;">
   <h4>Augmented Demand Planning System (ADPS)</h4>
   <p>To automate the processes of demand forecasting, demand sensing and demand shaping, and validation to align with customer and market requirements.</p>
+</div>
