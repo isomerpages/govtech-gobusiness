@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Business Grants Portal
-permalink: /products-and-services/business-grants-Portal/
+permalink: /products-and-services/business-grants-portal/
 breadcrumb: Business Grants Portal
 collection_name: products-and-services
 ---
