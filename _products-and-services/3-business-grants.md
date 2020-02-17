@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Business Grants Portal
+title: Business Grants
 permalink: /products-and-services/business-grants/
 breadcrumb: Business Grants
 collection_name: products-and-services
