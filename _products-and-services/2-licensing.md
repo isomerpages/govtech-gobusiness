@@ -26,14 +26,14 @@ Apply for your licences
 Once you’ve obtained planning permissions, get your licences with our smooth and streamlined application process.
 
 Licences you can apply for:
-Change of Use
-Change of Trade
-Food Shop Licence
-Food Stall Licence
-Liquor Licence
-Halal Certificate
-Public Entertainment Licence
-Petroleum and Flammable Material Licence
+1.Change of Use
+2.Change of Trade
+3.Food Shop Licence
+4.Food Stall Licence
+5.Liquor Licence
+6.Halal Certificate
+7.Public Entertainment Licence
+8.Petroleum and Flammable Material Licence
 
 <h4>For all other business owners</h4>
 Self-Service: Freely select and apply for the licences you need with the Self-Service feature, previously called LicenceOne.
