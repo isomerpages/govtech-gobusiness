@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Tech Depot
+title: Licensing
 permalink: /products-and-services/licensing/
 breadcrumb: Licensing
 collection_name: products-and-services
