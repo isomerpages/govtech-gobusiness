@@ -5,7 +5,7 @@ permalink: /start-a-business/ask-jamie/
 breadcrumb: Ask Jamie
 collection_name: start-a-business
 tag: citizens
-thumbnail_image: /images/programmes/start-a-business/AskJamie_Thumbnail.jpg
+thumbnail_image: /images/programmes/start-a-business/askjamie_thumbnail.jpg
 ---
 
 The Government Technology Agency of Singapore (GovTech) and Smart Nation and Digital Government Office (SNDGO) have been exploring the use of virtual assistants (VA) and artificial intelligence (AI) technology to help citizens and businesses navigate online government services and improve service delivery.
