@@ -1,6 +1,6 @@
 ---
-layout: simple-page
-#layout: initiatives
+#layout: simple-page
+layout: initiatives
 title: Start a Business
 permalink: /start-a-business/
 breadcrumb: Start a Business
@@ -12,7 +12,7 @@ breadcrumb: Start a Business
 <div>
 <img src="/images/programmes/products-and-services/1.jpg" align="left" style="width:300px;height:235px;">
 <h4 style="color:black"><br />'Ask Jamie' Virtual Assistant</h4>
-<span style="font-size:100%;">The use of virtual assistants (VA) and artificial intelligence (AI) technology to help citizens and businesses navigate online government services and improve service delivery.lll</span>
+<span style="font-size:100%;">The use of virtual assistants (VA) and artificial intelligence (AI) technology to help citizens and businesses navigate online government services and improve service delivery.</span>
 </div>
 <br />
 <div>
