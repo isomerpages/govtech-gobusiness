@@ -12,7 +12,7 @@ breadcrumb: Start a Business
 <div>
 <img src="/images/programmes/products-and-services/askjamie_thumbnail.jpg" align="left" style="width:399px;height:230px;">
 <h5 style="color:black"><b>'Ask Jamie' Virtual Assistant</b></h5>
-<p>The Government Technology Agency of Singapore (GovTech) and Smart Nation and Digital Government Office (SNDGO) have been exploring the use of virtual assistants (VA) and artificial intelligence (AI) technology to help citizens and businesses navigate online government services and improve service delivery.</p>
+<h6>The Government Technology Agency of Singapore (GovTech) and Smart Nation and Digital Government Office (SNDGO) have been exploring the use of virtual assistants (VA) and artificial intelligence (AI) technology to help citizens and businesses navigate online government services and improve service delivery.</h6>
 </div>
 
 <div>
