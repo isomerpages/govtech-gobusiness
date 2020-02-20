@@ -11,7 +11,7 @@ breadcrumb: Start a Business
 
 <div>
 <img src="/images/programmes/products-and-services/1.jpg" align="left" style="width:300px;height:235px;">
-<h4 style="color:black">'Ask Jamie' Virtual Assistant</h4>
+<h4 style="color:black"><br />'Ask Jamie' Virtual Assistant</h4>
 <span style="font-size:100%;">The use of virtual assistants (VA) and artificial intelligence (AI) technology to help citizens and businesses navigate online government services and improve service delivery.</span>
 </div>
 
@@ -23,6 +23,6 @@ breadcrumb: Start a Business
 
 <div>
 <img src="/images/programmes/products-and-services/3.jpg" align="left" style="width:300px;height:235px;">
-<h4 style="color:black">Ideas! crowdsourcing portal</h4>
+<h4 style="color:black"><br />Ideas! crowdsourcing portal</h4>
 <span style="font-size:100%;">Makes it easy and convenient for the public to find and participate in challenges by all Government agencies.</span>
 <div>
