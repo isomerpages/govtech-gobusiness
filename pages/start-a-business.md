@@ -25,5 +25,5 @@ breadcrumb: Start a Business
 <div>
 <img src="/images/programmes/products-and-services/idea's-portal.jpg" align="left" style="width:300px;height:210px;">
 <h4 style="color:black">Ideas! crowdsourcing portal</h4>
-<span style="font-size:80%;">Makes it easy and convenient for the public to find and participate in challenges by all Government agencies.</span>
+<span style="font-size:100%;">Makes it easy and convenient for the public to find and participate in challenges by all Government agencies.</span>
 <div>
