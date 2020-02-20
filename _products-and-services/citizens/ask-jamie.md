@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: "'Ask Jamie' Virtual Assistant"
-permalink: /products-and-services/ask-jamie/
+permalink: /start-a-business/ask-jamie/
 breadcrumb: Ask Jamie
 collection_name: products-and-services
 tag: citizens
