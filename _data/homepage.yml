@@ -21,12 +21,12 @@ agency-logo: /images/GoBizlogo.svg
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
-button:
+#button:
 #  - text: Learn More
 #  - text: CTA
-  - text: Login to GoBusiness
+#  - text: Login to GoBusiness
     #url: /who-we-are/
-    url: https://www.gobusiness.gov.sg/licences
+#    url: https://www.gobusiness.gov.sg/licences
     #external: true
 
 key-highlights:
