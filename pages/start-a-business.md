@@ -14,13 +14,13 @@ breadcrumb: Start a Business
 <h4 style="color:black"><br />'Ask Jamie' Virtual Assistant</h4>
 <span style="font-size:100%;">The use of virtual assistants (VA) and artificial intelligence (AI) technology to help citizens and businesses navigate online government services and improve service delivery.</span>
 </div>
-
+<br />
 <div>
 <img src="/images/programmes/products-and-services/2.jpg" align="left" style="width:300px;height:235px;">
 <h4 style="color:black"><br />Data.gov.sg</h4>
 <span style="font-size:100%;">The government’s one-stop portal to its publicly available datasets from 70 public agencies. To date, more than 100 apps have been created using the government’s open data.</span>
 </div>
-
+<br />
 <div>
 <img src="/images/programmes/products-and-services/3.jpg" align="left" style="width:300px;height:235px;">
 <h4 style="color:black"><br />Ideas! crowdsourcing portal</h4>
