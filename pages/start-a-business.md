@@ -17,13 +17,13 @@ breadcrumb: Start a Business
 
 <div>
 <img src="/images/programmes/products-and-services/test.jpg" align="left" style="width:300px;height:210px;">
-
-<span style="font-weight:bold;font-size:120%;">Data.gov.sg</span> <br/>
-<span style="font-size:90%;">The government’s one-stop portal to its publicly available datasets from 70 public agencies. To date, more than 100 apps have been created using the government’s open data.</span>
+<span style="font-weight:bold;font-size:150%;">Data.gov.sg</span><br/>
+<span style="font-size:100%;">The government’s one-stop portal to its publicly available datasets from 70 public agencies. To date, more than 100 apps have been created using the government’s open data.</span>
 </div>
 
 <div>
 <img src="/images/programmes/products-and-services/idea's-portal.jpg" align="left" style="width:300px;height:210px;">
 <h4 style="color:black">Ideas! crowdsourcing portal</h4>
+<span style="font-weight:bold;font-size:150%;">Ideas! crowdsourcing portal</span><br/>
 <span style="font-size:100%;">Makes it easy and convenient for the public to find and participate in challenges by all Government agencies.</span>
 <div>
