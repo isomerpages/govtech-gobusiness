@@ -18,7 +18,7 @@ breadcrumb: Start a Business
 <div>
 <img src="/images/programmes/products-and-services/test.jpg" align="left" style="width:300px;height:210px;">
 <h4 style="color:black">Data.gov.sg</h4>
-<p style="font-size:20%;">The government’s one-stop portal to its publicly available datasets from 70 public agencies. To date, more than 100 apps have been created using the government’s open data.</p>
+<p style="font-size:90%;">The government’s one-stop portal to its publicly available datasets from 70 public agencies. To date, more than 100 apps have been created using the government’s open data.</p>
 </div>
 
 <div>
