@@ -1,5 +1,6 @@
 ---
-layout: simple-page
+#layout: simple-page
+layout: initiatives
 title: Start a Business
 permalink: /start-a-business/
 breadcrumb: Start a Business
