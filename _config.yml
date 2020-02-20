@@ -48,6 +48,8 @@ collections:
     output: true
   services:
     output: true
+  start-a-business:
+    output: true
   business-guides:
     output: true
   who-we-are:
