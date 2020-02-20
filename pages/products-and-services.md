@@ -1,5 +1,5 @@
 ---
-layout: initiatives
+layout: simple-page
 title: Products and Services
 permalink: /products-and-services/
 breadcrumb: Products and Services
