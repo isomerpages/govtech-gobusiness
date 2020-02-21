@@ -6,9 +6,10 @@ breadcrumb: Toolkits
 collection_name: resources
 ---
 <h3>Toolkits</h3>
-<b>Empower your business with these self-help toolkits.</b>
 <img src="/images/smart.png" align="left" style="width:560px;height:90px;">
-  
+
+<b>Empower your business with these self-help toolkits.</b>
+
 <p>
 <b>5S Self Evaluation Toolkit</b><br/>
 Achieve organisational cleanliness and standardisation in your workplace with this FREE evaluation.<br/>
