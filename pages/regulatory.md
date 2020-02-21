@@ -18,13 +18,13 @@ breadcrumb: Regulatory
 <br />
 <div>
 <img src="/images/programmes/products-and-services/2.jpg" align="left" style="width:300px;height:250px;">
-<h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://www.acra.gov.sg/corporate-service-providers/guidelines-for-corporate-service-providers" target="_blank">Engage Corporate Services Provider (CSP)</a></h4>
-<span style="font-size:100%;">Learn the key to pick the right Singapore company registration service provider. Engage an accredited Corporate Services Provider (CSP)</span>
+<h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://www.gobusiness.gov.sg/licences" target="_blank">Licenses & permits</a></h4>
+<span style="font-size:100%;">Licensing Your Business. Certain types of business activities require a business license in Singapore</span>
 </div>
 <br />
 <br />
 <div>
 <img src="/images/programmes/products-and-services/5.jpg" align="left" style="width:300px;height:250px;">
-<h4 style="color:black"><br />Open a bank account</h4>
-<span style="font-size:100%;">Bank Account Assistance<br /></span>
+<h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://www.acra.gov.sg/how-to-guides/filing-annual-returns-ars" target="_blank">File Annual Return</a></h4>
+<span style="font-size:100%;">Annual filling requirements for Singapore companies<br /></span>
 <div>
