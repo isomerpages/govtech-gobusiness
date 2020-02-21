@@ -18,7 +18,7 @@ breadcrumb: Trainings
 <br />
 
 <div>
-<img src="/images/programmes/products-and-services/2jpg" align="left" style="width:300px;height:250px;">
+<img src="/images/programmes/products-and-services/2.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />Employees Training</h4>
 <span style="font-size:100%;">Employees Training<br /></span>
 </div>
