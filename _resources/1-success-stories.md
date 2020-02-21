@@ -10,9 +10,7 @@ collection_name: resources
 <img src="/images/SS.png" align="center" style="width:700px;height:480px;">
 
 Digital transformations are even more difficult than traditional change efforts to pull off. But the results from the most effective transformations point to five factors for success.
-DOWNLOADABLE RESOURCES
-Open interactive popup
-Article (PDF-1MB)
+
 As digital technologies dramatically reshape industry after industry, many companies are pursuing large-scale change efforts to capture the benefits of these trends or simply to keep up with competitors. In a new McKinsey Global Survey on digital transformations, more than eight in ten respondents say their organizations have undertaken such efforts in the past five years.1 Yet success in these transformations is proving to be elusive. While our earlier research has found that fewer than one-third of organizational transformations succeed at improving a company’s performance and sustaining those gains, the latest results find that the success rate of digital transformations is even lower.
 
 The results from respondents who do report success point to 21 best practices, all of which make a digital transformation more likely to succeed. These characteristics fall into five categories: leadership, capability building, empowering workers, upgrading tools, and communication. These categories suggest where and how companies can start to improve their chances of successfully making digital changes to their business.
