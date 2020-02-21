@@ -7,7 +7,7 @@ collection_name: resources
 ---
 <h3>Courses</h3>
 
-<img src="/images/course.png" align="center" style="width:500px;height:180px;">
+<img src="/images/course.png" align="left" style="width:500px;height:180px;">
 
 <b>Contract Administration</b><br/>
 Ref no: CRS-N-0000475<br/>
