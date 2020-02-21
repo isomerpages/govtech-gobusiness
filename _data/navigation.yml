@@ -78,10 +78,10 @@
   - title: Vision, Mission, Values
     url: /who-we-are/Vision-Mission-Values/
 - title: Contact Us
-  url: /contact-us/
+  url: /contact-us.yaml/
   sub-links:
   - title: Contact Us
-    url: /contact-us/
+    url: /contact-us.yaml/
 
 #- title: Contact Us
 #  url: /contact-us/
