@@ -23,7 +23,7 @@ Area of Training: Workplace Safety and Health<br/>
 Fee: $ 290.00<br/>
 Hours: 7 hours<br/>
 
-<b>UNDERSTANDING FINANCIAL STATEMENTS<b><br/>
+<b>Understanding Financial Statements<b><br/>
 Ref no: CRS-N-0000654<br/>
 School: UNIVERSAL STAGE PTE. LTD.<br/>
 Area of Training: Accounting, Banking & Finance<br/>
