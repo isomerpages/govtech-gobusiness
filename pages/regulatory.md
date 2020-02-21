@@ -30,7 +30,21 @@ breadcrumb: Regulatory
 <br />
 <br />
 <div>
+<img src="/images/programmes/products-and-services/6.jpg" align="left" style="width:300px;height:250px;">
+<h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://www.iras.gov.sg/irashome/CorporateTax2019/" target="_blank">Corporate Tax Filing</a></h4>
+<span style="font-size:100%;">Learning the Basics of Corporate Income Tax<br /></span>
+<div>
+<br />
+<br />
+<div>
 <img src="/images/programmes/products-and-services/2.jpg" align="left" style="width:300px;height:250px;">
+<h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://www.iras.gov.sg/irashome/CorporateTax2019/" target="_blank">Corporate Tax Filing</a></h4>
+<span style="font-size:100%;">Learning the Basics of Corporate Income Tax<br /></span>
+<div>
+<br />
+<br />
+<div>
+<img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://www.iras.gov.sg/irashome/CorporateTax2019/" target="_blank">Corporate Tax Filing</a></h4>
 <span style="font-size:100%;">Learning the Basics of Corporate Income Tax<br /></span>
 <div>
