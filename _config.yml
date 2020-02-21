@@ -48,6 +48,8 @@ collections:
     output: true
   services:
     output: true
+  resources:
+    output: true
   business-guides:
     output: true
   who-we-are:
