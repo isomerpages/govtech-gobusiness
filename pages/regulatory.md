@@ -21,7 +21,6 @@ breadcrumb: Regulatory
 <span style="font-size:100%;">Licensing Your Business. Certain types of business activities require a business license in Singapore</span>
 </div>
 <br />
-<br />
 <div>
 <img src="/images/programmes/products-and-services/5.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://www.acra.gov.sg/how-to-guides/filing-annual-returns-ars" target="_blank">File Annual Return</a></h4>
