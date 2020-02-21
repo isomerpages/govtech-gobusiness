@@ -7,7 +7,7 @@ collection_name: resources
 ---
 <h3>Unlocking success in digital transformations</h3>
 
-<img src="/images/SS.png" align="center" style="width:700px;height:480px;">
+<img src="/images/SS.png" align="center" style="width:350px;height:240px;">
 
 Digital transformations are even more difficult than traditional change efforts to pull off. But the results from the most effective transformations point to five factors for success.
 
