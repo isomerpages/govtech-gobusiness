@@ -9,7 +9,7 @@ collection_name: resources
 
 <img src="/images/SS.png" align="center" style="width:350px;height:240px;">
 
-<b>Contract Administration</b>
+<b>Contract Administration</b><br/>
 Ref no:CRS-N-0000475<br/>
 School:SINGAPORE INSTITUTE OF SURVEYORS AND VALUERS<br/>
 Area of Training: Human Resource Management, Employment and Recruitment<br/>
