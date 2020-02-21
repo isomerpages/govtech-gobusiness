@@ -4,6 +4,7 @@ layout: simple-page
 title: Trainings
 permalink: /services/trainings/
 breadcrumb: Trainings
+collection_name: services
 ---
 <h1><div class="has-text-centered has-text-weight-bold">Build the talent needed in the current workplace</div></h1>
 

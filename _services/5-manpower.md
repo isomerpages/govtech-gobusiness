@@ -4,6 +4,7 @@ layout: simple-page
 title: Manpower
 permalink: /services/manpower/
 breadcrumb: Manpower
+collection_name: services
 ---
 <h1><div class="has-text-centered has-text-weight-bold">Recruit and train your employees</div></h1>
 

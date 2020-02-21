@@ -4,6 +4,7 @@ layout: simple-page
 title: Regulatory
 permalink: /services/regulatory/
 breadcrumb: Regulatory
+collection_name: services
 ---
 <h1><div class="has-text-centered has-text-weight-bold">Essential Regulatory Compliance Guide for Singapore Companies</div></h1>
 

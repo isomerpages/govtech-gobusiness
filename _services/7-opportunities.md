@@ -4,6 +4,7 @@ layout: simple-page
 title: Opportunities
 permalink: /services/opportunities/
 breadcrumb: Opportunities
+collection_name: services
 ---
 <h1><div class="has-text-centered has-text-weight-bold">Get access to more business opportunities</div></h1>
 

@@ -4,6 +4,7 @@ layout: simple-page
 title: Financial
 permalink: /services/financial/
 breadcrumb: Financial
+collection_name: services
 ---
 <h1><div class="has-text-centered has-text-weight-bold">Be financially ready to run and expand your business</div></h1>
 

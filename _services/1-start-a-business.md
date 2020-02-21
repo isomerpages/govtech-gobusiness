@@ -4,6 +4,7 @@ layout: simple-page
 title: Start a Business
 permalink: /services/start-a-business/
 breadcrumb: Start a Business
+collection_name: services
 ---
 <h1><div class="has-text-centered has-text-weight-bold">Register and start operating in Singapore within just days</div></h1>
 
