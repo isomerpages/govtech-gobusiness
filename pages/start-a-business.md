@@ -12,7 +12,7 @@ breadcrumb: Start a Business
 <div>
 <img src="/images/programmes/products-and-services/1.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />Incorporate your company</h4>
-<span style="font-size:100%;">Incorporating a Local Company in Singapore</span>
+<span style="font-size:100%;">Incorporating a Local Company in Singapore<br /></span>
 </div>
 <br />
 <div>
@@ -24,5 +24,5 @@ breadcrumb: Start a Business
 <div>
 <img src="/images/programmes/products-and-services/3.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />Open a bank account</h4>
-<span style="font-size:100%;">Bank Account Assistance</span>
+<span style="font-size:100%;">Bank Account Assistance<br /></span>
 <div>
