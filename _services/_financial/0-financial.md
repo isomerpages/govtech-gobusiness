@@ -2,7 +2,7 @@
 layout: simple-page
 #layout: initiatives
 title: Financial
-permalink: /services/government-assistance/financial
+permalink: /services/government-assistance/financial/
 breadcrumb: Financial
 collection_name: services
 ---
