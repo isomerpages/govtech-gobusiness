@@ -5,6 +5,6 @@ title: Start a Business
 permalink: /start-a-business/
 breadcrumb: Start a Business
 ---
-<h1><div class="has-text-centered has-text-weight-bold">Co-creating for Better Value</div></h1>
+<h1><div class="has-text-centered has-text-weight-bold">Register and start operating in Singapore within just days</div></h1>
 
-<center>Use technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. </center>
+<center>Singapore is globally renowned as one of the best countries to operate a business. And it’s surprisingly quick and easy to do so.</center>
