@@ -15,3 +15,19 @@ collection_name: services
 <h4 style="color:black"><br />E-adviser</h4>
 <span style="font-size:100%;">E-adviser<br /></span>
 </div>
+<br />
+<br />
+
+<div>
+<img src="/images/programmes/products-and-services/6.jpg" align="left" style="width:300px;height:250px;">
+<h4 style="color:black"><br />Financial</h4>
+<span style="font-size:100%;">Financial<br /></span>
+</div>
+<br />
+<br />
+
+<div>
+<img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
+<h4 style="color:black"><br />Non-Financial</h4>
+<span style="font-size:100%;">Non-Financial<br /></span>
+</div>
