@@ -12,7 +12,7 @@ breadcrumb: Start a Business
 <div>
 <img src="/images/programmes/products-and-services/1.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />Incorporate your company</h4>
-<span style="font-size:100%;">Incorporating a Local Company in Singapore<br /></span>
+<span style="font-size:100%;">Incorporating a Local Company in Singapore</span>
 </div>
 <br />
 <br />
@@ -21,6 +21,7 @@ breadcrumb: Start a Business
 <h4 style="color:black"><br />Engage Corporate Services Provider (CSP)</h4>
 <span style="font-size:100%;">Learn the key to pick the right Singapore company registration service provider. Engage an accredited Corporate Services Provider (CSP)</span>
 </div>
+<br />
 <br />
 <div>
 <img src="/images/programmes/products-and-services/3.jpg" align="left" style="width:300px;height:250px;">
