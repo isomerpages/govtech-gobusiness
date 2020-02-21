@@ -2,7 +2,7 @@
 layout: simple-page
 #layout: initiatives
 title: Regulatory
-permalink: /regulatory/
+permalink: /services/regulatory/
 breadcrumb: Regulatory
 ---
 <h1><div class="has-text-centered has-text-weight-bold">Essential Regulatory Compliance Guide for Singapore Companies</div></h1>
