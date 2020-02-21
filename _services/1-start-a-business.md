@@ -12,8 +12,8 @@ collection_name: services
 
 <div>
 <img src="/images/programmes/products-and-services/3.jpg" align="left" style="width:300px;height:250px;">
-<h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://www.acra.gov.sg/how-to-guides/setting-up-a-local-company" target="_blank">Incorporate your company</a></h4>
-<span style="font-size:100%;">Incorporating a Local Company in Singapore</span>
+<h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://www.acra.gov.sg/how-to-guides/setting-up-a-local-company" target="_blank">Incorporate a Local Company in Singapore</a></h4>
+<span style="font-size:100%;">A step-by-step procedure for setting up a new Singapore company</span>
 </div>
 <br />
 <br />
@@ -26,6 +26,6 @@ collection_name: services
 <br />
 <div>
 <img src="/images/programmes/products-and-services/5.jpg" align="left" style="width:300px;height:250px;">
-<h4 style="color:black"><br />Open a bank account</h4>
-<span style="font-size:100%;">Bank Account Assistance<br /></span>
+<h4 style="color:black"><br />Opening a Corporate Account in Singapore</h4>
+<span style="font-size:100%;">Learn about opening a corporate bank account in Singapore including major banks, account features, account opening requirements & more<br /></span>
 </div>
