@@ -10,7 +10,7 @@ breadcrumb: Trainings
 <center>An overview of strategic and practical considerations for employers creating or maintaining employee development programs.</center>
 
 <div>
-<img src="/images/programmes/products-and-services/5.jpg" align="left" style="width:300px;height:250px;">
+<img src="/images/programmes/products-and-services/3.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />Employer Training</h4>
 <span style="font-size:100%;">Employer Training<br /></span>
 </div>
@@ -18,7 +18,7 @@ breadcrumb: Trainings
 <br />
 
 <div>
-<img src="/images/programmes/products-and-services/6.jpg" align="left" style="width:300px;height:250px;">
+<img src="/images/programmes/products-and-services/2jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />Employees Training</h4>
 <span style="font-size:100%;">Employees Training<br /></span>
 </div>

@@ -10,7 +10,7 @@ breadcrumb: Manpower
 <center>Screen suitable candidates first when they’re sorted by how well they match your job.</center>
 
 <div>
-<img src="/images/programmes/products-and-services/5.jpg" align="left" style="width:300px;height:250px;">
+<img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />MyCareersFuture</h4>
 <span style="font-size:100%;">MyCareersFuture<br /></span>
 </div>
@@ -18,7 +18,7 @@ breadcrumb: Manpower
 <br />
 
 <div>
-<img src="/images/programmes/products-and-services/6.jpg" align="left" style="width:300px;height:250px;">
+<img src="/images/programmes/products-and-services/3.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />Workpass</h4>
 <span style="font-size:100%;">Workpass<br /></span>
 </div>
