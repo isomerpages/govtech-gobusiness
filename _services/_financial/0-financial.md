@@ -4,7 +4,7 @@ layout: simple-page
 title: Financial
 permalink: /services/government-assistance/financial
 breadcrumb: Financial
-collection_name: financial
+collection_name: services
 ---
 <h3>Business Grants Portal</h3>
 
