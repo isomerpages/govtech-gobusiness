@@ -2,7 +2,7 @@
 layout: simple-page
 #layout: initiatives
 title: Start a Business
-permalink: /start-a-business/
+permalink: /services/start-a-business/
 breadcrumb: Start a Business
 ---
 <h1><div class="has-text-centered has-text-weight-bold">Register and start operating in Singapore within just days</div></h1>
