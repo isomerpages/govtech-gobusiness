@@ -1,0 +1,40 @@
+---
+layout: simple-page
+#layout: initiatives
+title: Accounting and Human Resource Management Version 3.0 - Package A (10 Users)
+permalink: /services/government-assistance/financial/hrms/package-a
+breadcrumb: Financial
+collection_name: services
+---
+<h3>Eligibility Criteria</h3>
+<p>Applicants must meet the following eligibility criteria at the point of application:</p>
+a) must be a SME <br>
+b) must be registered in Singapore <br>
+c) must have 30% local shareholding ownership criteria <br>
+d) purchase/lease of the equipment must be used in Singapore <br>
+e) must not have:
+<ul>
+  <li>Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the equipment</li>
+  <li>Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the equipment</li>
+</ul>
+<p style="color:red">You have a company grant cap of $30,000 from 1st April 2019 to 31st March 2020 (this financial year). For your PSG applications to be qualified under this financial year, please kindly submit your application by 15th February 2020.</p>
+
+<h3>Description</h3>
+<p>The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.</p>
+
+<h3>Mode of Payment</h3>
+<p>Direct Purchase</p>
+
+<h3>Support Level</h3>
+<p>70% for SMEs</p>
+
+<h3>Things to Note</h3>
+<p>≥30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR</p>
+
+<h3>Contact Information</h3>
+Net Solutions Pte Ltd <br>
+www.netsolutions.sg <br>
+Email: sales@netsolutions.sg <br>
+Tel: (65) 6475 0319 <br>
+
+<p>Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target="_blank" href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>.</p>

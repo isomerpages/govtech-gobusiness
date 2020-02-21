@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Accounting Management + Human Resource Management System (HRMS)
-permalink: /services/government-assistance/financial/hrms
+permalink: /services/government-assistance/financial/hrms/
 breadcrumb: Accounting Management + Human Resource Management System (HRMS)
 collection_name: services
 ---
