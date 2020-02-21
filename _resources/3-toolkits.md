@@ -7,8 +7,28 @@ collection_name: resources
 ---
 <h3>Toolkits</h3>
 
-<p>We use technology to improve the lives of everyday Singaporeans – tackling real-world problems of transport, housing, security, healthcare, and the environment. We are working hard every day to design and build solutions that will make a difference to the citizens and businesses. It thrills us to know that our work can impact lives.</p>
+<p>Empower your business with these self-help toolkits.
+ 
+5S Self Evaluation Toolkit
+Achieve organisational cleanliness and standardisation in your workplace with this FREE evaluation.
+Published by Restaurant Association of Singapore (RAS) on 24 Jun 2015
 
-<p>We need people who share the same excitement and passion – individuals who are excited about building the Government Tech Stack, and developing meaningful products, platforms, and solutions for the public good.</p>
+Customer Service Toolkit
+Go the extra mile for your customers and learn about the passion and mindset of a service professional.
+Published by Enterprise Singapore on 26 Aug 2015
 
-<p>Agile. Bold. Collaborative. We are growing in ways we may never have predicted. We are challenging ourselves to innovate. We are seeking collaborators to co-create. Join us, and help build the next impactful solution for our citizens and businesses.</p>
+F&B Financial Toolkit
+Learn how to manage your operating costs with our F&B Financial Toolkit.
+Published by DBS SME Banking on 03 Feb 2016
+
+Financial Management Toolkit
+Successfully manage your business’s cash flow, learn how to prepare financial reports and develop financial budgets and plans.
+Published by Enterprise Singapore on 09 Sep 2015
+
+HR Capability Toolkit
+Boost employee satisfaction, create a positive working environment, and make your company more profitable too.
+Published on 09 Sep 2015
+
+IMPACT Assessment Toolkit
+Perform self-diagnosis and identify your company’s challenges by using this productivity toolkit.
+Published on 10 Sep 2015</p>
