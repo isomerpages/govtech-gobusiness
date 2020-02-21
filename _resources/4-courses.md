@@ -9,9 +9,6 @@ collection_name: resources
 
 <img src="/images/course.png" align="center" style="width:500px;height:180px;"><br/>
 
-
-
-
 <p>
 <h4><br /><a href="https://https://www.skillsconnect.gov.sg/sop/portal/" target="_blank">Contract Administration</a></h4>
 Ref no: CRS-N-0000475<br/>
