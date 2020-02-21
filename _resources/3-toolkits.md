@@ -9,11 +9,10 @@ collection_name: resources
 <b>Empower your business with these self-help toolkits.</b>
 <img src="/images/smart.png" align="left" style="width:560px;height:90px;">
   
-  
-  
+<p>
 <b>5S Self Evaluation Toolkit</b><br/>
 Achieve organisational cleanliness and standardisation in your workplace with this FREE evaluation.<br/>
-Published by Restaurant Association of Singapore (RAS) on 24 Jun 2015
+Published by Restaurant Association of Singapore (RAS) on 24 Jun 2015</p>
 
 <b>Customer Service Toolkit</b><br/>
 Go the extra mile for your customers and learn about the passion and mindset of a service professional.<br/>
