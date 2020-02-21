@@ -35,4 +35,5 @@ Published on 09 Sep 2015
 
 <b>IMPACT Assessment Toolkit</b><br/>
 Perform self-diagnosis and identify your company’s challenges by using this productivity toolkit.<br/>
-Published on 10 Sep 2015</p>
+Published on 10 Sep 2015
+
