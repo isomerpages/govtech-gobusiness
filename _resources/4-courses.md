@@ -7,7 +7,10 @@ collection_name: resources
 ---
 <h3>Courses</h3>
 
-<img src="/images/course.png" align="left" style="width:500px;height:180px;"><br/>
+<img src="/images/course.png" align="center" style="width:500px;height:180px;"><br/>
+
+
+
 
 <p>
 <b>Contract Administration</b><br/>
