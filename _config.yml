@@ -21,6 +21,7 @@ breadcrumbs:
     image: false # Show image or title text
 
 # Resource Room and Pagination
+resources_name: "media"
 paginate: 12
 paginate_path: "/media/page:num"
 
@@ -55,4 +56,3 @@ collections:
     output: true
   who-we-are:
     output: true
-resources_name: media

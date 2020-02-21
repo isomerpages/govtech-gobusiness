@@ -69,9 +69,9 @@ programmes-subtitle: Supporting Businesses Better
 programmes-description: Access to our wide range of products & services across government agencies. Get connected now.
 programmes-more-button: Find out more
 #programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
-programmes-more-button-url: Media/
+programmes-more-button-url: /services/start-a-business/
 
 # Recources Section
 resources-title: MEDIA
 resources-more-button: Read more
-resources-more-button-url: media/
+resources-more-button-url: /media/
