@@ -74,4 +74,4 @@ breadcrumb: Regulatory
 <img src="/images/programmes/products-and-services/5.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://www.iras.gov.sg/IRASHome/GST/Non-GST-registered-businesses/Registering-for-GST/Applying-for-GST-Registration/" target="_blank">GST registration</a></h4>
 <span style="font-size:100%;">You must register for GST if your annual taxable revenue exceeds S$1 million per year<br /></span>
-<div>
+</div>
