@@ -13,7 +13,7 @@ collection_name: resources
 
 
 <p>
-<h3><br /><a href="https://https://www.skillsconnect.gov.sg/sop/portal/" target="_blank">Contract Administration</a></h3>
+<h1><br /><a href="https://https://www.skillsconnect.gov.sg/sop/portal/" target="_blank">Contract Administration</a></h1>
 Ref no: CRS-N-0000475<br/>
 School: SINGAPORE INSTITUTE OF SURVEYORS AND VALUERS<br/>
 Area of Training: Human Resource Management, Employment and Recruitment<br/>
