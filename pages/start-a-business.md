@@ -11,7 +11,6 @@ breadcrumb: Start a Business
 
 <div>
 <img src="/images/programmes/products-and-services/3.jpg" align="left" style="width:300px;height:250px;">
-<br />
 <h4><a style="text-decoration: none" href="https://www.acra.gov.sg/how-to-guides/setting-up-a-local-company" target="_blank">Incorporate your company</a></h4>
 <span style="font-size:100%;">Incorporating a Local Company in Singapore</span>
 </div>
