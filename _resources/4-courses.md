@@ -10,11 +10,11 @@ collection_name: resources
 <img src="/images/SS.png" align="center" style="width:350px;height:240px;">
 
 <b>Contract Administration</b>
-<br>Ref no:CRS-N-0000475</br>
-<br>School:SINGAPORE INSTITUTE OF SURVEYORS AND VALUERS</br>
-<br>Area of Training: Human Resource Management, Employment and Recruitment</br>
-<br>Fee: $ 1,500.00</br>
-<br>Hours:34 hours</br>
+Ref no:CRS-N-0000475<br/>
+School:SINGAPORE INSTITUTE OF SURVEYORS AND VALUERS<br/>
+Area of Training: Human Resource Management, Employment and Recruitment<br/>
+Fee: $ 1,500.00<br/>
+Hours:34 hours<br/>
 
 <b>Personal Fall Protection Equipment Inspector Course</b>
 <b>Ref no:CRS-N-0000636</b>
