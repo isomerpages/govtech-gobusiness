@@ -14,25 +14,25 @@ collection_name: resources
 
  
 <b>5S Self Evaluation Toolkit</b><br/>
-Achieve organisational cleanliness and standardisation in your workplace with this FREE evaluation.
+Achieve organisational cleanliness and standardisation in your workplace with this FREE evaluation.<br/>
 Published by Restaurant Association of Singapore (RAS) on 24 Jun 2015
 
-Customer Service Toolkit
-Go the extra mile for your customers and learn about the passion and mindset of a service professional.
+<b>Customer Service Toolkit</b><br/>
+Go the extra mile for your customers and learn about the passion and mindset of a service professional.<br/>
 Published by Enterprise Singapore on 26 Aug 2015
 
-F&B Financial Toolkit
-Learn how to manage your operating costs with our F&B Financial Toolkit.
+<b>F&B Financial Toolkit</b><br/>
+Learn how to manage your operating costs with our F&B Financial Toolkit.<br/>
 Published by DBS SME Banking on 03 Feb 2016
 
-Financial Management Toolkit
-Successfully manage your business’s cash flow, learn how to prepare financial reports and develop financial budgets and plans.
+<b>Financial Management Toolkit</b><br/>
+Successfully manage your business’s cash flow, learn how to prepare financial reports and develop financial budgets and plans.<br/>
 Published by Enterprise Singapore on 09 Sep 2015
 
-HR Capability Toolkit
-Boost employee satisfaction, create a positive working environment, and make your company more profitable too.
+<b>HR Capability Toolkit</b><br/>
+Boost employee satisfaction, create a positive working environment, and make your company more profitable too.<br/>
 Published on 09 Sep 2015
 
-IMPACT Assessment Toolkit
-Perform self-diagnosis and identify your company’s challenges by using this productivity toolkit.
+<b>IMPACT Assessment Toolkit</b><br/>
+Perform self-diagnosis and identify your company’s challenges by using this productivity toolkit.<br/>
 Published on 10 Sep 2015</p>
