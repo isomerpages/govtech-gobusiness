@@ -7,7 +7,8 @@ collection_name: resources
 ---
 <h3>Toolkits</h3>
 
- <img src="/images/smart.png" align="left" style="width:560px;height:90px;"></b>
+ <img src="/images/smart.png" align="left" style="width:560px;height:90px;">
+ 
  
 <b>Empower your business with these self-help toolkits.</b>
  
