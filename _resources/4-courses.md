@@ -10,18 +10,18 @@ collection_name: resources
 <img src="/images/SS.png" align="center" style="width:350px;height:240px;">
 
 <b>Contract Administration</b><br/>
-Ref no:CRS-N-0000475<br/>
-School:SINGAPORE INSTITUTE OF SURVEYORS AND VALUERS<br/>
+Ref no: CRS-N-0000475<br/>
+School: SINGAPORE INSTITUTE OF SURVEYORS AND VALUERS<br/>
 Area of Training: Human Resource Management, Employment and Recruitment<br/>
 Fee: $ 1,500.00<br/>
-Hours:34 hours<br/>
+Hours: 34 hours<br/>
 
-<b>Personal Fall Protection Equipment Inspector Course</b>
-<b>Ref no:CRS-N-0000636</b>
-<b>School:ASRETEC PTE. LTD.</b>
-<b>Area of Training: Workplace Safety and Health</b>
-<b>Fee: $ 290.00</b>
-<b>Hours: 7 hours</b>
+<b>Personal Fall Protection Equipment Inspector Course</b><br/>
+Ref no: CRS-N-0000636<br/>
+School: ASRETEC PTE. LTD.<br/>
+Area of Training: Workplace Safety and Health<br/>
+Fee: $ 290.00<br/>
+Hours: 7 hours<br/>
 
 
 
