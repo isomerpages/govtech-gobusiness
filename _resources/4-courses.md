@@ -13,8 +13,7 @@ collection_name: resources
 
 
 <p>
-<h3><br /><a href="https://www.acra.gov.sg/how-to-guides/setting-up-a-local-company" target="_blank">Incorporate your company</a></h3>
-<b>Contract Administration</b><br/>
+<h3><br /><https://www.skillsconnect.gov.sg/>Contract Administration</a></h3>
 Ref no: CRS-N-0000475<br/>
 School: SINGAPORE INSTITUTE OF SURVEYORS AND VALUERS<br/>
 Area of Training: Human Resource Management, Employment and Recruitment<br/>
