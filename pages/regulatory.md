@@ -27,7 +27,7 @@ breadcrumb: Regulatory
 <div>
 <img src="/images/programmes/products-and-services/5.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://www.acra.gov.sg/how-to-guides/filing-annual-returns-ars" target="_blank">File Annual Return</a></h4>
-<span style="font-size:100%;">Annual filling requirements for Singapore companies1<br /></span>
+<span style="font-size:100%;">Annual filling requirements for Singapore companies<br /></span>
 <div>
 <br />
 <br />
@@ -47,6 +47,8 @@ breadcrumb: Regulatory
 <h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://www.cpf.gov.sg/Employers/EmployerGuides/employer-guides/setting-up-a-company/registering-as-an-employer-and-knowing-your-responsibilities" target="_blank">CPF Registration & Contribution</a></h4>
 <span style="font-size:100%;">Learn how you can start to pay CPF contributions for your employees and your responsibilities as an employer<br /></span>
 <div>
+<br />
+<br />
 <br />
 <br />
 
