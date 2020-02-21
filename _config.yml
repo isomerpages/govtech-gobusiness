@@ -21,7 +21,9 @@ breadcrumbs:
     image: false # Show image or title text
 
 # Resource Room and Pagination
+resources_name: "media"
 paginate: 12
+paginate_path: "/media/page:num"
 
 # Homepage sections
 homepage_hero_i_want_to: false
