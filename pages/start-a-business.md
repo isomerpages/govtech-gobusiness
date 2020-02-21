@@ -24,5 +24,5 @@ breadcrumb: Start a Business
 <div>
 <img src="/images/programmes/products-and-services/3.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />Open a bank account</h4>
-<span style="font-size:100%;">Makes it easy and convenient for the public to find and participate in challenges by all Government agencies.</span>
+<span style="font-size:100%;">Bank Account Assistance</span>
 <div>
