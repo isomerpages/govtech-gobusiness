@@ -59,6 +59,8 @@
 - title: Media
   url: /media/
   sub-links:
+  - title: All
+    url: /media/
   - title: Press Release
     url: /media/press-release/
   - title: Annoucement
