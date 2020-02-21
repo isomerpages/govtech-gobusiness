@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: User Guide
-permalink: /resources/user-guide/
-breadcrumb: User Guide
+title: User Guides
+permalink: /resources/user-guides/
+breadcrumb: User Guides
 collection_name: resources
 ---
 
