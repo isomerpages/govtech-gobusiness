@@ -15,7 +15,6 @@ breadcrumb: Regulatory
 <span style="font-size:100%;">Mandatory work employee insurance if employees' job consists of manual work, regardless of salary, OR are doing non-manual work but earning less than $1,600 a month</span>
 </div>
 <br />
-<br />
 <div>
 <img src="/images/programmes/products-and-services/2.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://www.gobusiness.gov.sg/licences" target="_blank">Licenses & permits</a></h4>
