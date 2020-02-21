@@ -22,6 +22,7 @@ breadcrumb: Start a Business
 <span style="font-size:100%;">Learn the key to pick the right Singapore company registration service provider. Engage an accredited Corporate Services Provider (CSP)</span>
 </div>
 <br />
+<br />
 <div>
 <img src="/images/programmes/products-and-services/5.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />Open a bank account</h4>
