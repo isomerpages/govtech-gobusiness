@@ -52,6 +52,8 @@ collections:
     output: true
   resources:
     output: true
+  financial:
+    output: true
   business-guides:
     output: true
   who-we-are:
