@@ -73,10 +73,12 @@
 #  - title: Publications
 #    url: /Media/Publications/
 - title: Who We Are
-  url: /who-we-are/Vision-Mission-Values/
+  url: /who-we-are/vision/
   sub-links:
-  - title: Vision, Mission, Values
-    url: /who-we-are/Vision-Mission-Values/
+  - title: Vision
+    url: /who-we-are/vision/
+  - title: Mission
+    url: /who-we-are/mission/
 - title: Contact Us
   url: /contact-us.yaml/
   sub-links:
