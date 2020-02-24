@@ -25,7 +25,7 @@ collection_name: services
 <br />
 
 <div>
-<img src="/images/programmes/products-and-services/2.jpg" align="left" style="width:300px;height:250px;">
+<img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://govtech-gb-staging.netlify.com/services/financial/">Financial</a></h4>
 <span style="font-size:100%;">Financial</span>
 </div>
@@ -33,7 +33,7 @@ collection_name: services
 <br />
 
 <div>
-<img src="/images/programmes/products-and-services/2.jpg" align="left" style="width:300px;height:250px;">
+<img src="/images/programmes/products-and-services/6.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://govtech-gb-staging.netlify.com/services/manpower/">Manpower</a></h4>
 <span style="font-size:100%;">Manpower</span>
 </div>
@@ -41,7 +41,7 @@ collection_name: services
 <br />
 
 <div>
-<img src="/images/programmes/products-and-services/2.jpg" align="left" style="width:300px;height:250px;">
+<img src="/images/programmes/products-and-services/5.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://govtech-gb-staging.netlify.com/services/trainings/">Trainings</a></h4>
 <span style="font-size:100%;">Trainings</span>
 </div>
@@ -49,7 +49,7 @@ collection_name: services
 <br />
 
 <div>
-<img src="/images/programmes/products-and-services/2.jpg" align="left" style="width:300px;height:250px;">
+<img src="/images/programmes/products-and-services/4.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://govtech-gb-staging.netlify.com/services/opportunities/">Opportunities</a></h4>
 <span style="font-size:100%;">Opportunities</span>
 </div>
