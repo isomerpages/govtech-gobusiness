@@ -11,13 +11,12 @@ favicon: /images/favicon-GoBiz.ico
 # Agency logo
 #agency-logo: /images/isomer-logo.svg
 agency-logo: /images/GoBizlogo.svg
-#agency-logo: /images/GoBizlogo.png
 
 # Hero Banner
 #hero-title: Hero Banner
 #hero-title: Consider long-term strategies to take your business to the next level
-#hero-title: Hero title
-#hero-subtitle: Consider long-term strategies to take your business to the next level
+hero-title: Hero Title
+hero-subtitle: Hero Subtitle
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
@@ -64,7 +63,7 @@ key-highlights:
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
-programmes-title: PRODUCT & SERVICES
+programmes-title: SERVICES
 programmes-subtitle: Supporting Businesses Better
 programmes-description: Access to our wide range of products & services across government agencies. Get connected now.
 programmes-more-button: Find out more
