@@ -226,16 +226,18 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Homepage
 #key-highlights{
-	background-color: $primary;
+	//background-color: $primary;
+	background-color: #4372d6;
 	.col {
-		border-left:1px solid darken($primary,10%);
-		//border-left:1px solid darken(#00838f,10%);
+		//border-left:1px solid darken($primary,10%);
+		border-left:1px solid darken(#4372d6,10%);
 		@include touch(){
-			border-top:1px solid darken($primary,10%);
-			//border-left:1px solid darken(#00838f,10%);
+			//border-top:1px solid darken($primary,10%);
+			border-left:1px solid darken(#4372d6,10%);
 		}
 		&:hover{
-			background-color: darken($primary,10%);
+			//background-color: darken($primary,10%);
+			background-color: darken(#4372d6,10%);
 		}
 	}
 }
