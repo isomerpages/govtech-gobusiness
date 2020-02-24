@@ -65,10 +65,10 @@ key-highlights:
 # To edit the programme details, go to programmes.yml
 programmes-title: SERVICES
 programmes-subtitle: Supporting Businesses Better
-programmes-description: Access to our wide range of products & services across government agencies. Get connected now.
+programmes-description: Access to our wide range of services across government agencies. Get connected now.
 programmes-more-button: Find out more
 #programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
-programmes-more-button-url: /services/start-a-business/
+programmes-more-button-url: /services/services/
 
 # Recources Section
 resources-title: MEDIA
