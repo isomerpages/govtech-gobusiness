@@ -20,10 +20,10 @@ hero-subtitle: Understands business needs and allows transactions with all gover
 hero-banner: /images/hero-banner.jpg
 
 #Call to Action Button
-#button:
+button:
 #  - text: Learn More
 #  - text: CTA
-#  - text: Login to GoBusiness
+  - text: Login
     #url: /who-we-are/
 #    url: https://www.gobusiness.gov.sg/licences
     #external: true
