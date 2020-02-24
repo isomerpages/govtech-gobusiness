@@ -6,7 +6,7 @@ breadcrumb: Services
 collection_name: services
 ---
 <h3>Supporting Businesses Better</h3>
-<p>Access to our wide range of products & services across government agencies. Get connected now.</p>
+<p>Access to our wide range of services across government agencies. Get connected now.</p>
 
 <div>
 <img src="/images/programmes/products-and-services/3.jpg" align="left" style="width:300px;height:250px;">
