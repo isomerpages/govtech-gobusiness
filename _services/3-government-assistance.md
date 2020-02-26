@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 #layout: initiatives
-title: Government assistance
+title: Government Assistance
 permalink: /services/government-assistance/
 breadcrumb: Government Assistance
 collection_name: services
