@@ -7,9 +7,7 @@ breadcrumb: Licensing
 collection_name: services
 ---
 
-<h1><div class="has-text-centered has-text-weight-bold">A one-stop portal for businesses to apply for licences they need easily and efficiently.</div></h1>
+<h1><div class="has-text-centered has-text-weight-bold">Singapore Business License Application and Permits Services</div></h1>
 
-<center>Freely select and apply for the licences you need with the Self-Service feature, previously called LicenceOne.
-
-You can also update, renew or terminate them here.</center>
+<center>A one-stop portal for businesses to apply for licences they need easily and efficiently.</center>
 
