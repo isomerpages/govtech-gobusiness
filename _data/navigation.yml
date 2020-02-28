@@ -13,6 +13,8 @@
 #    url: /services/start-a-business/
   - title: Regulatory
     url: /services/regulatory/
+  - title: Licensing
+    url: /services/licensing/
 #  - title: Licensing
   - title: Government Assistance
     url: /services/government-assistance/
@@ -24,8 +26,7 @@
     url: /services/trainings/
   - title: Opportunities
     url: /services/opportunities/
-  - title: Licensing
-    url: /services/licensing/
+
 
 - title: Guided Journeys
   url: /guided-journeys/
