@@ -16,7 +16,7 @@ agency-logo: /images/GoBizlogo.svg
 #hero-title: Hero Banner
 #hero-title: Consider long-term strategies to take your business to the next level
 hero-title: Successful Businesses in Singapore
-hero-subtitle: Understands business needs and allows transactions with all government agencies in a simple, streamlined and speedy manner.
+hero-subtitle: Understanding business needs and allowing transactions with all government agencies in a simple, streamlined and speedy manner.
 hero-banner: /images/hero-banner.jpg
 
 #Call to Action Button
@@ -41,11 +41,11 @@ key-highlights:
 #    description: Page A is important too
 #    url: /page-A/
   - title: GoBusiness Licensing
-    description: Get step-by-step help to apply for the licences with our Guided Journey feature
-    url: https://google.com
+    description: Freely select and apply for the licences you need with the Self-Service feature
+    url: https://licence1.business.gov.sg/web/frontier/home
     external: true
   - title: E-ADVISER
-    description: Learn about relevant Government assistance for your Business needs
+    description: Learn about relevant Government assistance for your business needs
     url: https://google.com
     external: true
   - title: GEBIZ ALERTS
