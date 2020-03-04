@@ -20,24 +20,14 @@ hero-subtitle: Understanding business needs and allowing transactions with all g
 hero-banner: /images/hero-banner.jpg
 
 #Call to Action Button
-#button:
+button:
 #  - text: Learn More
 #  - text: CTA
-#  - text: Login
+   - text: Login
     #url: /who-we-are/
-#    url: https://www.gobusiness.gov.sg/licences
-    #external: true
+    url: https://saml.corppass.gov.sg/cpauth/login/eservlogin?URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fresponse_type%3Dcode%26scope%3Dopenid%26client_id%3DGT-G2B-SSO%26redirect_uri%3Dhttps%3A%2F%2Fwww.gobusiness.gov.sg%2Fssologin%26nonce%3D87d0776f-abfb-4483-8085-40b178c8855b%26state%3D5qyvogzpzj9cxfe4qdgpto_login%26esrvcID%3DGT-G2B-SSO&TAM_OP=login
+    external: true
     
-dropdown:
-    title: I want to...
-    options:
-  - title: Login to GoBusiness Licensing Portal
-    url: https://www.gobusiness.gov.sg/licences
-  - title: Learn more about ABC
-    url: /learn-more/   
-  - title: Sign up for EFG
-    url: /signup/
-
 key-highlights:
 #  - title: Highlight A
 #    description: Important highlight A is important
