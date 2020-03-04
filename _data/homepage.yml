@@ -46,11 +46,11 @@ key-highlights:
     external: true
   - title: E-ADVISER
     description: Learn about relevant Government assistance for your business needs
-    url: https://google.com
+    url: https://govtech-gb-staging.netlify.com/services/government-assistance/
     external: true
   - title: GEBIZ ALERTS
     description: Be informed about the latest Government contracts
-    url: https://google.com
+    url: https://govtech-gb-staging.netlify.com/services/opportunities/gebiz-alerts/
     external: true
   - title: Starting Up Right
     description: Understand the market and obligations of business operations
