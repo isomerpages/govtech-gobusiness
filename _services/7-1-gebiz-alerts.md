@@ -19,3 +19,7 @@ In the past, businesses had to search through the GeBIZ portal regularly in orde
 <h4>How does GeBIZ Alerts benefit businesses?</h4>
 
 In order to ensure timeliness of notifications, GeBIZ Alerts actively pushes out information on tender notices posted on the GeBIZ website to businesses on a daily basis. This saves businesses time and the hassle of visiting the GeBIZ portal daily to search for the same information. As the subscribers receive information that is customised to their preferences, it reduces the need for businesses to filter through the information on GeBIZ; which saves them time and provides them with greater convenience. It also improves the competitiveness of businesses as they are kept updated on the latest business opportunities.
+
+Give your business that extra edge by subscribing to GeBIZ Alerts.
+Subscribe to <a href="https://www.google.com" target="_blank">GeBIZ Alerts</a>
+
