@@ -4,7 +4,7 @@ layout: leftnav-page-content
 title: GeBIZ Alerts
 permalink: /services/opportunities/gebiz-alerts/
 breadcrumb: GeBIZ Alerts
-collection_name: services
+collection_name: opportunities
 third_nav_title: Initiative A
 ---
 <h3>What is GeBIZ Alerts?</h3>
