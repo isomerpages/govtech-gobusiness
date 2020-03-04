@@ -20,13 +20,23 @@ hero-subtitle: Understanding business needs and allowing transactions with all g
 hero-banner: /images/hero-banner.jpg
 
 #Call to Action Button
-button:
+#button:
 #  - text: Learn More
 #  - text: CTA
-  - text: Login
+#  - text: Login
     #url: /who-we-are/
 #    url: https://www.gobusiness.gov.sg/licences
     #external: true
+    
+dropdown:
+    title: I want to...
+    options:
+  - title: Login to GoBusiness Licensing Portal
+    url: https://www.gobusiness.gov.sg/licences
+  - title: Learn more about ABC
+    url: /learn-more/   
+  - title: Sign up for EFG
+    url: /signup/
 
 key-highlights:
 #  - title: Highlight A
