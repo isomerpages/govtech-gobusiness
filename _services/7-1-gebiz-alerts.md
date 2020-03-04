@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 #layout: initiatives
 title: GeBIZ Alerts
 permalink: /services/opportunities/gebiz-alerts/
