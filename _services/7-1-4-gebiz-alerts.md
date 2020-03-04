@@ -22,9 +22,4 @@ In order to ensure timeliness of notifications, GeBIZ Alerts actively pushes out
 
 Give your business that extra edge by subscribing to GeBIZ Alerts.
 
-button:
-   text: Subscribe to GeBIZ Alerts
-   url: https://www.smeportal.sg/content/smeportal/en/profile/login.html?resource=%2Fcontent%2Fsmeportal%2Fen%2Fprofile%2Fdashboard.html&$$login$$=%24%24login%24%24
-   external: true
-
 
