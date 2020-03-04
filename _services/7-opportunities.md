@@ -12,7 +12,7 @@ collection_name: services
 
 <div>
 <img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
-<h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://govtech-gb-staging.netlify.com/services/opportunities/gebiz-alerts/">GeBIZ Alerts</a></h4>
+<h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://govtech-gb-staging.netlify.com/services/opportunities/Government-contracts-tenders/">GeBIZ Alerts</a></h4>
 <span style="font-size:100%;">GeBIZ Alerts<br /></span>
 </div>
 <br />
