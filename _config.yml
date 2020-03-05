@@ -50,7 +50,7 @@ collections:
 #    output: true
   services:
     output: true
-  opportunities:
+  government-contracts-tenders:
     output: true
   guided-journeys:
     output: true

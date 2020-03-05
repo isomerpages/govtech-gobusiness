@@ -4,6 +4,6 @@ layout: leftnav-page-content
 #layout: initiatives
 title: Government Contracts & Tenders
 permalink: /services/opportunities/government-contracts-tenders/
-breadcrumb: Government Contracts & Tenders
-collection_name: opportunities
+breadcrumb: Government Contracts & Tenders1
+collection_name: government-contracts-tenders
 ---
