@@ -23,11 +23,10 @@ hero-banner: /images/hero-banner.jpg
 button:
 #  - text: Learn More
 #  - text: CTA
-   - text: Login
+   - text: Login1
     #url: /who-we-are/
     #url: https://www.gobusiness.gov.sg/
-    url: /who-we-are/
-    external: true
+    #external: true
 
 key-highlights:
 #  - title: Highlight A
