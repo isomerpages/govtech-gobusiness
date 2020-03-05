@@ -25,7 +25,8 @@ button:
 #  - text: CTA
    - text: Login
     #url: /who-we-are/
-    url: https://www.gobusiness.gov.sg/
+    #url: https://www.gobusiness.gov.sg/
+    url: /who-we-are/
     external: true
 
 key-highlights:
