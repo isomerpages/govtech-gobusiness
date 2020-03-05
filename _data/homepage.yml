@@ -31,8 +31,9 @@ hero-banner: /images/hero-banner.jpg
 
 
 button:
-  - text: Login
+  - text: Login1
     url: https://www.gobusiness.gov.sg/
+    external: true
 
 key-highlights:
 #  - title: Highlight A
