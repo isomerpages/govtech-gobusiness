@@ -5,7 +5,7 @@ permalink: /products-and-services/gebiz-alerts/
 breadcrumb: GeBIZ Alerts
 collection_name: products-and-services
 ---
-<h3>What is GeBIZ Alerts?123</h3>
+<h3>What is GeBIZ Alerts?/h3>
 
 GeBIZ Alerts is a daily email service that proactively alerts subscribers of business opportunities posted on GeBIZ, the Singapore government’s procurement website, via their preferred mailbox and in accordance to their selected notification settings.
 
