@@ -14,7 +14,7 @@ collection_name: services
 
 <div>
 <img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
-<h4 style="color:black"><br />GeBIZ Alerts1</h4>
+<h4 style="color:black"><br />Government Contracts & Tenders</h4>
 <span style="font-size:100%;">GeBIZ Alerts1<br /></span>
 </div>
 <br />
