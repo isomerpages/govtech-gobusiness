@@ -50,8 +50,6 @@ collections:
 #    output: true
   services:
     output: true
-  testing:
-    output: true
   guided-journeys:
     output: true
   resources:
