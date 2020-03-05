@@ -11,8 +11,10 @@ collection_name: services
 <center>Be recognised on your efforts and path your business towards international boost.</center>
 
 <div>
+
+<div>
 <img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
-<h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://govtech-gb-staging.netlify.com/services/opportunities/government-contracts-tenders/">GeBIZ Alerts</a></h4>
+<h4 style="color:black"><br />GeBIZ Alerts</h4>
 <span style="font-size:100%;">GeBIZ Alerts<br /></span>
 </div>
 <br />
