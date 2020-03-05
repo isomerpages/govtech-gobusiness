@@ -50,8 +50,6 @@ collections:
 #    output: true
   services:
     output: true
-  government-contracts-tenders:
-    output: true
   guided-journeys:
     output: true
   resources:
