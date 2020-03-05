@@ -5,5 +5,5 @@ layout: leftnav-page-content
 title: Government Contracts & Tenders
 permalink: /services/opportunities/government-contracts-tenders/
 breadcrumb: Government Contracts & Tenders
-collection_name: test
+collection_name: opportunities
 ---
