@@ -25,8 +25,8 @@ button:
 #  - text: CTA
    - text: Login
     #url: /who-we-are/
-#    url: https://www.gobusiness.gov.sg/licences
-    #external: true
+    url: https://www.gobusiness.gov.sg/licences
+    external: true
 
 key-highlights:
 #  - title: Highlight A
@@ -43,17 +43,14 @@ key-highlights:
   - title: GoBusiness Licensing
     description: Freely select and apply for the licences you need with the Self-Service feature
     url: https://licence1.business.gov.sg/web/frontier/home
-    #url: https://google.com
     external: true
   - title: E-ADVISER
     description: Learn about relevant Government assistance for your business needs
     url: https://govtech-gb-staging.netlify.com/services/government-assistance/
-    #url: https://google.com
     external: true
   - title: GEBIZ ALERTS
     description: Be informed about the latest Government contracts
     url: https://govtech-gb-staging.netlify.com/services/opportunities/gebiz-alerts/
-    #url: https://google.com
     external: true
   - title: Starting Up Right
     description: Understand the market and obligations of business operations
