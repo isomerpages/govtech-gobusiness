@@ -30,7 +30,7 @@ agency-logo: /images/GoBizlogo.svg
 #    external: true
 
 
-- hero:
+hero:
     title: Successful Businesses in Singapore
     subtitle: Understanding business needs and allowing transactions with all government agencies in a simple, streamlined and speedy manner.
     background: /images/hero-banner.jpg
