@@ -14,6 +14,8 @@ Access the <a href="https://www.google.com" target="_blank">e-adviser</a> for a 
 
 <button type="button">Click Me!</button>
 
+<button type="button" onclick="alert('https://www.google.com')">e-adviser</button>
+
 <center><h3>There are 100's of assistances</h3>
 
 Government assistance are divided into four main categories.</center>
