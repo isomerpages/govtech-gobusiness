@@ -16,16 +16,18 @@ Access the <a href="https://www.google.com" target="_blank">e-adviser</a> for a 
 
 Government assistance are divided into four main categories.</center>
   
-<div>
-<img src="/images/programmes/products-and-services/6.jpg" align="left" style="width:300px;height:250px;">
-<h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://govtech-gb-staging.netlify.com/services/government-assistance/financial">Financial</a></h4>
-<span style="font-size:100%;">Financial<br /></span>
-</div>
-<br />
-<br />
 
 <div>
 <img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />Non-Financial</h4>
 <span style="font-size:100%;">Non-Financial<br /></span>
 </div>
+
+
+<div>
+<img src="/images/programmes/products-and-services/6.jpg" align="left" style="width:300px;height:250px;">
+<h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal">Business Grants Portal</a></h4>
+<span style="font-size:100%;">Business Grants Portal<br /></span>
+</div>
+<br />
+<br />
