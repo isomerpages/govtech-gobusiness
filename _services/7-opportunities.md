@@ -14,11 +14,12 @@ collection_name: services
 <img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />Government Contracts & Tenders</h4>
 <span style="font-size:100%;">Understand the guidelines related to government contracts and tenders<br /></span>
+</div>
 <br />
 <a href="https://govtech-gb-staging.netlify.com/services/opportunities/government-contracts-tenders/">Find out more
 <br />
 <br />
-</div>
+
 <div>
 <img src="/images/programmes/products-and-services/5.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />B2B</h4>
