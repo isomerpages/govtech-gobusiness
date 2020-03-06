@@ -8,7 +8,7 @@ collection_name: opportunities
 
 Give your business that extra edge by subscribing to GeBIZ Alerts. Just sign in to GoBusiness Portal with your CorpPass to receive alerts of Government procurement opportunities posted on the Government Electronic Business (GeBIZ) portal. It’s easy, fast and FREE.
 
-<h3>What is GeBIZ Alerts?/h3>
+<h3>What is GeBIZ Alerts?</h3>
 
 GeBIZ Alerts is a daily email service that proactively alerts subscribers of business opportunities posted on GeBIZ, the Singapore government’s procurement website, via their preferred mailbox and in accordance to their selected notification settings.
 
