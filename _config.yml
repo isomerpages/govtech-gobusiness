@@ -50,6 +50,8 @@ collections:
 #    output: true
   services:
     output: true
+  opportunities:
+    output: true
   guided-journeys:
     output: true
   resources:

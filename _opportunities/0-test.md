@@ -4,5 +4,5 @@ layout: simple-page
 title: Test
 permalink: /opportunities/test/
 breadcrumb: Test
-collection_name: test
+collection_name: opportunities
 ---
