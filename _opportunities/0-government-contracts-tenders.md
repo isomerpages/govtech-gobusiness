@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Government Contracts & Tenders
-permalink: /opportunities/government-contracts-tenders/
+permalink: /services/opportunities/government-contracts-tenders/
 breadcrumb: Government Contracts & Tenders
 collection_name: opportunities
 ---
