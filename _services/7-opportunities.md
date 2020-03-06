@@ -18,7 +18,7 @@ collection_name: services
 <a href="https://govtech-gb-staging.netlify.com/services/opportunities/government-contracts-tenders/">Find out more
 <br />
 <br />
-
+</div>
 <div>
 <img src="/images/programmes/products-and-services/5.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br />B2B</h4>
