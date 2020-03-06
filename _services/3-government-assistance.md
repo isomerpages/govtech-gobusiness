@@ -11,6 +11,10 @@ collection_name: services
 <center>An overview of government assistance schemes available for Businesses in Singapore.
   
 Access the <a href="https://www.google.com" target="_blank">e-adviser</a> for a set of recommended schemes relevant to your business' needs.</center>
+
+<center><h3>There are 100's of assistances</h3>
+
+Government assistance are divided into four main categories.</center>
   
 <div>
 <img src="/images/programmes/products-and-services/6.jpg" align="left" style="width:300px;height:250px;">
