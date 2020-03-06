@@ -22,6 +22,8 @@ Government assistance are divided into four main categories.</center>
 <h4 style="color:black"><br />Non-Financial</h4>
 <span style="font-size:100%;">Non-Financial<br /></span>
 </div>
+<br />
+<br />
 
 
 <div>
@@ -29,5 +31,4 @@ Government assistance are divided into four main categories.</center>
 <h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal">Business Grants Portal</a></h4>
 <span style="font-size:100%;">Business Grants Portal<br /></span>
 </div>
-<br />
-<br />
+
