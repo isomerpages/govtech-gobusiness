@@ -16,7 +16,6 @@ collection_name: services
 <span style="font-size:100%;">Understand the guidelines related to government contracts and tenders<br /></span>
 <br />
 <a href="https://govtech-gb-staging.netlify.com/services/opportunities/government-contracts-tenders/">Find out more
-</div>
 <br />
 <br />
 
