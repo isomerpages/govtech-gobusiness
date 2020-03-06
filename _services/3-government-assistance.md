@@ -14,7 +14,7 @@ Access the <a href="https://www.google.com" target="_blank">e-adviser</a> for a 
 
 <button type="button">Click Me!</button>
 
-<button type="button" onclick="alert('https://www.google.com')">e-adviser</button>
+<button onclick="href = 'https://w3docs.com';">Click Here</button>
 
 <center><h3>There are 100's of assistances</h3>
 
