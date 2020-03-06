@@ -22,7 +22,7 @@ Government assistance are divided into four main categories.</center>
   
 
 <div>
-<img src="/images/programmes/products-and-services/7.jpg" align="right" style="width:300px;height:250px;">
+<img src="/images/programmes/products-and-services/7.jpg" align="middle" style="width:300px;height:250px;">
 <h4 style="color:black"><br />Non-Financial</h4>
 <span style="font-size:100%;">Non-Financial<br /></span>
 </div>
