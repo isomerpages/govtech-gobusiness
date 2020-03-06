@@ -1,6 +1,5 @@
 ---
-layout: simple-page
-#layout: initiatives
+layout: leftnav-page-content
 title: Test
 permalink: /opportunities/test/
 breadcrumb: Test
