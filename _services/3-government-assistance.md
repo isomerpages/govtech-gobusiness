@@ -12,6 +12,8 @@ collection_name: services
   
 Access the <a href="https://www.google.com" target="_blank">e-adviser</a> for a set of recommended schemes relevant to your business' needs.</center>
 
+<button type="button">Click Me!</button>
+
 <center><h3>There are 100's of assistances</h3>
 
 Government assistance are divided into four main categories.</center>
@@ -26,7 +28,7 @@ Government assistance are divided into four main categories.</center>
 <br />
 
 
-
+<div>
 <img src="/images/programmes/products-and-services/6.jpg" align="left" style="width:300px;height:250px;">
 <h4><br />Business Grants Portal</h4>
 <span style="font-size:100%;">Business Grants Portal brings government grants for businesses into one place, so it’s easier to find and apply for the grants you need.<br /></span>
