@@ -1,9 +1,9 @@
 ---
 layout: simple-page
 #layout: initiatives
-title: Financial
-permalink: /services/government-assistance/financial/
-breadcrumb: Financial
+title: Business Grants Portal
+permalink: /services/government-assistance/business-grants-portal/
+breadcrumb: Business Grants Portal
 collection_name: services
 ---
 <h3>Business Grants Portal</h3>
