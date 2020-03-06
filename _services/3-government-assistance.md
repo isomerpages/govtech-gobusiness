@@ -10,11 +10,9 @@ collection_name: services
 
 <center>An overview of government assistance schemes available for Businesses in Singapore.
   
-Access the <a href="https://www.google.com" target="_blank">e-adviser</a> for a set of recommended schemes relevant to your business' needs.</center>
+Access the <a href="https://www.google.com" target="_blank">e-adviser</a> for a set of recommended schemes relevant to your business' needs.
 
-<button type="button">Click Me!</button>
-
-<button onclick="href = 'https://w3docs.com';">Click Here</button>
+<a href="https://www.google.com" target="_blank">Get recommendation from e-adviser</a></center>
 
 <center><h3>There are 100's of assistances</h3>
 
