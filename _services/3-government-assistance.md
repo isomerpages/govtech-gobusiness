@@ -30,6 +30,7 @@ Government assistance are divided into four main categories.</center>
 <img src="/images/programmes/products-and-services/6.jpg" align="left" style="width:300px;height:250px;">
 <h4 style="color:black"><br /><a style="color:black; text-decoration: none" href="https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal">Business Grants Portal</a></h4>
 <span style="font-size:100%;">Business Grants Portal brings government grants for businesses into one place, so it’s easier to find and apply for the grants you need.<br /></span>
-<span style="font-size:100%;">Findout more<br /></span>
+
+<span style="font-size:100%;"><a style="color:black; text-decoration: none" href="https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal">Findout more<br /></span>
 </div>
 
