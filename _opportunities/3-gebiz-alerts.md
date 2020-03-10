@@ -8,7 +8,7 @@ collection_name: opportunities
 
 Give your business that extra edge by subscribing to GeBIZ Alerts. Just sign in to GoBusiness Portal with your CorpPass to receive alerts of Government procurement opportunities posted on the Government Electronic Business (GeBIZ) portal. It’s easy, fast and FREE.
 
-<a href="https://www.google.com" target="_blank">Subscribe to BeBIZ Alerts Now!</a>
+<a href="https://www.google.com" target="_blank">Subscribe to GeBIZ Alerts Now!</a>
 
 <h3>What is GeBIZ Alerts?</h3>
 
@@ -24,4 +24,4 @@ In the past, businesses had to search through the GeBIZ portal regularly in orde
 
 In order to ensure timeliness of notifications, GeBIZ Alerts actively pushes out information on tender notices posted on the GeBIZ website to businesses on a daily basis. This saves businesses time and the hassle of visiting the GeBIZ portal daily to search for the same information. As the subscribers receive information that is customised to their preferences, it reduces the need for businesses to filter through the information on GeBIZ; which saves them time and provides them with greater convenience. It also improves the competitiveness of businesses as they are kept updated on the latest business opportunities.
 
-<a href="https://www.google.com" target="_blank">Subscribe to BeBIZ Alerts Now!</a>
+<a href="https://www.google.com" target="_blank">Subscribe to GeBIZ Alerts Now!</a>
