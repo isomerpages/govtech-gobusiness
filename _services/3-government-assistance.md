@@ -41,7 +41,7 @@ Government assistance are divided into four main categories.</center>
 
 
 <div>
-<img src="/images/programmes/products-and-services/psg1.jpg" align="left" style="width:300px;height:250px;">
+<img src="/images/programmes/products-and-services/psg.jpg" align="left" style="width:300px;height:250px;">
 <h4><br />Productivity Solutions Grant</h4>
 <span style="font-size:100%;">The Productivity Solutions Grant (PSG) supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity.<br /></span>
 <br />
