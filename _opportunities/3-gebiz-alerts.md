@@ -14,7 +14,7 @@ Give your business that extra edge by subscribing to GeBIZ Alerts. Just sign in 
 
 GeBIZ Alerts is a daily email service that proactively alerts subscribers of business opportunities posted on GeBIZ, the Singapore government’s procurement website, via their preferred mailbox and in accordance to their selected notification settings.
 
-<h4>Why did GeBIZ Alert come about?</h4>
+<h4>Why did GeBIZ Alerts come about?</h4>
 
 The GeBIZ Alerts was introduced for greater convenience to businesses.
 
