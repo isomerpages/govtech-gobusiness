@@ -36,15 +36,14 @@ Government assistance are divided into four main categories.</center>
 <span style="font-size:100%;">Business Grants Portal brings government grants for businesses into one place, so it’s easier to find and apply for the grants you need.<br /></span>
 <br />
 <a href="https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal">Find out more
-</div>
 <br />
 <br />
 
 
 <div>
-<img src="/images/programmes/products-and-services/PSG.jpg" align="left" style="width:300px;height:250px;">
+<img src="/images/programmes/products-and-services/psg1.jpg" align="left" style="width:300px;height:250px;">
 <h4><br />Productivity Solutions Grant</h4>
 <span style="font-size:100%;">The Productivity Solutions Grant (PSG) supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity.<br /></span>
 <br />
 <a href="https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal">Find out more
-</div>
+
