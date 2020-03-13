@@ -54,6 +54,8 @@ collections:
     output: true
   psg:
     output: true
+  government-assistance:
+    output: true
   guided-journeys:
     output: true
   resources:
