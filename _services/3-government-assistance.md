@@ -23,17 +23,28 @@ Government assistance are divided into four main categories.</center>
 
 <div>
 <img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
-<h4 style="color:black"><br />Non-Financial</h4>
-<span style="font-size:100%;">Non-Financial<br /></span>
-</div>
+<h4><br />Tax Incentives</h4>
+<span style="font-size:100%;">There are various types of tax incentives available for companies.<br /></span>
+<br />
+<a href="https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal">Find out more</a>
+<br />
+<br />
+
+
+<div>
+<img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
+<h4><br />Loans</h4>
+<span style="font-size:100%;">There are various types of loans available for companies.<br /></span>
+<br />
+<a href="https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal">Find out more</a>
 <br />
 <br />
 
 
 <div>
 <img src="/images/programmes/products-and-services/6.jpg" align="left" style="width:300px;height:250px;">
-<h4><br />Business Grants Portal</h4>
-<span style="font-size:100%;">Business Grants Portal brings government grants for businesses into one place, so it’s easier to find and apply for the grants you need.<br /></span>
+<h4><br />Grants</h4>
+<span style="font-size:100%;">There are various types of grants for companies.<br /></span>
 <br />
 <a href="https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal">Find out more</a>
 <br />
@@ -42,8 +53,8 @@ Government assistance are divided into four main categories.</center>
 
 <div>
 <img src="/images/programmes/products-and-services/psg.jpg" align="left" style="width:300px;height:250px;">
-<h4><br />Productivity Solutions Grant</h4>
-<span style="font-size:100%;">The Productivity Solutions Grant (PSG) supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity.<br /></span>
+<h4><br />Toolkits</h4>
+<span style="font-size:100%;">There are various types of toolkits available for companies.<br /></span>
 <br />
 <a href="https://govtech-gb-staging.netlify.com/services/psg/productivity-solutions-grant/">Find out more</a>
 
