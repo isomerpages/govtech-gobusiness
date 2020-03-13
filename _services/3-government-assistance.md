@@ -21,7 +21,6 @@ Access the e-adviser for a set of recommended schemes relevant to your business'
 Government assistance are divided into four main categories.</center>
   
 
-<div>
 <img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
 <h4><br />Tax Incentives</h4>
 <span style="font-size:100%;">There are various types of tax incentives available for companies.<br /></span>
@@ -31,7 +30,7 @@ Government assistance are divided into four main categories.</center>
 <br />
 
 
-<div>
+
 <img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
 <h4><br />Loans</h4>
 <span style="font-size:100%;">There are various types of loans available for companies.<br /></span>
@@ -41,7 +40,7 @@ Government assistance are divided into four main categories.</center>
 <br />
 
 
-<div>
+
 <img src="/images/programmes/products-and-services/6.jpg" align="left" style="width:300px;height:250px;">
 <h4><br />Grants</h4>
 <span style="font-size:100%;">There are various types of grants for companies.<br /></span>
@@ -51,7 +50,7 @@ Government assistance are divided into four main categories.</center>
 <br />
 
 
-<div>
+
 <img src="/images/programmes/products-and-services/psg.jpg" align="left" style="width:300px;height:250px;">
 <h4><br />Toolkits</h4>
 <span style="font-size:100%;">There are various types of toolkits available for companies.<br /></span>
