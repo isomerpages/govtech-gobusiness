@@ -19,7 +19,17 @@ Access the e-adviser for a set of recommended schemes relevant to your business'
 <center><h3>There are 100's of assistances</h3>
 
 Government assistance are divided into four main categories.</center>
-  
+
+
+
+[![Tax Incentives](/images/programmes/products-and-services/7.jpg)](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)
+
+| <h4>Tax Incentives</h4>  | 
+| :---        		   |    
+| There are various types of tax incentives available for companies.| 
+| [Find out more](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)|
+
+
 
 <img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
 <h4><br />Tax Incentives</h4>
