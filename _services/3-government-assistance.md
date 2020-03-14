@@ -23,7 +23,7 @@ Access the e-adviser for a set of recommended schemes relevant to your business'
 Government assistance are divided into four main categories.</center>
 
 
-|![Tax Incentives](/images/programmes/products-and-services/7.jpg)|![Loans](/images/programmes/products-and-services/6.jpg)|![Grants](/images/programmes/products-and-services/7.jpg)|![Toolkits](/images/programmes/products-and-services/toolkits.jpg)|
+|![Tax Incentives](/images/programmes/products-and-services/7.jpg)|![Loans](/images/programmes/products-and-services/loans.jpg)|![Grants](/images/programmes/products-and-services/7.jpg)|![Toolkits](/images/programmes/products-and-services/toolkits.jpg)|
 
 |Tax Incentives | Loans | Grants | Toolkits | 
 |  :----:       | :----:| :----: | :----:   |
