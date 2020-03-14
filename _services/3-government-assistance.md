@@ -30,6 +30,8 @@ Government assistance are divided into four main categories.</center>
 |[Find out more](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)|[Find out more](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)|[Find out more](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)|[Find out more](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)|
 
 
+|![Tax Incentives](/images/programmes/products-and-services/7.jpg)|![Loans](/images/programmes/products-and-services/6.jpg)|![Grants](/images/programmes/products-and-services/7.jpg)|![Toolkits](/images/programmes/products-and-services/6.jpg)|I am text to the right!|
+
 
 <img src="/images/programmes/products-and-services/7.jpg" align="left" style="width:300px;height:250px;">
 <h4><br />Tax Incentives</h4>
