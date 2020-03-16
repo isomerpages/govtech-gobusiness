@@ -6,6 +6,8 @@ permalink: /services/government-assistance/business-grants-portal/
 breadcrumb: Business Grants Portal
 collection_name: services
 ---
+[![BGP](/images/programmes/products-and-services/bgp.png)](https://saml.corppass.gov.sg/cpauth/login/eservlogin?URL=%2FFIM%2Fsps%2FCorpIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26PartnerId%3Dhttps%253A%252F%252Fwww.businessgrants.gov.sg%252Fsaml%252Fmetadata%26Target%3Dhttps%253A%252F%252Fwww.businessgrants.gov.sg%26NameIdFormat%3DEmail%26esrvcID%3DMTI-BGP&TAM_OP=login)
+
 <h3>Business Grants Portal</h3>
 
 Business Grants Portal brings government grants for businesses into one place, so it's easier to find and apply for the grants you need. The Portal is brought to you by Ministry Of Finance, Ministry Of Trade And Industry and Government Technology Agency.
