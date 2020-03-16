@@ -8,7 +8,7 @@ collection_name: services
 ---
 <h1><div class="has-text-centered has-text-weight-bold">Government Assistance</div></h1>
 
-[![Tax Incentives](/images/hero-banner.jpg)]<a href="https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal" target="_blank"></a>
+[![Tax Incentives](/images/hero-banner.jpg)](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)
 
 <center>An overview of government assistance schemes available for Businesses in Singapore.
   
