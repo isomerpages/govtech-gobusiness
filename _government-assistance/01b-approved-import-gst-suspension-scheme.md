@@ -1,6 +1,6 @@
 ---
 title: Approved Import GST Suspension Scheme
-permalink: /government-assistance/tax-incentives/approved-import-gst-suspension-scheme/
+permalink: services/government-assistance/tax-incentives/approved-import-gst-suspension-scheme/
 third_nav_title: "Tax Incentives"
 ---
 
