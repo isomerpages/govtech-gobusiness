@@ -1,7 +1,6 @@
 ---
-layout: leftnav-page-content
 title: Approved Contract Manufacturer and Trade Scheme
-permalink: /government-assistance/tax-incentives/approved-contract-manufacturer-and-trade-scheme/
+permalink: services/government-assistance/tax-incentives/approved-contract-manufacturer-and-trade-scheme/
 third_nav_title: "Tax Incentives"
 ---
 
