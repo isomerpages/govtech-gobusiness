@@ -1,6 +1,6 @@
 ---
 title: Enterprise Financing Scheme
-permalink: services/government-assistance/loans/enterprise-financing-scheme/
+permalink: /services/government-assistance/loans/enterprise-financing-scheme/
 third_nav_title: "Loans"
 ---
 
