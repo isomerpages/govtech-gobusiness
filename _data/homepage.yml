@@ -1,0 +1,45 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+favicon: /images/favicon-GoBiz.ico
+
+agency-logo: /images/GoBizlogo.svg
+
+hero-title: Successful Businesses in Singapore
+hero-subtitle: Understanding business needs and allowing transactions with all government agencies in a simple, streamlined and speedy manner.
+hero-banner: /images/hero-banner.jpg
+
+button:
+  - text: Login
+    url: https://www.gobusiness.gov.sg/
+
+key-highlights:
+# - title: GoBusiness Licensing
+#   description: Freely select and apply for the licences you need with the Self-Service feature
+#   url: https://licence1.business.gov.sg/web/frontier/home
+#   external: true
+  - title: E-ADVISER
+    description: Learn about relevant Government assistance for your business needs
+    url: https://govtech-gb-staging.netlify.com/services/government-assistance/
+    external: true
+  - title: GEBIZ ALERTS
+    description: Be informed about the latest Government contracts
+    url: https://govtech-gb-staging.netlify.com/services/opportunities/gebiz-alerts/
+    external: true
+  - title: Productivity Solutions Grant
+    description: Understand the market and obligations of business operations
+    url: https://google.com
+    external: true
+
+programmes-title: SERVICES
+programmes-subtitle: Supporting Businesses Better
+programmes-description: Access to our wide range of services across government agencies. Get connected now.
+programmes-more-button: Find out more
+programmes-more-button-url: /services/services/
+
+resources-title: MEDIA
+resources-more-button: Read more
+resources-more-button-url: /media/
