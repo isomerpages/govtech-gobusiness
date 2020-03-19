@@ -7,11 +7,8 @@
 - title: Government Assistance
   url: /government-assistance/
 
-- title: Opportunities
+- title: Opportunities1
   url: /services/
-  sub-links:
-  - title: Regulatory
-    url: /services/regulatory/
 
 - title: Services
   url: /services/
