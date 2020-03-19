@@ -71,19 +71,19 @@
 #  - title: Courses
 #    url: /resources/courses/
 ###
-- title: Media2
-  url: /media/
-  sub-links:
-  - title: All
-    url: /media/
-  - title: Press Release
-    url: /media/press-release/
-  - title: Annoucement
-    url: /media/announcement/
-  - title: Events
-    url: /media/events/
-  - title: Blog
-    url: /media/blog/
+#- title: Media
+#  url: /media/
+#  sub-links:
+#  - title: All
+#    url: /media/
+#  - title: Press Release
+#    url: /media/press-release/
+#  - title: Annoucement
+#    url: /media/announcement/
+#  - title: Events
+#    url: /media/events/
+#  - title: Blog
+#    url: /media/blog/
 #  - title: All
 #    url: /Media/
 #  - title: News
