@@ -7,6 +7,9 @@
 - title: Government Assistance
   url: /government-assistance/
 
+- title: Opportunities
+    url: /opportunities/
+
 - title: Services
   url: /services/
   sub-links:
@@ -71,7 +74,7 @@
 #  - title: Courses
 #    url: /resources/courses/
 ###
-- title: Media1
+- title: Media
   url: /media/
   sub-links:
   - title: All
