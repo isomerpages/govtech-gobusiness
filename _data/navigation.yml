@@ -4,43 +4,37 @@
 #                                #
 ##################################
 
-- title: Government Assistance
-  url: /government-assistance/
-  
-- title: Opportunities
-    url: /opportunities/
-  
-#- title: Services
-#  url: /services/
-#  sub-links:
+- title: Services1
+  url: /services/
+  sub-links:
 #  - title: Start a Business
 #    url: /services/start-a-business/
 #  - title: Start a Business
 #    url: /services/start-a-business/
-#  - title: Regulatory
-#    url: /services/regulatory/
+  - title: Regulatory
+    url: /services/regulatory/
+  - title: Licensing
+    url: /services/licensing/
 #  - title: Licensing
-#    url: /services/licensing/
-#  - title: Licensing
-#  - title: Government Assistance
-#    url: /services/government-assistance/
-#  - title: Financial
-#    url: /services/financial/
-#  - title: Manpower
-#    url: /services/manpower/
-#  - title: Trainings
-#    url: /services/trainings/
-#  - title: Opportunities
-#    url: /services/opportunities/
+  - title: Government Assistance
+    url: /services/government-assistance/
+  - title: Financial
+    url: /services/financial/
+  - title: Manpower
+    url: /services/manpower/
+  - title: Trainings
+    url: /services/trainings/
+  - title: Opportunities
+    url: /services/opportunities/
 
 
-#- title: Guided Journeys
-#  url: /guided-journeys/
-#  sub-links:
-#  - title: Start a Business
-#    url: /guided-journeys/start-a-business/
-#  - title: Food Services Licensing
-#    url: /guided-journeys/food-services-licensing/
+- title: Guided Journeys
+  url: /guided-journeys/
+  sub-links:
+  - title: Start a Business
+    url: /guided-journeys/start-a-business/
+  - title: Food Services Licensing
+    url: /guided-journeys/food-services-licensing/
 
 #- title: List Of e-Services
 #  url: /list-of-e-services/license-one/
@@ -59,33 +53,33 @@
 #    url: /list-of-e-services/BGP/
 #  - title: IPOS
 #    url: /list-of-e-services/IPOS/
-#- title: Resources
-#  url: /resources/user-guides/
-#  sub-links:
-#  - title: User Guides
-#    url: /resources/user-guides/
-#  - title: Success Stories
-#    url: /resources/success-stories/
-#  - title: Articles
-#    url: /resources/articles/
-#  - title: Toolkits
-#    url: /resources/toolkits/
-#  - title: Courses
-#    url: /resources/courses/
+- title: Resources
+  url: /resources/user-guides/
+  sub-links:
+  - title: User Guides
+    url: /resources/user-guides/
+  - title: Success Stories
+    url: /resources/success-stories/
+  - title: Articles
+    url: /resources/articles/
+  - title: Toolkits
+    url: /resources/toolkits/
+  - title: Courses
+    url: /resources/courses/
 ###
-#- title: Media
-#  url: /media/
-#  sub-links:
-#  - title: All
-#    url: /media/
-#  - title: Press Release
-#    url: /media/press-release/
-#  - title: Annoucement
-#    url: /media/announcement/
-#  - title: Events
-#    url: /media/events/
-#  - title: Blog
-#    url: /media/blog/
+- title: Media
+  url: /media/
+  sub-links:
+  - title: All
+    url: /media/
+  - title: Press Release
+    url: /media/press-release/
+  - title: Annoucement
+    url: /media/announcement/
+  - title: Events
+    url: /media/events/
+  - title: Blog
+    url: /media/blog/
 #  - title: All
 #    url: /Media/
 #  - title: News
