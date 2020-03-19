@@ -7,9 +7,6 @@
 - title: Government Assistance
   url: /government-assistance/
 
-- title: Opportunities
-    url: /opportunities/
-
 - title: Services
   url: /services/
   sub-links:
@@ -59,21 +56,22 @@
 #    url: /list-of-e-services/BGP/
 #  - title: IPOS
 #    url: /list-of-e-services/IPOS/
-- title: Resources
-  url: /resources/user-guides/
-  sub-links:
-  - title: User Guides
-    url: /resources/user-guides/
-  - title: Success Stories
-    url: /resources/success-stories/
-  - title: Articles
-    url: /resources/articles/
-  - title: Toolkits
-    url: /resources/toolkits/
-  - title: Courses
-    url: /resources/courses/
+
+#- title: Resources
+#  url: /resources/user-guides/
+#  sub-links:
+#  - title: User Guides
+#    url: /resources/user-guides/
+#  - title: Success Stories
+#    url: /resources/success-stories/
+#  - title: Articles
+#    url: /resources/articles/
+#  - title: Toolkits
+#    url: /resources/toolkits/
+#  - title: Courses
+#    url: /resources/courses/
 ###
-- title: Media
+- title: Media1
   url: /media/
   sub-links:
   - title: All
