@@ -7,9 +7,6 @@
 - title: Government Assistance
   url: /government-assistance/
 
-- title: Opportunities
-    url: /opportunities/
-
 - title: Services
   url: /services/
   sub-links:
@@ -34,13 +31,13 @@
     url: /services/opportunities/
 
 
-- title: Guided Journeys
-  url: /guided-journeys/
-  sub-links:
-  - title: Start a Business
-    url: /guided-journeys/start-a-business/
-  - title: Food Services Licensing
-    url: /guided-journeys/food-services-licensing/
+#- title: Guided Journeys
+#  url: /guided-journeys/
+#  sub-links:
+#  - title: Start a Business
+#    url: /guided-journeys/start-a-business/
+#  - title: Food Services Licensing
+#    url: /guided-journeys/food-services-licensing/
 
 #- title: List Of e-Services
 #  url: /list-of-e-services/license-one/
@@ -74,7 +71,7 @@
 #  - title: Courses
 #    url: /resources/courses/
 ###
-- title: Media
+- title: Media2
   url: /media/
   sub-links:
   - title: All
