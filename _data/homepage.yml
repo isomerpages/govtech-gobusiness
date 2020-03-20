@@ -1,64 +1,82 @@
----
-layout: homepage
-title: Government Assistance
-description: An overview of government assistance schemes available for Businesses in Singapore. Access the e-adviser for a set of recommended schemes relevant to your business' needs.
-permalink: /
-notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
-sections:
-    - hero:
-        title: Government Assistance
-        subtitle: An overview of government assistance schemes available for Businesses in Singapore. Access the e-adviser for a set of recommended schemes relevant to your business' needs.
-        background: /images/hero-banner.jpg
-        url: /contact-us/
-        button: Get recommendations from E-adviser
-        key_highlights:
-            - title: E-Adviser
-              description: Learn about relevant Government assistance for your business needs
-              url: https://govtech-gb-staging.netlify.com/services/government-assistance/
-            - title: GeBIZ Alerts
-              url: /annual-reports/
-            - title: Productivity Solutions Grant
-              description: Unleash your passion and be rewarded with a fulfilling career!
-              url: /careers/
-    - infobar:
-        title: Work for the public good
-        subtitle: Careers
-        description: Start a fulfulling and rewarding career with the Ministry of ABC!
-        button: Join Us
-        url: /careers/
-    - infopic:
-        title: Integrity
-        subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC
-        button: Learn More
-        url: /core-values/
-        image: /images/integrity.png
-        alt: Members of the Ministry of ABC shaking hands
-    - infopic:
-        title: Professionalism
-        subtitle: Core Values
-        description: We strive to deliver work of the highest calibre
-        button: Learn More
-        url: /core-values/
-        image: /images/professionalism.png
-        alt: Members of the Ministry of ABC in suits
-    - carousel:
-        - title: Initiative A
-          subtitle: services
-          description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
-          image: /images/initiative-a.png
-          alt: Employees taking part in Initiative A
-        - title: Initiative B
-          subtitle: services
-          image: /images/initiative-b.png
-          alt: Employees handing out hampers to underserved citizens
-        - title: Initiative C
-          subtitle: services
-          description: Maecenas nec pretium eros, sed gravida tortor. Cras suscipit a dolor vel vehicula.
-          image: /images/initiative-c.png
-          alt: Citizens providing their feedback to grassroots leaders
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
----
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+#favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-GoBiz.ico
+
+# Agency logo
+#agency-logo: /images/isomer-logo.svg
+agency-logo: /images/GoBizlogo.svg
+
+# Hero Banner
+#hero-title: Hero Banner
+#hero-title: Consider long-term strategies to take your business to the next level
+
+hero-title: Successful Businesses in Singapore
+hero-subtitle: Understanding business needs and allowing transactions with all government agencies in a simple, streamlined and speedy manner.
+hero-banner: /images/hero-banner.jpg
+
+#Call to Action Button
+#button:
+#  - text: Learn More
+#  - text: CTA
+#   - text: Login
+    #url: /who-we-are/
+#    url: https://www.gobusiness.gov.sg/
+#    external: true
+
+
+button:
+  - text: Login
+    url: https://www.gobusiness.gov.sg/
+
+key-highlights:
+#  - title: Highlight A
+#    description: Important highlight A is important
+#    url: https://google.com
+#    external: true
+#  - title: Highlight B
+#    description: Important highlight B is equally important
+#    url: https://yahoo.com
+#    external: true
+#  - title: Page A
+#    description: Page A is important too
+#    url: /page-A/
+  - title: GoBusiness Licensing
+    description: Freely select and apply for the licences you need with the Self-Service feature
+    url: https://licence1.business.gov.sg/web/frontier/home
+    external: true
+  - title: E-ADVISER
+    description: Learn about relevant Government assistance for your business needs
+    url: https://govtech-gb-staging.netlify.com/services/government-assistance/
+    external: true
+  - title: GEBIZ ALERTS
+    description: Be informed about the latest Government contracts
+    url: https://govtech-gb-staging.netlify.com/services/opportunities/gebiz-alerts/
+    external: true
+  - title: Starting Up Right
+    description: Understand the market and obligations of business operations
+    url: https://google.com
+    external: true
+
+#resources-title: Resources
+#resources-subtitle: Be in the know
+#resources-more-button: More Resources
+
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title: SERVICES
+programmes-subtitle: Supporting Businesses Better
+programmes-description: Access to our wide range of services across government agencies. Get connected now.
+programmes-more-button: Find out more
+#programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
+programmes-more-button-url: /services/services/
+
+# Recources Section
+resources-title: MEDIA
+resources-more-button: Read more
+resources-more-button-url: /media/

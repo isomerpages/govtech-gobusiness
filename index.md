@@ -1,6 +1,5 @@
 ---
-#layout: homepage
-layout: isomer-landing-page
+layout: homepage
 #title: Isomer Pages Demo
 title: GoBusiness Licensing
 permalink: /
