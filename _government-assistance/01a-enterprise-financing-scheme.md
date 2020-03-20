@@ -1,9 +1,12 @@
 ---
-title: Approved Contract Manufacturer and Trade Scheme
-permalink: /services/government-assistance/tax-incentives/approved-contract-manufacturer-and-trade-scheme/
-third_nav_title: "Tax Incentives"
+layout: leftnav-page-content
+title: Enterprise Financing Scheme
+permalink: /services/government-assistance/enterprise-financing-scheme/
+breadcrumb: Enterprise Financing Scheme
+collection_name: government-assistance
+second_nav_title: Loans
 ---
 
-## Approved Contract Manufacturer and Trade Scheme
+## Enterprise Financing Scheme
 
 Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is simply regular text with a few non-alphabetic characters thrown in, like `#` or `*`.
