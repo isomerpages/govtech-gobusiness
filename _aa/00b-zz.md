@@ -1,9 +1,10 @@
 ---
 layout: leftnav-page-content
-title: bb
-permalink: /aa/bb/
-breadcrumb: bb
+title: zz
+permalink: /aa/ww/zz/
+breadcrumb: zz
 collection_name: aa
+second_nav_title: ww
 ---
 
 #### **Basic concept about Isomer, Github, Markdown**
