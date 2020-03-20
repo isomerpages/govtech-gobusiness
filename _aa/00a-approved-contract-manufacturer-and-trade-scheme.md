@@ -1,17 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Approved Contract Manufacturer and Trade Scheme
-permalink: /aa/ww/approved-contract-manufacturer-and-trade-scheme/
+permalink: /aa/tax-incentives/approved-contract-manufacturer-and-trade-scheme/
 breadcrumb: Approved Contract Manufacturer and Trade Scheme
 collection_name: aa
-second_nav_title: ww
+second_nav_title: Tax Incentives
 ---
 
-#### **Basic concept about Isomer, Github, Markdown**
-* [Training Guide for Editor of Content](/files/Editor Isomer Training.pdf){:target="_blank"}
-* [Training Guide for Reviewer of Content](/files/Reviewer Training Guide.pdf){:target="_blank"}
-* [Training Guide for Administrator of Github Repository](/files/Administrator Isomer Training.pdf){:target="_blank"}
+## Approved Contract Manufacturer and Trade Scheme
 
-
-#### **How to setup your Github account**
-* [Github Account Setup Guide](/files/Github Account Setup Guide.pdf){:target="_blank"}
+Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is simply regular text with a few non-alphabetic characters thrown in, like `#` or `*`.
