@@ -31,7 +31,7 @@ hero-banner: /images/hero-banner.jpg
 
 
 button:
-  - text: Login
+  - text: Get recommendations from E-adviser
     url: https://www.gobusiness.gov.sg/
 
 key-highlights:
