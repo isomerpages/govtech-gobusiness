@@ -49,6 +49,8 @@ collections:
 #    output: true
 #  products-and-services:
 #    output: true
+  documentationa:
+    output: true
   documentation:
     output: true
   services:
