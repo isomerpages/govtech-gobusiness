@@ -1,4 +1,5 @@
 ---
+layout: simple-page
 title: Government Assistance
 permalink: /services/government-assistance/
 ---
