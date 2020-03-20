@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Approved Import GST Suspension Scheme
-permalink: /aa/tax-incentives/approved-import-gst-suspension-scheme/
+permalink: /government-assistance/tax-incentives/approved-import-gst-suspension-scheme/
 breadcrumb: Approved Import GST Suspension Scheme
-collection_name: aa
+collection_name: government-assistance
 second_nav_title: Tax Incentives
 ---
 
