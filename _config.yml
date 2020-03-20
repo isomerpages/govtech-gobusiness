@@ -49,7 +49,7 @@ collections:
 #    output: true
 #  products-and-services:
 #    output: true
-  documentationa:
+  aa:
     output: true
   documentation:
     output: true
