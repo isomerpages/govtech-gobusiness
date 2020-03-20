@@ -35,6 +35,3 @@ Receive and accept your Letter Of Offer when your grant is approved.
 Your company profile will be automatically populated with information already provided to ACRA.
 </ol>
 
-<h3>PRODUCTIVITY SOLUTIONS GRANT</h3>
-<p>The Productivity Solutions Grant (PSG) supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity.</p>
-
