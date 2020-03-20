@@ -41,3 +41,27 @@ collection_name: psg
       For <b>equipment</b> : Source for the equipment and get a quotation from the vendor.
   <li>Submit an application on the <a target="_blank" href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>. You will need to register for a CorpPass account to transact on the portal.</li>
 </ol>
+
+<h4>List of PSG</h4>
+<ul>
+<li><a href="#psg1">Accounting Management + Human Resource Management System (HRMS)</a></li>
+<li><a href="#psg2">Accounting Management and Sales Management System</a></li>
+<li><a href="#psg3">Accounting Management, CRM, Inventory Management and Sales Management System</a></li>
+</ul>
+
+<div id="psg1">
+  <img src="/images/sme_tech_solution_1.jpg" align="left" style="width:250px;height:160px;">
+  <a href="https://govtech-gb-staging.netlify.com/services/government-assistance/financial/hrms" style="text-decoration: none"><h4>Accounting Management + Human Resource Management System (HRMS)</h4></a>
+  <p>An integrated software solution which offers the stated core functions to address business needs.</p>
+</div>
+<div id="psg2">
+  <img src="/images/sme_tech_solution_2.jpg" align="left" style="width:250px;height:160px;">
+  <h4>Accounting Management and Sales Management System</h4>
+  <p>An integrated software solution which offers the stated core functions to address business needs.</p>
+</div>
+<div id="psg3">
+  <img src="/images/sme_tech_solution_3.jpg" align="left" style="width:250px;height:160px;">
+  <h4>Accounting Management, CRM, Inventory Management and Sales Management System</h4>
+  <p>An integrated software solution which offers the stated core functions to address business needs.</p>
+</div>
+
