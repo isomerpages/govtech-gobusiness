@@ -1,6 +1,6 @@
 ---
-layout: contact-us
+#layout: contact-us
 permalink: /contact-us/
-breadcrumb: Contact Us
+#breadcrumb: Contact Us
 title: Contact Us
 ---
