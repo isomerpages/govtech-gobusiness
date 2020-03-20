@@ -1,10 +1,6 @@
 ---
-layout: simple-page
-#layout: initiatives
 title: Government Assistance
 permalink: /services/government-assistance/
-breadcrumb: Government Assistance
-collection_name: services
 ---
 <h1><div class="has-text-centered has-text-weight-bold">Government Assistance</div></h1>
 
