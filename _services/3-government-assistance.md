@@ -21,7 +21,7 @@ Government assistance are divided into four main categories.</center>
 
 |![Tax Incentives](/images/programmes/products-and-services/tax.jpg)|![Loans](/images/programmes/products-and-services/loans.jpg)|![Grants](/images/programmes/products-and-services/grants.jpg)|![Toolkits](/images/programmes/products-and-services/toolkits.jpg)|
 
-|Tax Incentives | Loans | Grants | Toolkits | 
+|#### Tax Incentives | Loans | Grants | Toolkits | 
 |  :----:       | :----:| :----: | :----:   |
 |There are various types of tax incentives available for companies.| There are various types of loans available for companies.|There are various types of grants available for companies.|There are various types of toolkits available for companies.|
 |[Find out more](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)|[Find out more](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)|[Find out more](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)|[Find out more](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)|
