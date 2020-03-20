@@ -1,7 +1,10 @@
 ---
+layout: leftnav-page-content
 title: Markdown Usage
 permalink: /documentation/markdown/markdown-usage/
-third_nav_title: "Markdown"
+breadcrumb: Markdown Usage
+collection_name: documentation
+second_nav_title: Markdown
 ---
 
 ## What is Markdown?
@@ -62,6 +65,6 @@ Markdown uses the [kramdown](https://kramdown.gettalong.org/index.html) dialect 
 
 ### Videos
 
-To embed a video on your page, simply copy the iframe code from Youtube or Vimeo after you've uploaded your video, and paste it onto your page. 
+To embed a video on your page, simply copy the iframe code from Youtube or Vimeo after you've uploaded your video, and paste it onto your page.
 
 ![image of iframe code on youtube](/images/video.png)
