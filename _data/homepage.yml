@@ -46,10 +46,10 @@ key-highlights:
 #  - title: Page A
 #    description: Page A is important too
 #    url: /page-A/
-#  - title: GoBusiness Licensing
-#    description: Freely select and apply for the licences you need with the Self-Service feature
-#    url: https://licence1.business.gov.sg/web/frontier/home
-#    external: true
+  - title: GoBusiness Licensing
+    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
+    url: https://www.gobusiness.gov.sg/licences
+    external: true
   - title: E-ADVISER
     description: Learn about relevant Government assistance for your business needs
     url: https://govtech-gb-staging.netlify.com/services/government-assistance/
