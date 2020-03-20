@@ -6,8 +6,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-#remote_theme: isomerpages/isomerpages-template
-remote_theme: isomerpages/isomerpages-template@next-gen-ally-fixes
+remote_theme: isomerpages/isomerpages-template
+#remote_theme: isomerpages/isomerpages-template@next-gen-ally-fixes
 safe: false
 
 plugins:
