@@ -3,7 +3,6 @@ layout: simple-page
 title: Government Assistance
 permalink: /services/government-assistance/
 ---
-<h1><div class="has-text-centered has-text-weight-bold">Government Assistance</div></h1>
 
 [![Government Assistance](/images/programmes/products-and-services/GABanner.jpg)](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)
 
