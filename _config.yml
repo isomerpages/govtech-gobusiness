@@ -1,8 +1,38 @@
 title: GoBusiness
-title-abbreviated: GoBusiness
+#title-abbreviated: GoBusiness
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+collections:
+#  list-of-e-services:
+#    output: true
+#  products-and-services:
+#    output: true
+  documentation:
+    output: true
+  services:
+    output: true
+  opportunities:
+    output: true
+  psg:
+    output: true
+  government-assistance:
+    output: true
+  guided-journeys:
+    output: true
+  resources:
+    output: true
+  financial:
+    output: true
+  business-guides:
+    output: true
+  who-we-are:
+    output: true
+
+favicon: /images/favicon-GoBiz.ico
+
 description: >- # this means to ignore newlines until "baseurl:"
   Description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 # Build settings
 markdown: kramdown
@@ -48,28 +78,3 @@ defaults:
       path: ""
     values:
       layout: "page"
-collections:
-#  list-of-e-services:
-#    output: true
-#  products-and-services:
-#    output: true
-  documentation:
-    output: true
-  services:
-    output: true
-  opportunities:
-    output: true
-  psg:
-    output: true
-  government-assistance:
-    output: true
-  guided-journeys:
-    output: true
-  resources:
-    output: true
-  financial:
-    output: true
-  business-guides:
-    output: true
-  who-we-are:
-    output: true
