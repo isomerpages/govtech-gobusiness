@@ -1,9 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Enterprise Financing Scheme
-permalink: /government-assistance/enterprise-financing-scheme/
+permalink: /government-assistance/loans/enterprise-financing-scheme/
 breadcrumb: Enterprise Financing Scheme
 collection_name: government-assistance
+second_nav_title: Loans
 ---
 
 ## Enterprise Financing Scheme
