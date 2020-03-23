@@ -15,4 +15,4 @@ The ACMT Scheme is a scheme designed to relieve businesses (e.g. local contract 
 
 *An overseas client refers to an overseas customer who is not GST-registered or if he is GST-registered, the registration is as a pay-only person under the OVR regime.
 
-[Find out more](https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Contract-Manufacturer-and-Trader--ACMT--Scheme/)
+<a href="https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Contract-Manufacturer-and-Trader--ACMT--Scheme/" target="_blank">Find out more</a>
