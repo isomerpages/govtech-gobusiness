@@ -7,6 +7,12 @@ collection_name: government-assistance
 second_nav_title: Tax Incentives
 ---
 
-## Approved Contract Manufacturer and Trade Scheme
+## Approved Contract Manufacturer and Trade (ACMT) Scheme
 
-Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is simply regular text with a few non-alphabetic characters thrown in, like `#` or `*`.
+Contract manufacturers and traders under this scheme are relieved of the need to account for GST on value added activities supplied to non-GST registered overseas customers or overseas persons who are registered under the Overseas Vendor Registration (OVR) regime as a pay-only person.
+
+The ACMT Scheme is a scheme designed to relieve businesses (e.g. local contract manufacturers) that have substantial business with overseas clients* of the need to account for GST on value added activities performed on the goods of such clients.
+
+*An overseas client refers to an overseas customer who is not GST-registered or if he is GST-registered, the registration is as a pay-only person under the OVR regime.
+
+[Find out more](https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Contract-Manufacturer-and-Trader--ACMT--Scheme/)
