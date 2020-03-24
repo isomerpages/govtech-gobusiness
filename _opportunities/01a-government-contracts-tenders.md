@@ -1,9 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Getting Started
+title: Government Contracts & Tenders
 permalink: /services/opportunities/government-contracts-tenders/
 breadcrumb: Government Contracts & Tenders
 collection_name: opportunities
+second_nav_title: Getting Started
 ---
 Overview of Government Contracts and Tenders
 Types of Goods & Services in Contracts & Tenders
