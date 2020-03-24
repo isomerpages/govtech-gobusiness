@@ -4,7 +4,7 @@ title: The Procurement Process
 permalink: /opportunities/procurement-process/
 breadcrumb: The Procurement Process
 collection_name: opportunities
-second_nav_title: Getting Started
+second_nav_title: Government Contracts & Tenders
 ---
 
 Submitting Quotations
