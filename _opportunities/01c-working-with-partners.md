@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Working with Partners
-permalink: /services/opportunities/working-with-partners/
+permalink: /opportunities/working-with-partners/
 breadcrumb: Working with Partners
 collection_name: opportunities
 second_nav_title: Getting Started
