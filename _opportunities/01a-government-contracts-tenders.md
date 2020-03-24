@@ -6,68 +6,75 @@ breadcrumb: Government Contracts & Tenders
 collection_name: opportunities
 second_nav_title: Government Contracts & Tenders
 ---
-Overview of Government Contracts and Tenders
-Types of Goods & Services in Contracts & Tenders
-A.   Goods
-All materials, manufactured items, consumables and non-consumables, e.g. computers, furniture, machinery, office equipment and supplies, etc.
 
+![Govt Contract & Tenders](/images/programmes/products-and-services/govt-contracts&tenders.jpg)
 
-B.   Services
-Cleaning, maintenance, repairing, overhauling and testing of goods.
-Consultancy, publishing, advertising, training, etc.
+## Overview of Government Contracts and Tenders
 
+### Types of Goods & Services in Contracts & Tenders
 
-C.   Construction Services
-Renovation, maintenance works and building works on buildings.
-Installation, maintenance of electrical and mechanical facilities in buildings.
+#### A. Goods
 
+* All materials, manufactured items, consumables and non-consumables, e.g. computers, furniture, machinery, office equipment and supplies, etc.
 
-Who Is In Charge of Purchasing
-Each Government ministry, statutory board or department is in charge of purchasing its own goods and services.
-The Defence Science and Technology Agency (DSTA), and Government Technology Agency (GOVTECH) purchase goods and services that are commonly used by the entire public sector. For instance, paper, cleaning services, IT security services, courier services, etc.
+#### B. Services
 
+* Cleaning, maintenance, repairing, overhauling and testing of goods.
+* Consultancy, publishing, advertising, training, etc.
 
-How Does the Government Buy
+#### C. Construction Services
+
+* Renovation, maintenance works and building works on buildings.
+* Installation, maintenance of electrical and mechanical facilities in buildings.
+
+### Who Is In Charge of Purchasing
+
+* Each Government ministry, statutory board or department is in charge of purchasing its own goods and services.
+* The Defence Science and Technology Agency (DSTA), and Government Technology Agency (GOVTECH) purchase goods and services that are commonly used by the entire public sector. For instance, paper, cleaning services, IT security services, courier services, etc.
+
+### How Does the Government Buy
 The Government buys products and services through 3 procedures, based on the value of the contract.
 
-A.   Small Value Purchases (Up to S$6,000)
-The Government buys directly from suitable suppliers or “off the shelf” provided the prices assessed reflect fair market value.
-Usually, the Government agency which requires the product or service will ask around for quotations and make a direct purchase.
-These small value purchases are not publicised on Government Electronic Business (GeBIZ) - the Government's procurement portal.
-Sourcing methods include:
-Verbal or written quotes
-Off the shelf purchase
-GeBIZ Mall Catalogues
+#### A. Small Value Purchases (Up to S$6,000)
+* The Government buys directly from suitable suppliers or “off the shelf” provided the prices assessed reflect fair market value.
+* Usually, the Government agency which requires the product or service will ask around for quotations and make a direct purchase.
+* These small value purchases are not publicised on Government Electronic Business (GeBIZ) - the Government's procurement portal.
+* Sourcing methods include:
+  + Verbal or written quotes
+  + Off the shelf purchase
+  + GeBIZ Mall Catalogues
 
+#### B. Invitation to Quote (S$6,001 up to S$90,000)
 
-B.   Invitation to Quote (S$6,001 up to S$90,000)
-The Government publishes a quote online at GeBIZ inviting suppliers to quote.
-All businesses that wish to supply can submit a quote on GeBIZ.
-In order to submit a quote, you must first register as a Government Supplier (GeBIZ Trading Partner) on GeBIZ.
-Sourcing methods include:
-Invitation to Quote (ITQ)
-Request for Quotation (RFQ)
-Period Contracts
-Framework Agreements
+* The Government publishes a quote online at GeBIZ inviting suppliers to quote.
+* All businesses that wish to supply can submit a quote on GeBIZ.
+* In order to submit a quote, you must first register as a Government Supplier (GeBIZ Trading Partner) on GeBIZ.
+* Sourcing methods include:
+  + Invitation to Quote (ITQ)
+  + Request for Quotation (RFQ)
+  + Period Contracts
+  + Framework Agreements
 
+#### C. Invitation to Tender (Above S$90,000)
 
-C.   Invitation to Tender (Above S$90,000)
-To tender for a project, you must also be a GeBIZ Trading Partner. There are 3 types of tenders:
-Open
-All interested parties can bid. Tenders are posted on GeBIZ.
-Selective
-A pre-qualification exercise is held to shortlist applicants who are then invited to bid. Tenders are posted on GeBIZ.
+* To tender for a project, you must also be a GeBIZ Trading Partner. There are 3 types of tenders:
+  + Open
+  All interested parties can bid. Tenders are posted on GeBIZ.
+  + Selective
+  A pre-qualification exercise is held to shortlist applicants who are then invited to bid. Tenders are posted on GeBIZ.
 Limited
 These tenders are by invitation only as they concern national security or are impractical for open tenders.
 
-Looking for Contracts and Tenders
-On GeBIZ
-View available Government quotations and tenders online at Government Electronic Business (GeBIZ) - the Government's procurement portal.
-You can also receive daily alerts on the latest Government procurement opportunities from GeBIZ Alerts by signing up with your preferred email and selecting areas of interest.
-You cannot submit a quote or bid unless you are registered with GeBIZ as a Trading Partner.
-GeBIZ website lists:
-Invitations-to-Tender (Tender Notices) - Government contracts above S$90,000.
-Invitations-to-Quote (Quotation Notices) - Government contract up to S$90,000.
+## Looking for Contracts and Tenders
+
+### On GeBIZ
+
+* View available Government quotations and tenders online at Government Electronic Business (GeBIZ) - the Government's procurement portal.
+* You can also receive daily alerts on the latest Government procurement opportunities from GeBIZ Alerts by signing up with your preferred email and selecting areas of interest.
+* You cannot submit a quote or bid unless you are registered with GeBIZ as a Trading Partner.
+* GeBIZ website lists:
+  + Invitations-to-Tender (Tender Notices) - Government contracts above S$90,000.
+  + Invitations-to-Quote (Quotation Notices) - Government contract up to S$90,000.
 
 
 At Industry Briefings
