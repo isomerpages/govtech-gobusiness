@@ -6,7 +6,7 @@ breadcrumb: GeBIZ Alerts
 collection_name: opportunities
 ---
 
-[GeBIZ Alerts](/images/programmes/products-and-services/gebiz-alerts.jpg)
+![GeBIZ Alerts](/images/programmes/products-and-services/gebiz-alerts.jpg)
 
 Give your business that extra edge by subscribing to GeBIZ Alerts. Just sign in to GoBusiness Portal with your CorpPass to receive alerts of Government procurement opportunities posted on the Government Electronic Business (GeBIZ) portal. It’s easy, fast and FREE.
 
