@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: GeBIZ Alerts
-permalink: /services/opportunities/gebiz-alerts/
+permalink: /opportunities/gebiz-alerts/
 breadcrumb: GeBIZ Alerts
 collection_name: opportunities
 ---
