@@ -4,7 +4,7 @@ title: Working with Partners
 permalink: /opportunities/working-with-partners/
 breadcrumb: Working with Partners
 collection_name: opportunities
-second_nav_title: Getting Started
+second_nav_title: Government Contracts & Tenders
 ---
 
 When to Partner with Other Companies
