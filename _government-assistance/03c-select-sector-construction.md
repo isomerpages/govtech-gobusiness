@@ -12,7 +12,7 @@ second_nav_title: Select Sector
 ### Grants
 
 <details>
-<summary>Grants</summary>
+<summary><h3>Grants</h3></summary>
 
 + <a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/2-stage-innovation-grant" target="_blank">2-Stage Innovation Grant</a>
     + The 2-Stage Innovation Grant (iGrant) is set up to encourage and support the building and construction industry to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deployment in a fast moving Built Environment.
