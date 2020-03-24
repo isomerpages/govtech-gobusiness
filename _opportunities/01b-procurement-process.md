@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: The Procurement Process
-permalink: /services/opportunities/procurement-process/
+permalink: /opportunities/procurement-process/
 breadcrumb: The Procurement Process
 collection_name: opportunities
 second_nav_title: Getting Started
