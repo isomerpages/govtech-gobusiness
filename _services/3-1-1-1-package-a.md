@@ -32,7 +32,6 @@ e) must not have:
 <p>≥30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR</p>
 
 ### Quotation
-[Click here for the PDF copy of the quotation](/images/psg-pdf/EPOS-EnhancedPOSVersion2-Package1.pdf)
 
 <a href="/images/psg-pdf/EPOS-EnhancedPOSVersion2-Package1.pdf" target="_blank">Click here for the PDF copy of the quotation</a>
 
