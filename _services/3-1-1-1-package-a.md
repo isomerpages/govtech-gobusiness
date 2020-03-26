@@ -31,6 +31,9 @@ e) must not have:
 <h3>Things to Note</h3>
 <p>≥30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR</p>
 
+### Quotation
+[Click here for the PDF copy of the quotation](/images/psg-pdf/EPOS-EnhancedPOSVersion2-Package1.pdf)
+
 <h3>Contact Information</h3>
 Net Solutions Pte Ltd <br>
 www.netsolutions.sg <br>
