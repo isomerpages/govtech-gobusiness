@@ -34,6 +34,8 @@ e) must not have:
 ### Quotation
 [Click here for the PDF copy of the quotation](/images/psg-pdf/EPOS-EnhancedPOSVersion2-Package1.pdf)
 
+<a href="/images/psg-pdf/EPOS-EnhancedPOSVersion2-Package1.pdf" target="_blank">Click here for the PDF copy of the quotation</a>
+
 <h3>Contact Information</h3>
 Net Solutions Pte Ltd <br>
 www.netsolutions.sg <br>
