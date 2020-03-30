@@ -4,15 +4,15 @@
 #                                #
 ##################################
 
-- title: Covid Info
-  url: /covidinfo/
+- title: Government Assistance
+  url: /government-assistance/
   sub-links:
-  - title: Latest COVID-19 info
-    url: /covidinfo/
-  - title: Medical advice
-    url: /covidinfo/
-  - title: Help for businesses & workers
-    url: /covidinfo/
+  - title: E-Adviser 
+    url: /government-assistance/
+  - title: GeBIZ Alerts
+    url: /opportunities/gebiz-alerts/
+  - title: Productivity Solutions Grant
+    url: /government-assistance/productivity-solutions-grant/
 
 #- title: Opportunities
 #  url: /opportunities/gebiz-alerts/
