@@ -2,7 +2,7 @@ title: Title
 title-abbreviated: Title
 description: >- # this means to ignore newlines until "baseurl:"
   Description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.covid.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
