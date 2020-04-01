@@ -33,9 +33,9 @@ hero-banner: /images/hero-banner.jpg
 #    external: true
 
 
-#button:
-#  - text: Get started with E-adviser
-#    url: https://form.gov.sg/#!/5e8147f514171f0011b34f90
+button:
+  - text: Get started with E-adviser
+    url: https://form.gov.sg/#!/5e8147f514171f0011b34f90
 
 key-highlights:
 #  - title: Highlight A
