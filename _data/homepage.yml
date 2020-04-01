@@ -33,9 +33,9 @@ hero-banner: /images/hero-banner.jpg
 #    external: true
 
 
-button:
-  - text: Get started with E-adviser
-    url: https://form.gov.sg/#!/5e8147f514171f0011b34f90
+#button:
+#  - text: Get started with E-adviser
+#    url: https://form.gov.sg/#!/5e8147f514171f0011b34f90
 
 key-highlights:
 #  - title: Highlight A
@@ -71,15 +71,15 @@ key-highlights:
 #    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
 #    url: https://www.gobusiness.gov.sg/licences
 #    external: true
-  - title: Medical and Business-related advisories
+  - title: Medical and Business-related Advisories
 #    description: Learn about relevant Government assistance for your business needs
 #    url: https://govtech-gb-staging.netlify.com/government-assistance/
 #    external: true
-  - title: Financial & manpower support schemes
+  - title: Financial and Manpower Support Schemes
 #    description: Be informed about the latest Government contracts
 #    url: https://govtech-gb-staging.netlify.com/opportunities/gebiz-alerts/
 #    external: true
-  - title: Digital solutions for businesses
+  - title: Digital Solutions for Businesses
 #    description: PSG supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity
 #    url: https://govtech-gb-staging.netlify.com/government-assistance/productivity-solutions-grant/
 #    external: true
