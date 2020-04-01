@@ -50,22 +50,22 @@ collections:
 #  products-and-services:
 #    output: true
   documentation:
-    output: true
+    output: false
   services:
-    output: true
+    output: false
   opportunities:
-    output: true
+    output: false
   psg:
-    output: true
+    output: false
   government-assistance:
-    output: true
+    output: false
   guided-journeys:
-    output: true
+    output: false
   resources:
-    output: true
+    output: false
   financial:
-    output: true
+    output: false
   business-guides:
-    output: true
+    output: false
   who-we-are:
-    output: true
+    output: false
