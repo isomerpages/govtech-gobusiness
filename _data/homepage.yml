@@ -35,7 +35,7 @@ hero-banner: /images/hero-banner.jpg
 
 button:
   - text: Click Here
-    url: https://#
+    url: https://govtech-gb-staging.netlify.com/
 
 key-highlights:
 #  - title: Highlight A
