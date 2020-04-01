@@ -18,8 +18,7 @@ agency-logo: /images/Gobiz_COVID_logo-01.svg
 #hero-title: Hero Banner
 #hero-title: Consider long-term strategies to take your business to the next level
 
-#hero-title: Successful Businesses in Singapore
-hero-title: Help Businesses in Singapore
+hero-title: Successful Businesses in Singapore
 hero-subtitle: Understanding business needs and allowing transactions with all government agencies in a simple, streamlined and speedy manner.
 hero-banner: /images/hero-banner.jpg
 
@@ -67,22 +66,10 @@ key-highlights:
 #    url: https://govtech-gb-staging.netlify.com/government-assistance/productivity-solutions-grant/
 #    external: true
 #####
-  - title: Latest COVID-19 Info
-#    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
-#    url: https://www.gobusiness.gov.sg/licences
-#    external: true
-#  - title: Medical and Business-Related Advisories
-#    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
-#    url: https://www.gobusiness.gov.sg/licences
-#    external: true
-#  - title: Financial and Manpower Support Schemes
-#    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
-#    url: https://www.gobusiness.gov.sg/licences
-#    external: true
-#  - title: Digital Solutions for Businesses
-#    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
-#    url: https://www.gobusiness.gov.sg/licences
-#    external: true
+  - title: Medical and Business-Related Advisories
+    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
+    url: https://www.gobusiness.gov.sg/licences
+    external: true
 
 #resources-title: Resources
 #resources-subtitle: Be in the know
