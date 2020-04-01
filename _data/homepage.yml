@@ -90,12 +90,12 @@ key-highlights:
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
-programmes-title: SERVICES
-programmes-subtitle: Supporting Businesses Better
-programmes-description: Access to our wide range of services across government agencies. Get connected now.
-programmes-more-button: Find out more
+#programmes-title: SERVICES
+#programmes-subtitle: Supporting Businesses Better
+#programmes-description: Access to our wide range of services across government agencies. Get connected now.
+#programmes-more-button: Find out more
 #programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
-programmes-more-button-url: /services/services/
+#programmes-more-button-url: /services/services/
 
 # Recources Section
 # resources-title: MEDIA
