@@ -5,12 +5,17 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #6031b6;
-$secondary: #4372d6;
+//$primary: #6031b6;
+$primary: #00838f;
+$secondary: #00838f;
+//$secondary: #4372d6;
+//$secondary: #313840;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #49759a;
-$media-color-two: #744d9f;
+//$media-color-one: #49759a;
+//$media-color-two: #744d9f;
+$media-color-one: #00838f;
+$media-color-two: #00838f;
 $media-color-three: #00838f;
 $media-color-four: #00838f;
 $media-color-five: #00838f;
@@ -221,14 +226,18 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Homepage
 #key-highlights{
-	background-color: $primary;
+	//background-color: $primary;
+	background-color: #2664C4;
 	.col {
-		border-left:1px solid darken($primary,10%);
+		//border-left:1px solid darken($primary,10%);
+		border-left:1px solid darken(#2664C4,10%);
 		@include touch(){
-			border-top:1px solid darken($primary,10%);
+			//border-top:1px solid darken($primary,10%);
+			border-left:1px solid darken(#2664C4,10%);
 		}
 		&:hover{
-			background-color: darken($primary,10%);
+			//background-color: darken($primary,10%);
+			background-color: darken(#2664C4,10%);
 		}
 	}
 }
@@ -240,39 +249,47 @@ $desktop: 960px + (2 * $gap) !default;
       a{
         &.active{
           @include touch(){
-            border-bottom:2px solid $secondary;
+            //border-bottom:2px solid $secondary;
+						border-bottom:2px solid #00838f;
           }
         }
       }
     }
   }
   .navbar-link:hover:after {
-    border-bottom: 1px solid $secondary;
-    border-left: 1px solid $secondary;
+    //border-bottom: 1px solid $secondary;
+    //border-left: 1px solid $secondary;
+		border-bottom: 1px solid #00838f;
+    border-left: 1px solid #00838f;
   }
 
   .navbar-item{
     .sub-link.is-active{
-      color:$secondary;
+      //color:$secondary;
+			color:#00838f;
     }
 
     .selector{
       &.active{
-        background-color:$secondary;
+        //background-color:$secondary;
+				background-color:#00838f;
       }
     }
     &.active{
       @include desktop(){
-        border-bottom:1px solid $secondary;
+        //border-bottom:1px solid $secondary;
+				border-bottom:1px solid #00838f;
       }
     }
   }
 .navbar-item:hover {
   a {
-    color:$secondary;
+    //color:$secondary;
+		color:#00838f;
   }
   .selector {
-      background-color:$secondary;
+      //background-color:$secondary;
+			background-color:#00838f;
     }
   }
 }
