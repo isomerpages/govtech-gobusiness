@@ -66,7 +66,20 @@ key-highlights:
 #    url: https://govtech-gb-staging.netlify.com/government-assistance/productivity-solutions-grant/
 #    external: true
 #####
+  - title: Latest COVID-19 Info
+#    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
+#    url: https://www.gobusiness.gov.sg/licences
+    url: #
+#    external: true
   - title: Medical and Business-Related Advisories
+#    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
+#    url: https://www.gobusiness.gov.sg/licences
+#    external: true
+  - title: Financial and Manpower Support Schemes
+#    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
+#    url: https://www.gobusiness.gov.sg/licences
+#    external: true
+  - title: Digital Solutions for Businesses
 #    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
 #    url: https://www.gobusiness.gov.sg/licences
 #    external: true
