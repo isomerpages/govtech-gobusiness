@@ -6,13 +6,13 @@
 
 logo: /images/Gobiz_COVID_logo-01.svg
 
-#links:
-#  - title: Get started
-#    url: /get-started/
-#  - title: Documentation
-#    collection: documentation
-#  - title: FAQ
-#    url: /faq/
+links:
+  - title: List of Essential Services
+    url: /essentialservices/
+  - title: FAQ
+    url: /faq/
+  - title: Contact Us
+    url: /contact-us/
 #  - title: Isomer v2
 #    url: "https://v2.isomer.gov.sg"
 
