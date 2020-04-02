@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 31 December 2019
         subtitle: Join us to ring in the New Year
-        background: /images/HeroBanner2.gif
+        background: /images/hero-banner.jpg
         button: What's On
         url: https://www.facebook.com/marinabaysg/
 ---
