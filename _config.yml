@@ -1,17 +1,18 @@
-title: GoBusiness48
+title: GoBusiness49
 url: "https://covid.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
+logo: /images/Gobiz_COVID_logo-01.svg
+favicon: /images/favicon-GoBiz.ico
 collections:
   documentation:
     output: true
+google_analytics: UA-162519866-1
 
-favicon: /images/favicon-GoBiz.ico
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
 permalink: none
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 include: [_redirects]
 defaults:
