@@ -4,6 +4,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Description
 url: "https://covid.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
+google_analytics: UA-162519866-1
+
 # Build settings
 markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
@@ -69,5 +71,3 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 #    output: false
 #  who-we-are:
 #    output: false
-
-google_analytics: UA-162519866-1
