@@ -1,12 +1,8 @@
+faq: /faq/
 contact_us: /contact-us/
-faq: /faq/about-mbsc
-social_media:
-    facebook: https://www.facebook.com/marinabaysg/
-    twitter:
-    youtube:
-    instagram: https://www.instagram.com/marinabaysg/?hl=en
-    linkedin:
+copyright_agency: GoBusiness
+privacy_policy: /privacy/
+terms_of_use: /terms-of-use/
 
-links:
- - title: Rate this website
-   url: https://form.gov.sg/5dbba9a179b19800124fea22
+navlinks:
+    - title: 
