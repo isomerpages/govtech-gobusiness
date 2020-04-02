@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: Marina Bay Singapore Countdown
-description: A Bay of Hopes and Dreams
+title: GoBusiness
+description: For Singapore Businesses
 image: /images/
 permalink: /
-notification: Click <a href="https://www.facebook.com/marinabaysg/">here</a> for traffic updates. 
+notification:  
 sections:
     - hero:
         title: 31 December 2019
