@@ -4,6 +4,32 @@ title: GoBusiness
 #  Description
 url: "https://covid.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
+collections:
+  list-of-e-services:
+    output: false
+  products-and-services:
+    output: false
+  documentation:
+    output: false
+  services:
+    output: false
+  opportunities:
+    output: false
+  psg:
+    output: false
+  government-assistance:
+    output: false
+  guided-journeys:
+    output: false
+  resources:
+    output: false
+  financial:
+    output: false
+  business-guides:
+    output: false
+  who-we-are:
+    output: false
+
 google_analytics: UA-162519866-1
 
 # Build settings
@@ -45,29 +71,3 @@ custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
-#collections:
-#  list-of-e-services:
-#    output: true
-#  products-and-services:
-#    output: true
-#  documentation:
-#    output: false
-#  services:
-#    output: false
-#  opportunities:
-#    output: false
-#  psg:
-#    output: false
-#  government-assistance:
-#    output: false
-#  guided-journeys:
-#    output: false
-#  resources:
-#    output: false
-#  financial:
-#    output: false
-#  business-guides:
-#    output: false
-#  who-we-are:
-#    output: false
