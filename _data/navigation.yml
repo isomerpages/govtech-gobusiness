@@ -4,17 +4,17 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/Gobiz_COVID_logo-01.svg
 
-links:
-  - title: Get started
-    url: /get-started/
-  - title: Documentation
-    collection: documentation
-  - title: FAQ
-    url: /faq/
-  - title: Isomer v2
-    url: "https://v2.isomer.gov.sg"
+#links:
+#  - title: Get started
+#    url: /get-started/
+#  - title: Documentation
+#    collection: documentation
+#  - title: FAQ
+#    url: /faq/
+#  - title: Isomer v2
+#    url: "https://v2.isomer.gov.sg"
 
 
 #- title: List of Essential Services
