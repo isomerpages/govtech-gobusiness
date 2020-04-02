@@ -4,10 +4,21 @@
 #                                #
 ##################################
 
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Get started
+    url: /get-started/
+  - title: Documentation
+    collection: documentation
+  - title: FAQ
+    url: /faq/
+  - title: Isomer v2
+    url: "https://v2.isomer.gov.sg"
 
 
-- title: List of Essential Services
-  url: /essentialservices/
+#- title: List of Essential Services
+#  url: /essentialservices/
 
 #- title: Opportunities
 #  url: /opportunities/gebiz-alerts/
@@ -103,11 +114,11 @@
 #  - title: Mission
 #    url: /who-we-are/mission/
 
-- title: FAQ
-  url: /faq/
+#- title: FAQ
+#  url: /faq/
 ###
-- title: Contact Us
-  url: /contact-us/
+#- title: Contact Us
+#  url: /contact-us/
 
 #- title: Contact Us
 #  url: /contact-us/
