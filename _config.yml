@@ -1,5 +1,5 @@
-title: GoBusiness
-title-abbreviated: GoBusiness
+title: GoBusiness1
+title-abbreviated: GoBusiness11
 description: >- # this means to ignore newlines until "baseurl:"
   Description
 url: "https://covid.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
@@ -22,9 +22,9 @@ breadcrumbs:
     image: false # Show image or title text
 
 # Resource Room and Pagination
-resources_name: "Media"
-paginate: 12
-paginate_path: "/Media/page:num"
+#resources_name: "Media"
+#paginate: 12
+#paginate_path: "/Media/page:num"
 
 # Homepage sections
 homepage_hero_i_want_to: false
@@ -33,7 +33,7 @@ homepage_resources: false
 
 # Feedback Form URL
 feedback_form_url: false
-contact_us: false
+contactus: false
 # FAQ URL
 #faq_url: "/faq/"
 #faq_url_external: false
@@ -44,7 +44,7 @@ custom_print_css_path: "/assets/css/print.css"
 
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
-collections:
+#collections:
 #  list-of-e-services:
 #    output: true
 #  products-and-services:
