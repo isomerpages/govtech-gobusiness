@@ -2,6 +2,7 @@
 layout: homepage
 title: GoBusiness
 description: The Ministry of ABC is the ministry in charge of XYZ
+image: /images/
 permalink: /
 notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
 sections:
