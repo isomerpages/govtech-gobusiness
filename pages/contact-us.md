@@ -1,6 +1,8 @@
 ---
-layout: contact-us
 permalink: /contact-us/
-breadcrumb: Contact Us
 title: Contact Us
 ---
+
+### **GoBusiness**
+
+We will answer your questions and help you get started.
