@@ -4,15 +4,8 @@
 #                                #
 ##################################
 
-- title: Covid Info
-  url: /covidinfo/
-  sub-links:
-  - title: Latest COVID-19 info
-    url: /covidinfo/
-  - title: Medical advice
-    url: /covidinfo/
-  - title: Help for businesses & workers
-    url: /covidinfo/
+- title: FAQ
+  url: /faq/
 
 #- title: Opportunities
 #  url: /opportunities/gebiz-alerts/
