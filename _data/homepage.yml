@@ -33,9 +33,9 @@ hero-banner: /images/hero-banner.jpg
 #    external: true
 
 
-button:
-  - text: Click Here
-    url: https://govtech-gb-staging.netlify.com/
+#button:
+#  - text: Click Here
+#    url: https://govtech-gb-staging.netlify.com/
 
 #key-highlights:
 #  - title: Highlight A
