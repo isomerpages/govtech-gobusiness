@@ -1,4 +1,4 @@
-title: GoBusiness27
+title: GoBusiness28
 title-abbreviated: GoBusiness
 description: >- # this means to ignore newlines until "baseurl:"
   Description
@@ -8,8 +8,8 @@ url: "https://covid.gobusiness.gov.sg" # the base hostname & protocol for your s
 
 # Build settings
 markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
-#remote_theme: isomerpages/isomerpages-template@next-gen-ally-fixes
+#remote_theme: isomerpages/isomerpages-template
+remote_theme: isomerpages/isomerpages-template@next-gen-ally-fixes
 safe: false
 
 plugins:
