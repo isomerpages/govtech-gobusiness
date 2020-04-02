@@ -1,4 +1,4 @@
-title: GoBusiness26
+title: GoBusiness27
 title-abbreviated: GoBusiness
 description: >- # this means to ignore newlines until "baseurl:"
   Description
@@ -33,7 +33,12 @@ homepage_hero_i_want_to: false
 homepage_programmes: false
 homepage_resources: false
 
+# Feedback Form URL
+feedback_form_url: false
 
+# FAQ URL
+faq_url: /faq/
+faq_url_external: false
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
