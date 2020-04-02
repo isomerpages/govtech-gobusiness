@@ -67,19 +67,19 @@ key-highlights:
 #    url: https://govtech-gb-staging.netlify.com/government-assistance/productivity-solutions-grant/
 #    external: true
 #####
-  - title: Latest COVID-19 Info
+#  - title: Latest COVID-19 Info
 #    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
 #    url: https://www.gobusiness.gov.sg/licences
 #    external: true
-  - title: Medical and Business-related Advisories
+#  - title: Medical and Business-related Advisories
 #    description: Learn about relevant Government assistance for your business needs
 #    url: https://govtech-gb-staging.netlify.com/government-assistance/
 #    external: true
-  - title: Financial and Manpower Support Schemes
+#  - title: Financial and Manpower Support Schemes
 #    description: Be informed about the latest Government contracts
 #    url: https://govtech-gb-staging.netlify.com/opportunities/gebiz-alerts/
 #    external: true
-  - title: Digital Solutions for Businesses
+#  - title: Digital Solutions for Businesses
 #    description: PSG supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity
 #    url: https://govtech-gb-staging.netlify.com/government-assistance/productivity-solutions-grant/
 #    external: true
