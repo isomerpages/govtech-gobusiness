@@ -1,47 +1,17 @@
 title: GoBusiness
-#title-abbreviated: GoBusiness
-#description: >- # this means to ignore newlines until "baseurl:"
-#  Description
+title-abbreviated: GoBusiness
 url: "https://covid.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
-collections:
-  list-of-e-services:
-    output: false
-  products-and-services:
-    output: false
-  documentation:
-    output: false
-  services:
-    output: false
-  opportunities:
-    output: false
-  psg:
-    output: false
-  government-assistance:
-    output: false
-  guided-journeys:
-    output: false
-  resources:
-    output: false
-  financial:
-    output: false
-  business-guides:
-    output: false
-  who-we-are:
-    output: false
-
-google_analytics: UA-162519866-1
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
-#remote_theme: isomerpages/isomerpages-template@next-gen-ally-fixes
-safe: false
 
 plugins:
   - jekyll-feed
   - jekyll-assets
+  - jekyll-paginate
   - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+remote_theme: isomerpages/isomerpages-template
+safe: false
 
 # Breadcrumbs
 breadcrumbs:
@@ -49,25 +19,31 @@ breadcrumbs:
     hide: false  # show breadcrumbs on root/home page
     image: false # Show image or title text
 
-# Resource Room and Pagination
-#resources_name: "Media"
-#paginate: 12
-#paginate_path: "/Media/page:num"
+collections:
+  who-we-are:
+    output: false
 
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_programmes: false
-homepage_resources: false
+# Resource Room and Pagination
+resources_name: "media"
+paginate: 12
+paginate_path: "/media/page:num"
 
 # Feedback Form URL
 feedback_form_url: false
 
-# FAQ URL
-#faq_url: "/faq/"
-#faq_url_external: false
+# Homepage sections
+homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights
+homepage_programmes: false
+homepage_resources: false
+homepage_careers: false
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
+#custom_css_path: "/do-not-touch/theme-colors/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
+# Isomer recommender system - only works for simple-page, leftnav-page, and post
+recommender: true
+
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
+include: [_redirects]
