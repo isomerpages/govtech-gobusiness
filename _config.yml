@@ -34,8 +34,6 @@ homepage_resources: false
 # Feedback Form URL
 feedback_form_url: false
 
-google_analytics: UA-162519866-1
-
 # FAQ URL
 #faq_url: "/faq/"
 #faq_url_external: false
@@ -71,3 +69,5 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 #    output: false
 #  who-we-are:
 #    output: false
+
+google_analytics: UA-162519866-1
