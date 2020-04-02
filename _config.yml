@@ -1,12 +1,12 @@
-title: GoBusiness60
+title: 
 url: "https://covid.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/Gobiz_COVID_logo-01.svg
 favicon: /images/favicon-GoBiz.ico
 collections:
   documentation:
     output: true
+resources_name: news
 google_analytics: UA-162519866-1
-
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
