@@ -1,4 +1,4 @@
-title: GoBusiness1
+title: GoBusiness2
 title-abbreviated: GoBusiness
 description: >- # this means to ignore newlines until "baseurl:"
   Description
@@ -33,7 +33,7 @@ homepage_resources: false
 
 # Feedback Form URL
 feedback_form_url: false
-
+contact_us: false
 # FAQ URL
 #faq_url: "/faq/"
 #faq_url_external: false
