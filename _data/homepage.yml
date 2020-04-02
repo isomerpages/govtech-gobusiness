@@ -83,12 +83,12 @@ key-highlights:
 #    description: PSG supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity
 #    url: https://govtech-gb-staging.netlify.com/government-assistance/productivity-solutions-grant/
 #    external: true
-  - title: General Exemption
-    description: Please submit details of your operations and manpower plans in order to be considered for exemption.
+  - title: General
+    description: Please submit details
     url: https://www.gobusiness.gov.sg/
     external: true
-  - title: Single Day Exemption
-    description: Please submit details of your temporary need for a one-off exemption.
+  - title: Single
+    description: Please submit details
     url: https://www.gobusiness.gov.sg/
     external: true
 
