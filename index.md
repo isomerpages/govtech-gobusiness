@@ -1,5 +1,5 @@
 ---
-layout: isomer-landing-page
+layout: homepage
 title: GoBusiness
 permalink: /
 ---
