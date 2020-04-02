@@ -5,16 +5,22 @@
 ##################################
 
 # Favicon
+#favicon: /images/favicon-isomer.ico
 favicon: /images/favicon-GoBiz.ico
 
 # Agency logo
+#agency-logo: /images/isomer-logo.svg
+#agency-logo: /images/GoBizlogo.svg
+#agency-logo: /images/Gobiz_GA_logo.svg
 agency-logo: /images/Gobiz_COVID_logo-01.svg
 
-# Google analytics
-google-analytics: UA-162519866-1
-
 # Hero Banner
-hero-title: For Singapore Businesses1
+#hero-title: Hero Banner
+#hero-title: Consider long-term strategies to take your business to the next level
+
+#hero-title: Successful Businesses in Singapore
+hero-title: For Singapore Businesses
+#hero-subtitle: Understanding business needs and allowing transactions with all government agencies in a simple, streamlined and speedy manner.
 hero-banner: /images/hero-banner.jpg
 
 #Call to Action Button
@@ -95,9 +101,3 @@ hero-banner: /images/hero-banner.jpg
 # resources-title: MEDIA
 # resources-more-button: Read more
 # resources-more-button-url: /media/
-
-# Resources Section
-resources-title: Media
-resources-subtitle: Be in the know
-resources-more-button: More Media
-resources-more-button-url: /media/?utm_source=media_homepage
