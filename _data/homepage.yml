@@ -35,7 +35,7 @@ hero-banner: /images/hero-banner.jpg
 
 button:
   - text: Click Here
-    url: https://govtech-gb-staging.netlify.com/
+    url: https://covid.gobusiness.gov.sg/
 
 key-highlights:
 #  - title: Highlight A
