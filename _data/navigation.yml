@@ -4,10 +4,9 @@
 #                                #
 ##################################
 
-- title: FAQ
-  url: /faq/
 
-  title: List of Essential Services
+
+- title: List of Essential Services
   url: /essentialservices/
 
 #- title: Opportunities
@@ -103,6 +102,9 @@
 #    url: /who-we-are/vision/
 #  - title: Mission
 #    url: /who-we-are/mission/
+
+- title: FAQ
+  url: /faq/
 ###
 - title: Contact Us
   url: /contact-us/
