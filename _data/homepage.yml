@@ -33,9 +33,9 @@ hero-banner: /images/hero-banner.jpg
 #    external: true
 
 
-button:
-  - text: Click Here
-    url: https://covid.gobusiness.gov.sg/
+#button:
+#  - text: Click Here
+#    url: https://covid.gobusiness.gov.sg/
 
 key-highlights:
 #  - title: Highlight A
