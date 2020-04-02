@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: isomer-landing-page
 title: GoBusiness
 description: The Ministry of ABC is the ministry in charge of XYZ
 image: /images/
