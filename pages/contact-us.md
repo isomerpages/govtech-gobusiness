@@ -1,6 +1,6 @@
 ---
-#layout: contact-us
-#permalink: /contact-us/
-#breadcrumb: Contact Us
-#title: Contact Us
+layout: contact-us
+permalink: /contact-us/
+breadcrumb: Contact Us
+title: Contact Us
 ---
