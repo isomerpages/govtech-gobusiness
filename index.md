@@ -7,9 +7,6 @@ permalink: /
 notification:  
 sections:
     - hero:
-        title: 31 December 2019
-        subtitle: Join us to ring in the New Year
+        title: For Singapore Businesses
         background: /images/hero-banner.jpg
-        button: What's On
-        url: https://www.facebook.com/marinabaysg/
 ---
