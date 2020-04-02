@@ -4,7 +4,7 @@ title: GoBusiness2
 #  Description
 url: "https://covid.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
-google_analytics: UA-162519866-1
+
 
 # Build settings
 markdown: kramdown
