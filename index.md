@@ -10,10 +10,10 @@ sections:
         title: For Singapore Businesses
         background: /images/hero-banner.jpg
         key_highlights:
-        - title: Celebrate in the City 
-          url: /events/citc/
-          description: Find out more 
-        - title: Events
-          url: /events/whats-on/marina-bay/
-          description: New Year's Eve events and more
+        - title: General
+          url: https://www.gobusiness.gov.sg/
+          description: Please submit details.
+        - title: Single
+          url: https://www.gobusiness.gov.sg/
+          description: Please submit details.
 ---
