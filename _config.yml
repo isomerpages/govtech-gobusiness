@@ -22,9 +22,9 @@ breadcrumbs:
     image: false # Show image or title text
 
 # Resource Room and Pagination
-resources_name: "Media"
-paginate: 12
-paginate_path: "/Media/page:num"
+#resources_name: "Media"
+#paginate: 12
+#paginate_path: "/Media/page:num"
 
 # Homepage sections
 homepage_hero_i_want_to: false
@@ -32,7 +32,9 @@ homepage_programmes: false
 homepage_resources: false
 
 # Feedback Form URL
-#feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
+feedback_form_url: false
+
+google_analytics: UA-162519866-1
 
 # FAQ URL
 #faq_url: "/faq/"
@@ -44,28 +46,28 @@ custom_print_css_path: "/assets/css/print.css"
 
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
-collections:
+#collections:
 #  list-of-e-services:
 #    output: true
 #  products-and-services:
 #    output: true
-  documentation:
-    output: false
-  services:
-    output: false
-  opportunities:
-    output: false
-  psg:
-    output: false
-  government-assistance:
-    output: false
-  guided-journeys:
-    output: false
-  resources:
-    output: false
-  financial:
-    output: false
-  business-guides:
-    output: false
-  who-we-are:
-    output: false
+#  documentation:
+#    output: false
+#  services:
+#    output: false
+#  opportunities:
+#    output: false
+#  psg:
+#    output: false
+#  government-assistance:
+#    output: false
+#  guided-journeys:
+#    output: false
+#  resources:
+#    output: false
+#  financial:
+#    output: false
+#  business-guides:
+#    output: false
+#  who-we-are:
+#    output: false
