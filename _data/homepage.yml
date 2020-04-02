@@ -19,9 +19,10 @@ agency-logo: /images/Gobiz_COVID_logo-01.svg
 #hero-title: Consider long-term strategies to take your business to the next level
 
 #hero-title: Successful Businesses in Singapore
-hero-title: For Singapore Businesses
+#hero-title: For Singapore Businesses
+hero-title: Exemption from Suspension of Activities
 #hero-subtitle: Understanding business needs and allowing transactions with all government agencies in a simple, streamlined and speedy manner.
-hero-banner: /images/hero2.png
+hero-banner: /images/hero-banner.jpg
 
 #Call to Action Button
 #button:
@@ -83,22 +84,22 @@ key-highlights:
 #    description: PSG supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity
 #    url: https://govtech-gb-staging.netlify.com/government-assistance/productivity-solutions-grant/
 #    external: true
-#  - title: General Exemption
-#    description: Please submit details of your operations and manpower plans in order to be considered for exemption.
-#    url: https://www.gobusiness.gov.sg/
-#    external: true
-#  - title: Single Day Exemption
-#    description: Please submit details of your temporary need for a one-off exemption.
-#    url: https://www.gobusiness.gov.sg/
-#    external: true
-  - title: General 
-    description: Please submit details.
+  - title: General Exemption
+    description: Please submit details of your operations and manpower plans in order to be considered for exemption.
     url: https://www.gobusiness.gov.sg/
     external: true
-  - title: Single
-    description: Please submit details.
+  - title: Single Day Exemption
+    description: Please submit details of your temporary need for a one-off exemption.
     url: https://www.gobusiness.gov.sg/
     external: true
+#  - title: General 
+#    description: Please submit details.
+#    url: https://www.gobusiness.gov.sg/
+#    external: true
+#  - title: Single
+#    description: Please submit details.
+#    url: https://www.gobusiness.gov.sg/
+#    external: true
 
 #resources-title: Resources
 #resources-subtitle: Be in the know
