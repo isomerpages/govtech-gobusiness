@@ -1,8 +1,6 @@
 ---
-layout: simple-page
-title: Privacy Statement
+title: Privacy
 permalink: /privacy/
-breadcrumb: Privacy
 ---
 
 ### **Government Agency Privacy Statement**
