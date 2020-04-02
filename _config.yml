@@ -34,6 +34,8 @@ homepage_resources: false
 # Feedback Form URL
 feedback_form_url: false
 
+google_analytics: UA-162519866-1
+
 # FAQ URL
 #faq_url: "/faq/"
 #faq_url_external: false
