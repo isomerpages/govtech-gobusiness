@@ -1,7 +1,7 @@
 title: GoBusiness2
-#title-abbreviated: GoBusiness
-#description: >- # this means to ignore newlines until "baseurl:"
-#  Description
+title-abbreviated: GoBusiness
+description: >- # this means to ignore newlines until "baseurl:"
+  Description
 url: "https://covid.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 
