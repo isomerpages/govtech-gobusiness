@@ -19,7 +19,7 @@ agency-logo: /images/Gobiz_COVID_logo-01.svg
 #hero-title: Consider long-term strategies to take your business to the next level
 
 #hero-title: Successful Businesses in Singapore
-hero-title: Help Businesses in Singapore
+hero-title: For Singapore Businesses
 #hero-subtitle: Understanding business needs and allowing transactions with all government agencies in a simple, streamlined and speedy manner.
 hero-banner: /images/hero-banner.jpg
 
@@ -33,9 +33,9 @@ hero-banner: /images/hero-banner.jpg
 #    external: true
 
 
-#button:
-#  - text: Click Here
-#    url: https://form.gov.sg/5e8147f514171f0011b34f90
+button:
+  - text: Click Here
+    url: https://govtech-gb-staging.netlify.com/
 
 #key-highlights:
 #  - title: Highlight A
