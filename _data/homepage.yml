@@ -95,3 +95,9 @@ hero-banner: /images/hero-banner.jpg
 # resources-title: MEDIA
 # resources-more-button: Read more
 # resources-more-button-url: /media/
+
+# Resources Section
+resources-title: Media
+resources-subtitle: Be in the know
+resources-more-button: More Media
+resources-more-button-url: /media/?utm_source=media_homepage
