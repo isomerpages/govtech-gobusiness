@@ -7,6 +7,9 @@
 - title: FAQ
   url: /faq/
 
+  title: List of Essential Services
+  url: /essentialservices/
+
 #- title: Opportunities
 #  url: /opportunities/gebiz-alerts/
 
@@ -101,11 +104,11 @@
 #  - title: Mission
 #    url: /who-we-are/mission/
 ###
-#- title: Contact Us
-#  url: /contact-us/
-#  sub-links:
-#  - title: Contact Us
-#    url: /contact-us/
+- title: Contact Us
+  url: /contact-us/
+  sub-links:
+  - title: Contact Us
+    url: /contact-us/
 
 #- title: Contact Us
 #  url: /contact-us/
