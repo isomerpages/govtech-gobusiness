@@ -8,7 +8,10 @@ notification: Initiative A will be launching soon! <a href="/register/">Register
 sections:
     - hero:
         title: GoBusiness
+        subtitle: Join us to ring in the New Year
         background: /images/hero-banner.jpg
+        button: What's On
+        url: /events/whats-on/marina-bay
         key_highlights:
         - title: General
             description: Please submit details.
