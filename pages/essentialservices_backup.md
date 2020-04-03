@@ -1,6 +1,6 @@
 ---
 title: Health and Social Services
-permalink: /essentialservices/healthandsocialservices/
+permalink: /essentialservices/
 ---
 
 ### **Health and Social Services**
