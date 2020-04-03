@@ -20,7 +20,7 @@ permalink: /essentialservices/construction/
 
 
 
-1. Provision of housekeeping/FM services for certain high risk workplaces to ensure health and safety (e.g. construction sites - risk of collapse of temporary structure, maintenance of tower cranes, risks of dengue etc.)
+1. Provision of facilities management services for buildings and infrastructure (e.g. plumbing, electrical works, conservancy services)
 : a. All firms involved in the provision of facilities management (FM) services for buildings and infrastructure should be allowed to continue working
 : b. This should include all FM firms, as well as firms involved in the maintenance of key equipment such as:
 : i. Air-conditioning and mechanical ventilation systems;
