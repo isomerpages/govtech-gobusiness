@@ -7,13 +7,23 @@ permalink: /
 notification: Please click <a href="https://go.gov.sg/businessconnect">here</a> for enquiries. 
 sections:
     - hero:
-        title: For Singapore Businesses
+        title: Exemption from Suspension of Activities
         background: /images/hero-banner.jpg
         key_highlights:
-        - title: General
-          url: https://govtech-gb-staging.netlify.com/
+        - title: General Exemption
+          url: https://form.gov.sg/5e8147f514171f0011b34f90
           description: Please submit details.
-        - title: Single
-          url: https://govtech-gb-staging.netlify.com/
+        - title: Time-Limited Exemption
+          url: https://form.gov.sg/5e8602bf95ddc70011decfa7
           description: Please submit details.
+#    - hero:
+#        title: Activities
+#        background: /images/hero-banner.jpg
+#        key_highlights:
+#        - title: General 
+#          url: https://www.google.com.sg/
+#          description: Please submit details.
+#        - title: Time
+#          url: https://www.google.com.sg/
+#          description: Please submit details.
 ---
