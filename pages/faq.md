@@ -77,7 +77,7 @@ Port operators and logistics service providers will be allowed to continue to op
 ## **For employees**
 
 #### **If my employer provides essential services and I am reporting to work, do I need to provide or carry with me any sort of documentation?**
-Currently, you are not required to do so. You are encouraged to confirm with your employer that the function you perform is critical and meant to be performed on-site rather than via telecommuting.
+Currently, you are not required to do so. You are encouraged to confirm with your employer that the function you perform is critical and meant to be performed on-site rather than via telecommuting. Employers are encouraged to provide this confirmation to the employee in writing.
 
 #### **Can I go back to my office to pick up personal items?**
 All non-essential activities outside the home must be suspended during this period in order to bring the transmission rate down effectively. Please refrain from all non-essential travel to reduce the possibility of transmissions.
