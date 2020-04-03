@@ -11,9 +11,9 @@ sections:
         background: /images/hero-banner.jpg
         key_highlights:
         - title: General
-          url: https://www.gobusiness.gov.sg/
+          url: https://govtech-gb-staging.netlify.com/
           description: Please submit details.
 #        - title: Single
-#          url: https://www.gobusiness.gov.sg/
+#          url: https://govtech-gb-staging.netlify.com/
 #          description: Please submit details.
 ---
