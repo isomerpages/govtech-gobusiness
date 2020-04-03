@@ -6,4 +6,4 @@ terms_of_use: /terms-of-use/
 
 navlinks:
     - title: List of Essential Services
-    collection: essentialservices
+    url: /essentialservices/
