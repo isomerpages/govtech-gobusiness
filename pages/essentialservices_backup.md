@@ -1,5 +1,5 @@
 ---
-title: Health and Social Services
+title: List of Essential Services
 permalink: /essentialservices/
 ---
 
