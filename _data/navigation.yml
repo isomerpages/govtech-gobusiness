@@ -11,8 +11,8 @@ links:
   - title: About
     collection: essentialservices
   - title: List of Essential Services
-    url: /essentialservices/
-  - title: FAQ
+#    url: /essentialservices/
+#  - title: FAQ
     url: /faq/
   - title: Contact Us
     url: /contact-us/
