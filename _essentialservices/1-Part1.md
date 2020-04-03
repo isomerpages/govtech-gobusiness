@@ -12,7 +12,6 @@ permalink: /essentialservices/part1/
 ---
 
 1. Test
-
 : a. Test2
 : b. Test2
 
