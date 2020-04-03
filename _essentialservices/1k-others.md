@@ -43,7 +43,7 @@ permalink: /essentialservices/others/
 
 
 
-1. Laundry services for Essential Services
+1. Laundry services
 
 
 
