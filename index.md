@@ -15,7 +15,7 @@ sections:
           description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration of manpower for companies which provide essential services.</br></br>Click Here
         - title: Time-Limited Exemption
           url: https://form.gov.sg/5e8602bf95ddc70011decfa7
-          description: Application for your workplace to be allowed to have temporary operations.</br></br></br></br>Click Here
+          description: Application for your workplace to be allowed to have temporary operations.</br></br></br></br></br>Click Here
 #    - hero:
 #        title: Activities
 #        background: /images/hero-banner.jpg
