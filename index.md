@@ -13,7 +13,7 @@ sections:
         - title: General
           url: https://govtech-gb-staging.netlify.com/
           description: Please submit details.
-#        - title: Single
-#          url: https://govtech-gb-staging.netlify.com/
-#          description: Please submit details.
+        - title: Single
+          url: https://govtech-gb-staging.netlify.com/
+          description: Please submit details.
 ---
