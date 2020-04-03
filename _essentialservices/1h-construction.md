@@ -1,13 +1,14 @@
 ---
-title: Defence, Security, Facilities Management and Critical Public Infrastructure
-permalink: /essentialservices/securityfacilities/
+title: Construction, Facilities Management and Critical Public Infrastructure
+permalink: /essentialservices/construction/
 ---
 
-### **Defence, Security, Facilities Management and Critical Public Infrastructure**
+### **Construction, Facilities Management and Critical Public Infrastructure**
 
-1. Defence and Security firms, supporting firms and establishments protecting buildings and homes 
-2. Development project that support essential services or national security 
-3. Companies involved in epidemic control (e.g. sanitation, disinfection, cleaning, laundry)
+1. Companies involved in epidemic control (e.g. sanitation, disinfection, cleaning, laundry)
+2. Defence and Security firms, supporting firms and establishments protecting buildings and homes 
+3. Development project that support essential services or national security 
+4. Companies involved in epidemic control (e.g. sanitation, disinfection, cleaning, laundry)
 
 ---
 
