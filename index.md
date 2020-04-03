@@ -4,7 +4,7 @@ title: GoBusiness
 description: For Singapore Businesses
 image: /images/
 permalink: /
-notification:  
+notification: For more enquiry, please click this.
 sections:
     - hero:
         title: For Singapore Businesses
