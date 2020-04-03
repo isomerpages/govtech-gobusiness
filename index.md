@@ -4,7 +4,7 @@ title: GoBusiness
 description: For Singapore Businesses
 image: /images/
 permalink: /
-notification: For more enquiry, please click this.
+notification: Please click <a href="https://go.gov.sg/businessconnect">here</a> for enquiries. 
 sections:
     - hero:
         title: For Singapore Businesses
@@ -13,7 +13,7 @@ sections:
         - title: General
           url: https://www.gobusiness.gov.sg/
           description: Please submit details.
-        - title: Single
-          url: https://www.gobusiness.gov.sg/
-          description: Please submit details.
+#        - title: Single
+#          url: https://www.gobusiness.gov.sg/
+#          description: Please submit details.
 ---
