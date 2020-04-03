@@ -9,6 +9,7 @@ contacts:
     content:
     - phone: Test
 #    - phone: +65 6898 1800
+    - other: Test 
     - email: Test
 #    - email: safedistancing@enterprisesg.gov.sg
     - other: Test 
