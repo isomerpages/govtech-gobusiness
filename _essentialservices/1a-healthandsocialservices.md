@@ -6,7 +6,7 @@ permalink: /essentialservices/healthandsocialservices/
 ### **Health and Social Services**
 
 1. Acute hospitals (including offsite specialist clinics and offsite Ambulatory Surgical Centres), community hospitals
-2. Primary care services (i.e. polyclinics and private sector primary care services), non-elective and urgent/emergency dental services, renal dialysis centres, TCM clinics (for consultation & drug dispensary services only), physiotherapy and chiro practice
+2. Primary care services (i.e. polyclinics and private sector primary care services), non-elective and urgent/emergency dental services, renal dialysis centres, TCM clinics (for consultation & drug dispensary services only)
 
 
 

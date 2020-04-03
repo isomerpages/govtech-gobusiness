@@ -62,4 +62,12 @@ permalink: /essentialservices/others/
 
 
 
+1. Private buses
+
+
+
+1. Testing, inspection and certification centres
+
+
+
 1. All other critical and ancillary services contracted by the Government for the provision of supporting Government functions or for the above-mentioned Essential Services.
