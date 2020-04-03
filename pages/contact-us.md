@@ -2,13 +2,13 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-#agency_name: Ministry of Trade and Industry Singapore
-agency_name: Test
+agency_name: Ministry of Trade and Industry Singapore
+#agency_name: Test
 contacts:
   - title: For more enquiries, please contact us at
     content:
-    - phone: +65 6898 1800 (Monday to Sunday, 8am to 8pm)
+    - phone: +65 6898 1800
     - email: safedistancing@enterprisesg.gov.sg
-    - other: <br><br><br>We are expecting a high volume of enquiries and appreciate your understanding and patience. Kindly refrain from submitting duplicate applications to avoid further delays.  
+    - other: <br>(Monday to Sunday, 8am to 8pm)<br><br>We are expecting a high volume of enquiries and appreciate your understanding and patience. Kindly refrain from submitting duplicate applications to avoid further delays.  
 #    - other: For more enquiries,<br>contact us at +65 6898 1800 or drop us an email at safedistancing@enterprisesg.gov.sg   
 ---
