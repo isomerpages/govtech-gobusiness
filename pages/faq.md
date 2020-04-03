@@ -71,12 +71,12 @@ Yes, however, it should be opened for takeaways and/or deliveries only. No dine-
 #### **Can I continue to fulfil customers’ online orders (non-food) and send the items ordered via delivery during this period?**
 Only companies providing essential services will be able to continue on-site operations during this period. For instance, supermarkets will continue to support delivery of non-food household items such as cleaning supplies. 
 
-#### **I am not an essential firm and have a shipment of non-essential goods coming in, will I be allowed to send the goods from the port to my warehouse and will I be able to activate my employees to receive the shipment at my warehouse?**
+#### **I am not an essential firm and have a shipment of goods coming in, will I be allowed to send the goods to my warehouse and will I be able to activate my employees to receive the shipment at my warehouse?**
 Port operators and logistics service providers will be allowed to continue to operate during this period. If you need to activate your employees to work on-site for short periods of time to receive deliveries and perform other related tasks, please apply for a time-limited exemption.
 
 ## **For employees**
 
-#### **If my employer provides essential services and I am reporting to work, do I need to provide or carry with me any sort of documentation?   **
+#### **If my employer provides essential services and I am reporting to work, do I need to provide or carry with me any sort of documentation?**
 Currently, you are not required to do so. You are encouraged to confirm with your employer that the function you perform is critical and meant to be performed on-site rather than via telecommuting.
 
 #### **Can I go back to my office to pick up personal items?**
