@@ -72,7 +72,7 @@ Yes, however, it should be opened for takeaways and/or deliveries only. No dine-
 Only companies providing essential services will be able to continue on-site operations during this period. For instance, supermarkets will continue to support delivery of non-food household items such as cleaning supplies. 
 
 #### **I am not an essential firm and have a shipment of goods coming in, will I be allowed to send the goods to my warehouse and will I be able to activate my employees to receive the shipment at my warehouse?**
-Port operators and logistics service providers will be allowed to continue to operate during this period. If you need to activate your employees to work on-site for short periods of time to receive deliveries and perform other related tasks, please apply for a time-limited exemption.
+Port operators and logistics service providers will be allowed to continue to operate during this period. Yes, you may receive deliveries at your premises. If you need to activate your employees to work on-site for short periods of time to receive deliveries and perform other related tasks, please apply for a time-limited exemption.
 
 ## **For employees**
 
