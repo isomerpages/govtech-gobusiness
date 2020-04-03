@@ -3,7 +3,7 @@ url: "https://covid.gobusiness.gov.sg" # the base hostname & protocol for your s
 logo: /images/Gobiz_COVID_logo-01.svg
 favicon: /images/favicon-GoBiz.ico
 collections:
-  documentation:
+  essentialservices:
     output: true
 resources_name: news
 google_analytics: UA-162519866-1

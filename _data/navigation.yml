@@ -8,6 +8,8 @@ logo: /images/Gobiz_COVID_logo-01.svg
 
 
 links:
+  - title: About
+    collection: essentialservices
   - title: List of Essential Services
     url: /essentialservices/
   - title: FAQ
