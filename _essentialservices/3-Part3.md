@@ -1,6 +1,6 @@
 ---
 title: Part3
-permalink: /essentialservices/part1/
+permalink: /essentialservices/part3/
 ---
 
 # Test3
