@@ -11,10 +11,10 @@ permalink: /essentialservices/part1/
 
 ---
 
-2. Test
+1. Test
 : a. Test2
 : b. Test2
 
-3. Test
+2. Test
 : a. Test3
 : b. Test3
