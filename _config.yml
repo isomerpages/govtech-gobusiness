@@ -5,7 +5,7 @@ favicon: /images/favicon-GoBiz.ico
 collections:
   essentialservices:
     output: true
-  faq:
+  FAQ:
     output: true
 resources_name: news
 google_analytics: UA-162519866-1
