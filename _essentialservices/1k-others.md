@@ -39,7 +39,7 @@ permalink: /essentialservices/others/
 
 
 
-1. Retail and repair of consumer electronics, IT peripherals, and household appliances
+1. Repair of consumer electronics, IT peripherals, and household appliances
 
 
 
