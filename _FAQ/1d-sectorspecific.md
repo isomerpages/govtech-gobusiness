@@ -1,5 +1,5 @@
 ---
-title: Sector-specific queries
+title: For Sector-Specific Queries
 permalink: /faq/sectorspecific
 ---
 

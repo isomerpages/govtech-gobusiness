@@ -1,5 +1,5 @@
 ---
-title: For Employees/Manpower
+title: For Employees/ Manpower Queries
 permalink: /faq/employees
 ---
 
