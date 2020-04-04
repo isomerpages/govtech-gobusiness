@@ -22,7 +22,7 @@ permalink: /essentialservices/healthandsocialservices/
 
 
 
-1. Supporting services (e.g. blood services, laboratories and radiological services, research related to COVID-19, pharmacies, disease surveillance and response services, medical and patient transport, provision of medical items, personal care items, and TCM medical halls)
+1. Supporting services (e.g. blood services, laboratories and radiological services, research related to COVID-19, pharmacies, disease surveillance and response services, medical and patient transport, provision of medical items and personal care items)
 2. Essential supply chains (e.g. medical wholesale and distribution, mask, PPE, medical supplies and equipment manufacturers, medical gas supply)
 
 
