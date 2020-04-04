@@ -12,7 +12,7 @@ sections:
         key_highlights:
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
-          description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration of manpower for companies which provide essential services.</br></br>Click Here
+          description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
         - title: Time-Limited Exemption
           url: https://go.gov.sg/timelimitedexemption
           description: </br></br>Application for your workplace to be allowed to have temporary operations.</br></br></br>Click Here
