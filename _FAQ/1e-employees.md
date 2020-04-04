@@ -1,6 +1,6 @@
 ---
 title: For Employees/Manpower
-permalink: /faq/general
+permalink: /faq/employees
 ---
 
 #### **1. If my employer provides essential services and I am reporting to work, do I need to provide or carry with me any sort of documentation?**
