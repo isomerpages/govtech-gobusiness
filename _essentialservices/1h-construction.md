@@ -8,7 +8,6 @@ permalink: /essentialservices/construction/
 1. Companies involved in epidemic control (e.g. sanitation, disinfection, cleaning, laundry)
 2. Defence and Security firms, supporting firms and establishments protecting buildings and homes 
 3. Development project that support essential services or national security 
-4. Companies involved in epidemic control (e.g. sanitation, disinfection, cleaning, laundry)
 
 
 
