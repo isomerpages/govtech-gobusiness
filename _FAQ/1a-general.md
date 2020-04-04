@@ -9,7 +9,7 @@ You may refer to the list of Essential Services.
 You may also call the Enterprise Infoline at 6898-1800 from 8am-8pm (Monday to Sunday).
 
 #### **2. Should I apply for ‘General’ or ‘Time-Limited’ exemption?**
-For Companies providing </ins>**Essential Services**</ins>, you will need to declare, please click on GENERAL EXEMPTION 
+For Companies providing **<ins>Essential Services</ins>**, <ins>you will need to declare</ins>, please click on GENERAL EXEMPTION 
 
 For Companies providing **Non-Essential Services** and are *applying for exemption from suspension of business activities*, please click on GENERAL EXEMPTION 
 
@@ -39,3 +39,9 @@ a. Under the enhanced **Jobs Support Scheme**, the Government will help employer
 b. To encourage enterprise to continue in their transformation efforts and share the productivity gains with their workers, the **Wage Credit Scheme** will be enhanced to offer more support in the co-funding of wage increase for Singaporean workers. The scheme currently co-funds wage increases for Singapore employees earning a gross monthly wage of up to $4,000. This will be raised to $5,000 for qualifying wage increases given in 2019 and 2020. 
 
 Please refer to the [https://www.singaporebudget.gov.sg/budget_2020](Singapore Budget Website){:target="_blank"} for more details on the Unity and Resilience Budget. 
+
+#### **7. If I see a non-essential business continue to operate even though it is not supposed to, what should I do?**
+Please report this business, including providing relevant details such as its name, address and relevant evidence (e.g. photographs) to Covid_GoBusiness@mti.gov.sg
+
+#### **8. What do I do if I am unable to enter the supermarket/F&B outlets due to long queues?**
+You may consider food takeaways at other F&B outlets or food/grocery delivery services.
