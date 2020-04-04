@@ -32,10 +32,10 @@ Employers must reduce physical interactions by:
 : c. Postponing all group events; and 
 : d. Implementing shift work and/or split team arrangements. 
 
-**F&B** 
+<ins>F&B</ins> 
 F&B establishments are to open for takeaway and/or delivery only. Outlets which do not currently offer take-away and/or delivery should aim to do so, or allow third-party food delivery services to do so for them. While patrons and delivery drivers can continue to enter the premises to access take-away services, there will be no dine-in service, and nobody is permitted to consume any food or drinks on-site whilst waiting for takeaway food. For sustainability, consumers are encouraged to bring your own containers for take-away service. 
 
 Please adhere to the safe distancing measures in the premise. These include minimising crowds by ensuring patrons are spaced at least 1 metre apart at all times (i.e. within the premise and when queuing). 
 
-**Food Retail (e.g. supermarkets, convenience stores, grocery & fruit stores)**
+<ins>Food Retail (e.g. supermarkets, convenience stores, grocery & fruit stores)</ins>
 Outlets that remain open are required to adhere to the safe distancing measures. These include minimising crowds by ensuring patrons are spaced at least 1 metre apart at all times (i.e. within the premise and when queuing).
