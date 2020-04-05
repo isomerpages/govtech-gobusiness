@@ -31,7 +31,7 @@ The government has introduced a series of new measures, and enhancements to exis
 
 <ins>Broad based – Cash flow</ins>
 : a. There is a **Corporate Income Tax Rebate** for Year of Assessment 2020, at a rate of 25% of tax payable, capped at $15,000 per company. This rebate will benefit all tax-paying companies. 
-: b. To help enterprises access working capital more easily, the **Enterprise Financing Scheme’s SME Working Capital Loan** component will be enhanced for one year. The maximum loan quantum will be raised from $300,000 to $600,000, and government’s risk-share on these loans will be increased to 80%. It will be launched in March 2020.
+: b. To help enterprises access working capital more easily, the **Enterprise Financing Scheme’s SME Working Capital Loan** component will be enhanced for one year. The maximum loan quantum will be raised to $1million, and government’s risk-share on these loans will be increased to 80%. It will be launched in March 2020.
 : c. For 2020, qualifying commercial properties that have been more badly affected by the COVID-19 outbreak, including hotels, serviced apartments, shops and restaurants **will pay no Property Tax**. Businesses in other non-residential properties will also receive a **Property Tax Rebate** of 30% for the year 2020. Please note that property owners will be obliged to pass on to their tenants the property tax rebate attributable to the rented property. 
 
 <ins>Broad based – Workforce related</ins>
