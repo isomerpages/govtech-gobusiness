@@ -38,7 +38,7 @@ The government has introduced a series of new measures, and enhancements to exis
 : a. Under the enhanced **Jobs Support Scheme**, the Government will help employers by paying 25% on the first $4,600 of monthly salaries, for 9 months.
 : b. To encourage enterprise to continue in their transformation efforts and share the productivity gains with their workers, the **Wage Credit Scheme** will be enhanced to offer more support in the co-funding of wage increase for Singaporean workers. The scheme currently co-funds wage increases for Singapore employees earning a gross monthly wage of up to $4,000. This will be raised to $5,000 for qualifying wage increases given in 2019 and 2020. 
 
-Please refer to the <a href="https://www.singaporebudget.gov.sg/budget_2020" target="_blank">(Singapore Budget Website)</a> for more details on the Unity and Resilience Budget. 
+Please refer to the <a href="https://www.singaporebudget.gov.sg/budget_2020" target="_blank">Singapore Budget Website</a> for more details on the Unity and Resilience Budget. 
 
 #### **7. If I see a non-essential business continue to operate even though it is not supposed to, what should I do?**
 Please report this business, including providing relevant details such as its name, address and relevant evidence (e.g. photographs) to Covid_GoBusiness@mti.gov.sg
