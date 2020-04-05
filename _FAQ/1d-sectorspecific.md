@@ -13,7 +13,7 @@ You are only allowed to operate if you are licensed as a food retailer. Otherwis
 Yes, however, it should be opened for takeaways and/or deliveries only. No dine-in service is permitted. Patrons are not permitted to consume any food or drinks on-site whilst waiting for takeaway food.
 
 #### **4. Can I continue to fulfil customers’ online orders (non-food) and send the items ordered via delivery during this period?**
-Retail businesses can continue to sell their products online and make deliveries to customers. However, they are not permitted to open their physical stores to customers unless they are essential service.
+Retail businesses can continue to sell their products online and make deliveries to customers. However, they are not permitted to open their physical stores to customers unless they are an essential service.
 
 #### **5. I am not an essential firm and have a shipment of goods coming in, will I be allowed to send the goods to my warehouse and will I be able to activate my employees to receive the shipment at my warehouse?**
 Port operators and logistics service providers will be allowed to continue to operate during this period. Yes, you may receive deliveries at your premises. If you need to activate your employees to work on-site for short periods of time to receive deliveries and perform other related tasks, please apply for a time-limited exemption.
