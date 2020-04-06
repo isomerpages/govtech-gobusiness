@@ -27,10 +27,10 @@ Even if your business has been exempted from suspension, you should only get emp
 Special attention should be paid to vulnerable employees (e.g. older workers, pregnant workers, and those with underlying medical conditions) to enable them to work from home, including temporarily redeploying these employees to another role within the company that is suitable for working from home.
 
 Employers must reduce physical interactions by: 
-: a. Reducing the need for and duration of physical interactions; 
-: b. Staggering working hours; 
-: c. Postponing all group events; and 
-: d. Implementing shift work and/or split team arrangements. 
+1. Reducing the need for and duration of physical interactions; 
+2. Staggering working hours; 
+3. Postponing all group events; and 
+4. Implementing shift work and/or split team arrangements. 
 
 F&B establishments are to open for takeaway and/or delivery only. Outlets which do not currently offer take-away and/or delivery should aim to do so, or allow third-party food delivery services to do so for them. While patrons and delivery drivers can continue to enter the premises to access take-away services, there will be no dine-in service, and nobody is permitted to consume any food or drinks on-site whilst waiting for takeaway food. For sustainability, consumers are encouraged to bring your own containers for take-away service. 
 
