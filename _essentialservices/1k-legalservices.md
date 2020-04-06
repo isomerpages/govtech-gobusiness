@@ -1,9 +1,9 @@
 ---
-title: Legal Services
+title: Legal Services (Limited)
 permalink: /essentialservices/legalservices/
 ---
 
-### **Legal Services**
+### **Legal Services (Limited)**
 #### **Law practices providing legal services in the following areas:**
 
 1. Essential and urgent matters specified in the Registrar’s Circulars issued by each court in respect of criminal, civil and family matters wherein during the period 7 April 2020 to 4 May 2020 (both dates inclusive):
