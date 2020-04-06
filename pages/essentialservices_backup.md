@@ -24,6 +24,6 @@ For Manufacturing and Distribution, please click <a href="https://covid.gobusine
 
 For Banking and Finance, please click <a href="https://covid.gobusiness.gov.sg/essentialservices/bankingandfinance/">here</a> for full details.
 
-For Legal Services, please click <a href="https://covid.gobusiness.gov.sg/essentialservices/legalservices/">here</a> for full details.
+For Legal Services (Limited), please click <a href="https://covid.gobusiness.gov.sg/essentialservices/legalservices/">here</a> for full details.
 
 For Others, please click <a href="https://covid.gobusiness.gov.sg/essentialservices/others/">here</a> for full details.
