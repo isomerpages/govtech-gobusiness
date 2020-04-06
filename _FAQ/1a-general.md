@@ -37,11 +37,11 @@ DPM Heng Swee Keat announced the Solidarity Budget 2020 on 6 April 2020.
 A summary of the key provisions for businesses are as follows:
 
 <ins>(1) Broad based – Cash flow</ins>
-: a. Waiver of monthly Foreign Worker Levy (FWL) due in April 2020. 
-: b. FWL rebate of $750 in April 2020 from levies paid this year for each Work Pemit or S Pass Holder. 
-: c. Laws to ensure property owners pass on Property Tax rebate
-: d. 1 month rental waiver for office, commercial and agricultural tenants of Government agencies
-: e. Govenments’ risk share raised from 80% to 90% for EFS-Trade Loan, EFS-SME Working Capital Loan and Temporary Bridging Loan Programme
+a. Waiver of monthly Foreign Worker Levy (FWL) due in April 2020. 
+b. FWL rebate of $750 in April 2020 from levies paid this year for each Work Pemit or S Pass Holder. 
+c. Laws to ensure property owners pass on Property Tax rebate
+d. 1 month rental waiver for office, commercial and agricultural tenants of Government agencies
+e. Govenments’ risk share raised from 80% to 90% for EFS-Trade Loan, EFS-SME Working Capital Loan and Temporary Bridging Loan Programme
 
 <ins>(2) Broad based – Workforce related</ins>
 
