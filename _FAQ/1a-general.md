@@ -44,7 +44,7 @@ A summary of the key provisions for businesses are as follows:
 : e. Govenments’ risk share raised from 80% to 90% for EFS-Trade Loan, EFS-SME Working Capital Loan and Temporary Bridging Loan Programme
 
 <ins>(2) Broad based – Workforce related</ins>
-: a. The **Jobs Support Scheme (JSS)** has been further enhanced. To help save jobs, the Government will pay 75% on the first $4,600 of monthly salaries for every local employee for Apr 2020. From May 2020, wage support levels will revert to original levels in Resilience Budget.[1] The first JSS payout will be brought forward to April 2020, from May 2020.
+a. The **Jobs Support Scheme (JSS)** has been further enhanced. To help save jobs, the Government will pay 75% on the first $4,600 of monthly salaries for every local employee for Apr 2020. From May 2020, wage support levels will revert to original levels in Resilience Budget.[1] The first JSS payout will be brought forward to April 2020, from May 2020.
 
     - To encourage firms to retain local workers during this period of uncertainty, the Government will co-fund wages of workers for 9 months in 3 payouts.
       - April 2020 – All sectors (75% wage support)
