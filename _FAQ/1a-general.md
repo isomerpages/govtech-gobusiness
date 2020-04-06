@@ -36,36 +36,34 @@ DPM Heng Swee Keat announced the Solidarity Budget 2020 on 6 April 2020.
 
 A summary of the key provisions for businesses are as follows:
 
-<ins>(1) Broad based – Cash flow</ins>
+<ins>(a) Broad based – Cash flow</ins>
 
-a. Waiver of monthly Foreign Worker Levy (FWL) due in April 2020. 
-b. FWL rebate of $750 in April 2020 from levies paid this year for each Work Pemit or S Pass Holder. 
-c. Laws to ensure property owners pass on Property Tax rebate
-d. 1 month rental waiver for office, commercial and agricultural tenants of Government agencies
-e. Govenments’ risk share raised from 80% to 90% for EFS-Trade Loan, EFS-SME Working Capital Loan and Temporary Bridging Loan Programme
+1. Waiver of monthly Foreign Worker Levy (FWL) due in April 2020. 
+2. FWL rebate of $750 in April 2020 from levies paid this year for each Work Pemit or S Pass Holder. 
+3. Laws to ensure property owners pass on Property Tax rebate
+4. 1 month rental waiver for office, commercial and agricultural tenants of Government agencies
+5. Govenments’ risk share raised from 80% to 90% for EFS-Trade Loan, EFS-SME Working Capital Loan and Temporary Bridging Loan Programme
 
-<ins>(2) Broad based – Workforce related</ins>
+<ins>(b) Broad based – Workforce related</ins>
 
-a. The **Jobs Support Scheme (JSS)** has been further enhanced. To help save jobs, the Government will pay 75% on the first $4,600 of monthly salaries for every local employee for Apr 2020. From May 2020, wage support levels will revert to original levels in Resilience Budget.[1] The first JSS payout will be brought forward to April 2020, from May 2020.
-
+1. The **Jobs Support Scheme (JSS)** has been further enhanced. To help save jobs, the Government will pay 75% on the first $4,600 of monthly salaries for every local employee for Apr 2020. From May 2020, wage support levels will revert to original levels in Resilience Budget.[1] The first JSS payout will be brought forward to April 2020, from May 2020.
     - To encourage firms to retain local workers during this period of uncertainty, the Government will co-fund wages of workers for 9 months in 3 payouts.
       - April 2020 – All sectors (75% wage support)
       - Remaining qualifying months – Aviation & Tourism (75% wage support); Food Services (50% wage support); All other sectors (25% wage support)
       - First payout (Apr 2020); Second payout (Jul 2020); Third payout (Oct 2020).
 
-: b. SEP Income Relief Scheme (SIRS)
-
+2. SEP Income Relief Scheme (SIRS)
     - More  SEPs will qualify for SIRS.
     - Eligible SEPs will reeive three quarterly cash payouts of $3,000 each in May, July and October 2020.
     - Other criteria remain unchanged. 
 
-: c. To encourage enterprise to continue in their transformation efforts and share the productivity gains with their workers, the Wage Credit Scheme will be enhanced to offer more support in the co-funding of wage increase for Singaporean workers. The scheme currently co-funds wage increases for Singapore employees earning a gross monthly wage of up to $4,000. This will be raised to $5,000 for qualifying wage increases given in 2019 and 2020.
+3. To encourage enterprise to continue in their transformation efforts and share the productivity gains with their workers, the Wage Credit Scheme will be enhanced to offer more support in the co-funding of wage increase for Singaporean workers. The scheme currently co-funds wage increases for Singapore employees earning a gross monthly wage of up to $4,000. This will be raised to $5,000 for qualifying wage increases given in 2019 and 2020.
 
-
-
-The COVID-19 (Temporary Measures) Bill will be introduced to offer temporary relief to businesses and individuals who are unable to fulfil certain contractual obligations because of COVID-19. It will seek to provide temporary cash-flow relief for these businesses and individuals, who may otherwise have to pay damages or risk having their deposits or assets forfeited. Please refer to the MinLaw website for more details.
+The COVID-19 (Temporary Measures) Bill will be introduced to offer temporary relief to businesses and individuals who are unable to fulfil certain contractual obligations because of COVID-19. It will seek to provide temporary cash-flow relief for these businesses and individuals, who may otherwise have to pay damages or risk having their deposits or assets forfeited. Please refer to the <a href="https://www.mlaw.gov.sg/news/press-releases/temporary-relief-for-inability-to-perform-contractual-obligations-due-to-coronavirus-disease-2019-covid-19-situation" target="_blank">MinLaw website</a> for more details.
 
 Please refer to the <a href="https://www.singaporebudget.gov.sg/budget_2020" target="_blank">Singapore Budget Website</a> for more details on the Unity and Resilience Budget. 
+
+[1] 75% wage support for aviation, and tourism sectors; 50% for the food services sector, and 25% for all other sectors  
 
 #### **8. If I see a non-essential business continue to operate even though it is not supposed to, what should I do?**
 Please report this business, including providing relevant details such as its name, address and relevant evidence (e.g. photographs) to Covid_GoBusiness@mti.gov.sg
