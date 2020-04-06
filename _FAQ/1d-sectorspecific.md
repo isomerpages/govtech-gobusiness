@@ -6,11 +6,13 @@ permalink: /faq/sectorspecific
 #### **1. Can MSF Social Service Officers continue to deliver essential supplies to needy families during the period of suspension of activities? Can they also enlist volunteers’ help?**
 Yes, so long as the necessary precautionary measures are taken (e.g. safe distancing, temperature monitoring, observe good personal hygiene). This is because needy families depend on the essential supplies to survive and such essential supplies should not be interrupted as a result of the suspension of activities.
 
-#### **2. Are liquor stores considered F&B outlets?**
-You are only allowed to operate if you are licensed as a food retailer. Otherwise, if you are licensed as an F&B outlet, only take-aways and/or deliveries are allowed. 
+#### **2. Are liquor allowed to continue operations?**
+Liquor stores are allowed to continue operations.
 
 #### **3. My F&B outlet is located within the premises of an essential service (e.g. hospital). Can it be allowed to open during the period of suspension of activities?**
-Yes. However, it should be opened for takeaways and/or deliveries only. No dine-in service is permitted. Patrons are not permitted to consume any food or drinks on-site whilst waiting for takeaway food.
+Yes. F&B outlets serving Essential Services should remain open for their workers and provide dine-in options where workers have no other option. 
+
+Canteen operators should advise members of the public to take-away only.
 
 #### **4. Can I continue to fulfil customers’ online orders (non-food) and send the items ordered via delivery during this period?**
 Retail businesses can continue to sell their products online and make deliveries to customers. However, they are not permitted to open their physical stores to customers unless they are an essential service.
