@@ -4,7 +4,7 @@ permalink: /faq/nonessentialservices
 ---
 
 #### **1. Can I continue to run my business as normal if my company is not providing an essential service?**
-If the service that your business provides is not on the essential services list, you must suspend all in-person activities and activities at your business location.  You can continue to operate if you and your employees are able to perform business functions from home and are strongly encouraged to do so.
+If the service that your business provides is not on the essential services list (i.e. you are not an essential service or critical supply for an essential service), you must suspend all in-person activities and activities at your business location.  You can continue to operate online if you and your employees are able to perform business functions from home and are strongly encouraged to do so.
 
 #### **2. Is my company required to suspend all business activities if my operations cannot continue via telecommuting?**
 Essential services and related supply chains are exempted from the suspension of on-site business activities. If your company’s business activities are non-essential, but can continue to operate via telecommuting, you may continue to do so. Where possible, businesses are encouraged to adopt video and audio conferencing and other IT tools to support their workers to work from home.
