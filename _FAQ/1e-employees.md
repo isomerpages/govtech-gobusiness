@@ -47,7 +47,7 @@ Hiring firms will be required to meet the prevailing criteria under their respec
 
 For inter-sectoral transfers (earlier than 40 days before work permit expiry), firms can approach SBF at manpowerconnect@sbf.org.sg or visit their website for more information. For transfer of WPHs from 40 days before work permit expiry (including inter-sectorial transfers), firms can submit their request via an online form or visit MOM’s website for more information.
 
-#### **9. My business is no longer allowed to operate. Do I still need to pay my workers, or should I let them go on leave?**
+#### **11. My business is no longer allowed to operate. Do I still need to pay my workers, or should I let them go on leave?**
 The Jobs Support Scheme announced by the Government on 6 April is meant to support employers to retain and continue to pay their local employees, even during periods of reduction in business activity.
 
 The Advisory on salary and leave arrangements can be found on the MOM website at <a href="https://www.mom.gov.sg/covid-19/advisory-on-salary-and-leave" target="_blank">https://www.mom.gov.sg/covid-19/advisory-on-salary-and-leave</a>
