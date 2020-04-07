@@ -15,12 +15,14 @@ For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>apply
 
 For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>applying for exemption for a limited-period of time</ins>, please click on TIME-LIMITED EXEMPTION 
 
-#### **3. I submitted my application late / I have not received an official response. Can I continue with operations while waiting for an official response or am I required to suspend operations?**
-Please allow 48 hours for us to process your applications. 
+#### **3. What should I do if I do not receive my approval by 7th April? Am I allowed to continue operations?**
+Please allow 2 to 3 days for us to process your applications. 
 
 Businesses that fall in the essential services categories can continue with operations until they are told otherwise.
 
 Businesses that do not fall in the essential services categories must suspend operations from 7 April unless they are told otherwise.
+
+If you are unsure whether your business falls under which category, please suspend all activities until you have received the approval.
 
 #### **4. I am self employed / own a business with multiple entities. Do I need to submit my applications individually or will one application cover all my businesses?**
 You will need to submit one application for each registered business. One application per UEN number. 
@@ -73,3 +75,17 @@ You may consider food takeaways at other F&B outlets or food/grocery delivery se
 
 #### **10. Is it safe to use reusable containers for takeaway? What if the container was handled by someone who has the virus?**
 According to the Singapore Food Authority, there is currently no evidence to support the transmission of COVID-19 associated with food and food packaging that may have been exposed to an infected person. This means that there is a very low risk of spread from food, product and packaging. Members of the public should continue to practice good hygiene habits such as washing their hands regularly.
+
+#### **11. What are the penalties for companies that continue operations when they are not supposed to?**
+As of 7 April, companies which provide essential services can continue operations while those providing non-essential services must suspend operations.
+
+Enforcement agencies will be conducting spot checks during this period and companies in non-essential sectors that remain open are liable to be charged under the Infectious Diseases Act. 
+
+Companies in essential services sectors that have been allowed to continue operations must continue to implement safe distancing measures by:
+- Ensuring all activities that can take place through telecommuting must be done from home;
+- Reducing the need for and duration of physical interactions;
+- Staggering working hours
+- Postponing all group events; and
+- Implementing shift work and/or split team arrangements
+
+If not, they are also liable to be charged under the Infectious Diseases Act.

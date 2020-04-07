@@ -18,7 +18,7 @@ sections:
           description: </br></br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
         - title: Time-Limited Exemption
           url: https://go.gov.sg/timelimitedexemption
-          description: </br></br>Application for your workplace to be allowed to have temporary operations.</br></br></br>Click Here
+          description: </br>Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br></br></br>Click Here
 #    - hero:
 #        title: Activities
 #        background: /images/hero-banner.jpg
