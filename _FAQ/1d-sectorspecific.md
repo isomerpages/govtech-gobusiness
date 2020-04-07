@@ -28,9 +28,22 @@ Licensed hotels, serviced apartments, dormitories and hostels are considered ess
 
 Hotels providing the abovementioned services must close all on-site recreational facilities, while their F&B facilities may remain open for takeaway or delivery only. They must also minimise the number of on-site staffing and all hotel staff who can perform their roles remotely (e.g., finance, HR) must telecommute.
 
-#### **8. What kind of vehicle/ motor services are allowed during the circuit breaker period?**
+#### **8. I have received queries from healthcare workers who wish to make reservations to stay at my hotel as it is nearer to their workplace. Can I accept these bookings?**
+We should support our frontline workers in their work. Hotels can take in such bookings but should verify that the person is a healthcare worker by verifying their staff pass.
+
+
+#### **9. What kind of vehicle/ motor services are allowed during the circuit breaker period?**
 Vehicle workshops that provide vehicle recovery and repair services for emergency cases will be allowed to continue operating. This is necessary to ensure that essential firms and workers in essential services who rely on their vehicles for transport and delivery are able to have their vehicles recovered and repaired in the event of a breakdown, accident or other emergency. Vehicle workshops that continue to operate are required to submit details on their operations and manpower requirements at https://covid.gobusiness.gov.sg by 13 April for review.
 
 Vehicle workshops are not permitted to provide regular servicing and cosmetic-related repairs that are not emergency vehicle services.
 
 Businesses that are allowed to remain open must implement enhanced safe distancing measures to reduce physical interactions. We urge all businesses to play their part in the fight against COVID-19.
+
+#### **10. Are all driving lessons and tests at driving schools suspended during the Circuit Breaker period?**
+Yes, all theory and practical driving/riding lessons at driving schools, and those conducted by Private Driving Instructors (PDI), are suspended between 7 April and 4 May 2020. However, the driving schools’ online services, such as their e-learning portals, are still available via the schools’ websites. All driving tests administered by the Traffic Police scheduled between 7 April and 4 May 2020 (dates are inclusive), will be deferred to after 4 May 2020. Learner drivers and instructors should contact their respective schools for further clarification.
+
+#### **11. Are movers allowed to continue operations?**
+Third party logistics providers, including companies which provide moving services to households and companies, can continue operations.
+
+#### **12. Is it okay for a cleaner/part-time maid to come to clean my house?**
+No. Home cleaning services, including freelance home cleaning, are not permitted to continue.
