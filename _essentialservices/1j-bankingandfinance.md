@@ -12,3 +12,4 @@ permalink: /essentialservices/bankingandfinance/
 5. Currencies, securities and derivatives trading, clearing, settlement, reporting, and depository and trust, and corporate finance advisory services
 6. Asset management services (e.g. portfolio management and trading, trade settlement and operations, trustee services, processing of subscriptions and redemptions in fund units, financial advisory)
 7. Payment services (e.g. fund transfers, credit card and debit card payments) 
+8. Remittance services (but not money exchange services)
