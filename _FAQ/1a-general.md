@@ -87,3 +87,6 @@ Companies in essential services sectors that have been allowed to continue opera
 - Implementing shift work and/or split team arrangements
 
 If not, they are also liable to be charged under the Infectious Diseases Act.
+
+#### **12. My house is currently under renovation and I need a place to stay. Where can I find lodging?**
+You may consider staying at serviced apartments.
