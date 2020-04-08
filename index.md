@@ -8,10 +8,10 @@ notification: Please click <a href="https://go.gov.sg/businessconnect">here</a> 
 sections:
     - hero:
         title: Exemption from Suspension of Activities
-        subtitle: You should ensure the following
+        subtitle: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the Infectious Diseases Act and any regulations promulgated thereunder, Part 7 of the COVID-19 (Temporary Measures) Act 2020 and the COVID-19 (Temporary Measures) (Control Order) Regulations 2020.
         background: /images/hero-banner.jpg
-        url: /regulations2020/
-        button: CLick Here
+#        url: /regulations2020/
+#        button: CLick Here
         key_highlights:
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
