@@ -6,7 +6,7 @@ permalink: /essentialservices/others/
 ### **Others**
 
 1. Selected hotels, serviced apartments, dormitories, hostels
-: a. This includes establishments supporting SHN; GQF; CIF and accommodation needs of students, foreigners, and foreign workers affected by travel restrictions, as well as for existing occupants only.
+: a. This includes establishments supporting SHN; GQF; CIF and accommodation needs of students, healthcare workers, foreigners, and foreign workers affected by travel restrictions, as well as for existing occupants only.
 : b. Hotels must close all on-site recreational facilities. Their F&B facilities may remain open only for takeaway or delivery. Hotels must also minimise the numbers of on-site staffing. All hotel staff who can perform their roles remotely (e.g., finance, HR) must telecommute.
 
 
