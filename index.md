@@ -8,7 +8,7 @@ notification: Please click <a href="https://go.gov.sg/businessconnect">here</a> 
 sections:
     - hero:
         title: Exemption from Suspension of Activities
-        subtitle: You should ensure the followin
+        subtitle: You should ensure the following
         background: /images/hero-banner.jpg
         url: /regulations2020/
         button: CLick Here
