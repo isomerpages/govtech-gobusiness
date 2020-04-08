@@ -8,7 +8,7 @@ notification: Please click <a href="https://go.gov.sg/businessconnect">here</a> 
 sections:
     - hero:
         title: Exemption from Suspension of Activities
-        subtitle: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the Infectious Diseases Act and any regulations promulgated thereunder, Part 7 of the COVID-19 (Temporary Measures) Act 2020 and the COVID-19 (Temporary Measures) (Control Order) Regulations 2020.
+        subtitle: 
         background: /images/hero-banner.jpg
 #        url: /regulations2020/
 #        button: CLick Here
@@ -23,7 +23,7 @@ sections:
           url: https://go.gov.sg/timelimitedexemption
           description: </br>Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br></br></br>Click Here
     - infobar:
-        title: For your attention
+        title: Attention
         subtitle: 
         description: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the Infectious Diseases Act and any regulations promulgated thereunder, Part 7 of the COVID-19 (Temporary Measures) Act 2020 and the COVID-19 (Temporary Measures) (Control Order) Regulations 2020.
         button:
