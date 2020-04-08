@@ -24,7 +24,7 @@ Port operators and logistics service providers will be allowed to continue to op
 Yes, the intention is to keep goods flowing in and to keep the port clear.
 
 #### **7. Are hotels deemed as providing an essential service? Will they be allowed to continue operations?**
-Licensed hotels, serviced apartments, dormitories and hostels are considered essential services if they support Stay Home Notice (SHN), Government Quarantine Facility (GQF), Community Isolation Facility (CIF) and accommodation needs of students, foreigners, and foreign workers affected by travel restrictions, as well as house existing occupants. These establishments can continue to operate until informed otherwise.
+Licensed hotels, serviced apartments, dormitories and hostels are considered essential services if they support Stay Home Notice (SHN), Government Quarantine Facility (GQF), Community Isolation Facility (CIF) and accommodation needs of students, healthcare workers, foreigners, and foreign workers affected by travel restrictions, as well as house existing occupants. These establishments can continue to operate until informed otherwise.
 
 Hotels providing the abovementioned services must close all on-site recreational facilities, while their F&B facilities may remain open for takeaway or delivery only. They must also minimise the number of on-site staffing and all hotel staff who can perform their roles remotely (e.g., finance, HR) must telecommute.
 

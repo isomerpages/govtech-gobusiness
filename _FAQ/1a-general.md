@@ -16,8 +16,6 @@ For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>apply
 For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>applying for exemption for a limited-period of time</ins>, please click on TIME-LIMITED EXEMPTION 
 
 #### **3. What should I do if I do not receive my approval by 7th April? Am I allowed to continue operations?**
-Please allow 2 to 3 days for us to process your applications. 
-
 Businesses that fall in the essential services categories can continue with operations until they are told otherwise.
 
 Businesses that do not fall in the essential services categories must suspend operations from 7 April unless they are told otherwise.
