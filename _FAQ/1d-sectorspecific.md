@@ -89,9 +89,6 @@ In general, adult vaccinations are considered non-essential and should be deferr
 <ins>**c. Routine surveillance for chronic disease and cancer**</ins>
 In general, routine surveillance for chronic diseases and cancer in well individuals is considered non-essential and should be deferred. However, diagnostic work-up for abnormal physical findings and surveillance for patients at higher risk (e.g. patients with strong familial syndromes) may continue if the doctor assesses that it is not in the patient’s best interest for these to be deferred.
 
-#### **18. What primary care preventive health services are considered essential and should continue?**
-Essential services/ procedures refer to those, if not provided or performed, would result in significant or rapid deterioration of the patient’s medical condition, and potentially threatening their health and well-being.
-
 #### **19. Is it compulsory to suspend the provision of ancillary services during this circuit breaker period?**
 To reduce patient movement and reinforce efforts on tightening disease spread, ancillary/nursing and allied health services such as diabetic eye and foot screening, dietetics, counselling, social work, psychologist and podiatry services should be discontinued unless they can be done remotely or through tele-consultation. Ancillary services should only be for cases assessed to have urgent needs (e.g. severely depressed patients needing psychologist service).
 
