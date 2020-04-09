@@ -33,6 +33,12 @@ sections:
           url: https://go.gov.sg/exemptionstatus
           description: </br></br>Exemption status of your application.</br></br></br>Click Here
     - infobar:
+        title: Check Exemption Application Status
+        subtitle: 
+        description: 
+        button: Click Here
+        url: https://go.gov.sg/exemptionstatus
+    - infobar:
         title: Attention
         subtitle: 
         description: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the Infectious Diseases Act and any regulations promulgated thereunder, Part 7 of the COVID-19 (Temporary Measures) Act 2020 and the COVID-19 (Temporary Measures) (Control Order) Regulations 2020.
