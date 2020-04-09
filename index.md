@@ -33,7 +33,7 @@ sections:
           url: https://go.gov.sg/exemptionstatus
           description: </br></br>Exemption status of your application.</br></br></br>Click Here
     - infobar:
-        title: Check Exemption Application Status
+        title: Exemption Application Status
         subtitle: 
         description: 
         button: Click Here
