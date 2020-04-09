@@ -10,12 +10,12 @@ sections:
         title: Exemption from Suspension of Activities
         subtitle: 
         background: /images/hero-banner.jpg
-#        dropdown:
-#          title: I want to...
-#          options:
-#          - title: know more about digital solutions.
-#            url: https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory#dabdd1c2-be46-4b02-96bc-3195f5deee7d
-#          - title: know how to sell my products online.
+        dropdown:
+          title: For your attention,
+          options:
+          - title: to check your exemption status.
+            url: https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory#dabdd1c2-be46-4b02-96bc-3195f5deee7d
+#         - title: know how to sell my products online.
 #            url: https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory#b95deb26-f7db-46f2-b430-3e632ee567c2
 #        url: /regulations2020/
 #        button: CLick Here
