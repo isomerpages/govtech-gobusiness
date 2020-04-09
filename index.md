@@ -25,13 +25,13 @@ sections:
           description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
         - title: Application for Amendment
           url: https://go.gov.sg/additionalinfo
-          description: </br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
+          description: </br></br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
         - title: Time-Limited Exemption
           url: https://go.gov.sg/timelimitedexemption
           description: </br>Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br></br></br>Click Here
-        - title: Status of Application For Exemption
-          url: https://go.gov.sg/exemptionstatus
-          description: </br></br>Exemption status of your application.</br></br></br>Click Here
+#        - title: Status of Application For Exemption
+#          url: https://go.gov.sg/exemptionstatus
+#          description: </br></br>Exemption status of your application.</br></br></br>Click Here
     - infobar:
         title: Exemption Application
         subtitle: 
