@@ -83,7 +83,7 @@ Essential services/ procedures refer to those, if not provided or performed, wou
 <ins>**a. Childhood vaccinations and childhood developmental screening**</ins>
 Childhood vaccinations and developmental assessment for 0 to 18 months are considered essential and should continue as scheduled.
 
-<ins>**b. Adult vaccinations **</ins>
+<ins>**b. Adult vaccinations**</ins>
 In general, adult vaccinations are considered non-essential and should be deferred. However, the doctor may consider proceeding with influenza and pneumococcal vaccinations if the patient is being seen for essential routine chronic care.
 
 <ins>**c. Routine surveillance for chronic disease and cancer**</ins>
