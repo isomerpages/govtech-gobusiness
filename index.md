@@ -10,6 +10,13 @@ sections:
         title: Exemption from Suspension of Activities
         subtitle: 
         background: /images/hero-banner.jpg
+#        dropdown:
+#          title: I want to...
+#          options:
+#          - title: know more about digital solutions.
+#            url: https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory#dabdd1c2-be46-4b02-96bc-3195f5deee7d
+#          - title: know how to sell my products online.
+#            url: https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory#b95deb26-f7db-46f2-b430-3e632ee567c2
 #        url: /regulations2020/
 #        button: CLick Here
         key_highlights:
@@ -28,6 +35,14 @@ sections:
         description: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the Infectious Diseases Act and any regulations promulgated thereunder, Part 7 of the COVID-19 (Temporary Measures) Act 2020 and the COVID-19 (Temporary Measures) (Control Order) Regulations 2020.
         button:
         url:
+#    - infopic:
+#        title: Download the TraceTogether App!
+#        subtitle: Support and Supplement Contact Tracing Efforts
+#        description: Help stop the spread of COVID-19 through community-driven contact tracing. 
+#        button: Click to Download
+#        url: "https://www.tracetogether.gov.sg"
+#        image: /images/TTalt.jpg
+#        alt: TraceTogether Download
 #    - hero:
 #        title: Activities
 #        background: /images/hero-banner.jpg

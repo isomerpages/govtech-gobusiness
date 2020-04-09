@@ -9,10 +9,10 @@ contacts:
     content:
 #    - phone: Test
     - phone: +65 6898 1800
-    - other: (Monday to Sunday, 8am to 8pm) 
+    - other: (Monday to Sunday, 8:30am to 5:30pm) 
 #    - email: Test
     - email: safedistancing@enterprisesg.gov.sg
 #    - other: Test 
-    - other: <br>We are expecting a high volume of enquiries and appreciate your understanding and patience. Kindly refrain from submitting duplicate applications to avoid further delays.  
+    - other: <br>We are experiencing a high volume of enquiries and appreciate your understanding and patience. Kindly refrain from submitting duplicate applications to avoid further delays.  
 #    - other: For more enquiries,<br>contact us at +65 6898 1800 or drop us an email at safedistancing@enterprisesg.gov.sg   
 ---

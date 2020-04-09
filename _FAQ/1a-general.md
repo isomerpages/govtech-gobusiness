@@ -6,7 +6,7 @@ permalink: /faq/general
 #### **1. How do I know if my business is an ‘Essential’ or ‘Non-Essential’ Service?**
 You may refer to the list of Essential Services.
 
-You may also call the Enterprise Infoline at 6898-1800 from 8am-8pm (Monday to Sunday).
+You may also call the Enterprise Infoline at 6898-1800 from 8:30am to 5:30pm (Monday to Sunday).
 
 #### **2. Should I apply for ‘General’ or ‘Time-Limited’ exemption?**
 For Companies providing **<ins>Essential Services</ins>**, you will need to declare, please click on GENERAL EXEMPTION 
@@ -74,19 +74,16 @@ You may consider food takeaways at other F&B outlets or food/grocery delivery se
 #### **10. Is it safe to use reusable containers for takeaway? What if the container was handled by someone who has the virus?**
 According to the Singapore Food Authority, there is currently no evidence to support the transmission of COVID-19 associated with food and food packaging that may have been exposed to an infected person. This means that there is a very low risk of spread from food, product and packaging. Members of the public should continue to practice good hygiene habits such as washing their hands regularly.
 
-#### **11. What are the penalties for companies that continue operations when they are not supposed to?**
-As of 7 April, companies which provide essential services can continue operations while those providing non-essential services must suspend operations.
+#### **11. What are the penalties for non-compliant companies that flout the suspension of activities at workplace premises and safe distancing measures?**
+The Government takes a serious view of any infringement of safe distancing measures and will not hesitate to take actions against non-compliant businesses.
 
-Enforcement agencies will be conducting spot checks during this period and companies in non-essential sectors that remain open are liable to be charged under the Infectious Diseases Act. 
-
-Companies in essential services sectors that have been allowed to continue operations must continue to implement safe distancing measures by:
-- Ensuring all activities that can take place through telecommuting must be done from home;
-- Reducing the need for and duration of physical interactions;
-- Staggering working hours
-- Postponing all group events; and
-- Implementing shift work and/or split team arrangements
-
-If not, they are also liable to be charged under the Infectious Diseases Act.
+Under the COVID-19 (Temporary Measures) Act passed in Parliament on 7 April 2020, first-time offenders will face a fine of up to S$10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.
 
 #### **12. My house is currently under renovation and I need a place to stay. Where can I find lodging?**
 You may consider staying at serviced apartments.
+
+#### **13. How do we identify Safe Distancing Ambassadors from ESG and STB?**
+Safe Distancing Ambassadors from ESG and STB will be wearing a lanyard and a red polo shirt with the words “Safe Distancing Ambassador” on the back.
+
+#### **14. I do not agree with the decision of the Safe Distancing Ambassador. What is my recourse?**
+The decision of the SDA / enforcement officers is final. Verbal warnings will be issued and if businesses continue to flout the rules, stricter enforcement measures including fines and suspension of operations will be imposed.
