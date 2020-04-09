@@ -4,7 +4,7 @@ permalink: /faq/essentialservices
 ---
 
 #### **1. How will I know whether my company is carrying out an essential activity and should therefore be exempted from suspension?**
-Only essential services and related supply chains are exempted from the suspension. Carefully review the full list of essential services exempted from the suspension. **If your company performs any of the services, you may continue to perform those services and operate from your workplace premises with safe distancing practices in place.** You will need to submit the relevant details by end of 13 Apr for review, and can continue operating until informed otherwise. Should your services be found not to be part of the list of essential services, you will be required to stop operations.
+Only essential services and related supply chains are exempted from the suspension. Carefully review the full list of essential services exempted from the suspension. **If your company performs any of the services, you may continue to perform those services and operate from your workplace premises with safe distancing practices in place.** Please submit the relevant details as soon as possible for review. In the meantime, you can continue operating until informed otherwise. Should your services be found not to be part of the list of essential services, you will be required to stop operations.
 
 #### **2. My company’s activities are not listed in the list of essential services, but we support an essential service that is listed. What should I do?**
 If your company supports an essential service, please submit a general application. You will need to provide details such as the names of the essential firms and the goods and/or services that you provide to these firms. 

@@ -34,7 +34,7 @@ However, they should only do so for essential activities, such as to get food, h
 Employers can write in to the Ministry of Manpower with reasons for the redeployment and seek permission to do so.
 
 #### **9. Is company-based training for essential firms allowed?**
-If the company is carrying out essential services and needs to conduct selected face-to-face Continuing Education and Training (CET) for job placement needs or for severely affected economic sectors, the training will be allowed to operate until informed otherwise. The company will need to submit details of their plans to operate by 13 April. 
+If the company is carrying out essential services and needs to conduct selected face-to-face Continuing Education and Training (CET) for job placement needs or for severely affected economic sectors, the training will be allowed to operate until informed otherwise. The company should submit details of their plans to operate as soon as possible. 
 
 For non-essential firms, training should be conducted online or in e-learning format. 
 
@@ -51,3 +51,11 @@ For inter-sectoral transfers (earlier than 40 days before work permit expiry), f
 The Jobs Support Scheme announced by the Government on 6 April is meant to support employers to retain and continue to pay their local employees, even during periods of reduction in business activity.
 
 The Advisory on salary and leave arrangements can be found on the MOM website at <a href="https://www.mom.gov.sg/covid-19/advisory-on-salary-and-leave" target="_blank">https://www.mom.gov.sg/covid-19/advisory-on-salary-and-leave</a>
+
+#### **11. What can workers of non-essential firms that have not received the approval to continue operations do, if they are told to leave the company due to refusal to report to work?**
+Workers who have been wrongfully dismissed may file a claim against the wrongful dismissal or make a phone advisory appointment with the <a href="https://www.tal.sg/tadm/eServices" target="_blank">Tripartite Alliance for Dispute Management (TADM)</a>.
+
+For more information on what constitutes a wrongful dismissal, please refer to the Tripartite Guidelines on Wrongful Dismissal.
+
+#### **13. Do statutory medical check-ups, e.g. for foreign domestic workers and work permit holders, medical examination for driving licence, have to be deferred?**
+MStatutory medical check-ups are considered non-essential and should be deferred. MOH is working with MOM and MOT/LTA for them to notify employers/companies.
