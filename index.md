@@ -22,6 +22,13 @@ sections:
         - title: Time-Limited Exemption
           url: https://go.gov.sg/timelimitedexemption
           description: </br>Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br></br></br>Click Here
+    dropdown:
+        title: I want to...
+        options:
+        - title: know more about digital solutions.
+          url: https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory
+        - title: know how to sell my products online.
+          url: https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory
     - infobar:
         title: Attention
         subtitle: 
