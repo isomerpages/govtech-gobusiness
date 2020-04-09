@@ -58,4 +58,4 @@ Workers who have been wrongfully dismissed may file a claim against the wrongful
 For more information on what constitutes a wrongful dismissal, please refer to the Tripartite Guidelines on Wrongful Dismissal.
 
 #### **13. Do statutory medical check-ups, e.g. for foreign domestic workers and work permit holders, medical examination for driving licence, have to be deferred?**
-MStatutory medical check-ups are considered non-essential and should be deferred. MOH is working with MOM and MOT/LTA for them to notify employers/companies.
+Statutory medical check-ups are considered non-essential and should be deferred. MOH is working with MOM and MOT/LTA for them to notify employers/companies.
