@@ -18,7 +18,7 @@ sections:
 #         - title: know how to sell my products online.
 #            url: https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory#b95deb26-f7db-46f2-b430-3e632ee567c2
         url: https://go.gov.sg/businessconnect
-        button: Check Exemption Status
+        button: Check My Exemption Status
         key_highlights:
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
