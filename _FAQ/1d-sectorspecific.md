@@ -122,6 +122,3 @@ If the services that your law practice provides are not one of the four categori
 
 #### **27. Are landscaping works considered an essential service?**
 Landscaping works are not be considered an essential service unless it is for the purpose of vector control to prevent mosquito breeding.
-
-#### **19. sample**
-sample
