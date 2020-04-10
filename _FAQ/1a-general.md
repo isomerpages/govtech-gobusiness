@@ -93,3 +93,8 @@ Safe Distancing Ambassadors from ESG and STB will be wearing a lanyard and a red
 
 #### **16. I do not agree with the decision of the Safe Distancing Ambassador. What is my recourse?**
 The decision of the SDA / enforcement officers is final. Verbal warnings will be issued and if businesses continue to flout the rules, stricter enforcement measures including fines and suspension of operations will be imposed.
+
+#### **17. How do we verify the identity of Enforcement Officers? What do they do? Are we required to pay fines on the spot?**
+Enforcement officers from various agencies including the Singapore Police Force, National Environment Agency, National Parks Board and Land Transport Authority, are issued a letter of appointment by the Ministry of Health. They are deployed to enforce safe distancing measures and control order regulations, by conducting compliance inspections during the “circuit breaker” period.
+
+These officers can issue offenders (businesses or individuals) a Notice of Offence, which include the composition fine amount and details of the offence. Offenders will not be asked to pay their fines on the spot. These officers can also issue warning letters to individuals.
