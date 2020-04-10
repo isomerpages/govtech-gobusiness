@@ -33,10 +33,10 @@ sections:
 #          url: https://go.gov.sg/exemptionstatus
 #          description: </br></br>Exemption status of your application.</br></br></br>Click Here
     - infobar:
-        title: Exemption Application
+        title: Status of Application
         subtitle: 
         description: 
-        button: Check Status Here
+        button: Check Status of General Exemption Here
         url: https://go.gov.sg/exemptionstatus
     - infobar:
         title: Attention
