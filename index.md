@@ -36,7 +36,7 @@ sections:
         title: Status of Application
         subtitle: 
         description: 
-        button: Check Status of General Exemption
+        button: Check General Exemption Status
         url: https://go.gov.sg/exemptionstatus
     - infobar:
         title: Attention
