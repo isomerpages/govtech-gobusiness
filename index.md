@@ -51,7 +51,7 @@ sections:
         button: Find Out More
         url: https://go.gov.sg/newsandadvisories
         image: /images/businesphoto.jpg
-        alt: Members of the Ministry of ABC shaking hands
+        alt: 
 #    - infopic:
 #        title: Download the TraceTogether App!
 #        subtitle: Support and Supplement Contact Tracing Efforts
