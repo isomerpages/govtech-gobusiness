@@ -17,14 +17,15 @@ permalink: /essentialservices/healthandsocialservices/
 4. Essential Allied Health Services that cannot be delivered remotely and are only for specific clients who meet the following criteria:
 : a. Patient(s)/ client(s) with no caregiver; and
 : b. Without therapy for a period of at least one month, patient(s)/ client(s)'s conditions would either likely deteriorate within one month, resulting in hospitalization e.g. progressive motor neuron disease <ins>OR</ins> patient(s)/ client(s) would suffer from permanent loss of function.
-For application for exemption based on the above criteria, please submit the following information at go.gov.sg/ahs-exemption:
+
+    For application for exemption based on the above criteria, please submit the following information at go.gov.sg/ahs-exemption:
 : a. Surname and initials of client's name;
 : b. NRIC number (last 3 digits and alphabet);
 : c. Age;
 : d. Relevant diagnosis and description of why the client would deteriorate within 1 month, resulting in hospitalization/ suffer from permanent loss of function;
 : e. No. of home therapy sessions provided to patient in last one month (if applicable)
 
-5. Community mental health services, senior befriending, counselling and case management services, and alert alarm system/check-ins by Senior Activity Centres are to be delivered remotely
+1. Community mental health services, senior befriending, counselling and case management services, and alert alarm system/check-ins by Senior Activity Centres are to be delivered remotely
 : a. Services to be delivered remotely where possible. For certain blocks where remote monitoring is not possible, staff to continue manning the Alert Alarm System at the Senior Activity Centres.
 
 6. Supporting services (e.g. blood services, laboratories and radiological services, research related to COVID-19, pharmacies, disease surveillance and response services, medical and patient transport, provision of medical items and personal care items)
