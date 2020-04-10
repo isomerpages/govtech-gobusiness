@@ -16,11 +16,9 @@ For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>apply
 For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>applying for exemption for a limited-period of time</ins>, please click on TIME-LIMITED EXEMPTION 
 
 #### **3. What should I do if I do not receive my approval by 7th April? Am I allowed to continue operations?**
-Businesses that fall in the essential services categories can continue with operations until they are told otherwise.
+If you had previously submitted an application for General Exemption, please click here to check the status of your application.
 
-Businesses that do not fall in the essential services categories must suspend operations from 7 April unless they are told otherwise.
-
-If you are unsure whether your business falls under which category, please suspend all activities until you have received the approval.
+Businesses that have not been granted an exemption must suspend operations unless they are told otherwise.
 
 #### **4. I am self employed / own a business with multiple entities. Do I need to submit my applications individually or will one application cover all my businesses?**
 You will need to submit one application for each registered business. One application per UEN number. 
@@ -31,7 +29,15 @@ You can call the Enterprise Infoline at 6898-1800 to request for a form to be em
 #### **6. I am having problems logging into CorpPass. Who can I approach for help?**
 You can contact the Corp Pass Helpdesk at 6643-0577 or email support@corppass.gov.sg.
 
-#### **7. These additional measures have impacted my business greatly. How is the Government supporting us?**
+#### **7. I had previously submitted an application for General Exemption but have not heard back on my application status. What should I do?**
+Please allow at least 2-3 days for your application to be processed. You may check the status of your application here.
+
+#### **8. I am unable to find the status of my application for General Exemption on covid.gobusiness.gov.sg. What should I do?**
+Please allow at least 2-3 days for your application to be processed.
+
+If you are still unable to view your application status after 3 days, please write to mti_email@mti.gov.sg with your company name, UEN and the reference number for your application.
+
+#### **9. These additional measures have impacted my business greatly. How is the Government supporting us?**
 DPM Heng Swee Keat announced the Solidarity Budget 2020 on 6 April 2020.
 
 A summary of the key provisions for businesses are as follows:
@@ -65,25 +71,25 @@ Please refer to the <a href="https://www.singaporebudget.gov.sg/budget_2020" tar
 
 [1] 75% wage support for aviation, and tourism sectors; 50% for the food services sector, and 25% for all other sectors  
 
-#### **8. If I see a non-essential business continue to operate even though it is not supposed to, what should I do?**
+#### **10. If I see a non-essential business continue to operate even though it is not supposed to, what should I do?**
 Please report this business, including providing relevant details such as its name, address and relevant evidence (e.g. photographs) to Covid_GoBusiness@mti.gov.sg
 
-#### **9. What do I do if I am unable to enter the supermarket/F&B outlets due to long queues?**
+#### **11. What do I do if I am unable to enter the supermarket/F&B outlets due to long queues?**
 You may consider food takeaways at other F&B outlets or food/grocery delivery services.
 
-#### **10. Is it safe to use reusable containers for takeaway? What if the container was handled by someone who has the virus?**
+#### **12. Is it safe to use reusable containers for takeaway? What if the container was handled by someone who has the virus?**
 According to the Singapore Food Authority, there is currently no evidence to support the transmission of COVID-19 associated with food and food packaging that may have been exposed to an infected person. This means that there is a very low risk of spread from food, product and packaging. Members of the public should continue to practice good hygiene habits such as washing their hands regularly.
 
-#### **11. What are the penalties for non-compliant companies that flout the suspension of activities at workplace premises and safe distancing measures?**
+#### **13. What are the penalties for non-compliant companies that flout the suspension of activities at workplace premises and safe distancing measures?**
 The Government takes a serious view of any infringement of safe distancing measures and will not hesitate to take actions against non-compliant businesses.
 
 Under the COVID-19 (Temporary Measures) Act passed in Parliament on 7 April 2020, first-time offenders will face a fine of up to S$10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.
 
-#### **12. My house is currently under renovation and I need a place to stay. Where can I find lodging?**
+#### **14. My house is currently under renovation and I need a place to stay. Where can I find lodging?**
 You may consider staying at serviced apartments.
 
-#### **13. How do we identify Safe Distancing Ambassadors from ESG and STB?**
+#### **15. How do we identify Safe Distancing Ambassadors from ESG and STB?**
 Safe Distancing Ambassadors from ESG and STB will be wearing a lanyard and a red polo shirt with the words “Safe Distancing Ambassador” on the back.
 
-#### **14. I do not agree with the decision of the Safe Distancing Ambassador. What is my recourse?**
+#### **16. I do not agree with the decision of the Safe Distancing Ambassador. What is my recourse?**
 The decision of the SDA / enforcement officers is final. Verbal warnings will be issued and if businesses continue to flout the rules, stricter enforcement measures including fines and suspension of operations will be imposed.
