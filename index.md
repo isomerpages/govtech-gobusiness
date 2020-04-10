@@ -50,7 +50,7 @@ sections:
         description: Get updated on the latest News and Advisories related to COVID-19.
         button: Find Out More
         url: https://go.gov.sg/newsandadvisories
-        image: businesphoto.jpg
+        image: /images/businesphoto.jpg
         alt: Members of the Ministry of ABC shaking hands
 #    - infopic:
 #        title: Download the TraceTogether App!
