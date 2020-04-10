@@ -11,14 +11,14 @@ sections:
         subtitle: 
         background: /images/hero-banner.jpg
 #        dropdown:
-#          title: I want to...
+#          title: For your attention,
 #          options:
-#          - title: know more about digital solutions.
+#          - title: to check your exemption status.
 #            url: https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory#dabdd1c2-be46-4b02-96bc-3195f5deee7d
-#          - title: know how to sell my products online.
+#         - title: know how to sell my products online.
 #            url: https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory#b95deb26-f7db-46f2-b430-3e632ee567c2
-#        url: /regulations2020/
-#        button: CLick Here
+#        url: https://go.gov.sg/exemptionstatus
+#        button: Status of Application For Exemption
         key_highlights:
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
@@ -29,6 +29,15 @@ sections:
         - title: Time-Limited Exemption
           url: https://go.gov.sg/timelimitedexemption
           description: </br>Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br></br></br>Click Here
+#        - title: Status of Application For Exemption
+#          url: https://go.gov.sg/exemptionstatus
+#          description: </br></br>Exemption status of your application.</br></br></br>Click Here
+    - infobar:
+        title: Status of Application
+        subtitle: 
+        description: 
+        button: Check Status of General Exemption Application Here
+        url: https://go.gov.sg/exemptionstatus
     - infobar:
         title: Attention
         subtitle: 
