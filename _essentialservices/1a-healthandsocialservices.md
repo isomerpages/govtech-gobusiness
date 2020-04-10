@@ -23,6 +23,7 @@ permalink: /essentialservices/healthandsocialservices/
 : b. NRIC number (last 3 digits and alphabet);
 : c. Age;
 : d. Relevant diagnosis and description of why the client would deteriorate within 1 month, resulting in hospitalization/ suffer from permanent loss of function.
+
 No. of home therapy sessions provided to patient in last one month (if applicable)
 
 6. Community mental health services, senior befriending, counselling and case management services, and alert alarm system/check-ins by Senior Activity Centres are to be delivered remotely
