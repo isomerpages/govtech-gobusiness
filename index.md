@@ -51,7 +51,7 @@ sections:
         button: Find Out More
         url: https://go.gov.sg/newsandadvisories
         image: /images/businesphoto.jpg
-        alt: 
+        alt: News & Advisories
 #    - infopic:
 #        title: Download the TraceTogether App!
 #        subtitle: Support and Supplement Contact Tracing Efforts
