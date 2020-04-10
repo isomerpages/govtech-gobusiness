@@ -44,6 +44,14 @@ sections:
         description: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the Infectious Diseases Act and any regulations promulgated thereunder, Part 7 of the COVID-19 (Temporary Measures) Act 2020 and the COVID-19 (Temporary Measures) (Control Order) Regulations 2020.
         button:
         url:
+    - infopic:
+        title: News & Advisories
+        subtitle: 
+        description: Get updated on the latest News and Advisories related to COVID-19.
+        button: Find Out More
+        url: https://go.gov.sg/newsandadvisories
+        image: businesphoto.jpg
+        alt: Members of the Ministry of ABC shaking hands
 #    - infopic:
 #        title: Download the TraceTogether App!
 #        subtitle: Support and Supplement Contact Tracing Efforts
