@@ -74,7 +74,7 @@ sections:
         description: Chat with our virtual assistance on questions related to COVID-19 outbreak.
         button: Chat Now
         url: https://go.gov.sg/businessconnect
-        image: /images/chatbo1.jpg
+        image: /images/chatbot1.jpg
         alt: Chat for Biz
 #    - infopic:
 #        title: Download the TraceTogether App!
