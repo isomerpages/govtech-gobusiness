@@ -60,14 +60,14 @@ sections:
         url: /govtassist/budget2020
         image: /images/budget2020.jpg
         alt: The Unity, Resilience & Solidarity Budgets
-    - infopic:
-        title: Government Assistance
-        subtitle: 
-        description: List of assistances that Government is providing.
-        button: Find Out More
-        url: /govtassist/govtassist
-        image: /images/helpinghands.jpg
-        alt: Government Assistance
+#    - infopic:
+#        title: Government Assistance
+#        subtitle: 
+#        description: List of assistances that Government is providing.
+#        button: Find Out More
+#        url: /govtassist/govtassist
+#        image: /images/helpinghands.jpg
+#        alt: Government Assistance
     - infopic:
         title: Chat for Biz
         subtitle: 
