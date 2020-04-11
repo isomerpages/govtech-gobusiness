@@ -7,19 +7,28 @@ permalink: /govtassist/budget2020/
 
 #### **1. Jobs Support Scheme**
 
-![Jobs Support Scheme](/images/jsspic.png "Jobs Support Scheme")
+![Jobs Support Scheme](/images/jssinfo.png "Jobs Support Scheme")
 
-<ins>Links</ins>
+To find out more, please see below:
+- For application, please click <a target="_blank" href="https://go.gov.sg/jssapplication">here</a><br/>.
+- Check for eligibility, please click <a href="https://go.gov.sg/jsseligibility">here</a><br/>.
 
-Detailed writeup, <a target="_blank" href="https://www.iras.gov.sg/irashome/Schemes/Businesses/Jobs-Support-Scheme--JSS-/">here</a><br/>
-Check for eligibility, <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=JSSEmployerEligibilitySearch">here</a><br/>
-Job Support Scheme calculator, <a href="https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Schemes/JSS%20Calculator.xlsx">here</a>
 
-#### **2.	<ins>Wage Credit Scheme</ins>**
+#### **2. <ins>Wage Credit Scheme</ins>**
 
-<ins>Link</ins>
+![Wage Credit Scheme](/images/ecsinfo.png "Wage Credit Scheme")
 
-Detailed writeup, <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Schemes/Businesses/Wage-Credit-Scheme--WCS-/">here</a>
+To find out more, please see below:
+- For application, please click <a target="_blank" href="https://go.gov.sg/wcsapplication">here</a><br/>.
+- Check for eligibility, please click <a href="https://go.gov.sg/wcseligibility">here</a><br/>.
+
+#### **3. <ins>Deferment of Income Tax Payments</ins>**
+
+![Deferment of Income Tax Payments](/images/ecsinfo.png "Deferment of Income Tax Payments")
+
+To find out more, please see below:
+- For more information, please click <a target="_blank" href="https://go.gov.sg/deferinfo">here</a><br/>.
+- To check corporate tax payment deferement, please click <a target="_blank" href="https://go.gov.sg/defercal">here</a><br/>.
 
 
 #### **3.	<ins>25% Corporate income tax rebate (capped at $15,000)</ins>**
