@@ -4,7 +4,7 @@ title: GoBusiness
 description: For Singapore Businesses
 image: /images/
 permalink: /
-notification: Please click <a href="https://go.gov.sg/businessconnect">here</a> for enquiries. 
+notification: 
 sections:
     - hero:
         title: Exemption from Suspension of Activities
@@ -68,6 +68,14 @@ sections:
         url: /govtassist/govtassist
         image: /images/helpinghands.jpg
         alt: Government Assistance
+    - infopic:
+        title: Chat for Biz
+        subtitle: 
+        description: Chat with our virtual assistance on questions related to COVID-19 outbreak.
+        button: Chat Now
+        url: https://go.gov.sg/businessconnect
+        image: /images/chatbo1.jpg
+        alt: Chat for Biz
 #    - infopic:
 #        title: Download the TraceTogether App!
 #        subtitle: Support and Supplement Contact Tracing Efforts
