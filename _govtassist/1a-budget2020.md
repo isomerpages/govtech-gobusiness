@@ -10,8 +10,8 @@ permalink: /govtassist/budget2020/
 ![Jobs Support Scheme](/images/jssinfo.png "Jobs Support Scheme")
 
 To find out more, please see below:
-- For application, please click <a target="_blank" href="https://go.gov.sg/jssapplication">here</a><br/>.
-- Check for eligibility, please click <a href="https://go.gov.sg/jsseligibility">here</a><br/>.
+- For application, please click <a target="_blank" href="https://go.gov.sg/jssapplication">here</a>.
+- Check for eligibility, please click <a href="https://go.gov.sg/jsseligibility">here</a>.
 
 
 #### **2. <ins>Wage Credit Scheme</ins>**
@@ -19,16 +19,16 @@ To find out more, please see below:
 ![Wage Credit Scheme](/images/ecsinfo.png "Wage Credit Scheme")
 
 To find out more, please see below:
-- For application, please click <a target="_blank" href="https://go.gov.sg/wcsapplication">here</a><br/>.
-- Check for eligibility, please click <a href="https://go.gov.sg/wcseligibility">here</a><br/>.
+- For application, please click <a target="_blank" href="https://go.gov.sg/wcsapplication">here</a>.
+- Check for eligibility, please click <a href="https://go.gov.sg/wcseligibility">here</a>.
 
 #### **3. <ins>Deferment of Income Tax Payments</ins>**
 
 ![Deferment of Income Tax Payments](/images/ecsinfo.png "Deferment of Income Tax Payments")
 
 To find out more, please see below:
-- For more information, please click <a target="_blank" href="https://go.gov.sg/deferinfo">here</a><br/>.
-- To check corporate tax payment deferement, please click <a target="_blank" href="https://go.gov.sg/defercal">here</a><br/>.
+- For more information, please click <a target="_blank" href="https://go.gov.sg/deferinfo">here</a>.
+- To check corporate tax payment deferement, please click <a target="_blank" href="https://go.gov.sg/defercal">here</a>.
 
 
 #### **3.	<ins>25% Corporate income tax rebate (capped at $15,000)</ins>**
