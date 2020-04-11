@@ -57,7 +57,7 @@ sections:
         subtitle: 
         description: Understand and apply for immediate help from Government for businesses.
         button: Find Out More
-        url: /covid/budget2020
+        url: /govtassist/budget2020
         image: /images/budget2020.jpg
         alt: The Unity, Resilience & Solidarity Budgets
     - infopic:
@@ -65,7 +65,7 @@ sections:
         subtitle: 
         description: List of assistances that Government is providing.
         button: Find Out More
-        url: /covid/govtassist
+        url: /govtassist/govtassist
         image: /images/helpinghands.jpg
         alt: Government Assistance
 #    - infopic:

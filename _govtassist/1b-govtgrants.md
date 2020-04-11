@@ -1,6 +1,6 @@
 ---
 title: Government Assistance
-permalink: /covid/govtassist/
+permalink: /govtassist/govtassist/
 ---
 
 ### **Available Government Assistance**
