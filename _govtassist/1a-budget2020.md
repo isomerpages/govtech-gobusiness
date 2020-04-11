@@ -3,9 +3,11 @@ title: The Unity, Resilience & Solidarity Budgets
 permalink: /govtassist/budget2020/
 ---
 
-## **Help Business**
+## **Enhanced Support for Businesses**
 
 #### **1. Jobs Support Scheme**
+
+![Jobs Support Scheme](/images/jsspic.png "Jobs Support Scheme")
 
 <ins>Links</ins>
 

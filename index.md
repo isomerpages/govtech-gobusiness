@@ -55,7 +55,7 @@ sections:
     - infopic:
         title: The Unity, Resilience & Solidarity Budgets
         subtitle: 
-        description: Understand and apply for immediate help from Government for businesses.
+        description: Key measures to support business in Supplementary Budget 2020.
         button: Find Out More
         url: /govtassist/budget2020
         image: /images/budget2020.jpg
