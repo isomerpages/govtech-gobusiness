@@ -14,7 +14,7 @@ To find out more, please see below:
 - Check for eligibility, please click <a href="https://go.gov.sg/jsseligibility">here</a>.
 
 
-#### **2. <ins>Wage Credit Scheme</ins>**
+#### **2. Wage Credit Scheme**
 
 ![Wage Credit Scheme](/images/ecsinfo.png "Wage Credit Scheme")
 
@@ -22,7 +22,7 @@ To find out more, please see below:
 - For application, please click <a target="_blank" href="https://go.gov.sg/wcsapplication">here</a>.
 - Check for eligibility, please click <a href="https://go.gov.sg/wcseligibility">here</a>.
 
-#### **3. <ins>Deferment of Income Tax Payments</ins>**
+#### **3. Deferment of Income Tax Payments**
 
 ![Deferment of Income Tax Payments](/images/ecsinfo.png "Deferment of Income Tax Payments")
 
