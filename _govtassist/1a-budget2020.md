@@ -11,7 +11,7 @@ permalink: /govtassist/budget2020/
 
 To find out more, please see below:
 - For application, please click <a target="_blank" href="https://go.gov.sg/jssapplication">here</a>.
-- Check for eligibility, please click <a href="https://go.gov.sg/jsseligibility">here</a>.
+- Check for eligibility, please click <a target="_blank" href="https://go.gov.sg/jsseligibility">here</a>.
 
 
 #### **2. Wage Credit Scheme**
@@ -20,7 +20,7 @@ To find out more, please see below:
 
 To find out more, please see below:
 - For application, please click <a target="_blank" href="https://go.gov.sg/wcsapplication">here</a>.
-- Check for eligibility, please click <a href="https://go.gov.sg/wcseligibility">here</a>.
+- Check for eligibility, please click <a target="_blank" href="https://go.gov.sg/wcseligibility">here</a>.
 
 #### **3. Deferment of Income Tax Payments**
 
