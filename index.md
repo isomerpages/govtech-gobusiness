@@ -4,7 +4,7 @@ title: GoBusiness
 description: For Singapore Businesses
 image: /images/
 permalink: /
-notification: Please click <a href="https://go.gov.sg/businessconnect">here</a> for enquiries. 
+notification: 
 sections:
     - hero:
         title: Exemption from Suspension of Activities
@@ -52,6 +52,30 @@ sections:
         url: https://go.gov.sg/newsandadvisories
         image: /images/businesphoto.jpg
         alt: News & Advisories
+    - infopic:
+        title: The Unity, Resilience & Solidarity Budgets
+        subtitle: 
+        description: Key measures to support business in Supplementary Budget 2020.
+        button: Find Out More
+        url: /govtassist/budget2020
+        image: /images/budget2020.jpg
+        alt: The Unity, Resilience & Solidarity Budgets
+#    - infopic:
+#        title: Government Assistance
+#        subtitle: 
+#        description: List of assistances that Government is providing.
+#        button: Find Out More
+#        url: /govtassist/govtassist
+#        image: /images/helpinghands.jpg
+#        alt: Government Assistance
+    - infopic:
+        title: Chat for Biz
+        subtitle: 
+        description: Chat with our virtual assistance on questions related to COVID-19 outbreak.
+        button: Chat Now
+        url: https://go.gov.sg/businessconnect
+        image: /images/chatbot1.jpg
+        alt: Chat for Biz
 #    - infopic:
 #        title: Download the TraceTogether App!
 #        subtitle: Support and Supplement Contact Tracing Efforts

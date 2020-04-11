@@ -16,7 +16,7 @@ For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>apply
 For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>applying for exemption for a limited-period of time</ins>, please click on TIME-LIMITED EXEMPTION 
 
 #### **3. What should I do if I do not receive my approval by 7th April? Am I allowed to continue operations?**
-If you had previously submitted an application for General Exemption, please click here to check the status of your application.
+If you had previously submitted an application for General Exemption, please click <a href="https://go.gov.sg/exemptionstatus" target="_blank">here</a> to check the status of your application.
 
 Businesses that have not been granted an exemption must suspend operations unless they are told otherwise.
 
