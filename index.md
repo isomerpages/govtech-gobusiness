@@ -52,6 +52,22 @@ sections:
         url: https://go.gov.sg/newsandadvisories
         image: /images/businesphoto.jpg
         alt: News & Advisories
+    - infopic:
+        title: The Unity, Resilience & Solidarity Budgets
+        subtitle: 
+        description: Understand and apply for immediate help from Government for businesses.
+        button: Find Out More
+        url: /covid/budget2020/
+        image: /images/budget2020.jpg
+        alt: The Unity, Resilience & Solidarity Budgets
+    - infopic:
+        title: Government Assistance
+        subtitle: 
+        description: List of assistances that Government is providing.
+        button: Find Out More
+        url: /covid/govtassist/
+        image: /images/helpinghands.jpg
+        alt: Government Assistance
 #    - infopic:
 #        title: Download the TraceTogether App!
 #        subtitle: Support and Supplement Contact Tracing Efforts
