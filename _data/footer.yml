@@ -6,6 +6,9 @@ terms_of_use: /terms-of-use/
 
 navlinks:
     - title: Products
-      url: /privacy/    
+      url: /govtassist/govtassist/
+      sublinks:
+        - title: Licencing
+        url: /govtassist/govtassist/
     - title: List of Essential Services
       url: /essentialservices/
