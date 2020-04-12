@@ -6,9 +6,6 @@ terms_of_use: /terms-of-use/
 
 navlinks:
     - title: Products
-      url: /privacy/
-      sublinks:
-        - title: Licencing Service Journey
-        url: https://www.gobusiness.gov.sg/licences/foodservices        
+      url: /privacy/    
     - title: List of Essential Services
       url: /essentialservices/
