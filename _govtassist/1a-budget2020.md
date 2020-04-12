@@ -51,7 +51,7 @@ To find out more, please see below:
 - For SLA, please click <a target="_blank" href="https://go.gov.sg/slarebate">here</a>.
 
 
-#### **5. Cash Flow Support for Enterprises**
+#### **6. Cash Flow Support for Enterprises**
 
 ![Cash Flow Support for Enterprises](/images/cashflow_updated.png "Cash Flow Support for Enterprises")
 
