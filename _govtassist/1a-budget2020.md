@@ -7,7 +7,7 @@ permalink: /govtassist/budget2020/
 
 #### **1. Jobs Support Scheme**
 
-![Jobs Support Scheme](/images/jssinfo.png "Jobs Support Scheme")
+![Jobs Support Scheme](/images/jssinfo_updated.png "Jobs Support Scheme")
 
 To find out more, please see below:
 - For application, please click <a target="_blank" href="https://go.gov.sg/jssapplication">here</a>.
@@ -16,7 +16,7 @@ To find out more, please see below:
 
 #### **2. Wage Credit Scheme**
 
-![Wage Credit Scheme](/images/ecsinfo.png "Wage Credit Scheme")
+![Wage Credit Scheme](/images/wcsinfo_updated.png "Wage Credit Scheme")
 
 To find out more, please see below:
 - For application, please click <a target="_blank" href="https://go.gov.sg/wcsapplication">here</a>.
@@ -25,7 +25,7 @@ To find out more, please see below:
 
 #### **3. Deferment of Income Tax Payments**
 
-![Deferment of Income Tax Payments](/images/defertax.png "Deferment of Income Tax Payments")
+![Deferment of Income Tax Payments](/images/defertax_updated.png "Deferment of Income Tax Payments")
 
 To find out more, please see below:
 - For more information, please click <a target="_blank" href="https://go.gov.sg/deferinfo">here</a>.
@@ -34,17 +34,27 @@ To find out more, please see below:
 
 #### **4. Enhanced Property Tax Rebate for 2020**
 
-![Enhanced Property Tax Rebate for 2020](/images/propertytaxrebate.png "Enhanced Property Tax Rebate for 2020")
+![Enhanced Property Tax Rebate for 2020](/images/propertytax_updated.png "Enhanced Property Tax Rebate for 2020")
 
 To find out more, please see below:
 - For more information, please click <a target="_blank" href="https://go.gov.sg/propertytaxrebate">here</a>.
+- For more information about new Bill, please click <a target="_blank" href="https://go.gov.sg/newbill">here</a>.
 
 
 #### **5. Enhanced Rental Waivers**
 
-![Enhanced Rental Waivers](/images/rentalwaiver.png "Enhanced Rental Waivers")
+![Enhanced Rental Waivers](/images/rentalwaiver_updated.png "Enhanced Rental Waivers")
 
 To find out more, please see below:
 - For NEA, please click <a target="_blank" href="https://go.gov.sg/nearebate">here</a>.
 - For HDB, please click <a target="_blank" href="https://go.gov.sg/hdbrebate">here</a>.
 - For SLA, please click <a target="_blank" href="https://go.gov.sg/slarebate">here</a>.
+
+
+#### **5. Cash Flow Support for Enterprises**
+
+![Cash Flow Support for Enterprises](/images/cashflow_updated.png "Cash Flow Support for Enterprises")
+
+To find out more, please see below:
+- For more details about Corporate Income Tax, please click <a target="_blank" href="https://go.gov.sg/corporateincometax">here</a>.
+- For more details about Foreign Worker Levy, please click <a target="_blank" href="https://go.gov.sg/fwlwaiver">here</a>.
