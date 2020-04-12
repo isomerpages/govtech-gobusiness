@@ -7,7 +7,7 @@ permalink: /govtassist/govtassist/
 
 #### **1. SGUnited Traineeships**
 
-![SGUnited Traineeships](/images/jssinfo_updated.png "SGUnited Traineeships")
+![SGUnited Traineeships](/images/sgunitedtraineeship_updated.png "SGUnited Traineeships")
 
 To find out more, please see below:
 - For application, please click <a target="_blank" href="https://go.gov.sg/sgunitedtraineeship">here</a>.
