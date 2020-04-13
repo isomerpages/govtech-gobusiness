@@ -73,7 +73,7 @@ sections:
         subtitle: 
         description: List of measures to ensure the safety in workplace.
         button: Find Out More
-        url: /safetywork/govtassist
+        url: /safetywork/safetymeasures
         image: /images/safetywork.jpg
         alt: Safety @ Work
     - infopic:
