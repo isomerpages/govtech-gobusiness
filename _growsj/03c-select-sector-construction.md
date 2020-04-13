@@ -1,10 +1,6 @@
 ---
-layout: leftnav-page-content
 title: Construction
-permalink: /government-assistance/select-sector/construction/
-breadcrumb: Construction
-collection_name: government-assistance
-second_nav_title: Select Sector
+permalink: /growsj/select-sector/construction/
 ---
 
 ## Government assistance available for construction sector

@@ -1,7 +1,6 @@
 ---
-layout: simple-page
 title: Government Assistance
-permalink: /government-assistance/
+permalink: /growsj/
 ---
 
 [![Government Assistance](/images/programmes/products-and-services/GABanner.jpg)](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)
@@ -10,8 +9,6 @@ permalink: /government-assistance/
   
 Access the e-adviser for a set of recommended schemes relevant to your business' needs.
 
-<br />
-<br />
 <a href="https://www.google.com" target="_blank">Get recommendation from e-adviser</a></center>
 
 <center><h3>There are 100's of assistances</h3>

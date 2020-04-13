@@ -1,10 +1,6 @@
 ---
-layout: leftnav-page-content
 title: All
-permalink: /government-assistance/select-sector/all/
-breadcrumb: All
-collection_name: government-assistance
-second_nav_title: Select Sector
+permalink: /growsj/select-sector/all/
 ---
 
 ## These are all the government assistance available for all sectors

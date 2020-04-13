@@ -1,10 +1,6 @@
 ---
-layout: leftnav-page-content
 title: Approved Import GST Suspension Scheme
-permalink: /government-assistance/tax-incentives/approved-import-gst-suspension-scheme/
-breadcrumb: Approved Import GST Suspension Scheme
-collection_name: government-assistance
-second_nav_title: Tax Incentives
+permalink: /growsj/tax-incentives/approved-import-gst-suspension-scheme/
 ---
 
 ## Approved Import GST Suspension Scheme (AISS)

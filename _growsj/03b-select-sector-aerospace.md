@@ -1,10 +1,6 @@
 ---
-layout: leftnav-page-content
 title: Aerospace
-permalink: /government-assistance/select-sector/aerospace/
-breadcrumb: Aerospace
-collection_name: government-assistance
-second_nav_title: Select Sector
+permalink: /growsj/select-sector/aerospace/
 ---
 
 ## Government assistance available for aerospace sector
