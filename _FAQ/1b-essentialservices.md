@@ -9,7 +9,7 @@ Only essential services and related supply chains are exempted from the suspensi
 #### **2. My company’s activities are not listed in the list of essential services, but we support an essential service that is listed. What should I do?**
 If your company supports an essential service, please submit an application for general exemption. You will need to provide details such as the names of the essential firms and the goods and/or services that you provide to these firms. 
 
-You should suspend operations until you have received approval or exemption. 
+You should suspend operations until you have received approval of exemption. 
 
 #### **3. My company provides essential services and I have been contacted by a government agency. Why do I still need to submit details of my operations in order to continue operating?**
 This is so that agencies can verify the nature your business activities and assess the number of workers that need to operate on-site. All activities of your company that can take place through telecommuting must be conducted through telecommuting from home.
