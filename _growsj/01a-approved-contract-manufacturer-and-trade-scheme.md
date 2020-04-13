@@ -1,10 +1,6 @@
 ---
-layout: leftnav-page-content
 title: Approved Contract Manufacturer and Trade Scheme
-permalink: /government-assistance/tax-incentives/approved-contract-manufacturer-and-trade-scheme/
-breadcrumb: Approved Contract Manufacturer and Trade Scheme
-collection_name: government-assistance
-second_nav_title: Tax Incentives
+permalink: /growsj/tax-incentives/approved-contract-manufacturer-and-trade-scheme/
 ---
 
 ## Approved Contract Manufacturer and Trade (ACMT) Scheme
