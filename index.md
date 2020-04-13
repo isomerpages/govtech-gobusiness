@@ -53,7 +53,7 @@ sections:
         image: /images/businesphoto.jpg
         alt: News & Advisories
     - infopic:
-        title: The Unity, Resilience & Solidarity Budgets
+        title: The Unity, Resilience & Solidarity Budget
         subtitle: 
         description: Key measures to support business in Supplementary Budget 2020.
         button: Find Out More
