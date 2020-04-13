@@ -118,4 +118,9 @@ For law practices that are providing legal services identified as essential serv
 If the services that your law practice provides are not one of the four categories of legal activities identified as essential legal services, you must suspend all in-person activities at your office for the business suspension period from 7 April 2020 to 4 May 2020. You may continue to operate if the services can be performed by telecommuting from home. For short term entry into your office, you will need to apply for a time-limited exemption.
 
 #### **27. Are landscaping works considered an essential service?**
-Landscaping works are not be considered an essential service unless it is for the purpose of vector control to prevent mosquito breeding.
+Landscaping works are not considered an essential service unless it is for the purpose of vector control to prevent mosquito breeding.
+
+#### **27. I need some employees to work at a construction site. Do I need to seek BCA’s approval before I can apply for a time-limited exemption?**
+If you are appealing to continue with physical/actual building works on the construction site, you may contact BCA at 1800 3425222 or <a href="www.bca.gov.sg/feedbackform" target="_blank">www.bca.gov.sg/feedbackform</a> to obtain an approval from the Building Construction Authority before you can proceed.
+
+However, if the work that you will be conducting at the construction site is non-construction related (eg. administrative work done at the office), you do not need to seek BCA’s approval before applying for the Time-Limited Exemption.
