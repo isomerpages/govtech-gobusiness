@@ -47,7 +47,7 @@ To find out more, please see below:
 - For more details on Productivity Solutions Grant, please click <a target="_blank" href="https://go.gov.sg/psgrant">here</a>.
 
 
-#### **5. Sector-Specifc Assistance**
+#### **6. Sector-Specifc Assistance**
 
 For F&B and retail sectors, please see below:
 - <a target="_blank" href="https://go.gov.sg/fdbp">Food Delivery Booster Package</a>
