@@ -9,8 +9,8 @@ collections:
     output: true
   FAQ:
     output: true
-  growsj:
-    output: true
+#  growsj:
+#    output: false
 resources_name: news
 google_analytics: UA-162519866-1
 
