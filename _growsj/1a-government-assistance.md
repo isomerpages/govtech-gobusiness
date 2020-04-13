@@ -1,6 +1,6 @@
 ---
 title: Government Assistance
-permalink: /growsj/
+permalink: /growsj/eadvisor
 ---
 
 [![Government Assistance](/images/programmes/products-and-services/GABanner.jpg)](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)

@@ -1,6 +1,6 @@
 ---
 title: Construction
-permalink: /growsj/select-sector/construction/
+permalink: /growsj/construction/
 ---
 
 ## Government assistance available for construction sector

@@ -1,6 +1,6 @@
 ---
 title: Aerospace
-permalink: /growsj/select-sector/aerospace/
+permalink: /growsj/aerospace/
 ---
 
 ## Government assistance available for aerospace sector

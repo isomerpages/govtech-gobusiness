@@ -1,6 +1,6 @@
 ---
 title: Enterprise Financing Scheme
-permalink: /growsj/loans/enterprise-financing-scheme/
+permalink: /growsj/enterprise-financing-scheme/
 ---
 
 ## Enterprise Financing Scheme (EFS)
