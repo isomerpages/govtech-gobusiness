@@ -69,6 +69,14 @@ sections:
         image: /images/helpinghands.jpg
         alt: Government Assistance
     - infopic:
+        title: Safety @ Work
+        subtitle: 
+        description: List of measures to ensure the safety in workplace.
+        button: Find Out More
+        url: /safetywork/safetymeasures
+        image: /images/safetywork.jpg
+        alt: Safety @ Work
+    - infopic:
         title: Chat for Biz
         subtitle: 
         description: Chat with our virtual assistance on questions related to COVID-19 outbreak.

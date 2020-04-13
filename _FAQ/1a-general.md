@@ -13,9 +13,9 @@ For Companies providing **<ins>Essential Services</ins>**, you will need to decl
 
 For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>applying for exemption from suspension of business activities</ins>, please click on GENERAL EXEMPTION 
 
-For Companies that are <ins>applying for exemption for a limited-period of time</ins>, please click on TIME-LIMITED EXEMPTION 
+For Companies that are <ins>applying for exemption for a limited-period of time</ins>, please click on TIME-LIMITED EXEMPTION. Each company is limited to not more than 4 applications throughout the circuit-breaker period.  
 
-#### **3. What should I do if I do not receive my approval by 7th April? Am I allowed to continue operations?**
+#### **3. What should I do if I have not received an exemption? Am I allowed to continue operations?**
 If you had previously submitted an application for General Exemption, please click <a href="https://go.gov.sg/exemptionstatus" target="_blank">here</a> to check the status of your application.
 
 Businesses that have not been granted an exemption must suspend operations unless they are told otherwise.
@@ -98,3 +98,12 @@ The decision of the SDA / enforcement officers is final. Verbal warnings will be
 Enforcement officers from various agencies including the Singapore Police Force, National Environment Agency, National Parks Board and Land Transport Authority, are issued a letter of appointment by the Ministry of Health. They are deployed to enforce safe distancing measures and control order regulations, by conducting compliance inspections during the “circuit breaker” period.
 
 These officers can issue offenders (businesses or individuals) a Notice of Offence, which include the composition fine amount and details of the offence. Offenders will not be asked to pay their fines on the spot. These officers can also issue warning letters to individuals.
+
+#### **18. I am issued a fine and/or a suspension of operations. How do I make an appeal?**
+The decision of the Enforcement Officers is final. You are reminded to pay the composition sum by the date indicated in the Notice of Offence and refrain from committing any further offences to comply with the law at all times.
+
+#### **19. I am issued a fine. How do I make payment?**
+You can refer to the Notice of Offence issued to you for information on the payment mode. Enforcement officers will not collect fines on the spot, from individuals and businesses who have contravened these rules. The penalties for breaches will be issued to individuals or businesses in the form of composition letters, which will state the relevant follow up actions required.
+
+#### **20. Where can I get more information on the regulatory requirements relating to safe distancing?**
+You can refer to the COVID-19 (Temporary Measures) (Control Order) Regulations 2020 on the Singapore Statutes Online website at <a href="https://sso.agc.gov.sg" target="_blank">https://sso.agc.gov.sg</a> 
