@@ -9,7 +9,10 @@ navlinks:
     url: /essentialservices/
   - title: List of GoBusiness Products
   #  url: /
-  - title: GoBusiness Licensing
-    url: https://www.gobusiness.gov.sg/licences
-  - title: GoBusiness Govt Assist *Coming Soon!
-  #  url: /
+    sublinks:
+      - title: GoBusiness Licensing
+        url: https://www.gobusiness.gov.sg/licences
+      - title: GoBusiness Govt Assist *Coming Soon!
+      #  url: /some-page-b/
+      #- title: Subitem 3
+      #  url: /some-page-c/
