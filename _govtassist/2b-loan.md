@@ -1,7 +1,6 @@
 ---
 title: Loan
-permalink: /govtassist/govtassist/loan/
-third_nav_title: Loan
+permalink: /govtassist/govtassist/loan/s
 ---
 
 ### **Available Government Assistance**
