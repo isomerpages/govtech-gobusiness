@@ -76,7 +76,7 @@ Essential primary care services (whose delivery is more time-sensitive) should c
 However, doctors should exercise discretion in considering patients’ unique needs, and manage as appropriate based on the following principles: 
 - Risk assessment of patients’ condition; 
 - Availability and feasibility of alternative means of consultation (e.g. tele-consultation); 
-- c. Availability and feasibility of alternative means of treatment (e.g. remote prescribing and delivery).
+- Availability and feasibility of alternative means of treatment (e.g. remote prescribing and delivery).
 
 #### **18. What primary care preventive health services are considered essential and should continue?**
 Essential services/ procedures refer to those, if not provided or performed, would result in significant or rapid deterioration of the patient’s medical condition, and potentially threatening their health and well-being.
