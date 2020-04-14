@@ -1,7 +1,7 @@
 title: GoBusiness
 url: "https://covid.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/Gobiz_COVID_logo-01.svg
-favicon: /images/favicon-GoBiz.ico
+favicon: /images/Gobiz_favicon.ico
 collections:
   safetywork:
     output: true
