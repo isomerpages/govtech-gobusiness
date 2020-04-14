@@ -73,6 +73,7 @@ Essential services/ procedures refer to those, if not provided or performed, wou
 
 Essential primary care services (whose delivery is more time-sensitive) should continue during the circuit breaker period, and non-essential services deferred. 
 
+
 However, doctors should exercise discretion in considering patients’ unique needs, and manage as appropriate based on the following principles: 
 : a. Risk assessment of patients’ condition; 
 : b. Availability and feasibility of alternative means of consultation (e.g. tele-consultation); 
