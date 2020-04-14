@@ -1,7 +1,7 @@
 ---
 title: Arts & Culture
 permalink: /govtassist/Categories/arts/
-third_nav_title: Categories
+third_nav_title: Sectors
 ---
 
 ### **Available Government Assistance for Arts & Culture**
