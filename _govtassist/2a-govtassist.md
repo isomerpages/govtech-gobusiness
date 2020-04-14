@@ -11,7 +11,7 @@ permalink: /govtassist/govtassist/
 
 |![Loans](/images/programmes/products-and-services/loans.jpg)|![Grants](/images/programmes/products-and-services/grants.jpg)|
 
-| Loans | Grants |
+| Grants | Loans |
 | :-: | :-: |
 |There are various types of grants available for companies.|There are various types of loans available for companies.|
-|[Find out more](https://govtech-gb-staging.netlify.com/govtassist/categories/grants/)|[Find out more](https://govtech-gb-staging.netlify.com/govtassist/categories/loans/)|
+|[Find out more](https://govtech-gb-staging.netlify.com/govtassist/categories/loans/)|[Find out more](https://govtech-gb-staging.netlify.com/govtassist/categories/grants/)|
