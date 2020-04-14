@@ -27,3 +27,4 @@ To find out more, please see below:
 ![Temporary Bridging Loan Programme](/images/tblp_updated.png "Temporary Bridging Loan Programme")
 
 To find out more, please see below:
+- For more details, please click <a target="_blank" href="https://go.gov.sg/tblp">here</a>.
