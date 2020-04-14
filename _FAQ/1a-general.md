@@ -6,7 +6,7 @@ permalink: /faq/general
 #### **1. How do I know if my business is an ‘Essential’ or ‘Non-Essential’ Service?**
 You may refer to the list of Essential Services.
 
-You may also call the Enterprise Infoline at 6898-1800 from 8:30am to 5:30pm (Monday to Sunday).
+You may also call the Enterprise Infoline at 6898-1800 from 8:30am to 5:30pm (Monday to Saturday).
 
 #### **2. Should I apply for ‘General’ or ‘Time-Limited’ exemption?**
 For Companies providing **<ins>Essential Services</ins>**, you will need to declare, please click on GENERAL EXEMPTION 
@@ -29,12 +29,9 @@ Your application is being processed. Please check back on your application statu
 Please suspend your business operations until you have received the official email notification of approval.
 
 #### **6. I am unable to find the status of my application for General Exemption on covid.gobusiness.gov.sg. What should I do?**
+Please allow at least 2-3 days for your application to be processed. 
+
 If you are still unable to view your application status after 3 days, please write to mti_email@mti.gov.sg with your company name, UEN and the reference number for your application.
-
-
-
-
-
 
 #### **7. I am self employed / own a business with multiple entities. Do I need to submit my applications individually or will one application cover all my businesses?**
 You will need to submit one application for each registered business. One application per UEN number. 
