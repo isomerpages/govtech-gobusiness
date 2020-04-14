@@ -72,6 +72,7 @@ For more guidance on managing water quality in water features, please refer to N
 Essential services/ procedures refer to those, if not provided or performed, would result in significant or rapid deterioration of the patient’s medical condition, and potentially threatening their health and well-being.
 
 Essential primary care services (whose delivery is more time-sensitive) should continue during the circuit breaker period, and non-essential services deferred. 
+
 However, doctors should exercise discretion in considering patients’ unique needs, and manage as appropriate based on the following principles: 
 : a. Risk assessment of patients’ condition; 
 : b. Availability and feasibility of alternative means of consultation (e.g. tele-consultation); 
@@ -96,7 +97,7 @@ To reduce patient movement and reinforce efforts on tightening disease spread, a
 Support services which ensure the provision of essential services at GP clinics will be allowed to continue. Please minimise the number of staff based on-site. If employees can perform their work by telecommuting from home, employers must ensure that they do so. Tele-conferencing should be used in place of physical meetings wherever possible.
 
 #### **21. Will the suppliers or vendors providing supplies or services for my clinic be allowed to operate, e.g. cleaners, waste disposal services, pharmaceutical companies?**
-Suppliers or vendors providing essential supplies or supporting services for your essential services to be provided can continue to operate.
+Suppliers or vendors providing essential services can continue to operate.
 
 #### **22. Can house calls and home visits continue?**
 Requests for house visits should first be screened over the telephone. If further in-person medical assessment is deemed necessary, the doctor should then assess if a house visit is essential, or if it is more appropriate for an appointment to be scheduled at the clinic.
@@ -113,9 +114,9 @@ If the services that your law practice provides does not fall under one of the f
 Your law practice will only need to submit one application.
 
 #### **26. Can my law practice continue to operate while waiting for the outcome of our application?**
-For law practices that are providing legal services identified as essential services, you must ensure that you submit an application for general exemption and retain proof of having done so. You may continue to operate while waiting for a reply from the general exemption application in respect of the provision of such essential legal services. However, you are required to continue to strictly comply with the Safe Distancing advisory  and other guidance available to providers of essential services.
+For law practices that are providing legal services identified as essential services, you must submit an application for general exemption and obtain an email notification of approval to continue operations.  
 
-If the services that your law practice provides are not one of the four categories of legal activities identified as essential legal services, you must suspend all in-person activities at your office for the business suspension period from 7 April 2020 to 4 May 2020. You may continue to operate if the services can be performed by telecommuting from home. For short term entry into your office, you will need to apply for a time-limited exemption.
+If the services that your law practice provides are not one of the four categories of legal activities identified as <a href="https://covid.gobusiness.gov.sg/essentialservices/legalservices/" target="_blank">essential legal services</a>, you must suspend all in-person activities at your office. You may continue to operate if the services can be performed by telecommuting from home. 
 
 #### **27. Are landscaping works considered an essential service?**
 Landscaping works are not considered an essential service unless it is for the purpose of vector control to prevent mosquito breeding.
