@@ -8,4 +8,4 @@ third_nav_title: Sectors
 
 List of assistance for F&B and Retail sector, please see below:
 - <a target="_blank" href="https://go.gov.sg/fdbp">Food Delivery Booster Package</a>
-- <a target="_blank" href="https://go.gov.sg/ebp">Food Delivery Booster Package</a>
+- <a target="_blank" href="https://go.gov.sg/ebp">E-Commerce Booster Package for Retailers</a>
