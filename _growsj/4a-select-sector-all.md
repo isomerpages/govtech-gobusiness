@@ -1,6 +1,7 @@
 ---
 title: All
-permalink: /growsj/select-sector/
+permalink: /growsj/select-sector/all
+third_nav_title: Select Sector
 ---
 
 ## These are all the government assistance available for all sectors

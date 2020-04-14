@@ -1,6 +1,7 @@
 ---
 title: Approved Refiner and Consolidator Scheme
-permalink: /growsj/approved-refiner-and-consolidator-scheme/
+permalink: /growsj/tax-incentives/approved-refiner-and-consolidator-scheme/
+third_nav_title: Tax Incentives
 ---
 
 ## Approved Refiner and Consolidator Scheme (ARCS)
