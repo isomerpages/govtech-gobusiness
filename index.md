@@ -41,7 +41,7 @@ sections:
     - infobar:
         title: Attention
         subtitle: 
-        description: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the Infectious Diseases Act and any regulations promulgated thereunder, Part 7 of the COVID-19 (Temporary Measures) Act 2020 and the COVID-19 (Temporary Measures) (Control Order) Regulations 2020.
+        description: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the COVID-19 (Temporary Measures) Act.
         button:
         url:
     - infopic:
