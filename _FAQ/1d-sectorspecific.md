@@ -71,7 +71,10 @@ For more guidance on managing water quality in water features, please refer to N
 #### **17. How are healthcare services in primary care deemed essential or non-essential during the circuit breaker period?**
 Essential services/ procedures refer to those, if not provided or performed, would result in significant or rapid deterioration of the patient’s medical condition, and potentially threatening their health and well-being.
 
-Essential primary care services (whose delivery is more time-sensitive) should continue during the circuit breaker period, and non-essential services deferred. However, doctors should exercise discretion in considering patients’ unique needs, and manage as appropriate based on the following principles: 
+Essential primary care services (whose delivery is more time-sensitive) should continue during the circuit breaker period, and non-essential services deferred. 
+
+However, doctors should exercise discretion in considering patients’ unique needs, and manage as appropriate based on the following principles: 
+
 : a. Risk assessment of patients’ condition; 
 : b. Availability and feasibility of alternative means of consultation (e.g. tele-consultation); 
 : c. Availability and feasibility of alternative means of treatment (e.g. remote prescribing and delivery).
