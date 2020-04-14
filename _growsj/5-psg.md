@@ -47,13 +47,8 @@ Here are the steps you can take when applying for PSG:
 
 #### List of PSG
 
-- <a href="#psg1">Accounting Management + Human Resource Management System (HRMS)</a>
-- <a href="#psg2">Accounting Management and Sales Management System</a>
-- <a href="#psg3">Accounting Management, CRM, Inventory Management and Sales Management System</a>
+[**Accounting Management + Human Resource Management System (HRMS)**](https://govtech-gb-staging.netlify.com/growsj/tax-incentives/approved-contract-manufacturer-and-trade-scheme/)
 
-<a href="https://govtech-gb-staging.netlify.com/services/government-assistance/financial/hrms" style="text-decoration: none">
-
-#### Accounting Management + Human Resource Management System (HRMS)
 - An integrated software solution which offers the stated core functions to address business needs.
 
 #### Accounting Management and Sales Management System
