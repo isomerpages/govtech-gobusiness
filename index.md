@@ -4,7 +4,7 @@ title: GoBusiness
 description: For Singapore Businesses
 image: /images/
 permalink: /
-notification: 
+notification: GoBusiness Govt Assist eAdviser will be launching soon!
 sections:
     - hero:
         title: Exemption from Suspension of Activities
