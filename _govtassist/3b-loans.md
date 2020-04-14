@@ -1,10 +1,10 @@
 ---
-title: Loan
-permalink: /govtassist/govtassist/loan/
-third_nav_title: Government Assistance
+title: Loans
+permalink: /govtassist/Categories/loans/
+third_nav_title: Categories
 ---
 
-### **Available Government Assistance**
+### **Available Government Loans**
 
 #### **1. Enterprise Financing Scheme (EFS)**
 
