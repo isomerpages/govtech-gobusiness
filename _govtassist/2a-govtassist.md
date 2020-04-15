@@ -3,7 +3,7 @@ title: Government Assistance
 permalink: /govtassist/govtassist/
 ---
 
-[![Government Assistance](/images/programmes/products-and-services/GABanner.jpg)](hhttps://covid.gobusiness.gov.sg/govtassist/govtassist/)
+[![Government Assistance](/images/programmes/products-and-services/GABanner.jpg)](/govtassist/govtassist/)
 
 <center>An overview of government assistance schemes available for Businesses in Singapore.</center>
 
@@ -14,4 +14,4 @@ permalink: /govtassist/govtassist/
 | Grants | Loans |
 | :-: | :-: |
 |There are various types of grants available for companies.|There are various types of loans available for companies.|
-|[Find out more](https://covid.gobusiness.gov.sg/govtassist/categories/grants/)|[Find out more](https://covid.gobusiness.gov.sg/govtassist/categories/loans/)|
+|[Find out more](/govtassist/categories/grants/)|[Find out more](/govtassist/categories/loans/)|
