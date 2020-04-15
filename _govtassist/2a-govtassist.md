@@ -3,7 +3,7 @@ title: Government Assistance
 permalink: /govtassist/govtassist/
 ---
 
-[![Government Assistance](/images/programmes/products-and-services/GABanner.jpg)](hhttps://covid.gobusiness.gov.sg/govtassist/govtassist/)
+[![Government Assistance](/images/programmes/products-and-services/GABanner.jpg)](https://covid.gobusiness.gov.sg/govtassist/govtassist/)
 
 <center>An overview of government assistance schemes available for Businesses in Singapore.</center>
 
