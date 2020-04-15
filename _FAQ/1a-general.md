@@ -16,9 +16,9 @@ For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>apply
 For Companies that are <ins>applying for exemption for a limited-period of time</ins>, please click on TIME-LIMITED EXEMPTION. Each company is limited to not more than 4 applications throughout the circuit-breaker period.  
 
 #### **3. What should I do if I have not received an exemption? Am I allowed to continue operations?**
-If you had previously submitted an application for General Exemption, please click <a href="https://go.gov.sg/exemptionstatus" target="_blank">here</a> to check the status of your application.
-
 Please suspend your business operations until you have received the official email notification of approval.
+
+For the status of your application, please click <a href="https://go.gov.sg/exemptionstatus" target="_blank">here</a>.
 
 #### **4. The status checker on the website reflects that my exemption application has been approved. However, I have not received the official email notification of approval. What should I do?**
 Please allow up to 2 to 3 days for the email notification to reach you.
