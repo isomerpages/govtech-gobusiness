@@ -14,4 +14,4 @@ permalink: /govtassist/govtassist/
 | Grants | Loans |
 | :-: | :-: |
 |There are various types of grants available for companies.|There are various types of loans available for companies.|
-|[Find out more](govtassist/categories/grants/)|[Find out more](/govtassist/categories/loans/)|
+|[Find out more](https://covid.gobusiness.gov.sg/govtassist/categories/grants/)|[Find out more](https://covid.gobusiness.gov.sg/govtassist/categories/loans/)|
