@@ -10,7 +10,7 @@ collections:
   essentialservices:
     output: true
   FAQ:
-    output: false
+    output: true
   growsj:
     output: false
 resources_name: news

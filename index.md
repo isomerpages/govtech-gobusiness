@@ -26,12 +26,12 @@ sections:
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
           description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
+        - title: Registration of Essential Employees
+          url: https://go.gov.sg/exemptionstatus
+          description: </br>Registration of essential employees for business performing essential services and those that have received an approval for exemption from the suspension</br>Click Here
         - title: Application for Amendment
           url: https://go.gov.sg/additionalinfo
           description: </br></br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
-#        - title: Registration of Essential Employees
-#          url: https://go.gov.sg/exemptionstatus
-#          description: </br></br></br></br></br></br>Click Here
         - title: Time-Limited Exemption
           url: https://go.gov.sg/timelimitedexemption
           description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
