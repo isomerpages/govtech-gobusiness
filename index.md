@@ -23,18 +23,18 @@ sections:
 #        url: https://go.gov.sg/exemptionstatus
 #        button: Status of Application For Exemption
         key_highlights:
-        - title: General Exemption<font color="red">This is some text!</font>
+        - title: <font color="#00838f">General Exemption</font>
           url: https://go.gov.sg/generalexemption
-          description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
-        - title: Application for Amendment
+          description: <font color="#00838f">Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here</font>
+        - title: <font color="#00838f">Application for Amendment</font>
           url: https://go.gov.sg/additionalinfo
-          description: </br></br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
-        - title: Time-Limited Exemption
-          url: https://go.gov.sg/timelimitedexemption
-          description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
+          description: <font color="#00838f"></br></br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here</font>
 #        - title: Registration of Essential Employees
 #          url: https://go.gov.sg/exemptionstatus
 #          description: </br></br></br></br></br></br>Click Here
+        - title: Time-Limited Exemption
+          url: https://go.gov.sg/timelimitedexemption
+          description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
     - infobar:
         title: Status of Application
         subtitle: 
