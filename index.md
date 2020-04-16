@@ -8,8 +8,10 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: Supporting Our Businesses
-        subtitle: Overcoming Challenges, Emerging Stronger
+        title: Exemption from Suspension of Activities
+#        title: Supporting Our Businesses
+        subtitle: 
+#        subtitle: Overcoming Challenges, Emerging Stronger
         background: /images/hero-banner.jpg
 #        dropdown:
 #          title: For your attention,
@@ -30,9 +32,9 @@ sections:
         - title: Time-Limited Exemption
           url: https://go.gov.sg/timelimitedexemption
           description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
-        - title: Registration of Essential Employees
-          url: https://go.gov.sg/exemptionstatus
-          description: </br></br></br></br></br></br>Click Here
+#        - title: Registration of Essential Employees
+#          url: https://go.gov.sg/exemptionstatus
+#          description: </br></br></br></br></br></br>Click Here
     - infobar:
         title: Status of Application
         subtitle: 
