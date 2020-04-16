@@ -23,18 +23,18 @@ sections:
 #        url: https://go.gov.sg/exemptionstatus
 #        button: Status of Application For Exemption
         key_highlights:
-        - title: <font color="orange">General Exemption</font>
+        - title: General Exemption
           url: https://go.gov.sg/generalexemption
-          description: <font color="orange">Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here</font>
-        - title: <font color="orange">Application for Amendment</font>
+          description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
+        - title: Application for Amendment
           url: https://go.gov.sg/additionalinfo
-          description: <font color="orange"></br></br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here</font>
+          description: </br></br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
 #        - title: Registration of Essential Employees
 #          url: https://go.gov.sg/exemptionstatus
 #          description: </br></br></br></br></br></br>Click Here
-        - title: <font color="yellow">Time-Limited Exemption</font>
+        - title: Time-Limited Exemption
           url: https://go.gov.sg/timelimitedexemption
-          description: <font color="yellow">Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here</font>
+          description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
     - infobar:
         title: Status of Application
         subtitle: 
