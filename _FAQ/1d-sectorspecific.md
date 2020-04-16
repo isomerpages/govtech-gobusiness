@@ -1,6 +1,6 @@
 ---
 title: For Sector-Specific Queries
-permalink: /faq/sectorspecific
+permalink: /faq/businessexemptions/sectorspecific
 third_nav_title: Business Exemptions
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: For Employees/ Manpower Queries
-permalink: /faq/employees
+permalink: /faq/businessexemptions/employees
 third_nav_title: Business Exemptions
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: For Essential Services Companies
-permalink: /faq/essentialservices
+permalink: /faq/businessexemptions/essentialservices
 third_nav_title: Business Exemptions
 ---
 

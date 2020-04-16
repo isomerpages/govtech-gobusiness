@@ -1,6 +1,6 @@
 ---
 title: General
-permalink: /faq/general
+permalink: /faq/businessexemptions/general
 third_nav_title: Business Exemptions
 ---
 
