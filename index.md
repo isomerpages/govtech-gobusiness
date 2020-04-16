@@ -32,9 +32,9 @@ sections:
 #        - title: Registration of Essential Employees
 #          url: https://go.gov.sg/exemptionstatus
 #          description: </br></br></br></br></br></br>Click Here
-        - title: Time-Limited Exemption
+        - title: <font color="yellow">Time-Limited Exemption</font>
           url: https://go.gov.sg/timelimitedexemption
-          description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
+          description: <font color="yellow">Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here</font>
     - infobar:
         title: Status of Application
         subtitle: 
