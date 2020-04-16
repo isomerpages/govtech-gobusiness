@@ -23,12 +23,12 @@ sections:
 #        url: https://go.gov.sg/exemptionstatus
 #        button: Status of Application For Exemption
         key_highlights:
-        - title: <font color="#00838f">General Exemption</font>
+        - title: <font color="#025258">General Exemption</font>
           url: https://go.gov.sg/generalexemption
-          description: <font color="#00838f">Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here</font>
-        - title: <font color="#00838f">Application for Amendment</font>
+          description: <font color="#025258">Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here</font>
+        - title: <font color="#025258">Application for Amendment</font>
           url: https://go.gov.sg/additionalinfo
-          description: <font color="#00838f"></br></br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here</font>
+          description: <font color="#025258"></br></br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here</font>
 #        - title: Registration of Essential Employees
 #          url: https://go.gov.sg/exemptionstatus
 #          description: </br></br></br></br></br></br>Click Here
