@@ -8,10 +8,10 @@ permalink: /
 notification: 
 sections:
     - hero:
-#        title: Exemption from Suspension of Activities
-        title: Supporting Our Businesses
-#        subtitle: 
-        subtitle: Overcoming Challenges, Emerging Stronger
+        title: Exemption from Suspension of Activities
+#        title: Supporting Our Businesses
+        subtitle: 
+#        subtitle: Overcoming Challenges, Emerging Stronger
         background: /images/hero-banner.jpg
 #        dropdown:
 #          title: For your attention,
@@ -26,9 +26,9 @@ sections:
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
           description: </br>Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
-        - title: Registration of Essential Employees
-          url: https://go.gov.sg/exemptionstatus
-          description: </br>Registration of essential employees for business performing essential services and those that have received an approval for exemption from the suspension</br></br>Click Here
+#        - title: Registration of Essential Employees
+#          url: https://go.gov.sg/exemptionstatus
+#          description: </br>Registration of essential employees for business performing essential services and those that have received an approval for exemption from the suspension</br></br>Click Here
         - title: Application for Amendment
           url: https://go.gov.sg/additionalinfo
           description: </br></br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
