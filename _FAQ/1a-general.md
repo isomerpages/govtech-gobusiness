@@ -1,13 +1,12 @@
 ---
 title: General
 permalink: /faq/businessexemptions/general
-third_nav_title: Business Exemptions
 ---
 
 #### **1. How do I know if my business is an ‘Essential’ or ‘Non-Essential’ Service?**
 You may refer to the list of Essential Services.
 
-You may also call the Enterprise Infoline at 6898-1800 from 8:30am to 5:30pm (Monday to Saturday).
+You may also call the Enterprise Infoline at 6898-1800 from 8:30am to 5:30pm (Monday to Sunday).
 
 #### **2. Should I apply for ‘General’ or ‘Time-Limited’ exemption?**
 For Companies providing **<ins>Essential Services</ins>**, you will need to declare, please click on GENERAL EXEMPTION 
