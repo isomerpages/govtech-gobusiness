@@ -1,6 +1,6 @@
 ---
 title: For Sector-Specific Queries
-permalink: /faq/sectorspecific
+permalink: /faq/businessexemptions/sectorspecific
 ---
 
 #### **1. Can Social Service Agencies and charitable groups continue to deliver essential supplies to needy families during the period of suspension of activities? Can they also enlist volunteers’ help?**

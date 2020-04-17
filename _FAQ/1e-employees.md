@@ -1,6 +1,6 @@
 ---
 title: For Employees/ Manpower Queries
-permalink: /faq/employees
+permalink: /faq/businessexemptions/employees
 ---
 
 #### **1. If my employer provides essential services and I am reporting to work, do I need to provide or carry with me any sort of documentation?**
