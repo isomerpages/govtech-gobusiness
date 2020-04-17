@@ -8,7 +8,7 @@ The Multi-Ministry Taskforce announced on 14 April 2020 that there will be a fur
 
 If you have received an email notification that your exemption has been rescinded, you must suspend all on-site operations at your business premise.
 
-#### **2. I have been asked to suspend operations recently, but I noticed that another company in a similar industry is continuing operations. Why is that so? **
+#### **2. I have been asked to suspend operations recently, but I noticed that another company in a similar industry is continuing operations. Why is that so?**
 Businesses must adhere to the suspension order unless they have been granted an exemption. If you know of a company operating even though it has not been granted exemption, please report this business and provide relevant details such as its name, address and relevant evidence (eg. photographs) to Covid_GoBusiness@mti.gov.sg.
 
 #### **3. I received an email notification that my previously approved exemption has been rescinded. Does this mean I have to suspend business operations immediately?**
