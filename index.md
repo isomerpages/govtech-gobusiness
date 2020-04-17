@@ -8,10 +8,10 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: Exemption from Suspension of Activities
-#        title: Supporting Our Businesses
-        subtitle: 
-#        subtitle: Overcoming Challenges, Emerging Stronger
+#        title: Exemption from Suspension of Activities
+        title: Supporting Our Businesses
+#        subtitle: 
+        subtitle: Overcoming Challenges, Emerging Stronger
         background: /images/hero-banner.jpg
 #        dropdown:
 #          title: For your attention,
