@@ -25,7 +25,7 @@ sections:
         key_highlights:
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
-          description: </br>Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
+          description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
 #        - title: Registration of Essential Employees
 #          url: https://go.gov.sg/exemptionstatus
 #          description: </br>Registration of essential employees for business performing essential services and those that have received an approval for exemption from the suspension</br></br>Click Here
