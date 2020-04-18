@@ -14,9 +14,9 @@ As the number of new infection cases continue to rise, stricter measures to cont
 Only businesses performing essential services and those that have received an approval for exemption will be required to submit details of their essential employees/workers to authorise them to work at their respective work premises.
 
 #### **3. How do I register my essential employees/workers and what information do I need to provide?**
-For applicants with a CorpPass account, please login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a>. Thereafter, please click on the button “submit worker details”, which will be made available only for approved applications, to register your essential employees/workers’ NRIC/FIN number. 
+For applicants with a CorpPass account, please login to <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a>. Thereafter, please click on the button “submit worker details”, which will be made available only for approved applications, to register your essential employees/workers’ NRIC/FIN number. 
 
-For applicants without a CorpPass account, please call the Enterprise Infoline at 6898-1800 to request for a form to be emailed to you. Please submit the completed form to covid_gobusiness@mti.gov.sg.
+For applicants without a CorpPass account, please call the Enterprise Infoline at 6898-1800 to request for a form to be emailed to you. Please submit the completed form to <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>.
 
 Please ensure that your email address is accurately reflected on your application form. An acknowledgement email will be sent to your email address once you have submitted your essential employees/workers’ details. We will also be using this email address to provide you with updates.
 
@@ -27,12 +27,12 @@ You can start to submit your essential employees/workers’ details at <a href="
 If you have applied for a general exemption, there will not be an exemption start and end date as the exemption is for the entire circuit breaker period unless you are notified otherwise.
 
 #### **6. I am unable to add in my essential employees/workers details. Why is it so?**
-You may only register your essential employees/workers after your company exemption is approved. Please check your application status at <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a>. 
+You may only register your essential employees/workers after your company exemption is approved. Please check your application status at <a href="https://go.gov.sg/exemptionstatus" target="_blank">here</a>. 
 
 #### **7. I have problems adding in more essential employees/workers details to my application. Why is it so?**
 Each business is allotted a specific worker headcount. You will not be able to add more essential employees/workers to your application once you have reached the allotted headcount. The cap on the number of workers that you are allowed to have on-site is necessary to minimise the movement of workers to and from work.  We are acutely aware that this will be disruptive for businesses, but it is also essential in the fight against COVID-19.
 
-#### **8. What happens after I have submitted my essential essential employees/workers details?**
+#### **8. What happens after I have submitted my essential employees/workers details?**
 An acknowledgement email will be sent to your email address to inform you that we have received a record of your essential employees/workers’ details.
 
 #### **9. I was not in time to submit my essential employee/workers’ details before 12pm but I need them to work on-site tomorrow. What should I do to expedite my submission?**
@@ -41,12 +41,12 @@ Submissions must be made before 12pm every day in order for your essential emplo
 #### **10. What happens if I do not receive an acknowledgement email after I have submitted the essential employees/workers’ details?**
 If you have not received an acknowledgement email, your email address may be inaccurately captured on our system.
 
-For applicants with a CorpPass account, kindly login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a> to verify if your email address is accurately reflected. You will be able to update your email address if needed. All changes will be reflected immediately.
+For applicants with a CorpPass account, kindly login <a href="https://go.gov.sg/exemptionstatus" target="_blank">here</a> to verify if your email address is accurately reflected. You will be able to update your email address if needed. All changes will be reflected immediately.
 
 For applicants without a CorpPass account, please call the Enterprise Infoline at 6898-1800 for assistance.
 
 #### **11. What should I do if I would like to make changes to the details of my essential employees/workers?**
-Please login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a> and click on the approved exemption to resubmit your essential employees/workers’ NRIC/FIN number. Kindly resubmit **<ins>all</ins>** employees/workers’ NRIC/FIN number who are working on-site.
+Please login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> and click on the approved exemption to resubmit your essential employees/workers’ NRIC/FIN number. Kindly resubmit **<ins>all</ins>** employees/workers’ NRIC/FIN number who are working on-site.
 
 #### **12. Is there a limit to the number of times I can change the details of my essential employees/workers?**
 You may change and resubmit your essential employees/workers’ details up to 3 times a day.
@@ -59,10 +59,10 @@ The Government takes a serious view of any infringement and will not hesitate to
 Under the Covid-19 (Temporary Measures) Act passed in Parliament on 07 April 2020, first-time offenders will face a fine of up to S$10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.
 
 #### **14. I need more essential employee/workers on site to ensure the continuation of my business activities. What should I do?**
-The cap on the number of workers that you are allowed to have on-site is necessary to minimise the movement of workers to and from work.  We are acutely aware that this will be disruptive for businesses, but it is also essential in the fight against COVID-19. Each and every one of us can, and must, play our part in protecting our people from infection. If you would, nevertheless, like to request for a review of your cap, please click on <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">Submission of Additional Manpower</a>.
+The cap on the number of workers that you are allowed to have on-site is necessary to minimise the movement of workers to and from work.  We are acutely aware that this will be disruptive for businesses, but it is also essential in the fight against COVID-19. Each and every one of us can, and must, play our part in protecting our people from infection. If you would, nevertheless, like to request for a review of your cap, please click on <a href="https://go.gov.sg/additionalmanpower" target="_blank">Submission of Additional Manpower</a>.
 
 #### **15. My appeal for additional manpower had already been rejected, but I really need more employee/workers on-site. Can I appeal again?**
 Further appeals will not be considered.
 
 #### **16. Can my company register more essential employees/workers than the permitted headcount on-site given that we operate on a split team basis?**
-Please click on <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">Submission of Additional Manpower</a> to request for a review.
+Please click on <a href="https://go.gov.sg/additionalmanpower" target="_blank">Submission of Additional Manpower</a> to request for a review.
