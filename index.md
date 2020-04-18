@@ -5,7 +5,7 @@ description: For Singapore Businesses
 image: /images/
 permalink: /
 #notification: GoBusiness Govt Assist eAdviser will be launching soon!
-notification: <b>ATTENTION:</b> We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the COVID-19 (Temporary Measures) Act.
+notification: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the COVID-19 (Temporary Measures) Act.
 sections:
     - hero:
 #        title: Exemption from Suspension of Activities
