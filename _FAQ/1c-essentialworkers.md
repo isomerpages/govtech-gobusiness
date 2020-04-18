@@ -21,7 +21,7 @@ For applicants without a CorpPass account, please call the Enterprise Infoline a
 Please ensure that your email address is accurately reflected on your application form. An acknowledgement email will be sent to your email address once you have submitted your essential employees/workers’ details. We will also be using this email address to provide you with updates.
 
 #### **4. When can I start to submit my essential employees/workers’ details?**
-You can start to submit your essential employees/workers’ details at <a href="https://covid.gobusiness.gov.sg" target="_blank">https://covid.gobusiness.gov.sg</a> with effect from 18 Apr 2020. 
+You can start to submit your essential employees/workers’ details at <a href="https://covid.gobusiness.gov.sg" target="_blank">https://covid.gobusiness.gov.sg</a> with effect from 19 Apr 2020. 
 
 #### **5. Why is the exemption start and end date stated as N/A?**
 If you have applied for a general exemption, there will not be an exemption start and end date as the exemption is for the entire circuit breaker period.
