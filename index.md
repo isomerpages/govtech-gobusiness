@@ -5,7 +5,7 @@ description: For Singapore Businesses
 image: /images/
 permalink: /
 #notification: GoBusiness Govt Assist eAdviser will be launching soon!
-notification: 
+notification: <b>ATTENTION:</b> We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the COVID-19 (Temporary Measures) Act.
 sections:
     - hero:
 #        title: Exemption from Suspension of Activities
@@ -37,7 +37,7 @@ sections:
 #          description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
         - title: Registration of Essential Employees/Workers
           url: https://go.gov.sg/timelimitedexemption
-          description: Only for businesses  that have received approval for exemption</br></br>Click Here
+          description: Only for businesses performing essential services and those who have an approval for exemption</br></br>Click Here
     - infobar:
         title: Time-Limited Exemption
         subtitle: 
