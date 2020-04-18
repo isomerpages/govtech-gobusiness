@@ -1,11 +1,7 @@
-<!---
+---
 title: Frequently Asked Questions
-permalink: /faq/general
+permalink: /faq
 ---
 
-Please click <a href="https://go.gov.sg/covidfaq">here</a> for more details.-->
----
-redirect-to: /faq/general
-
----
+<meta http-equiv="REFRESH" content="0;url=https://go.gov.sg/covidfaq"></HEAD>
 
