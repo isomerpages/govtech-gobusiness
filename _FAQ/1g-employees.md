@@ -7,7 +7,7 @@ permalink: /faq/employees
 Currently, you are not required to do so. You are encouraged to confirm with your employer that the function you perform is critical and meant to be performed on-site rather than via telecommuting. Employers are encouraged to provide this confirmation to the employee in writing.
 
 #### **2. What happens if my employer operates a non-essential service but insists that I continue working?**
-You may report to Covid_GoBusiness@mti.gov.sg.
+You may report to <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>.
 
 #### **3. Can I go back to my office to pick up personal items?**
 All non-essential activities outside the home must be suspended during this period in order to bring the transmission rate down effectively. Please refrain from all non-essential travel to reduce the possibility of transmissions.
@@ -21,7 +21,7 @@ Yes, employers who fail to meet the medical insurance requirement for their fore
 #### **6. What will happen to my foreign workers since I am not allowed to operate during this period? Can I repatriate my workers since I cannot operate now?**
 Instead of repatriation or retrenchment, we urge employers to first consider cost-saving measures to manage excess manpower. E.g. look at training, redeployment, reasonable adjustment of salaries etc. Please take note of MOM’s guidelines on cost saving measures and retrenchment: [https://www.mom.gov.sg/employment-practices/retrenchment](https://www.mom.gov.sg/employment-practices/retrenchment){:target="_blank"}
 
-If it is assessed that the foreigner workers are still not needed, employers may give consent for them to be transferred to other employers facing manpower shortages. Employers can approach SBF at manpowerconnect@sbf.org.sg or visit SBF's website.
+If it is assessed that the foreigner workers are still not needed, employers may give consent for them to be transferred to other employers facing manpower shortages. Employers can approach SBF at <a href = "mailto: manpowerconnect@sbf.org.sg">manpowerconnect@sbf.org.sg</a> or visit SBF's website.
 
 If foreign workers would like to head home, companies will have to cancel the work passes, repatriate the workers and bear the repatriation cost.
 
@@ -45,7 +45,7 @@ Companies can also hire existing WPHs from their own or another sector, where th
 
 Hiring firms will be required to meet the prevailing criteria under their respective sectors. This temporary scheme will be in place for five months until 31 August 2020. 
 
-For inter-sectoral transfers (earlier than 40 days before work permit expiry), firms can approach SBF at manpowerconnect@sbf.org.sg or visit their website for more information. For transfer of WPHs from 40 days before work permit expiry (including inter-sectorial transfers), firms can submit their request via an online form or visit MOM’s website for more information.
+For inter-sectoral transfers (earlier than 40 days before work permit expiry), firms can approach SBF at <a href = "mailto: manpowerconnect@sbf.org.sg">manpowerconnect@sbf.org.sg</a> or visit their website for more information. For transfer of WPHs from 40 days before work permit expiry (including inter-sectorial transfers), firms can submit their request via an online form or visit MOM’s website for more information.
 
 #### **11. My business is no longer allowed to operate. Do I still need to pay my workers, or should I let them go on leave?**
 The Jobs Support Scheme announced by the Government on 6 April is meant to support employers to retain and continue to pay their local employees, even during periods of reduction in business activity.

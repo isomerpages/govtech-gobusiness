@@ -16,7 +16,7 @@ Only businesses performing essential services and those that have received an ap
 #### **3. How do I register my essential employees/workers and what information do I need to provide?**
 For applicants with a CorpPass account, please login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a>. Thereafter, please click on the button “submit worker details”, which will be made available only for approved applications, to register your essential employees/workers’ NRIC/FIN number. 
 
-For applicants without a CorpPass account, please call the Enterprise Infoline at 6898-1800 to request for a form to be emailed to you. Please submit the completed form to covid_gobusiness@mti.gov.sg.
+For applicants without a CorpPass account, please call the Enterprise Infoline at 6898-1800 to request for a form to be emailed to you. Please submit the completed form to <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>.
 
 Please ensure that your email address is accurately reflected on your application form. An acknowledgement email will be sent to your email address once you have submitted your essential employees/workers’ details. We will also be using this email address to provide you with updates.
 

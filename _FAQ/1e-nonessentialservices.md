@@ -30,7 +30,7 @@ If you need to activate your employees to work on-site for short periods of time
 If you need to maintain a small workforce at your place of business for safety purposes, please apply for a general exemption.
 
 #### **7. What happens if my company is unable to pay employees’ salaries due to the suspension of activities?**
-The Jobs Support Scheme (JSS) will help enterprises retain their local employees during this period of uncertainty. All active employers, with the exception of Government organisations (local and foreign) and representative officers, are eligible for the JSS. For more details, please visit the IRAS website at http://www.iras.gov.sg or call the hotline 6356 8233.
+The Jobs Support Scheme (JSS) will help enterprises retain their local employees during this period of uncertainty. All active employers, with the exception of Government organisations (local and foreign) and representative officers, are eligible for the JSS. For more details, please visit the IRAS website at <a href="http://www.iras.gov.sg" target="_blank">http://www.iras.gov.sg</a> or call the hotline 6356 8233.
 
 #### **8. Is my company still required to pay rental during the period of suspension of activities?**
 To provide greater support for businesses, stallholders at hawker centres and markets would get enhanced rental waiver of three months, with a minimum waiver of $200 per month. The eligible commercial tenants in Government-owned or managed facilities would be given two months of rental waivers, up from half a month. Government agencies such as JTC, SLA, HDB, URA, BCA, PA and Nparks would provide half a month rental waiver to eligible tenants of other non-residential premises. Eligible tenants include those who did not pay property tax.

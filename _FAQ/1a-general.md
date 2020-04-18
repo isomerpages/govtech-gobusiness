@@ -37,10 +37,10 @@ If you are still unable to view your application status after 3 days, please wri
 You will need to submit one application for each registered business. One application per UEN number. 
 
 #### **8. I am self employed and have no CorpPass so I can’t submit my application online. What should I do?**
-You can call the Enterprise Infoline at 6898-1800 to request for a form to be emailed to you. Please submit the completed form to covid_gobusiness@mti.gov.sg.
+You can call the Enterprise Infoline at 6898-1800 to request for a form to be emailed to you. Please submit the completed form to <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>.
 
 #### **9. I am having problems logging into CorpPass. Who can I approach for help?**
-You can contact the Corp Pass Helpdesk at 6643-0577 or email support@corppass.gov.sg.
+You can contact the Corp Pass Helpdesk at 6643-0577 or email <a href = "mailto: support@corppass.gov.sg">support@corppass.gov.sg</a>.
 
 #### **10. These additional measures have impacted my business greatly. How is the Government supporting us?**
 DPM Heng Swee Keat announced the Solidarity Budget 2020 on 6 April 2020.
@@ -77,7 +77,7 @@ Please refer to the <a href="https://www.singaporebudget.gov.sg/budget_2020" tar
 [1] 75% wage support for aviation, and tourism sectors; 50% for the food services sector, and 25% for all other sectors  
 
 #### **11. If I see a non-essential business continue to operate even though it is not supposed to, what should I do?**
-Please report this business and provide relevant details such as its name, address and relevant evidence (e.g. photographs) to Covid_GoBusiness@mti.gov.sg
+Please report this business and provide relevant details such as its name, address and relevant evidence (e.g. photographs) to <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>.
 
 #### **12. What do I do if I am unable to enter the supermarket/F&B outlets due to long queues?**
 You may consider food takeaways at other F&B outlets or food/grocery delivery services.

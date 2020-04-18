@@ -28,7 +28,7 @@ We should support our frontline workers in their work. Hotels can take in such b
 
 
 #### **8. What kind of vehicle/ motor services are allowed during the circuit breaker period?**
-Vehicle workshops that provide vehicle recovery and repair services for emergency cases will be allowed to continue operating. This is necessary to ensure that essential firms and workers in essential services who rely on their vehicles for transport and delivery are able to have their vehicles recovered and repaired in the event of a breakdown, accident or other emergency. Vehicle workshops that continue to operate should submit details on their operations and manpower requirements at https://covid.gobusiness.gov.sg as soon as possible for review.
+Vehicle workshops that provide vehicle recovery and repair services for emergency cases will be allowed to continue operating. This is necessary to ensure that essential firms and workers in essential services who rely on their vehicles for transport and delivery are able to have their vehicles recovered and repaired in the event of a breakdown, accident or other emergency. Vehicle workshops that continue to operate should submit details on their operations and manpower requirements at <a href="https://covid.gobusiness.gov.sg" target="_blank">https://covid.gobusiness.gov.sg</a> as soon as possible for review.
 
 Vehicle workshops are not permitted to provide regular servicing and cosmetic-related repairs that are not emergency vehicle services.
 
@@ -54,7 +54,7 @@ No. Retail businesses that have received the approval can continue their trading
 #### **14. Can I consider servicing cooling towers, swimming pools and water fountains an essential service?**
 In view of the elevated safe distancing measures between 7 April to 4 May 2020 (both dates inclusive), all swimming pools and water fountains shall be closed. Only cooling towers serving essential services are allowed to operate.
 
-All water treatment companies maintaining cooling towers, water fountains and swimming pools and companies supplying chemicals to these companies are required to submit application to MTI at the website at https://covid.gobusiness.gov.sg to seek exemption from suspension of activities, except water treatment companies maintaining cooling towers for essential services.
+All water treatment companies maintaining cooling towers, water fountains and swimming pools and companies supplying chemicals to these companies are required to submit application to MTI at the website at <a href="https://covid.gobusiness.gov.sg" target="_blank">https://covid.gobusiness.gov.sg</a> to seek exemption from suspension of activities, except water treatment companies maintaining cooling towers for essential services.
 
 Please be reminded that water treatment contractors shall ensure that no more than 2 water treatment personnel are allowed to visit the site once every 2 weeks to conduct necessary water treatment.
 
