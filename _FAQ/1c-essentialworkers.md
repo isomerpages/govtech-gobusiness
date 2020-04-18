@@ -1,6 +1,6 @@
 ---
 title: For Registration of Employees
-permalink: /faq/general
+permalink: /faq/essentialworkers
 ---
 
 #### **1. Why do I need to submit my employees’ details?**
