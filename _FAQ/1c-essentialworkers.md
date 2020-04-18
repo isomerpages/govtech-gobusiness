@@ -46,12 +46,12 @@ For applicants with a CorpPass account, kindly login to <a href="https://www.gob
 For applicants without a CorpPass account, please call the Enterprise Infoline at 6898-1800 for assistance.
 
 #### **11. What should I do if I would like to make changes to the details of my essential employees/workers?**
-Please login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a> and click on the approved exemption to resubmit your employees/workers’ NRIC/FIN number. Kindly resubmit all employees/workers’ NRIC/FIN number who are working on-site.
+Please login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a> and click on the approved exemption to resubmit your employees/workers’ NRIC/FIN number. Kindly resubmit **<ins>all</ins>** employees/workers’ NRIC/FIN number who are working on-site.
 
 #### **12. Is there a limit to the number of times I can change the details of my essential employees/workers?**
 You may change and resubmit your employees/workers’ details up to 3 times a day.
 
-Kindly resubmit the NRIC/FIN numbers of all employees/workers who are working on-site for each resubmission. The list of submitted employees/workers working on site will be based on the latest submission.
+Kindly resubmit the NRIC/FIN numbers of **<ins>all</ins>** employees/workers who are working on-site for each resubmission. The list of submitted employees/workers working on site will be based on the latest submission.
 
 #### **13. What are the penalties for non-compliant companies that deploy employees/workers to work on-site without first submitting their essential employees/workers details?**
 The Government takes a serious view of any infringement and will not hesitate to take actions against non-compliant businesses.
