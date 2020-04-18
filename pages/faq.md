@@ -154,7 +154,7 @@ Instead of repatriation or retrenchment, we urge employers to first consider cos
 
 If it is assessed that the foreigner workers are still not needed, employers may give consent for them to be transferred to other employers facing manpower shortages. Employers can approach SBF at manpowerconnect@sbf.org.sg or visit SBF's website.
 
-If foreign workers would like to head home, companies will have to cancel the work passes, repatriate the workers and bare the repatriation cost.
+If foreign workers would like to head home, companies will have to cancel the work passes, repatriate the workers and bear the repatriation cost.
 
 #### **I have been told to ramp up production during this time period but cannot find additional manpower, how do I source for workers during this time?**
 MOM has partnered with the Singapore Business Federation to offer a temporary scheme that allows companies in all sectors to hire existing WPHs (who are in Singapore) from other sectors, with the agreement of their current employers. 
