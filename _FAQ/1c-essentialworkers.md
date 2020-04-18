@@ -1,5 +1,5 @@
 ---
-title: General
+title: For Registration of Employees
 permalink: /faq/general
 ---
 
