@@ -5,13 +5,13 @@ description: For Singapore Businesses
 image: /images/
 permalink: /
 #notification: GoBusiness Govt Assist eAdviser will be launching soon!
-notification: 
+notification: <strong>Attention:</strong> We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the COVID-19 (Temporary Measures) Act.
 sections:
     - hero:
-        title: Exemption from Suspension of Activities
-#        title: Supporting Our Businesses
-        subtitle: 
-#        subtitle: Overcoming Challenges, Emerging Stronger
+#        title: Exemption from Suspension of Activities
+        title: Supporting Our Businesses
+#        subtitle: 
+        subtitle: Overcoming Challenges, Emerging Stronger
         background: /images/hero-banner.jpg
 #        dropdown:
 #          title: For your attention,
@@ -25,28 +25,37 @@ sections:
         key_highlights:
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
-          description: </br>Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
-#        - title: Registration of Essential Employees
-#          url: https://go.gov.sg/exemptionstatus
-#          description: </br>Registration of essential employees for business performing essential services and those that have received an approval for exemption from the suspension</br></br>Click Here
+          description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br></br>Click Here
         - title: Application for Amendment
           url: https://go.gov.sg/additionalinfo
-          description: </br></br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
+          description: </br>Amendment for submitted applications under General Exemption.</br></br></br></br>Click Here
+        - title: Application for Additional Manpower
+          url: https://go.gov.sg/additionalmanpower
+          description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br></br>Click Here
         - title: Time-Limited Exemption
           url: https://go.gov.sg/timelimitedexemption
           description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
+#        - title: Registration of Essential Employees/Workers
+#          url: https://go.gov.sg/timelimitedexemption
+#          description: Only for businesses performing essential services and those who have an approval for exemption</br></br>Click Here
+#    - infobar:
+#        title: Time-Limited Exemption
+#        subtitle: 
+#        description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)
+#        button: Check Here to Apply
+#        url: https://go.gov.sg/exemptionstatus
     - infobar:
         title: Status of Application
         subtitle: 
         description: 
         button: Check Status of General Exemption Application Here
         url: https://go.gov.sg/exemptionstatus
-    - infobar:
-        title: Attention
-        subtitle: 
-        description: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the COVID-19 (Temporary Measures) Act.
-        button:
-        url:
+#    - infobar:
+#        title: Attention
+#        subtitle: 
+#        description: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the COVID-19 (Temporary Measures) Act.
+#        button:
+#        url:
     - infopic:
         title: News & Advisories
         subtitle: 

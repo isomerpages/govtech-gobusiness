@@ -1,6 +1,6 @@
 ---
 title: For Non-Essential Services Companies
-permalink: /faq/businessexemptions/nonessentialservices
+permalink: /faq/nonessentialservices
 ---
 
 #### **1. Can I continue to run my business as normal if my company is not providing an essential service?**

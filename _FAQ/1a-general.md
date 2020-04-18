@@ -1,6 +1,6 @@
 ---
 title: General
-permalink: /faq/businessexemptions/general
+permalink: /faq/general
 ---
 
 #### **1. How do I know if my business is an ‘Essential’ or ‘Non-Essential’ Service?**
