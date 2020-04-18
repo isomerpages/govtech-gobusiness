@@ -24,13 +24,13 @@ Please ensure that your email address is accurately reflected on your applicatio
 You can start to submit your essential employees/workers’ details at <a href="https://covid.gobusiness.gov.sg" target="_blank">https://covid.gobusiness.gov.sg</a> with effect from 19 Apr 2020. 
 
 #### **5. Why is the exemption start and end date stated as N/A?**
-If you have applied for a general exemption, there will not be an exemption start and end date as the exemption is for the entire circuit breaker period.
+If you have applied for a general exemption, there will not be an exemption start and end date as the exemption is for the entire circuit breaker period unless you are notified otherwise.
 
 #### **6. I am unable to add in my essential employees/workers details. Why is it so?**
 You may only register your essential employees/workers after your company exemption is approved. Please check your application status at <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a>. 
 
 #### **7. I have problems adding in more essential employees/workers details to my application. Why is it so?**
-Each business is allotted a specific worker headcount. You will not be able to add more essential employees/workers to your application once you have reached the allotted headcount.
+Each business is allotted a specific worker headcount. You will not be able to add more essential employees/workers to your application once you have reached the allotted headcount. The cap on the number of workers that you are allowed to have on-site is necessary to minimise the movement of workers to and from work.  We are acutely aware that this will be disruptive for businesses, but it is also essential in the fight against COVID-19.
 
 #### **8. What happens after I have submitted my essential essential employees/workers details?**
 An acknowledgement email will be sent to your email address to inform you that we have received a record of your essential employees/workers’ details.
@@ -59,7 +59,7 @@ The Government takes a serious view of any infringement and will not hesitate to
 Under the Covid-19 (Temporary Measures) Act passed in Parliament on 07 April 2020, first-time offenders will face a fine of up to S$10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.
 
 #### **14. I need more essential employee/workers on site to ensure the continuation of my business activities. What should I do?**
-Please click on <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">Submission of Additional Manpower</a> to request for a review.
+The cap on the number of workers that you are allowed to have on-site is necessary to minimise the movement of workers to and from work.  We are acutely aware that this will be disruptive for businesses, but it is also essential in the fight against COVID-19. Each and every one of us can, and must, play our part in protecting our people from infection. If you would, nevertheless, like to request for a review of your cap, please click on <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">Submission of Additional Manpower</a>.
 
 #### **15. My appeal for additional manpower had already been rejected, but I really need more employee/workers on-site. Can I appeal again?**
 Further appeals will not be considered.
