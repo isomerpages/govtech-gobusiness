@@ -42,8 +42,8 @@ sections:
 #        title: Time-Limited Exemption
 #        subtitle: 
 #        description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)
-        button: Check Here to Apply
-        url: https://go.gov.sg/exemptionstatus
+#        button: Check Here to Apply
+#        url: https://go.gov.sg/exemptionstatus
     - infobar:
         title: Status of Application
         subtitle: 
