@@ -1,6 +1,6 @@
 ---
 title: For Essential Services Companies
-permalink: /faq/businessexemptions/essentialservices
+permalink: /faq/essentialservices
 ---
 
 #### **1. How will I know whether my company is carrying out an essential activity and should therefore be exempted from suspension?**
