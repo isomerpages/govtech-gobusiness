@@ -35,7 +35,7 @@ Each business is allotted a specific worker headcount. You will not be able to a
 #### **8. What happens after I have submitted my essential essential employees/workers details?**
 An acknowledgement email will be sent to your email address to inform you that we have received a record of your essential employees/workers’ details.
 
-#### **9. I was not in time to submit my essential employee/workers’ details before 10am but I need them to work on-site tomorrow. What should I do to expedite my submission?**
+#### **9. I was not in time to submit my essential employee/workers’ details before 12am but I need them to work on-site tomorrow. What should I do to expedite my submission?**
 Submissions must be made before 12am every day in order for your essential employees/workers to commence work the next day. Please register your essential employee/workers’ details early.
 
 #### **10. What happens if I do not receive an acknowledgement email after I have submitted the essential employees/workers’ details?**
