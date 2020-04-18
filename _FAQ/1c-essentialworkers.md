@@ -29,7 +29,7 @@ If you have applied for a general exemption, there will not be an exemption star
 #### **6. I am unable to add in my essential employees/workers details. Why is it so?**
 You may only register your essential employees/workers after your company exemption is approved. Please check your application status at <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a>. 
 
-#### **7. I have problems adding in more essential essential employees/workers details to my application. Why is it so?**
+#### **7. I have problems adding in more essential employees/workers details to my application. Why is it so?**
 Each business is allotted a specific worker headcount. You will not be able to add more essential employees/workers to your application once you have reached the allotted headcount.
 
 #### **8. What happens after I have submitted my essential essential employees/workers details?**
