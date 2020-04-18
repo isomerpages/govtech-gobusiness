@@ -31,7 +31,7 @@ Please suspend your business operations until you have received the official ema
 #### **6. I am unable to find the status of my application for General Exemption on covid.gobusiness.gov.sg. What should I do?**
 Please allow at least 2-3 days for your application to be processed. 
 
-If you are still unable to view your application status after 3 days, please write to mti_email@mti.gov.sg with your company name, UEN and the reference number for your application.
+If you are still unable to view your application status after 3 days, please write to <a href = "mailto: mti_email@mti.gov.sg">mti_email@mti.gov.sg</a> with your company name, UEN and the reference number for your application.
 
 #### **7. I am self employed / own a business with multiple entities. Do I need to submit my applications individually or will one application cover all my businesses?**
 You will need to submit one application for each registered business. One application per UEN number. 
