@@ -12,7 +12,7 @@ You may report to Covid_GoBusiness@mti.gov.sg.
 #### **3. Can I go back to my office to pick up personal items?**
 All non-essential activities outside the home must be suspended during this period in order to bring the transmission rate down effectively. Please refrain from all non-essential travel to reduce the possibility of transmissions.
 
-#### **4. Can foreign worker levy be waived? Are there any other support measures avaiable for us during this period?**
+#### **4. Can foreign worker levy be waived? Are there any other support measures available for us during this period?**
 The Jobs Support Scheme will be further enhanced and foreign worker levies will be waived for April 2020.
 
 #### **5. Should my company continue with medical insurance coverage for foreign employees, given that they are unable to work during the suspension period?**
@@ -23,7 +23,7 @@ Instead of repatriation or retrenchment, we urge employers to first consider cos
 
 If it is assessed that the foreigner workers are still not needed, employers may give consent for them to be transferred to other employers facing manpower shortages. Employers can approach SBF at manpowerconnect@sbf.org.sg or visit SBF's website.
 
-If foreign workers would like to head home, companies will have to cancel the work passes, repatriate the workers and bare the repatriation cost.
+If foreign workers would like to head home, companies will have to cancel the work passes, repatriate the workers and bear the repatriation cost.
 
 #### **7. Can my employees leave their dormitories during the period of suspension of activities?**
 Yes, provided they are not sick and not under Leave of Absence (LOA)/Stay Home Notice (SHN) or Quarantine Orders (QO). 
