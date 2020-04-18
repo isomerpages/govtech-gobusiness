@@ -32,12 +32,18 @@ sections:
         - title: Application for Additional Manpower
           url: https://go.gov.sg/additionalmanpower
           description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br></br>Click Here
-        - title: Time-Limited Exemption
+#        - title: Time-Limited Exemption
+#          url: https://go.gov.sg/timelimitedexemption
+#          description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
+        - title: Registration of Essential Employees/Workers
           url: https://go.gov.sg/timelimitedexemption
-          description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
-        - title: Time-Limited Exemption
-          url: https://go.gov.sg/timelimitedexemption
-          description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
+          description: Only for businesses  that have received approval for exemption</br></br>Click Here
+    - infobar:
+        title: Time-Limited Exemption
+        subtitle: 
+        description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)
+        button: Check Here to Apply
+        url: https://go.gov.sg/exemptionstatus
     - infobar:
         title: Status of Application
         subtitle: 

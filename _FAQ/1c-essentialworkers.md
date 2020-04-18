@@ -59,10 +59,10 @@ The Government takes a serious view of any infringement and will not hesitate to
 Under the Covid-19 (Temporary Measures) Act passed in Parliament on 07 April 2020, first-time offenders will face a fine of up to S$10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.
 
 #### **14. I need more essential employee/workers on site to ensure the continuation of my business activities. What should I do?**
-Please click on <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">Submission of Additional Manpower Quota</a> to request for a review.
+Please click on <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">Submission of Additional Manpower</a> to request for a review.
 
 #### **15. My appeal for additional manpower had already been rejected, but I really need more employee/workers on-site. Can I appeal again?**
 Further appeals will not be considered.
 
 #### **16. Can my company register more essential employees/workers than the permitted headcount on-site given that we operate on a split team basis?**
-Please click on <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">Submission of Additional Manpower Quota</a> to request for a review.
+Please click on <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">Submission of Additional Manpower</a> to request for a review.
