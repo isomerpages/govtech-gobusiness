@@ -27,7 +27,7 @@ You can start to submit your employees/workers’ details at <a href="https://co
 If you have applied for a general exemption, there will not be an exemption start and end date as the exemption is for the entire circuit breaker period.
 
 #### **6. I am unable to add in my employees details. Why is it so?**
-You may only register your employees/workers’ after your company exemption is approved. Please check your application status at <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a>. 
+You may only register your employees/workers after your company exemption is approved. Please check your application status at <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a>. 
 
 #### **7. I have problems adding in more essential employees details to my application. Why is it so?**
 Each business is allotted a specific worker headcount. You will not be able to add more employees/workers to your application once you have reached the allotted headcount.
@@ -38,7 +38,7 @@ An acknowledgement email will be sent to your email address to inform you that w
 #### **9. I was not in time to submit my essential employee/workers’ details before 10am but I need them to work on-site tomorrow. What should I do to expedite my submission?**
 Submissions must be made before 10am every day in order for your employees/workers to commence work the next day. Please register your employee/workers’ details early.
 
-#### **10. What happens if I do not receive an acknowledgement email after I have submitted the employees’/workers’ details?**
+#### **10. What happens if I do not receive an acknowledgement email after I have submitted the employees/workers’ details?**
 If you have not received an acknowledgement email, your email address may be inaccurately captured on our system.
 
 For applicants with a CorpPass account, kindly login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a> to verify if your email address is accurately reflected. You will be able to update your email address if needed. All changes will be reflected immediately.
@@ -46,7 +46,7 @@ For applicants with a CorpPass account, kindly login to <a href="https://www.gob
 For applicants without a CorpPass account, please call the Enterprise Infoline at 6898-1800 for assistance.
 
 #### **11. What should I do if I would like to make changes to the details of my essential employees/workers?**
-Please login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a> and click on the approved exemption to resubmit your employees’/workers’ NRIC/FIN number. Kindly resubmit all employees/workers’ NRIC/FIN number who are working on-site.
+Please login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">here</a> and click on the approved exemption to resubmit your employees/workers’ NRIC/FIN number. Kindly resubmit all employees/workers’ NRIC/FIN number who are working on-site.
 
 #### **12. Is there a limit to the number of times I can change the details of my essential employees/workers?**
 You may change and resubmit your employees/workers’ details up to 3 times a day.
