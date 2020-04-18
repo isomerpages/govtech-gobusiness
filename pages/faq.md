@@ -1,3 +1,3 @@
 ---
-redirect: /faq/general
+permalink: /faq/general
 ---
