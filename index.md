@@ -25,19 +25,19 @@ sections:
         key_highlights:
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
-          description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br></br>Click Here
+          description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
         - title: Application for Amendment
           url: https://go.gov.sg/additionalinfo
-          description: </br>Amendment for submitted applications under General Exemption.</br></br></br></br>Click Here
+          description: </br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
         - title: Application for Additional Manpower
           url: https://go.gov.sg/additionalmanpower
-          description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br></br>Click Here
+          description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br>Click Here
 #        - title: Time-Limited Exemption
 #          url: https://go.gov.sg/timelimitedexemption
 #          description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
         - title: Registration of Essential Employees/Workers
           url: https://go.gov.sg/timelimitedexemption
-          description: Only for businesses performing essential services and those who have an approval for exemption</br></br>Click Here
+          description: </br>Only for businesses performing essential services and those who have an approval for exemption</br></br></br>Click Here
     - infobar:
         title: Time-Limited Exemption
         subtitle: 
