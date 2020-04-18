@@ -32,16 +32,16 @@ sections:
         - title: Application for Additional Manpower
           url: https://go.gov.sg/additionalmanpower
           description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br></br>Click Here
-#        - title: Time-Limited Exemption
-#          url: https://go.gov.sg/timelimitedexemption
-#          description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
-        - title: Registration of Essential Employees/Workers
+        - title: Time-Limited Exemption
           url: https://go.gov.sg/timelimitedexemption
-          description: Only for businesses performing essential services and those who have an approval for exemption</br></br>Click Here
-    - infobar:
-        title: Time-Limited Exemption
-        subtitle: 
-        description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)
+          description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
+#        - title: Registration of Essential Employees/Workers
+#          url: https://go.gov.sg/timelimitedexemption
+#          description: Only for businesses performing essential services and those who have an approval for exemption</br></br>Click Here
+#    - infobar:
+#        title: Time-Limited Exemption
+#        subtitle: 
+#        description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)
         button: Check Here to Apply
         url: https://go.gov.sg/exemptionstatus
     - infobar:
@@ -50,12 +50,12 @@ sections:
         description: 
         button: Check Status of General Exemption Application Here
         url: https://go.gov.sg/exemptionstatus
-    - infobar:
-        title: Attention
-        subtitle: 
-        description: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the COVID-19 (Temporary Measures) Act.
-        button:
-        url:
+#    - infobar:
+#        title: Attention
+#        subtitle: 
+#        description: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the COVID-19 (Temporary Measures) Act.
+#        button:
+#        url:
     - infopic:
         title: News & Advisories
         subtitle: 
