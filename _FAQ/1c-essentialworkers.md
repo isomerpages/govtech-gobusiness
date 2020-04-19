@@ -1,5 +1,5 @@
 ---
-title: For Registration of Manpower
+title: For Registration of Essential Manpower
 permalink: /faq/essentialworkers
 ---
 
@@ -23,7 +23,7 @@ For applicants without a CorpPass account, please call the Enterprise Infoline a
 Please ensure that your email address is accurately reflected on your application form. An acknowledgement email will be sent to your email address once you have submitted the details of your essential manpower. We will also be using this email address to provide you with updates.
 
 #### **4. When can I start to submit the details of my essential manpower?**
-The form for the submission of essential manpower is available <a href="https://covid.gobusiness.gov.sg" target="_blank">here</a> from 19 April 2020. You will have 2 days from the date that you receive the email notification to do so.
+The form for the submission of essential manpower is available <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> from 19 April 2020. You will have 2 days from the date that you receive the email notification to do so.
 
 #### **5. Why is the exemption start and end date stated as N/A?**
 If you have applied for a general exemption, there will not be an exemption start and end date as the exemption is for the entire circuit breaker period unless you are notified otherwise.

@@ -27,7 +27,7 @@ If you need to activate your employees to work on-site for short periods of time
 #### **6. Why is there a need to further tighten headcounts even though I am an essential firm? I have already submitted my company’s plans/manpower requirements.**
 The Multi-Ministry Taskforce announced on 14 April 2020 that there will be a further tightening of the list of companies that are permitted to operate during the Circuit Breaker period to reduce the number of on-site workers and minimise people movement.
 
-Companies that continue to operate during this period should use the minimum number of employees required. You will be required to submit details of your essential manpower at <a href="https://go.gov.sg/essentialworkers" target="_blank">Essential Employees/Workers Registration</a> from 19 April. 
+Companies that continue to operate during this period should use the minimum number of employees required. You will be required to submit details of your essential manpower at <a href="https://go.gov.sg/essentialworkers" target="_blank">Registration of Essential Manpower</a> from 19 April. 
 
 #### **7. I heard that there are some companies who have received a rescind notification. If I have not received such notification, am I still allowed to operate? Are there any guidelines I should adhere to?**
 Yes. Companies which have not received any further notification to suspend their operations are allowed to continue operations, if they had earlier received an exemption from suspension of activities.
