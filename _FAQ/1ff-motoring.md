@@ -1,6 +1,6 @@
 ---
-title: Hospitality
-permalink: /faq/sectorspecific/hospitality
+title: Motoring
+permalink: /faq/sectorspecific/motoring
 third_nav_title: For Sector-Specific Queries
 ---
 
