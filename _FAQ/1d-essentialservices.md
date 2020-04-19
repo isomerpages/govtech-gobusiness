@@ -9,10 +9,7 @@ Only essential services are exempted from the suspension. All companies must app
 #### **2. My company provides essential services and I have been contacted by a government agency. Why do I still need to submit details of my operations in order to continue operating?**
 This is so that agencies can verify the nature your business activities and assess the number of workers that need to operate on-site. All activities of your company that can take place through telecommuting must be conducted through telecommuting from home.
 
-#### **3. If I am an essential services company, is there a limit on the number of employees who can work during this period?**
-Yes, companies should operate using the minimum number of employees required during this period. Those who can work from home should be encouraged to do so. Safe distancing measures will need to continue to be adhered to in the office.
-
-#### **4. My business is exempted from the suspension, is there anything I should be aware of or put in place?**
+#### **3. My business is exempted from the suspension, is there anything I should be aware of or put in place?**
 Even if your business has been exempted from suspension, you should only get employees to return to the workplace to conduct essential activities where telecommuting is not possible. Where possible, businesses are encouraged to adopt video and audio conferencing tools to support their workers to work from home. In addition, businesses will be required to reduce physical interactions and observe stricter safe distancing measures.
 
 Special attention should be paid to vulnerable employees (e.g. older workers, pregnant workers, and those with underlying medical conditions) to enable them to work from home, including temporarily redeploying these employees to another role within the company that is suitable for working from home.
@@ -30,7 +27,7 @@ Please adhere to the safe distancing measures in the premise. These include mini
 <ins>Food Retail (e.g. supermarkets, convenience stores, grocery & fruit stores)</ins>
 Outlets that remain open are required to adhere to the safe distancing measures. These include minimising crowds by ensuring patrons are spaced at least 1 metre apart at all times (i.e. within the premise and when queuing).
 
-#### **5. Where can essential workers (e.g. Grab drivers, bus drivers, workers working in the food and beverage industry) take their meals if they are not near home? Do these individuals have to furnish proof of being an essential worker if questioned by enforcement officers?**
+#### **4. Where can essential workers (e.g. Grab drivers, bus drivers, workers working in the food and beverage industry) take their meals if they are not near home? Do these individuals have to furnish proof of being an essential worker if questioned by enforcement officers?**
 Employers of such workers have the responsibility to look after the welfare of their workers and provide their workers with a suitable sheltered space within the work place premises to consume meals, such as staff canteens, pantries, or any other rest area. Employers should ensure that their workers observe the following in these spaces:
 1. Workers should dine alone and keep a distance of at least one metre from another individual;
 2. Staggered meal times to reduce the interactions between their workers and prevent congregation; and
