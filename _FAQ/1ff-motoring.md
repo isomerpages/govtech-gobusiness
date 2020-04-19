@@ -13,3 +13,10 @@ Businesses that are allowed to remain open must implement enhanced safe distanci
 
 #### **2. Are all driving lessons and tests at driving schools suspended during the Circuit Breaker period?**
 Yes, all theory and practical driving/riding lessons at driving schools, and those conducted by Private Driving Instructors (PDI), are suspended between 7 April and 4 May 2020. However, the driving schools’ online services, such as their e-learning portals, are still available via the schools’ websites. All driving tests administered by the Traffic Police scheduled between 7 April and 4 May 2020 (dates are inclusive), will be deferred to after 4 May 2020. Learner drivers and instructors should contact their respective schools for further clarification.
+
+#### **3. Are car rental services (including traditional rental car and shared car) allowed to operate during the circuit breaker period?**
+Private hire vehicles such as Grab and Go-Jek are allowed to operate as they are providing essential transport services. Drivers are required to wear a mask when conveying passengers. Passengers are also reminded that it is mandatory for them to wear a mask when they leave their homes. Drivers can decline to convey passengers who do not wear a mask during this period.
+
+#### **4. Can car-pooling services continue during the circuit breaker period?**
+Car-pooling services including GrabHitch and RydePool are not “essential services”. 
+Drivers operating such services must stop providing car-pool services. This includes non-commercial car-pool arrangements between people who do not live in the same residence.
