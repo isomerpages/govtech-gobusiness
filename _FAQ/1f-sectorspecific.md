@@ -13,7 +13,7 @@ Workers of essential services including food handlers at coffee shops are allowe
 Retail businesses can continue to sell their products online and provide delivery and installation services to customers. However, they are not permitted to open their physical stores to customers unless they are an essential service. Delivery and installation personnel are required to comply with the health and safe distancing advisories set out by the government. 
 
 #### **4. I am not an essential firm and have a shipment of goods coming in, will I be allowed to send the goods to my warehouse and will I be able to activate my employees to receive the shipment at my warehouse?**
-Port operators and logistics service providers will be allowed to continue to operate during this period. Yes, you may receive deliveries at your premises. If you need to activate your employees to work on-site for short periods of time to receive deliveries and perform other related tasks, please apply for a time-limited exemption.
+Port operators and logistics service providers will be allowed to continue to operate during this period. Yes, you may receive deliveries at your premises. If you need to activate your employees to work on-site for short periods of time to receive deliveries and perform other related tasks, please apply for a time-limited exemption. Please note to submit your application **<ins>only one day before</ins>** the date which you would like to activate staff to be deployed at your work premise.
 
 #### **5. If the factory is closed, but some of the components are being shipped in, can the company still maintain a minimum number of workers onsite to clear the goods?**
 Yes, the intention is to keep goods flowing in and to keep the port clear.
@@ -100,7 +100,7 @@ If your law practice is providing legal services in one or more of the four cate
 You may wish to refer to the FAQ section for more information on the safe distancing measures that businesses providing essential services must adhere to when operating at your office during this period.
 
 #### **22. If the legal services that my firm provides does not fall within one of the four categories of legal activities identified as essential services, can I continue to operate?**
-If the services that your law practice provides does not fall under one of the four categories of legal activities identified as essential legal services, you must suspend all in-person activities at your office. You may continue to operate if the services can be performed by telecommuting from home. For short term entry into your office, you will need to apply for a time-limited exemption.
+If the services that your law practice provides does not fall under one of the four categories of legal activities identified as essential legal services, you must suspend all in-person activities at your office. You may continue to operate if the services can be performed by telecommuting from home. For short term entry into your office, you will need to apply for a time-limited exemption. Please note to submit your application **<ins>only one day before</ins>** the date which you would like to activate staff to be deployed at your work premise.
 
 #### **23. If my law practice provides more than one of the legal activities identified as essential services, do we need to submit separate applications for each activity?**
 Your law practice will only need to submit one application.
