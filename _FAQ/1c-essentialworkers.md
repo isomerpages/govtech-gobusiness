@@ -21,7 +21,7 @@ For applicants without a CorpPass account, please call the Enterprise Infoline a
 Please ensure that your email address is accurately reflected on your application form. An acknowledgement email will be sent to your email address once you have submitted your essential employees/workers’ details. We will also be using this email address to provide you with updates.
 
 #### **4. When can I start to submit my essential employees/workers’ details?**
-You can start to submit your essential employees/workers’ details at <a href="https://covid.gobusiness.gov.sg" target="_blank">https://covid.gobusiness.gov.sg</a> with effect from 19 Apr 2020. 
+The form for the submission of employee/workers’ details is available at <a href="https://covid.gobusiness.gov.sg" target="_blank">https://covid.gobusiness.gov.sg</a> from 19 Apr 2020. 
 
 #### **5. Why is the exemption start and end date stated as N/A?**
 If you have applied for a general exemption, there will not be an exemption start and end date as the exemption is for the entire circuit breaker period unless you are notified otherwise.
@@ -36,7 +36,9 @@ Each business is allotted a specific worker headcount. You will not be able to a
 An acknowledgement email will be sent to your email address to inform you that we have received a record of your essential employees/workers’ details.
 
 #### **9. I was not in time to submit my essential employee/workers’ details before 12pm but I need them to work on-site tomorrow. What should I do to expedite my submission?**
-Submissions must be made before 12pm every day in order for your essential employees/workers to commence work the next day. Please register your essential employee/workers’ details early.
+Submissions must be made **<ins>before 12pm</ins>** every day in order for your essential employees/workers to commence work the next day. Please register your essential employee/workers’ details early.
+
+You do not need to re-submit your employees/workers’ details daily if there are no changes.
 
 #### **10. What happens if I do not receive an acknowledgement email after I have submitted the essential employees/workers’ details?**
 If you have not received an acknowledgement email, your email address may be inaccurately captured on our system.
