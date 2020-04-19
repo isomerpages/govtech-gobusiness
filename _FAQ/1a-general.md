@@ -13,7 +13,7 @@ For Companies providing **<ins>Essential Services</ins>**, you will need to decl
 
 For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>applying for exemption from suspension of business activities</ins>, please click on GENERAL EXEMPTION. Please suspend your business operations until you have received the official email notification of approval. 
 
-For Companies that are <ins>applying for exemption for a limited-period of time</ins>, please click on TIME-LIMITED EXEMPTION. Each company is limited to not more than 4 applications throughout the circuit-breaker period. Please also note to submit your application **<ins>only one day before</ins>** the date which you would like to activate staff to be deployed at your work premise.
+For Companies that are <ins>applying for exemption for a limited-period of time</ins>, please click on TIME-LIMITED EXEMPTION. Each company is limited to not more than 4 applications throughout the circuit-breaker period. Please submit your application **one day before** the required date of use. 
 
 #### **3. What should I do if I have not received an exemption? Am I allowed to continue operations?**
 Please suspend your business operations until you have received the official email notification of approval.
@@ -90,25 +90,22 @@ The Government takes a serious view of any infringement of safe distancing measu
 
 Under the COVID-19 (Temporary Measures) Act passed in Parliament on 7 April 2020, first-time offenders will face a fine of up to S$10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.
 
-#### **15. My house is currently under renovation and I need a place to stay. Where can I find lodging?**
-You may consider staying at serviced apartments.
-
-#### **16. How do we identify Safe Distancing Ambassadors from ESG and STB?**
+#### **15. How do we identify Safe Distancing Ambassadors from ESG and STB?**
 Safe Distancing Ambassadors from ESG and STB will be wearing a lanyard and a red polo shirt with the words “Safe Distancing Ambassador” on the back.
 
-#### **17. I do not agree with the decision of the Safe Distancing Ambassador. What is my recourse?**
+#### **16. I do not agree with the decision of the Safe Distancing Ambassador. What is my recourse?**
 The decision of the SDA / enforcement officers is final. Verbal warnings will be issued and if businesses continue to flout the rules, stricter enforcement measures including fines and suspension of operations will be imposed.
 
-#### **18. How do we verify the identity of Enforcement Officers? What do they do? Are we required to pay fines on the spot?**
+#### **17. How do we verify the identity of Enforcement Officers? What do they do? Are we required to pay fines on the spot?**
 Enforcement officers from various agencies including the Singapore Police Force, National Environment Agency, National Parks Board and Land Transport Authority, are issued a letter of appointment by the Ministry of Health. They are deployed to enforce safe distancing measures and control order regulations, by conducting compliance inspections during the “circuit breaker” period.
 
 These officers can issue offenders (businesses or individuals) a Notice of Offence, which include the composition fine amount and details of the offence. Offenders will not be asked to pay their fines on the spot. These officers can also issue warning letters to individuals.
 
-#### **19. I am issued a fine and/or a suspension of operations. How do I make an appeal?**
+#### **18. I am issued a fine and/or a suspension of operations. How do I make an appeal?**
 The decision of the Enforcement Officers is final. In particular, the Enforcement Officers' decision and any accompanying relevant authorities' stop orders shall superede the exemption from suspension of activities issued. You are reminded to pay the composition sum by the date indicated in the Notice of Offence and refrain from committing any further offences to comply with the law at all times.
 
-#### **20. I am issued a fine. How do I make payment?**
+#### **19. I am issued a fine. How do I make payment?**
 You can refer to the Notice of Offence issued to you for information on the payment mode. Enforcement officers will not collect fines on the spot, from individuals and businesses who have contravened these rules. The penalties for breaches will be issued to individuals or businesses in the form of composition letters, which will state the relevant follow up actions required.
 
-#### **21. Where can I get more information on the regulatory requirements relating to safe distancing?**
+#### **20. Where can I get more information on the regulatory requirements relating to safe distancing?**
 You can refer to the COVID-19 (Temporary Measures) (Control Order) Regulations 2020 on the Singapore Statutes Online website at <a href="https://sso.agc.gov.sg" target="_blank">https://sso.agc.gov.sg</a> 
