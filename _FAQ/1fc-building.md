@@ -5,7 +5,7 @@ third_nav_title: For Sector-Specific Queries
 ---
 
 #### **1. My house is currently under renovation and I need a place to stay. Where can I find lodging?**
-sample
+You may consider staying at serviced apartments.
 
 #### **2. Can I consider servicing cooling towers, swimming pools and water fountains an essential service?**
 In view of the elevated safe distancing measures between 7 April to 4 May 2020 (both dates inclusive), all swimming pools and water fountains shall be closed. Only cooling towers serving essential services are allowed to operate.
