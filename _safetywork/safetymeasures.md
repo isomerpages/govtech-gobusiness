@@ -5,7 +5,7 @@ permalink: /safetywork/safetymeasures/
 
 ## **Safety @ Work**
 
-#### **1. Trace Together**
+#### **1. TraceTogether**
 
 ![Trace Together](/images/tracetogether.png "Trace Together")
 
