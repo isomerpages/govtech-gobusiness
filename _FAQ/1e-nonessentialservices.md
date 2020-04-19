@@ -25,7 +25,7 @@ Special attention should be paid to vulnerable employees (e.g. older workers, pr
 #### **6. If my business does not conduct essential activities, can I go to my place of business to perform maintenance of the facility, attend to perishable products, receive deliveries or perform other necessary tasks?**
 If you are the owner of a non-essential business, you may go to your business location to take care of crucial tasks that cannot be done remotely or to retrieve necessary materials or documents. Your employees are not permitted to go to your place of business.  They may work remotely from home.
 
-If you need to activate your employees to work on-site for short periods of time (i.e. less than a day), you need to apply for a time-limited exemption. Please note to submit your application **<ins>only one day before</ins>** the date which you would like to activate staff to be deployed at your work premise.
+If you need to activate your employees to work on-site for short periods of time (i.e. less than a day), you need to apply for a time-limited exemption. Please submit your application **one day before** the required date of use.
 
 If you need to maintain a small workforce at your place of business for safety purposes, please apply for a general exemption.
 
