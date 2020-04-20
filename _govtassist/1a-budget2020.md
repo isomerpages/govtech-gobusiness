@@ -58,3 +58,11 @@ To find out more, please see below:
 To find out more, please see below:
 - For more details about Corporate Income Tax, please click <a target="_blank" href="https://go.gov.sg/corporateincometax">here</a>.
 - For more details about Foreign Worker Levy, please click <a target="_blank" href="https://go.gov.sg/fwlwaiver">here</a>.
+
+
+#### **7. Foreign Worker Levy Waiver & Rebate**
+
+|Scheme Name|Description|Details|
+|:---|:---|:---|
+|Foreign Worker Levy Waiver|Waiver of Mar 2020 levy (due for payment in Apr 2020) for all business employees|<a target="_blank" href="https://go.gov.sg/fwlwaiver">Link</a>|
+|Foreign Worker Levy Rebate|Flat rate of $750 for each S Pass and WP holder in employment as at 29 Feb 2020|<a target="_blank" href="https://go.gov.sg/fwlwaiver">Link</a>|
