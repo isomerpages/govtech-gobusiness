@@ -22,6 +22,8 @@ For applicants without a CorpPass account, please call the Enterprise Infoline a
 
 Please ensure that your email address is accurately reflected on your application form. An acknowledgement email will be sent to your email address once you have submitted the details of your essential manpower. We will also be using this email address to provide you with updates.
 
+You may refer to the "Guide for Registration of Essential Manpower" <a href="https://covid.gobusiness.gov.sg/guides/EssentialManpowerRegistrationGuide.pdf" target="_blank">here</a>.
+
 #### **4. When can I start to submit the details of my essential manpower?**
 The form for the submission of essential manpower is available <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> from 19 April 2020. You will have 2 days from the date that you receive the email notification to do so.
 
