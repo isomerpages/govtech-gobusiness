@@ -69,7 +69,7 @@ Yes. Activities that support online retail such as photoshoots and livestreaming
 No. All health supplements and traditional chinese medicine (TCM) stores will not be allowed to continue operations.
 
 #### **20. I am retailing mobile phones and accessories but provide predominantly repair services for handphones. Am I allowed to open only the repair services section?**
-Yes. Mobile phone shops which provide predominantly repair services can continue to operate. However, they are not allowed to sell handphones and acccessories.
+Yes. Mobile phone shops which provide predominantly repair services can continue to operate. However, they are not allowed to sell handphones and accessories.
 
 #### **21. I am selling personal hygiene and beauty care items such as shampoo, body wash and other skincare products. Am I allowed to open?**
 No. Only pharmacies selling personal hygiene and beauty care items are allowed to open as they support the health and social services sector. All other stores retailing predominantly personal hygiene and beauty care items are not allowed to open.
