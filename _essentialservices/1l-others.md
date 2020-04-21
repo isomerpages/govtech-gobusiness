@@ -30,7 +30,7 @@ permalink: /essentialservices/others/
 : a. For provision of emergency, non-elective veterinary services, including hospitalization.
 
 10. Selected face-to-face Continuing Education & Training (CET) 
-: a. For job placement needs or for severely affected economic sectors
+: a. For training of essential roles supporting the national COVID-19 efforts
 
 11. Pet supplies stores (only online retail allowed, physical shopfront to be closed)
 
