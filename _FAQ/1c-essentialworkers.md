@@ -68,23 +68,20 @@ Further appeals will not be considered.
 #### **15. Can my company register more essential manpower than the permitted headcount on-site given that we operate on a split team basis?**
 Please click on <a href="https://go.gov.sg/additionalmanpower" target="_blank">Submission of Additional Manpower</a> to request for a review.
 
-#### **16. Can I continue to operate with more manpower than the headcount stipulated on my “Manpower Submission form”, while I submit an appeal for additional manpower?**
-No. Businesses should operate with the allocated headcount shown on the “Manpower Submission” form until they receive an email that their appeal has been approved.
-
-#### **17. I am a sole proprietor and have no employees. I had previously received the approval of my exemption request. Must I submit my personal details via the “Manpower Submission” form?**
+#### **16. I am a sole proprietor and have no employees. I had previously received the approval of my exemption request. Must I submit my personal details via the “Manpower Submission” form?**
 Yes. You will still need to submit your details via the form when you receive the notification email to do so.
 
-#### **18. I run an Employment Agency. Would it be my responsibility to register my employees’ details or should companies that hire these contract workers be responsible?**
+#### **17. I run an Employment Agency. Would it be my responsibility to register my employees’ details or should companies that hire these contract workers be responsible?**
 Employment agencies should register the details of all workers under their direct employment regardless of where they are deployed.
 
-#### **19. I have received the email notification to submit the details of my essential manpower. However, my “Manpower Submission” form states that my allotted headcount is “0” or “N/A”. What should I do?**
+#### **18. I have received the email notification to submit the details of my essential manpower. However, my “Manpower Submission” form states that my allotted headcount is “0” or “N/A”. What should I do?**
 If your allotted headcount is reflected as “0” or “N/A”, it means that the system is still being updated. Please check back in 1 or 2 days to view your allotted headcount. 
 You may continue operations with your current headcount in the meantime. 
 
-#### **20. I had previously submitted the details of my essential manpower. Do I need to re-submit it daily?**
+#### **19. I had previously submitted the details of my essential manpower. Do I need to re-submit it daily?**
 No, you do not need to. You will only need to re-submit the details of your essential manpower if there are changes.
 
-#### **21. My workers are on shift work. Do I need to submit one application for each shift?**
+#### **20. My workers are on shift work. Do I need to submit one application for each shift?**
 There is no need to submit individual applications for each shift. Please submit one application per UEN via the “Application for Additional Manpower” form, detailing the total number of workers performing shift work and the number of shifts most workers are on.
 
 We will review your application and reflect the revised allotted headcount on the “Manpower Submission” form as soon as possible. You may continue operations with your current allotted headcount in the meantime.
