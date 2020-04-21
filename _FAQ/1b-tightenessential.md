@@ -45,7 +45,7 @@ No. If your shop retails predominantly desserts such as cakes, you will not be a
 You should not open your outlet for walk-in customers but can continue to supply to essential services like supermarkets and restaurants.
 
 #### **13. I have been informed that I will need to suspend my operations. Can I still continue operations if we close our shopfront and only accept online orders?**
-Please note that all operations at the shop front must be suspended. Online retail of these food products, if any, must be fulfilled from the licensed central kitchens, manufacturing facilities or warehouses of the F&B establishment (if applicable). The manufacturing facility must not be part of the list indicated in Annex 2 of the F&B advisory, in line with restrictions to reduce the number of businesses allowed. 
+Please note that all operations at the shop front must be suspended. Online retail of these food products, if any, must be fulfilled from the licensed central kitchens, manufacturing facilities or warehouses of the F&B establishment (if applicable). The manufacturing facility must not be part of the list indicated in <a href="https://go.gov.sg/fnbtightenmeansure" target="_blank">Annex 2</a> of the F&B advisory, in line with restrictions to reduce the number of businesses allowed. 
 
 #### **14. My application for exemption was earlier approved but my business operations fall under the list of F&B activities that needs to be suspended. Am I still allowed to continue operations?**
 No, you must suspend your F&B operations as this notice supersedes the exemption approval that you received earlier.
