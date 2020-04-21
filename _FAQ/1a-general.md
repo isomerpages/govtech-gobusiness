@@ -102,7 +102,7 @@ Enforcement officers from various agencies including the Singapore Police Force,
 These officers can issue offenders (businesses or individuals) a Notice of Offence, which include the composition fine amount and details of the offence. Offenders will not be asked to pay their fines on the spot. These officers can also issue warning letters to individuals.
 
 #### **18. I am issued a fine and/or a suspension of operations. How do I make an appeal?**
-The decision of the Enforcement Officers is final. In particular, the Enforcement Officers' decision and any accompanying relevant authorities' stop orders shall superede the exemption from suspension of activities issued. You are reminded to pay the composition sum by the date indicated in the Notice of Offence and refrain from committing any further offences to comply with the law at all times.
+The decision of the Enforcement Officers is final. In particular, the Enforcement Officers' decision and any accompanying relevant authorities' stop orders shall supersede the exemption from suspension of activities issued. You are reminded to pay the composition sum by the date indicated in the Notice of Offence and refrain from committing any further offences to comply with the law at all times.
 
 #### **19. I am issued a fine. How do I make payment?**
 You can refer to the Notice of Offence issued to you for information on the payment mode. Enforcement officers will not collect fines on the spot, from individuals and businesses who have contravened these rules. The penalties for breaches will be issued to individuals or businesses in the form of composition letters, which will state the relevant follow up actions required.
