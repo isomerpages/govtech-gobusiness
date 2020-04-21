@@ -12,3 +12,5 @@ permalink: /essentialservices/informationandcommunications/
 5. Cybersecurity in support of other Essential Services and digital economy
 6. Platforms and services such as ride hailing, food delivery, groceries, and online payments
 7. Social media and messaging platforms
+8. News agencies (e.g. Singapore Press Holdings) 
+

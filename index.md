@@ -35,7 +35,7 @@ sections:
 #        - title: Time-Limited Exemption
 #          url: https://go.gov.sg/timelimitedexemption
 #          description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
-        - title: Submission of Essential Manpower
+        - title: Manpower Submission Form
           url: https://go.gov.sg/timelimitedexemption
           description: </br>Only for businesses performing essential services and those who have an approval for exemption</br></br></br>Click Here
     - infobar:
