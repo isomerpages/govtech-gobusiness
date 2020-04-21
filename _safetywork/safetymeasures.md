@@ -18,8 +18,8 @@ If a user is interviewed by a contact tracer for activity mapping, he can author
 To learn more about the app, visit <a target="_blank" href="https://go.gov.sg/tracetgt">here</a>.
 
 
-#### **2. Travel and Health Declaration System**
+#### **2. SafeEntry**
 
-![Travel and Health Declaration System](/images/travelhealthdeclare.png "Travel and Health Declaration System")
+![SafeEntry](/images/travelhealthdeclare.png "SafeEntry")
 
-Travel and Health Declaration System is a free-for-use Cloud-based visitor registration system. Visitors scan a QR code using their SingPass Mobile app, give consent to share their name and contact information with the building managers, and make the necessary declaration required. This online service will be regularly updated to reflect the latest advisory and guidelines. Using this system allows businesses to verify user identity with data from Government sources to facilitate their tracing work should the need arise. Businesses and building owners can find out more, please click <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">here</a>.
+SafeEntry is a free-for-use Cloud-based visitor registration system. Visitors scan a QR code using their SingPass Mobile app, give consent to share their name and contact information with the building managers, and make the necessary declaration required. This online service will be regularly updated to reflect the latest advisory and guidelines. Using this system allows businesses to verify user identity with data from Government sources to facilitate their tracing work should the need arise. Businesses and building owners can find out more, please click <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">here</a>.
