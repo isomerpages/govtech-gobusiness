@@ -64,3 +64,6 @@ Statutory medical check-ups are considered non-essential and should be deferred.
 If you are requesting to continue with physical/actual building works on the construction site, you are required to obtain an approval from BCA first at 1800-342-5222 or <a href="https://www.bca.gov.sg/feedbackform" target="_blank">www.bca.gov.sg/feedbackform</a> before you can proceed.
 
 However, if the work that you will be conducting at the construction site is non-construction related (eg. administrative work done at the office), you do not need to seek BCA’s approval before applying for the Time-Limited Exemption.
+
+#### **15. My company performs essential services and I need to move my workers out of their dormitories (i.e. purpose built dormitories, factory converted dormitories, construction temporary quarters and temporary occupation licence quarters). What can I do?**
+You may submit an appeal <a href="https://go.gov.sg/movementpolicyfw" target="_blank">here</a>.
