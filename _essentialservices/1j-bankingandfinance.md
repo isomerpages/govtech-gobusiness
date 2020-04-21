@@ -13,3 +13,5 @@ permalink: /essentialservices/bankingandfinance/
 6. Asset management services (e.g. portfolio management and trading, trade settlement and operations, trustee services, processing of subscriptions and redemptions in fund units, financial advisory)
 7. Payment services (e.g. fund transfers, credit card and debit card payments) 
 8. Remittance services (excluding money exchange services)
+
+There shall be no in person face-to-face in provision of insurance, brokerage, and asset management services to customers.  Services will remain available through online / phone / video-conferencing channels.
