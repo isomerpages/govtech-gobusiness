@@ -23,7 +23,7 @@ Please note that all operations at the shop front must be suspended. Online reta
 
 ## **<ins>F&B</ins>**
 
-#### **6. The list of establishments that must suspend operations include cakes, chocolate, cookies and confectionary. Can bakeries remain open?**
+#### **6. The list of establishments that must suspend operations include cakes, chocolate, cookies and confectionery. Can bakeries remain open?**
 Yes, bakeries that sell mainly bread are exempted from the suspension.
 
 #### **7. My shop sells cakes/puffs and also bread. Am I allowed to continue operations?**
