@@ -30,8 +30,6 @@ third_nav_title: Categories
 
 #### **3. Market Readiness Assistance (MRA) Grant**
 
-Small and medium enterprises (SMEs) will receive an international boost with the Market Readiness Assistance (MRA) grant to help take your business overseas.
-
 |Scheme Name|Description|Details|
 |:---|:---|:---|
 |Market Readiness Assistance (MRA) Grant|Small and medium enterprises (SMEs) will receive an international boost with the Market Readiness Assistance (MRA) grant to help take your business overseas.|<a target="_blank" href="https://go.gov.sg/mra">More Info</a>|
@@ -40,8 +38,6 @@ Small and medium enterprises (SMEs) will receive an international boost with the
 
 #### **4. Enterprise Leadership for Transformation (ELT)**
 
-The Enterprise Leadership for Transformation (ELT) is a one-year programme that supports business leaders of promising small and medium enterprises to develop business growth capabilities.
-
 |Scheme Name|Description|Details|
 |:---|:---|:---|
 |Enterprise Leadership for Transformation (ELT)|The Enterprise Leadership for Transformation (ELT) is a one-year programme that supports business leaders of promising small and medium enterprises to develop business growth capabilities.|<a target="_blank" href="https://go.gov.sg/elt">More Info</a>|
@@ -49,8 +45,6 @@ The Enterprise Leadership for Transformation (ELT) is a one-year programme that 
 
 
 #### **5. SkillsFuture Enterprise Credit (SFEC)**
-
-The SkillsFuture Enterprise Credit (SFEC) encourages employers to invest in enterprise transformation and capabilities of their employees. Eligible employers will receive a one-off S$10,000 credit to cover up to 90% of out-of-pocket expenses on qualifying costs for supportable initiatives, over and above the support levels of existing schemes.
 
 |Scheme Name|Description|Details|
 |:---|:---|:---|
