@@ -7,6 +7,7 @@ permalink: /govtassist/budget2020/
 
 #### **1. Jobs Support Scheme**
 
+<p style="color:red">Jobs Support Scheme wage subsidy remains at 75% for all sectors for May 2020 [New]</p>
 ![Jobs Support Scheme](/images/jssinfo_updated.png "Jobs Support Scheme")
 
 To find out more, please see below:
@@ -64,5 +65,5 @@ To find out more, please see below:
 
 |Scheme Name|Description|Details|
 |:---|:---|:---|
-|Foreign Worker Levy Waiver|Waiver of Mar 2020 levy (due for payment in Apr 2020) for all business employees|<a target="_blank" href="https://go.gov.sg/fwlwaiver">Link</a>|
-|Foreign Worker Levy Rebate|Flat rate of $750 for each S Pass and WP holder in employment as at 29 Feb 2020|<a target="_blank" href="https://go.gov.sg/fwlwaiver">Link</a>|
+|Foreign Worker Levy (FWL) Waiver|Waiver of monthly FWL due in Apr and May 2020|<a target="_blank" href="https://go.gov.sg/fwlwaiver">Link</a>|
+|Foreign Worker Levy (FWL) Rebate|FWL Rebate of $750 in Apr and May 2020, for levies paid this year, for each Work Permit of S Pass Holder|<a target="_blank" href="https://go.gov.sg/fwlwaiver">Link</a>|
