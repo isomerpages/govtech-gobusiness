@@ -10,6 +10,7 @@ permalink: /govtassist/budget2020/
 ![Jobs Support Scheme](/images/jssinfo_updated.png "Jobs Support Scheme")
 
 **<ins>*[New] Jobs Support Scheme wage subsidy remains at 75% for all sectors for May 2020</ins>**
+
 To find out more, please see below:
 - For application, please click <a target="_blank" href="https://go.gov.sg/jssapplication">here</a>.
 - Check for eligibility, please click <a target="_blank" href="https://go.gov.sg/jsseligibility">here</a>.
@@ -31,6 +32,7 @@ To find out more, please see below:
 To find out more, please see below:
 - For more information, please click <a target="_blank" href="https://go.gov.sg/deferinfo">here</a>.
 - To check corporate tax payment deferement, please click <a target="_blank" href="https://go.gov.sg/defercal">here</a>.
+- For enquiry, please click <a target="_blank" href="https://go.gov.sg/irasenquiry">here</a>.
 
 
 #### **4. Enhanced Property Tax Rebate for 2020**
