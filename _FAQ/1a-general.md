@@ -6,7 +6,7 @@ permalink: /faq/general
 #### **1. How do I know if my business is an ‘Essential’ or ‘Non-Essential’ Service?**
 You may refer to the list of Essential Services.
 
-You may also call the Enterprise Infoline at 6898-1800 from 8.30am-12am (on 21 Apr), 8:30am-8:30pm (on 22 Apr) and 8.30am-5.30pm (23 Apr onwards).
+You may also call the Enterprise Infoline at 6898-1800 from 8:30am-8:30pm (on 22 Apr) and 8.30am-5.30pm (23 Apr onwards).
 
 #### **2. Should I apply for ‘General’ or ‘Time-Limited’ exemption?**
 For Companies providing **<ins>Essential Services</ins>**, you will need to declare, please click on GENERAL EXEMPTION 
@@ -37,7 +37,7 @@ If you are still unable to view your application status after 3 days, please wri
 You will need to submit one application for each registered business. One application per UEN number. 
 
 #### **8. I am self employed and have no CorpPass so I can’t submit my application online. What should I do?**
-You can call the Enterprise Infoline at 6898-1800 to request for a form to be emailed to you. Please submit the completed form to <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>.
+You can call the Enterprise Infoline at 6898-1800.
 
 #### **9. I am having problems logging into CorpPass. Who can I approach for help?**
 You can contact the Corp Pass Helpdesk at 6643-0577 or email <a href = "mailto: support@corppass.gov.sg">support@corppass.gov.sg</a>.
