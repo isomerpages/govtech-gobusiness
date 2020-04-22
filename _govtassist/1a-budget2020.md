@@ -67,5 +67,5 @@ To find out more, please see below:
 
 |Scheme Name|Description|Details|
 |:---|:---|:---|
-|Foreign Worker Levy (FWL) Waiver|Waiver of monthly FWL due in Apr and May 2020|<a target="_blank" href="https://go.gov.sg/fwlwaiver">Link</a>|
-|Foreign Worker Levy (FWL) Rebate|FWL Rebate of $750 in Apr and May 2020, for levies paid this year, for each Work Permit of S Pass Holder|<a target="_blank" href="https://go.gov.sg/fwlwaiver">Link</a>|
+|Foreign Worker Levy (FWL) Waiver|**<ins>*[New]</ins>** Waiver of monthly FWL due in Apr and May 2020|<a target="_blank" href="https://go.gov.sg/fwlwaiver">Link</a>|
+|Foreign Worker Levy (FWL) Rebate|**<ins>*[New]</ins>** FWL Rebate of $750 in Apr and May 2020, for levies paid this year, for each Work Permit of S Pass Holder|<a target="_blank" href="https://go.gov.sg/fwlwaiver">Link</a>|
