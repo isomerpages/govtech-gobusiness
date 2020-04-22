@@ -27,7 +27,7 @@ Yes, bakeries that sell mainly bread are exempted from the suspension.
 No. On-site operations of specialised stores and outlets retailing predominantly beverages, packaged snacks and desserts (including cakes, donuts, sweet pastries, chocolate, cookies and cut fruits) cannot continue operations. If your shop sells predominantly cakes/puffs, you cannot continue operations even if you sell some bread items.
 
 #### **7. I own a bakery that sells mainly assorted bread. However, based on the new measures, am I allowed to also continue selling cakes and other products?**
-Yes. You are allowed to sell the full range of products, provided the majority of the items are bread.
+No. You are allowed to continue operating for the purposes of manufacturing and selling of bread. You may sell your remaining inventory of cakes/kuehs. However, manufacturing of new cakes or confectionery is not allowed.
 
 #### **8. My store sells a mixture of hot and pre-packaged food. Can I continue to sell the hot food at the store?**
 You are allowed to open only if your food products are predominantly those that require hot food preparation at the store e.g. cooking, boiling, frying etc. If so, you can open in its entirety.
