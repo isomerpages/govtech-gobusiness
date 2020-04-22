@@ -7,9 +7,9 @@ permalink: /govtassist/budget2020/
 
 #### **1. Jobs Support Scheme**
 
-<p style="color:red">Jobs Support Scheme wage subsidy remains at 75% for all sectors for May 2020 [New]</p>
 ![Jobs Support Scheme](/images/jssinfo_updated.png "Jobs Support Scheme")
 
+**<ins>*[New] Jobs Support Scheme wage subsidy remains at 75% for all sectors for May 2020</ins>**
 To find out more, please see below:
 - For application, please click <a target="_blank" href="https://go.gov.sg/jssapplication">here</a>.
 - Check for eligibility, please click <a target="_blank" href="https://go.gov.sg/jsseligibility">here</a>.
