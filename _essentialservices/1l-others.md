@@ -32,7 +32,7 @@ permalink: /essentialservices/others/
 
 10. Pet supplies stores (only online retail allowed, physical shopfront to be closed)
 
-11. Retail laundry services (only online and delivery services allowed, physical shopfront to be closed)
+11. Retail laundry services (only online and delivery services allowed, physical shopfront to be closed) 
 
 12. Private buses
 
