@@ -60,7 +60,7 @@ With effect from 21 April 2020, 2359hrs, all hairdressing and barber services mu
 Optical shops may continue to operate, but strictly by appointment only. Shops must remain closed to walk-in customers, and no incidental retail of products and accessories are allowed. Optical shop operators could take appointments through its online website, social media channels, and/or phone calls. A proper register of the appointments should be kept and appointments should be scheduled such that the number of customers in-store at any point of time is kept to a minimum and in compliance with the safe distancing guidelines.
 
 #### **17. Can laundry services continue to operate?**
-With effect from 21 April 2020, 2359hrs, laundry services with physical stores and manned receptions must be suspended, including those that have previously received approval. Only automated/unmanned laundry services are allowed to remain open.
+With effect from 21 April 2020, 2359hrs, laundry services with physical stores and manned receptions must be suspended, including those that have previously received approval. Only automated laundry services are allowed to remain open.
 
 #### **18. Can I continue with activities like photoshoot and livestreaming for the purpose of online retail in my retail store / warehouse?**
 Yes. Activities that support online retail such as photoshoots and livestreaming may continue at retail stores/warehouse, as long as you have received a general exemption approval. However, these activities must be conducted expeditiously and retail stores must remain closed to walk-ins at all times. Retailers must also observe safe distancing measures at all times.

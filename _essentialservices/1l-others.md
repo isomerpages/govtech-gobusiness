@@ -24,22 +24,20 @@ permalink: /essentialservices/others/
 
 7. Repair of consumer electronics, IT peripherals, and household appliances
 
-8. Laundry services
-
-9. Veterinary services
+8. Veterinary services
 : a. For provision of emergency, non-elective veterinary services, including hospitalization.
 
-10. Selected face-to-face Continuing Education & Training (CET) 
+9. Selected face-to-face Continuing Education & Training (CET) 
 : a. For training of essential roles supporting the national COVID-19 efforts
 
-11. Pet supplies stores (only online retail allowed, physical shopfront to be closed)
+10. Pet supplies stores (only online retail allowed, physical shopfront to be closed)
 
-12. Retail laundry services (only online and delivery services allowed, physical shopfront to be closed) and unmanned laundry services
+11. Retail laundry services (only online and delivery services allowed, physical shopfront to be closed) and unmanned laundry services
 
-13. Private buses
+12. Private buses
 
-14. Testing, inspection and certification centres
+13. Testing, inspection and certification centres
 
-15. Unions
+14. Unions
 
-16. All other critical and ancillary services contracted by the Government for the provision of supporting Government functions or for the above-mentioned Essential Services.
+15. All other critical and ancillary services contracted by the Government for the provision of supporting Government functions or for the above-mentioned Essential Services.
