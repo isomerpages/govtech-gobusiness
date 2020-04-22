@@ -10,6 +10,12 @@ permalink: /govtassist/budget2020/
 ![Jobs Support Scheme](/images/jssinfo_updated.png "Jobs Support Scheme")
 
 **<ins>*[New] Jobs Support Scheme wage subsidy remains at 75% for all sectors for May 2020</ins>**
+|Scheme Name|Description|Details|
+|:---|:---|:---|
+|Jobs Support Scheme|View the infographic above.|<a target="_blank" href="https://go.gov.sg/jssapplication">More Info</a></br><a target="_blank" href="https://go.gov.sg/jsseligibility">Eligibility</a></br><a target="_blank" href="https://go.gov.sg/irasenquiry">Enquiry</a>|
+
+
+
 
 To find out more, please see below:
 - For more information, please click <a target="_blank" href="https://go.gov.sg/jssapplication">here</a>.
@@ -67,5 +73,5 @@ To find out more, please see below:
 
 |Scheme Name|Description|Details|
 |:---|:---|:---|
-|Foreign Worker Levy (FWL) Waiver|**<ins>*[New]</ins>** Waiver of monthly FWL due in Apr and May 2020|<a target="_blank" href="https://go.gov.sg/fwlwaiver">Link</a>|
-|Foreign Worker Levy (FWL) Rebate|**<ins>*[New]</ins>** FWL Rebate of $750 in Apr and May 2020, for levies paid this year, for each Work Permit of S Pass Holder|<a target="_blank" href="https://go.gov.sg/fwlwaiver">Link</a>|
+|Foreign Worker Levy (FWL) Waiver|**<ins>*[New]</ins>** Waiver of monthly FWL due in Apr and May 2020|<a target="_blank" href="https://go.gov.sg/fwlwaiver">More Info</a>|
+|Foreign Worker Levy (FWL) Rebate|**<ins>*[New]</ins>** FWL Rebate of $750 in Apr and May 2020, for levies paid this year, for each Work Permit of S Pass Holder|<a target="_blank" href="https://go.gov.sg/fwlwaiver">More Info</a>|
