@@ -13,7 +13,7 @@ permalink: /govtassist/budget2020/
 
 |Scheme Name|Description|Details|
 |:---|:---|:---|
-|Jobs Support Scheme|View the infographic above.|<a target="_blank" href="https://go.gov.sg/jssapplication">More Info</a></br><a target="_blank" href="https://go.gov.sg/jsseligibility">Eligibility</a></br><a target="_blank" href="https://go.gov.sg/irasenquiry">Enquiry</a>|
+|Jobs Support Scheme|View the infographic above.|<a target="_blank" href="https://go.gov.sg/jssapplication">More Info</a>   <a target="_blank" href="https://go.gov.sg/jsseligibility">Eligibility</a>   <a target="_blank" href="https://go.gov.sg/irasenquiry">Enquiry</a>|
 
 
 
