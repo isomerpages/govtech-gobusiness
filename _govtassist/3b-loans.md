@@ -10,21 +10,26 @@ third_nav_title: Categories
 
 ![Enterprise Financing Scheme](/images/efs_updated.png "Enterprise Financing Scheme")
 
-To find out more, please see below:
-- For more details, please click <a target="_blank" href="https://go.gov.sg/efs">here</a>.
+|Scheme Name|Description|Details|
+|:---|:---|:---|
+|Enterprise Financing Scheme (EFS)|View the infographic above.|<a target="_blank" href="https://go.gov.sg/efs">More Info</a>|
+
 
 
 #### **2. Loan Insurance Scheme**
 
 ![Loan Insurance Scheme](/images/lis_updated.png "Loan Insurance Scheme")
 
-To find out more, please see below:
-- For more details, please click <a target="_blank" href="https://go.gov.sg/lis">here</a>.
+|Scheme Name|Description|Details|
+|:---|:---|:---|
+|Loan Insurance Scheme|View the infographic above.|<a target="_blank" href="https://go.gov.sg/lis">More Info</a>|
+
 
 
 #### **3. Temporary Bridging Loan Programme**
 
 ![Temporary Bridging Loan Programme](/images/tblp_updated.png "Temporary Bridging Loan Programme")
 
-To find out more, please see below:
-- For more details, please click <a target="_blank" href="https://go.gov.sg/tblp">here</a>.
+|Scheme Name|Description|Details|
+|:---|:---|:---|
+|Temporary Bridging Loan Programme|View the infographic above.|<a target="_blank" href="https://go.gov.sg/tblp">More Info</a>|
