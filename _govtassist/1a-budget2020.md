@@ -9,7 +9,7 @@ permalink: /govtassist/budget2020/
 
 ![Jobs Support Scheme](/images/jssinfo_updated.png "Jobs Support Scheme")
 
-**<ins><p style="color:red">*[New]</p> Jobs Support Scheme wage subsidy remains at 75% for all sectors for May 2020</ins>**
+**<ins>*[New] Jobs Support Scheme wage subsidy remains at 75% for all sectors for May 2020</ins>**
 
 |Scheme Name|Description|Details|
 |:---|:---|:---|
