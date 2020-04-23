@@ -55,7 +55,7 @@ If you are requesting to continue with physical/actual building works on the con
 However, if the work that you will be conducting at the construction site is non-construction related (eg. administrative work done at the office), you do not need to seek BCA’s approval before applying for the Time-Limited Exemption. 
 
 
-## **<ins>Further Restriction of Movement of Workers Living in Dormitories</ins>**
+### **<ins>Further Restriction of Movement of Workers Living in Dormitories</ins>**
 
 #### **1. I had obtained an exemption from suspension of business activities to continue operations during the circuit breaker period from the Ministry of Trade and Industry. Would my workers be allowed to leave the dormitories to go to work?**
 No. In view of the COVID-19 transmission risks in dormitories, the restriction on the movement of workers in and out of dormitories applies to workers from all companies who are housed within Purpose Built Dormitories (PBDs), Factory Converted Dormitories (FCDs), Construction Temporary Quarters (CTQs) and Temporary Occupation Licence (TOL) quarters, regardless of whether they are permitted to work during the circuit breaker.
