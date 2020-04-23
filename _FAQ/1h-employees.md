@@ -22,18 +22,10 @@ If it is assessed that the foreigner workers are still not needed, employers may
 
 If foreign workers would like to head home, companies will have to cancel the work passes, repatriate the workers and bear the repatriation cost.
 
-#### **6. Can my employees leave their dormitories during the period of suspension of activities?**
-Yes, provided they are not sick and not under Leave of Absence (LOA)/Stay Home Notice (SHN) or Quarantine Orders (QO). 
-
-However, they should only do so for essential activities, such as to get food, health care or commute to their job in an essential service. They should also observe safe distancing measures when they are out. 
-
-#### **7. Can foreign employees be redeployed to work on areas that are not within their current approved vocations? If so, what are the procedures that companies need to follow?**
-Employers can write in to the Ministry of Manpower with reasons for the redeployment and seek permission to do so.
-
 #### **8. Is company-based training for essential firms allowed?**
-If the company is carrying out essential services and needs to conduct selected face-to-face Continuing Education and Training (CET) for job placement needs or for severely affected economic sectors, the training will be allowed to operate until informed otherwise. The company should submit details of their plans to operate as soon as possible. 
+Company-based training is only allowed for essential roles to support our national COVID-19 efforts. Companies are reminded to comply with all existing Safe Distancing measures during training.
 
-For non-essential firms, training should be conducted online or in e-learning format. 
+For non-essential firms, training should be conducted online or in e-learning format only.
 
 #### **9. I have been told to ramp up production during this time period but cannot find additional manpower, how do I source for workers during this time?**
 MOM has partnered with the Singapore Business Federation to offer a temporary scheme that allows companies in all sectors to hire existing WPHs (who are in Singapore) from other sectors, with the agreement of their current employers. 
