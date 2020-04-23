@@ -69,7 +69,7 @@ The new restriction of movement will be in place until 4 May 2020 inclusive and 
 #### **4. What are the penalties for non-compliance during this further restriction period?**
 Employers and foreign employees have a joint duty to stay updated and comply with the latest advisories by MOM and MOH in measures required on safe distancing.  These are communicated through various advisories. MTI and MOM will not hesitate to withhold economic support and suspend work pass privileges of errant employers or employees.
 
-#### **5. Are my foreign employees eligible for any form support during this period of further restriction?**
+#### **5. Are my foreign employees eligible for any form of support during this period of further restriction?**
 The Government announced on 6 April 2020 that employers would be given a waiver of the March 2020 Foreign Worker Levy (FWL) due in April to help firms cut costs and improve their cashflow. Employers will also receive a one-off FWL rebate of $750 for each Work Permit or S Pass holder, for levies paid in 2020.
 
 The Government will extend the FWL wavier and FWL rebate by one month till 1 June 2020 in light of the extended circuit breaker period, to ease labour costs of firms that employ foreign workers in this period.
