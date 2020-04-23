@@ -9,7 +9,7 @@ contacts:
     content:
 #    - phone: Test
     - phone: +65 6898 1800
-    - other: From 8:30am-8:30pm (on 22 Apr) and 8.30am-5.30pm (23 Apr onwards) 
+    - other: Daily from 8.30am-5.30pm
 #    - email: Test
     - email: safedistancing@enterprisesg.gov.sg
 #    - other: Test 
