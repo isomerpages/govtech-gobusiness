@@ -38,11 +38,8 @@ To provide greater support for businesses, stallholders at hawker centres and ma
 #### **9. Should my company continue with medical insurance coverage for foreign employees, given that they are unable to work during the suspension of activities?**
 Yes, employers who fail to meet the medical insurance requirement for their foreign workers (WP, S Pass holders and FDW) may be fined up to $10,000 or jailed up to 12 months, or both. In addition, they may be barred from employing foreign workers. The medical insurance requirement is not applicable to EP holders.
 
-#### **10. Can my employees leave their dormitories during the period of suspension of activities?**
-Yes, provided they are not sick and not under Leave of Absence (LOA)/Stay Home Notice (SHN) or Quarantine Orders (QO). However, they should only do so for essential activities, such as to get food, health care or commute to their job in an essential service. They should also observe safe distancing measures when they are out.
+#### **10. Can foreign employees be redeployed to work on areas that are not within their current approved vocations? If so, what are the procedures that companies need to follow?**
+Employers can write in to MOM with reasons for the redeployment and seek permission to do so.
 
-#### **11. Can foreign employees be redeployed to work on areas that are not within their current approved vocations? If so, what are the procedures that companies need to follow?**
-Employers can write in to MOM with reasons for the redeployment and seek for permission to do so.
-
-#### **12. If a company is not on the list of essential services, can it continue to operate from home? Must it also stop operations? E.g. trading firms, software development whose clients are overseas.**
+#### **11. If a company is not on the list of essential services, can it continue to operate from home? Must it also stop operations? E.g. trading firms, software development whose clients are overseas.**
 Businesses that are not exempted can continue their operations as long as it does not require physical activity or staff movement in Singapore. These activities must take place through telecommuting.
