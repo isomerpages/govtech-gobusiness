@@ -54,34 +54,29 @@ You may change and resubmit the details of your essential manpower  up to 3 time
 
 Kindly resubmit the NRIC/FIN numbers of **<ins>all</ins>** your essential manpower  who are working on-site for each resubmission. The list of essential manpower working on site  will be based on the latest submission.
 
-#### **12. What are the penalties for non-compliant companies that deploy manpower to work on-site without first submitting the details of their essential  manpower?**
-The Government takes a serious view of any infringement and will not hesitate to take actions against non-compliant businesses.
-
-Under the Covid-19 (Temporary Measures) Act passed in Parliament on 07 April 2020, first-time offenders will face a fine of up to S$10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.
-
-#### **13. I need more essential manpower on site to ensure the continuation of my business activities. What should I do?**
+#### **12. I need more essential manpower on site to ensure the continuation of my business activities. What should I do?**
 The cap on the number of essential manpower that you are allowed to have on-site is necessary to minimise the movement of workers to and from work.  We are acutely aware that this will be disruptive for businesses, but it is also essential in the fight against COVID-19. Each and every one of us can, and must, play our part in protecting our people from infection. If you would, nevertheless, like to request for a review of your cap, please click on <a href="https://go.gov.sg/additionalmanpower" target="_blank">Submission of Additional Manpower</a>.
 
-#### **14. My appeal for additional manpower had already been rejected, but I really need more employees/workers on-site. Can I appeal again?**
+#### **13. My appeal for additional manpower had already been rejected, but I really need more employees/workers on-site. Can I appeal again?**
 Further appeals will not be considered.
 
-#### **15. Can my company register more essential manpower than the permitted headcount on-site given that we operate on a split team basis?**
+#### **14. Can my company register more essential manpower than the permitted headcount on-site given that we operate on a split team basis?**
 Please click on <a href="https://go.gov.sg/additionalmanpower" target="_blank">Submission of Additional Manpower</a> to request for a review.
 
-#### **16. I am a sole proprietor and have no employees. I had previously received the approval of my exemption request. Must I submit my personal details via the “Manpower Submission” form?**
+#### **15. I am a sole proprietor and have no employees. I had previously received the approval of my exemption request. Must I submit my personal details via the “Manpower Submission” form?**
 Yes. You will still need to submit your details via the form when you receive the notification email to do so.
 
-#### **17. I run an Employment Agency. Would it be my responsibility to register my employees’ details or should companies that hire these contract workers be responsible?**
+#### **16. I run an Employment Agency. Would it be my responsibility to register my employees’ details or should companies that hire these contract workers be responsible?**
 Employment agencies should register the details of all workers under their direct employment regardless of where they are deployed.
 
-#### **18. I have received the email notification to submit the details of my essential manpower. However, my “Manpower Submission” form states that my allotted headcount is “0” or “N/A”. What should I do?**
+#### **17. I have received the email notification to submit the details of my essential manpower. However, my “Manpower Submission” form states that my allotted headcount is “0” or “N/A”. What should I do?**
 If your allotted headcount is reflected as “0” or “N/A”, it means that the system is still being updated. Please check back in 1 or 2 days to view your allotted headcount. 
 You may continue operations with your current headcount in the meantime. 
 
-#### **19. I had previously submitted the details of my essential manpower. Do I need to re-submit it daily?**
+#### **18. I had previously submitted the details of my essential manpower. Do I need to re-submit it daily?**
 No, you do not need to. You will only need to re-submit the details of your essential manpower if there are changes.
 
-#### **20. My workers are on shift work. Do I need to submit one application for each shift?**
+#### **19. My workers are on shift work. Do I need to submit one application for each shift?**
 There is no need to submit individual applications for each shift. Please submit one application per UEN via the “Application for Additional Manpower” form, detailing the total number of workers performing shift work and the number of shifts most workers are on.
 
 We will review your application and reflect the revised allotted headcount on the “Manpower Submission” form as soon as possible. You may continue operations with your current allotted headcount in the meantime.
