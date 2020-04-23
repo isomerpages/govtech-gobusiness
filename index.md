@@ -11,7 +11,7 @@ sections:
 #        title: Exemption from Suspension of Activities
         title: Supporting Our Businesses
 #        subtitle: 
-        subtitle: Overcoming Challenges, Emerging Stronger 
+        subtitle: Overcoming Challenges, Emerging Stronger
         background: /images/hero-banner.jpg
 #        dropdown:
 #          title: For your attention,
