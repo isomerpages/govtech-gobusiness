@@ -6,25 +6,44 @@ permalink: /growsj/business-grants-portal/
 
 ### Business Grants Portal
 
-Business Grants Portal brings government grants for businesses into one place, so it's easier to find and apply for the grants you need. The Portal is brought to you by Ministry Of Finance, Ministry Of Trade And Industry and Government Technology Agency.
+The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.
 
-#### What's available now
+#### How to apply for a grant on BGP?
 
-You can apply for Enterprise Singapore's Market Readiness Assistance and Enterprise Development Grant, Singapore Tourism Board's Business Improvement Fund and the Productivity Solutions Grant on Business Grants Portal.
+**STAGE 1: BEFORE APPLICATION**
 
-#### What you can do here
+1.	Discover the most suitable grant for you
+<br> Use <a href="https://ea-staging.l1t.molb.gov.sg/#/" target="_blank">e-adviser for government assistance</a> to determine the grant that is most suitable for 
+your business needs.</br> 
 
-1. Find the right grant
-- Answer a few simple questions to get to the right grant.
+2.	Register with CorpPass
+<br>Register an account with CorpPass in order to log into BGP. Approach your CorpPass Admin to assign an appropriate BGP role to you.</br> 
 
-2. Apply for grants
-- Complete your application forms online and we'll direct your applications to the right agencies.
+**STAGE 2: DURING APPLICATION**
 
-3. Manage all your grants
-- All your applications are visible here, from status updates to the agency processing them.
+3.	Fill in Company Profile
+Fill in your company profile. Please take note that your ACRA profile will be populated automatically. 
 
-4. View and accept grant offers
-- Receive and accept your Letter Of Offer when your grant is approved.
+4.	Fill in your application
+<br>Once submitted, your application will be sent to the relevant agency for processing. The agency’s contact details will be shown on the “Grant Actions” page.</br>
 
-5. Retrieve your ACRA profile
-- Your company profile will be automatically populated with information already provided to ACRA.
+**STAGE 3: OUTCOME OF THE APPLICATION**
+
+5.	Monitoring your application
+<br>Monitor your application on the “My Grants” page. An email will be sent to you if the agency requires clarification.</br>
+
+6.	Accept your Letter of Offer
+<br>You will be notified of your application results via email. Log into BGP to accept your Letter of Offer.</br>
+
+### Grants available on BGP
+
+You can apply for:
+
+- Market Readiness Assistance 
+- Enterprise Development Grant
+- Business Improvement Fund
+- Aviation Development Fund 
+- Productivity Solutions Grant
+
+#### When ready, login to <a href="https://www.businessgrants.gov.sg/" target="_blank">Business Grants Portal</a> and apply now.
+
