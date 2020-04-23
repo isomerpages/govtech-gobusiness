@@ -12,7 +12,7 @@ It is not mandatory for your company to use “SafeEntry” to log your workers'
 If your company has an existing check-in system in place, you can continue to use it.
 
 #### **3. How do I know if my business is an ‘Essential’ or ‘Non-Essential’ Service?**
-You may refer to the list of Essential Services.
+You may refer to the list of Essential Services. 
 
 You may also call the Enterprise Infoline at 6898-1800 daily from 8.30am-5.30pm.
 
