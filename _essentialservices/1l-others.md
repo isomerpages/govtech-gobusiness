@@ -11,7 +11,7 @@ permalink: /essentialservices/others/
 
 2. Online retail and related supply chains
 
-3. Optician services and sale of optical products by appointment only
+3. Optical services and sale of optical products by appointment only
 
 4. Plumbers, electricians, & locksmiths
 : a. For emergency household services only.
