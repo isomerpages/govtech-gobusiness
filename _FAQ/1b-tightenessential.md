@@ -30,8 +30,6 @@ If your company sells predominantly soy bean milk and snacks, you will need to s
 #### **9. Why are beverages, snacks and desserts in hawker centres, coffee shops and food courts still allowed to open?**
 In general, coffee shops, hawker centres and food courts are exempted from suspension in their entirety as we recognise that these establishments provide affordable food options for the public and we view all individual stalls as forming the overall offerings of these establishments. However, we advise the public not to rush to queue at bubble tea, desert and beverage stalls, and to observe safe distancing measures when making such purchases. The government will continue to monitor the situation and review when necessary.
 
-We will continue to monitor the situation and review where necessary.
-
 #### **10. My cake shop is located in the premise of an essential service provider (e.g. Hospital). Am I allowed to continue operations?**
 No. If your shop retails predominantly desserts such as cakes, you will not be allowed to continue operations.
 

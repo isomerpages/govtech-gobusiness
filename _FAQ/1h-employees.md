@@ -23,7 +23,7 @@ If it is assessed that the foreigner workers are still not needed, employers may
 If foreign workers would like to head home, companies will have to cancel the work passes, repatriate the workers and bear the repatriation cost.
 
 #### **8. Is company-based training for essential firms allowed?**
-Company-based training is only allowed for essential roles to support our national COVID-19 efforts. Companies are reminded to comply all existing Safe Distancing measures during training.
+Company-based training is only allowed for essential roles to support our national COVID-19 efforts. Companies are reminded to comply with all existing Safe Distancing measures during training.
 
 For non-essential firms, training should be conducted online or in e-learning format only.
 

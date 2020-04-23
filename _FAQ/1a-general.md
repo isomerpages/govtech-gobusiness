@@ -7,7 +7,7 @@ permalink: /faq/general
 Yes. With the extension of the circuit breaker period until 1 June 2020 (inclusive), businesses which had earlier received approvals from MTI to operate during the original Circuit Breaker period from 7 April 2020 to 4 May 2020 can continue doing so throughout the circuit breaker period.
 
 #### **2. My company has already adopted its own in-house system to facilitate contact tracing. Is it still mandatory for my company to use the “SafeEntry” app?**
-It is not mandatory for your company to use “SafeEntry” to log your workers into and exit from workplaces.
+It is not mandatory for your company to use “SafeEntry” to log your workers' entry in/exit out of workplaces.
 
 If your company has an existing check-in system in place, you can continue to use it.
 
