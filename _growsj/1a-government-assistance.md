@@ -5,14 +5,14 @@ permalink: /growsj/eadviser
 
 [![Government Assistance](/images/programmes/products-and-services/GABanner.jpg)](https://govtech-gb-staging.netlify.com/services/government-assistance/business-grants-portal)
 
-<center>The Singapore Government offers a range of assistances to help businesses grow and succeed.
+The Singapore Government offers a range of assistances to help businesses grow and succeed.
 There are over 100 assistances available, from funding support to references and programs for building skills and knowledge.
   
 The e-adviser is a free online tool to help businesses in selecting the right assistance schemes based on their business needs. Access the e-adviser here to receive a set of recommended assistance.
 
-<a href="https://ea-staging.l1t.molb.gov.sg/#/" target="_blank"><h3>Get recommendation from e-adviser</h3></a></center>
+<a href="https://ea-staging.l1t.molb.gov.sg/#/" target="_blank"><strong>Get recommendation from e-adviser</strong></a>
 
-### Search by support type
+#### Search by support type
 
 Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.
 
@@ -24,7 +24,7 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 |[Find out more](https://govtech-gb-staging.netlify.com/growsj/tax-incentives/approved-contract-manufacturer-and-trade-scheme/)|[Find out more](https://govtech-gb-staging.netlify.com/growsj/loans/enterprise-financing-scheme/)|[Find out more](https://govtech-gb-staging.netlify.com/growsj/business-grants-portal/)|[Find out more](https://govtech-gb-staging.netlify.com/growsj/productivity-solutions-grant/)|
 
 
-### Related content
+#### Related content
 
 |Business Grants Portal| Productivity Solutions Grant|
 |:--- |:--- |
