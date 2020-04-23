@@ -77,7 +77,7 @@ The Government will extend the FWL wavier and FWL rebate by one month till 1 Jun
 #### **6. Do I need to pay my foreign employees their salary during this period of further restriction?**
 Employers must continue to be responsible for their maintenance and upkeep and work out mutually agreed salary and leave arrangements with the unions and employees, especially for the low-wage work permit holders who may need more support. For this period, employers are encouraged to allow their employees to take paid sick leave or hospitalisation leave, grant additional paid leave or mutually agree on other arrangements with their employees.
 
-Employers must treat their foreign employees fairly and responsibly, taking into consideration the levy waiver for the March 2020 FWL, as well the FWL rebate of $750 for each Work Permit or S Pass holder for levies paid in 2020, that has been provided by the Government.
+Employers must treat their foreign employees fairly and responsibly, taking into consideration the levy waiver for the March 2020 FWL, as well as the FWL rebate of $750 for each Work Permit or S Pass holder for levies paid in 2020, that has been provided by the Government.
 
 #### **7. The Advisory states that employers should arrange to deliver food and daily essentials to their foreign employees. Are there other options besides catered food delivery? Must employers bear the full cost of the food/groceries/daily essentials?**
 Employers should work with dormitory operators to arrange for catered meals to be delivered to the foreign employees if there are no existing catering arrangements.
