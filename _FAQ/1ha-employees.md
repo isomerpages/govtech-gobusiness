@@ -1,6 +1,6 @@
 ---
 title: Employees/ Manpower Queries
-permalink: /faq/employees
+permalink: /faq/employees/employees
 third_nav_title: For Employees/ Manpower Queries
 ---
 
