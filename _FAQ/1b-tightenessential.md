@@ -16,7 +16,7 @@ If your business does not fall under the latest list of essential services, you 
 ## **<ins>F&B</ins>**
 
 #### **1. I own a bakery that sells mainly assorted bread. However, based on the new measures, am I allowed to also continue selling cakes and other products?**
-No. You are allowed to continue operating for the purposes of manufacturing and selling of bread. You may sell your remaining inventory of cakes/kuehs. However, manufacturing of new cakes or confectionery is not allowed.
+Bakeries that sell a mix of breads and cakes can continue to operate. However, given that the manufacturing of cakes and confectionery has to stop, bakeries that get their cakes and confectioneries from cake and confectionery manufacturers, will not be able to do so after their existing stocks are cleared.
 
 #### **2. My store sells predominantly hot meals (eg. sandwiches) but I also sell desserts. Can I continue to operate?**
 If your shop sells multiple items, we will take into consideration what you predominantly sell. For example, if you predominantly sell hot meals and some selection of desserts, you can continue sales of all the food items that are not within the manufacturing suspended scope.
