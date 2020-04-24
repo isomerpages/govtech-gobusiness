@@ -53,7 +53,7 @@ Please see below the list of food charities that businesses can reach out to:
 
 |Name|Contact Details|Remarks|
 |:---|:---|:---|
-|FoodBank|Name: Nicholas Ng</br>Email: nicholas@foodbank.sg|Able to receive all food items.</br>3 days lead time preferred.|
+|FoodBank|Name: Nicholas Ng<br>Email: nicholas@foodbank.sg|Able to receive all food items.<br>3 days lead time preferred.|
 
 
 ## **<ins>Retail</ins>**
