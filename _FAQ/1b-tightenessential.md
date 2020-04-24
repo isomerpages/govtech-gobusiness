@@ -48,6 +48,13 @@ No, you must suspend your F&B operations as this notice supersedes the exemption
 #### **11. Why is it that F&B establishments at parks cannot even operate for takeaway/delivery?**
 This is to minimise movement and interaction amongst the public.  As F&B services in parks are considered less critical consumer services, they will be suspended.
 
+#### **12. I have been informed to suspend my business operations, and would like to donate some food supplies, especially perishables. Are there any charities that I can approach?**
+Please see below the list of food charities that businesses can reach out to:
+
+|Name|Contact Details|Remarks|
+|:---|:---|:---|
+|FoodBank|Name: Nicholas Ng</br>Email: nicholas@foodbank.sg|Able to receive all food items.</br>3 days lead time preferred.|
+
 
 ## **<ins>Retail</ins>**
 
