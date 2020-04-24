@@ -52,7 +52,7 @@ This is to minimise movement and interaction amongst the public.  As F&B service
 Please see below the list of food charities that businesses can reach out to:
 
 |Name|Contact Details|Remarks|
-|:---|:---|:---|
+|:--|:----|:----|
 |FoodBank|Name: Nicholas Ng<br>Email: nicholas@foodbank.sg|Able to receive all food items.<br><br>3 days lead time preferred.|
 |Food From The Heart|Name: Sim Bee Hia<br>Email: simbh@foodheart.org|For food items with a shorter expiry date, such as fresh produce and/or frozen food such as ice cream, will need sufficient notification to quickly distribute in time for consumption.<br><br>2 days lead time preferred.|
 |Free Food For All|Name: Evelyn<br>Email: Eve@freefood.org.sg|Halal food products required.<br><br>Pick up within 24 hours|
