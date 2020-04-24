@@ -9,7 +9,7 @@ If you have previously been issued an approval to operate during the circuit bre
 #### **2. When will the suspension of certain F&B and retail outlets take effect? How long will it last?**
 The suspension of on-site operations of specialised stores and outlets retailing predominantly beverages, packaged snacks and desserts, F&B outlets in parks and certain retail outlets will take effect 24 hours after you have received the notification from MTI to wind down business operations completely. These tighter measures will be in place minimally for a two-week period from 21 April 2020 until 4 May 2020 (inclusive). The Multi-Ministry Taskforce will monitor the situation closely and determine when it is appropriate to ease some of the measures.
 
-#### **4. My business falls under the list of activities that need to be suspended. Can I appeal?**
+#### **3. My business falls under the list of activities that need to be suspended. Can I appeal?**
 If your business does not fall under the latest list of essential services, you will not be allowed to operate.
 
 
