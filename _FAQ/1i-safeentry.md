@@ -1,5 +1,5 @@
 ---
-title: Safe Entry
+title: SafeEntry
 permalink: /faq/safeentry
 ---
 

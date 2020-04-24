@@ -9,7 +9,7 @@ Yes. With the extension of the circuit breaker period until 1 June 2020 (inclusi
 #### **2. How do I know if my business is an ‘Essential’ or ‘Non-Essential’ Service?**
 You may refer to the list of Essential Services. 
 
-You may also call the Enterprise Infoline at 6898-1800 daily from 8.30am-5.30pm.
+You may also call the Enterprise Infoline at 6898-1800 from Monday-Saturday 8.30am-5.30pm.
 
 #### **3. Should I apply for ‘General’ or ‘Time-Limited’ exemption?**
 For Companies providing **<ins>Essential Services</ins>**, you will need to declare, please click on GENERAL EXEMPTION 
