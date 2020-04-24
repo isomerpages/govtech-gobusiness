@@ -48,9 +48,6 @@ No, you must suspend your F&B operations as this notice supersedes the exemption
 #### **11. Why is it that F&B establishments at parks cannot even operate for takeaway/delivery?**
 This is to minimise movement and interaction amongst the public.  As F&B services in parks are considered less critical consumer services, they will be suspended.
 
-#### **12. Why is it that food vending machines cannot operate in parks?**
-F&B outlets and food vending machines are closed in line with the guideline to minimise movement and interaction of people. Drinks vending machines in parks remain operational.
-
 
 ## **<ins>Retail</ins>**
 
