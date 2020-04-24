@@ -2,13 +2,15 @@
 title: Business Grants Portal
 permalink: /growsj/business-grants-portal/
 ---
-[![BGP](/images/programmes/products-and-services/bgp.png)](https://www.mci.gov.sg/digitalparticipationpledge)
 
-### Business Grants Portal
+## Business Grants Portal
 
-The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.
+<center>The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.
 
-#### How to apply for a grant on BGP?
+### How to apply for a grant on BGP?
+</center>
+
+***
 
 **STAGE 1: BEFORE APPLICATION**
 
@@ -35,6 +37,8 @@ Fill in your company profile. Please take note that your ACRA profile will be po
 6.	Accept your Letter of Offer
 <br>You will be notified of your application results via email. Log into BGP to accept your Letter of Offer.
 
+***
+
 ### Grants available on BGP
 
 You can apply for:
@@ -45,5 +49,5 @@ You can apply for:
 - Aviation Development Fund 
 - Productivity Solutions Grant
 
-#### When ready, login to <a href="https://www.businessgrants.gov.sg/" target="_blank">Business Grants Portal</a> and apply now.
+### When ready, login to <a href="https://www.businessgrants.gov.sg/" target="_blank">Business Grants Portal</a> and apply now.
 

@@ -1,6 +1,6 @@
 ---
 title: Tax Incentives
-permalink: /growsj/govt-assist/tax-incentives
+permalink: /growsj/govt-assist/tax-incentives/
 third_nav_title: Government Assistance
 ---
 
