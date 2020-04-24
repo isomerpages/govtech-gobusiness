@@ -44,5 +44,5 @@ The solution should be able to track and provide the following in csv format:
 No. The QR code or system link is unique for each on-boarded business and venue. It should not be shared.
 
 Venues with multiple tenants could implement SafeEntry via two ways:
-- A single QR code with a selection of tenants. Visitors/ Workers will be able to select which tenant he/she is visiting. He/She will only need to check-in once. Building owners who would like to make us of the above option should write to <a href = "mailto: travelandhealth@myinfo.gov.sg">travelandhealth@myinfo.gov.sg</a>.
+- A single QR code with a selection of tenants. Visitors/ Workers will be able to select which tenant he/she is visiting. He/She will only need to check-in once. Building owners who would like to make use of the above option should write to <a href = "mailto: travelandhealth@myinfo.gov.sg">travelandhealth@myinfo.gov.sg</a>.
 - Separate QR codes for each tenant. Visitors/Workers will need to scan multiple times if he/she is visiting multiple tenants.
