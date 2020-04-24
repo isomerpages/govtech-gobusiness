@@ -1,6 +1,6 @@
 ---
 title: Loans
-permalink: /govtassist/Categories/loans/
+permalink: /govassist/Categories/loans/
 third_nav_title: Categories
 ---
 

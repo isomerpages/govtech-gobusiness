@@ -1,6 +1,6 @@
 ---
 title: Government Assistance
-permalink: /growsj/govt-assist/
+permalink: /growsj/gov-assist/
 ---
 
 <center><h2>Government Assistance</h2>

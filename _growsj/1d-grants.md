@@ -1,6 +1,6 @@
 ---
 title: Grants
-permalink: /growsj/govt-assist/grants/
+permalink: /growsj/gov-assist/grants/
 third_nav_title: Government Assistance
 ---
 

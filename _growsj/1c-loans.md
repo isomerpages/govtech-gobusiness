@@ -1,6 +1,6 @@
 ---
 title: Loans
-permalink: /growsj/govt-assist/loans/
+permalink: /growsj/gov-assist/loans/
 third_nav_title: Government Assistance
 ---
 

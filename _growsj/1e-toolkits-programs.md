@@ -1,6 +1,6 @@
 ---
 title: Toolkits/Programs
-permalink: /growsj/govt-assist/toolkits-programs/
+permalink: /growsj/gov-assist/toolkits-programs/
 third_nav_title: Government Assistance
 ---
 

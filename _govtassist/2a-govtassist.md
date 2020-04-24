@@ -1,6 +1,6 @@
 ---
 title: Government Assistance
-permalink: /govtassist/govtassist/
+permalink: /govassist/govassist/
 ---
 
 [![Government Assistance](/images/programmes/products-and-services/GABanner.jpg)](/govtassist/govtassist/)

@@ -1,6 +1,6 @@
 ---
 title: Arts & Culture
-permalink: /govtassist/Categories/arts/
+permalink: /govassist/Categories/arts/
 third_nav_title: Sectors
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Grants
-permalink: /govtassist/Categories/grants/
+permalink: /govassist/Categories/grants/
 third_nav_title: Categories
 ---
 

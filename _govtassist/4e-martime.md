@@ -1,6 +1,6 @@
 ---
 title: Maritime
-permalink: /govtassist/Categories/maritime/
+permalink: /govassist/Categories/maritime/
 third_nav_title: Sectors
 ---
 

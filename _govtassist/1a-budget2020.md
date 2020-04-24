@@ -1,6 +1,6 @@
 ---
 title: The Unity, Resilience & Solidarity Budgets 
-permalink: /govtassist/budget2020/
+permalink: /govassist/budget2020/
 ---
 
 ## **Enhanced Support for Businesses**
