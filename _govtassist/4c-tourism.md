@@ -1,6 +1,6 @@
 ---
 title: Tourism
-permalink: /govtassist/Categories/tourism/
+permalink: /govassist/Categories/tourism/
 third_nav_title: Sectors
 ---
 

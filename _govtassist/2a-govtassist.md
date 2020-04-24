@@ -1,6 +1,6 @@
 ---
 title: Government Assistance
-permalink: /govtassist/govtassist/
+permalink: /govassist/govassist/
 ---
 
 [![Government Assistance](/images/programmes/products-and-services/GABanner.jpg)](/govtassist/govtassist/)
@@ -14,4 +14,4 @@ permalink: /govtassist/govtassist/
 | Grants | Loans |
 | :-: | :-: |
 |There are various types of grants available for companies.|There are various types of loans available for companies.|
-|[Find out more](/govtassist/categories/grants/)|[Find out more](/govtassist/categories/loans/)|
+|[Find out more](/govassist/categories/grants/)|[Find out more](/govassist/categories/loans/)|

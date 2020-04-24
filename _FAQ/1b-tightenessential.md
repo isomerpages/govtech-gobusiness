@@ -16,7 +16,7 @@ If your business does not fall under the latest list of essential services, you 
 ## **<ins>F&B</ins>**
 
 #### **1. I own a bakery that sells mainly assorted bread. However, based on the new measures, am I allowed to also continue selling cakes and other products?**
-No. You are allowed to continue operating for the purposes of manufacturing and selling of bread. You may sell your remaining inventory of cakes/kuehs. However, manufacturing of new cakes or confectionery is not allowed.
+Bakeries that sell a mix of breads and cakes can continue to operate. However, given that the manufacturing of cakes and confectionery has to stop, bakeries that get their cakes and confectioneries from cake and confectionery manufacturers, will not be able to do so after their existing stocks are cleared.
 
 #### **2. My store sells predominantly hot meals (eg. sandwiches) but I also sell desserts. Can I continue to operate?**
 If your shop sells multiple items, we will take into consideration what you predominantly sell. For example, if you predominantly sell hot meals and some selection of desserts, you can continue sales of all the food items that are not within the manufacturing suspended scope.
@@ -47,6 +47,16 @@ No, you must suspend your F&B operations as this notice supersedes the exemption
 
 #### **11. Why is it that F&B establishments at parks cannot even operate for takeaway/delivery?**
 This is to minimise movement and interaction amongst the public.  As F&B services in parks are considered less critical consumer services, they will be suspended.
+
+#### **12. I have been informed to suspend my business operations, and would like to donate some food supplies, especially perishables. Are there any charities that I can approach?**
+Please see below the list of food charities that businesses can reach out to:
+
+|Name|Contact Details|Remarks|
+|---|------------|---|
+|FoodBank|Name: Nicholas Ng<br>Email: nicholas@foodbank.sg|Able to receive all food items.<br><br>3 days lead time preferred.|
+|Food From The Heart|Name: Sim Bee Hia<br>Email: simbh@foodheart.org|For food items with a shorter expiry date, such as fresh produce and/or frozen food such as ice cream, will need sufficient notification to quickly distribute in time for consumption.<br><br>2 days lead time preferred.|
+|Free Food For All|Name: Evelyn<br>Email: Eve@freefood.org.sg|Halal food products required.<br><br>Pick up within 24 hours|
+|Alliance of Guest Workers|Email: covid19@hia.sg<br>Tel: 6304 3486|Open to picking up cakes and dessert for foreign workers.|
 
 
 ## **<ins>Retail</ins>**

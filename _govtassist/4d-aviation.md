@@ -1,6 +1,6 @@
 ---
 title: Aviation
-permalink: /govtassist/Categories/aviation/
+permalink: /govassist/Categories/aviation/
 third_nav_title: Sectors
 ---
 

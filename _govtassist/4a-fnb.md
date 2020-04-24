@@ -1,6 +1,6 @@
 ---
 title: F&B and Retail
-permalink: /govtassist/sector/fnb/
+permalink: /govassist/sector/fnb/
 third_nav_title: Sectors
 ---
 
