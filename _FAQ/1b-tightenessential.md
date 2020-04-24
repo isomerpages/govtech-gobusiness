@@ -9,7 +9,7 @@ If you have previously been issued an approval to operate during the circuit bre
 #### **2. When will the suspension of certain F&B and retail outlets take effect? How long will it last?**
 The suspension of on-site operations of specialised stores and outlets retailing predominantly beverages, packaged snacks and desserts, F&B outlets in parks and certain retail outlets will take effect 24 hours after you have received the notification from MTI to wind down business operations completely. These tighter measures will be in place minimally for a two-week period from 21 April 2020 until 4 May 2020 (inclusive). The Multi-Ministry Taskforce will monitor the situation closely and determine when it is appropriate to ease some of the measures.
 
-#### **4. My business falls under the list of activities that need to be suspended. Can I appeal?**
+#### **3. My business falls under the list of activities that need to be suspended. Can I appeal?**
 If your business does not fall under the latest list of essential services, you will not be allowed to operate.
 
 
@@ -40,16 +40,13 @@ Manufacturers of cakes and confectionery will have to suspend operations.
 F&B outlets and food vending machines in parks will be suspended to minimise movement and interaction amongst the public. Drinks vending machines in parks will remain operational.
 
 #### **9. I have been informed that I will need to suspend my F&B operations. Can I still continue operations if we close our shopfront and only accept online orders?**
-Please note that all operations at the shop front must be suspended. Online retail of these food products, if any, must be fulfilled from the licensed central kitchens, manufacturing facilities or warehouses of the F&B establishment (if applicable). The manufacturing facility must not be part of the list indicated in <a href="https://go.gov.sg/fnbtightenmeansure" target="_blank">Annex 2</a> of the F&B advisory, in line with restrictions to reduce the number of businesses allowed. 
+Please note that all operations at the shop front must be suspended. Online retail of these food products, if any, must be fulfilled from the licensed central kitchens, manufacturing facilities or warehouses of the F&B establishment (if applicable). The manufacturing facility must not be part of the list indicated in <a href="https://go.gov.sg/fnbtightenmeansure" target="_blank">Annex 2</a> of the F&B advisory, in line with restrictions to reduce the number of businesses allowed.
 
 #### **10. My application for exemption was earlier approved but my business operations fall under the list of F&B activities that needs to be suspended. Am I still allowed to continue operations?**
 No, you must suspend your F&B operations as this notice supersedes the exemption approval that you received earlier.
 
 #### **11. Why is it that F&B establishments at parks cannot even operate for takeaway/delivery?**
 This is to minimise movement and interaction amongst the public.  As F&B services in parks are considered less critical consumer services, they will be suspended.
-
-#### **12. Why is it that food vending machines cannot operate in parks?**
-F&B outlets and food vending machines are closed in line with the guideline to minimise movement and interaction of people. Drinks vending machines in parks remain operational.
 
 
 ## **<ins>Retail</ins>**
