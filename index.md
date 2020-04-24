@@ -5,7 +5,7 @@ description: For Singapore Businesses
 image: /images/
 permalink: /
 #notification: GoBusiness Govt Assist eAdviser will be launching soon!
-notification: <strong>Attention:</strong> We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the COVID-19 (Temporary Measures) Act.
+notification: <strong>Attention:</strong> We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the COVID-19 (Temporary Measures) Act.</br></br>You can view the video on how you can submit a Manpower Submission Form by clicking <a href="https://go.gov.sg/fnbtightenmeansure" target="_blank">here</a>.
 sections:
     - hero:
 #        title: Exemption from Suspension of Activities
