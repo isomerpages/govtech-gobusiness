@@ -1,7 +1,7 @@
 ---
-title: Enterprise Financing Scheme
-permalink: /growsj/loans/enterprise-financing-scheme/
-third_nav_title: Loans
+title: Loans
+permalink: /growsj/govt-assist/loans/
+third_nav_title: Government Assistance
 ---
 
 ## Enterprise Financing Scheme (EFS)
