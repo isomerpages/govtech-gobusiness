@@ -6,11 +6,12 @@ permalink: /growsj/govt-assist/
 <center><h2>Government Assistance</h2>
 
 The Singapore Government offers a range of assistances to help businesses grow and succeed.
-There are over 100 assistances available, from funding support to references and programs for building skills and knowledge.
+<br>There are over 100 assistances available, from funding support to references and programs for building skills and knowledge.
   
-The e-adviser is a free online tool to help businesses in selecting the right assistance schemes based on their business needs. Access the e-adviser here to receive a set of recommended assistance.
+<br>The e-adviser is a free online tool to help businesses in selecting the right assistance schemes based on their business needs. Access the e-adviser here to receive a set of recommended assistance.
 
-<a href="https://ea-staging.l1t.molb.gov.sg/#/" target="_blank"><h3>Get recommendation from e-adviser</h3></a></center>
+
+<a href="https://ea-staging.l1t.molb.gov.sg/#/" target="_blank"><h4>Get recommendation from e-adviser</h4></a></center>
 
 ***
 
