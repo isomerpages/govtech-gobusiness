@@ -23,7 +23,7 @@ sections:
 #        url: https://go.gov.sg/exemptionstatus
 #        button: Status of Application For Exemption
         key_highlights:
-        - title: General Exemption
+        - title: General Exemptio
           url: https://go.gov.sg/generalexemption
           description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
         - title: Application for Amendment
