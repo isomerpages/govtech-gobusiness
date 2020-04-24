@@ -84,3 +84,4 @@ We understand that malls and supermarkets would require time to implement the ab
 
 #### **10. What happens if I do not wish to provide my contact details when visiting the malls/ supermarkets?**
 The malls/ supermarkets reserve the right to deny you entry into their premises.
+
