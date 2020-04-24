@@ -69,7 +69,7 @@ sections:
         subtitle: 
         description: To support businesses in the Supplementary Budget 2020.
         button: Find Out More
-        url: /govtassist/budget2020
+        url: /govassist/budget2020
         image: /images/budget2020.jpg
         alt: The Unity, Resilience & Solidarity Budgets
     - infopic:
@@ -77,7 +77,7 @@ sections:
         subtitle: 
         description: List of assistance that Government is providing.
         button: Find Out More
-        url: /govtassist/govtassist
+        url: /govassist/govassist
         image: /images/helpinghands.jpg
         alt: Government Assistance
     - infopic:
