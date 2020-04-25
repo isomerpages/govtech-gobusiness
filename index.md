@@ -39,9 +39,14 @@ sections:
           url: https://go.gov.sg/timelimitedexemption
           description: </br>Only for businesses performing essential services and those who have an approval for exemption</br></br></br>Click Here
     - infobar:
+#        title: Time-Limited Exemption <bren edit: 25/4/20>
+#        subtitle: 
+#        description: Application for your workplace to be allowed to have temporary operations.</br>(For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br>(Please submit this form <strong>only one day before</strong> the date which you would like to activate staff to be deployed at your work premises.)
+#        button: Check Here to Apply
+#        url: https://go.gov.sg/exemptionstatus
         title: Time-Limited Exemption
         subtitle: 
-        description: Application for your workplace to be allowed to have temporary operations.</br>(For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br>(Please submit this form <strong>only one day before</strong> the date which you would like to activate staff to be deployed at your work premises.)
+        description: Application for your workplace to be allowed to have temporary operations.</br>(For companies which provide essential services only)<br/>Your application will only take effect on the following day after your submission.
         button: Check Here to Apply
         url: https://go.gov.sg/exemptionstatus
     - infobar:
