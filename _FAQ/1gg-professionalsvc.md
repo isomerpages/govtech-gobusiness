@@ -25,4 +25,4 @@ If you are the owner of the law practice and need to return to your office premi
 
 You may submit a Time-Limited Exemption application one day in advance and the exemption will be valid for the period requested. Where either an employee or the business owner/employer will be the only person working at your workplace, you may indicate “1” staff.
 
-Where granted such a Time-Limited Exemption, you must ensure that safe distancing measures are strictly adhere to while at the office.
+Where granted such a Time-Limited Exemption, you must ensure that safe distancing measures are strictly adhered to while at the office.
