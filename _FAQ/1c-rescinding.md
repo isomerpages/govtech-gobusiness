@@ -43,4 +43,4 @@ Companies which continue operations during this period should ensure the followi
 Under the COVID-19 (Temporary Measures) Act passed in Parliament on 7 April 2020, first-time offenders found operating without an exemption approval will face a fine of up to S$10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.
 
 #### **9. Are home-based F&B businesses allowed to continue operations?**
-Please refer to the guidelines for home-based businesses on the Housing & Development Board and the Urban Redevelopment Authority websites.
+Please refer to the guidelines for home-based businesses on the <a href="https://go.gov.sg/hdbhomebasedoffice" target="_blank">Housing & Development Board</a> and the <a href="https://go.gov.sg/urahomebasedoffice" target="_blank">Urban Redevelopment Authority</a> websites.
