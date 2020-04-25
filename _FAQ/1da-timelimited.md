@@ -20,4 +20,4 @@ Further appeals will not be considered.
 You will receive an acknowledgement email of the approval of your TLE application.
 
 #### **5. What should I do if I need to deploy my manpower very urgently (i.e. less than 24-hour notice period)?**
-You are required to apply for the <a href="https://go.gov.sg/timelimitedexemption" target="_blank">Time-Limited Exemption (TLE)</a> one day before deploying your staff. You will have a 24-hour window to submit your applications prior to the deployment of your staff. You are encouraged to plan for deployment of manpower accordingly.
+You are required to apply for the <a href="https://go.gov.sg/timelimitedexemption" target="_blank">Time-Limited Exemption (TLE)</a> one day before deploying your staff. You are encouraged to plan for deployment of manpower accordingly.
