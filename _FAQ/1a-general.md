@@ -16,7 +16,7 @@ For Companies providing **<ins>Essential Services</ins>**, you will need to decl
 
 For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>applying for exemption from suspension of business activities</ins>, please click on GENERAL EXEMPTION. Please suspend your business operations until you have received the official email notification of approval. 
 
-For Companies that are <ins>applying for exemption for a limited-period of time</ins>, please click on TIME-LIMITED EXEMPTION. Each company is limited to not more than 4 applications throughout the circuit-breaker period. Please submit your application **one day before** the required date of use. 
+For Companies that are <ins>applying for exemption for a limited-period of time</ins>, please click on TIME-LIMITED EXEMPTION. With effect from 26 April 2020, you will be allowed to submit applications for Time-Limited Exemptions only twice every week, each week starting from Sunday 12:00am to Saturday 11:59pm. This is regardless of the number of applications that you/your company had submitted prior to 26 April 2020. Please submit your application one day before the on-site deployment of your staff.
 
 #### **4. What should I do if I have not received an exemption? Am I allowed to continue operations?**
 Please suspend your business operations until you have received the official email notification of approval.
