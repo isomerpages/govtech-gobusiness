@@ -1,7 +1,7 @@
 ---
 title: Government Assistance
 permalink: /growsj/gov-assist/
-second_nav_title: Government Assistance
+third_nav_title: Government Assistance
 ---
 
 <center><h2>Government Assistance</h2>
