@@ -32,7 +32,7 @@ Companies that continue to operate during this period should use the minimum num
 #### **7. I heard that there are some companies who have received a rescind notification. If I have not received such notification, am I still allowed to operate? Are there any guidelines I should adhere to?**
 Yes. Companies which have not received any further notification to suspend their operations are allowed to continue operations, if they had earlier received an exemption from suspension of activities.
 
-However, this does not apply to the less critical consumer services such as standalone outlets that sell only beverages, packaged snacks, confectioneries or desserts, as well as hair dressing and barber services which are required to suspend operations with immediate effect from 21 April, 2359 hours. For more information please click here.
+However, this does not apply to the less critical consumer services such as standalone outlets that sell only beverages, packaged snacks, confectioneries or desserts, as well as hair dressing and barber services which are required to suspend operations with immediate effect from 21 April, 2359 hours. For more information please click <a href="https://go.gov.sg/tightenmeasurepdf" target="_blank">here</a>.
 
 Companies which continue operations during this period should ensure the following:
 - Cross-deployment or movement of workers across different workplace premises (e.g. different branches) will be disallowed. There should also be no physical interactions between teams working in different locations. For essential service providers who need to move between different locations to perform their services (e.g. IT support, maintenance, logistics, community nurses making house visits), safe distancing measures must be complied to.
