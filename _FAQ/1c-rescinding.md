@@ -32,6 +32,8 @@ Companies that continue to operate during this period should use the minimum num
 #### **7. I heard that there are some companies who have received a rescind notification. If I have not received such notification, am I still allowed to operate? Are there any guidelines I should adhere to?**
 Yes. Companies which have not received any further notification to suspend their operations are allowed to continue operations, if they had earlier received an exemption from suspension of activities.
 
+However, this does not apply to the less critical consumer services such as standalone outlets that sell only beverages, packaged snacks, confectioneries or desserts, as well as hair dressing and barber services which are required to suspend operations with immediate effect from 21 April, 2359 hours. For more information please click here.
+
 Companies which continue operations during this period should ensure the following:
 - Cross-deployment or movement of workers across different workplace premises (e.g. different branches) will be disallowed. There should also be no physical interactions between teams working in different locations. For essential service providers who need to move between different locations to perform their services (e.g. IT support, maintenance, logistics, community nurses making house visits), safe distancing measures must be complied to.
 - Employers and on-site managers are required to implement strict safe distancing measures within their premises, provide company-arranged transport and reduce social interactions among workers during their course of work, as well as during their meal and break times. Employers and on-site managers should ensure that workers on-site are wearing masks.
@@ -39,3 +41,6 @@ Companies which continue operations during this period should ensure the followi
 
 #### **8. What would happen to companies which are found operating even when their exemption approval has been rescinded?**
 Under the COVID-19 (Temporary Measures) Act passed in Parliament on 7 April 2020, first-time offenders found operating without an exemption approval will face a fine of up to S$10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.
+
+#### **9. Are home-based F&B businesses allowed to continue operations?**
+Please refer to the guidelines for home-based businesses on the Housing & Development Board and the Urban Redevelopment Authority websites.
