@@ -12,11 +12,13 @@ You may refer to the list of Essential Services.
 You may also call the Enterprise Infoline at 6898-1800 from Monday-Saturday 8.30am-5.30pm.
 
 #### **3. Should I apply for ‘General’ or ‘Time-Limited’ exemption?**
-For Companies providing **<ins>Essential Services</ins>**, you will need to declare, please click on GENERAL EXEMPTION 
+For Companies providing **<ins>Essential Services</ins>**, you will need to declare, please click on GENERAL EXEMPTION.
 
 For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>applying for exemption from suspension of business activities</ins>, please click on GENERAL EXEMPTION. Please suspend your business operations until you have received the official email notification of approval. 
 
-For Companies that are <ins>applying for exemption for a limited-period of time</ins>, please click on TIME-LIMITED EXEMPTION. With effect from 26 April 2020, you will be allowed to submit applications for Time-Limited Exemptions only twice every week, each week starting from Sunday 12:00am to Saturday 11:59pm. This is regardless of the number of applications that you/your company had submitted prior to 26 April 2020. Please submit your application one day before the on-site deployment of your staff.
+For Companies that are applying for exemption for a limited-period of time, please click on TIME-LIMITED EXEMPTION (TLE). With effect from 26 April 2020, you will be allowed to submit up to 2 TLE applications each week[^1]. This is regardless of the number of applications that you/your company had submitted prior to 26 Apr 2020.
+
+Please submit your application one day before the on-site deployment of your staff. 
 
 #### **4. What should I do if I have not received an exemption? Am I allowed to continue operations?**
 Please suspend your business operations until you have received the official email notification of approval.
@@ -90,3 +92,7 @@ You can refer to the Notice of Offence issued to you for information on the paym
 
 #### **20. Where can I get more information on the regulatory requirements relating to safe distancing?**
 You can refer to the COVID-19 (Temporary Measures) (Control Order) Regulations 2020 on the Singapore Statutes Online website at <a href="https://sso.agc.gov.sg" target="_blank">https://sso.agc.gov.sg</a> 
+
+
+___
+[^1]: The weekly cycle starts from Sunday 12.00am and ends on Saturday 11.59pm.

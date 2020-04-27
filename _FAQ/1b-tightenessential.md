@@ -15,40 +15,34 @@ If your business does not fall under the latest list of essential services, you 
 
 ## **<ins>F&B</ins>**
 
-#### **1. I own a bakery that sells mainly assorted bread. However, based on the new measures, am I allowed to also continue selling cakes and other products?**
-Bakeries that sell a mix of breads and cakes can continue to operate. However, given that the manufacturing of cakes and confectionery has to stop, bakeries that get their cakes and confectioneries from cake and confectionery manufacturers, will not be able to do so after their existing stocks are cleared.
-
-#### **2. My store sells predominantly hot meals (eg. sandwiches) but I also sell desserts. Can I continue to operate?**
+#### **1. My store sells predominantly hot meals (eg. sandwiches) but I also sell desserts. Can I continue to operate?**
 If your shop sells multiple items, we will take into consideration what you predominantly sell. For example, if you predominantly sell hot meals and some selection of desserts, you can continue sales of all the food items that are not within the manufacturing suspended scope.
 
-#### **3. Are cafes allowed to continue operations?**
+#### **2. Are cafes allowed to continue operations?**
 F&B outlets which provide full meals will be allowed to continue to operate.
 
-#### **4. My store sells soy bean milk and snacks which are considered hot/cooked food. I am not sure if I need to suspend operations. What should I do?**
+#### **3. My store sells soy bean milk and snacks which are considered hot/cooked food. I am not sure if I need to suspend operations. What should I do?**
 If your company sells predominantly soy bean milk and snacks, you will need to suspend your business immediately. If you have previously been issued an approval to operate during the circuit breaker and conduct one of the activities that must now be suspended, MTI will send you an email to rescind the previous approval.
 
-#### **5. Why are beverages, snacks and desserts in hawker centres, coffee shops and food courts still allowed to open?**
+#### **4. Why are beverages, snacks and desserts in hawker centres, coffee shops and food courts still allowed to open?**
 In general, coffee shops, hawker centres and food courts are exempted from suspension in their entirety as we recognise that these establishments provide affordable food options for the public and we view all individual stalls as forming the overall offerings of these establishments. However, we advise the public not to rush to queue at bubble tea, desert and beverage stalls, and to observe safe distancing measures when making such purchases. The government will continue to monitor the situation and review when necessary.
 
-#### **6. My cake shop is located in the premise of an essential service provider (e.g. Hospital). Am I allowed to continue operations?**
+#### **5. My cake shop is located in the premise of an essential service provider (e.g. Hospital). Am I allowed to continue operations?**
 No. If your shop retails predominantly desserts such as cakes, you will not be allowed to continue operations.
 
-#### **7. I am a key manufacturer of confectioneries. Does that mean I have to suspend operations too?**
-Manufacturers of cakes and confectionery will have to suspend operations.
-
-#### **8. Why are food vending machines not allowed to operate in parks?**
+#### **6. Why are food vending machines not allowed to operate in parks?**
 F&B outlets and food vending machines in parks will be suspended to minimise movement and interaction amongst the public. Drinks vending machines in parks will remain operational.
 
-#### **9. I have been informed that I will need to suspend my F&B operations. Can I still continue operations if we close our shopfront and only accept online orders?**
+#### **7. I have been informed that I will need to suspend my F&B operations. Can I still continue operations if we close our shopfront and only accept online orders?**
 Please note that all operations at the shop front must be suspended. Online retail of these food products, if any, must be fulfilled from the licensed central kitchens, manufacturing facilities or warehouses of the F&B establishment (if applicable). The manufacturing facility must not be part of the list indicated in <a href="https://go.gov.sg/fnbtightenmeansure" target="_blank">Annex 2</a> of the F&B advisory, in line with restrictions to reduce the number of businesses allowed.
 
-#### **10. My application for exemption was earlier approved but my business operations fall under the list of F&B activities that needs to be suspended. Am I still allowed to continue operations?**
+#### **8. My application for exemption was earlier approved but my business operations fall under the list of F&B activities that needs to be suspended. Am I still allowed to continue operations?**
 No, you must suspend your F&B operations as this notice supersedes the exemption approval that you received earlier.
 
-#### **11. Why is it that F&B establishments at parks cannot even operate for takeaway/delivery?**
+#### **9. Why is it that F&B establishments at parks cannot even operate for takeaway/delivery?**
 This is to minimise movement and interaction amongst the public.  As F&B services in parks are considered less critical consumer services, they will be suspended.
 
-#### **12. I have been informed to suspend my business operations, and would like to donate some food supplies, especially perishables. Are there any charities that I can approach?**
+#### **10. I have been informed to suspend my business operations, and would like to donate some food supplies, especially perishables. Are there any charities that I can approach?**
 Please see below the list of food charities that businesses can reach out to:
 
 |Name|Contact Details|Remarks|
