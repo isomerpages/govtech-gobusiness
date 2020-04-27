@@ -9,7 +9,7 @@ With effect from 26 April 2020, you will be allowed to submit up to 2 TLE applic
 Please submit your application one day before the on-site deployment of your staff.
 
 #### **2. How many times can I apply for Time-Limited Exemptions (TLEs)?**
-You will be allowed to submit up 2 TLE applications each week[^1]. This is regardless of the number of applications that you/your company had submitted prior to 26 Apr 2020.
+You will be allowed to submit up to 2 TLE applications each week[^1]. This is regardless of the number of applications that you/your company had submitted prior to 26 Apr 2020.
 
 You are encouraged to plan for deployment of manpower accordingly.
 
