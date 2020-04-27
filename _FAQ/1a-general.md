@@ -16,7 +16,7 @@ For Companies providing **<ins>Essential Services</ins>**, you will need to decl
 
 For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>applying for exemption from suspension of business activities</ins>, please click on GENERAL EXEMPTION. Please suspend your business operations until you have received the official email notification of approval. 
 
-For Companies that are applying for exemption for a limited-period of time, please click on TIME-LIMITED EXEMPTION (TLE). With effect from 26 April 2020, you will be allowed to submit up to 2 TLE applications each week. This is regardless of the number of applications that you/your company had submitted prior to 26 Apr 2020[^1].
+For Companies that are applying for exemption for a limited-period of time, please click on TIME-LIMITED EXEMPTION (TLE). With effect from 26 April 2020, you will be allowed to submit up to 2 TLE applications each week[^1]. This is regardless of the number of applications that you/your company had submitted prior to 26 Apr 2020.
 
 Please submit your application one day before the on-site deployment of your staff. 
 
