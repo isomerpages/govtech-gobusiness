@@ -18,9 +18,9 @@ For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>apply
 
 For Companies that are applying for exemption for a limited-period of time, please click on TIME-LIMITED EXEMPTION (TLE). With effect from 26 April 2020, you will be allowed to submit up to 2 TLE applications each week. This is regardless of the number of applications that you/your company had submitted prior to 26 Apr 2020.
 
-Please submit your application one day before the on-site deployment of your staff. 
+    > **Note:** The weekly cycle starts from Sunday 12.00am and ends on Saturday 11.59pm.
 
-> **Note:** The weekly cycle starts from Sunday 12.00am and ends on Saturday 11.59pm.
+Please submit your application one day before the on-site deployment of your staff. 
 
 #### **4. What should I do if I have not received an exemption? Am I allowed to continue operations?**
 Please suspend your business operations until you have received the official email notification of approval.
