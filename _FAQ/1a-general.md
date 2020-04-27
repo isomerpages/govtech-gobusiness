@@ -20,8 +20,6 @@ For Companies that are applying for exemption for a limited-period of time, plea
 
 Please submit your application one day before the on-site deployment of your staff. 
 
-
-
 #### **4. What should I do if I have not received an exemption? Am I allowed to continue operations?**
 Please suspend your business operations until you have received the official email notification of approval.
 
@@ -94,7 +92,6 @@ You can refer to the Notice of Offence issued to you for information on the paym
 
 #### **20. Where can I get more information on the regulatory requirements relating to safe distancing?**
 You can refer to the COVID-19 (Temporary Measures) (Control Order) Regulations 2020 on the Singapore Statutes Online website at <a href="https://sso.agc.gov.sg" target="_blank">https://sso.agc.gov.sg</a> 
-
 
 
 ___
