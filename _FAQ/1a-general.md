@@ -12,7 +12,7 @@ You may refer to the list of Essential Services.
 You may also call the Enterprise Infoline at 6898-1800 from Monday-Saturday 8.30am-5.30pm.
 
 #### **3. Should I apply for ‘General’ or ‘Time-Limited’ exemption?**
-For Companies providing **<ins>Essential Services</ins>**, you will need to declare, please click on GENERAL EXEMPTION 
+For Companies providing **<ins>Essential Services</ins>**, you will need to declare, please click on GENERAL EXEMPTION.
 
 For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>applying for exemption from suspension of business activities</ins>, please click on GENERAL EXEMPTION. Please suspend your business operations until you have received the official email notification of approval. 
 
