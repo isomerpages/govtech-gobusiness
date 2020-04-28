@@ -51,7 +51,7 @@ f. Each AHP can see no more than 6 patients/clients (i.e. sessions) a week.
 - Each session should not be longer than 1 hour.
 - AHPs can offer either clinic-based services or Home Therapy (HT), but not a combination of both. 
 
-Note: Outpatient psychology services to adhere to the following from 29 April 2020 to 17 May 2020:
+10. Outpatient psychology services to adhere to the following from 29 April 2020 to 17 May 2020:
 
 <ins>Profession-related requirements</ins><br>
 g. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
