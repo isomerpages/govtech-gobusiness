@@ -20,7 +20,7 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 | Tax Incentives | Loans | Grants | Toolkits/Programs | 
 | :-: | :-: | :-: | :-: |
 |Tax relief initiatives providing tax deductions and exemptions for businesses.|Assisted financing through credit lending and risk sharing with government and participating FIs.|Co-funding for capability building, innovation, and internationalisation projects.|Self-assessments, guides, resources and available programs aimed at capability building.|
-|[Find out more](https://govtech-gb-staging.netlify.com/growsj/tax-incentives/approved-contract-manufacturer-and-trade-scheme/)|[Find out more](https://govtech-gb-staging.netlify.com/growsj/loans/enterprise-financing-scheme/)|[Find out more](https://govtech-gb-staging.netlify.com/growsj/business-grants-portal/)|[Find out more](https://govtech-gb-staging.netlify.com/growsj/productivity-solutions-grant/)|
+|[Find out more](/growsj/gov-assist/tax-incentives/)|[Find out more](/growsj/gov-assist/loans/)|[Find out more](/growsj/gov-assist/grants/)|[Find out more](/growsj/gov-assist/toolkits-programs/)|
 
 ***
 
@@ -29,8 +29,7 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 |Business Grants Portal| Productivity Solutions Grant|
 |:--- |:--- |
 |The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.|The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions and equipment to improve their productivity.|
-|[Find out more](https://govtech-gb-staging.netlify.com/growsj/business-grants-portal/)|[Find out more](https://govtech-gb-staging.netlify.com/growsj/productivity-solutions-grant/)|
-
+|[Find out more](/growsj/business-grants-portal/)|[Find out more](/growsj/psg/)|
 
 <br />
 <div class="bp-youtube">
