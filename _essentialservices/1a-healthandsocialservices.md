@@ -16,20 +16,6 @@ permalink: /essentialservices/healthandsocialservices/
 
 4. All outpatient non-public health institution (PHI) Allied Health Services (excluding psychology services) to adhere to the following from 29 April 2020 to 17 May 2020:
 
-5. Community mental health services, senior befriending, counselling and case management services, and alert alarm system/check-ins by Senior Activity Centres are to be delivered remotely
-: a. Services to be delivered remotely where possible. For certain blocks where remote monitoring is not possible, staff to continue manning the Alert Alarm System at the Senior Activity Centres.
-
-1. Supporting services (e.g. blood services, laboratories and radiological services, research related to COVID-19, pharmacies, disease surveillance and response services, medical and patient transport, provision of medical items and personal care items)
-
-2. Essential supply chains (e.g. medical wholesale and distribution, mask, PPE, medical supplies and equipment manufacturers, medical gas supply)
-
-3. Selected social services to support vulnerable segments of the population
-: a. This includes residential services for those with no alternative accommodation, community-based intervention for those with no alternative caregiving arrangements, community-based social services for priority cases, and public facing services for priority cases e.g. serious/urgent cases, cases requiring intensive supervision.
-
-9. Selected care services for students such as those in preschools, Student Care Centres and SPED schools (including for children of Essential Services workers)
-: a. Parents may approach their children’s preschools and schools for assistance.
-: b. Priority given to parents in Essential Services like Healthcare.
-
 <ins>Profession-related requirements</ins><br>
 a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
 b. Prioritise face-to-face consultations for patients/clients who require treatment/therapy, which if not provided or performed, would result in significant or rapid deterioration of the patient/client’s condition, and potentially threaten their health and wellbeing.
@@ -66,5 +52,21 @@ l. All psychologists must submit their proposed operating hours prior to startin
 m. The submission of operating hours should be done through SRP (for individual-practitioner services, or group services where all individual psychologists are SRP-registered psychologists), or submitted on request by MOH for services which were previously exempted, or those services which have appealed via psychologyservices@moh.gov.sg (from 29 April 2020).<br>
 
 **Note: Requirements for the period after 17 May 2020 will be updated at a later date.**
+
+5. Community mental health services, senior befriending, counselling and case management services, and alert alarm system/check-ins by Senior Activity Centres are to be delivered remotely
+: a. Services to be delivered remotely where possible. For certain blocks where remote monitoring is not possible, staff to continue manning the Alert Alarm System at the Senior Activity Centres.
+
+1. Supporting services (e.g. blood services, laboratories and radiological services, research related to COVID-19, pharmacies, disease surveillance and response services, medical and patient transport, provision of medical items and personal care items)
+
+2. Essential supply chains (e.g. medical wholesale and distribution, mask, PPE, medical supplies and equipment manufacturers, medical gas supply)
+
+3. Selected social services to support vulnerable segments of the population
+: a. This includes residential services for those with no alternative accommodation, community-based intervention for those with no alternative caregiving arrangements, community-based social services for priority cases, and public facing services for priority cases e.g. serious/urgent cases, cases requiring intensive supervision.
+
+9. Selected care services for students such as those in preschools, Student Care Centres and SPED schools (including for children of Essential Services workers)
+: a. Parents may approach their children’s preschools and schools for assistance.
+: b. Priority given to parents in Essential Services like Healthcare.
+
+
 
 
