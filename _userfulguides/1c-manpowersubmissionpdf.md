@@ -1,6 +1,6 @@
 ---
-title: Manpower Submission Video Guide
-permalink: /userfulguides/manpowersubmissionvideo/
+title: Manpower Submission User Guide (PDF)
+permalink: /userfulguides/manpowersubmissionpdf/
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZcqWSGy6l94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<meta http-equiv="REFRESH" content="0;url=https://go.gov.sg/essentialmanpowerguide">
