@@ -5,7 +5,7 @@ description: For Singapore Businesses
 image: /images/
 permalink: /
 #notification: GoBusiness Govt Assist eAdviser will be launching soon!
-notification: <strong>Attention:</strong> Allied Health Clinic/Professionals seeking to practise on 29 Apr 2020 (Wed) should apply for Time-Limited Exemption. Concurrently, they should also apply for General Exemption for the rest of the Circuit Breaker Period.
+notification: <strong>Attention:</strong> Allied Health Clinics/Professionals seeking to practise on 29 Apr 2020 (Wed) should apply for Time-Limited Exemption. Concurrently, they should also apply for General Exemption for the rest of the Circuit Breaker Period.
 sections:
     - hero:
 #        title: Exemption from Suspension of ActivitiesWatch the video tutorial for "Manpower Submission Form" <a href="https://go.gov.sg/manpowersub" target="_blank">here</a>
