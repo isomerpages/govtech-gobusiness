@@ -8,7 +8,7 @@ permalink: /
 notification: <strong>Attention:</strong> Allied Health Clinics/Professionals seeking to practise on 29 Apr 2020 (Wed) should apply for Time-Limited Exemption. Concurrently, they should also apply for General Exemption for the rest of the Circuit Breaker Period.
 sections:
     - hero:
-#        title: Exemption from Suspension of ActivitiesWatch the video tutorial for "Manpower Submission Form" <a href="https://go.gov.sg/manpowersub" target="_blank">here</a>
+#        title: Exemption from Suspension of ActivitiesWatch the video tutorial for "Manpower Submission Form" <a href="https://go.gov.sg/essentialworkersubmission" target="_blank">here</a>
         title: Supporting Our Businesses
 #        subtitle: 
         subtitle: Overcoming Challenges, Emerging Stronger
@@ -46,7 +46,7 @@ sections:
 #        url: https://go.gov.sg/exemptionstatus
         title: Time-Limited Exemption
         subtitle: 
-        description: Application for your workplace to be allowed to have temporary operations.</br>(For companies which provide essential services only)<br/>Your application will only take effect on the following day after your submission.<br/>You are allowed to submit applications only twice every week (each week starting from Sunday 12:00am to Saturday 11:59pm)<br/>Watch the video tutorial <a href="https://go.gov.sg/timelimitedvideo" target="_blank">here</a>.
+        description: Application for your workplace to be allowed to have temporary operations.</br>(For companies which provide essential services only)<br/>Your application will only take effect on the following day after your submission.<br/>You are allowed to submit applications only twice every week (each week starting from Sunday 12:00am to Saturday 11:59pm)
         button: Click Here to Apply
         url: https://go.gov.sg/exemptionstatus
     - infobar:

@@ -28,7 +28,7 @@ permalink: /essentialservices/healthandsocialservices/
 : a. Parents may approach their children’s preschools and schools for assistance.
 : b. Priority given to parents in Essential Services like Healthcare.
 
-9A. All outpatient non-public health institution (PHI) Allied Health Services (excluding psychology services) to adhere to the following from 29 April 2020 to 17 May 2020:
+9A. All outpatient non-public health institution (PHI) Allied Health Services[^1] (excluding psychology services) to adhere to the following from 29 April 2020 to 17 May 2020:
 
 <ins>Profession-related requirements</ins><br>
 a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
@@ -65,3 +65,8 @@ k. All psychologists must submit their proposed operating hours prior to startin
 l. The submission of operating hours should be done through SRP (for individual-practitioner services, or group services where all individual psychologists are SRP-registered psychologists), or submitted on request by MOH for services which were previously exempted, or those services which have appealed via psychologyservices@moh.gov.sg (from 29 April 2020).<br>
 
 Note: Requirements for the period after 17 May 2020 will be updated at a later date.
+
+
+
+___
+[^1]: Audiology, Dietetics, Occupational, Physiotherapy, Podiatry, Prosthetics and Orthotics, Speech Therapy

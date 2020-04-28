@@ -9,6 +9,8 @@ collections:
     output: true
   essentialservices:
     output: true
+  guides:
+    output: true
   FAQ:
     output: true
   growsj:
