@@ -17,7 +17,7 @@ permalink: /growsj/gov-assist/
 
 Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.
 
-| Tax Incentives | Loans | Grants | Toolkits/Programs | 
+| <h4>Tax Incentives</h4> | <h4>Loans</h4> | <h4>Grants</h4> | <h4>Toolkits/Programs</h4> | 
 | :-: | :-: | :-: | :-: |
 |Tax relief initiatives providing tax deductions and exemptions for businesses.|Assisted financing through credit lending and risk sharing with government and participating FIs.|Co-funding for capability building, innovation, and internationalisation projects.|Self-assessments, guides, resources and available programs aimed at capability building.|
 |[Find out more](/growsj/gov-assist/tax-incentives/)|[Find out more](/growsj/gov-assist/loans/)|[Find out more](/growsj/gov-assist/grants/)|[Find out more](/growsj/gov-assist/toolkits-programs/)|
