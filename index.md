@@ -5,10 +5,10 @@ description: For Singapore Businesses
 image: /images/
 permalink: /
 #notification: GoBusiness Govt Assist eAdviser will be launching soon!
-notification: <strong>Attention:</strong> We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the COVID-19 (Temporary Measures) Act.</br></br>Watch the video tutorial for "Manpower Submission Form" <a href="https://go.gov.sg/manpowersub" target="_blank">here</a>.
+notification: <strong>Attention:</strong> Allied Health Clinic/Professionals seeking to practise on 29 Apr 2020 (Wed) should apply for Time-Limited Exemption. Concurrently, they should also apply for General Exemption for the rest of the Circuit Breaker Period.
 sections:
     - hero:
-#        title: Exemption from Suspension of Activities
+#        title: Exemption from Suspension of ActivitiesWatch the video tutorial for "Manpower Submission Form" <a href="https://go.gov.sg/manpowersub" target="_blank">here</a>
         title: Supporting Our Businesses
 #        subtitle: 
         subtitle: Overcoming Challenges, Emerging Stronger
