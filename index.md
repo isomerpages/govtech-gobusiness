@@ -67,7 +67,7 @@ sections:
         description: Get updated on the latest News and Advisories related to COVID-19.
         button: Find Out More
         url: https://go.gov.sg/newsandadvisories
-        image: /images/businesphoto.jpg
+        image: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZcqWSGy6l94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         alt: News & Advisories
     - infopic:
         title: The Unity, Resilience & Solidarity Budgets
