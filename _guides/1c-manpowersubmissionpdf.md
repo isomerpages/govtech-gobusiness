@@ -3,4 +3,4 @@ title: Manpower Submission User Guide (PDF)
 permalink: /userfulguides/manpowersubmissionpdf/
 ---
 
-<meta http-equiv="REFRESH" content="0;url=https://go.gov.sg/essentialmanpowerguide">
+<iframe width="100%" height="315" src="https://go.gov.sg/essentialmanpowerguide" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
