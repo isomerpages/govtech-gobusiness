@@ -28,7 +28,7 @@ permalink: /essentialservices/healthandsocialservices/
 : a. Parents may approach their children’s preschools and schools for assistance.
 : b. Priority given to parents in Essential Services like Healthcare.
 
-9. All outpatient non-public health institution (PHI) Allied Health Services (excluding psychology services) to adhere to the following from 29 April 2020 to 17 May 2020:
+9A. All outpatient non-public health institution (PHI) Allied Health Services (excluding psychology services) to adhere to the following from 29 April 2020 to 17 May 2020:
 
 <ins>Profession-related requirements</ins><br>
 a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
@@ -50,7 +50,7 @@ d. Each AHP can see no more than 6 patients/clients (i.e. sessions) a week.
 - Each session should not be longer than 1 hour.
 - AHPs can offer either clinic-based services or Home Therapy (HT), but not a combination of both. 
 
-10. Outpatient psychology services to adhere to the following from 29 April 2020 to 17 May 2020:
+9B. Outpatient psychology services to adhere to the following from 29 April 2020 to 17 May 2020:
 
 <ins>Profession-related requirements</ins><br>
 e. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
