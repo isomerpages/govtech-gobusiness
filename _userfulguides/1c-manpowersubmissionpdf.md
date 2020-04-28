@@ -1,5 +1,5 @@
 ---
-title: Time-Limited Exeption Video Guide
+title: Manpower Submission Video Guide
 permalink: /userfulguides/manpowersubmissionvideo/
 ---
 
