@@ -39,8 +39,8 @@ d. Each AHP can see no more than 6 patients/clients (i.e. sessions) a week.
 
 **Outpatient psychology services to adhere to the following from 29 April 2020 to 17 May 2020:**
 
-<ins>Profession-related requirements</ins>
-e. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.
+<ins>Profession-related requirements</ins><br>
+e. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
 f. Prioritise face-to-face consultations for cases where teleconsultation is deemed unsuitable —such as urgent new cases, unstable cases, individuals who are unable to use teleconferencing platforms (e.g. elderly, paediatric, individuals with intellectual disability).
 
 <ins>Operations-related requirements</ins>
