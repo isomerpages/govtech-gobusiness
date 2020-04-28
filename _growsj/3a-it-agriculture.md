@@ -4,11 +4,11 @@ permalink: /growsj/psg/it-agriculture/
 third_nav_title: Pre-scoped IT Solutions
 ---
 
-### [Accounting Management + Human Resource Management (HRMS)](/growsj/psg/HRMS)
+### [Accounting Management + Human Resource Management (HRMS)](/growsj/psg/am-hrms/)
 
 An integrated software solution which offers the stated core functions to address business needs.
 
-### [Accounting Management and Sales Management System](/growsj/psg/AMSMS)
+### [Accounting Management and Sales Management System](/growsj/psg/am-sms/)
 
 An integrated software solution which offers the stated core functions to address business needs.
 
