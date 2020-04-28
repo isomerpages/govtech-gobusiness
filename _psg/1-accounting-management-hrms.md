@@ -7,7 +7,7 @@ permalink: /growsj/psg/am-hrms/
 
 The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
-### [Accounting and Human Resource Management Version 3.0 - Package B (20 Users)](/growsj/psg/AMSMS)
+### [Accounting and Human Resource Management Version 3.0 - Package B (20 Users)](/growsj/psg/am-hrms/ahrmv3.0-pkgb-20users/)
 
 The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
