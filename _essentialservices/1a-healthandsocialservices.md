@@ -30,8 +30,8 @@ permalink: /essentialservices/healthandsocialservices/
 
 9. All outpatient non-public health institution (PHI) Allied Health Services (excluding psychology services) to adhere to the following from 29 April 2020 to 17 May 2020:
 
-<ins>Profession-related requirements</ins>
-a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.
+<ins>Profession-related requirements</ins><br>
+a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
 b. Prioritise face-to-face consultations for patients/clients who require treatment/therapy, which if not provided or performed, would result in significant or rapid deterioration of the patient/client’s condition, and potentially threaten their health and wellbeing.
 
 <ins>Operations-related requirements</ins><br>
