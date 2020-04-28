@@ -16,6 +16,8 @@ links:
 #  - title: List of Essential Services
 #    url: /essentialservices/
   - title: FAQ
+    collection: guides
+  - title: FAQ
     collection: FAQ
   - title: Contact Us
     url: /contact-us/
