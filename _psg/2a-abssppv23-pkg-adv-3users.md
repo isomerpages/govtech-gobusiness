@@ -34,8 +34,9 @@ Direct Purchase
 <a href="/images/psg-pdf/EPOS-EnhancedPOSVersion2-Package1.pdf" target="_blank">Click here for the PDF copy of the quotation</a>
 
 ### Contact Information
-[Jabez Integrated Solutions Pte Ltd](https://www.facebook.com/Jabez-is-Pte-Ltd-110019910337941) <br>
-Email: Eliezerjul14@gmail.com <br>
+Jabez Integrated Solutions Pte Ltd
+<https://www.facebook.com/Jabez-is-Pte-Ltd-110019910337941><br>
+Email: <Eliezerjul14@gmail.com> <br>
 Tel: (65) 9838 0221 <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target="_blank" href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>.
