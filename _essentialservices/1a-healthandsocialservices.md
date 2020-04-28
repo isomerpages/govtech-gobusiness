@@ -69,4 +69,4 @@ Note: Requirements for the period after 17 May 2020 will be updated at a later d
 
 
 ___
-[^1]: Audiology, Dietetics, Occupational, Physiotherapy, Podiatry, Prosthetics and Orthotics, Speech Therapy
+[^1]: Audiology, Dietetics, Occupational Therapy, Physiotherapy, Podiatry, Prosthetics and Orthotics, Speech Therapy
