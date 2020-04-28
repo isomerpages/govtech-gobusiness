@@ -35,7 +35,7 @@ a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possi
 b. Prioritise face-to-face consultations for patients/clients who require treatment/therapy, which if not provided or performed, would result in significant or rapid deterioration of the patient/client’s condition, and potentially threaten their health and wellbeing.
 
 <ins>Operations-related requirements</ins><br>
-    (i) Applicable to those practising in Private AHS Clinics/ Centre-based Services for Individuals with Disabilities, Developmental Needs or Special Educational Needs<br>
+        (i) Applicable to those practising in Private AHS Clinics/ Centre-based Services for Individuals with Disabilities, Developmental Needs or Special Educational Needs<br>
 d. Each Allied Health Professional (AHP) can see no more than 6 patients/clients within 8 hours of operation from 9am-5pm in a single day in a week.
 - Each AHP can provide only 1-to-1 consultation on appointment basis. Group therapy is not allowed.  
 - AH clinics/AHPs with: 
