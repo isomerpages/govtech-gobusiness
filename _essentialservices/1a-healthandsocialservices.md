@@ -35,13 +35,13 @@ permalink: /essentialservices/healthandsocialservices/
 : b. <ins>Operations-related requirements</ins><br>
 * (i) Applicable to those practising in Private AHS Clinics/ Centre-based Services for Individuals with Disabilities, Developmental Needs or Special Educational Needs<br>
 * (ii) Each Allied Health Professional (AHP) can see no more than 6 patients/clients within 8 hours of operation from 9am-5pm in a single day in a week.
-- Each AHP can provide only 1-to-1 consultation on appointment basis. Group therapy is not allowed.  
-- AH clinics/AHPs with: 
-- odd number for the last digit of Unique Entity Number (UEN) can only provide service on Wednesday.
-- even number for the last digit of UEN can only provide service on Monday.
-- Each AHP must adhere to 1 place of practice.
-- Each session should not be longer than 1 hour.
-- AHPs can offer either clinic-based services or Home Therapy (HT), but not a combination of both. 
+  - Each AHP can provide only 1-to-1 consultation on appointment basis. Group therapy is not allowed.  
+  - AH clinics/AHPs with: 
+  - odd number for the last digit of Unique Entity Number (UEN) can only provide service on Wednesday.
+  - even number for the last digit of UEN can only provide service on Monday.
+  - Each AHP must adhere to 1 place of practice.
+  - Each session should not be longer than 1 hour.
+  - AHPs can offer either clinic-based services or Home Therapy (HT), but not a combination of both. 
 
 Applicable to those providing Home Therapy<br>
 e. Each AHP can see no more than 6 patients/clients (i.e. sessions) a week.
