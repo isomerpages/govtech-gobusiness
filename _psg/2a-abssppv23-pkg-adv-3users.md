@@ -1,6 +1,6 @@
 ---
-title: Accounting and Human Resource Management Version 3.0 - Package C (50 Users)
-permalink: /growsj/psg/am-hrms/ahrmv3.0-pkgc-50users/
+title: ABSS Premier Plus Version 23 - Package (Advanced 3 Users)
+permalink: /growsj/psg/am-sms/abssppv23-pkg-adv-3users/
 third_nav_title: Solution listings
 ---
 
@@ -18,7 +18,7 @@ e) must not have:
 
 ### Description
 
-The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
+ABSS premier is a full fledge and integrated accounting, sales, inventory and multiple-currency management solution. The bundled packages support cloud-based access and backup features.
 
 ### Mode of Payment
 Direct Purchase
@@ -34,9 +34,8 @@ Direct Purchase
 <a href="/images/psg-pdf/EPOS-EnhancedPOSVersion2-Package1.pdf" target="_blank">Click here for the PDF copy of the quotation</a>
 
 ### Contact Information
-Net Solutions Pte Ltd <br>
-www.netsolutions.sg <br>
-Email: sales@netsolutions.sg <br>
-Tel: (65) 6475 0319 <br>
+[Jabez Integrated Solutions Pte Ltd](https://www.facebook.com/Jabez-is-Pte-Ltd-110019910337941) <br>
+Email: Eliezerjul14@gmail.com <br>
+Tel: (65) 9838 0221 <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target="_blank" href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>.

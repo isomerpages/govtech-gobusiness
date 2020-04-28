@@ -1,7 +1,7 @@
 ---
 title: Accounting and Human Resource Management Version 3.0 - Package B (20 Users)
 permalink: /growsj/psg/am-hrms/ahrmv3.0-pkgb-20users/
-third_nav_title: AHRM Version 3.0
+third_nav_title: Solution listings
 ---
 
 ### Eligibility Criteria
