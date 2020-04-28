@@ -55,6 +55,12 @@ sections:
         description: 
         button: Check Status of General Exemption Application Here
         url: https://go.gov.sg/exemptionstatus
+    - infobar:
+        title: Status of Application
+        subtitle: 
+        description: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZcqWSGy6l94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        button: Check Status of General Exemption Application Here
+        url: https://go.gov.sg/exemptionstatus
 #    - infobar:
 #        title: Attention
 #        subtitle: 
