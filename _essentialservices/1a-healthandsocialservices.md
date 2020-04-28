@@ -5,30 +5,30 @@ permalink: /essentialservices/healthandsocialservices/
 
 ### **Health and Social Services**
 
-1. Acute hospitals (including offsite specialist clinics and offsite Ambulatory Surgical Centres), community hospitals
+#### 1. Acute hospitals (including offsite specialist clinics and offsite Ambulatory Surgical Centres), community hospitals
 
-2. Primary care services (i.e. polyclinics and private sector primary care services), non-elective and urgent/emergency dental services, renal dialysis centres, TCM (adjuvant therapy for cancer and chronic conditions).
+#### 2. Primary care services (i.e. polyclinics and private sector primary care services), non-elective and urgent/emergency dental services, renal dialysis centres, TCM (adjuvant therapy for cancer and chronic conditions).
 
-3. Community care services 
+#### 3. Community care services 
 : a. This includes nursing homes, psychiatric rehabilitation homes, psychiatric sheltered home, inpatient palliative care
 : b. Home medical services, home nursing, home palliative care, meals on wheels
 : c. For seniors with inadequate family support and intensive custodial care needs: Home personal care and designated senior care centres/psychiatric day centres
 
-4. Community mental health services, senior befriending, counselling and case management services, and alert alarm system/check-ins by Senior Activity Centres are to be delivered remotely
+#### 4. Community mental health services, senior befriending, counselling and case management services, and alert alarm system/check-ins by Senior Activity Centres are to be delivered remotely
 : a. Services to be delivered remotely where possible. For certain blocks where remote monitoring is not possible, staff to continue manning the Alert Alarm System at the Senior Activity Centres.
 
-5. Supporting services (e.g. blood services, laboratories and radiological services, research related to COVID-19, pharmacies, disease surveillance and response services, medical and patient transport, provision of medical items and personal care items)
+#### 5. Supporting services (e.g. blood services, laboratories and radiological services, research related to COVID-19, pharmacies, disease surveillance and response services, medical and patient transport, provision of medical items and personal care items)
 
-6. Essential supply chains (e.g. medical wholesale and distribution, mask, PPE, medical supplies and equipment manufacturers, medical gas supply)
+#### 6. Essential supply chains (e.g. medical wholesale and distribution, mask, PPE, medical supplies and equipment manufacturers, medical gas supply)
 
-7. Selected social services to support vulnerable segments of the population
+#### 7. Selected social services to support vulnerable segments of the population
 : a. This includes residential services for those with no alternative accommodation, community-based intervention for those with no alternative caregiving arrangements, community-based social services for priority cases, and public facing services for priority cases e.g. serious/urgent cases, cases requiring intensive supervision.
 
-8. Selected care services for students such as those in preschools, Student Care Centres and SPED schools (including for children of Essential Services workers)
+#### 8. Selected care services for students such as those in preschools, Student Care Centres and SPED schools (including for children of Essential Services workers)
 : a. Parents may approach their children’s preschools and schools for assistance.
 : b. Priority given to parents in Essential Services like Healthcare.
 
-9. All outpatient non-public health institution (PHI) Allied Health Services (excluding psychology services) to adhere to the following from 29 April 2020 to 17 May 2020:
+#### 9. All outpatient non-public health institution (PHI) Allied Health Services (excluding psychology services) to adhere to the following from 29 April 2020 to 17 May 2020:
 : a. <ins>Profession-related requirements</ins><br>
 * (i) Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
 * (ii) Prioritise face-to-face consultations for patients/clients who require treatment/therapy, which if not provided or performed, would result in significant or rapid deterioration of the patient/client’s condition, and potentially threaten their health and wellbeing.
