@@ -1,7 +1,7 @@
 ---
 title: Grants
 permalink: /growsj/gov-assist/grants/
-third_nav_title: List of assistance
+third_nav_title: Support type
 ---
 
 ## Market Readiness Assistance (MRA) Grant

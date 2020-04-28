@@ -1,7 +1,7 @@
 ---
 title: Loans
 permalink: /growsj/gov-assist/loans/
-third_nav_title: List of assistance
+third_nav_title: Support type
 ---
 
 ## Enterprise Financing Scheme (EFS)

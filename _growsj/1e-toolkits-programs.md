@@ -1,7 +1,7 @@
 ---
 title: Toolkits/Programs
 permalink: /growsj/gov-assist/toolkits-programs/
-third_nav_title: List of assistance
+third_nav_title: Support type
 ---
 
 ## SME Financial Management Toolkit
