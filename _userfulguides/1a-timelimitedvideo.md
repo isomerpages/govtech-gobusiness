@@ -1,5 +1,5 @@
 ---
-title: Time-Limited Exeption Video Guide
+title: Time-Limited Exemption Video Guide
 permalink: /userfulguides/timelimitedexemptionvideo/
 ---
 
