@@ -45,25 +45,25 @@ d. Each Allied Health Professional (AHP) can see no more than 6 patients/clients
 - Each session should not be longer than 1 hour.
 - AHPs can offer either clinic-based services or Home Therapy (HT), but not a combination of both. 
 
-Applicable to those providing Home Therapy<br>
-e. Each AHP can see no more than 6 patients/clients (i.e. sessions) a week.
+e. Applicable to those providing Home Therapy<br>
+f. Each AHP can see no more than 6 patients/clients (i.e. sessions) a week.
 - Each AHP can provide only 1-to-1 consultation on appointment basis. Group therapy is not allowed. 
 - Each session should not be longer than 1 hour.
 - AHPs can offer either clinic-based services or Home Therapy (HT), but not a combination of both. 
 
-Outpatient psychology services to adhere to the following from 29 April 2020 to 17 May 2020:
+Note: Outpatient psychology services to adhere to the following from 29 April 2020 to 17 May 2020:
 
 <ins>Profession-related requirements</ins><br>
-f. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
-g. Prioritise face-to-face consultations for cases where teleconsultation is deemed unsuitable —such as urgent new cases, unstable cases, individuals who are unable to use teleconferencing platforms (e.g. elderly, paediatric, individuals with intellectual disability).
+g. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
+h. Prioritise face-to-face consultations for cases where teleconsultation is deemed unsuitable —such as urgent new cases, unstable cases, individuals who are unable to use teleconferencing platforms (e.g. elderly, paediatric, individuals with intellectual disability).
 
 <ins>Operations-related requirements</ins><br>
-h. Companies with psychologist(s) that have been previously exempted, and individual psychologists registered on Singapore Register of Psychologists (SRP) can provide service for **no more than 4 hours per day, for 5 days a week**.<br>
-i. Psychology services which were previously exempted, where psychologists providing service are not registered on SRP, will need to submit an application to <a href = "mailto: psychologyservices@moh.gov.sg">psychologyservices@moh.gov.sg</a> in order to have the exemption extended until 1 June 2020. Applications will only be taken from 29 April 2020 onwards.<br>
-j. Psychologists who are not registered on the SRP will need to appeal by submitting a request to <a href = "mailto: psychologyservices@moh.gov.sg">psychologyservices@moh.gov.sg</a> to provide service as per the requirements for those who are registered on the SRP (4 hours per day for 5 days a week). This application to provide service should be done as part of a business (psychology service), covering all psychologists providing service under that business. Applications will only be taken from 29 April 2020 onwards.<br>
-k. Psychologists must adhere to only **1 place of practice**.<br>
-l. All psychologists must submit their proposed operating hours prior to starting service provision. Psychology services which had previously been exempted via covid.gobusiness.gov.sg will also need to submit their proposed operating hours. For group services with more than 1 psychologist, the operating hours must be submitted **as a group service**, with all psychologists adhering to the same operating hours. These operating hours must fulfill the criteria above (no more than 4 hours per day, for 5 days per week).<br>
-m. The submission of operating hours should be done through SRP (for individual-practitioner services, or group services where all individual psychologists are SRP-registered psychologists), or submitted on request by MOH for services which were previously exempted, or those services which have appealed via psychologyservices@moh.gov.sg (from 29 April 2020).<br>
+i. Companies with psychologist(s) that have been previously exempted, and individual psychologists registered on Singapore Register of Psychologists (SRP) can provide service for **no more than 4 hours per day, for 5 days a week**.<br>
+j. Psychology services which were previously exempted, where psychologists providing service are not registered on SRP, will need to submit an application to <a href = "mailto: psychologyservices@moh.gov.sg">psychologyservices@moh.gov.sg</a> in order to have the exemption extended until 1 June 2020. Applications will only be taken from 29 April 2020 onwards.<br>
+k. Psychologists who are not registered on the SRP will need to appeal by submitting a request to <a href = "mailto: psychologyservices@moh.gov.sg">psychologyservices@moh.gov.sg</a> to provide service as per the requirements for those who are registered on the SRP (4 hours per day for 5 days a week). This application to provide service should be done as part of a business (psychology service), covering all psychologists providing service under that business. Applications will only be taken from 29 April 2020 onwards.<br>
+l. Psychologists must adhere to only **1 place of practice**.<br>
+m. All psychologists must submit their proposed operating hours prior to starting service provision. Psychology services which had previously been exempted via covid.gobusiness.gov.sg will also need to submit their proposed operating hours. For group services with more than 1 psychologist, the operating hours must be submitted **as a group service**, with all psychologists adhering to the same operating hours. These operating hours must fulfill the criteria above (no more than 4 hours per day, for 5 days per week).<br>
+n. The submission of operating hours should be done through SRP (for individual-practitioner services, or group services where all individual psychologists are SRP-registered psychologists), or submitted on request by MOH for services which were previously exempted, or those services which have appealed via psychologyservices@moh.gov.sg (from 29 April 2020).<br>
 
 Note: Requirements for the period after 17 May 2020 will be updated at a later date.
 
