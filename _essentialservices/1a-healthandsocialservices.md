@@ -51,7 +51,7 @@ k. Psychologists must adhere to only **1 place of practice**.<br>
 l. All psychologists must submit their proposed operating hours prior to starting service provision. Psychology services which had previously been exempted via covid.gobusiness.gov.sg will also need to submit their proposed operating hours. For group services with more than 1 psychologist, the operating hours must be submitted **as a group service**, with all psychologists adhering to the same operating hours. These operating hours must fulfill the criteria above (no more than 4 hours per day, for 5 days per week).<br>
 m. The submission of operating hours should be done through SRP (for individual-practitioner services, or group services where all individual psychologists are SRP-registered psychologists), or submitted on request by MOH for services which were previously exempted, or those services which have appealed via psychologyservices@moh.gov.sg (from 29 April 2020).<br>
 
-**Note: Requirements for the period after 17 May 2020 will be updated at a later date.**
+Note: Requirements for the period after 17 May 2020 will be updated at a later date.
 
 5. Community mental health services, senior befriending, counselling and case management services, and alert alarm system/check-ins by Senior Activity Centres are to be delivered remotely
 : a. Services to be delivered remotely where possible. For certain blocks where remote monitoring is not possible, staff to continue manning the Alert Alarm System at the Senior Activity Centres.
