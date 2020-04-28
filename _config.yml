@@ -9,7 +9,7 @@ collections:
     output: true
   essentialservices:
     output: true
-  userfulguides:
+  guides:
     output: true
   FAQ:
     output: true
