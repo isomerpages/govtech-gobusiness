@@ -11,11 +11,11 @@ The solution is an integrated and cloud based Accounting and Human Resource Mana
 
 The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
-### [Accounting and Human Resource Management Version 3.0 - Package C (50 Users)](/growsj/psg/AMCIMSMS)
+### [Accounting and Human Resource Management Version 3.0 - Package C (50 Users)](/growsj/psg/am-hrms/ahrmv3.0-pkgc-50users/)
 
 The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
-### [Accounting and Human Resource Management Version 3.0 - Package D (Unlimited Users)](/growsj/psg/AMCIMSMS)
+### [Accounting and Human Resource Management Version 3.0 - Package D (Unlimited Users)](/growsj/psg/am-hrms/ahrmv3.0-pkgd-ulusers/)
 
 The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
