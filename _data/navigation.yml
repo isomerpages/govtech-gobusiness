@@ -15,9 +15,9 @@ links:
 #    collection: growsj
 #  - title: List of Essential Services
 #    url: /essentialservices/
-  - title: Useful Guides
-    collection: userfulguides
   - title: FAQ
     collection: FAQ
+  - title: Useful Guides
+    collection: userfulguides
   - title: Contact Us
     url: /contact-us/
