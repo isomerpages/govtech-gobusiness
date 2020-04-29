@@ -28,7 +28,7 @@ Business entities can apply for PSG if they meet the following criteria:
 
 Businesses can choose from a list of pre-scoped solutions. 
 
-Use the navigation menu on the left to select the type of solutions you’re interested to find out about and the respective sector your business belongs to. 
+Use the navigation menu **[Pre-scoped IT Solutions](/growsj/psg/it-agriculture/)** or **[Pre-scoped Equipment](/growsj/psg/eq-agriculture/)** to select the type of solutions you’re interested to find out about and the respective sector your business belongs to. 
 
 *If you’d like to become a pre-qualified vendor for PSG IT solutions, Click <a target="_blank" href="https://www.imda.gov.sg/icmvendors" >here</a> to find out more.*
 
