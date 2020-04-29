@@ -19,6 +19,6 @@ Eligible SMEs will receive the following support:
 
 *Note: The MRA Grant support level of up to 70% will be extended until 31 Mar 2023.*
 
-<sup>*</Sup>*With effect from 1 April 2020, a new market refers to a target overseas country whereby the applicant company has not exceeded S$100,000 in overseas sales in each of the last three preceding years.*
+<sup>**With effect from 1 April 2020, a new market refers to a target overseas country whereby the applicant company has not exceeded S$100,000 in overseas sales in each of the last three preceding years.*
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant" target="_blank">Find out more</a>
