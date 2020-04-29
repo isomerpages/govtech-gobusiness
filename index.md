@@ -4,24 +4,12 @@ title: GoBusiness
 description: For Singapore Businesses
 image: /images/
 permalink: /
-#notification: GoBusiness Govt Assist eAdviser will be launching soon!
 notification: 
 sections:
     - hero:
-#        title: Exemption from Suspension of ActivitiesWatch the video tutorial for "Manpower Submission Form" <a href="https://go.gov.sg/essentialworkersubmission" target="_blank">here</a>
         title: Supporting Our Businesses
-#        subtitle: 
         subtitle: Overcoming Challenges, Emerging Stronger
         background: /images/hero-banner.jpg
-#        dropdown:
-#          title: For your attention,
-#          options:
-#          - title: to check your exemption status.
-#            url: https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory#dabdd1c2-be46-4b02-96bc-3195f5deee7d
-#         - title: know how to sell my products online.
-#            url: https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory#b95deb26-f7db-46f2-b430-3e632ee567c2
-#        url: https://go.gov.sg/exemptionstatus
-#        button: Status of Application For Exemption
         key_highlights:
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
@@ -32,18 +20,10 @@ sections:
         - title: Application for Additional Manpower
           url: https://go.gov.sg/additionalmanpower
           description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br>Click Here
-#        - title: Time-Limited Exemption
-#          url: https://go.gov.sg/timelimitedexemption
-#          description: Application for your workplace to be allowed to have temporary operations. (For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br></br>Click Here
         - title: Manpower Submission Form
           url: https://go.gov.sg/timelimitedexemption
           description: </br>Only for businesses performing essential services and those who have an approval for exemption</br></br></br>Click Here
     - infobar:
-#        title: Time-Limited Exemption <bren edit: 25/4/20>
-#        subtitle: 
-#        description: Application for your workplace to be allowed to have temporary operations.</br>(For companies which provide essential services only)</br>(Each company is limited to not more than 4 applications throughout the circuit-breaker period)</br>(Please submit this form <strong>only one day before</strong> the date which you would like to activate staff to be deployed at your work premises.)
-#        button: Check Here to Apply
-#        url: https://go.gov.sg/exemptionstatus
         title: Time-Limited Exemption
         subtitle: 
         description: Application for your workplace to be allowed to have temporary operations.</br>(For companies which provide essential services only)<br/>Your application will only take effect on the following day after your submission.<br/>You are allowed to submit applications only twice every week (each week starting from Sunday 12:00am to Saturday 11:59pm)
@@ -55,12 +35,6 @@ sections:
         description: 
         button: Check Status of General Exemption Application Here
         url: https://go.gov.sg/exemptionstatus
-#    - infobar:
-#        title: Attention
-#        subtitle: 
-#        description: We will continue to review the manpower strength that your company deploys at the work premises during this period. As you continue to operate your Essential Service, you are required to comply with all applicable laws, including the provisions of the COVID-19 (Temporary Measures) Act.
-#        button:
-#        url:
     - infopic:
         title: News & Advisories
         subtitle: 
@@ -101,22 +75,4 @@ sections:
         url: https://go.gov.sg/bizchatbot
         image: /images/chatbot1.jpg
         alt: Chat for Biz
-#    - infopic:
-#        title: Download the TraceTogether App!
-#        subtitle: Support and Supplement Contact Tracing Efforts
-#        description: Help stop the spread of COVID-19 through community-driven contact tracing. 
-#        button: Click to Download
-#        url: "https://www.tracetogether.gov.sg"
-#        image: /images/TTalt.jpg
-#        alt: TraceTogether Download
-#    - hero:
-#        title: Activities
-#        background: /images/hero-banner.jpg
-#        key_highlights:
-#        - title: General 
-#          url: https://www.google.com.sg/
-#          description: Please submit details.
-#        - title: Time
-#          url: https://www.google.com.sg/
-#          description: Please submit details.
 ---
