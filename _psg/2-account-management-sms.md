@@ -9,7 +9,7 @@ permalink: /growsj/psg/am-sms/
 
 ABSS premier is a full fledge and integrated accounting, sales, inventory and multiple-currency management solution. The bundled packages support cloud-based access and backup features.
 
-### [ABSS Premier Plus Version 23 - Package (Basic 3 Users)](/growsj/psg/AMSMS)
+### [ABSS Premier Plus Version 23 - Package (Basic 3 Users)](/growsj/psg/am-sms/abssppv23-pkg-bsc-3users/)
 
 ABSS premier is a full fledge and integrated accounting, sales, inventory and multiple-currency management solution. The bundled packages support cloud-based access and backup features.
 
