@@ -37,6 +37,6 @@ Direct Purchase
 Net Solutions Pte Ltd <br>
 <https://netsolutions.sg/> <br>
 Email: <sales@netsolutions.sg> <br>
-Tel: (65) 6475 0319 <br>
+Tel: [(65) 6475 0319](+6564750319)<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target="_blank" href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>.
