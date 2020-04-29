@@ -37,6 +37,6 @@ Direct Purchase
 Jabez Integrated Solutions Pte Ltd<br>
 <https://www.facebook.com/Jabez-is-Pte-Ltd-110019910337941><br>
 Email: <Eliezerjul14@gmail.com> <br>
-Tel: [(65) 9838 0221](+6598380221) <br>
+Tel: +65 9838 0221 <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target="_blank" href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>.
