@@ -1,7 +1,7 @@
 ---
 title: ABSS Premier Plus Version 23 - Package (Advanced 3 Users)
 permalink: /growsj/psg/am-sms/abssppv23-pkg-adv-3users/
-third_nav_title: Solution listings
+third_nav_title: AMSMS listings
 ---
 
 ### Eligibility Criteria

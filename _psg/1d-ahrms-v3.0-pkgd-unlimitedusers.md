@@ -1,7 +1,7 @@
 ---
 title: Accounting and Human Resource Management Version 3.0 - Package D (Unlimited Users)
 permalink: /growsj/psg/am-hrms/ahrmv3.0-pkgd-ulusers/
-third_nav_title: Solution listings
+third_nav_title: AMHRMS listings
 ---
 
 ### Eligibility Criteria
