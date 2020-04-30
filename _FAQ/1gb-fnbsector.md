@@ -15,6 +15,8 @@ For a full list of locations of shops operated by fixed or mobile telecom servic
 #### **3. Can I continue to fulfil customers’ online orders (non-food) and send the items ordered via delivery during this period?**
 Retail businesses can continue to sell their products online and provide delivery and installation services to customers. However, they are not permitted to open their physical stores to customers unless they are an essential service. Delivery and installation personnel are required to comply with the health and safe distancing advisories set out be the government.
 
+Please refer to the guidelines for home-based businesses on the <a href="https://go.gov.sg/hdbhomebasedoffice" target="_blank">Housing & Development Board</a> and the <a href="https://go.gov.sg/urahomebasedoffice" target="_blank">Urban Redevelopment Authority</a> websites.
+
 #### **4. I have received the approval to continue my business operations. Does that mean that I can continue to operate all my business functions?**
 No. Retail businesses that have received the approval can continue their trading (B2B) or online sales functions. They must however cease their physical retail shops for B2C sales function, unless their physical B2C sales is clearly stated as an essential service e.g. supermarkets, pharmacies. This means that all other physical retail stores/ department stores must cease operations. B2C sales via online retail can still continue.
 

@@ -16,7 +16,7 @@ If your business does not fall under the latest list of essential services, you 
 ## **<ins>F&B</ins>**
 
 #### **1. My store sells predominantly hot meals (eg. sandwiches) but I also sell desserts. Can I continue to operate?**
-If your shop sells multiple items, we will take into consideration what you predominantly sell. For example, if you predominantly sell hot meals and some selection of desserts, you can continue sales of all the food items that are not within the manufacturing suspended scope.
+If your shop sells multiple items, we will take into consideration what you predominantly sell. For example, if you predominantly sell hot meals and some selection of desserts, you can continue sales of all the food items. However, you should not continue to manufacture items that are listed <a href="https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/apr-2020/fb--annex-2.pdf?la=en" target="_blank">here</a>.
 
 #### **2. Are cafes allowed to continue operations?**
 F&B outlets which provide full meals will be allowed to continue to operate.
@@ -30,19 +30,16 @@ In general, coffee shops, hawker centres and food courts are exempted from suspe
 #### **5. My cake shop is located in the premise of an essential service provider (e.g. Hospital). Am I allowed to continue operations?**
 No. If your shop retails predominantly desserts such as cakes, you will not be allowed to continue operations.
 
-#### **6. Why are food vending machines not allowed to operate in parks?**
-F&B outlets and food vending machines in parks will be suspended to minimise movement and interaction amongst the public. Drinks vending machines in parks will remain operational.
+#### **6. I have been informed that I will need to suspend my F&B operations. Can I still continue operations if we close our shopfront and only accept online orders?**
+You should suspend all operations at the shop front. Online retail of food products, if any, must be fulfilled from licensed central kitchens, manufacturing facilities or warehouses of the F&B establishment (if applicable). The manufacturing facility must not be part of the <a href="https://go.gov.sg/fnbtightenmeansure" target="_blank">list of manufacturing facilities that should be suspended</a>.
 
-#### **7. I have been informed that I will need to suspend my F&B operations. Can I still continue operations if we close our shopfront and only accept online orders?**
-Please note that all operations at the shop front must be suspended. Online retail of these food products, if any, must be fulfilled from the licensed central kitchens, manufacturing facilities or warehouses of the F&B establishment (if applicable). The manufacturing facility must not be part of the list indicated in <a href="https://go.gov.sg/fnbtightenmeansure" target="_blank">Annex 2</a> of the F&B advisory, in line with restrictions to reduce the number of businesses allowed.
-
-#### **8. My application for exemption was earlier approved but my business operations fall under the list of F&B activities that needs to be suspended. Am I still allowed to continue operations?**
+#### **7. My application for exemption was earlier approved but my business operations fall under the list of F&B activities that needs to be suspended. Am I still allowed to continue operations?**
 No, you must suspend your F&B operations as this notice supersedes the exemption approval that you received earlier.
 
-#### **9. Why is it that F&B establishments at parks cannot even operate for takeaway/delivery?**
-This is to minimise movement and interaction amongst the public.  As F&B services in parks are considered less critical consumer services, they will be suspended.
+#### **8. Why are food vending machines not allowed to operate in parks?**
+F&B outlets and food vending machines are closed in line with the guideline to minimise movement and interaction of people. Drinks vending machines in parks remain operational.
 
-#### **10. I have been informed to suspend my business operations, and would like to donate some food supplies, especially perishables. Are there any charities that I can approach?**
+#### **9. I have been informed to suspend my business operations, and would like to donate some food supplies, especially perishables. Are there any charities that I can approach?**
 Please see below the list of food charities that businesses can reach out to:
 
 |Name|Contact Details|Remarks|

@@ -7,6 +7,8 @@ third_nav_title: For Employees/ Manpower Queries
 #### **1. I had obtained an exemption from suspension of business activities to continue operations during the circuit breaker period from the Ministry of Trade and Industry. Would my workers be allowed to leave the dormitories to go to work?**
 No. In view of the COVID-19 transmission risks in dormitories, the restriction on the movement of workers in and out of dormitories applies to workers from all companies who are housed within Purpose Built Dormitories (PBDs), Factory Converted Dormitories (FCDs), Construction Temporary Quarters (CTQs) and Temporary Occupation Licence (TOL) quarters, regardless of whether they are permitted to work during the circuit breaker.
 
+For appeals to BCA for foreign employees to continue to carry out approved essential service work, please click <a href="https://form.gov.sg/#!/5e9aa221d273ec0011e05c97" target="_blank">here</a>.
+
 #### **2. Are my workers allowed to leave the PBDs, FCDs, CTQs or TOL quarters to run essential personal errands?**
 No.  Workers are no longer allowed to move in and out of all dormitories (i.e. PBDs, FCDs, CTQs or TOL quarters). Employers must continue to work with the dormitory operators to ensure the wellbeing of the workers in the dormitories, including taking care of their food and other daily needs.
 

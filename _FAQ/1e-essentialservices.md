@@ -24,8 +24,7 @@ F&B establishments are to open for takeaway and/or delivery only. Outlets which 
 
 Please adhere to the safe distancing measures in the premise. These include minimising crowds by ensuring patrons are spaced at least 1 metre apart at all times (i.e. within the premise and when queuing). 
 
-<ins>Food Retail (e.g. supermarkets, convenience stores, grocery & fruit stores)</ins>
-Outlets that remain open are required to adhere to the safe distancing measures. These include minimising crowds by ensuring patrons are spaced at least 1 metre apart at all times (i.e. within the premise and when queuing).
+Food Retail (e.g. supermarkets, convenience stores) outlets that remain open are required to adhere to the safe distancing measures. These include minimising crowds by ensuring patrons are spaced at least 1 metre apart at all times (i.e. within the premise and when queuing).
 
 #### **4. Where can essential workers (e.g. Grab drivers, bus drivers, workers working in the food and beverage industry) take their meals if they are not near home? Do these individuals have to furnish proof of being an essential worker if questioned by enforcement officers?**
 Employers of such workers have the responsibility to look after the welfare of their workers and provide their workers with a suitable sheltered space within the work place premises to consume meals, such as staff canteens, pantries, or any other rest area. Employers should ensure that their workers observe the following in these spaces:
