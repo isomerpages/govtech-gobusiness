@@ -17,7 +17,7 @@ If you are the owner of the law practice and need to return to your office premi
 
 You may submit a Time-Limited Exemption application one day in advance <a href="https://go.gov.sg/timelimitedexemption" target="_blank">time-limited exemption</a>, and the exemption will be valid for the period requested. Where either an employee or the business owner/employer will be the only person working at your workplace, you may indicate “1” staff.
 
-Where granted such a Time-Limited Exemption, you must ensure that safe distancing measures are strictly adhere to while at the office. Please refer <here> for the guidelines on safe distancing at the office.
+Where granted such a Time-Limited Exemption, you must ensure that safe distancing measures are strictly adhere to while at the office. Please refer <a href="https://www.mom.gov.sg/covid-19/advisory-on-safe-distancing-measures" target="_blank">time-limited exemption</a> for the guidelines on safe distancing at the office.
 
 #### **4. If my law practice provides more than one of the legal activities identified as essential services, do we need to submit separate applications for each activity?**
 Your law practice will only need to submit one application.
