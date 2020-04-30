@@ -15,7 +15,7 @@ If the services that your law practice provides does not fall under one of the f
 #### **3. Our law practice did not apply for a General Exemption as we do not have to be at the office most days. Can we drop into the office just for a while to receive documents, collect mail or to perform maintenance of the facility? Do we need to apply for an exemption? What if we need to go into the office to settle some work matters?**
 If you are the owner of the law practice and need to return to your office premises even for short-term entry, to attend to work matters (except for brief entry for the limited situations illustrated above), you must still apply for a Time-Limited Exemption. Your employees are not permitted to go to your place of business. If you need to activate your employees to work on-site for short periods of time (i.e. less than a day), you need to apply for a time-limited exemption.
 
-You may submit a Time-Limited Exemption application one day in advance <here>, and the exemption will be valid for the period requested. Where either an employee or the business owner/employer will be the only person working at your workplace, you may indicate “1” staff.
+You may submit a Time-Limited Exemption application one day in advance <a href="https://go.gov.sg/timelimitedexemption" target="_blank">time-limited exemption</a>, and the exemption will be valid for the period requested. Where either an employee or the business owner/employer will be the only person working at your workplace, you may indicate “1” staff.
 
 Where granted such a Time-Limited Exemption, you must ensure that safe distancing measures are strictly adhere to while at the office. Please refer <here> for the guidelines on safe distancing at the office.
 
