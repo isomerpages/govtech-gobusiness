@@ -70,7 +70,7 @@ sections:
     - infopic:
         title: Chat for Biz
         subtitle: 
-        description: Chat with our virtual assistant on questions related to COVID-19 outbreak.
+        description: Chat with our virtual assistant on questions related to COVID-19 outbreak. 
         button: Chat Now
         url: https://go.gov.sg/bizchatbot
         image: /images/chatbot1.jpg
