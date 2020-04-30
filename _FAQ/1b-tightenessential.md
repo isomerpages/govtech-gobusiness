@@ -16,7 +16,7 @@ If your business does not fall under the latest list of essential services, you 
 ## **<ins>F&B</ins>**
 
 #### **1. My store sells predominantly hot meals (eg. sandwiches) but I also sell desserts. Can I continue to operate?**
-If your shop sells multiple items, we will take into consideration what you predominantly sell. For example, if you predominantly sell hot meals and some selection of desserts, you can continue sales of all the food items. However, you should not continue to manufacture items that are listed here.
+If your shop sells multiple items, we will take into consideration what you predominantly sell. For example, if you predominantly sell hot meals and some selection of desserts, you can continue sales of all the food items. However, you should not continue to manufacture items that are listed <a href="https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/apr-2020/fb--annex-2.pdf?la=en" target="_blank">here</a>.
 
 #### **2. Are cafes allowed to continue operations?**
 F&B outlets which provide full meals will be allowed to continue to operate.

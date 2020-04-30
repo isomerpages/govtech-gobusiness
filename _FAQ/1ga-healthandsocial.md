@@ -28,7 +28,7 @@ In general, adult vaccinations are considered non-essential and should be deferr
 In general, routine surveillance for chronic diseases and cancer in well individuals is considered non-essential and should be deferred. However, diagnostic work-up for abnormal physical findings and surveillance for patients at higher risk (e.g. patients with strong familial syndromes) may continue if the doctor assesses that it is not in the patient’s best interest for these to be deferred. 
 
 #### **4. Are Allied Health Services allowed to continue operations during the Circuit Breaker period?**
-With the extension of the Circuit Breaker period until 1 June 2020, the Ministry of Health has re-categorised outpatient non-public healthcare institution (PHI) allied health services (AHS) including psychology as “essential services” effective from 29 April onwards. New measures for allowing the provision of non-PHI AHS will be implemented on a systematic and incremental basis. You may refer to the guidelines <a href="https://www.covid.gobusiness.gov.sg/essentialservices/healthandsocialservices/" target="_blank">here</a>.
+With the extension of the Circuit Breaker period until 1 June 2020, the Ministry of Health has re-categorised outpatient non-public healthcare institution (PHI) allied health services (AHS) including psychology as “essential services” effective from 29 April onwards. New measures for allowing the provision of non-PHI AHS will be implemented on a systematic and incremental basis. You may refer to the guidelines <a href="https://govtech-gb-staging.netlify.app/faq/sectorspecific/healthandsocial" target="_blank">here</a>.
 
 These requirements will be reviewed again before 17 May.
 
