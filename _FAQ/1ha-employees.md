@@ -38,9 +38,9 @@ Hiring firms will be required to meet the prevailing criteria under their respec
 For inter-sectoral transfers (earlier than 40 days before work permit expiry), firms can approach SBF at <a href = "mailto: manpowerconnect@sbf.org.sg">manpowerconnect@sbf.org.sg</a> or visit their website for more information. For transfer of WPHs from 40 days before work permit expiry (including inter-sectorial transfers), firms can submit their request via an online form or visit MOM’s website for more information.
 
 #### **8. My business is no longer allowed to operate. Do I still need to pay my workers, or should I let them go on leave?**
-The Jobs Support Scheme announced by the Government on 6 April is meant to support employers to retain and continue to pay their local employees, even during periods of reduction in business activity.
+The Jobs Support Scheme announced by the Government is meant to support employers to retain and continue to pay their local employees, even during periods of reduction in business activity.
 
-The Advisory on salary and leave arrangements can be found on the MOM website at <a href="https://www.mom.gov.sg/covid-19/advisory-on-salary-and-leave" target="_blank">https://www.mom.gov.sg/covid-19/advisory-on-salary-and-leave</a>
+The latest Advisory on salary and leave arrangements can be found on the MOM website at <a href="https://www.mom.gov.sg/covid-19/advisory-on-salary-and-leave" target="_blank">https://www.mom.gov.sg/covid-19/advisory-on-salary-and-leave</a>
 
 #### **9. What can workers of non-essential firms that have not received the approval to continue operations do, if they are told to leave the company due to refusal to report to work?**
 Workers who have been wrongfully dismissed may file a claim against the wrongful dismissal or make a phone advisory appointment with the <a href="https://www.tal.sg/tadm/eServices" target="_blank">Tripartite Alliance for Dispute Management (TADM)</a>.

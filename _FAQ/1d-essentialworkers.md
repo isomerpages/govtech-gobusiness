@@ -60,13 +60,13 @@ Kindly resubmit the NRIC/FIN numbers of **<ins>all</ins>** your essential manpow
 #### **13. I need more essential manpower on site to ensure the continuation of my business activities. What should I do?**
 The cap on the number of essential manpower that you are allowed to have on-site is necessary to minimise the movement of workers to and from work.  We are acutely aware that this will be disruptive for businesses, but it is also essential in the fight against COVID-19. Each and every one of us can, and must, play our part in protecting our people from infection. If you would, nevertheless, like to request for a review of your cap, please click on <a href="https://go.gov.sg/additionalmanpower" target="_blank">Submission of Additional Manpower</a>.
 
-#### **14. My appeal for additional manpower had already been rejected, but I really need more employees/workers on-site. Can I appeal again?**
+#### **14. My appeal for additional manpower has been rejected, but I really need more employees/workers on-site. Can I appeal again?**
 Further appeals will not be considered.
 
 #### **15. Can my company register more essential manpower than the permitted headcount on-site given that we operate on a split team basis?**
 Please click on <a href="https://go.gov.sg/additionalmanpower" target="_blank">Submission of Additional Manpower</a> to request for a review.
 
-#### **16. I am a sole proprietor and have no employees. I had previously received the approval of my exemption request. Must I submit my personal details via the “Manpower Submission” form?**
+#### **16. I am a sole proprietor and have no employees. I had previously received the approval of my exemption request. Do I still need to submit my personal details via the “Manpower Submission” form?**
 Yes. You will still need to submit your details via the form when you receive the notification email to do so.
 
 #### **17. I run an Employment Agency. Would it be my responsibility to register my employees’ details or should companies that hire these contract workers be responsible?**

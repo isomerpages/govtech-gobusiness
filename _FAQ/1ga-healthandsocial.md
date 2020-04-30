@@ -27,8 +27,10 @@ In general, adult vaccinations are considered non-essential and should be deferr
 **c) Routine surveillance for chronic disease and cancer screening**
 In general, routine surveillance for chronic diseases and cancer in well individuals is considered non-essential and should be deferred. However, diagnostic work-up for abnormal physical findings and surveillance for patients at higher risk (e.g. patients with strong familial syndromes) may continue if the doctor assesses that it is not in the patient’s best interest for these to be deferred. 
 
-#### **4. Is it compulsory to suspend the provision of ancillary services during this circuit breaker period?**
-To reduce patient movement and reinforce efforts on tightening disease spread, ancillary/nursing and allied health services such as diabetic eye and foot screening, dietetics, counselling, social work, psychologist and podiatry services should be discontinued unless they can be done remotely or through tele-consultation. Ancillary services should only be for cases assessed to have urgent needs (e.g. severely depressed patients needing psychologist service).
+#### **4. Are Allied Health Services allowed to continue operations during the Circuit Breaker period?**
+With the extension of the Circuit Breaker period until 1 June 2020, the Ministry of Health has re-categorised outpatient non-public healthcare institution (PHI) allied health services (AHS) including psychology as “essential services” effective from 29 April onwards. New measures for allowing the provision of non-PHI AHS will be implemented on a systematic and incremental basis. You may refer to the guidelines <a href="ttps://www.covid.gobusiness.gov.sg/essentialservices/healthandsocialservices/" target="_blank">here</a>.
+
+These requirements will be reviewed again before 17 May.
 
 #### **5. Should group practices/Primary Care Networks (PCNs) suspend services for support staff (e.g. human resource, IT, logistics, finance)?**
 Support services which ensure the provision of essential services at GP clinics will be allowed to continue. Please minimise the number of staff based on-site. If employees can perform their work by telecommuting from home, employers must ensure that they do so. Tele-conferencing should be used in place of physical meetings wherever possible.

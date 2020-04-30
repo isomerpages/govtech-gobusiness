@@ -18,7 +18,10 @@ For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>apply
 
 For Companies that are applying for exemption for a limited-period of time, please click on TIME-LIMITED EXEMPTION (TLE). With effect from 26 April 2020, you will be allowed to submit up to 2 TLE applications each week[^1]. This is regardless of the number of applications that you/your company had submitted prior to 26 Apr 2020.
 
-Please submit your application one day before the on-site deployment of your staff. 
+Please submit your application one day before the on-site deployment of your staff.
+Please note that the total number of employees activated should not exceed 10, or 25% of the total number of employees in your company, whichever is lower.
+
+To find out how to apply for a Time-Limited Exemption, watch the <a href="https://go.gov.sg/timelimitedexemp" target="_blank">video</a>.
 
 #### **4. What should I do if I have not received an exemption? Am I allowed to continue operations?**
 Please suspend your business operations until you have received the official email notification of approval.
