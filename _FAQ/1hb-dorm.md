@@ -106,6 +106,7 @@ You shall also ensure that all necessary arrangements for the foreign employeesâ
 Employers are required to ensure sufficient food and other daily essentials are provided to their foreign employees during the SHN period.
 
 Employers can do so through various options:
+
 (i) For foreign employees staying in factory-converted dormitories, construction living quarters and temporary living quarters:
     - Arrange for delivery of catered meals as they should not cook at the communal cooking facilities to minimise the risk of transmission.
 
@@ -150,6 +151,3 @@ When moving house, your foreign employees are required to wear a mask at all tim
 
 #### **28. Can I relocate my employee to another housing, as he is staying in a residence with many other foreign employees?**
 Employers are not permitted to move their foreign employees to another residence unless the Ministry of Manpower instructs you to do so. This is effective as of 18 April 2020, the date of the advisory release.
-
-#### **1. sample**
-Sample
