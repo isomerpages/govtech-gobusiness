@@ -37,7 +37,7 @@ If you have applied for a general exemption, there will not be an exemption star
 You may only register your essential manpower after your company exemption is approved. Please check your application status at <a href="https://go.gov.sg/exemptionstatus" target="_blank">here</a>. 
 
 #### **8. I have problems adding in more essential manpower details to my application. Why is it so?**
-Each business is allotted a specific manpower quota. You will not be able to add more essential employees to your application once you have reached the allotted quota. The cap on the number of employees that you are allowed to have on-site is necessary to minimise the movement of workers to and from work.  We are acutely aware that this will be disruptive for businesses, but it is also essential in the fight against COVID-19.
+Each business is allotted a specific manpower quota. You will not be able to add more employees to your application once you have reached the allotted quota. The cap on the number of employees that you are allowed to have on-site is necessary to minimise the movement of workers to and from work.  We are acutely aware that this will be disruptive for businesses, but it is also essential in the fight against COVID-19.
 
 #### **9. What happens after I have submitted the details of my essential manpower?**
 An acknowledgement email will be sent to your email address to inform you that we have received a record of the details of your essential manpower.
