@@ -41,7 +41,7 @@ Unlike most individuals who serve their SHN in isolation, the construction work 
 No re-application is needed. Employers, whose foreign employees have been approved by BCA to carry out essential services during the SHN, may continue these works until the end of the extended SHN period (i.e. this will supersede the project end date indicated), **unless** they receive an email notification informing them that their approvals have been terminated by BCA. 
 
 #### **11. I have been informed by BCA that my approval for SHN exemption is terminated. How do I appeal?**
-Please submit your appeal via this link (https://go.gov.sg/appeal-BCA-continue-works). New appeals will continue to be subject to BCA’s approval on a case-by-case basis.
+Please submit your appeal via this link <a href="https://go.gov.sg/appeal-bca-continue-works" target="_blank">https://go.gov.sg/appeal-bca-continue-works</a>. New appeals will continue to be subject to BCA’s approval on a case-by-case basis.
 
 ## **Issues related to Employment, Salary and Support**
 
