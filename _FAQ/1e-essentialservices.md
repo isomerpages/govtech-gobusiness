@@ -27,7 +27,7 @@ Please adhere to the safe distancing measures in the premise. These include mini
 Food Retail (e.g. supermarkets, convenience stores) outlets that remain open are required to adhere to the safe distancing measures. These include minimising crowds by ensuring patrons are spaced at least 1 metre apart at all times (i.e. within the premise and when queuing).
 
 #### **4. Where can essential employees (e.g. Grab drivers, bus drivers, or those working in the food and beverage industry) take their meals if they are not near home? Do these individuals have to furnish proof of being an essential worker if questioned by enforcement officers?**
-Employers of such workers have the responsibility to look after the welfare of their employees and provide their employees with a suitable sheltered space within the work place premises to consume meals, such as staff canteens, pantries, or any other rest area. Employers should ensure that their employees observe the following in these spaces:
+Employers of such workers have the responsibility to look after the welfare of their employees and provide them with a suitable sheltered space within the work place premises to consume meals, such as staff canteens, pantries, or any other rest area. Employers should ensure that their employees observe the following in these spaces:
 1. Employees should dine alone and keep a distance of at least one metre from another individual;
 2. Staggered meal times to reduce the interactions between their employees and prevent congregation; and
 3. Employees should dine quickly and leave the space in a clean state after they have consumed their meals.
