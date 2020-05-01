@@ -5,7 +5,7 @@ third_nav_title: For Employees/ Manpower Queries
 ---
 
 #### **1. Which groups of foreign employees are covered under this policy?**
-This policy applies to foreign employees in the construction sector only (WP holders, S Pass holders and Dependent Pass holders tagged to S Pass only) who are residing in a Specified Place of Accomodation, except any dormitory gazetted as an “isolation area”, or any dormitory licensed under the Foreign Employee Dormitories Act 2015.
+This policy applies to foreign employees in the construction sector only (WP holders, S Pass holders and Dependent Pass holders tagged to S Pass only) who are residing in a Specified Place of Accommodation, except any dormitory gazetted as an “isolation area”, or any dormitory licensed under the Foreign Employee Dormitories Act 2015.
 
 #### **2. How do I check if this Stay Home Notice applies to my company and/or to my foreign employees?**
 Employers can check whether the Stay Home Notice (SHN) applies to their company and their foreign employees by logging on to <a href="https://www.mom.gov.sg/eservices/services/wp-online-for-businesses-and-employment-agencies" target="_blank">Work Permit (Online)</a> to see if they have received a SHN notification.
