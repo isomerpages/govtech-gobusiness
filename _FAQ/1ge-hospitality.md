@@ -10,4 +10,4 @@ Licensed hotels, serviced apartments, dormitories and hostels are considered ess
 Hotels providing the abovementioned services must close all on-site recreational facilities, while their F&B facilities may remain open for takeaway or delivery only. They must also minimise the number of on-site staffing and all hotel staff who can perform their roles remotely (e.g., finance, HR) must telecommute.
 
 #### **2. I have received queries from employees in the healthcare sector who wish to make reservations to stay at my hotel as it is nearer to their workplace. Can I accept these bookings?**
-We should support those on the frontline workers in their work. Hotels can take in such bookings but should verify that the person is an employee in the healthcare sector by verifying their staff pass.
+We should support those on the frontline employees in their work. Hotels can take in such bookings but should verify that the person is an employee in the healthcare sector by verifying their staff pass.
