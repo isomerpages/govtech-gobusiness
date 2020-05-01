@@ -5,7 +5,7 @@ third_nav_title: For Sector-Specific Queries
 ---
 
 #### **1. What kind of vehicle/ motor services are allowed during the circuit breaker period?**
-Vehicle workshops that provide vehicle recovery and repair services for emergency cases will be allowed to continue operating. This is necessary to ensure that essential firms and workers in essential services who rely on their vehicles for transport and delivery are able to have their vehicles recovered and repaired in the event of a breakdown, accident or other emergency. Vehicle workshops that continue to operate should submit details on their operations and manpower requirements at <a href="https://covid.gobusiness.gov.sg" target="_blank">https://covid.gobusiness.gov.sg</a> as soon as possible for review.
+Vehicle workshops that provide vehicle recovery and repair services for emergency cases will be allowed to continue operating. This is necessary to ensure that essential firms and employees who rely on their vehicles for transport and delivery are able to have their vehicles recovered and repaired in the event of a breakdown, accident or other emergency. Vehicle workshops that continue to operate should submit details on their operations and manpower requirements at <a href="https://covid.gobusiness.gov.sg" target="_blank">https://covid.gobusiness.gov.sg</a> as soon as possible for review.
 
 Vehicle workshops are not permitted to provide regular servicing and cosmetic-related repairs that are not emergency vehicle services.
 
