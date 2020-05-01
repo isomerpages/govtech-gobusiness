@@ -108,11 +108,11 @@ Employers are required to ensure sufficient food and other daily essentials are 
 Employers can do so through various options:
 
 (i) For foreign employees staying in factory-converted dormitories, construction living quarters and temporary living quarters:
-    - Arrange for delivery of catered meals as they should not cook at the communal cooking facilities to minimise the risk of transmission.
+- Arrange for delivery of catered meals as they should not cook at the communal cooking facilities to minimise the risk of transmission.
 
 (ii) For foreign employees staying HDB flats and private residential properties:
-    - Ask the employees to order in groceries for cooking or catered meals
-    - Arrange for delivery of groceries for cooking or catered meals
+- Ask the employees to order in groceries for cooking or catered meals
+- Arrange for delivery of groceries for cooking or catered meals
 
 Employers may choose to reimburse their employees for the cost of food/groceries provided or work out a mutual agreement on how the cost will be borne between the employer and employee.
 
