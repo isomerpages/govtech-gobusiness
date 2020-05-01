@@ -55,7 +55,7 @@ The new measures include:
 - The JSS payout will be extended to cover wages of employees of a company who are also shareholders and directors of the company.
   
 **<ins>(ii) Foreign Worker Levy (FWL)</ins>**
-- Government will extend the FWL waiver and FWL rebate by one month to cover May 2020, to ease labour costs of firms that employ foreign workers in this period. 
+- Government will extend the FWL waiver and FWL rebate by one month to cover May 2020, to ease labour costs of firms that employ foreign employees in this period. 
 
 **<ins>(iii) Previously announced support and relief measures will continue to apply</ins>**
 - Self-Employed Persons (SEPS) with less means and family support will receive the Government’s assistance through the SEP Income Relief Scheme (SIRS) until December 2020.

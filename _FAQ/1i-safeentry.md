@@ -12,9 +12,9 @@ SafeEntry is used for data collection and verification through (1) scanning of Q
 SafeEntry via scanning of QR codes may be deployed at both hotspots and workplaces providing essential services. The full list can be found at <a href="https://covid.gobusiness.gov.sg/essentialservices" target="_blank">here</a>.
 
 #### **3. Who needs to use SafeEntry?**
-For businesses: All workplaces with workers that are permitted to work during the Circuit Breaker period are required to log their entry and exit information. Businesses are encouraged to use SafeEntry, or any similar solution provided by the workplace that can support contact tracing. When requested, the data must be provided to MOH to expeditiously support contact tracing.
+For businesses: All workplaces with employees that are permitted to work during the Circuit Breaker period are required to log their entry and exit information. Businesses are encouraged to use SafeEntry, or any similar solution provided by the workplace that can support contact tracing. When requested, the data must be provided to MOH to expeditiously support contact tracing.
 
-For individuals: People visiting identified hotspots, and workers who are permitted to work during the circuit breaker period, will be required to log their entry and exit information.
+For individuals: People visiting identified hotspots, and employees who are permitted to work during the circuit breaker period, will be required to log their entry and exit information.
 
 #### **4. Why should we use SafeEntry?**
 SafeEntry will support and augment existing contact tracing efforts. It enables the Government to have a record of individuals who enter specific locations where a large number of people tend to gather. This will help facilitate contact tracing should the need arise.
@@ -44,5 +44,5 @@ The solution should be able to track and provide the following in csv format:
 No. The QR code or system link is unique for each on-boarded business and venue. It should not be shared.
 
 Venues with multiple tenants could implement SafeEntry via two ways:
-- A single QR code with a selection of tenants. Visitors/ Workers will be able to select which tenant he/she is visiting. He/She will only need to check-in once. Building owners who would like to make use of the above option should write to <a href = "mailto: travelandhealth@myinfo.gov.sg">travelandhealth@myinfo.gov.sg</a>.
-- Separate QR codes for each tenant. Visitors/Workers will need to scan multiple times if he/she is visiting multiple tenants.
+- A single QR code with a selection of tenants. Visitors/ Employees will be able to select which tenant he/she is visiting. He/She will only need to check-in once. Building owners who would like to make use of the above option should write to <a href = "mailto: travelandhealth@myinfo.gov.sg">travelandhealth@myinfo.gov.sg</a>.
+- Separate QR codes for each tenant. Visitors/Employees will need to scan multiple times if he/she is visiting multiple tenants.

@@ -5,7 +5,7 @@ third_nav_title: For Sector-Specific Queries
 ---
 
 #### **1. Can food handlers at coffee shops sit at the coffee shop to eat? How about staff at F&B outlets?**
-Workers of essential services including food handlers at coffee shops are allowed to dine-in at their work places. However, employers should ensure that they observe strict safe distancing measures and limit the number of staff dining together at any one point of time. Employers should also cordon off specific spaces for staff dining. Customers are not allowed to dine at the coffee shop.
+Employees including food handlers at coffee shops are allowed to dine-in at their work places. However, employers should ensure that they observe strict safe distancing measures and limit the number of staff dining together at any one point of time. Employers should also cordon off specific spaces for staff dining. Customers are not allowed to dine at the coffee shop.
 
 #### **2. Are ICT retailers allowed to continue operations? And will shops like Challenger, Harvey Norman, that also provide repair services, be opened?**
 The physical sales of ICT products and services must cease. Only i) authorised service centres or shops providing predominantly repair services, such as the repair of ICT electronics, or ii) shops operated by fixed or mobile telecom service providers for essential services, such as telecom and broadband subscription service plan signups, are allowed to continue operations.
