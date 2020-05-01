@@ -25,7 +25,7 @@ No. After these employees have completed their Quarantine Order during the SHN p
 MOM is implementing this requirement on all foreign employees in the construction sector, as the highest number of infected cases have come from this sector, and worksite transmissions have been a contributing factor. The SHN will help prevent further transmission of the virus between foreign employees in this sector, across all housing types.
 
 #### **7. Why is the SHN not imposed on employment pass holders from the construction sector?**
-Employment pass (EP) holders are generally less exposed to the worksites and live in non-communal permises.
+Employment pass (EP) holders are generally less exposed to the worksites and live in non-communal premises.
 
 #### **8. How long is the SHN period for this policy?**
 The SHN period for these foreign employees is 20 April 2020, 0000hrs to 18 May 2020, 2359hrs.
