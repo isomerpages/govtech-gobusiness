@@ -16,4 +16,4 @@ permalink: /essentialservices/food/
 
 With effect from 12 May:
 - Food Manufacturing and on-site preparation of all food is allowed.
-- Retail outlets of food, including cakes and confectionery, packaged snacks and deserts may be opened for takeaway and delivery only.
+- Retail outlets of food, including cakes and confectionery, packaged snacks and desserts may be opened for takeaway and delivery only.
