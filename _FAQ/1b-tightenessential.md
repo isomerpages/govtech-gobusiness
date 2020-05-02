@@ -124,4 +124,4 @@ Online retail and delivery may continue if you are a formal registered business 
 
 
 ___
-[^1]: For more information on SafeEntry, please go to <a href="www.go.gov.sg/safeentry" target="_blank">www.go.gov.sg/safeentry</a>
+[^1]: For more information on SafeEntry, please go to <a href="https://www.go.gov.sg/safeentry" target="_blank">www.go.gov.sg/safeentry</a>
