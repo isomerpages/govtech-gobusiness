@@ -41,3 +41,8 @@ permalink: /essentialservices/others/
 14. Unions
 
 15. All other critical and ancillary services contracted by the Government for the provision of supporting Government functions or for the above-mentioned Essential Services.
+
+With effect from 12 May:
+- Hairdressers and barbers for basic haircut services only
+- Retail laundry services
+- Retail pet food and supplies
