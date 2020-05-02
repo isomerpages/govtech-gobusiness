@@ -13,3 +13,7 @@ permalink: /essentialservices/food/
 6. Food packaging and printing service providers
 7. Laboratory food safety testing and its supporting services
 8. Activities pertaining to extension of shelf-life (e.g. retort manufacturing) or manufacturing of ready-to-eat meals
+
+With effect from 12 May:
+- Food Manufacturing and on-site preparation of all food is allowed.
+- Retail outlets of food, including cakes and confectionery, packaged snacks and deserts may be opened for takeaway and delivery only.
