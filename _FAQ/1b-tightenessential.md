@@ -4,7 +4,7 @@ permalink: /faq/tightenessential
 ---
 
 #### **1. How do I know if my company is included in the list of selected F&B and retail outlets that will be allowed to resume operations?**
-You may refer to the latest F&B and retails advisories <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/may-2020/updated-safe-distancing-measures-for-retail-establishments" target="_blank">here</a>.
+You may refer to the latest <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/may-2020/updated-safe-distancing-measures-for-food-and-beverage-establishments" target="_blank">F&B</a> and <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/may-2020/updated-safe-distancing-measures-for-retail-establishments" target="_blank">Retail</a> advisories here.
 
 #### **2. When can certain F&B and retail outlets resume operations?**
 With effect from 12 May 2020, selected F&B and retail outlets will be allowed to resume operations.
@@ -30,7 +30,7 @@ We will continue to monitor the situation and review where necessary.
 #### **3. I have been informed that my F&B operations must remain suspended. Can I still continue operations if we close our shopfront and only accept online orders?**
 You should suspend all operations at the shop front. Online retail of food products, if any, must be fulfilled from licensed central kitchens, manufacturing facilities or warehouses of the F&B establishment (if applicable).
 
-#### **4. Why is it that F&B establishments at parks cannot even operate for takeaway/delivery?**
+#### **4. Why is it that F&B establishments at parks cannot operate for takeaway/delivery?**
 This is to minimise movement and interaction amongst the public.  As F&B services in parks are considered less critical consumer services, they will be suspended.
 
 #### **5. Why are food vending machines not allowed to operate in parks?**

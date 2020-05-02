@@ -78,8 +78,5 @@ It is mandatory to provide all the fields (name, NRIC number and mobile number).
 #### **17. Does the Government have access to the data? What will the data be used for?**
 Contact data collected via SafeEntry is stored in the Government server, which will only be accessed by authorised public officers involved in contact tracing, should the need arise.  The data may also be de-identified and aggregated for analytics purposes.
 
-#### **18. How will my data be protected?**
-Stringent measures are in place to safeguard the data in accordance with the Government’s data security standards. All data is encrypted, and the data can only be accessed by authorised personnel for contact tracing purposes. The data will be purged when it is no longer needed for contact tracing purposes. Under the Public Sector Governance Act, public officers who recklessly or intentionally disclose the data without authorisation, misuse the data for a gain, or reidentify anonymised data may be found guilty of an offence and may be subject to a fine of up to $5,000 or imprisonment of up to 2 years, or both.
-
-#### **19. Can I request for my data to be deleted after it has been uploaded?**
+#### **18. Can I request for my data to be deleted after it has been uploaded?**
 Your contact data will not be deleted as it has to be kept for the purpose of contact tracing. The data will be purged when it is no longer needed for contact tracing purposes.
