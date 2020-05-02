@@ -47,7 +47,7 @@ For applicants with a CorpPass account, kindly login <a href="https://go.gov.sg/
 All manpower submissions must be submitted by 8pm one day before the workers are deployed for work. Employers will receive an email sent by the Ministry of Manpower, on behalf of the Ministry of Trade and Industry, to inform them of the specific manpower who have been granted permission to work on site.
 
 #### **12. What do employers need to do when they receive the approval?**
-Employers should inform their workers to check for approval by using the <SGWorkPass> app to scan the barcode on their NRIC/ICA Pass card, or the QR code of their work pass card. More information on the app can be found on the <MOM website>.
+Employers should inform their workers to check for approval by using the <a href="https://www.mom.gov.sg/eservices/sgworkpass" target="_blank">SGWorkPass</a> app to scan the barcode on their NRIC/ICA Pass card, or the QR code of their work pass card. More information on the app can be found on the <a href="https://www.mom.gov.sg/eservices/sgworkpass" target="_blank">MOM website</a>.
 
 Employers should also remind their employees/workers to carry their identification documents (NRIC, ICA or MOM-issued pass card) at all times to facilitate verification checks by relevant Government authorities.
 
