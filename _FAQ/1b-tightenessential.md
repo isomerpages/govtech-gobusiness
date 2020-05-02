@@ -1,10 +1,10 @@
 ---
-title: Tightening of Essential Services
+title: Resumption of Selected F&B and Retail Operations
 permalink: /faq/tightenessential
 ---
 
-#### **1. How do I know if I am affected by the new measures to suspend certain F&B and retail operations?**
-If you have previously been issued an approval to operate during the circuit breaker and you conduct one of the activities that must now be suspended, MTI will send you an email to rescind the previous approval. For further details, please click <a href="https://go.gov.sg/tightenmeansure" target="_blank">here</a>.
+#### **1. How do I know if my company is included in the list of selected F&B and retail outlets that will be allowed to resume operations?**
+You may refer to the latest F&B and retails advisories here.
 
 #### **2. When will the suspension of certain F&B and retail outlets take effect? How long will it last?**
 The suspension of on-site operations of specialised stores and outlets retailing predominantly beverages, packaged snacks and desserts, F&B outlets in parks and certain retail outlets will take effect 24 hours after you have received the notification from MTI to wind down business operations completely. These tighter measures will be in place minimally for a two-week period from 21 April 2020 until 4 May 2020 (inclusive). The Multi-Ministry Taskforce will monitor the situation closely and determine when it is appropriate to ease some of the measures.

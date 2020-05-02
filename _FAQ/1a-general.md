@@ -6,6 +6,8 @@ permalink: /faq/general
 #### **1. My company has received an exemption approval from MTI. With the extension of the Circuit Breaker till 1 June, will the exemption approval be valid till then?**
 Yes. With the extension of the circuit breaker period until 1 June 2020 (inclusive), businesses which had earlier received approvals from MTI to operate during the original Circuit Breaker period from 7 April 2020 to 4 May 2020 can continue doing so throughout the circuit breaker period.
 
+However, businesses which have their exemption rescinded, must suspend operations immediately.
+
 #### **2. How do I know if my business is an ‘Essential’ or ‘Non-Essential’ Service?**
 You may refer to the list of Essential Services. 
 
