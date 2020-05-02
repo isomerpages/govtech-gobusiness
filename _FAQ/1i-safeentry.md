@@ -35,7 +35,7 @@ Businesses are required to use SafeEntry to collect entry and exit information o
 Businesses that do not comply with the requirement to use SafeEntry will be subject to the penalties stipulated under the Covid-19 (Temporary Measures) Act.
 
 #### **8. How can entities that do not have a CorpPass account (e.g. VWOs) sign up for SafeEntry?**
-Businesses can visit safeentry.gov.sg to sign up for SafeEntry.
+Businesses can visit <a href="https://www.go.gov.sg/safeentry" target="_blank">www.go.gov.sg/safeentry</a> to sign up for SafeEntry.
 
 For SafeEntry NRIC, businesses do not need to have a CorpPass account to sign up. They are only required to submit the onboarding application form.
 
