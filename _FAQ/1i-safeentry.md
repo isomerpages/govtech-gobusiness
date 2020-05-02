@@ -39,7 +39,7 @@ Businesses can visit <a href="https://www.go.gov.sg/safeentry" target="_blank">w
 
 For SafeEntry NRIC, businesses do not need to have a CorpPass account to sign up. They are only required to submit the onboarding application form.
 
-For SafeEntry QR, entities without a CorpPass account should have their parent organisation register on their behalf. If this arrangement is not possible, please contact GovTech's helpdesk for assistance.
+For SafeEntry QR, entities without a CorpPass account should have their parent organisation register on their behalf.
 
 #### **9. What is the cost implication or manpower effort needed to run this service?**
 This is a free-for-use service.
@@ -50,6 +50,8 @@ For SafeEntry NRIC, businesses are required to staff the entry points and provid
 
 #### **10. Are shops within malls expected to implement SafeEntry if the mall entrance already has a SafeEntry check-in point?**
 Yes, shops and offices within malls must implement SafeEntry for their employees. In addition, certain shops e.g. supermarkets, must also implement SafeEntry for visitors.
+
+This must be done by 12 May.
 
 #### **11. Which SafeEntry mode should my business opt for – QR or NRIC?**
 SafeEntry NRIC is recommended for high-traffic venues. It is also recommended if the visitors comprise a significant number of people who may not be digitally-savvy, do not have newer phone models and data connectivity. In this mode, dedicated staff are also required to perform NRIC scanning.
