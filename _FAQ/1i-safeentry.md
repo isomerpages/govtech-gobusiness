@@ -3,43 +3,41 @@ title: SafeEntry
 permalink: /faq/safeentry
 ---
 
-#### **1. What is SafeEntry?**
+#### **1. Is it compulsory for all businesses to sign up for this service?**
+From 12 May onwards, businesses are required to use SafeEntry to collect entry and exit information of workers and visitors on their premises for as long as it is required by law during the period of COVID-19.
+
+Businesses that do not comply with the requirements to use SafeEntry will be subject to the penalties stipulated under the COVID-19 (Temporary Measures) Act.
+
+#### **2. If businesses already have (other) systems in place to log entry and exit information, how will they be able to show that their systems are robust enough?**
+The use of SafeEntry will be made mandatory from 12 May 2020 onwards. SafeEntry allows for the automated routing of entry and exit lo data to the relevant authorities. A common system used by all establishments will allow data to be made available to MOH quickly so as to facilitate contact tracing.
+
+#### **3. What is SafeEntry?**
 It is a national digital check-in system that logs the personal particulars of individuals (name, NRIC/FIN number and mobile number) visiting hotspots, workplaces and public venues such as malls and supermarkets. SafeEntry will facilitate contact tracing efforts.
 
 SafeEntry is used for data collection and verification through (1) scanning of QR codes, or (2) scanning of NRIC/FINs.
 
 It was first deployed at certain hotspots, workplaces of essential services, as well as selected public venues.
 
-#### **2. Why is SafeEntry being expanded to more locations?**
+#### **4. Why is SafeEntry being expanded to more locations?**
 SafeEntry will support contact tracing efforts as it provides authorities with a record of individuals who enter and exit venues. The records will reduce the time needed to identify potential close contacts of COVID-19 patients. As we move towards relaxing the circuit breaker measures, it is even more critical that contact tracing be done well to mitigate the risk of new waves of infection. This is important so that we can continue advancing towards fewer restrictions on our movements, and our daily lives.
 
-#### **3. How will SafeEntry affect businesses and individuals?**
+#### **5. How will SafeEntry affect businesses and individuals?**
 **For businesses:** SafeEntry should be deployed in venues that are operating, which have a higher risk of non-transient contact, e.g. offices, factories, malls, supermarkets. This will help to log the information of individuals entering and exiting the venue.
 
 **For individuals:** People visiting venues are required to provide the necessary information either through the scanning of QR code or NRIC/FIN at the entry/exit points of venues. Other accepted cards include Driving License, PAssion Card, TransitLink Concession Card and MOM-issued Visit Pass/Work Permit.
 
-#### **4. If businesses already have (other) systems in place to log entry and exit information, how will they be able to show that their systems are robust enough?**
-The use of SafeEntry is mandatory because a common system used by all establishments would allow data to be made available to MOH quickly, so as to facilitate contact tracing. SafeEntry allows the data of visitors and employee data to be sent the authorities in an automated manner.
-
-Businesses that need to retain the use of their current system for the collection of data that are not required in the SafeEntry system (e.g. purpose of visit, employee's ID number) are required to implement SafeEntry on top of their existing system.
-
-#### **5. What information is collected?**
+#### **6. What information is collected?**
 The individual’s name, NRIC/FIN number and mobile number are collected, and will only be used for the purpose of contact tracing.
 
-#### **6. How can a business owner sign up for this service?**
+#### **7. How can a business owner sign up for this service?**
 Businesses can visit safeentry.gov.sg to sign up for this service.
-
-#### **7. Is it compulsory for all businesses to sign up for this service?**
-Businesses are required to use SafeEntry to collect entry and exit information of workers and visitors on their premises for as long as it is required by law during the period of COVID-19.
-
-Businesses that do not comply with the requirement to use SafeEntry will be subject to the penalties stipulated under the Covid-19 (Temporary Measures) Act.
 
 #### **8. How can entities that do not have a CorpPass account (e.g. VWOs) sign up for SafeEntry?**
 Businesses can visit <a href="https://www.go.gov.sg/safeentry" target="_blank">www.go.gov.sg/safeentry</a> to sign up for SafeEntry.
 
 For SafeEntry NRIC, businesses do not need to have a CorpPass account to sign up. They are only required to submit the onboarding application form.
 
-For SafeEntry QR, entities without a CorpPass account should have their parent organisation register on their behalf. If this arrangement is not possible, please contact our helpdesk for assistance.
+For SafeEntry QR, entities without a CorpPass account should have their parent organisation register on their behalf. If this arrangement is not possible, please contact GovTech's helpdesk for assistance.
 
 #### **9. What is the cost implication or manpower effort needed to run this service?**
 This is a free-for-use service.
@@ -59,7 +57,7 @@ For venues that have lower traffic, SafeEntry QR may be more suitable.
 Businesses may choose to provide both SafeEntry modes where resources allow, in order to cater to visitors who do not have a mobile phone and/or their NRIC with them.
 
 #### **12. I am already using an existing visitor management system. Is it possible to integrate this with SafeEntry?**
-We are not able to support integrations of other systems with SafeEntry at the moment.
+SafeEntry is not able to support integrations with other systems at the moment.
 
 #### **13. Can the business modify the form or add additional information?**
 No.
