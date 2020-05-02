@@ -19,7 +19,7 @@ Yes, employers who fail to meet the medical insurance requirement for their fore
 #### **5. What will happen to my foreign employees since I am not allowed to operate during this period? Can I repatriate my employees since I cannot operate now?**
 Instead of repatriation or retrenchment, we urge employers to first consider cost-saving measures to manage excess manpower. E.g. look at training, redeployment, reasonable adjustment of salaries etc. Please take note of MOM’s guidelines on cost saving measures and retrenchment: [https://www.mom.gov.sg/employment-practices/retrenchment](https://www.mom.gov.sg/employment-practices/retrenchment){:target="_blank"}
 
-If it is assessed that the foreigner employees are still not needed, employers may give consent for them to be transferred to other employers facing manpower shortages. Employers can approach SBF at <a href = "mailto: manpowerconnect@sbf.org.sg">manpowerconnect@sbf.org.sg</a> or visit SBF's website.
+If it is assessed that the foreign employees are still not needed, employers may give consent for them to be transferred to other employers facing manpower shortages. Employers can approach SBF at <a href = "mailto: manpowerconnect@sbf.org.sg">manpowerconnect@sbf.org.sg</a> or visit SBF's website.
 
 If foreign employees would like to head home, companies will have to cancel the work passes, repatriate the employees and bear the repatriation cost.
 
