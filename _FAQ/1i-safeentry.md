@@ -3,46 +3,83 @@ title: SafeEntry
 permalink: /faq/safeentry
 ---
 
-#### **1. What is SafeEntry?**
-It is a national digital check-in system that logs the name, NRIC and mobile number of individuals visiting hotspots and venues providing essential services, as well as the information of people working at places providing essential services. SafeEntry will augment existing contact tracing efforts.
+#### **1. Is it compulsory for all businesses to sign up for this service?**
+From 12 May onwards, businesses are required to use SafeEntry to collect entry and exit information of workers and visitors on their premises for as long as it is required by law during the period of COVID-19.
 
-SafeEntry is used for data collection and verification through (1) scanning of QR codes, and or (2) scanning of NRICs at hotspots and high traffic locations.
+Businesses that do not comply with the requirements to use SafeEntry will be subject to the penalties stipulated under the COVID-19 (Temporary Measures) Act.
 
-#### **2. Where is this system deployed?**
-SafeEntry via scanning of QR codes may be deployed at both hotspots and workplaces providing essential services. The full list can be found at <a href="https://covid.gobusiness.gov.sg/essentialservices" target="_blank">here</a>.
+#### **2. If businesses already have (other) systems in place to log entry and exit information, how will they be able to show that their systems are robust enough?**
+The use of SafeEntry will be made mandatory from 12 May 2020 onwards. SafeEntry allows for the automated routing of entry and exit log data to the relevant authorities. A common system used by all establishments will allow data to be made available to MOH quickly so as to facilitate contact tracing.
 
-#### **3. Who needs to use SafeEntry?**
-For businesses: All workplaces with employees that are permitted to work during the Circuit Breaker period are required to log their entry and exit information. Businesses are encouraged to use SafeEntry, or any similar solution provided by the workplace that can support contact tracing. When requested, the data must be provided to MOH to expeditiously support contact tracing.
+Businesses that need to retain the use of their current system for the collection of data that are not required in the SafeEntry system (e.g. purpose of visit, employee's ID number) are required to implement SafeEntry on top of their existing system.
 
-For individuals: People visiting identified hotspots, and employees who are permitted to work during the circuit breaker period, will be required to log their entry and exit information.
+#### **3. What is SafeEntry?**
+It is a national digital check-in system that logs the personal particulars of individuals (name, NRIC/FIN number and mobile number) visiting hotspots, workplaces and public venues such as malls and supermarkets. SafeEntry will facilitate contact tracing efforts.
 
-#### **4. Why should we use SafeEntry?**
-SafeEntry will support and augment existing contact tracing efforts. It enables the Government to have a record of individuals who enter specific locations where a large number of people tend to gather. This will help facilitate contact tracing should the need arise.
+SafeEntry is used for data collection and verification through (1) scanning of QR codes, or (2) scanning of NRIC/FINs.
 
-#### **5. What information is collected?**
-The individual’s name, NRIC number and mobile number are retrieved for the purpose of contact tracing.
+It was first deployed at certain hotspots, workplaces of essential services, as well as selected public venues.
 
-#### **6. How can a business owner sign up for this service?**
-Businesses can visit go.gov.sg/safeentry to sign up for this service.
+#### **4. Why is SafeEntry being expanded to more locations?**
+SafeEntry will support contact tracing efforts as it provides authorities with a record of individuals who enter and exit venues. The records will reduce the time needed to identify potential close contacts of COVID-19 patients. As we move towards relaxing the circuit breaker measures, it is even more critical that contact tracing be done well to mitigate the risk of new waves of infection. This is important so that we can continue advancing towards fewer restrictions on our movements, and our daily lives.
 
-#### **7. What is the cost implication or manpower efforts to run this service?**
-This is a free-for-use service. Businesses will be provided with a unique QR code specifically for their location. Businesses are only required to print out their unique QR code and place them prominently at entry and exit points.
+#### **5. How will SafeEntry affect businesses and individuals?**
+**For businesses:** SafeEntry should be deployed in venues that are operating, which have a higher risk of non-transient contact, e.g. offices, factories, malls, supermarkets. This will help to log the information of individuals entering and exiting the venue.
 
-#### **8. If businesses already have (other) systems in place to log entry and exit information, how will they be able to show that their systems are robust enough?**
-The system needs to log the same data fields as those collected by SafeEntry and provide the data log in a form that can be consumed by MOH in a timely manner.
+**For individuals:** People visiting venues are required to provide the necessary information either through the scanning of QR code or NRIC/FIN at the entry/exit points of venues. Other accepted cards include Driving License, PAssion Card, TransitLink Concession Card and MOM-issued Visit Pass/Work Permit.
 
-The solution should be able to track and provide the following in csv format:
-- Business Name
-- Business/Site Address
-- Person’s Name
-- Person’s Contact Number
-- Person’s NRIC
-- Person Date/Time Check-in
-- Person Date/Time Check-out
+#### **6. What information is collected?**
+The individual’s name, NRIC/FIN number and mobile number are collected, and will only be used for the purpose of contact tracing.
 
-#### **9. Can businesses share the SafeEntry QR code or link with other companies or venues?**
-No. The QR code or system link is unique for each on-boarded business and venue. It should not be shared.
+#### **7. How can a business owner sign up for this service?**
+Businesses can visit <a href="https://www.go.gov.sg/safeentry" target="_blank">www.go.gov.sg/safeentry</a> to sign up for this service.
 
-Venues with multiple tenants could implement SafeEntry via two ways:
-- A single QR code with a selection of tenants. Visitors/ Employees will be able to select which tenant he/she is visiting. He/She will only need to check-in once. Building owners who would like to make use of the above option should write to <a href = "mailto: travelandhealth@myinfo.gov.sg">travelandhealth@myinfo.gov.sg</a>.
-- Separate QR codes for each tenant. Visitors/Employees will need to scan multiple times if he/she is visiting multiple tenants.
+#### **8. How can entities that do not have a CorpPass account (e.g. VWOs) sign up for SafeEntry?**
+Businesses can visit <a href="https://www.go.gov.sg/safeentry" target="_blank">www.go.gov.sg/safeentry</a> to sign up for SafeEntry.
+
+For SafeEntry NRIC, businesses do not need to have a CorpPass account to sign up. They are only required to submit the onboarding application form.
+
+For SafeEntry QR, entities without a CorpPass account should have their parent organisation register on their behalf.
+
+#### **9. What is the cost implication or manpower effort needed to run this service?**
+This is a free-for-use service.
+
+For SafeEntry QR, businesses will be provided with a unique QR code specifically for their location. Businesses are required to display their unique QR code prominently at entry and exit points. Businesses should prepare to assist visitors in using SafeEntry QR, for example by stationing staff at entrances with dedicated mobile devices for visitor check-ins.
+
+For SafeEntry NRIC, businesses are required to staff the entry points and provide their own mobile devices to scan the NRIC/FINs.
+
+#### **10. Are shops within malls expected to implement SafeEntry if the mall entrance already has a SafeEntry check-in point?**
+Yes, shops and offices within malls must implement SafeEntry for their employees. In addition, certain shops e.g. supermarkets, must also implement SafeEntry for visitors.
+
+This must be done by 12 May.
+
+#### **11. Which SafeEntry mode should my business opt for – QR or NRIC?**
+SafeEntry NRIC is recommended for high-traffic venues. It is also recommended if the visitors comprise a significant number of people who may not be digitally-savvy, do not have newer phone models and data connectivity. In this mode, dedicated staff are also required to perform NRIC scanning.
+
+For venues that have lower traffic, SafeEntry QR may be more suitable.
+
+Businesses may choose to provide both SafeEntry modes where resources allow, in order to cater to visitors who do not have a mobile phone and/or their NRIC with them.
+
+#### **12. I am already using an existing visitor management system. Is it possible to integrate this with SafeEntry?**
+SafeEntry is not able to support integrations with other systems at the moment.
+
+#### **13. Can the business modify the form or add additional information?**
+No.
+
+#### **14. If I don’t have an NRIC nor smartphone, will I be denied entry? What is the alternative should both options be unavailable to a member of public?**
+Individuals visiting venues are required to provide the necessary information, check-in and check-out timings via SafeEntry. Individuals may be denied entry if they do not provide the necessary information. To cater to visitors who do not have a suitable mobile phone to scan QR codes, or do not have their NRIC with them, venue operators are advised to station staff at the various entrance/exit points to assist with a dedicated mobile device or manual check-ins.
+
+#### **15. Under what circumstances will my data be released to the authorities to facilitate contact tracing?**
+Contact data will be shared with the relevant authorities for the specific purpose of contact tracing.
+
+#### **16. Can the individual choose not to disclose all the data required?**
+It is mandatory to provide all the fields (name, NRIC number and mobile number).
+
+#### **17. Does the Government have access to the data? What will the data be used for?**
+Contact data collected via SafeEntry is stored in the Government server, which will only be accessed by authorised public officers involved in contact tracing, should the need arise.  The data may also be de-identified and aggregated for analytics purposes.
+
+#### **18. How will my data be protected?**
+Stringent measures are in place to safeguard the data in accordance with the Government’s data security standards. All data is encrypted, and the data can only be accessed by authorised personnel for contact tracing purposes. The data will be purged when it is no longer needed for contact tracing purposes. Under the Public Sector Governance Act, public officers who recklessly or intentionally disclose the data without authorisation, misuse the data for a gain, or reidentify anonymised data may be found guilty of an offence and may be subject to a fine of up to $5,000 or imprisonment of up to 2 years, or both.
+
+#### **19. Can I request for my data to be deleted after it has been uploaded?**
+Your contact data will not be deleted as it has to be kept for the purpose of contact tracing. The data will be purged when it is no longer needed for contact tracing purposes.
