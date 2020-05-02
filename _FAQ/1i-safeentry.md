@@ -9,7 +9,9 @@ From 12 May onwards, businesses are required to use SafeEntry to collect entry a
 Businesses that do not comply with the requirements to use SafeEntry will be subject to the penalties stipulated under the COVID-19 (Temporary Measures) Act.
 
 #### **2. If businesses already have (other) systems in place to log entry and exit information, how will they be able to show that their systems are robust enough?**
-The use of SafeEntry will be made mandatory from 12 May 2020 onwards. SafeEntry allows for the automated routing of entry and exit lo data to the relevant authorities. A common system used by all establishments will allow data to be made available to MOH quickly so as to facilitate contact tracing.
+The use of SafeEntry will be made mandatory from 12 May 2020 onwards. SafeEntry allows for the automated routing of entry and exit log data to the relevant authorities. A common system used by all establishments will allow data to be made available to MOH quickly so as to facilitate contact tracing.
+
+Businesses that need to retain the use of their current system for the collection of data that are not required in the SafeEntry system (e.g. purpose of visit, employee's ID number) are required to implement SafeEntry on top of their existing system.
 
 #### **3. What is SafeEntry?**
 It is a national digital check-in system that logs the personal particulars of individuals (name, NRIC/FIN number and mobile number) visiting hotspots, workplaces and public venues such as malls and supermarkets. SafeEntry will facilitate contact tracing efforts.
@@ -30,7 +32,7 @@ SafeEntry will support contact tracing efforts as it provides authorities with a
 The individual’s name, NRIC/FIN number and mobile number are collected, and will only be used for the purpose of contact tracing.
 
 #### **7. How can a business owner sign up for this service?**
-Businesses can visit safeentry.gov.sg to sign up for this service.
+Businesses can visit <a href="https://www.go.gov.sg/safeentry" target="_blank">www.go.gov.sg/safeentry</a> to sign up for this service.
 
 #### **8. How can entities that do not have a CorpPass account (e.g. VWOs) sign up for SafeEntry?**
 Businesses can visit <a href="https://www.go.gov.sg/safeentry" target="_blank">www.go.gov.sg/safeentry</a> to sign up for SafeEntry.
