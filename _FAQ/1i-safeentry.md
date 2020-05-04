@@ -68,15 +68,3 @@ No.
 
 #### **14. If I don’t have an NRIC nor smartphone, will I be denied entry? What is the alternative should both options be unavailable to a member of public?**
 Individuals visiting venues are required to provide the necessary information, check-in and check-out timings via SafeEntry. Individuals may be denied entry if they do not provide the necessary information. To cater to visitors who do not have a suitable mobile phone to scan QR codes, or do not have their NRIC with them, venue operators are advised to station staff at the various entrance/exit points to assist with a dedicated mobile device or manual check-ins.
-
-#### **15. Under what circumstances will my data be released to the authorities to facilitate contact tracing?**
-Contact data will be shared with the relevant authorities for the specific purpose of contact tracing.
-
-#### **16. Can the individual choose not to disclose all the data required?**
-It is mandatory to provide all the fields (name, NRIC number and mobile number).
-
-#### **17. Does the Government have access to the data? What will the data be used for?**
-Contact data collected via SafeEntry is stored in the Government server, which will only be accessed by authorised public officers involved in contact tracing, should the need arise.  The data may also be de-identified and aggregated for analytics purposes.
-
-#### **18. Can I request for my data to be deleted after it has been uploaded?**
-Your contact data will not be deleted as it has to be kept for the purpose of contact tracing. The data will be purged when it is no longer needed for contact tracing purposes.
