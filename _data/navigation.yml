@@ -21,3 +21,5 @@ links:
     collection: guides
   - title: Contact Us
     url: /contact-us/
+
+<p>The Math test is on <mark>Friday</mark>.</p>
