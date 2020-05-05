@@ -28,6 +28,10 @@ permalink: /essentialservices/healthandsocialservices/
 : a. Parents may approach their children’s preschools and schools for assistance.
 : b. Priority given to parents in Essential Services like Healthcare.
 
+9. Traditional Chinese Medicine (TCM) needle acupuncture will be allowed for pain management only, if assessed.
+
+10. Only Traditional Chinese Medicine (TCM) establishments with MOH-registered in-house TCM practitioner(s) can resume selling retail products.
+
 9A. All outpatient non-public health institution (PHI) Allied Health Services[^1] (excluding psychology services) to adhere to the following from 29 April 2020 to 17 May 2020:
 
 <ins>Profession-related requirements</ins><br>
