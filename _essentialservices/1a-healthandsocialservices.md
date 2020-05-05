@@ -70,10 +70,6 @@ l. The submission of operating hours should be done through SRP (for individual-
 
 Note: Requirements for the period after 17 May 2020 will be updated at a later date.
 
-With effect from 5 May:
-- Traditional Chinese Medicine (TCM) needle acupuncture will be allowed for pain management only, if assessed.
-- Only Traditional Chinese Medicine (TCM) establishments with MOH-registered in-house TCM practitioner(s) can resume selling retail products.
-
 
 
 ___
