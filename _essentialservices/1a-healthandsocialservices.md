@@ -32,7 +32,7 @@ permalink: /essentialservices/healthandsocialservices/
 
 10. Only Traditional Chinese Medicine (TCM) establishments with MOH-registered in-house TCM practitioner(s) can resume selling retail products.
 
-9A. All outpatient non-public health institution (PHI) Allied Health Services[^1] (excluding psychology services) to adhere to the following from 29 April 2020 to 17 May 2020:
+11A. All outpatient non-public health institution (PHI) Allied Health Services[^1] (excluding psychology services) to adhere to the following from 29 April 2020 to 17 May 2020:
 
 <ins>Profession-related requirements</ins><br>
 a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
@@ -54,7 +54,7 @@ d. Each AHP can see no more than 6 patients/clients (i.e. sessions) a week.
 - Each session should not be longer than 1 hour.
 - AHPs can offer either clinic-based services or Home Therapy (HT), but not a combination of both. 
 
-9B. Outpatient psychology services to adhere to the following from 29 April 2020 to 17 May 2020:
+11B. Outpatient psychology services to adhere to the following from 29 April 2020 to 17 May 2020:
 
 <ins>Profession-related requirements</ins><br>
 e. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
