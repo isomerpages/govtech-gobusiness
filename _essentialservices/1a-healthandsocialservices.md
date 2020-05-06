@@ -7,7 +7,7 @@ permalink: /essentialservices/healthandsocialservices/
 
 1. Acute hospitals (including offsite specialist clinics and offsite Ambulatory Surgical Centres), community hospitals
 
-2. Primary care services (i.e. polyclinics and private sector primary care services), non-elective and urgent/emergency dental services, renal dialysis centres, TCM (adjuvant therapy for cancer and chronic conditions).
+2. Primary care services (i.e. polyclinics and private sector primary care services), non-elective and urgent/emergency dental services, renal dialysis centres, TCM (adjuvant therapy for cancer and chronic conditions)aaa
 
 3. Community care services 
 : a. This includes nursing homes, psychiatric rehabilitation homes, psychiatric sheltered home, inpatient palliative care
