@@ -7,7 +7,7 @@ permalink: /essentialservices/healthandsocialservices/
 
 1. Acute hospitals (including offsite specialist clinics and offsite Ambulatory Surgical Centres), community hospitals
 
-2. Primary care services (i.e. polyclinics and private sector primary care services), non-elective and urgent/emergency dental services, renal dialysis centres, TCM (adjuvant therapy for cancer and chronic conditions)aaa
+2. Primary care services (i.e. polyclinics and private sector primary care services), non-elective and urgent/emergency dental services, renal dialysis centres, TCM (adjuvant therapy for cancer and chronic conditions).
 
 3. Community care services 
 : a. This includes nursing homes, psychiatric rehabilitation homes, psychiatric sheltered home, inpatient palliative care
@@ -32,45 +32,34 @@ permalink: /essentialservices/healthandsocialservices/
 
 10. Only Traditional Chinese Medicine (TCM) establishments with MOH-registered in-house TCM practitioner(s) can resume selling retail products.
 
-11A. All outpatient non-public health institution (PHI) Allied Health Services[^1] (excluding psychology services) to adhere to the following from 29 April 2020 to 17 May 2020:
+11A. All outpatient non-public health institution (PHI) Allied Health Services (excluding psychology services) to adhere to the following from 8 May 2020 to 1 June 2020:
 
 <ins>Profession-related requirements</ins><br>
 a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
 b. Prioritise face-to-face consultations for patients/clients who require treatment/therapy, which if not provided or performed, would result in significant or rapid deterioration of the patient/client’s condition, and potentially threaten their health and wellbeing.
 
 <ins>Operations-related requirements</ins><br>
-**Applicable to those practising in Private AHS Clinics/ Centre-based Services for Individuals with Disabilities, Developmental Needs or Special Educational Needs**<br>
-c. Each Allied Health Professional (AHP) can see no more than 6 patients/clients within 8 hours of operation from 9am-5pm in a single day in a week.
-- Each AHP can provide only 1-to-1 consultation on appointment basis. Group therapy is not allowed.  
-- AH clinics/AHPs with **odd number for the last digit of Unique Entity Number (UEN) can only provide service on Wednesday**.
-- AH clinics/AHPs with **even number for the last digit of UEN can only provide service on Monday**.
-- Each AHP must adhere to 1 place of practice.
-- Each session should not be longer than 1 hour.
-- AHPs can offer either clinic-based services or Home Therapy (HT), but not a combination of both. 
+c. For Private AHS Clinics/ Centre-based Services for Individuals with Disabilities, Developmental Needs or Special Educational Needs:
+- AH clinics/centres can provide service for **no more than 3 days in a week (The specific days and timing of operation should be based on individual AH clinic/centre/AHP’s current operating hours).**
+- Each AHP must adhere to **1 place of practice during this period.**
+- Each session should **not be longer than 1 hour.**
 
-**Applicable to those providing Home Therapy**<br>
-d. Each AHP can see no more than 6 patients/clients (i.e. sessions) a week.
-- Each AHP can provide only 1-to-1 consultation on appointment basis. Group therapy is not allowed. 
-- Each session should not be longer than 1 hour.
-- AHPs can offer either clinic-based services or Home Therapy (HT), but not a combination of both. 
+d. For Private AHS Home-based therapy:
+- Each AHP can see **no more than 15 patients/clients (i.e. sessions) a week.**
+- Each session should **not be longer than 1 hour.**
 
-11B. Outpatient psychology services to adhere to the following from 29 April 2020 to 17 May 2020:
+e. Allied Health Professionals (AHPs) can offer **either clinic-based services or Home-based therapy, but not a combination of both.**
+
+11B. Psychology services (including mental health services) to adhere to the following from 8 May 2020 to 1 June 2020:
 
 <ins>Profession-related requirements</ins><br>
-e. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
-f. Prioritise face-to-face consultations for cases where teleconsultation is deemed unsuitable —such as urgent new cases, unstable cases, individuals who are unable to use teleconferencing platforms (e.g. elderly, paediatric, individuals with intellectual disability).
+a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.
+b. Prioritise face-to-face consultations for cases where teleconsultation is deemed unsuitable —such as urgent new cases, unstable cases, individuals who are unable to use teleconferencing platforms (e.g. elderly, paediatric, individuals with intellectual disability), , and children with Special Education Needs (SEN) applying for Primary 1 admission in Special Education (SPED) schools).
 
 <ins>Operations-related requirements</ins><br>
-g. Companies with psychologist(s) that have been previously exempted, and individual psychologists registered on Singapore Register of Psychologists (SRP) can provide service for **no more than 4 hours per day, for 5 days a week**.<br>
-h. Psychology services which were previously exempted, where psychologists providing service are not registered on SRP, will need to submit an application to <a href = "mailto: psychologyservices@moh.gov.sg">psychologyservices@moh.gov.sg</a> in order to have the exemption extended until 1 June 2020. Applications will only be taken from 29 April 2020 onwards.<br>
-i. Psychologists who are not registered on the SRP will need to appeal by submitting a request to <a href = "mailto: psychologyservices@moh.gov.sg">psychologyservices@moh.gov.sg</a> to provide service as per the requirements for those who are registered on the SRP (4 hours per day for 5 days a week). This application to provide service should be done as part of a business (psychology service), covering all psychologists providing service under that business. Applications will only be taken from 29 April 2020 onwards.<br>
-j. Psychologists must adhere to only **1 place of practice**.<br>
-k. All psychologists must submit their proposed operating hours prior to starting service provision. Psychology services which had previously been exempted via covid.gobusiness.gov.sg will also need to submit their proposed operating hours. For group services with more than 1 psychologist, the operating hours must be submitted **as a group service**, with all psychologists adhering to the same operating hours. These operating hours must fulfill the criteria above (no more than 4 hours per day, for 5 days per week).<br>
-l. The submission of operating hours should be done through SRP (for individual-practitioner services, or group services where all individual psychologists are SRP-registered psychologists), or submitted on request by MOH for services which were previously exempted, or those services which have appealed via psychologyservices@moh.gov.sg (from 29 April 2020).<br>
-
-Note: Requirements for the period after 17 May 2020 will be updated at a later date.
-
-
-
-___
-[^1]: Audiology, Dietetics, Occupational Therapy, Physiotherapy, Podiatry, Prosthetics and Orthotics, Speech Therapy
+c. **Psychology/mental health services which have been previously exempted by MTI are to note that this exemption ended on 4 May 2020.** They must cease providing face-to-face psychology/mental health services after 4 May unless they have applied for, and received, a formal extension of exemption letter which stipulates the restrictions on operations which fulfill criteria laid out in this Circular (i.e., not just the general exemption from MTI). **If they have not applied for a formal extension of exemption letter, they must apply for exemption to provide face-to-face psychology/mental health services under the relevant category below (either via psychologyservices@moh.gov.sg or via the Singapore Psychological Society, not via MTI) for the period from 8 May to 1 June 2020.**
+d. **Individual psychologists registered on the Singapore Register of Psychologists (SRP), and group services where all psychologists are registered on the SRP, can provide service for no more than 4 consecutive hours per day, for 5 days a week.**  Face to face consultations should be for cases where teleconsultation is deemed unsuitable —such as urgent new cases, unstable cases, individuals who are unable to use teleconferencing platforms (e.g. elderly, paediatric, individuals with intellectual disability, and children with Special Education Needs (SEN) applying for Primary 1 admission in Special Education (SPED) schools). 
+- An application for exemption should be submitted for this category by submitting requested details (including proposed operating hours) to the Singapore Psychological Society (SPS) prior to commencing service provision.
+e. **Individual psychologists/mental health professionals who are not registered on the SRP, group practices where not all psychologists/mental health professionals are registered on the SRP, will need to appeal by submitting a request to psychologyservices@moh.gov.sg to provide service as per the requirements for those who are registered on the SRP (4 consecutive hours per day for 5 days a week).** This application to provide service should be done as part of a business (psychology/mental health service), covering all professionals providing service under that business. 
+f. Psychologists/mental health professionals must adhere to **only 1 place of practice for this period (which is the business under which the exemption was issued), with no home visits to clients to be carried out.**
+g. **All psychologists/mental health professionals must submit their proposed operating hours prior to starting service provision, whether applying via the SPS or via psychologyservices@moh.gov.sg.** For group services with more than 1 professional providing mental health services, the operating hours must be submitted as a group service, with all professionals adhering to the same operating hours. These operating hours must fulfill the criteria above (no more than 4 consecutive hours per day, for 5 days per week).
