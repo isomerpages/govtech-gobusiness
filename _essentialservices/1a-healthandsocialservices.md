@@ -65,7 +65,7 @@ e. **Individual psychologists/mental health professionals who are not registered
 f. Psychologists/mental health professionals must adhere to **only 1 place of practice for this period (which is the business under which the exemption was issued), with no home visits to clients to be carried out.**<br>
 g. **All psychologists/mental health professionals must submit their proposed operating hours prior to starting service provision, whether applying via the SPS or via psychologyservices@moh.gov.sg.** For group services with more than 1 professional providing mental health services, the operating hours must be submitted as a group service, with all professionals adhering to the same operating hours. These operating hours must fulfil the criteria above (no more than 4 consecutive hours per day, for 5 days per week).
 
-
+Note: For AH clinic/centres/AHPs that need to apply for additional manpower (if you have received the approval for exemption), please do so via "Application for Additional Manpower" in <a href="https://covid.gobusiness.gov.sg/" target="_blank">https://covid.gobusiness.gov.sg/</a>. There is no need to resubmit an application for general exemption.
 
 ___
 [^1]: Audiology, Dietetics, Occupational Therapy, Physiotherapy, Podiatry, Prosthetics and Orthotics, Speech Therapy
