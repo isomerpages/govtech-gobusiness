@@ -36,6 +36,14 @@ sections:
         button: Check Status of General Exemption Application Here
         url: https://go.gov.sg/exemptionstatus
     - infopic:
+        title: Safety @ Work
+        subtitle: 
+        description: List of measures to ensure the safety at the workplace.
+        button: Find Out More
+        url: /safetywork/safetymeasures
+        image: /images/safetywork.jpg
+        alt: Safety @ Work
+    - infopic:
         title: News & Advisories
         subtitle: 
         description: Get updated on the latest News and Advisories related to COVID-19.
@@ -59,14 +67,6 @@ sections:
         url: /govassist/govassist
         image: /images/helpinghands.jpg
         alt: Government Assistance
-    - infopic:
-        title: Safety @ Work
-        subtitle: 
-        description: List of measures to ensure the safety at the workplace.
-        button: Find Out More
-        url: /safetywork/safetymeasures
-        image: /images/safetywork.jpg
-        alt: Safety @ Work
     - infopic:
         title: Chat for Biz
         subtitle: 
