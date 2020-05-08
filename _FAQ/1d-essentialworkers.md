@@ -85,3 +85,6 @@ No, you do not need to. You will only need to re-submit the details of your esse
 Please submit the total number of employees performing shift work and the number of shifts most employees are on via the “Application for Additional Manpower” form if the quota of employees allocated to you is insufficient to cover all the workers on shift work.
 
 We will review your application and reflect the revised allotted headcount on the “Manpower Submission” form as soon as possible. Once the quota has been revised, you may enter the details of your employees via the “Manpower Submission” form. You may continue operations with your current allotted headcount in the meantime.
+
+#### **23. Can I operate with more manpower once I have submitted my request for additional manpower?**
+If your submission relates only to a request for additional manpower to cater for shift work, you can proceed with operations with the additional shift workers. Otherwise, please note that you should continue operations with your current allocated headcount until you have received the official email notification stating the outcome of your request.
