@@ -44,7 +44,7 @@ Food outlets that make commercial arrangements to cross-sell items on their menu
 - These items must be strictly sold online (whether sold individually or paired), and preferably paired with a food item on the menu.
 - Safe distancing measures must be strictly adhered to among staff and delivery personnel at all times.
 
-Both parties are to apply for such cross-selling arrangements at <a href = "mailto: food_division@enterprisesg.gov.sg">food_division@enterprisesg.gov.sg</a>. Enforcement officers on ground have the authority to suspend operations if the cross-selling guidelines and safe distancing measures are not adhered to.
+Both parties are to apply for such cross-selling arrangements at <a href = "mailto: food_division@enterprisesg.gov.sg">food_division@enterprisesg.gov.sg</a>. Enforcement officers on the ground have the authority to suspend operations if the cross-selling guidelines and safe distancing measures are not adhered to.
 
 ## **<ins>Retail</ins>**
 
