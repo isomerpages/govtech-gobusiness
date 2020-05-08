@@ -38,11 +38,11 @@ F&B outlets and food vending machines are closed in line with the guideline to m
 
 #### **6. Some F&B establishments have started commercial collaborations to cross-sell beverages such as bubble tea as part of their menu offerings. Is this allowed?**
 Food outlets that make commercial arrangements to cross-sell items on their menu offerings can do so only if:
-•	They utilise their existing manpower to prepare and sell these items. No cross deployment of staff (between the two businesses or across outlets) as per MOM’s advisory. 
-•	The beverages must not form the bulk of the new menu offerings. 
-•	These items must be prepped at the food outlet. They are not allowed to prep at their standalone beverage outlet and bring the items over to sell.
-•	These items must be strictly sold online (whether sold individually or paired), and preferably paired with a food item on the menu.
-•	Safe distancing measures must be strictly adhered to among staff and delivery personnel at all times.
+- They utilise their existing manpower to prepare and sell these items. No cross deployment of staff (between the two businesses or across outlets) as per MOM’s advisory. 
+- The beverages must not form the bulk of the new menu offerings. 
+- These items must be prepped at the food outlet. They are not allowed to prep at their standalone beverage outlet and bring the items over to sell.
+- These items must be strictly sold online (whether sold individually or paired), and preferably paired with a food item on the menu.
+- Safe distancing measures must be strictly adhered to among staff and delivery personnel at all times.
 
 Both parties are to apply for such cross-selling arrangements at food_division@enterprisesg.gov.sg. Enforcement officers on ground have the authority to suspend operations if the cross-selling guidelines and safe distancing measures are not adhered to.
 
