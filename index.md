@@ -26,7 +26,7 @@ sections:
     - infobar:
         title: Time-Limited Exemption
         subtitle: 
-        description: Application for your workplace to be allowed to have temporary operations.</br>(For companies which provide essential services only)<br/>Your application will only take effect on the following day after your submission.<br/>You are allowed to submit applications only twice every week (each week starting from Sunday 12:00am to Saturday 11:59pm)
+        description: Application for your workplace to be allowed to have temporary operations.<br/>Your application will only take effect on the following day after your submission.<br/>You are allowed to submit applications only twice every week (each week starting from Sunday 12:00am to Saturday 11:59pm)
         button: Click Here to Apply
         url: https://go.gov.sg/exemptionstatus
     - infobar:
