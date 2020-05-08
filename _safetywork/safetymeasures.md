@@ -3,8 +3,6 @@ title: Safety @ Work
 permalink: /safetywork/safetymeasures/
 ---
 
-## **Safety @ Work**
-
 #### **1. SafeEntry**
 
 ![SafeEntry](/images/safeentrypic.png "SafeEntry")
@@ -23,11 +21,11 @@ From 12 May 2020, all businesses and services that are in operation at the follo
 - Selected popular wet markets (Geylang Serai Market; Blk 505, Jurong West St 52; Blk 20/21/ Marsiling Lane; and Blk 104/105, Yishun Ring Road)
 - Malls
 
-All taxis and private-hire cars should also gradually deploy SafeEntry, and we urge communters to cooperate by checking in and out to the vehicles to support contact tracing effeorts.
+All taxis and private-hire cars should also gradually deploy SafeEntry, and we urge commuters to cooperate by checking in and out of the vehicles to support contact tracing efforts.
 
 This list will be updated as more activities and services are resumed. 
 
-Businesses and building owners can find out more, please click <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">here</a>.
+Businesses and building owners who wish to find out more can click <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">here</a>.
 
 
 
