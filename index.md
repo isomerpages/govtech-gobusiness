@@ -4,7 +4,8 @@ title: GoBusiness
 description: For Singapore Businesses
 image: /images/
 permalink: /
-notification: With effect from 12 May 2020, if your busniess and/or activities fall under the list of provided at <a target="_blank" href="https://go.gov.sg/safeentrydeloyment">here</a>, you are required to implement the SafeEntry system at your business premises to log the check-in and check-out of employees and visitors, in accordance with the prevailing requriements as stated at <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">SafeEntry</a>.
+notification: 
+#notification: With effect from 12 May 2020, if your busniess and/or activities fall under the list of provided at <a target="_blank" href="https://go.gov.sg/safeentrydeloyment">here</a>, you are required to implement the SafeEntry system at your business premises to log the check-in and check-out of employees and visitors, in accordance with the prevailing requriements as stated at <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">SafeEntry</a>.
 sections:
     - hero:
         title: Supporting Our Businesses
@@ -35,14 +36,14 @@ sections:
         description: 
         button: Check Status of General Exemption Application Here
         url: https://go.gov.sg/exemptionstatus
-    - infopic:
-        title: Safety @ Work
-        subtitle: 
-        description: List of measures to ensure the safety at the workplace.
-        button: Find Out More
-        url: /safetywork/safetymeasures
-        image: /images/safetywork.jpg
-        alt: Safety @ Work
+ #   - infopic:
+ #       title: Safety @ Work
+ #       subtitle: 
+ #       description: List of measures to ensure the safety at the workplace.
+ #       button: Find Out More
+ #       url: /safetywork/safetymeasures
+ #       image: /images/safetywork.jpg
+ #       alt: Safety @ Work
     - infopic:
         title: News & Advisories
         subtitle: 
