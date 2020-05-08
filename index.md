@@ -4,7 +4,7 @@ title: GoBusiness
 description: For Singapore Businesses
 image: /images/
 permalink: /
-notification: 
+notification: With effect from 12 May 2020, if your busniess and/or activities fall under the list of provided at <a target="_blank" href="https://go.gov.sg/safeentrydeloyment">here</a>, you are required to implement the SafeEntry system at your business premises to log the check-in and check-out of employees and visitors, in accordance with the prevailing requriements as stated at <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">SafeEntry</a>.
 sections:
     - hero:
         title: Supporting Our Businesses
