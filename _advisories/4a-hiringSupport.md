@@ -14,11 +14,13 @@ permalink: /advisories/hiringsupport/
         <li>Receive support and assistance to attract and retain local manpower, implement progressive employment practices, develop new capabilities or redesign jobs.</li>
       </ul>
       <div class="pricingTable-firstTable_table__getstart">Click Me!!!</div>
-    </li><li class="pricingTable-firstTable_table">
+    </li>
+    <li class="pricingTable-firstTable_table">
       <h1 class="pricingTable-firstTable_table__header">MyCareersFuture.sg</h1>
       <ul class="pricingTable-firstTable_table__options">
         <li>Find and review candidates for your hiring needs with ease at MyCareersFuture.sg.</li>
       </ul>
       <div class="pricingTable-firstTable_table__getstart">Click Me!!!</div>
+    </li>
   </ul>
 </div>
