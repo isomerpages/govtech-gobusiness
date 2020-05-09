@@ -383,37 +383,16 @@ $desktop: 960px + (2 * $gap) !default;
 
 
 
-
+//Special Table CSS
 $h1color: #6e768d;
 $h3color: #b4bdc6;
-$widthoftable: 31%;
+$widthoftable: 100%;
 $bgctables: #ffffff;
 $bgfontcolor: #717787;
 
 .pricingTable{
   margin: 40px auto;
 
-  &>&-title{
-    text-align: center;
-    color: $h1color;
-    font-size: 3em;
-    font-size: 300%;
-    margin-bottom: 20px;
-    letter-spacing: 0.04em;
-  }
-  
-  &>&-subtitle{
-    text-align: center;
-    color: $h3color;
-    font-size: 1.8em;
-    letter-spacing: 0.04em;
-    margin-bottom: 60px;
-    
-    @media screen and (max-width: 480px){
-      margin-bottom: 30px;
-    }
-  }
-  
   &-firstTable{
     list-style: none;
     padding-left: 2em;
