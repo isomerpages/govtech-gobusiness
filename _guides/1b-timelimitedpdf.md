@@ -1,6 +1,6 @@
 ---
-title: Time-Limited Exemption Video Guide
-permalink: /guides/timelimitedexemptionvideo/
+title: Time-Limited Exemption User Guide (PDF)
+permalink: /guides/timelimitedexemptionpdf/
 ---
 
 <meta http-equiv="REFRESH" content="0;url=https://go.gov.sg/timelimitedexemptionguide">
