@@ -24,12 +24,5 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
       </ul>
       <div class="pricingTable-firstTable_table__getstart">Click Here</div>
     </li>
-    <li class="pricingTable-firstTable_table">
-      <h1 class="pricingTable-firstTable_table__header">MyCareersFuture.sg</h1>
-      <ul class="pricingTable-firstTable_table__options">
-        <li>Find and review candidates for your hiring needs with ease</li>
-      </ul>
-      <div class="pricingTable-firstTable_table__getstart">Click Here</div>
-    </li>
   </ul>
 </div>
