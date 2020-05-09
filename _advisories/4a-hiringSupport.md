@@ -11,29 +11,14 @@ permalink: /advisories/hiringsupport/
     <li class="pricingTable-firstTable_table">
       <h1 class="pricingTable-firstTable_table__header">Transform and Grow Initiative </h1>
       <ul class="pricingTable-firstTable_table__options">
-        <li>Unlimited Listing</li>
-        <li>Edit Your Listing</li>
-        <li>Approve Reviews</li>
+        <li>Receive support and assistance to attract and retain local manpower, implement progressive employment practices, develop new capabilities or redesign jobs.</li>
       </ul>
-      <div class="pricingTable-firstTable_table__getstart">MyCareersFuture.sg</div>
+      <div class="pricingTable-firstTable_table__getstart">Click Me!!!</div>
     </li><li class="pricingTable-firstTable_table">
-      <h1 class="pricingTable-firstTable_table__header">Gold Packege</h1>
+      <h1 class="pricingTable-firstTable_table__header">MyCareersFuture.sg</h1>
       <ul class="pricingTable-firstTable_table__options">
-        <li>Unlimited Listing</li>
-        <li>Edit Your Listing</li>
-        <li>Approve Reviews</li>
-        <li>Take Booking Online</li>
-        <li>24/7 Support Service</li>
+        <li>Find and review candidates for your hiring needs with ease at MyCareersFuture.sg.</li>
       </ul>
-      <div class="pricingTable-firstTable_table__getstart">SGUnited Jobs Initiative and SGUnited Traineeships Programme</div>
-    </li><li class="pricingTable-firstTable_table">
-      <h1 class="pricingTable-firstTable_table__header">Platinum Packege</h1>
-      <ul class="pricingTable-firstTable_table__options">
-        <li>Unlimited Listing</li>
-        <li>Edit Your Listing</li>
-        <li>Approve Reviews</li>
-      </ul>
-      <div class="pricingTable-firstTable_table__getstart">Get Started Now</div>
-    </li>
+      <div class="pricingTable-firstTable_table__getstart">Click Me!!!</div>
   </ul>
 </div>
