@@ -12,6 +12,9 @@ With effect from 12 May 2020, selected F&B and retail outlets will be allowed to
 #### **3. My business does not fall under the list of activities that can resume operations. Can I appeal?**
 If your business does not fall under the latest list of F&B and retail services that can resume operations, you will not be allowed to operate.
 
+#### **4. My company is in the list of services that are allowed to resume operations on 12 May 2020. Do I need to re-apply for an exemption?**
+No. You will not be required to seek an exemption before resuming operations. Taking into consideration the large number of businesses involved, MTI will grant these companies a class exemption to resume business subject to them implementing the safe management measures required.
+
 
 ## **<ins>F&B</ins>**
 
@@ -99,9 +102,7 @@ Convenience stores selling predominantly food items are allowed to open but thos
 Yes. Activities that support online retail such as photoshoots and livestreaming may continue at retail stores/warehouse, as long as you have received a general exemption approval. However, these activities must be conducted expeditiously and retail stores must remain closed to walk-ins at all times. Retailers must also observe safe distancing measures at all times.
 
 #### **6. Are Traditional Chinese Medicine halls allowed to continue operations?**
-From 5 May 2020, Traditional Chinese Medicine (TCM) needle acupuncture will be allowed, for pain management only (excluding cupping, moxibustion, guasha and tuina manipulative therapies), if assessed by the TCM practitioner to be essential.
-
-TCM halls with registered TCM practitioners will also be allowed to sell retail products. This is on top of the consultation and herbal dispensary services which they are already allowed to provide.
+From  12 May 2020, all Traditional Chinese Medicine (TCM) medical halls  are allowed to resume operations.
 
 #### **7. I am retailing mobile phones and accessories but provide predominantly repair services for handphones. Am I allowed to open only the repair services section?**
 Yes. Mobile phone shops which provide predominantly repair services can continue to operate. However, they are not allowed to sell handphones and accessories.
