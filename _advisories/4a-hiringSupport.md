@@ -23,5 +23,11 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
       <p class="pricingTable-firstTable_table__pricing">Employers can also register as a host company to gain access to a qualified pool of fresh talent and receive government funding for training allowance under the SGUnited Traineeships Programme.</p>
       <div class="pricingTable-firstTable_table__getstart">Click Here</div>
     </li>
+
+    <li class="pricingTable-firstTable_table">
+      <h1 class="pricingTable-firstTable_table__header">Attract Locals</h1>
+      <p class="pricingTable-firstTable_table__pricing">Receive salary support when you offer quality jobs to a pool of experienced and skilled PMETs through Career Support Programme.</p>
+      <div class="pricingTable-firstTable_table__getstart">Click Here</div>
+    </li>
   </ul>
 </div>
