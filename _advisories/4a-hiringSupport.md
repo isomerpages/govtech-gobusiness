@@ -9,13 +9,14 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
 <div class="pricingTable">
   <ul class="pricingTable-firstTable">
     <li class="pricingTable-firstTable_table">
-      <h1 class="pricingTable-firstTable_table__header">Transform and Grow Initiative</h1>
-      <p class="pricingTable-firstTable_table__pricing">Receive support and assistance to attract and retain local manpower, implement progressive employment practices, develop new capabilities or redesign jobs.</p>
-      <div class="pricingTable-firstTable_table__getstart">Click Here</div>
-    </li>
-    <li class="pricingTable-firstTable_table">
       <h1 class="pricingTable-firstTable_table__header">MyCareersFuture.sg</h1>
       <p class="pricingTable-firstTable_table__pricing">Find and review candidates for your hiring needs with ease at MyCareersFuture.sg.</p>
+      <div class="pricingTable-firstTable_table__getstart">Click Here</div>
+    </li>
+
+    <li class="pricingTable-firstTable_table">
+      <h1 class="pricingTable-firstTable_table__header">Transform and Grow Initiative</h1>
+      <p class="pricingTable-firstTable_table__pricing">Receive support and assistance to attract and retain local manpower, implement progressive employment practices, develop new capabilities or redesign jobs.</p>
       <div class="pricingTable-firstTable_table__getstart">Click Here</div>
     </li>
   </ul>
