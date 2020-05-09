@@ -9,8 +9,8 @@ logo: /images/Gobiz_COVID_logo-01.svg
 
 links:
 #  - title: About
-  - title: Advisories & Guidelines
-    collection: advisories
+#  - title: Advisories & Guidelines
+#    collection: advisories
   - title: List of Essential Services
     collection: essentialservices
 #  - title: GrowSJ
