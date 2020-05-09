@@ -660,28 +660,3 @@ $bgfontcolor: #717787;
 }
 
 
-body{
-  font-family: 'Montserrat', sans-serif;
-  font-size: 100%;
-  background-color: #f0f4f7;
-  color: $bgfontcolor;
-  
-  @media screen and (max-width: 960px){
-    font-size: 80%;
-  }
-    @media screen and (max-width: 776px){
-    font-size: 70%;
-  }
-    @media screen and (max-width: 496px){
-    font-size: 50%;
-  }
-    @media screen and (max-width: 320px){
-    font-size: 40%;
-  }
-}
-
-*{
-  padding:   0;
-  margin: 0;
-  box-sizing: border-box;
-}
