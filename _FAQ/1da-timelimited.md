@@ -4,7 +4,7 @@ permalink: /faq/timelimited
 ---
 
 #### **1. Is there a guide on how to apply for a Time-Limited Exemption?**
-Yes. A video tutorial on how to apply for a Time-Limited Exemption can be found at <a href="https://go.gov.sg/timelimitedexemp" target="_blank">https://go.gov.sg/timelimitedexemp</a>.
+Yes. The guide on how to apply for Time-Limited Exemption can be found <a href="https://go.gov.sg/timelimitedexemptionguide" target="_blank">here</a>. A video tutorial can be found at <a href="https://go.gov.sg/timelimitedexemp" target="_blank">https://go.gov.sg/timelimitedexemp</a>.
 
 #### **2. I have previously applied for 4 Time-Limited Exemptions (TLEs). Given that the circuit breaker period has been extended until 1 June, will I be able to apply for additional TLEs?**
 With effect from 26 April 2020, you will be allowed to submit up to 2 TLE applications each week[^1]. This is regardless of the number of applications that you/your company had submitted prior to 26 Apr 2020.
