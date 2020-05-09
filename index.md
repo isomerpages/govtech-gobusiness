@@ -45,29 +45,37 @@ sections:
         image: /images/safetywork.jpg
         alt: Safety @ Work
     - infopic:
-        title: News & Advisories
+        title: GuideLlines & Advisories
         subtitle: 
-        description: Get updated on the latest News and Advisories related to COVID-19.
+        description: Get updated on the latest GuideLlines and Advisories related to COVID-19.
         button: Find Out More
-        url: https://go.gov.sg/newsandadvisories
+        url: /advisories/guidelinesforbusiness/
         image: /images/businesphoto.jpg
-        alt: News & Advisories
-    - infopic:
-        title: The Unity, Resilience & Solidarity Budgets
-        subtitle: 
-        description: To support businesses in the Supplementary Budget 2020.
-        button: Find Out More
-        url: /govassist/budget2020
-        image: /images/budget2020.jpg
-        alt: The Unity, Resilience & Solidarity Budgets
-    - infopic:
-        title: Government Assistance
-        subtitle: 
-        description: List of assistance that Government is providing.
-        button: Find Out More
-        url: /govassist/govassist
-        image: /images/helpinghands.jpg
-        alt: Government Assistance
+        alt: GuideLlines & Advisories
+#    - infopic:
+#        title: News & Advisories
+#        subtitle: 
+#        description: Get updated on the latest News and Advisories related to COVID-19.
+#        button: Find Out More
+#        url: https://go.gov.sg/newsandadvisories
+#        image: /images/businesphoto.jpg
+#        alt: News & Advisories
+#    - infopic:
+#        title: The Unity, Resilience & Solidarity Budgets
+#        subtitle: 
+#        description: To support businesses in the Supplementary Budget 2020.
+#        button: Find Out More
+#        url: /govassist/budget2020
+#        image: /images/budget2020.jpg
+#        alt: The Unity, Resilience & Solidarity Budgets
+#    - infopic:
+#        title: Government Assistance
+#        subtitle: 
+#        description: List of assistance that Government is providing.
+#        button: Find Out More
+#        url: /govassist/govassist
+#        image: /images/helpinghands.jpg
+#        alt: Government Assistance
     - infopic:
         title: Chat for Biz
         subtitle: 
