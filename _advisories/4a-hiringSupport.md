@@ -24,6 +24,11 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
       <div class="pricingTable-firstTable_table__getstart">Click Here</div>
     </li>
 
+  </ul>
+</div>
+
+<div class="pricingTable">
+  <ul class="pricingTable-firstTable">
     <li class="pricingTable-firstTable_table">
       <h1 class="pricingTable-firstTable_table__header">Attract Locals</h1>
       <p class="pricingTable-firstTable_table__pricing">Receive salary support when you offer quality jobs to a pool of experienced and skilled PMETs through Career Support Programme.</p>
