@@ -32,12 +32,12 @@ The Govt has announced several support measures to protect livelihoods and suppo
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Apply for Grants</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <a href="/advisories/businessadvisor/grantssupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Require Financial Support?</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <a href="/advisories/businessadvisor/financialsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
@@ -46,12 +46,12 @@ The Govt has announced several support measures to protect livelihoods and suppo
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Acquiring/Retaining Talent?</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <a href="/advisories/businessadvisor/hiringsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Require Manpower Support?</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <a href="/advisories/businessadvisor/manpowersupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
@@ -61,7 +61,7 @@ The Govt has announced several support measures to protect livelihoods and suppo
 
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Assistance on Digital Support?</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <a href="/advisories/businessadvisor/digitalsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
@@ -73,12 +73,12 @@ The Govt has announced several support measures to protect livelihoods and suppo
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">From Arts & Culture?</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <a href="/advisories/businessadvisor/artsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">From F&B?</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <a href="/advisories/businessadvisor/fnbsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
@@ -87,12 +87,12 @@ The Govt has announced several support measures to protect livelihoods and suppo
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">From Hospitality and Tourism?</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <a href="/advisories/businessadvisor/aviationsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">From Aviation?</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <a href="/advisories/businessadvisor/tourismsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
@@ -102,7 +102,7 @@ The Govt has announced several support measures to protect livelihoods and suppo
 
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">From Martime?</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <a href="/advisories/businessadvisor/martimesupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
