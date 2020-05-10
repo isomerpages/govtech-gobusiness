@@ -88,11 +88,12 @@ The Govt has announced several support measures to protect livelihoods and suppo
         <li>3 months’ rental waiver for stallholders at NEA hawker centres and markets</li>
         <li>Up to 2 months’ rental waiver for commercial and other non-residential tenants in government properties</li>
       </ul>
-    <div>
-    <div class="gobizfinsup1Table-firstTable_table__getstart">NEA Rebate Details</div>
+    <div class="gobizfinsup1Table-firstTable_table__getstart">
+    NEA Rebate Details
     <div class="gobizfinsup1Table-firstTable_table__getstart">HDB Rebate Details</div>
     <div class="gobizfinsup1Table-firstTable_table__getstart">SLA Rebate Detials</div>
     </div>
+    
     </li>
   </ul>
 </div>
