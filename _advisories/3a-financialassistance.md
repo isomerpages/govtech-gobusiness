@@ -10,7 +10,7 @@ The Govt has announced several support measures to protect livelihoods and suppo
 <div class="gobizfinsup1Table">
   <ul class="gobizfinsup1Table-firstTable">
     <li class="gobizfinsup1Table-firstTable_table">
-      <h1 class="gobizfinsup1Table-firstTable_table__header">Attract Locals</h1>
+      <h1 class="gobizfinsup1Table-firstTable_table__header">Immediate Support</h1>
       <p class="gobizfinsup1Table-firstTable_table__gobizfinsup1">Receive salary support when you offer quality jobs to a pool of experienced and skilled PMETs through Career Support Programme.</p>
       <div class="gobizfinsup1Table-firstTable_table__getstart">Click Here</div>
     </li>
