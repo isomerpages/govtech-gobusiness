@@ -1,10 +1,10 @@
 ---
-title: General
-permalink: /advisories/financialassistance/
+title: Immediate Support
+permalink: /advisories/businessadvisor/immediatesupport
 third_nav_title: Business Support Advisory
 ---
 
-## **Immdiate Support**
+## **Immediate Support**
 
 <div class="gobizfinsup1Table">
   <ul class="gobizfinsup1Table-firstTable">

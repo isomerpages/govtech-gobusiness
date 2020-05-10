@@ -1,6 +1,7 @@
 ---
 title: Hiring Support for Employers
-permalink: /advisories/hiringsupport/
+permalink: /advisories/businessadvisor/hiringsupport/
+third_nav_title: Business Support Advisory
 ---
 
 #### **Nuture & Retain Talents**
