@@ -3,7 +3,7 @@ title: Hiring Support for Employers
 permalink: /advisories/hiringsupport/
 ---
 
-#### **Nuture & Retain Talents**
+#### **Nuture & Retain Talent**
 The Ministry of Manpower (MOM) and WSG, in collaboration with the Public Service Division (PSD) and various government agencies, have launched the SGUnited Jobs Initiative and SGUnited Traineeships Programme to create about 10,000 jobs over the next one year.
 
 This is a concerted effort as part of the Resilience Budget to create more opportunities for jobseekers and workers affected by the current COVID-19 situation, as well as match them to jobs available, including new jobs created as a result of COVID-19. The initiative also seeks to help businesses that are recruiting for the eventual recovery, as well as those with short-term manpower needs due to disruptions in labour supply.
