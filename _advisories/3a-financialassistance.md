@@ -1,11 +1,10 @@
 ---
-title: Overview
+title: General
 permalink: /advisories/financialassistance/
 third_nav_title: Business Support Advisory
 ---
 
-## **Supporting Our Businesses**
-The Govt has announced several support measures to protect livelihoods and support businesses under the:
+## **Immdiate Support**
 
 <div class="gobizfinsup1Table">
   <ul class="gobizfinsup1Table-firstTable">
@@ -22,18 +21,6 @@ The Govt has announced several support measures to protect livelihoods and suppo
             </ul>
       </ul>
       <div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div>
-    </li>
-  </ul>
-</div>
-
-<div class="gobizfinsup1Table">
-  <ul class="gobizfinsup1Table-firstTable">
-    <li class="gobizfinsup1Table-firstTable_table">
-      <h1 class="gobizfinsup1Table-firstTable_table__header">Enhanced Wage Credit Scheme (WCS)</h1>
-      <ul class="gobizfinsup1Table-firstTable_table__options">
-        <li>Additional $500m for employees’ wage increases, on top of $600m disbursed in March 20201</li>
-      </ul>
-    <div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div>
     </li>
   </ul>
 </div>
@@ -122,32 +109,3 @@ The Govt has announced several support measures to protect livelihoods and suppo
 </div>
 
 
-## **Looking for more support...**
-
-<div class="gobizTable">
-  <ul class="gobizTable-firstTable">
-    <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Require Loans?</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
-    </li>
-
-    <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Apply for Grants</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
-    </li>
-  </ul>
-</div>
-
-<div class="gobizTable">
-  <ul class="gobizTable-firstTable">
-    <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Require Manpower Support?</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
-    </li>
-
-    <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Acquiring/Retaining Talent?</h1>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
-    </li>
-  </ul>
-</div>
