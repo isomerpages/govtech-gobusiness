@@ -1,7 +1,7 @@
 ---
 title: Overview
 permalink: /advisories/financialassistance/
-third_nav_title: Financial Support
+third_nav_title: Business Support Advisory
 ---
 
 ## **Supporting Our Businesses**
@@ -133,6 +133,20 @@ The Govt has announced several support measures to protect livelihoods and suppo
 
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Apply for Grants</h1>
+      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+    </li>
+  </ul>
+</div>
+
+<div class="gobizTable">
+  <ul class="gobizTable-firstTable">
+    <li class="gobizTable-firstTable_table">
+      <h1 class="gobizTable-firstTable_table__header">Require Manpower Support?</h1>
+      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+    </li>
+
+    <li class="gobizTable-firstTable_table">
+      <h1 class="gobizTable-firstTable_table__header">Acquiring/Retaining Talent?</h1>
       <div class="gobizTable-firstTable_table__getstart">Click Here</div>
     </li>
   </ul>
