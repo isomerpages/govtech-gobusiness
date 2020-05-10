@@ -743,14 +743,14 @@ $bgfontcolor: #717787;
         }
         
         &:before{
-          content: 'Automatic';
+          content: 'Automatic Inclusion';
           position: absolute;
           color: white;
           display: block;
-          background-color: #3bbdee;
+          background-color: #00838f;
           text-align: center;
           right: 15px;
-          top: -25px;
+          top: -55px;
           height: 65px;
           width: 65px;
           border-radius: 50%;
