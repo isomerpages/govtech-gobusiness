@@ -751,8 +751,8 @@ $bgfontcolor: #717787;
           text-align: center;
           right: 15px;
           top: -55px;
-          height: 65px;
-          width: 65px;
+          height: 100px;
+          width: 100px;
           border-radius: 50%;
           box-sizing: border-box;
           font-size: 0.5em;
@@ -986,4 +986,10 @@ $bgfontcolor: #717787;
     
    
   }
+}
+
+*{
+  padding:   0;
+  margin: 0;
+  box-sizing: border-box;
 }
