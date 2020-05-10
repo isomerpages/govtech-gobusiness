@@ -763,22 +763,22 @@ $bgfontcolor: #717787;
           
           @media screen and (max-width: 988px){
              content: 'Auto';
-             font-size: 0.1em;
+             font-size: 0.5em;
           }
           
           @media screen and (max-width: 767px){
             content: 'Auto';
             left: 10px;
-            width: 45px;
-            height: 45px;
+            width: 55px;
+            height: 55px;
             top: -10px;
             padding-top: 13px;
-            font-size: 0.1em;
+            font-size: 0.5em;
           }
           
           @media screen and (max-width: 480px){
             content: 'Auto';
-            font-size: 0.1em;
+            font-size: 0.5em;
           }
           
         }
@@ -908,10 +908,11 @@ $bgfontcolor: #717787;
           
            @media screen and (max-width: 610px){
             padding: 5px 0;
+            text-align: left;
           }
           
            @media screen and (max-width: 480px){
-             text-align: center;
+             text-align: left;
           }
 
           &:before{
