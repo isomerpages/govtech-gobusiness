@@ -762,10 +762,12 @@ $bgfontcolor: #717787;
           transition: all 0.5s ease;
           
           @media screen and (max-width: 988px){
+             content: 'Auto';
              font-size: 0.6em;
           }
           
           @media screen and (max-width: 767px){
+            content: 'Auto';
             left: 10px;
             width: 45px;
             height: 45px;
@@ -774,6 +776,7 @@ $bgfontcolor: #717787;
           }
           
           @media screen and (max-width: 480px){
+            content: 'Auto';
             font-size: 0.8em;
           }
           
