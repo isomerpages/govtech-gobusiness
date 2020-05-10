@@ -862,13 +862,13 @@ $bgfontcolor: #717787;
         }
       }
       
-      &__options_test{
+      &__options{
         list-style: none;
         padding: 15px;
         font-size: 0.9em;
         border-bottom: 2px solid #ebedec;
         
-         @media screen and (max-width: 1068px){
+        @media screen and (max-width: 1068px){
            font-size: 0.85em;
         }
         
@@ -889,7 +889,9 @@ $bgfontcolor: #717787;
           margin-bottom: 10px;
         }
         
-        
+        &>ul {
+          list-style-type: none;
+        }
         
         &>li{
           padding: 8px 0px;       
