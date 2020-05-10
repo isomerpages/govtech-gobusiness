@@ -10,11 +10,16 @@ The Govt has announced several support measures to protect livelihoods and suppo
 <div class="gobizfinsup1Table">
   <ul class="gobizfinsup1Table-firstTable">
     <li class="gobizfinsup1Table-firstTable_table">
-      <h1 class="gobizfinsup1Table-firstTable_table__header">Cash, Tax, Levy and Rental Wavier Support</h1>
+      <h1 class="gobizfinsup1Table-firstTable_table__header">Jobs Support Scheme (JSS)</h1>
       <ul class="gobizfinsup1Table-firstTable_table__options">
-        <li>Jobs Support Scheme wage subsidy remains at 75% for all sectors for May 2020</li>
-        <li>Enhanced Wage Credit Scheme</li>
-        <li>Approve Reviews</li>
+        <li>To help employers retain workers, Government will co-fund the first $4,600 of gross monthly wages paid to each local employee for 9 months, with payouts in April, July, and October 2020</li>
+        <li>For April 2020 and May 2020, Government will pay 75% on the first $4,600 for every local employee</li>
+        <li>For other qualifying months, Government will pay:</li>
+            <ul>
+                <li>75% for aviation, accommodation, and tourism sectors</li>
+                <li>50% for the food services sector</li>
+                <li>25% for all other firms</li>
+            </ul>
       </ul>
     </li>
   </ul>
