@@ -16,7 +16,6 @@ The Govt has announced several support measures to protect livelihoods and suppo
         <li>Enhanced Wage Credit Scheme</li>
         <li>Approve Reviews</li>
       </ul>
-      <div class="gobizfinsup1Table-firstTable_table__getstart">Click Here</div>
     </li>
   </ul>
 </div>
