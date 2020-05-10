@@ -21,7 +21,20 @@ The Govt has announced several support measures to protect livelihoods and suppo
                 <li>25% for all other firms</li>
             </ul>
       </ul>
+      <div class="gobizTable-firstTable_table__getstart">Eligibility</div>
     </li>
+    
+  </ul>
+</div>
+
+<div class="gobizfinsup1Table">
+  <ul class="gobizfinsup1Table-firstTable">
+    <li class="gobizfinsup1Table-firstTable_table">
+      <h1 class="gobizfinsup1Table-firstTable_table__header">Enhanced Wage Credit Scheme (WCS)</h1>
+      <ul class="gobizfinsup1Table-firstTable_table__options">
+        <li>Additional $500m for employees’ wage increases, on top of $600m disbursed in March 20201</li>
+      </ul>
     <div class="gobizTable-firstTable_table__getstart">Eligibility</div>
+    </li>
   </ul>
 </div>
