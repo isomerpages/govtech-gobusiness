@@ -732,6 +732,56 @@ $bgfontcolor: #717787;
            margin-right: auto;
          }
       }
+
+      &:nth-of-type(2){
+        position: relative;
+        
+        & h1{
+          @media screen and (max-width: 767px){
+            padding-top: 8%;
+          }
+        }
+        
+        &:before{
+          content: 'Most Popular';
+          position: absolute;
+          color: white;
+          display: block;
+          background-color: #3bbdee;
+          text-align: center;
+          right: 15px;
+          top: -25px;
+          height: 65px;
+          width: 65px;
+          border-radius: 50%;
+          box-sizing: border-box;
+          font-size: 0.5em;
+          padding-top: 22px;
+          text-transform: uppercase;
+          letter-spacing: 0.13em;
+          transition: all 0.5s ease;
+          
+          @media screen and (max-width: 988px){
+             font-size: 0.6em;
+          }
+          
+          @media screen and (max-width: 767px){
+            left: 10px;
+            width: 45px;
+            height: 45px;
+            top: -10px;
+            padding-top: 13px;
+          }
+          
+          @media screen and (max-width: 480px){
+            font-size: 0.8em;
+          }
+          
+        }
+        &:hover:before{
+           transform: rotate(360deg);
+        }
+      }
       
       &__header{
         font-size: 1.6em;
