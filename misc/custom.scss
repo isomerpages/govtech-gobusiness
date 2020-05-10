@@ -907,6 +907,10 @@ $bgfontcolor: #717787;
            @media screen and (max-width: 480px){
              text-align: center;
           }
+
+          &::marker{
+            list-style-type: none;
+          }
           
           &:before{
             content: '✓';
