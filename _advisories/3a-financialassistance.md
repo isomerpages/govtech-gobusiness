@@ -21,7 +21,7 @@ The Govt has announced several support measures to protect livelihoods and suppo
                 <li>25% for all other firms</li>
             </ul>
       </ul>
-      <div class="gobizTable-firstTable_table__getstart">Eligibility</div>
+      <div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div>
     </li>
   </ul>
 </div>
@@ -33,7 +33,7 @@ The Govt has announced several support measures to protect livelihoods and suppo
       <ul class="gobizfinsup1Table-firstTable_table__options">
         <li>Additional $500m for employees’ wage increases, on top of $600m disbursed in March 20201</li>
       </ul>
-    <div class="gobizTable-firstTable_table__getstart">Eligibility</div>
+    <div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div>
     </li>
   </ul>
 </div>
@@ -45,7 +45,7 @@ The Govt has announced several support measures to protect livelihoods and suppo
       <ul class="gobizfinsup1Table-firstTable_table__options">
         <li>Additional $500m for employees’ wage increases, on top of $600m disbursed in March 20201</li>
       </ul>
-    <div class="gobizTable-firstTable_table__getstart">Eligibility</div>
+    <div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div>
     </li>
   </ul>
 </div>
@@ -60,7 +60,7 @@ The Govt has announced several support measures to protect livelihoods and suppo
                 <li>Companies: tax due from April to June 2020 payable only from July to September 2020</li>
             </ul>
       </ul>
-    <div class="gobizTable-firstTable_table__getstart">Check your Deferment Date</div>
+    <div class="gobizfinsup1Table-firstTable_table__getstart">Check your Deferment Date</div>
     </li>
   </ul>
 </div>
@@ -75,7 +75,7 @@ The Govt has announced several support measures to protect livelihoods and suppo
         <li>30% rebate for other non-residential properties</li>
         <li>Laws to ensure property owners pass on Property Tax rebate to tenants</li>
       </ul>
-    <div class="gobizTable-firstTable_table__getstart">New Bill</div>
+    <div class="gobizfinsup1Table-firstTable_table__getstart">New Bill</div>
     </li>
   </ul>
 </div>
@@ -88,9 +88,11 @@ The Govt has announced several support measures to protect livelihoods and suppo
         <li>3 months’ rental waiver for stallholders at NEA hawker centres and markets</li>
         <li>Up to 2 months’ rental waiver for commercial and other non-residential tenants in government properties</li>
       </ul>
-    <div class="gobizTable-firstTable_table__getstart">NEA Rebate Details</div>
-    <div class="gobizTable-firstTable_table__getstart">HDB Rebate Details</div>
-    <div class="gobizTable-firstTable_table__getstart">SLA Rebate Detials</div>
+    <div>
+    <div class="gobizfinsup1Table-firstTable_table__getstart">NEA Rebate Details</div>
+    <div class="gobizfinsup1Table-firstTable_table__getstart">HDB Rebate Details</div>
+    <div class="gobizfinsup1Table-firstTable_table__getstart">SLA Rebate Detials</div>
+    </div>
     </li>
   </ul>
 </div>
@@ -105,7 +107,7 @@ The Govt has announced several support measures to protect livelihoods and suppo
                 <li>25% of tax payable, capped at $15,000 per company</li>
             </ul>
       </ul>
-    <div class="gobizTable-firstTable_table__getstart">More Info</div>
+    <div class="gobizfinsup1Table-firstTable_table__getstart">More Info</div>
     </li>
   </ul>
 </div>
