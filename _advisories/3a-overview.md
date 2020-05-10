@@ -20,7 +20,7 @@ The Govt has announced several support measures to protect livelihoods and suppo
         <li>Corporate Income Tax Rebate</li>
         <li>Foreign Worker Levy (FWL) Waiver</li>
       </ul>
-      <div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div>
+      <div class="gobizfinsup1Table-firstTable_table__getstart"><a href="/advisories/businessadvisor/immediatesupport">Eligibility</a></div>
     </li>
   </ul>
 </div>
