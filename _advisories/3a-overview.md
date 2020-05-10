@@ -1,5 +1,5 @@
 ---
-title: Business Support Advisor
+title: COVID Advisor
 permalink: /advisories/businessadvisor/
 third_nav_title: Business Support Advisory
 ---
