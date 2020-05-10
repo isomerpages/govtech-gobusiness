@@ -1,6 +1,6 @@
 ---
 title: Financial Support
-permalink: /advisories/businessadvisor/financialsupport
+permalink: /advisories/covidadvisor/financialsupport
 third_nav_title: Business Support Advisory
 ---
 

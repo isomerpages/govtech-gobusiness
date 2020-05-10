@@ -1,6 +1,6 @@
 ---
 title: Grants Support
-permalink: /advisories/businessadvisor/grantssupport
+permalink: /advisories/covidadvisor/grantssupport
 third_nav_title: Business Support Advisory
 ---
 

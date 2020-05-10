@@ -1,6 +1,6 @@
 ---
 title: Martime
-permalink: /advisories/businessadvisor/martimesupport/
+permalink: /advisories/covidadvisor/martimesupport/
 third_nav_title: Business Support Advisory
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Aviation
-permalink: /advisories/businessadvisor/aviationsupport/
+permalink: /advisories/covidadvisor/aviationsupport/
 third_nav_title: Business Support Advisory
 ---
 

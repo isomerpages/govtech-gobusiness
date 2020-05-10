@@ -1,6 +1,6 @@
 ---
 title: Immediate Support
-permalink: /advisories/businessadvisor/immediatesupport
+permalink: /advisories/covidadvisor/immediatesupport
 third_nav_title: Business Support Advisory
 ---
 

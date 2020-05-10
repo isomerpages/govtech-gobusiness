@@ -1,6 +1,6 @@
 ---
 title: Arts & Culture
-permalink: /advisories/businessadvisor/artsupport/
+permalink: /advisories/covidadvisor/artsupport/
 third_nav_title: Business Support Advisory
 ---
 
