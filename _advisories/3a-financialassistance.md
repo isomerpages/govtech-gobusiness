@@ -10,11 +10,10 @@ The Govt has announced several support measures to protect livelihoods and suppo
 <div class="gobizfinsup1Table">
   <ul class="gobizfinsup1Table-firstTable">
     <li class="gobizfinsup1Table-firstTable_table">
-      <h1 class="gobizfinsup1Table-firstTable_table__header">Immediate Support3</h1>
-      <p class="gobizfinsup1Table-firstTable_table__gobizfinsup1">Receive salary support when you offer quality jobs to a pool of experienced and skilled PMETs through Career Support Programme.</p>
+      <h1 class="gobizfinsup1Table-firstTable_table__header">Cash, Tax, Levy and Rental Wavier Support</h1>
       <ul class="gobizfinsup1Table-firstTable_table__options">
-        <li>Unlimited Listing</li>
-        <li>Edit Your Listing</li>
+        <li>Jobs Support Scheme wage subsidy remains at 75% for all sectors for May 2020</li>
+        <li>Enhanced Wage Credit Scheme</li>
         <li>Approve Reviews</li>
       </ul>
       <div class="gobizfinsup1Table-firstTable_table__getstart">Click Here</div>
