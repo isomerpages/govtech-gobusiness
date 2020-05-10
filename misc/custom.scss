@@ -763,7 +763,7 @@ $bgfontcolor: #717787;
           
           @media screen and (max-width: 988px){
              content: 'Auto';
-             font-size: 0.6em;
+             font-size: 0.1em;
           }
           
           @media screen and (max-width: 767px){
@@ -773,11 +773,12 @@ $bgfontcolor: #717787;
             height: 45px;
             top: -10px;
             padding-top: 13px;
+            font-size: 0.1em;
           }
           
           @media screen and (max-width: 480px){
             content: 'Auto';
-            font-size: 0.8em;
+            font-size: 0.1em;
           }
           
         }
@@ -874,23 +875,27 @@ $bgfontcolor: #717787;
         
         @media screen and (max-width: 1068px){
            font-size: 0.85em;
-        }
+           text-align: left;
+          }
         
         @media screen and (max-width: 767px){
           border-bottom: none;
           padding: 0;
           margin-right: 10%;
+          text-align: left;
         }
         
          @media screen and (max-width: 610px){
           font-size: 0.7em;
            margin-right: 8%;
-        }
+           text-align: left;
+          }
         
         @media screen and (max-width: 480px){
           font-size: 1.3em;
            margin-right: none;
           margin-bottom: 10px;
+          text-align: left;
         }
         
         &>li{
