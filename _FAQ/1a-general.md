@@ -8,12 +8,19 @@ Yes. With the extension of the circuit breaker period until 1 June 2020 (inclusi
 
 However, businesses which have their exemption rescinded, must suspend operations immediately.
 
-#### **2. How do I know if my business is an ‘Essential’ or ‘Non-Essential’ Service?**
-You may refer to the list of Essential Services. 
+#### **2. How do I start preparing my company for the Safe Management requirements?**
+The tripartite partners have issued new requirements for employers on the Safe Management measures required of employers allowed to resume their operations after the enhanced circuit breaker period. Details on the Safe Management measures can be found at <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures" target="_blank">https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures</a>.
+	
+These measures will help provide a safe working environment and minimise risks of further outbreaks of COVID-19. Employers should implement these Safe Management measures in a sustainable manner before resuming operations and be prepared to undertake them for as long as necessary. 
+	 
+If these Safe Management measures are not well implemented, tighter measures that affect our economy and livelihoods may have to be reintroduced. To prevent this, action will be taken against errant employers, including the cessation of operations.
 
-You may also call the Enterprise Infoline at 6898-1800 from Monday-Saturday 8.30am-5.30pm (except public holidays).
+#### **3. How do I know if my business is an ‘Essential’ or ‘Non-Essential’ Service?**
+You may refer to the list of Essential Services.
 
-#### **3. Should I apply for ‘General’ or ‘Time-Limited’ exemption?**
+You may also call the Enterprise Infoline at 6898-1800 from Monday-Friday, 8.30am-5.30pm and Saturday, 8.30am-1pm (excluding Public Holidays).
+
+#### **4. Should I apply for ‘General’ or ‘Time-Limited’ exemption?**
 For Companies providing **<ins>Essential Services</ins>**, you will need to declare, please click on GENERAL EXEMPTION.
 
 For Companies providing **<ins>Non-Essential Services</ins>** and are <ins>applying for exemption from suspension of business activities</ins>, please click on GENERAL EXEMPTION. Please suspend your business operations until you have received the official email notification of approval. 
@@ -25,7 +32,7 @@ Please note that the total number of employees activated should not exceed 10, o
 
 To find out how to apply for a Time-Limited Exemption, watch the <a href="https://go.gov.sg/timelimitedexemp" target="_blank">video</a>.
 
-#### **4. What should I do if I have not received an exemption? Am I allowed to continue operations?**
+#### **5. What should I do if I have not received an exemption? Am I allowed to continue operations?**
 Please suspend your business operations until you have received the official email notification of approval.
 
 For the status of your application, please click <a href="https://go.gov.sg/exemptionstatus" target="_blank">here</a>.

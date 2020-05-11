@@ -44,6 +44,14 @@ sections:
         url: /safetywork/safetymeasures
         image: /images/safetywork.jpg
         alt: Safety @ Work
+#    - infopic:
+#        title: GuideLlines & Advisories
+#        subtitle: 
+#        description: Get updated on the latest GuideLlines and Advisories related to COVID-19.
+#        button: Find Out More
+#        url: /advisories/guidelinesforbusiness/
+#        image: /images/businesphoto.jpg
+#        alt: GuideLlines & Advisories
     - infopic:
         title: News & Advisories
         subtitle: 
