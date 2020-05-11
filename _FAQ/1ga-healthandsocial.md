@@ -30,8 +30,6 @@ In general, routine surveillance for chronic diseases and cancer in well individ
 #### **4. Are Allied Health Services allowed to continue operations during the Circuit Breaker period?**
 With the extension of the Circuit Breaker period until 1 June 2020, the Ministry of Health has re-categorised outpatient non-public healthcare institution (PHI) allied health services (AHS) including psychology as “essential services” effective from 29 April onwards. New measures for allowing the provision of non-PHI AHS will be implemented on a systematic and incremental basis. You may refer to the guidelines <a href="https://covid.gobusiness.gov.sg/essentialservices/healthandsocialservices/" target="_blank">here</a>.
 
-These requirements will be reviewed again before 17 May.
-
 #### **5. Should group practices/Primary Care Networks (PCNs) suspend services for support staff (e.g. human resource, IT, logistics, finance)?**
 Support services which ensure the provision of essential services at GP clinics will be allowed to continue. Please minimise the number of staff based on-site. If employees can perform their work by telecommuting from home, employers must ensure that they do so. Tele-conferencing should be used in place of physical meetings wherever possible.
 

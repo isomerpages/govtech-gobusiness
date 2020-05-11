@@ -15,6 +15,15 @@ If your business does not fall under the latest list of F&B and retail services 
 #### **4. My company is in the list of services that are allowed to resume operations on 12 May 2020. Do I need to re-apply for an exemption?**
 No. You will not be required to seek an exemption before resuming operations. Taking into consideration the large number of businesses involved, MTI will grant these companies a class exemption to resume business subject to them implementing the safe management measures required.
 
+#### **5. What are the Safe Management measures for the F&B and retail sectors?**
+Enterprise Singapore (ESG), Housing & Development Board (HDB), Singapore Food Agency (SFA), Singapore Tourism Board (STB) and urban Redevelopment Authority (URA) have issued advisories on safe management measures that F&B and retail establishments should have in place when resuming operations. 
+
+The advisory on safe management measures for F&B establishments can be found <a href="<https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/may-2020/safe-management-measures-for-food_beverage-establishments>" target="_blank">here</a>.
+
+The advisory on safe management measures for retail establishments can be found <a href="<https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/may-2020/safe-management-measures-for-retail-establishments>
+" target="_blank">here</a>.
+
+
 
 ## **<ins>F&B</ins>**
 
