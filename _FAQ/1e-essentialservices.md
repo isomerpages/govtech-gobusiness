@@ -23,7 +23,7 @@ You are required to ensure that your employees:
 -	Are not cross-deployed across different workplace premises e.g. different branches 
 -	Do not physically interact between teams working in different locations 
 -	Maintain safe distancing (at least one metre apart) at meal/ break times, and avoid social interactions
--	Check-in using SafeEntry (from 12 May 2020). To sign up for this free-to-use service, please visit safeentry.gov.sg. 
+-	Check-in using SafeEntry (from 12 May 2020). To sign up for this free-to-use service, please visit <a href="https://www.safeentry.gov.sg" target="_blank">https://safeentry.gov.sg</a>. 
 
 If you are in charge of a food delivery service, you must ensure that delivery personnel comply with safe distancing measures, such as to: 
 
