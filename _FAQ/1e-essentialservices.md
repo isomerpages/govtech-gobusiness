@@ -33,8 +33,9 @@ If you are in charge of a food delivery service, you must ensure that delivery p
 -	If an F&B outlet is overcrowded, wait outside the establishment, maintain a safe distance from other delivery personnel or customers, and enter the outlet only when the food is ready for collection
 -	Keep hands clean by regularly washing them with soap and water or using hand sanitisers
 
-If you utilise the services of food delivery service providers, or run a premise where food delivery services are offered, you must ensure that the delivery personnel observe strict safe distancing from others at all times, at F&B establishments or even when away from the premises, and do not congregate outside or inside the premises. 
- More details on the Safe Management requirements, are accessible at:  <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures" target="_blank">https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures</a>. 
+If you utilise the services of food delivery service providers, or run a premise where food delivery services are offered, you must ensure that the delivery personnel observe strict safe distancing from others at all times, at F&B establishments or even when away from the premises, and do not congregate outside or inside the premises.
+
+More details on the Safe Management requirements, are accessible at:  <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures" target="_blank">https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures</a>. 
 
 #### **4. Where can essential employees (e.g. Grab drivers, bus drivers, or those working in the food and beverage industry) take their meals if they are not near home? Do these individuals have to furnish proof of being an essential worker if questioned by enforcement officers?**
 Employers of such workers have the responsibility to look after the welfare of their employees and provide them with a suitable sheltered space within the work place premises to consume meals, such as staff canteens, pantries, or any other rest area. Employers should ensure that their employees observe the following in these spaces:

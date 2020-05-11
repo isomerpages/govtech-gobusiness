@@ -18,9 +18,9 @@ No. You will not be required to seek an exemption before resuming operations. Ta
 #### **5. What are the Safe Management measures for the F&B and retail sectors?**
 Enterprise Singapore (ESG), Housing & Development Board (HDB), Singapore Food Agency (SFA), Singapore Tourism Board (STB) and Urban Redevelopment Authority (URA) have issued advisories on safe management measures that F&B and retail establishments should have in place when resuming operations. 
 
-The advisory on safe management measures for F&B establishments can be found <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/may-2020/safe-management-measures-for-food_beverage-establishments>" target="_blank">here</a>.
+The advisory on safe management measures for F&B establishments can be found <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/may-2020/safe-management-measures-for-food_beverage-establishments" target="_blank">here</a>.
 
-The advisory on safe management measures for retail establishments can be found <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/may-2020/safe-management-measures-for-retail-establishments>
+The advisory on safe management measures for retail establishments can be found <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/may-2020/safe-management-measures-for-retail-establishments
 " target="_blank">here</a>.
 
 
