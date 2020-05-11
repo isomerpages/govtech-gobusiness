@@ -16,9 +16,9 @@ These measures will help provide a safe working environment and minimise risks o
 If these Safe Management measures are not well implemented, tighter measures that affect our economy and livelihoods may have to be reintroduced. To prevent this, action will be taken against errant employers, including the cessation of operations.
 
 #### **3. How do I know if my business is an ‘Essential’ or ‘Non-Essential’ Service?**
-You may refer to the list of Essential Services. 
+You may refer to the list of Essential Services.
 
-You may also call the Enterprise Infoline at 6898-1800 from Monday-Saturday 8.30am-5.30pm (except public holidays).
+You may also call the Enterprise Infoline at 6898-1800 from Monday-Friday, 8.30am-5.30pm and Saturday, 8.30am-1pm (excluding Public Holidays).
 
 #### **4. Should I apply for ‘General’ or ‘Time-Limited’ exemption?**
 For Companies providing **<ins>Essential Services</ins>**, you will need to declare, please click on GENERAL EXEMPTION.
