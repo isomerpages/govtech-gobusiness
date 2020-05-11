@@ -85,7 +85,7 @@ More technical details on SafeEntry can be found at <a href="https://www.safeent
 Passengers should be socially responsible and scan the SafeEntry QR codes at the point of boarding. If passengers are unwilling to do so, taxi drivers can decline to convey such passengers.
 
 #### **19. What about Taxi Booking and Private Hire passengers? Do they also need to scan the SafeEntry QR code?**
-No. Passengers who book their rides via taxi apps or ride hail platforms need not do the same as they is already other data available to help in contact tracing efforts when the need arises. 
+No. Passengers who book their rides via taxi apps or ride hail platforms need not do the same as there is already other data available to help in contact tracing efforts when the need arises. 
 
 #### **20. What is TraceTogether? How does it work?**
 TraceTogether is a mobile application that is designed to supplement current contact tracing efforts. It works by exchanging short-distance Bluetooth signals between phones to detect other participating TraceTogether users in close proximity. 
