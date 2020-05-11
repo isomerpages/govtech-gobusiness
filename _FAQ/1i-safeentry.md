@@ -91,4 +91,5 @@ No. Passengers who book their rides via taxi apps or ride hail platforms need no
 TraceTogether is a mobile application that is designed to supplement current contact tracing efforts. It works by exchanging short-distance Bluetooth signals between phones to detect other participating TraceTogether users in close proximity. 
 
 Records of such encounters are stored locally on each user’s phone. If a user is interviewed by MOH as part of the contact tracing efforts, he/she can consent to send his/her TraceTogether data to MOH. 
+
 The TraceTogether app is available for download on App Store and Google Play Store. For more details, visit <a target="_blank" href="https://www.tracetogether.gov.sg">https://www.tracetogether.gov.sg</a>. 
