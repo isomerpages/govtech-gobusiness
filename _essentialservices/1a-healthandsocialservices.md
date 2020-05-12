@@ -36,7 +36,7 @@ Profession-related requirements:</br>
 a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.</br>
 b. Prioritise face-to-face consultations for patients/clients who require treatment/therapy, which if not provided or performed, would result in significant or rapid deterioration of the patient/client’s condition, and potentially threaten their health and wellbeing.
 
-Operations-related requirements:
+Operations-related requirements:</br>
 c. For Private AHS Clinics/ Centre-based Services for Individuals with Disabilities, Developmental Needs or Special Educational Needs:
 - AH clinics/centres can provide service for **no more than 3 days in a week (The specific days and timing of operation should be based on individual AH clinic/centre/AHP’s current operating hours).**
 - Each AHP must adhere to **1 place of practice during this period.**
