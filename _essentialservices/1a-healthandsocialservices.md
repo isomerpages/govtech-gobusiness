@@ -36,7 +36,7 @@ Profession-related requirements:<br>
 a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
 b. Prioritise face-to-face consultations for patients/clients who require treatment/therapy, which if not provided or performed, would result in significant or rapid deterioration of the patient/client’s condition, and potentially threaten their health and wellbeing.
 
-Operations-related requirements:</br>
+Operations-related requirements:<br>
 c. For Private AHS Clinics/ Centre-based Services for Individuals with Disabilities, Developmental Needs or Special Educational Needs:
 - AH clinics/centres can provide service for **no more than 3 days in a week (The specific days and timing of operation should be based on individual AH clinic/centre/AHP’s current operating hours).**
 - Each AHP must adhere to **1 place of practice during this period.**
@@ -50,11 +50,11 @@ e. Allied Health Professionals (AHPs) can offer **either clinic-based services o
 
 10B. Psychology services (including mental health services) to adhere to the following from 8 May 2020 to 1 June 2020:
 
-Profession-related requirements:
-a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.
+Profession-related requirements:<br>
+a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.<br>
 b. Prioritise face-to-face consultations for cases where teleconsultation is deemed unsuitable —such as urgent new cases, unstable cases, individuals who are unable to use teleconferencing platforms (e.g. elderly, paediatric, individuals with intellectual disability, and children with Special Education Needs (SEN) applying for Primary 1 admission in Special Education (SPED) schools).
 
-Operations-related requirements
+Operations-related requirements<br>
 c. **Psychology/mental health services which have been previously exempted by MTI are to note that this exemption ended on 4 May 2020.** They must cease providing face-to-face psychology/mental health services after 4 May unless they have applied for, and received, a formal extension of exemption letter). **If they have not applied for a formal extension of exemption letter, they must apply for exemption to provide face-to-face psychology/mental health services under the relevant category below (either via <a href = "mailto: psychologyservices@moh.gov.sg">psychologyservices@moh.gov.sg</a> or via the Singapore Psychological Society, not via MTI) for the period from 8 May to 1 June 2020.**
 
 d. **Individual psychologists registered on the Singapore Register of Psychologists (SRP), and group services where all psychologists are registered on the SRP, can provide service for no more than 4 consecutive hours per day, for 5 days a week.** Face to face consultations should be for cases where teleconsultation is deemed unsuitable —such as urgent new cases, unstable cases, individuals who are unable to use teleconferencing platforms (e.g. elderly, paediatric, individuals with intellectual disability, and children with Special Education Needs (SEN) applying for Primary 1 admission in Special Education (SPED) schools).
