@@ -1,7 +1,7 @@
 ---
 title: Immediate Support
 permalink: /advisories/supportschemes/immediatesupport
-third_nav_title: Support Schemes  for Businesses
+third_nav_title: Support Schemes for Businesses
 ---
 
 ## **Immediate Support**

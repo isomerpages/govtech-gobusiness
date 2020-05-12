@@ -1,7 +1,7 @@
 ---
 title: Hiring Support for Employers
 permalink: /advisories/supportschemes/hiringsupport/
-third_nav_title: Support Schemes  for Businesses
+third_nav_title: Support Schemes for Businesses
 ---
 
 #### **Nuture & Retain Talents**

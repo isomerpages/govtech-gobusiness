@@ -1,7 +1,7 @@
 ---
 title: Financial Support
 permalink: /advisories/supportschemes/financialsupport
-third_nav_title: Support Schemes  for Businesses
+third_nav_title: Support Schemes for Businesses
 ---
 
 ## **Financial Support**

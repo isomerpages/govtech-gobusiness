@@ -1,7 +1,7 @@
 ---
 title: Grants Support
 permalink: /advisories/supportschemes/grantssupport
-third_nav_title: Support Schemes  for Businesses
+third_nav_title: Support Schemes for Businesses
 ---
 
 ## **Grants Support**
