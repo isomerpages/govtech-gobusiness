@@ -37,13 +37,21 @@ sections:
         button: Check Status of General Exemption Application Here
         url: https://go.gov.sg/exemptionstatus
     - infopic:
-        title: Safety @ Work
+        title: Safe Management Practices
         subtitle: 
         description: List of measures to ensure the safety at the workplace.
         button: Find Out More
-        url: /safetywork/safetymeasures
+        url: /advisories/safemanagement/general/
         image: /images/safetywork.jpg
-        alt: Safety @ Work
+        alt: Safe Management Practices
+    - infopic:
+        title: Support Schemes for Businesses
+        subtitle: 
+        description: List of support schemesthat Government is providing.
+        button: Find Out More
+        url: /advisories/supportschemes/
+        image: /images/helpinghands.jpg
+        alt: Government Assistance
 #    - infopic:
 #        title: GuideLlines & Advisories
 #        subtitle: 
@@ -60,22 +68,22 @@ sections:
         url: https://go.gov.sg/newsandadvisories
         image: /images/businesphoto.jpg
         alt: News & Advisories
-    - infopic:
-        title: The Unity, Resilience & Solidarity Budgets
-        subtitle: 
-        description: To support businesses in the Supplementary Budget 2020.
-        button: Find Out More
-        url: /govassist/budget2020
-        image: /images/budget2020.jpg
-        alt: The Unity, Resilience & Solidarity Budgets
-    - infopic:
-        title: Government Assistance
-        subtitle: 
-        description: List of assistance that Government is providing.
-        button: Find Out More
-        url: /govassist/govassist
-        image: /images/helpinghands.jpg
-        alt: Government Assistance
+#    - infopic:
+#        title: The Unity, Resilience & Solidarity Budgets
+#        subtitle: 
+#        description: To support businesses in the Supplementary Budget 2020.
+#        button: Find Out More
+#        url: /govassist/budget2020
+#        image: /images/budget2020.jpg
+#        alt: The Unity, Resilience & Solidarity Budgets
+#    - infopic:
+#        title: Government Assistance
+#        subtitle: 
+#        description: List of assistance that Government is providing.
+#        button: Find Out More
+#        url: /govassist/govassist
+#        image: /images/helpinghands.jpg
+#        alt: Government Assistance
     - infopic:
         title: Chat for Biz
         subtitle: 
