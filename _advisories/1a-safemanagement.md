@@ -1,5 +1,5 @@
 ---
-title: Safe Management Guidelines
+title: Safe Management Practices
 permalink: /advisories/safemanagement/general/
 ---
 
