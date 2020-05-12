@@ -32,40 +32,39 @@ permalink: /essentialservices/healthandsocialservices/
 
 10A. All outpatient non-public health institution (PHI) Allied Health Services (AHS)1 (excluding psychology services) to adhere to the following from 8 May 2020 to 1 June 2020:
 
-Profession-related requirements
+Profession-related requirements:
 : a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.
 : b. Prioritise face-to-face consultations for patients/clients who require treatment/therapy, which if not provided or performed, would result in significant or rapid deterioration of the patient/client’s condition, and potentially threaten their health and wellbeing.
 
-Operations-related requirements
+Operations-related requirements:
 : c. For Private AHS Clinics/ Centre-based Services for Individuals with Disabilities, Developmental Needs or Special Educational Needs:
 - AH clinics/centres can provide service for **no more than 3 days in a week (The specific days and timing of operation should be based on individual AH clinic/centre/AHP’s current operating hours).**
 - Each AHP must adhere to **1 place of practice during this period.**
 - Each session should **not be longer than 1 hour.**
 
-d. For Private AHS Home-based therapy:
+: d. For Private AHS Home-based therapy:
 - Each AHP can see **no more than 15 patients/clients (i.e. sessions) a week.**
 - Each session should **not be longer than 1 hour.**
 
-e. Allied Health Professionals (AHPs) can offer **either clinic-based services or Home-based therapy, but not a combination of both.**
+: e. Allied Health Professionals (AHPs) can offer **either clinic-based services or Home-based therapy, but not a combination of both.**
 
 10B. Psychology services (including mental health services) to adhere to the following from 8 May 2020 to 1 June 2020:
 
-Profession-related requirements
+Profession-related requirements:
 : a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.
 : b. Prioritise face-to-face consultations for cases where teleconsultation is deemed unsuitable —such as urgent new cases, unstable cases, individuals who are unable to use teleconferencing platforms (e.g. elderly, paediatric, individuals with intellectual disability, and children with Special Education Needs (SEN) applying for Primary 1 admission in Special Education (SPED) schools).
 
 Operations-related requirements
+: c. **Psychology/mental health services which have been previously exempted by MTI are to note that this exemption ended on 4 May 2020.** They must cease providing face-to-face psychology/mental health services after 4 May unless they have applied for, and received, a formal extension of exemption letter). **If they have not applied for a formal extension of exemption letter, they must apply for exemption to provide face-to-face psychology/mental health services under the relevant category below (either via <a href = "mailto: psychologyservices@moh.gov.sg">psychologyservices@moh.gov.sg</a> or via the Singapore Psychological Society, not via MTI) for the period from 8 May to 1 June 2020.**
 
-c. **Psychology/mental health services which have been previously exempted by MTI are to note that this exemption ended on 4 May 2020.** They must cease providing face-to-face psychology/mental health services after 4 May unless they have applied for, and received, a formal extension of exemption letter). **If they have not applied for a formal extension of exemption letter, they must apply for exemption to provide face-to-face psychology/mental health services under the relevant category below (either via <a href = "mailto: psychologyservices@moh.gov.sg">psychologyservices@moh.gov.sg</a> or via the Singapore Psychological Society, not via MTI) for the period from 8 May to 1 June 2020.**
-
-d. **Individual psychologists registered on the Singapore Register of Psychologists (SRP), and group services where all psychologists are registered on the SRP, can provide service for no more than 4 consecutive hours per day, for 5 days a week.** Face to face consultations should be for cases where teleconsultation is deemed unsuitable —such as urgent new cases, unstable cases, individuals who are unable to use teleconferencing platforms (e.g. elderly, paediatric, individuals with intellectual disability, and children with Special Education Needs (SEN) applying for Primary 1 admission in Special Education (SPED) schools).
+: d. **Individual psychologists registered on the Singapore Register of Psychologists (SRP), and group services where all psychologists are registered on the SRP, can provide service for no more than 4 consecutive hours per day, for 5 days a week.** Face to face consultations should be for cases where teleconsultation is deemed unsuitable —such as urgent new cases, unstable cases, individuals who are unable to use teleconferencing platforms (e.g. elderly, paediatric, individuals with intellectual disability, and children with Special Education Needs (SEN) applying for Primary 1 admission in Special Education (SPED) schools).
 - An application for exemption should be submitted for this category by submitting requested details (including proposed operating hours) to the Singapore Psychological Society (SPS) prior to commencing service provision.
 
-e. **Individual psychologists/mental health professionals who are not registered on the SRP, group practices where not all psychologists/mental health professionals are registered on the SRP, will need to appeal by submitting a request to <a href = "mailto: psychologyservices@moh.gov.sg">psychologyservices@moh.gov.sg</a> to provide service as per the requirements for those who are registered on the SRP (4 consecutive hours per day for 5 days a week).** This application to provide service should be done as part of a business (psychology/mental health service), covering all professionals providing service under that business.
+: e. **Individual psychologists/mental health professionals who are not registered on the SRP, group practices where not all psychologists/mental health professionals are registered on the SRP, will need to appeal by submitting a request to <a href = "mailto: psychologyservices@moh.gov.sg">psychologyservices@moh.gov.sg</a> to provide service as per the requirements for those who are registered on the SRP (4 consecutive hours per day for 5 days a week).** This application to provide service should be done as part of a business (psychology/mental health service), covering all professionals providing service under that business.
 
-f. Psychologists/mental health professionals must adhere to **only 1 place of practice for this period (which is the business under which the exemption was issued), with no home visits to clients to be carried out.**
+: f. Psychologists/mental health professionals must adhere to **only 1 place of practice for this period (which is the business under which the exemption was issued), with no home visits to clients to be carried out.**
 
-g. **All psychologists/mental health professionals must submit their proposed operating hours prior to starting service provision, whether applying via the SPS or via <a href = "mailto: psychologyservices@moh.gov.sg">psychologyservices@moh.gov.sg</a>.** For group services with more than 1 professional providing mental health services, the operating hours must be submitted as a group service, with all professionals adhering to the same operating hours. These operating hours must fulfil the criteria above (no more than 4 consecutive hours per day, for 5 days per week).
+: g. **All psychologists/mental health professionals must submit their proposed operating hours prior to starting service provision, whether applying via the SPS or via <a href = "mailto: psychologyservices@moh.gov.sg">psychologyservices@moh.gov.sg</a>.** For group services with more than 1 professional providing mental health services, the operating hours must be submitted as a group service, with all professionals adhering to the same operating hours. These operating hours must fulfil the criteria above (no more than 4 consecutive hours per day, for 5 days per week).
 
 Note: For AH clinic/centres/AHPs that need to apply for additional manpower (if you have received the approval for exemption), please do so via “Application for Additional Manpower” in <a href="https://covid.gobusiness.gov.sg/" target="_blank">https://covid.gobusiness.gov.sg/</a> . There is no need to resubmit an application for general exemption.
 
