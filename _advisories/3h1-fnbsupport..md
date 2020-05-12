@@ -1,6 +1,6 @@
 ---
 title: F&B
-permalink: /advisories/covidadvisor/fnbsupport/
+permalink: /advisories/supportschemes/fnbsupport/
 third_nav_title: Support Schemes  for Businesses
 ---
 

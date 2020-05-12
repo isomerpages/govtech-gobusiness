@@ -1,6 +1,6 @@
 ---
 title: F&B
-permalink: /advisories/safemanagement/fnb/
+permalink: /advisories/safemanagement/sector/fnb/
 third_nav_title: Sector-Specific Guidelines
 ---
 

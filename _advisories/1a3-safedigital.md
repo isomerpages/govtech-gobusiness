@@ -1,7 +1,6 @@
 ---
-title: Manufacturing
-permalink: /advisories/guidelinesforbusiness/manufacturing/
-third_nav_title: Guidelines for Business
+title: Digital Solution for Safe Management
+permalink: /advisories/safemanagement/safedigital/
 ---
 
 ## **Coming Soon...**

@@ -1,6 +1,6 @@
 ---
 title: Immediate Support
-permalink: /advisories/covidadvisor/immediatesupport
+permalink: /advisories/supportschemes/immediatesupport
 third_nav_title: Support Schemes  for Businesses
 ---
 

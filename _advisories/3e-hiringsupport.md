@@ -1,6 +1,6 @@
 ---
 title: Hiring Support for Employers
-permalink: /advisories/covidadvisor/hiringsupport/
+permalink: /advisories/supportschemes/hiringsupport/
 third_nav_title: Support Schemes  for Businesses
 ---
 

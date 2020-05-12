@@ -1,6 +1,6 @@
 ---
 title: Financial Support
-permalink: /advisories/covidadvisor/financialsupport
+permalink: /advisories/supportschemes/financialsupport
 third_nav_title: Support Schemes  for Businesses
 ---
 

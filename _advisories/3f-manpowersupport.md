@@ -1,6 +1,6 @@
 ---
 title: Manpower Support
-permalink: /advisories/covidadvisor/manpowersupport/
+permalink: /advisories/supportschemes/manpowersupport/
 third_nav_title: Support Schemes  for Businesses
 ---
 

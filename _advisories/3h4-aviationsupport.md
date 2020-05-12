@@ -1,6 +1,6 @@
 ---
 title: Aviation
-permalink: /advisories/covidadvisor/aviationsupport/
+permalink: /advisories/supportschemes/aviationsupport/
 third_nav_title: Support Schemes  for Businesses
 ---
 

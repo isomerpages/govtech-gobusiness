@@ -1,11 +1,10 @@
 ---
-title: COVID Advisor
-permalink: /advisories/covidadvisor/
-third_nav_title: Support Schemes  for Businesses
+title: Supporting Our Businesses
+permalink: /advisories/supportschemes/
+third_nav_title: Support Schemes for Businesses
 ---
 
-## **Supporting Our Businesses**
-The Govt has announced several support measures to protect livelihoods and support businesses under the:
+## **Below is a list immediate support provided by Singapore Government...**
 
 <div class="gobizfinsup1Table">
   <ul class="gobizfinsup1Table-firstTable">

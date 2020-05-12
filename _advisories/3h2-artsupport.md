@@ -1,6 +1,6 @@
 ---
 title: Arts & Culture
-permalink: /advisories/covidadvisor/artsupport/
+permalink: /advisories/supportschemes/artsupport/
 third_nav_title: Support Schemes  for Businesses
 ---
 
