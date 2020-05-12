@@ -1,7 +1,7 @@
 ---
 title: Immediate Support
 permalink: /advisories/covidadvisor/immediatesupport
-third_nav_title: Business Support Advisory
+third_nav_title: Support Schemes  for Businesses
 ---
 
 ## **Immediate Support**

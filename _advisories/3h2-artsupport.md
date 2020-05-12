@@ -1,7 +1,7 @@
 ---
 title: Arts & Culture
 permalink: /advisories/covidadvisor/artsupport/
-third_nav_title: Business Support Advisory
+third_nav_title: Support Schemes  for Businesses
 ---
 
 ## **Coming Soon...**

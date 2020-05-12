@@ -1,7 +1,7 @@
 ---
 title: Grants Support
 permalink: /advisories/covidadvisor/grantssupport
-third_nav_title: Business Support Advisory
+third_nav_title: Support Schemes  for Businesses
 ---
 
 ## **Grants Support**

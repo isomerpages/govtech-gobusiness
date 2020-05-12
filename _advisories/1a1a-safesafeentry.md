@@ -1,6 +1,7 @@
 ---
-title: Safety @ Work
-permalink: /advisories/safetymeasures/
+title: SafeEntry
+permalink: /advisories/safemanagement/safeentry/
+third_nav_title: General
 ---
 
 #### **1. SafeEntry**
