@@ -36,13 +36,10 @@ permalink: /essentialservices/others/
 
 12. Retail laundry services, industrial and unmanned laundry 
 
-13. Testing, inspection and certification centres
+13. Private buses
 
-14. Unions
+14. Testing, inspection and certification centres
 
-15. All other critical and ancillary services contracted by the Government for the provision of supporting Government functions or for the above-mentioned Essential Services.
+15. Unions
 
-With effect from 12 May:
-- Hairdressers and barbers for basic haircut services only
-- Retail laundry services
-- Retail pet food and supplies
+16. All other critical and ancillary services contracted by the Government for the provision of supporting Government functions or for the above-mentioned Essential Services.
