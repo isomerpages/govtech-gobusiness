@@ -33,11 +33,11 @@ permalink: /essentialservices/healthandsocialservices/
 10A. All outpatient non-public health institution (PHI) Allied Health Services (AHS)1 (excluding psychology services) to adhere to the following from 8 May 2020 to 1 June 2020:
 
 Profession-related requirements
-a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.
-b. Prioritise face-to-face consultations for patients/clients who require treatment/therapy, which if not provided or performed, would result in significant or rapid deterioration of the patient/client’s condition, and potentially threaten their health and wellbeing.
+: a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.
+: b. Prioritise face-to-face consultations for patients/clients who require treatment/therapy, which if not provided or performed, would result in significant or rapid deterioration of the patient/client’s condition, and potentially threaten their health and wellbeing.
 
 Operations-related requirements
-c. For Private AHS Clinics/ Centre-based Services for Individuals with Disabilities, Developmental Needs or Special Educational Needs:
+: c. For Private AHS Clinics/ Centre-based Services for Individuals with Disabilities, Developmental Needs or Special Educational Needs:
 - AH clinics/centres can provide service for **no more than 3 days in a week (The specific days and timing of operation should be based on individual AH clinic/centre/AHP’s current operating hours).**
 - Each AHP must adhere to **1 place of practice during this period.**
 - Each session should **not be longer than 1 hour.**
@@ -51,10 +51,8 @@ e. Allied Health Professionals (AHPs) can offer **either clinic-based services o
 10B. Psychology services (including mental health services) to adhere to the following from 8 May 2020 to 1 June 2020:
 
 Profession-related requirements
-
-a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.
-
-b. Prioritise face-to-face consultations for cases where teleconsultation is deemed unsuitable —such as urgent new cases, unstable cases, individuals who are unable to use teleconferencing platforms (e.g. elderly, paediatric, individuals with intellectual disability, and children with Special Education Needs (SEN) applying for Primary 1 admission in Special Education (SPED) schools).
+: a. Leverage on tele-consult/tele-rehab to address clinical needs as far as possible.
+: b. Prioritise face-to-face consultations for cases where teleconsultation is deemed unsuitable —such as urgent new cases, unstable cases, individuals who are unable to use teleconferencing platforms (e.g. elderly, paediatric, individuals with intellectual disability, and children with Special Education Needs (SEN) applying for Primary 1 admission in Special Education (SPED) schools).
 
 Operations-related requirements
 
