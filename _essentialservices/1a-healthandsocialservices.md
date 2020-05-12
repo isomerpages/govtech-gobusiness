@@ -30,7 +30,7 @@ permalink: /essentialservices/healthandsocialservices/
 
 9. All TCM medical halls
 
-10A. All outpatient non-public health institution (PHI) Allied Health Services (AHS)1 (excluding psychology services) to adhere to the following from 8 May 2020 to 1 June 2020:
+10A. All outpatient non-public health institution (PHI) Allied Health Services (AHS)1 (excluding psychology services) to adhere to the following from 8 May 2020 to 1 June 2020:</br>
 
 
 Profession-related requirements:
