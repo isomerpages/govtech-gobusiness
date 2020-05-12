@@ -30,11 +30,11 @@ permalink: /essentialservices/others/
 9. Selected face-to-face Continuing Education & Training (CET) 
 : a. For training of essential roles supporting the national COVID-19 efforts
 
-10. Pet supplies stores (only online retail allowed, physical shopfront to be closed)
+10. Hairdressers and barbers (for basic haircut services only)
 
-11. Retail laundry services (only online and delivery services allowed, physical shopfront to be closed) and unmanned laundry services
+11. Pet food and supplies stores 
 
-12. Private buses
+12. Retail laundry services, industrial and unmanned laundry 
 
 13. Testing, inspection and certification centres
 
