@@ -16,6 +16,8 @@ As the number of new infection cases continue to rise, stricter measures to cont
 #### **3. How do I know if I need to submit the details of my essential manpower?**
 Only businesses that have received an exemption approval are required to do so.
 
+This excludes foreign domestic workers and staff of government agencies.
+
 #### **4. When can I start to submit the details of my essential manpower?**
 The form for the submission of essential manpower is available <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> from 19 April 2020. You will have **2 days** from the date that you receive the email notification to do so.
 
