@@ -4,7 +4,7 @@ logo: /images/Gobiz_COVID_logo-01.svg
 favicon: /images/Gobiz_favicon.ico
 collections:
   advisories:
-    output: true
+    output: false
   safetywork:
     output: true
   govtassist:
