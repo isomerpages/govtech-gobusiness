@@ -41,9 +41,17 @@ sections:
         subtitle: 
         description: List of measures to ensure the safety at the workplace.
         button: Find Out More
-        url: /safetywork/safetymeasures
+        url: /safetywork/safetymeasures/
         image: /images/safetywork.jpg
         alt: Safety @ Work
+#    - infopic:
+#        title: Support Schemes for Businesses
+#        subtitle: 
+#        description: List of support schemesthat Government is providing.
+#        button: Find Out More
+#        url: /advisories/supportschemes/
+#        image: /images/helpinghands.jpg
+#        alt: Government Assistance
 #    - infopic:
 #        title: GuideLlines & Advisories
 #        subtitle: 
