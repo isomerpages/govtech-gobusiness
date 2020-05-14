@@ -5,7 +5,7 @@ description: For Singapore Businesses
 image: /images/
 permalink: /
 #notification: 
-notification: <strong>Attention:</strong> Due to scheduled system maintenance, the manpower submission form will be temporarily <u>unavailable</u> on 14 May 14 May 2020, from 10pm to 12am. All other services on the site will remain unaffected. We apologise for any inconvenience caused.
+notification: <strong>Attention:</strong> Due to scheduled system maintenance, the manpower submission form will be temporarily <u>unavailable</u> on 14 May 2020, from 10pm to 12am. All other services on the site will remain unaffected. We apologise for any inconvenience caused.
 sections:
     - hero:
         title: Supporting Our Businesses
