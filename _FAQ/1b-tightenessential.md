@@ -4,7 +4,7 @@ permalink: /faq/tightenessential
 ---
 
 #### **1. How do I know if my company is included in the list of selected F&B and retail outlets that will be allowed to resume operations?**
-You may refer to the latest <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/may-2020/updated-safe-distancing-measures-for-food-and-beverage-establishments" target="_blank">F&B</a> and <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/may-2020/updated-safe-distancing-measures-for-retail-establishments" target="_blank">Retail</a> advisories here.
+You may refer to the latest <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/may-2020/safe-management-measures-for-food_beverage-establishments" target="_blank">F&B</a> and <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/may-2020/safe-management-measures-for-retail-establishments" target="_blank">Retail</a> advisories here.
 
 #### **2. When can certain F&B and retail outlets resume operations?**
 With effect from 12 May 2020, selected F&B and retail outlets will be allowed to resume operations.
