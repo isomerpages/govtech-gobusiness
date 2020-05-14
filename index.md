@@ -5,7 +5,7 @@ description: For Singapore Businesses
 image: /images/
 permalink: /
 #notification: 
-notification: With effect from 12 May 2020, if your business and/or activities fall under the list provided <a target="_blank" href="https://go.gov.sg/safeentrydeloyment">here</a>, you are required to implement the SafeEntry system at your business premises to log the check-in and check-out of employees and visitors, in accordance with the prevailing requirements as stated at <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">SafeEntry</a>.
+notification: <strong>Attention:</strong> Due to scheduled system maintenance, the manpower submission form will be temporarily <u>unavailable</u> on 14 May 14 May 2020, from 10pm to 12am. All other services on the site will remain unaffected. We apologise for any inconvenience caused.
 sections:
     - hero:
         title: Supporting Our Businesses
