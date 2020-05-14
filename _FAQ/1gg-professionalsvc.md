@@ -30,10 +30,10 @@ If the services that your law practice provides are not one of the four categori
 The advisory for law practices during the period of elevated safe distancing measures can be found <a href="https://www.mlaw.gov.sg/news/announcements/advisory-for-law-practices-on-elevated-safe-distancing-measures" target="_blank">here</a>. 
 
 #### **6. It was announced on 2 May that some of the tighter circuit breaker measures will be progressively eased in the coming weeks, does this mean law practices can resume regular business activities?**
-The legal sector as a whole has not been identified as one of the sectors which can resume regular business activities yet; only law practices that have been granted a General Exemption to carry out essential legal services activities can operate within the manpower quota allotted.  The list of business and facilities that are allowed to resume operations can be found at <a href="https://www.safeentry.gov.sg/deployment" target="_blank">https://www.safeentry.gov.sg/deployment</a>. This list will be updated as more activities and services resume. 
+The legal sector as a whole has not been identified as one of the sectors which can resume regular business activities yet; only law practices that have been granted a General Exemption to carry out essential legal services activities can operate within the manpower quota allotted.
 
 #### **7. Is it necessary for our law practice to adopt Safe Management Measures?**
-From 12 May 2020, all businesses allowed to operate are required to have implemented the Safe Management Measures in the requirements, including those allowed to operate during the Circuit Breaker period. Law practices operating during the Circuit Breaker period under General Exemption are required to implement Safe Management Measures.   
+From 12 May 2020, all businesses allowed to operate during the Circuit Breaker period must implement Safe Management Measures. Law practices operating during the Circuit Breaker period under General Exemption are also required to implement Safe Management Measures. 
 
 For businesses resuming operations after the Circuit Breaker period, all Safe Management Measures should be in place before operations can resume at the workplace. Law practices should begin to put in place Safe Management Measures at your office premises ahead of time. 
 
