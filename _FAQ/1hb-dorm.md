@@ -84,7 +84,7 @@ Employers and employees have a joint duty to ensure that employees behave respon
 If employers insist for employees to return to your workplace, employees may report the matter to MOM at <a href = "mailto: MOM_QOps@mom.gov.sg">MOM_QOps@mom.gov.sg</a>.
 
 #### **20. What should employees do if they are evicted from their ‘Specified Place of Accommodation’ because they are on SHN?**
-Employees can report the matter to MOM at MOM_QOps@mom.gov.sg or call 6438 5122.
+Employees can report the matter to MOM at <a href = "mailto: MOM_QOps@mom.gov.sg">MOM_QOps@mom.gov.sg</a> or call 6438 5122.
 
 #### **21. What resource do evicted foreign employees have? How may they recover rent money paid in advance to landlords?**
 Tenants considering actions against landlords, including for recovery of money, may wish to consider if there is a breach of tenancy agreement before pursuing further action. You may seek legal advice. If you do not have legal counsel of your own, you may visit the following free legal clinics:
@@ -143,7 +143,7 @@ If MOM staff checks in with them via phone/video call, your foreign employees wo
 When visiting the doctor, your foreign employees are required to wear a mask at all times, minimise contact with others and practise safe distancing measures.
 
 #### **27. My foreign employee has been placed on SHN. However, he originally intended to move house before the SHN began, as his lease at his current location is ending. Is he allowed to move house during the SHN period?**
-Foreign employees under SHN are allowed to move house if they had originally intended to so before the SHN was released, and if their lease at their current location is ending. They are required to submit proof of documentation (e.g. the previous lease agreement and new lease agreement) to MOM_QOps@mom.gov.sg as a declaration before doing so.
+Foreign employees under SHN are allowed to move house if they had originally intended to so before the SHN was released, and if their lease at their current location is ending. They are required to submit proof of documentation (e.g. the previous lease agreement and new lease agreement) to <a href = "mailto: MOM_QOps@mom.gov.sg">MOM_QOps@mom.gov.sg</a> as a declaration before doing so.
 
 If MOM staff checks in with them via phone/video call, your foreign employees would need to show this documentation (i.e. email of declaration to QOps) to explain why they were found outside their residential premises during the SHN period.
 
