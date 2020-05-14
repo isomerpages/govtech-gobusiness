@@ -23,7 +23,7 @@ All non-essential activities outside the home shall be suspended during this per
 Special attention should be paid to vulnerable employees (e.g. older/pregnant employees, and those with underlying medical conditions) to enable them to work from home, including temporarily redeploying these employees to another role within the company that is suitable for working from home.
 
 #### **6. If my business does not conduct essential activities, can I go to my place of business to perform maintenance of the facility, attend to perishable products, receive deliveries or perform other necessary tasks?**
-If you are the owner of a non-essential business, you may go to your business location to take care of crucial tasks that cannot be done remotely or to retrieve necessary materials or documents. Your employees are not permitted to go to your place of business.  They may work remotely from home.
+If you are the owner of a non-essential business, you may go to your business location for a short duration to take care of crucial tasks that cannot be done remotely or to retrieve necessary materials or documents. Your employees are not permitted to go to your place of business.  They may work remotely from home.
 
 If you need to activate your employees to work on-site for short periods of time (i.e. less than a day), you need to apply for a time-limited exemption. Please submit your application **one day before** the required date of use.
 
