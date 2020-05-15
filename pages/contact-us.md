@@ -10,10 +10,9 @@ contacts:
 #    - phone: Test
     - other: For more enquiries, please contact us at
     - phone: +65 6898 1800
-    - other: From Monday-Friday, 8.30am-5.30pm and Saturday, 8.30am-1pm (excluding Public Holidays)
+    - other: From Monday-Friday, 8.30am-5.30pm and Saturday, 8.30am-1pm (excluding Public Holidays)<br/>
 #    - email: Test
 #    - email: safedistancing@enterprisesg.gov.sg
-<br/>
     - other: You may also reach out to us by submitting your enquiry through our <a href="https://go.gov.sg/sdenquiries" target="_blank">online form</a>.
 #    - other: Test 
     - other: <br>We are experiencing a high volume of enquiries and appreciate your understanding and patience.   
