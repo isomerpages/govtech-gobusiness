@@ -4,8 +4,8 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: Ministry of Trade and Industry Singapore
 #agency_name: Test
-contacts:
 For more enquiries, please contact us at
+contacts:
     content:
 #    - phone: Test
 #    - other: For more enquiries, please contact us at
