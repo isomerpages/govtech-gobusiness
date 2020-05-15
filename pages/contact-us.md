@@ -15,6 +15,6 @@ contacts:
 #    - email: safedistancing@enterprisesg.gov.sg
     - other: <br>You may also reach out to us by submitting your enquiry through our <a href="https://go.gov.sg/sdenquiries" target="_blank">online form</a>.
 #    - other: Test 
-    - other: <br>We are experiencing a high volume of enquiries and appreciate your understanding and patience. Kindly refrain from submitting duplicate applications to avoid further delays.
+    - other: <br>We are experiencing a high volume of enquiries and appreciate your understanding and patience.
 #    - other: For more enquiries,<br>contact us at +65 6898 1800 or drop us an email at safedistancing@enterprisesg.gov.sg   
 ---
