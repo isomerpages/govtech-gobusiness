@@ -20,3 +20,6 @@ Private hire vehicles such as Grab and Go-Jek are allowed to operate as they are
 #### **4. Can car-pooling services continue during the circuit breaker period?**
 Car-pooling services including GrabHitch and RydePool are not “essential services”. 
 Drivers operating such services must stop providing car-pool services. This includes non-commercial car-pool arrangements between people who do not live in the same residence.
+
+#### **5. Are motor dealers allowed to continue selling vehicles during the Circuit Breaker period?**
+Motor dealers are not allowed to open their shopfront and conduct test drives. However, they can continue to sell their vehicles online and fulfil the orders through delivery during the circuit breaker period.
