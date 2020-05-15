@@ -5,10 +5,10 @@ permalink: /contact-us/
 agency_name: Ministry of Trade and Industry Singapore
 #agency_name: Test
 contacts:
-  - other: For more enquiries, please contact us at
+#  - other: For more enquiries, please contact us at
     content:
 #    - phone: Test
-#    - other: For more enquiries, please contact us at
+    - other: For more enquiries, please contact us at
     - phone: +65 6898 1800
     - other: From Monday-Friday, 8.30am-5.30pm and Saturday, 8.30am-1pm (excluding Public Holidays)
 #    - email: Test
