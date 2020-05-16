@@ -6,6 +6,7 @@ third_nav_title: Support Schemes for Businesses
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
 
+<div class="testtable">
 <table id="myTable">
   <tr class="header">
     <th style="width:60%;">Name</th>
@@ -28,3 +29,4 @@ third_nav_title: Support Schemes for Businesses
     <td>Germany</td>
   </tr>
 </table>
+</div>
