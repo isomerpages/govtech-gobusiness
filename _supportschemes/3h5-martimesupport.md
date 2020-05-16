@@ -5,8 +5,7 @@ third_nav_title: Support Schemes for Businesses
 ---
 
 
-<html>
-<body>
+
 
 <p>Click1 the button to display an alert box.1</p>
 
@@ -18,5 +17,3 @@ function myFunction() {
 }
 </script>
 
-</body>
-</html>
