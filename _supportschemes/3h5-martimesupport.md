@@ -3,21 +3,16 @@ title: Martime
 permalink: /supportschemes/martimesupport/
 third_nav_title: Support Schemes for Businesses
 datatable: true
----
-
 
 <div class="datatable-begin"></div>
 
 Food    | Description                           | Category | Sample type
 ------- | ------------------------------------- | -------- | -----------
-Apples1  | A small, somewhat round ...           | Fruit    | Fuji
-Bananas 1| A long and curved, often-yellow ...   | Fruit    | Snow
+Apples  | A small, somewhat round ...           | Fruit    | Fuji
+Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
 Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
 Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 
 <div class="datatable-end"></div>
+---
 
-
-```js
-console.log('hello');
-````
