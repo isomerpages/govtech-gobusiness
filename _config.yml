@@ -4,9 +4,9 @@ logo: /images/Gobiz_COVID_logo-01.svg
 favicon: /images/Gobiz_favicon.ico
 collections:
   safemanagement:
-    output: true
+    output: false
   supportschemes:
-    output: true
+    output: false
   safetywork:
     output: true
   govtassist:
