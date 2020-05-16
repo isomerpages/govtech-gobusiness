@@ -23,7 +23,7 @@ third_nav_title: Support Schemes for Businesses
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Vatanay</td>
+      <td>Vatanay1</td>
       <td>UI & UX</td>
       <td>Istanbul</td>
     </tr>
