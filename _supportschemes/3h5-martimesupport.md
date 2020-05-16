@@ -5,10 +5,18 @@ third_nav_title: Support Schemes for Businesses
 ---
 
 
-<button onclick="myFunction1()">Try it</button>
+<html>
+<body>
+
+<p>Click the button to display an alert box.</p>
+
+<button onclick="myFunction()">Try it</button>
 
 <script>
-function myFunction1() {
+function myFunction() {
   alert("Hello! I am an alert box!");
 }
 </script>
+
+</body>
+</html>
