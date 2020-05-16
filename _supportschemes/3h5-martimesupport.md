@@ -10,7 +10,7 @@ customjs:
 
 
 
-<p>Click1 the button to display an alert box.1</p>
+<p>Click2 the button to display an alert box.1</p>
 
 <button onclick="myFunction()">Try it</button>
 
