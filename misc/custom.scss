@@ -1339,13 +1339,20 @@ $bgfontcolor: #717787;
 
 
 
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
+body{
+  padding:20px 20px;
 }
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
+
+.results tr[visible='false'],
+.no-result{
+  display:none;
+}
+
+.results tr[visible='true']{
+  display:table-row;
+}
+
+.counter{
+  padding:8px; 
+  color:#ccc;
 }
