@@ -4,99 +4,52 @@ permalink: /supportschemes/martimesupport/
 third_nav_title: Support Schemes for Businesses
 ---
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-<script>
-    $(document).ready(function () {
-        $(".search").keyup(function () {
-            var searchTerm = $(".search").val();
-            var listItem = $('.results tbody').children('tr');
-            var searchSplit = searchTerm.replace(/ /g, "'):containsi('")
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
 
-            $.extend($.expr[':'], {
-                'containsi': function (elem, i, match, array) {
-                    return (elem.textContent || elem.innerText || '').toLowerCase().indexOf((match[3] || "").toLowerCase()) >= 0;
-                }
-            });
-
-            $(".results tbody tr").not(":containsi('" + searchSplit + "')").each(function (e) {
-                $(this).attr('visible', 'false');
-            });
-
-            $(".results tbody tr:containsi('" + searchSplit + "')").each(function (e) {
-                $(this).attr('visible', 'true');
-            });
-
-            var jobCount = $('.results tbody tr[visible="true"]').length;
-            $('.counter').text(jobCount + ' item');
-
-            if (jobCount == '0') { $('.no-result').show(); }
-            else { $('.no-result').hide(); }
-        });
-    });
-</script>
-
-<style>
-        body{
-        padding:20px 20px;
-        }
-
-        .results tr[visible='false'],
-        .no-result{
-        display:none;
-        }
-
-        .results tr[visible='true']{
-        display:table-row;
-        }
-
-        .counter{
-        padding:8px; 
-        color:#ccc;
-        }
-</style>
-
-<div class="form-group pull-right">
-    <input type="text" class="search form-control" placeholder="What you looking for?">
-</div>
-<span class="counter pull-right"></span>
-<table class="table table-hover table-bordered results">
-  <thead>
-    <tr>
-      <th>#</th>
-      <th class="col-md-5 col-xs-5">Name / Surname</th>
-      <th class="col-md-4 col-xs-4">Job</th>
-      <th class="col-md-3 col-xs-3">City</th>
-    </tr>
-    <tr class="warning no-result">
-      <td colspan="4"><i class="fa fa-warning"></i> No result</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Vatanay1234</td>
-      <td>UI & UX</td>
-      <td>Istanbul</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Burak Özkan</td>
-      <td>Software Developer</td>
-      <td>Istanbul</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Egemen Özbeyli</td>
-      <td>Purchasing</td>
-      <td>Kocaeli</td>
-    </tr>
-    <tr>
-      <th scope="row">4</th>
-      <td>Engin Kızıl</td>
-      <td>Sales</td>
-      <td>Bozuyük</td>
-    </tr>
-  </tbody>
+<table id="myTable">
+  <tr class="header">
+    <th style="width:60%;">Name</th>
+    <th style="width:40%;">Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Berglunds snabbkop</td>
+    <td>Sweden</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Koniglich Essen</td>
+    <td>Germany</td>
+  </tr>
 </table>
 
+
+<script>
+function myFunction() {
+  // Declare variables
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
