@@ -5,43 +5,28 @@ third_nav_title: Support Schemes for Businesses
 ---
 
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
 
-<table id="myTable">
-  <tr class="header">
-    <th style="width:60%;">Name</th>
-    <th style="width:40%;">Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Berglunds snabbkop</td>
-    <td>Sweden</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Koniglich Essen</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>North/South</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Paris specialites</td>
-    <td>France</td>
-  </tr>
-</table>
+  <div class="container" data-ng-app="myApp" data-ng-controller="myCtrl">
+    <div class="row">
+      <div class="col-md-2">
+        Search:
+      </div>
+      <div class="col-md-10">
+        <input type="text" class="search" data-ng-model="table" />
+      </div>
+    </div>
+    <br/>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>City</th>
+        <th>Country</th>
+      </tr>
+      <tr data-ng-repeat="customer in people | filter: table">
+        <td>{{customer.Name}}</td>
+        <td>{{customer.City}}</td>
+        <td>{{customer.Country}}</td>
+      </tr>
+    </table>
+    <div data-pagination="" data-num-pages="numPages()" data-current-page="currentPage" data-max-size="maxSize" data-boundary-links="true"></div>
+  </div>
