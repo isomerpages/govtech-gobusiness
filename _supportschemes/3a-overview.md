@@ -19,7 +19,7 @@ third_nav_title: Support Schemes for Businesses
         <li>Corporate Income Tax Rebate</li>
         <li>Foreign Worker Levy (FWL) Waiver</li>
       </ul>
-      <a href="/covidadvisor/immediatesupport"><div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div></a>
+      <a href="/supportschemes/immediatesupport"><div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div></a>
     </li>
   </ul>
 </div>
@@ -31,12 +31,12 @@ third_nav_title: Support Schemes for Businesses
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Apply for Grants</h1>
-      <a href="/covidadvisor/grantssupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <a href="/supportschemes/grantssupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Require Financial Support?</h1>
-      <a href="/covidadvisor/financialsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <a href="/supportschemes/financialsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
@@ -45,12 +45,12 @@ third_nav_title: Support Schemes for Businesses
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Manpower support?</h1>
-      <a href="/covidadvisor/manpowersupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <a href="/supportschemes/manpowersupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
      <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Assistance on Digital Support?</h1>
-      <a href="/covidadvisor/digitalsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <a href="/supportschemes/digitalsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
@@ -62,12 +62,12 @@ third_nav_title: Support Schemes for Businesses
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">From Arts & Culture?</h1>
-      <a href="/covidadvisor/artsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <a href="/supportschemes/artsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">From F&B?</h1>
-      <a href="/covidadvisor/fnbsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <a href="/supportschemes/fnbsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
@@ -76,12 +76,12 @@ third_nav_title: Support Schemes for Businesses
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">From Hospitality and Tourism?</h1>
-      <a href="/covidadvisor/aviationsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <a href="/supportschemes/aviationsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">From Martime?</h1>
-      <a href="/covidadvisor/martimesupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <a href="/supportschemes/martimesupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
