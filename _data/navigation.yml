@@ -25,7 +25,8 @@ links:
     url: /faq/general
 #    collection: FAQ
   - title: Guides
-    collection: guides
+    url: /guides/timelimitedexemptionvideo/
+#    collection: guides
   - title: Contact Us
     url: /contact-us/
     
