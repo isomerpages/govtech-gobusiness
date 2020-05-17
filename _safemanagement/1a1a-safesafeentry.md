@@ -1,7 +1,7 @@
 ---
 title: SafeEntry
 permalink: /safemanagement/safeentry/
-third_nav_title: General Guidelines
+third_nav_title: Safe Management Practices
 ---
 
 #### **1. SafeEntry**
