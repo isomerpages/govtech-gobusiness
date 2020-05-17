@@ -15,13 +15,15 @@ links:
 #  - title: Support Schemes for Businesses
 #    collection: supportschemes
   - title: List of Essential Services
-    collection: essentialservices
+    url: /essentialservices/healthandsocialservices/
+#    collection: essentialservices
 #  - title: GrowSJ
 #    collection: growsj
 #  - title: List of Essential Services
 #    url: /essentialservices/
   - title: FAQ
-    collection: FAQ
+    url: /faq/general
+#    collection: FAQ
   - title: Guides
     collection: guides
   - title: Contact Us
