@@ -4,49 +4,32 @@ permalink: /supportschemes/martimesupport/
 third_nav_title: Support Schemes for Businesses
 ---
 
+<form accept-charset="UTF-8" action="" method="POST">
+<input type="text" name="tourName" value="">
+<input type="text" name="tourPrice" value="">
+<input type="email" name="email" placeholder="Your Email">
+<input type="text" name="name" placeholder="Your Name">
+<button type="submit">Submit</button>
+</form>
 
-<div>
-<div class="form-group pull-right">
-    <input type="text" class="search form-control" placeholder="What you looking for?">
-</div>
-<span class="counter pull-right"></span>
-<table class="table table-hover table-bordered results">
-  <thead>
-    <tr>
-      <th>#</th>
-      <th class="col-md-5 col-xs-5">Name / Surname</th>
-      <th class="col-md-4 col-xs-4">Job</th>
-      <th class="col-md-3 col-xs-3">City</th>
-    </tr>
-    <tr class="warning no-result">
-      <td colspan="4"><i class="fa fa-warning"></i> No result</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Vatanay Özbeyli</td>
-      <td>UI & UX</td>
-      <td>Istanbul</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Burak Özkan</td>
-      <td>Software Developer</td>
-      <td>Istanbul</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Egemen Özbeyli</td>
-      <td>Purchasing</td>
-      <td>Kocaeli</td>
-    </tr>
-    <tr>
-      <th scope="row">4</th>
-      <td>Engin Kızıl</td>
-      <td>Sales</td>
-      <td>Bozuyük</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<script>
+// this script will automatically fill name and price fields 
+// depending on what's passed in the url
+var fillForm = function () {
+    var queryString = document.location.search.split("+").join(" ");
+    var params = {}, tokens, re = /[?&]?([^=]+)=([^&]*)/g;
+
+    while (tokens = re.exec(queryString)) {
+        params[decodeURIComponent(tokens[1])] = decodeURIComponent(tokens[2]);
+    }
+
+    if (params.n == undefined && params.p == undefined){
+        // no value in the query string
+        // here you have to manage this use case : redirect or print a message to user
+    }else{
+        // filling form fields with query string values
+        document.getElementsByName('tourName')[0].value = params.n;
+        document.getElementsByName('tourPrice')[0].value = params.p;
+    }
+} ();
+</script>
