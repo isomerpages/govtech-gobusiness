@@ -30,7 +30,7 @@ permalink: /supportschemes/general
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Apply for Grants</h1>
-      <a href="/supportschemes/grantssupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <a href="/supportschemes/financialsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
