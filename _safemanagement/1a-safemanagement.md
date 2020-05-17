@@ -3,4 +3,4 @@ title: Safe Management Practices
 permalink: /safemanagement/general/
 ---
 
-## **Coming Soon...**
+[![Safe Management Practices](/images/safemanagement.png)](/safemanagement/general/)
