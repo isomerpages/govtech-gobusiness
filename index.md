@@ -60,14 +60,7 @@ sections:
         url: /safemanagement/general/
         image: /images/safetywork.jpg
         alt: Safe Management Practices
-     - infopic:
-        title: Support Schemes for Businesses
-        subtitle: 
-        description: List of assistance that Government is providing.
-        button: Find Out More
-        url: /supportschemes/
-        image: /images/helpinghands.jpg
-        alt: Support Schemes for Businesses
+
 #    - infopic:
 #        title: Support Schemes for Businesses
 #        subtitle: 
