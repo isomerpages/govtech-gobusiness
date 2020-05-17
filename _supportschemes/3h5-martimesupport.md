@@ -5,7 +5,7 @@ third_nav_title: Support Schemes for Businesses
 ---
 
 
-
+<div>
 <div class="form-group pull-right">
     <input type="text" class="search form-control" placeholder="What you looking for?">
 </div>
@@ -49,3 +49,4 @@ third_nav_title: Support Schemes for Businesses
     </tr>
   </tbody>
 </table>
+</div>
