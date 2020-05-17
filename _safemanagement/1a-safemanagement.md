@@ -9,7 +9,7 @@ To provide a safe working environment and to prevent transmission at the workpla
 Please view the infographic below for more details.
 
 
-**Be Ready, Stay Safe**
+**Be Ready, Stay Safe**<br>
 **6 Mandatory Steps to Keep Your Company Safe When You Reopen for Business**
 
 [![Safe Management Practices](/images/safemanagement.jpg)](/safemanagement/general/)
