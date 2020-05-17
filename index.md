@@ -44,30 +44,7 @@ sections:
         url: https://go.gov.sg/newsandadvisories
         image: /images/businesphoto.jpg
         alt: News & Advisories
-    - infopic:
-        title: Chat for Biz
-        subtitle: 
-        description: Chat with our virtual assistant on questions related to COVID-19 outbreak. 
-        button: Chat Now
-        url: https://go.gov.sg/bizchatbot
-        image: /images/chatbot1.jpg
-        alt: Chat for Biz
-    - infopic:
-        title: Safe Management Practices
-        subtitle: 
-        description: List of measures to ensure the safety at the workplace.
-        button: Find Out More
-        url: /safetywork/safetymeasures/
-        image: /images/safetywork.jpg
-        alt: Safe Management Practices
-     - infopic:
-        title: Support Schemes for Businesses
-        subtitle: 
-        description: List of assistance that Government is providing.
-        button: Find Out More
-        url: /supportschemes/
-        image: /images/helpinghands.jpg
-        alt: Support Schemes for Businesses
+    
 #    - infopic:
 #        title: Support Schemes for Businesses
 #        subtitle: 
