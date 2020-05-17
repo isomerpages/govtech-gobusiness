@@ -65,7 +65,7 @@ sections:
         subtitle: 
         description: List of assistance that Government is providing.
         button: Find Out More
-        url: /supportschemes/
+        url: /supportschemes/general
         image: /images/helpinghands.jpg
         alt: Support Schemes for Businesses
 #    - infopic:

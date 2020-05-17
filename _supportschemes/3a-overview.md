@@ -1,7 +1,6 @@
 ---
 title: Supporting Our Businesses
-permalink: /supportschemes/
-third_nav_title: Support Schemes for Businesses
+permalink: /supportschemes/general
 ---
 
 ## **Below is a list immediate support provided by Singapore Government...**

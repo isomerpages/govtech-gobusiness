@@ -1,7 +1,6 @@
 ---
 title: Manpower Support
 permalink: /supportschemes/manpowersupport/
-third_nav_title: Support Schemes for Businesses
 ---
 
 #### **Transform and Grow**
