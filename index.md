@@ -37,13 +37,37 @@ sections:
         button: Check Status of General Exemption Application Here
         url: https://go.gov.sg/exemptionstatus
     - infopic:
-        title: Safety @ Work
+        title: News & Advisories
+        subtitle: 
+        description: Get updated on the latest News and Advisories related to COVID-19.
+        button: Find Out More
+        url: https://go.gov.sg/newsandadvisories
+        image: /images/businesphoto.jpg
+        alt: News & Advisories
+    - infopic:
+        title: Chat for Biz
+        subtitle: 
+        description: Chat with our virtual assistant on questions related to COVID-19 outbreak. 
+        button: Chat Now
+        url: https://go.gov.sg/bizchatbot
+        image: /images/chatbot1.jpg
+        alt: Chat for Biz
+    - infopic:
+        title: Safe Management Practices
         subtitle: 
         description: List of measures to ensure the safety at the workplace.
         button: Find Out More
         url: /safetywork/safetymeasures/
         image: /images/safetywork.jpg
-        alt: Safety @ Work
+        alt: Safe Management Practices
+     - infopic:
+        title: Support Schemes for Businesses
+        subtitle: 
+        description: List of assistance that Government is providing.
+        button: Find Out More
+        url: /supportschemes/
+        image: /images/helpinghands.jpg
+        alt: Support Schemes for Businesses
 #    - infopic:
 #        title: Support Schemes for Businesses
 #        subtitle: 
@@ -60,36 +84,15 @@ sections:
 #        url: /advisories/guidelinesforbusiness/
 #        image: /images/businesphoto.jpg
 #        alt: GuideLlines & Advisories
-    - infopic:
-        title: News & Advisories
-        subtitle: 
-        description: Get updated on the latest News and Advisories related to COVID-19.
-        button: Find Out More
-        url: https://go.gov.sg/newsandadvisories
-        image: /images/businesphoto.jpg
-        alt: News & Advisories
-    - infopic:
-        title: The Unity, Resilience & Solidarity Budgets
-        subtitle: 
-        description: To support businesses in the Supplementary Budget 2020.
-        button: Find Out More
-        url: /govassist/budget2020
-        image: /images/budget2020.jpg
-        alt: The Unity, Resilience & Solidarity Budgets
-    - infopic:
-        title: Government Assistance
-        subtitle: 
-        description: List of assistance that Government is providing.
-        button: Find Out More
-        url: /govassist/govassist
-        image: /images/helpinghands.jpg
-        alt: Government Assistance
-    - infopic:
-        title: Chat for Biz
-        subtitle: 
-        description: Chat with our virtual assistant on questions related to COVID-19 outbreak. 
-        button: Chat Now
-        url: https://go.gov.sg/bizchatbot
-        image: /images/chatbot1.jpg
-        alt: Chat for Biz
+    
+#    - infopic:
+#        title: The Unity, Resilience & Solidarity Budgets
+#        subtitle: 
+#        description: To support businesses in the Supplementary Budget 2020.
+#        button: Find Out More
+#        url: /govassist/budget2020
+#        image: /images/budget2020.jpg
+#        alt: The Unity, Resilience & Solidarity Budgets
+   
+    
 ---
