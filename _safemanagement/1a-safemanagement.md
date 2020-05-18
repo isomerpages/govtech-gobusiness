@@ -15,7 +15,7 @@ Please view the infographic below for more details.
 [![Safe Management Practices](/images/safemanagement.jpg)](/safemanagement/general/)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gu1w_Yz21JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Gu1w_Yz21JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 | Click below to download the images/PDFs for the full infographic: | Click below to download the images/PDFs for each of the 6 steps listed in the infographic: |
