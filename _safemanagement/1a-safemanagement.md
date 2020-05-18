@@ -22,11 +22,12 @@ Please view the infographic below for a snapshot of the general guidelines.
 
 **<ins>Downloadable</ins>**
 
-| Safe Management |    Link     |
-| :-------------: | :---------: |
-|     Step 1      |[![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/)|
-|     Step 2      |[![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/)|
-|     Step 3      |[![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/)|
-|     Step 4      |[![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/)|
-|     Step 5      |[![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/)|
-|     Step 6      |[![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/)|
+| Safe Management  |                                 Link                                  |
+| :--------------: | :-------------------------------------------------------------------: |
+| Full Infographic | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
+|      Step 1      | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
+|      Step 2      | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
+|      Step 3      | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
+|      Step 4      | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
+|      Step 5      | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
+|      Step 6      | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
