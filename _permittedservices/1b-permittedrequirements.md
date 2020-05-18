@@ -18,7 +18,7 @@ All businesses are required to comply with the following requirements:
 
 <table>
     <tr>
-        <th>Sector2</th>
+        <th>Sector3</th>
         <td>Requirements</td>
     </tr>
     <tr>
@@ -39,7 +39,7 @@ All businesses are required to comply with the following requirements:
                     Establishments permitted to open are to be open only for takeaways and deliveries; no dine-in services are allowed.
                 </li>
                 <li>
-                    Guidelines <hyperlink tbc>
+                    Guidelines 
                 </li>
             </ul>
         </td>
@@ -59,7 +59,7 @@ All businesses are required to comply with the following requirements:
         <td>
             <ul>
                 <li>
-                    Guidelines <hyperlink tbc>
+                    Guidelines 
                 </li>
                 <li>
                     Retail storefronts (if any) of firms in manufacturing sector are not permitted to be opened
@@ -85,7 +85,7 @@ All businesses are required to comply with the following requirements:
         <td>
             <ul>
                 <li>
-                    Guidelines <hyperlink tbc>
+                    Guidelines 
                 </li>
             </ul>
         </td>
