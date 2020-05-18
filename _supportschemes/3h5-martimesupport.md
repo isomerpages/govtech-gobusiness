@@ -1,5 +1,5 @@
 ---
-title: Martime
+title: Maritime
 permalink: /supportschemes/martimesupport/
 third_nav_title: Sector-Specific Support
 layout: datagovsg-search
