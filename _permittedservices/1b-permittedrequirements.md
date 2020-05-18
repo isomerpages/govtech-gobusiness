@@ -18,7 +18,7 @@ All businesses are required to comply with the following requirements:
 
 <table>
     <tr>
-        <th>Sector</th>
+        <th>Sector1</th>
         <td>Requirements</td>
   </tr>
   <tr>
