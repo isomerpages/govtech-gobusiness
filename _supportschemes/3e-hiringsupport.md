@@ -14,8 +14,8 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Attract Locals</h1>
-      <p class="gobizTable-firstTable_table__gobiz">Receive salary support when you offer quality jobs to a pool of experienced and skilled PMETs through Career Support Programme.</p>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <p class="gobizTable-firstTable_table__gobiz">Participate in the <strong>SGUnited Jobs initiative</strong> by adding the hashtag #SGUnitedJobs after the job title when posting jobs on MyCareersFuture.sg</p>
+      <a href="https://www.mycareersfuture.sg/?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
