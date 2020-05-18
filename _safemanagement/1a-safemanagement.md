@@ -12,15 +12,15 @@ Please view the infographic below for a snapshot of the general guidelines.
 **Be Ready, Stay Safe**<br>
 **6 Easy Steps for Safe Management**
 
-**Infographics guide below:**
+**<ins>Infographics</ins>*
 
 [![Safe Management Practices](/images/safemanagement.jpg)](/safemanagement/general/)
 
-**Video guide below:**
+**<ins>Video</ins>**
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Gu1w_Yz21JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Downloadable guide below:**
+**<ins>Downloadable</ins>**
 
 | Safe Management |    Link     |
 | :-------------: | :---------: |
