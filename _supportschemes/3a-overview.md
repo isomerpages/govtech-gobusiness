@@ -3,7 +3,7 @@ title: Supporting Our Businesses
 permalink: /supportschemes/general
 ---
 
-## **Below is a list immediate support provided by Singapore Government...**
+## **List of assistance that Governmnet is providing**
 
 <div class="gobizfinsup1Table">
   <ul class="gobizfinsup1Table-firstTable">
@@ -34,7 +34,7 @@ permalink: /supportschemes/general
     </li>
 
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Require Financial Support?</h1>
+      <h1 class="gobizTable-firstTable_table__header">Apply for Financial Schemes</h1>
       <a href="/supportschemes/financialsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
@@ -55,12 +55,12 @@ permalink: /supportschemes/general
 </div>
 
 
-## **More support based on sector specific...**
+## **Sector-Specific Support***
 
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">From Arts & Culture?</h1>
+      <h1 class="gobizTable-firstTable_table__header">Arts & Culture?</h1>
       <a href="/supportschemes/artsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
@@ -79,7 +79,7 @@ permalink: /supportschemes/general
     </li>
 
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">From Martime?</h1>
+      <h1 class="gobizTable-firstTable_table__header">Martime</h1>
       <a href="/supportschemes/martimesupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
