@@ -19,9 +19,9 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
     </li>
 
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">SGUnited Jobs Initiative</h1>
-      <p class="gobizTable-firstTable_table__gobiz">Find and review candidates for your hiring needs with ease at MyCareersFuture.sg.</p>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <h1 class="gobizTable-firstTable_table__header">Attract Locals</h1>
+      <p class="gobizTable-firstTable_table__gobiz">Register as a host company to gain access to a qualified pool of fresh talent and receive Government funding for training allowance under the <strong>SGUnited Traineeships Programme</strong>.</p>
+      <a href="https://www.wsg.gov.sg/SGUnitedTraineeships-HostCompanies.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
@@ -29,15 +29,31 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Invest in Human Capital & Workplace Transformation</h1>
-      <p class="gobizTable-firstTable_table__gobiz">Enjoy fast lane access to manpower development opportunities, schemes and grants through Human Capital Partnership.</p>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <h1 class="gobizTable-firstTable_table__header">Attract Locals</h1>
+      <p class="gobizTable-firstTable_table__gobiz">Assess a jobseeker’s fit via a cost-free work stint of up to 3 months through <strong>Career Trial</strong>.</p>
+      <a href="https://www.wsg.gov.sg/programmes-and-initiatives/career-trial-employers.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">SGUnited Traineeships Programme</h1>
-      <p class="gobizTable-firstTable_table__gobiz">Employers can also register as a host company to gain access to a qualified pool of fresh talent and receive government funding for training allowance under the SGUnited Traineeships Programme.</p>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <h1 class="gobizTable-firstTable_table__header">Attract Locals</h1>
+      <p class="gobizTable-firstTable_table__gobiz">Receive salary support when you offer quality jobs to a pool of experienced and skilled PMETs through <strong>Career Support Programme</strong>.</p>
+      <a href="https://www.wsg.gov.sg/programmes-and-initiatives/wsg-career-support-programme-employers.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+    </li>
+  </ul>
+</div>
+
+<div class="gobizTable">
+  <ul class="gobizTable-firstTable">
+    <li class="gobizTable-firstTable_table">
+      <h1 class="gobizTable-firstTable_table__header">Attract Locals</h1>
+      <p class="gobizTable-firstTable_table__gobiz">Develop HR capabilities as an SME to better attract, manage and retain PMETs through <strong>P-Max</strong>.</p>
+      <a href="https://www.wsg.gov.sg/programmes-and-initiatives/p-max-employer.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+    </li>
+
+    <li class="gobizTable-firstTable_table">
+      <h1 class="gobizTable-firstTable_table__header">Attract Locals</h1>
+      <p class="gobizTable-firstTable_table__gobiz">Reskill mid-career PMETs with course fee grants and salary support to take on quality jobs through the <strong>Professional Conversion Programme</strong>.</p>
+      <a href="https://conversion.mycareersfuture.sg/Portal/ProgramListing.aspx?source=PCP&utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
@@ -47,13 +63,13 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Develop New Capabilities</h1>
       <p class="gobizTable-firstTable_table__gobiz">Support transfer of new capabilities from foreign specialists to local workforce through Capability Transfer Programme.</p>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <a href="https://www.wsg.gov.sg/programmes-and-initiatives/p-max-employer.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Redesign Jobs</h1>
-      <p class="gobizTable-firstTable_table__gobiz">Drive business transformation and streamline job processes through Job Redesign.</p>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <h1 class="gobizTable-firstTable_table__header">Adopt Ready-To-Go Solutions</h1>
+      <p class="gobizTable-firstTable_table__gobiz">Access funding and transitional manpower support for productivity solutions through Lean Enterprise Development (LED) Scheme.</p>
+      <a href="https://www.wsg.gov.sg/programmes-and-initiatives/capability-transfer-programme.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
@@ -61,15 +77,26 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Implement Progressive Employment Practices</h1>
-      <p class="gobizTable-firstTable_table__gobiz">Assist in adopting and implementing age-friendly workplaces and flexible work arrangements through WorkPro and WorkLife Grant.</p>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <h1 class="gobizTable-firstTable_table__header">Invest in Human Capital & Workplace Transformation</h1>
+      <p class="gobizTable-firstTable_table__gobiz">Implement productivity, human resource and industrial relations practices by tapping on a myriad of schemes under <strong>SAPPHIRE</strong>.</p>
+      <a href="https://snef.org.sg/adaptgrow/sapphire/?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Adopt Ready-To-Go Solutions</h1>
-      <p class="gobizTable-firstTable_table__gobiz">Access funding and transitional manpower support for productivity solutions through Lean Enterprise Development (LED) Scheme.</p>
-      <div class="gobizTable-firstTable_table__getstart">Click Here</div>
+      <h1 class="gobizTable-firstTable_table__header">Invest in Human Capital & Workplace Transformation</h1>
+      <p class="gobizTable-firstTable_table__gobiz">Enjoy fast lane access to manpower development opportunities, schemes and grants through Human Capital Partnership.</p>
+      <a href="https://www.tal.sg/tafep/Getting-Started/Exemplary/HCP-Programme?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
+
+<div class="gobizTable">
+  <ul class="gobizTable-firstTable">
+    <li class="gobizTable-firstTable_table">
+      <h1 class="gobizTable-firstTable_table__header">Redesign Jobs</h1>
+      <p class="gobizTable-firstTable_table__gobiz">Drive business transformation and streamline job processes through Job Redesign.</p>
+      <a href="https://www.enterprisejobskills.sg/content/redesign-jobs/job-redesign/index.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+    </li>
+  </ul>
+</div>
+
