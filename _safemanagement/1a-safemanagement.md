@@ -30,3 +30,5 @@ Please view the infographic below for more details.
 |                                                                   |                                 PDF- Step 2 download link                                  |
 |                                                                   |                                 PDF- Step 3 download link                                  |
 |                                                                   |                                 PDF- Step 4 download link                                  |
+|                                                                   |                                 PDF- Step 5 download link                                  |
+|                                                                   |                                 PDF- Step 6 download link                                  |
