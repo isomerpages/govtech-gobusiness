@@ -15,12 +15,13 @@ All businesses are required to comply with the following requirements:
 
 
 #### **3. Sector-specific requirements**
-|               Sector               |                             Requirements                              |
-| :--------------------------------: | :-------------------------------------------------------------------: |
-| Care services for pets and animals | - Only basic pet health services, i.e. pet physio, pet rehab, and basic pet-health related grooming (no grooming services for cosmetic purposes) are allowed <br>-aaa |
-|           Food services            | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
-|   Information and Communications   | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
-|           Manufacturing            | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
-|         Places of worship          | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
-|               Retail               | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
-|          Wholesale Trade           | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
+<table>
+    <tr>
+        <th>Sector</th>
+        <td>Requirements</td>
+  </tr>
+  <tr>
+    <td>Care services for pets and animals</td>
+    <td>Only basic pet health services, i.e. pet physio, pet rehab, and basic pet-health related grooming (no grooming services for cosmetic purposes) are allowed</td>
+  </tr>
+</table>
