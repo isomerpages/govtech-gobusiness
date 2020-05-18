@@ -4,7 +4,7 @@ permalink: /permittedlist/requirements
 ---
 
 #### **1. Requirements applicable to all businesses**
-Please see the requirements for safe management measures at the workplace after the circuit breaker period <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures">here</a>. 
+<a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures">https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures</a>
 
 
 #### **2. Conditions in relation to the settings of a business**
@@ -15,6 +15,7 @@ All businesses are required to comply with the following requirements:
 
 
 #### **3. Sector-specific requirements**
+
 <table>
     <tr>
         <th>Sector</th>
