@@ -3,7 +3,7 @@ title: Supporting Our Businesses
 permalink: /supportschemes/general
 ---
 
-## **List of assistance that Governmnet is providing**
+## **List of assistance that Government is providing**
 
 <div class="gobizfinsup1Table">
   <ul class="gobizfinsup1Table-firstTable">
@@ -18,13 +18,13 @@ permalink: /supportschemes/general
         <li>Corporate Income Tax Rebate</li>
         <li>Foreign Worker Levy (FWL) Waiver</li>
       </ul>
-      <a href="/supportschemes/immediatesupport"><div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div></a>
+      <a href="/supportschemes/financialsupport"><div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div></a>
     </li>
   </ul>
 </div>
 
 
-## **Looking for more support...**
+## **Other Government support**
 
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
@@ -43,29 +43,29 @@ permalink: /supportschemes/general
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Manpower support?</h1>
+      <h1 class="gobizTable-firstTable_table__header">Manpower support</h1>
       <a href="/supportschemes/manpowersupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
      <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Assistance on Digital Support?</h1>
+      <h1 class="gobizTable-firstTable_table__header">Assistance on Digital Support</h1>
       <a href="/supportschemes/digitalsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
 
 
-## **Sector-Specific Support***
+## **Sector-Specific Support**
 
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Arts & Culture?</h1>
+      <h1 class="gobizTable-firstTable_table__header">Arts & Culture</h1>
       <a href="/supportschemes/artsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">From F&B?</h1>
+      <h1 class="gobizTable-firstTable_table__header">F&B</h1>
       <a href="/supportschemes/fnbsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
@@ -74,12 +74,12 @@ permalink: /supportschemes/general
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">From Hospitality and Tourism?</h1>
+      <h1 class="gobizTable-firstTable_table__header">Hospitality and Tourism</h1>
       <a href="/supportschemes/aviationsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Martime</h1>
+      <h1 class="gobizTable-firstTable_table__header">Maritime</h1>
       <a href="/supportschemes/martimesupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
