@@ -18,8 +18,8 @@ All businesses are required to comply with the following requirements:
 
 <table>
     <tr>
-        <th>Sector3</th>
-        <td>Requirements</td>
+        <th>Sector</th>
+        <th>Requirements</th>
     </tr>
     <tr>
         <td>Care services for pets and animals</td>
