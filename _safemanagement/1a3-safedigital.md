@@ -1,5 +1,5 @@
 ---
-title: Digital Solution for Safe Management
+title: Digital Solutions for Safe Management
 permalink: /safemanagement/safedigital/
 ---
 
