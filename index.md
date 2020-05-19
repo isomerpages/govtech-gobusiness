@@ -39,15 +39,15 @@ sections:
     - infopic:
         title: Permitted Services
         subtitle: 
-        description: List of permitted services.
+        description: List of permitted services allowed to resume operations from 2 June 2020.
         button: Find Out More
         url: /permittedlist/
-        image: /images/safetywork.jpg
+        image: /images/open.jpg
         alt: Permitted Services
     - infopic:
         title: Safe Management Practices
         subtitle: 
-        description: List of measures to ensure the safety at the workplace.
+        description: List of measures to ensure safety at the workplace.
         button: Find Out More
         url: /safemanagement/general/
         image: /images/safetywork.jpg
