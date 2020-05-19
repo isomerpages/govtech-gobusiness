@@ -11,9 +11,9 @@ All businesses are to comply with the following requirements:
 •	Employees should only return to the workplace when needed, for purposes that cannot be carried out via telecommuting (e.g. to access specialised terminals or dedicated machines).
 •	No face-to-face meetings with clients unless physical presence is required by law (e.g. to complete transactions).
 
-Businesses should also adhere to the (sector-specific guidelines) released by the respective agencies.
+Businesses should also adhere to the <a href="/safemanagement/sector/">sector-specific guidelines</a> released by the respective agencies.
 
-Please also visit our page on (Requirements for Business Resumption) for more information.
+Please also visit our page on <a href="/safemanagement/sector/">Requirements for Business Resumption</a> for more information.
 
 Please view the infographic below for a snapshot of the general guidelines.
 
