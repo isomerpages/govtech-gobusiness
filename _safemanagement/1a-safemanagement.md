@@ -25,16 +25,16 @@ Please view the infographic below for an overview of the safe management measure
 
 **<ins>Video</ins>**
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ajV1jR6Exv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/glU2wn0VIZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **<ins>Downloadable</ins>**
 
-|  Safe Management  |                                                                     Link                                                                      |
-| :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
-| Full Infographic  | <a href="https://go.gov.sg/fullinfographicpic" target="_blank">JPG</a> <a href="https://go.gov.sg/fullinfographicpdf" target="_blank">PDF</a> |
-|      Step 1       |                                         <a href="https://go.gov.sg/safestep1" target="_blank">JPG</a>                                         |
-|      Step 2       |                                         <a href="https://go.gov.sg/safestep2" target="_blank">JPG</a>                                         |
-| Step 3 and Step 4 |                                         <a href="https://go.gov.sg/safestep3" target="_blank">JPG</a>                                         |
-|      Step 5       |                                         <a href="https://go.gov.sg/safestep4" target="_blank">JPG</a>                                         |
-| Step 6 - Frame 1  |                                         <a href="https://go.gov.sg/safestep5" target="_blank">JPG</a>                                         |
-| Step 6 - Frame 2  |                                         <a href="https://go.gov.sg/safestep6" target="_blank">JPG</a>                                         |
+|  Safe Management  |                                  Link                                  |
+| :---------------: | :--------------------------------------------------------------------: |
+| Full Infographic  | <a href="https://go.gov.sg/fullinfographicpdf" target="_blank">PDF</a> |
+|      Step 1       |     <a href="https://go.gov.sg/safestep1" target="_blank">JPG</a>      |
+|      Step 2       |     <a href="https://go.gov.sg/safestep2" target="_blank">JPG</a>      |
+| Step 3 and Step 4 |     <a href="https://go.gov.sg/safestep3" target="_blank">JPG</a>      |
+|      Step 5       |     <a href="https://go.gov.sg/safestep4" target="_blank">JPG</a>      |
+| Step 6 - Frame 1  |     <a href="https://go.gov.sg/safestep5" target="_blank">JPG</a>      |
+| Step 6 - Frame 2  |     <a href="https://go.gov.sg/safestep6" target="_blank">JPG</a>      |
