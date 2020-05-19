@@ -25,7 +25,7 @@ No, you will not receive any additional notifications.
 
 If you are unsure whether you can resume operations, please visit bizfile.gov.sg  and login with your CorpPass to obtain the Singapore Standard Industrial Classification (SSIC) code for your primary business activity. You will be able to retrieve your SSIC code once you have logged in. 
 
-Once you have retrieved your SSIC code for your primary business activity, please check it against the list of permitted services that can resume operations on 2 June here <a href="/permittedlist">here</a>.
+Once you have retrieved your SSIC code for your primary business activity, please check it against the list of permitted services that can resume operations on 2 June <a href="/permittedlist">here</a>.
 
 #### **5. I had previously received an approval of my General Exemption but my companies’ activities are not listed in the permitted services list. Will I be able to continue operations on 2 June?**
 Yes. All companies that received an exemption to operate before 1 June will be able to continue operations.
@@ -51,18 +51,18 @@ Businesses must submit their manpower details via the GoBusiness portal within 2
 If your company has other business functions or services that are not in the list of permitted services, these other business functions or services should remain suspended until further notice.
 
 #### **11. I operate multiple business activities and have more than one Singapore Standard Industrial Classification (SSIC) code tagged to my business. Which code should I refer to?**
-You should refer to the SSIC code for your primary business activity and check it against the list of permitted services that can resume operations on 2 June here <a href="/permittedlist">here</a>.
+You should refer to the SSIC code for your primary business activity and check it against the list of permitted services that can resume operations on 2 June <a href="/permittedlist">here</a>.
 
 #### **12. I have more than one Singapore Standard Industrial Classification (SSIC) code tagged to my business. If my primary activity does not fall under the list of permitted services, but my secondary activity falls under the list of permitted services, will I still be allowed to resume operations?**
-No. You may resume operations only if the SSIC code for your primary business activity falls within the list of permitted services that can resume operations on 2 June. However, if you intend to only carry out the secondary activity (and not the primary activity) which falls within the list of permitted services, you may submit an application for General Exemption at <a href="https://go.gov.sg/generalexemption">here</a>.
+No. You may resume operations only if the SSIC code for your primary business activity falls within the list of permitted services that can resume operations on 2 June. However, if you intend to only carry out the secondary activity (and not the primary activity) which falls within the list of permitted services, you may submit an application for General Exemption <a href="https://go.gov.sg/generalexemption">here</a>.
 
 #### **13. My company is carrying out the activity as listed in the list of permitted services. However, my SSIC code does not fall under the listed code on the website. Will I still be allowed to resume operations?**
-You can submit an application for General Exemption at <a href="https://go.gov.sg/generalexemption">here</a> for our review.
+You can submit an application for General Exemption <a href="https://go.gov.sg/generalexemption">here</a> for our review.
 
 #### **14. I am a freelancer and do not have an Singapore Standard Industrial Classification (SSIC) code. How do I know if I can resume service?**
 Freelancers have to be registered with ACRA, unless the business is carried out in your full name as reflected in your NRIC. 
 
-If the business is carried out in your full name as reflected in your NRIC, you can include a description of your business and click <a href="https://www.bizfile.gov.sg/">here</a> to search for the SSIC code which corresponds to the nature of your business activity. Once you have retrieved your SSIC code, please check it against the list of permitted services that can resume operations on 2 June here <a href="/permittedlist">here</a>.
+If the business is carried out in your full name as reflected in your NRIC, you can include a description of your business and click <a href="https://www.bizfile.gov.sg/">here</a> to search for the SSIC code which corresponds to the nature of your business activity. Once you have retrieved your SSIC code, please check it against the list of permitted services that can resume operations on 2 June <a href="/permittedlist">here</a>.
 
 #### **15. I am running a society/organisation which does not require me to be registered with ACRA. How can I check whether I can resume activities?**
 Please approach the relevant authority which regulates the activities in your sector, e.g. MCCY for religious organisations.
