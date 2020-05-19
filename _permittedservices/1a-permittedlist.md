@@ -71,13 +71,6 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
         </td>
     </tr>
     <tr>
-        <td>Retail</td>
-        <td>
-            <ul>
-            </ul>
-        </td>
-    </tr>
-    <tr>
         <td>Wholesale Trade</td>
         <td>
             <ul>
