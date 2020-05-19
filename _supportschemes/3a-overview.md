@@ -18,7 +18,7 @@ permalink: /supportschemes/general
         <li>Corporate Income Tax Rebate</li>
         <li>Foreign Worker Levy (FWL) Waiver</li>
       </ul>
-      <a href="/supportschemes/financialsupport"><div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div></a>
+      <a href="/supportschemes/financialsupport"><div class="gobizfinsup1Table-firstTable_table__getstart">Click here for more information</div></a>
     </li>
   </ul>
 </div>

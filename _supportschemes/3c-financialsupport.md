@@ -20,7 +20,7 @@ permalink: /supportschemes/financialsupport
                 <li>25% for all other firms</li>
             </ul>
       </ul>
-      <div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div>
+      <a href="https://go.gov.sg/jsseligibility"><div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div></a>
     </li>
   </ul>
 </div>

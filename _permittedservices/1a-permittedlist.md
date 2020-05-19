@@ -7,7 +7,7 @@ The Government will allow the gradual resumption of businesses, in phases, with 
 
 The list of permitted services, and the corresponding Singapore Standard Industrial Classification (SSIC) codes, that will be allowed to resume operations in Phase 1 can be found here (pdf file – both to view and downloadable). Please refer to the table below for the sector-specific requirements.
 
-Please note that your SSIC code should correspond with the “primary business activity” in your business registration records with the Accounting and Corporate Regulatory Authority (ACRA). You should ensure that your business activity is in line with your selected SSIC code. 
+Please note that your SSIC code should correspond with the “<ins>primary</ins> business activity” in your business registration records with the Accounting and Corporate Regulatory Authority (ACRA). You should ensure that your business activity is in line with your selected SSIC code. 
 
 If you do not know your SSIC code, you can login to <a href="https://www.bizfile.gov.sg/">BizFile+</a> using your CorpPass credentials. 
 
@@ -56,6 +56,9 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
                 </li>
                 <li>
                     Please approach EDB if your firm is undertaking activities which involve the deployment of work permit holders in the Marine or Process industries. Your firm will only be allowed to operate upon notification by MTI.
+                </li>
+                <li>
+                    The resumption of activities in the marine and offshore, and process construction and maintenance industries, which employs marine and process work permit holders, will be subject to separate timelines and arrangements established by EDB.
                 </li>
             </ul>
         </td>
