@@ -27,16 +27,16 @@ Please view the infographic below for a snapshot of the general guidelines.
 
 **<ins>Video</ins>**
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Gu1w_Yz21JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ajV1jR6Exv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **<ins>Downloadable</ins>**
 
-| Safe Management  |                                 Link                                  |
-| :--------------: | :-------------------------------------------------------------------: |
-| Full Infographic | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
-|      Step 1      | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
-|      Step 2      | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
-|      Step 3      | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
-|      Step 4      | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
-|      Step 5      | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
-|      Step 6      | [![JPG]](/safemanagement/general/) [![PDF]](/safemanagement/general/) |
+| Safe Management  |                                                                     Link                                                                      |
+| :--------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+| Full Infographic | <a href="https://go.gov.sg/fullinfographicpic" target="_blank">JPG</a> <a href="https://go.gov.sg/fullinfographicpdf" target="_blank">PDF</a> |
+|      Step 1      |                                    <a href="https://go.gov.sg/safestep1" target="_blank">JPG</a>                                     |
+|      Step 2      |                                    <a href="https://go.gov.sg/safestep2" target="_blank">JPG</a>                                     |
+|      Step 3      |                                    <a href="https://go.gov.sg/safestep3" target="_blank">JPG</a>                                     |
+|      Step 4      |                                    <a href="https://go.gov.sg/safestep4" target="_blank">JPG</a>                                     |
+|      Step 5      |                                    <a href="https://go.gov.sg/safestep5" target="_blank">JPG</a>                                     |
+|      Step 6      |                                    <a href="https://go.gov.sg/safestep6" target="_blank">JPG</a>                                     |
