@@ -3,7 +3,7 @@ title: Sector Specific Guidelines
 permalink: /safemanagement/sector/
 ---
 
-Businesses should adhere to sector-specific guidelines as well as the <a href="/safemanagement/general/">sector-specific guidelines</a>. 
+Businesses should adhere to sector-specific guidelines as well as the <a href="/safemanagement/general/">general guidelines</a>. 
 
 #### **Retail & F&B**
 

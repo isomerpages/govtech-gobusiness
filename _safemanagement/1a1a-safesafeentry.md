@@ -12,6 +12,7 @@ SafeEntry is a free-for-use Cloud-based visitor registration system. Visitors sc
 
 Businesses and building owners who wish to find out more can click <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">here</a>.
 
+With effect from 12 May 2020, the list of places where SafeEntry must be deployed can be found here <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">https://www.safeentry.gov.sg/deployment</a>. This list will be updated as more activities and services are resumed. 
 
 
 #### **2. TraceTogether**

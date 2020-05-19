@@ -13,7 +13,7 @@ All businesses are to comply with the following requirements:
 
 Businesses should also adhere to the <a href="/safemanagement/sector/">sector-specific guidelines</a> released by the respective agencies.
 
-Please also visit our page on <a href="/safemanagement/sector/">Requirements for Business Resumption</a> for more information.
+Please also visit our page on <a href="/permittedlist/requirements">Requirements for Business Resumption</a> for more information.
 
 Please view the infographic below for a snapshot of the general guidelines.
 
