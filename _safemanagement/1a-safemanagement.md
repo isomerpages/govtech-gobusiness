@@ -11,7 +11,7 @@ All businesses are to comply with the following requirements:
 - Employees should only return to the workplace when needed, for purposes that cannot be carried out via telecommuting (e.g. to access specialised terminals or dedicated machines).
 - No face-to-face meetings with clients unless physical presence is required by law (e.g. to complete transactions).
 
-Please view the infographic below for **an overview** of the general guidelines.
+Please view the infographic below for an overview of the general guidelines.
 
 
 **Be Ready, Stay Safe**<br>
