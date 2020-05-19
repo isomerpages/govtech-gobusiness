@@ -3,7 +3,7 @@ title: Supporting Our Businesses
 permalink: /supportschemes/general
 ---
 
-## **List of assistance that Government is providing**
+## **Government Assistance**
 
 <div class="gobizfinsup1Table">
   <ul class="gobizfinsup1Table-firstTable">
@@ -75,7 +75,7 @@ permalink: /supportschemes/general
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Hospitality and Tourism</h1>
-      <a href="/supportschemes/aviationsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <a href="/supportschemes/tourismsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
