@@ -8,20 +8,20 @@ The Ministry of Manpower (MOM) and Workforce Singapore (WSG), in collaboration w
 
 This is a concerted effort as part of the Resilience Budget to create more opportunities for jobseekers and workers affected by the current COVID-19 situation, as well as match them to jobs available, including new jobs created as a result of COVID-19. The initiative also seeks to help businesses that are recruiting for the eventual recovery, as well as those with short-term manpower needs due to disruptions in labour supply.
 
-Whether you are looking to tackle the ongoing economic challenges, attract and retain local manpower, or improve productivity and innovation, Workforce Singapore (WSG) has the following programmes to provide you with support and resources customised for your manpower needs.
+Whether you are looking to tackle the ongoing economic challenges, attract and retain local manpower, or improve productivity and innovation, WSG has the following programmes to provide you with support and resources customised for your manpower needs.
 
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Attract Locals</h1>
-      <p class="gobizTable-firstTable_table__gobiz">Participate in the <strong>SGUnited Jobs initiative</strong> by adding the hashtag #SGUnitedJobs after the job title when posting jobs on MyCareersFuture.sg</p>
-      <a href="https://www.mycareersfuture.sg/?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <h1 class="gobizTable-firstTable_table__header">SGUnited Traineeships Programme</h1>
+      <p class="gobizTable-firstTable_table__gobiz">Register as a host company to gain access to a qualified pool of fresh talent and receive Government funding for training allowance under the <strong>SGUnited Traineeships Programme</strong>.</p>
+      <a href="https://www.wsg.gov.sg/SGUnitedTraineeships-HostCompanies.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Attract Locals</h1>
-      <p class="gobizTable-firstTable_table__gobiz">Register as a host company to gain access to a qualified pool of fresh talent and receive Government funding for training allowance under the <strong>SGUnited Traineeships Programme</strong>.</p>
-      <a href="https://www.wsg.gov.sg/SGUnitedTraineeships-HostCompanies.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <h1 class="gobizTable-firstTable_table__header">SGUnited Jobs Initiative</h1>
+      <p class="gobizTable-firstTable_table__gobiz">Participate in the <strong>SGUnited Jobs initiative</strong> by adding the hashtag #SGUnitedJobs after the job title when posting jobs on MyCareersFuture.sg</p>
+      <a href="https://www.mycareersfuture.sg/?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
