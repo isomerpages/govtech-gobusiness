@@ -3,7 +3,9 @@ title: Sector Specific Guidelines
 permalink: /safemanagement/sector/
 ---
 
-Businesses should adhere to sector-specific guidelines as well as the <a href="/safemanagement/general/">general guidelines</a>. 
+Businesses should adhere to sector-specific guidelines as below, in addition to the <a href="/safemanagement/general/">general guidelines</a>. 
+
+Businesses may also wish to refer to MTI’s <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/05/MTI-Advisory-on-resumption-of-activities-from-2-June-2020.pdf" target="_blank">advisory</a> dated 19 May 2020, on the gradual resumption of business activities in phases starting from 2 June 2020.
 
 #### **Retail & F&B**
 
