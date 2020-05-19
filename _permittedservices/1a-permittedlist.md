@@ -9,4 +9,4 @@ The list of permitted services, and the corresponding Singapore Standard Industr
 
 Please note that your SSIC code should correspond with the “primary business activity” in your business registration records with the Accounting and Corporate Regulatory Authority (ACRA). You should ensure that your business activity is in line with your selected SSIC code. 
 
-If you do not know your SSIC code, you can login to <a href="https://www.bizfile.gov.sg/">BizFile+</a>. 
+If you do not know your SSIC code, you can login to <a href="https://www.bizfile.gov.sg/">BizFile+</a> using your CorpPass credentials. 

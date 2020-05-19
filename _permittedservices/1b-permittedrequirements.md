@@ -1,5 +1,5 @@
 ---
-title: Requirements for Business Resumptions
+title: Requirements for Business Resumption
 permalink: /permittedlist/requirements
 ---
 
