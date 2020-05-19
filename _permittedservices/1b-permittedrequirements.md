@@ -1,22 +1,7 @@
 ---
-title: Requirements for Business Resumption
-permalink: /permittedlist/requirements
+title: List of Permitted Services
+permalink: /permittedlist/l
 ---
-
-#### **1. Requirements applicable to all businesses**
-<a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures">Requirements for safe management measures at the workplace after the circuit breaker period</a>
-
-Please also visit our page on <a href="/safemanagement/general/">Safe Management Practices</a> for more information.
-
-
-#### **2. Conditions in relation to the settings of a business**
-All businesses are required to comply with the following requirements: 
-- All employees whose functions can be done remotely (e.g. by telecommuting) be done from home
-- Employees should only return to the workplace when needed, for purposes that cannot be carried out via telecommuting (e.g. to access specialised terminals or dedicated machines).
-- No face-to-face meetings with clients unless physical presence is required by law (e.g. to complete transactions).
-
-
-#### **3. Sector-specific requirements**
 
 <table>
     <tr>
