@@ -33,13 +33,13 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
       <p class="gobizTable-firstTable_table__gobiz">Receive salary support when you offer quality jobs to a pool of experienced and skilled PMETs.</p>
       <a href="https://www.wsg.gov.sg/programmes-and-initiatives/wsg-career-support-programme-employers.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
-  </ul>
 
-  <li class="gobizTable-firstTable_table">
-    <h1 class="gobizTable-firstTable_table__header">Capability Transfer Programme</h1>
-    <p class="gobizTable-firstTable_table__gobiz">Support transfer of new capabilities from foreign specialists to local workforce.</p>
-    <a href="https://www.wsg.gov.sg/programmes-and-initiatives/capability-transfer-programme.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
-  </li>
+    <li class="gobizTable-firstTable_table">
+      <h1 class="gobizTable-firstTable_table__header">Capability Transfer Programme</h1>
+      <p class="gobizTable-firstTable_table__gobiz">Support transfer of new capabilities from foreign specialists to local workforce.</p>
+      <a href="https://www.wsg.gov.sg/programmes-and-initiatives/capability-transfer-programme.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+    </li>
+  </ul>
 </div>
 
 <div class="gobizTable">
