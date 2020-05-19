@@ -90,13 +90,3 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
   </ul>
 </div>
 
-<div class="gobizTable">
-  <ul class="gobizTable-firstTable">
-    <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">SAPPHIRE</h1>
-      <p class="gobizTable-firstTable_table__gobiz">Implement productivity, human resource and industrial relations practices by tapping on a myriad of schemes.</p>
-      <a href="https://snef.org.sg/adaptgrow/sapphire/?utm_source=mti&utm_medium=digital&utm_campaign=gobiz"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
-    </li>
-  </ul>
-</div>
-
