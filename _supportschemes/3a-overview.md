@@ -18,7 +18,7 @@ permalink: /supportschemes/general
         <li>Corporate Income Tax Rebate</li>
         <li>Foreign Worker Levy (FWL) Waiver</li>
       </ul>
-      <a href="/supportschemes/financialsupport"><div class="gobizfinsup1Table-firstTable_table__getstart">Click here for more information</div></a>
+      <a href="/supportschemes/immediateschemes"><div class="gobizfinsup1Table-firstTable_table__getstart">Click here for more information</div></a>
     </li>
   </ul>
 </div>
@@ -30,12 +30,12 @@ permalink: /supportschemes/general
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Apply for Grants</h1>
-      <a href="/supportschemes/financialsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <a href="/supportschemes/grantschemes"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Apply for Financial Schemes</h1>
-      <a href="/supportschemes/financialsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+      <a href="/supportschemes/financialschemes"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
@@ -43,7 +43,7 @@ permalink: /supportschemes/general
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Manpower support</h1>
+      <h1 class="gobizTable-firstTable_table__header">Manpower Support</h1>
       <a href="/supportschemes/manpowersupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
