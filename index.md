@@ -45,7 +45,7 @@ sections:
         image: /images/open.jpg
         alt: Permitted Services
     - infopic:
-        title: Safe Management Practices
+        title: Safe Management Requirements
         subtitle: 
         description: List of measures to ensure safety at the workplace.
         button: Find Out More
