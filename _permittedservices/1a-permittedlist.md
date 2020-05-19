@@ -5,7 +5,7 @@ permalink: /permittedlist/
 
 The Government will allow the gradual resumption of businesses, in phases, with effect from 2 June 2020. 
 
-The list of permitted services, and the corresponding Singapore Standard Industrial Classification (SSIC) codes, that will be allowed to resume operations in Phase 1 can be found here <a href="https://www.bizfile.gov.sg/">here</a>. Please refer to the table below for the sector-specific requirements.
+The list of permitted services, and the corresponding Singapore Standard Industrial Classification (SSIC) codes, that will be allowed to resume operations in Phase 1 can be found <a href="https://go.gov.sg/permittedserviceslist">here</a>. Please refer to the table below for the sector-specific requirements.
 
 Please note that your SSIC code should correspond with the “<ins>primary</ins> business activity” in your business registration records with the Accounting and Corporate Regulatory Authority (ACRA). You should ensure that your business activity is in line with your selected SSIC code. 
 
@@ -24,7 +24,7 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
         <td>
             <ul>
                 <li>
-                    Only basic pet health services, i.e. pet physio, pet rehab, and basic pet-health related grooming (no grooming services for cosmetic purposes) are allowed
+                    Only basic pet services, i.e. basic pet-grooming (no grooming services for cosmetic purposes), and per physiotherapy and rehabilitation (with veterinarian’s referral) are allowed. Visit www.go.gov.sg/avs-covid for more information. 
                 </li>
             </ul>
         </td>
