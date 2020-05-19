@@ -1,6 +1,7 @@
 ---
 title: Grant Schemes
 permalink: /supportschemes/grantschemes
+third_nav_title: Finanical Support
 ---
 
 <div class="gobizfinapplyTable">
