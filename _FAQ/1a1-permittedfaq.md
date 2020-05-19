@@ -39,7 +39,7 @@ If your company needs to support a permitted service please submit an applicatio
 
 You are not permitted to operate until you have received the approval to do so. 
 
-#### **8. My company is in the permitted services list but I do not wish to resume operations on 2 June. Is that allowed? **
+#### **8. My company is in the permitted services list but I do not wish to resume operations on 2 June. Is that allowed?**
 Yes. Companies that are in the permitted services list may choose to resume their operations on 2 June or at a later date.
 
 #### **9. Are there any requirements that I need to fulfil before I can resume operations?**
