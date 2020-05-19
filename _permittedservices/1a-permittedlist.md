@@ -52,9 +52,6 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
         <td>
             <ul>
                 <li>
-                    Guidelines 
-                </li>
-                <li>
                     Retail storefronts (if any) of firms in manufacturing sector are not permitted to be opened
                 </li>
                 <li>
@@ -77,9 +74,6 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
         <td>Retail</td>
         <td>
             <ul>
-                <li>
-                    Guidelines 
-                </li>
             </ul>
         </td>
     </tr>
