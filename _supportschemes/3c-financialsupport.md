@@ -32,7 +32,7 @@ permalink: /supportschemes/financialsupport
       <ul class="gobizfinsup1Table-firstTable_table__options">
         <li>Additional $500m for employees’ wage increases, on top of $600m disbursed in March 20201</li>
       </ul>
-    <div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div>
+    <a href="https://go.gov.sg/wcseligibility"><div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div></a>
     </li>
   </ul>
 </div>
@@ -47,7 +47,7 @@ permalink: /supportschemes/financialsupport
                 <li>Companies: tax due from April to June 2020 payable only from July to September 2020</li>
             </ul>
       </ul>
-    <div class="gobizfinsup1Table-firstTable_table__getstart">Check your Deferment Date</div>
+    <a href="https://go.gov.sg/defercal"><div class="gobizfinsup1Table-firstTable_table__getstart">Check your Deferment Date</div></a>
     </li>
   </ul>
 </div>
@@ -62,7 +62,7 @@ permalink: /supportschemes/financialsupport
         <li>30% rebate for other non-residential properties</li>
         <li>Laws to ensure property owners pass on Property Tax rebate to tenants</li>
       </ul>
-    <div class="gobizfinsup1Table-firstTable_table__getstart">New Bill</div>
+    <a href="https://go.gov.sg/newbill"><div class="gobizfinsup1Table-firstTable_table__getstart">New Bill</div></a>
     </li>
   </ul>
 </div>
@@ -75,9 +75,9 @@ permalink: /supportschemes/financialsupport
         <li>3 months’ rental waiver for stallholders at NEA hawker centres and markets</li>
         <li>Up to 2 months’ rental waiver for commercial and other non-residential tenants in government properties</li>
       </ul>
-    <div class="gobizfinsup1Table-firstTable_table__getstart">NEA Rebate Details</div>
-    <div class="gobizfinsup1Table-firstTable_table__getstart">HDB Rebate Details</div>
-    <div class="gobizfinsup1Table-firstTable_table__getstart">SLA Rebate Detials</div>
+    <a href="https://go.gov.sg/nearebate"><div class="gobizfinsup1Table-firstTable_table__getstart">NEA Rebate Details</div></a>
+    <a href="https://go.gov.sg/hdbrebate"><div class="gobizfinsup1Table-firstTable_table__getstart">HDB Rebate Details</div></a>
+    <a href="https://go.gov.sg/slarebate"><div class="gobizfinsup1Table-firstTable_table__getstart">SLA Rebate Detials</div></a>
     </li>
   </ul>
 </div>
@@ -92,7 +92,7 @@ permalink: /supportschemes/financialsupport
                 <li>25% of tax payable, capped at $15,000 per company</li>
             </ul>
       </ul>
-    <div class="gobizfinsup1Table-firstTable_table__getstart">More Info</div>
+    <a href="https://go.gov.sg/corporateincometax"><div class="gobizfinsup1Table-firstTable_table__getstart">More Info</div></a>
     </li>
   </ul>
 </div>
@@ -118,7 +118,7 @@ permalink: /supportschemes/financialsupport
         <li>Maximum loan quantum of EFS-Trade Loan of $10m, with 90% Government risk-share</li>
         <li>Maximum loan quantum of EFS-SME Working Capital Loan of $1m, with 90% Government risk-share</li>
       </ul>
-      <div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div>
+      <a href="https://go.gov.sg/efs"><div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div></a>
     </li>
   </ul>
 </div>
@@ -130,7 +130,7 @@ permalink: /supportschemes/financialsupport
       <ul class="gobizfinapplyTable-firstTable_table__options">
         <li>80% subsidy for loan insurance premium</li>
       </ul>
-      <div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div>
+      <a href="https://go.gov.sg/lis"><div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div></a>
     </li>
   </ul>
 </div>
@@ -142,7 +142,7 @@ permalink: /supportschemes/financialsupport
       <ul class="gobizfinapplyTable-firstTable_table__options">
         <li>Covers all sectors; maximum supported loan of $5m, with 90% Government risk-share</li>
       </ul>
-      <div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div>
+      <a href="https://go.gov.sg/tblp"><div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div></a>
     </li>
   </ul>
 </div>
@@ -158,7 +158,7 @@ permalink: /supportschemes/financialsupport
         <li>The Enterprise Development Grant (EDG) helps Singapore companies grow and transform. This grant supports projec that help you upgrade your business, innovate or venture overseas.</li>
         <li>Up to 90% support</li>
       </ul>
-      <div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div>
+      <a href="https://go.gov.sg/edgrant"><div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div></a>
     </li>
   </ul>
 </div>
@@ -171,7 +171,7 @@ permalink: /supportschemes/financialsupport
         <li>The Productivity Solutions Grant (PSG) supports companies keen on adopting IT solutions and equipment to enhance business processes.</li>
         <li>Up to 80% support</li>
       </ul>
-      <div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div>
+      <a href="https://go.gov.sg/psgrant"><div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div></a>
     </li>
   </ul>
 </div>
@@ -183,7 +183,7 @@ permalink: /supportschemes/financialsupport
       <ul class="gobizfinapplyTable-firstTable_table__options">
         <li>Small and medium enterprises (SMEs) will receive an international boost with the Market Readiness Assistance (MRA) grant to help take your business overseas.</li>
       </ul>
-      <div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div>
+      <a href="https://go.gov.sg/mra"><div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div></a>
     </li>
   </ul>
 </div>
@@ -195,7 +195,7 @@ permalink: /supportschemes/financialsupport
       <ul class="gobizfinapplyTable-firstTable_table__options">
         <li>The Enterprise Leadership for Transformation (ELT) is a one-year programme that supports business leaders of promising small and medium enterprises to develop business growth capabilities.</li>
       </ul>
-      <div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div>
+      <a href="https://go.gov.sg/elt"><div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div></a>
     </li>
   </ul>
 </div>
@@ -207,7 +207,7 @@ permalink: /supportschemes/financialsupport
       <ul class="gobizfinapplyTable-firstTable_table__options">
         <li>The SkillsFuture Enterprise Credit (SFEC) encourages employers to invest in enterprise transformation and capabilities of their employees. Eligible employers will receive a one-off S$10,000 credit to cover up to 90% of out-of-pocket expenses on qualifying costs for supportable initiatives, over and above the support levels of existing schemes.</li>
       </ul>
-      <div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div>
+      <a href="https://go.gov.sg/sfec"><div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div></a>
     </li>
   </ul>
 </div>
