@@ -4,7 +4,16 @@ permalink: /safemanagement/general/
 third_nav_title: Safe Management Practices
 ---
 
-To provide a safe working environment and to prevent transmission at the workplace, businesses are required to abide by the <a href = "https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures">nation-wide general guidelines for workplaces issued on 9 May 2020</a>. Businesses should also adhere to the <a href = "/safemanagement/sector/fnb/">sector-specific guidelines</a> released by the respective agencies.
+To provide a safe working environment and to prevent transmission at the workplace, businesses are required to abide by the (nation-wide general guidelines for workplaces issued on 9 May 2020).
+
+All businesses are to comply with the following requirements: 
+•	All employees whose functions can be done remotely (e.g. by telecommuting) be done from home 
+•	Employees should only return to the workplace when needed, for purposes that cannot be carried out via telecommuting (e.g. to access specialised terminals or dedicated machines).
+•	No face-to-face meetings with clients unless physical presence is required by law (e.g. to complete transactions).
+
+Businesses should also adhere to the (sector-specific guidelines) released by the respective agencies.
+
+Please also visit our page on (Requirements for Business Resumption) for more information.
 
 Please view the infographic below for a snapshot of the general guidelines.
 
