@@ -12,6 +12,8 @@ Please note that your SSIC code should correspond with the “<ins>primary</ins>
 If you do not know your SSIC code, you can login to <a href="https://www.bizfile.gov.sg/">BizFile+</a> using your CorpPass credentials. 
 
 
+#### **Table of sector-specific requirements**
+
 <table>
     <tr>
         <th>Sector</th>
