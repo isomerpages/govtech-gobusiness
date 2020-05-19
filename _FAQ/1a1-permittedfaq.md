@@ -43,9 +43,9 @@ You are not permitted to operate until you have received the approval to do so.
 Yes. Companies that are in the permitted services list may choose to resume their operations on 2 June or at a later date.
 
 #### **9. Are there any requirements that I need to fulfil before I can resume operations?**
-All companies that are resuming operations must fulfil stringent safe management measures, as well as comply with any sector specific guidelines relevant to their business, before resuming operations. Please refer to these guidelines here <a href="/safemanagement/general/">here</a>. 
+All companies that are resuming operations must fulfil stringent safe management measures, as well as comply with any sector specific guidelines relevant to their business, before resuming operations. Please refer to these guidelines <a href="/safemanagement/general/">here</a>. 
 
-Businesses must submit their manpower details via the GoBusiness within 2 weeks of the date of resumption of operations.
+Businesses must submit their manpower details via the GoBusiness portal within 2 weeks of the date of resumption of operations.
 
 #### **10. If my company’s activities belong to the list of permitted services, will I be able to operate all my business functions?**
 If your company has other business functions or services that are not in the list of permitted services, these other business functions or services should remain suspended until further notice.
