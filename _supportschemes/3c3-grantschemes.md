@@ -9,7 +9,7 @@ third_nav_title: Finanical Support
     <li class="gobizfinapplyTable-firstTable_table">
       <h1 class="gobizfinapplyTable-firstTable_table__header">Enterprise Development Grant (EDG)</h1>
       <ul class="gobizfinapplyTable-firstTable_table__options">
-        <li>The Enterprise Development Grant (EDG) helps Singapore companies grow and transform. This grant supports projec that help you upgrade your business, innovate or venture overseas.</li>
+        <li>The Enterprise Development Grant (EDG) helps Singapore companies grow and transform. This grant supports project that help you upgrade your business, innovate or venture overseas.</li>
         <li>Up to 90% support</li>
       </ul>
       <a href="https://go.gov.sg/edgrant"><div class="gobizfinapplyTable-firstTable_table__getstart">Apply</div></a>
