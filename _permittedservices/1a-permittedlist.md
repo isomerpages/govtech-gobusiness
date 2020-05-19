@@ -24,7 +24,7 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
         <td>
             <ul>
                 <li>
-                    Only basic pet services, i.e. basic pet-grooming (no grooming services for cosmetic purposes), and per physiotherapy and rehabilitation (with veterinarian’s referral) are allowed. Visit www.go.gov.sg/avs-covid for more information. 
+                    Only basic pet services, i.e. basic pet-grooming (no grooming services for cosmetic purposes), and per physiotherapy and rehabilitation (with veterinarian’s referral) are allowed. Visit <a href="www.go.gov.sg/avs-covid">www.go.gov.sg/avs-covid</a> for more information. 
                 </li>
             </ul>
         </td>
