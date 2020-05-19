@@ -28,7 +28,7 @@ third_nav_title: Finanical Support
     <li class="gobizfinsup1Table-firstTable_table">
       <h1 class="gobizfinsup1Table-firstTable_table__header">Enhanced Wage Credit Scheme (WCS)</h1>
       <ul class="gobizfinsup1Table-firstTable_table__options">
-        <li>Additional $500m for employees’ wage increases, on top of $600m disbursed in March 2021</li>
+        <li>Additional $500m for employees’ wage increases, on top of $600m disbursed in March 2020</li>
       </ul>
     <a href="https://go.gov.sg/wcseligibility"><div class="gobizfinsup1Table-firstTable_table__getstart">Eligibility</div></a>
     </li>
