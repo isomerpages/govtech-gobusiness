@@ -37,6 +37,14 @@ sections:
         button: Check Status of General Exemption Application Here
         url: https://go.gov.sg/exemptionstatus
     - infopic:
+        title: Permitted Services
+        subtitle: 
+        description: List of permitted services.
+        button: Find Out More
+        url: /permittedlist/
+        image: /images/safetywork.jpg
+        alt: Permitted Services
+    - infopic:
         title: Safe Management Practices
         subtitle: 
         description: List of measures to ensure the safety at the workplace.
