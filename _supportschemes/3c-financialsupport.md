@@ -77,7 +77,8 @@ permalink: /supportschemes/financialsupport
       </ul>
     <a href="https://go.gov.sg/nearebate"><div class="gobizfinsup1Table-firstTable_table__getstart">NEA Rebate Details</div></a>
     <a href="https://go.gov.sg/hdbrebate"><div class="gobizfinsup1Table-firstTable_table__getstart">HDB Rebate Details</div></a>
-    <a href="https://go.gov.sg/slarebate"><div class="gobizfinsup1Table-firstTable_table__getstart">SLA Rebate Detials</div></a>
+    <a href="https://go.gov.sg/slarebate"><div class="gobizfinsup1Table-firstTable_table__getstart">SLA Rebate Details</div></a>
+    <a href="https://go.gov.sg/nacadvisory"><div class="gobizfinsup1Table-firstTable_table__getstart">MCCY Rebate Details</div></a>
     </li>
   </ul>
 </div>
