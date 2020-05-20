@@ -21,7 +21,7 @@ Please view the infographic below for an overview of the safe management measure
 
 **<ins>Infographic</ins>**
 
-[![Safe Management Practices](/images/safemanagement.jpg)](/safemanagement/general/)
+[![Safe Management Practices](/images/full_infographic.jpg)](/safemanagement/general/)
 
 **<ins>Video</ins>**
 

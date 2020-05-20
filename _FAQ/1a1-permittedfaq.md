@@ -113,3 +113,6 @@ Insurance agents are not permitted to have face-to-face meetings with clients, e
 
 #### **26. Are property agents allowed to meet and bring clients to view properties from 2 June onwards?**
 Property agents are not permitted to have face-to-face meetings with clients, except where clients’ physical presence is legally required to complete transactions. In such situations, the meeting must take place in the office of the real estate company. Property viewings are not permitted to be conducted in person.  They may be conducted through electronic means.
+
+#### **27. Are car showrooms allowed to re-open from 2 June?**
+Car showrooms will not be allowed to resume operations from 2 June 2020.
