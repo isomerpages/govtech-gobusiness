@@ -2,6 +2,8 @@
 title: Maritime
 permalink: /supportschemes/martimesupport/
 third_nav_title: Sector-Specific Support
+layout: datagovsg-search
+datagovsg-id: 9516b864-1e3c-495e-8e92-4f48ed13334d
 ---
 
 <div class="gobizfinapplyTable">
