@@ -30,7 +30,7 @@ For Companies that are applying for exemption for a limited-period of time, plea
 Please submit your application one day before the on-site deployment of your staff.
 Please note that the total number of employees activated should not exceed 10, or 25% of the total number of employees in your company, whichever is lower.
 
-To find out how to apply for a Time-Limited Exemption, watch the <a href="https://go.gov.sg/timelimitedexemp" target="_blank">video</a>.
+[^1]: The weekly cycle starts from Sunday 12.00am and ends on Saturday 11.59pm.
 
 #### **5. What should I do if I have not received an exemption? Am I allowed to continue operations?**
 Please suspend your business operations until you have received the official email notification of approval.

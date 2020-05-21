@@ -24,7 +24,7 @@ Everyone should minimise travel outside of their homes. As the owner, you may re
 
 Your employees are not permitted to go to your place of business.  They may work remotely from home.
 
-If you need to activate your employees to work on-site for short periods of time (i.e. less than a day), please apply for a time-limited exemption through <a href="https://covid.gobusiness.gov.sg" target="_blank">https://covid.gobusiness.gov.sg</a>. For more details on applying for a time-limited exemption, you may refer to the video tutorial <a href="https://go.gov.sg/timelimitedexemp" target="_blank">here</a>.
+If you need to activate your employees to work on-site for short periods of time (i.e. less than a day), please apply for <ins>a time-limited exemption</ins> through <a href="https://covid.gobusiness.gov.sg" target="_blank">https://covid.gobusiness.gov.sg</a>. Please submit your application **one day before** the required date of use.
 
 #### **6. Why is there a need to further tighten headcounts even though I am an essential firm? I have already submitted my company’s plans/manpower requirements.**
 The Multi-Ministry Taskforce announced on 14 April 2020 that there will be a further tightening of the list of companies that are permitted to operate during the Circuit Breaker period to reduce the number of on-site employees and minimise people movement.
