@@ -3,6 +3,8 @@ title: Resumption of Business Activities from 2 June
 permalink: /faq/resumptionbusiness
 ---
 
+## **<ins>Resumption of operations</ins>**
+
 #### **1. How do I know if my company is allowed to resume operations from 2 June?**
 The list of business activities (and the corresponding Singapore Standard Industrial Classification (SSIC) codes) that may operate from 2 June 2020 can be found <a href="/permittedlist">here</a>. All businesses that operate are required to comply with the safe management measures <a href="/safemanagement/general/">here</a>.
 
@@ -70,6 +72,8 @@ Please approach the relevant authority which regulates the activities in your se
 #### **16. What is the penalty if my company is found operating when we are not allowed to do so?**
 Under the COVID-19 (Temporary Measures) Act, first-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
+## **<ins>Submission of Manpower Details</ins>**
+
 #### **17. My business is included in the list of permitted services. Do I still need to submit my manpower details?**
 Yes. All businesses must submit their manpower details via the GoBusiness portal within 2 weeks of the date of resumption of operations.  Businesses that fail to submit their manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
@@ -80,6 +84,8 @@ Businesses who fail to submit the manpower details within 2 weeks of resuming op
 
 #### **19. I tried to submit my company’s manpower details at the GoBusiness portal but am unable to do so. What should I do?**
 If your company falls under the list of permitted services to resume operations from 2 June, you will only be able to access the manpower submission function via the “Permissions and Manpower Declaration” button on the GoBusiness portal from 26 May onwards.
+
+## **<ins>Implementing safe management measures</ins>**
 
 #### **20. If I am unable to implement all the safe management measures in time. Will I still be allowed to resume operations?**
 No. Companies must ensure that all safe management measures are in place before they resume operations.
@@ -108,6 +114,8 @@ Strict checks will be conducted, and businesses that do not provide a safe workp
 #### **24. Do my staff need to carry any documentation to verify that they can return to office?**
 No. Staff who are returning to their workplaces are not required to carry any documentation.
 
+## **<ins>Sector Specific</ins>**
+
 #### **25. Can insurance agents physically meet clients from 2 June onwards?**
 Insurance agents are not permitted to have face-to-face meetings with clients, except where clients’ physical presence is legally required to complete transactions.  In such situations, the meeting must take place in the office of the insurer.
 
@@ -116,3 +124,27 @@ Property agents are not permitted to have face-to-face meetings with clients, ex
 
 #### **27. Are car showrooms allowed to re-open from 2 June?**
 Car showrooms will not be allowed to resume operations from 2 June 2020.
+
+#### **28. Are bubble tea shops allowed to re-open from 2 June?**
+Shops selling predominantly beverages have to remain closed.
+
+#### **29. Is in-person home tuition allowed from 2 June?**
+In-person home tuition services are not allowed. Tutors and students can continue with lessons online.
+
+#### **30. Are home cleaning services allowed from 2 June?**
+Household cleaning services will continue to be suspended during this period.
+
+#### **31. Can maid agencies re-open from 2 June?**
+No. Maid agencies are not permitted to open their physical outlets until further notice.  They can continue to operate remotely through electronic means.
+
+#### **32. Will shops selling health products like vitamins/supplements be allowed to open from 2 June?**
+No. To manage the risks of transmission, most retail outlets, including those selling health supplements, will have to remain closed until further notice. They may continue to sell their products online and fulfil the orders through delivery.
+
+#### **33. Will commercial visa application centres re-open from 2 June?**
+Commercial visa application centres are not permitted to operate their physical outlets.  They can continue to operate remotely through electronic means.
+
+#### **34. Will foot reflexology services be allowed to resume from 2 June?**
+No, foot reflexology services will not be allowed to resume operations from 2 June. More details will be announced later.
+
+#### **35. Are beauty services such as facial, threading, manicures, pedicures etc allowed to resume from 2 June?**
+No, beauty services are not allowed to resume operations from 2 June. Physical retail stores and services that could lead to social mixing or close contact between individuals have to remain closed until further notice.

@@ -4,7 +4,7 @@ permalink: /faq/essentialworkers
 ---
 
 #### **1. Is there a guide on how to register my essential manpower?**
-Yes. The guide for registration of essential manpower can be found <a href="https://go.gov.sg/essentialmanpowerguide" target="_blank">here</a>. A video tutorial can be found at <a href="https://go.gov.sg/manpowersub" target="_blank">here</a>.
+Yes. The guide for registration of essential manpower can be found <a href="https://go.gov.sg/essentialmanpowerguide" target="_blank">here</a>.
 
 #### **2. Why do I need to submit the details of my essential manpower?**
 With the implementation of circuit breaker measures from 7 Apr 2020, only businesses performing essential services and their related supply chains and service providers can continue operating.
