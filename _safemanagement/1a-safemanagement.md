@@ -9,8 +9,8 @@ To provide a safe working environment and to prevent transmission at the workpla
 Businesses may also wish to refer to MTI’s <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/05/MTI-Advisory-on-resumption-of-activities-from-2-June-2020.pdf" target="_blank">advisory</a> dated 19 May 2020, on the gradual resumption of business activities in phases starting from 2 June 2020.
 
 All businesses are to comply with the following requirements: 
-- All employees whose functions can be done remotely (e.g. by telecommuting) be done from home 
-- Employees should only return to the workplace when needed, for purposes that cannot be carried out via telecommuting (e.g. to access specialised terminals or dedicated machines, or to complete a contract or transaction that is legally required to be completed in person and on-site).
+- All employees who have been working from home so far should continue to do so. 
+- Employees should only return to the workplace where it is demonstrably necessary, for purposes that cannot be carried out via telecommuting (e.g. to access specialised terminals or dedicated machines, or to complete a contract or transaction that is legally required to be completed in person and on-site).
 
 Please view the infographic below for an overview of the safe management measures.
 
