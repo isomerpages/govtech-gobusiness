@@ -10,8 +10,7 @@ Businesses may also wish to refer to MTI’s <a href="https://www.mti.gov.sg/-/m
 
 All businesses are to comply with the following requirements: 
 - All employees whose functions can be done remotely (e.g. by telecommuting) be done from home 
-- Employees should only return to the workplace when needed, for purposes that cannot be carried out via telecommuting (e.g. to access specialised terminals or dedicated machines).
-- No face-to-face meetings with clients unless physical presence is required by law (e.g. to complete transactions).
+- Employees should only return to the workplace when needed, for purposes that cannot be carried out via telecommuting (e.g. to access specialised terminals or dedicated machines, or to complete a contract or transaction that is legally required to be completed in person and on-site).
 
 Please view the infographic below for an overview of the safe management measures.
 
