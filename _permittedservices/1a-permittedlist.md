@@ -90,5 +90,5 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
 </table>
 
 
-
+__________________________________________________________________________________________________
 1. F&B outlets in parks and standalone outlets selling predominantly beverages remain closed.
