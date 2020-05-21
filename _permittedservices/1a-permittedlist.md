@@ -32,7 +32,7 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
         </td>
     </tr>
     <tr>
-        <td>Food services[^1]</td>
+        <td>Food services<sup>1</sup></td>
         <td>
             <ul>
                 <li>
@@ -91,4 +91,4 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
 
 
 
-The weekly cycle starts from Sunday 12.00am and ends on Saturday 11.59pm.
+1. The weekly cycle starts from Sunday 12.00am and ends on Saturday 11.59pm.
