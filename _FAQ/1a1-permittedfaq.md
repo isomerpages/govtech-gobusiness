@@ -140,7 +140,7 @@ No. Maid agencies are not permitted to open their physical outlets until further
 #### **32. Will shops selling health products like vitamins/supplements be allowed to open from 2 June?**
 No. To manage the risks of transmission, most retail outlets, including those selling health supplements, will have to remain closed until further notice. They may continue to sell their products online and fulfil the orders through delivery.
 
-#### **33. Will commercial visa application centres reopen from 2 June?**
+#### **33. Will commercial visa application centres re-open from 2 June?**
 Commercial visa application centres are not permitted to operate their physical outlets.  They can continue to operate remotely through electronic means.
 
 #### **34. Will foot reflexology services be allowed to resume from 2 June?**
