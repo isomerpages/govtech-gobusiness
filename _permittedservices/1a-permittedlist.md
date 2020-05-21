@@ -91,4 +91,4 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
 
 
 
-1. The weekly cycle starts from Sunday 12.00am and ends on Saturday 11.59pm.
+1. F&B outlets in parks and standalone outlets selling predominantly beverages remain closed.
