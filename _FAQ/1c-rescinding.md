@@ -40,7 +40,7 @@ In line with the latest announcement on 2 May 2020, selected F&B and retail oper
 
 Companies which continue operations during this period should ensure the following:
 - Cross-deployment or movement of employees across different workplace premises (e.g. different branches) will be disallowed. There should also be no physical interactions between teams working in different locations. For essential service providers who need to move between different locations to perform their services (e.g. IT support, maintenance, logistics, community nurses making house visits), safe distancing measures must be complied to.
-- Employers and on-site managers are required to implement strict safe distancing measures within their premises, provide company-arranged transport and reduce social interactions among employees during their course of work, as well as during their meal and break times. Employers and on-site managers should ensure that employees on-site are wearing masks.
+- Employers and on-site managers are required to implement strict safe distancing measures within their premises, and for company-arranged transport, to reduce social interactions among employees during their course of work, as well as during their meal and break times. Employers and on-site managers should ensure that employees on-site are wearing masks.
 - Employers are required to ensure that their employees have appropriate housing options to mitigate against the spread of COVID-19.
 
 #### **8. What would happen to companies which are found operating even when their exemption approval has been rescinded?**
