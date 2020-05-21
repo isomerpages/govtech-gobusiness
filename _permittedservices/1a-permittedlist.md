@@ -32,7 +32,7 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
         </td>
     </tr>
     <tr>
-        <td>Food services</td>
+        <td>Food services<sup>1</sup></td>
         <td>
             <ul>
                 <li>
@@ -88,3 +88,7 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
         </td>
     </tr>
 </table>
+
+
+__________________________________________________________________________________________________
+<i>1. F&B outlets in parks and standalone outlets selling predominantly beverages remain closed.</i>
