@@ -5,7 +5,7 @@ description: For Singapore Businesses
 image: /images/
 permalink: /
 #notification: 
-notification: We regret to inform that the manpower submission form is temporarily unavailable due to a server issue. We are working to restore the affected service. All other services on the site will remain unaffected. We apologised for any inconvenience caused.
+notification: We regret to inform that the manpower submission form is temporarily unavailable due to a server issue. We are working to restore the affected service. All other services on the site remain unaffected. We apologise for any inconvenience caused.
 sections:
     - hero:
         title: Supporting Our Businesses
