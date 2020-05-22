@@ -1,5 +1,5 @@
 ---
-title: Contract Tracing Support
+title: Contact Tracing Support
 permalink: /safemanagement/safeentry/
 third_nav_title: Safe Management Requirements
 ---
