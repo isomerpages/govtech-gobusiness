@@ -10,6 +10,7 @@ Businesses may also wish to refer to MTI’s <a href="https://www.mti.gov.sg/-/m
 #### **Arts and Culture**
 
 <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Operationalisation-of-Circuit-Breaker-Safe-Distancing-Measures.html">National Arts Council Advisory</a>
+<br>
 <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19">National Heritage Board Advisory</a>
 
 
