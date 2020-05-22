@@ -7,6 +7,12 @@ Businesses should adhere to sector-specific guidelines as below, in addition to 
 
 Businesses may also wish to refer to MTI’s <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/05/MTI-Advisory-on-resumption-of-activities-from-2-June-2020.pdf" target="_blank">advisory</a> dated 19 May 2020, on the gradual resumption of business activities in phases starting from 2 June 2020.
 
+#### **Arts and Culture**
+
+<a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Operationalisation-of-Circuit-Breaker-Safe-Distancing-Measures.html">National Arts Council Advisory</a>
+<a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19">National Heritage Board Advisory</a>
+
+
 #### **Retail & F&B**
 
 The measures specific to the retail and F&B sectors are accessible at <a href = "https://www.enterprisesg.gov.sg/covid-19/safe-distance">https://www.enterprisesg.gov.sg/covid-19/safe-distance</a>.
