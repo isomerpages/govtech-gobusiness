@@ -148,3 +148,15 @@ No, foot reflexology services will not be allowed to resume operations from 2 Ju
 
 #### **35. Are beauty services such as facial, threading, manicures, pedicures etc allowed to resume from 2 June?**
 No, beauty services are not allowed to resume operations from 2 June. Physical retail stores and services that could lead to social mixing or close contact between individuals have to remain closed until further notice.
+
+#### **36. Given that in-person marriage solemnisations are allowed to take place in Phase One, are wedding- related services such as bridal studios, wedding photography, videography and make-up services, allowed to resume as well?**
+No. Wedding-related services are not allowed to resume operations in Phase One until further notice. They may continue to sell their products online and fulfil the orders through delivery.
+
+#### **37. Are companies which are resuming operations in Phase 1 required to ensure that their employees work from home?**
+The default mode of working for all companies (including for companies resuming operations in Phases 1 and 2) should be telecommuting. This is to reduce physical interactions in the workplace in order to minimise spread of COVID-19. Please refer to para 4(a) of MOH’s press release for more details.
+
+To this end, all employers should provide the facilities necessary and direct every worker to work from home, as far as reasonably practicable. All employees who have been working from home so far should continue to do so, even as operations in their companies resume.
+
+MOM’s Safe Management Measures requirements at the workplace, which include ensuring that employees telecommute where possible, can be found here. There is also a list of resources such as technology solutions and grants available to assist companies here.
+
+Checks will be conducted. Businesses whose employers do not provide a safe workplace, ensure employees work from home where possible, or whose workers do not adhere to safe management measures, may have to close their workplaces.
