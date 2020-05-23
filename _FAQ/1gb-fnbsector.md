@@ -20,5 +20,5 @@ Please refer to the guidelines for home-based businesses on the <a href="https:/
 #### **4. I have received the approval to continue my business operations. Does that mean that I can continue to operate all my business functions?**
 No. Retail businesses that have received the approval can continue their trading (B2B) or online sales functions. They must however cease their physical retail shops for B2C sales function, unless their physical B2C sales is clearly stated as an essential service e.g. supermarkets, pharmacies. This means that all other physical retail stores/ department stores must cease operations. B2C sales via online retail can still continue.
 
-#### **6. Is it okay for a cleaner/part-time maid to come to clean my house?**
+#### **5. Is it okay for a cleaner/part-time maid to come to clean my house?**
 No. Home cleaning services, including freelance home cleaning, are not permitted to continue.
