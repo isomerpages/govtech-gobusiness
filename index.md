@@ -21,7 +21,7 @@ sections:
         - title: Application for Additional Manpower
           url: https://go.gov.sg/additionalmanpower
           description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br>Click Here
-        - title: Manpower Submission Form
+        - title: Permissions and Manpower Declaration
           url: https://go.gov.sg/timelimitedexemption
           description: </br>Only for businesses performing essential services and those who have an approval for exemption</br></br></br>Click Here
     - infobar:
@@ -30,12 +30,12 @@ sections:
         description: Application for your workplace to be allowed to have temporary operations.<br/>Your application will only take effect on the following day after your submission.<br/>You are allowed to submit applications only twice every week (each week starting from Sunday 12:00am to Saturday 11:59pm)
         button: Click Here to Apply
         url: https://go.gov.sg/exemptionstatus
-    - infobar:
-        title: Status of Application
-        subtitle: 
-        description: 
-        button: Check Status of General Exemption Application Here
-        url: https://go.gov.sg/exemptionstatus
+#    - infobar:
+#        title: Status of Application
+#        subtitle: 
+#        description: 
+#        button: Check Status of General Exemption Application Here
+#        url: https://go.gov.sg/exemptionstatus
     - infopic:
         title: Permitted Services
         subtitle: 
