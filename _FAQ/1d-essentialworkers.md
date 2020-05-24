@@ -7,7 +7,7 @@ permalink: /faq/essentialworkers
 Yes. The guide for submission/declaration of manpower details can be found <a href="https://go.gov.sg/essentialmanpowerguide" target="_blank">here</a>.
 
 #### **2. How do I know if I need to submit/declare my manpower details?**
-Only businesses that are allowed to resume operations from 2 June 2020, or have received an approval for their General Exemption application, are required to do so. Please refer to the table below for further details.
+Only businesses that are allowed to resume operations from 2 June 2020, or have received an approval for their General Exemption application, are required to do so. Please refer to the table below for further details. 
 
 You can refer to the full list of permitted services allowed to resume operations from 2 June 2020 <a href="https://go.gov.sg/permittedserviceslist" target="_blank">here</a>.
 
