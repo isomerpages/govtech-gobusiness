@@ -99,7 +99,7 @@ If you have not received an acknowledgement email, your email address may be ina
 For applicants with a CorpPass account, kindly login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> to verify if your email address is accurately reflected. You will be able to update your email address if needed. All changes will be reflected immediately.
 
 #### **25. How will employers be informed if their essential manpower can work on-site?**
-All manpower submissions must be submitted by 8pm one day before the workers are deployed for work. Employers will receive an email sent by the Ministry of Manpower, on behalf of the Ministry of Trade and Industry, to inform them of the specific manpower who have been granted permission to work on site.
+All manpower submissions must be submitted by 8pm one day before the workers are deployed for work. Employers will receive an email sent by the Ministry of Manpower, on behalf of the Ministry of Trade and Industry, to inform them of the specific manpower who have been granted permission to work on-site.
 
 #### **26. What should I do if I would like to make changes to the details of my essential manpower?**
 Please login <a href="https://go.gov.sg/momforeignworkerupdate" target="_blank">here</a> and click on the approved exemption to resubmit the NRIC/FIN numbers of your essential manpower. Kindly resubmit **<ins>all</ins>** NRIC/FIN numbers of your essential manpower who are working on-site.
