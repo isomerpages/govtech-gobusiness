@@ -39,7 +39,7 @@ The Multi-Ministry TaskForce announced on 19 May 2020 that Circuit Breaker measu
 As more workers go back to work, we need to ensure that businesses resume operations in a safe way. Hence, businesses that are allowed to resume operations from  2 June 2020 are required to declare their manpower details.
 
 #### **9. How do I declare my manpower details and what information do I need to provide?**
-For applicants with a CorpPass account, please login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a>. Thereafter, please click on the button “submit manpower, which will be made available only for permitted business resumptions.
+For applicants with a CorpPass account, please login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a>. Thereafter, please click on the button “submit manpower", which will be made available only for permitted business resumptions.
 
 You will be required to submit (i) the total number of employees/workers working on-site and (ii) the proportion of these employees/workers who are working part-time and shifts).
 
@@ -80,7 +80,7 @@ You can find more information <a href="https://go.gov.sg/momforeignworkerupdate"
 Only businesses that have received approval for their General Exemption application are required to submit details of their essential manpower. This excludes foreign domestic workers and staff of government agencies.
 
 #### **20. How do I register my essential manpower and what information do I need to provide?**
-For applicants with a CorpPass account, please login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a>. Thereafter, please click on the button “submit manpower, which will be made available only for approved exemption applications, to register the NRIC/FIN numbers of your essential manpower.
+For applicants with a CorpPass account, please login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a>. Thereafter, please click on the button “submit manpower", which will be made available only for approved exemption applications, to register the NRIC/FIN numbers of your essential manpower.
 
 Please ensure that your email address is accurately reflected on your application form. An acknowledgement email will be sent to your email address once you have submitted the details of your essential manpower. We will also be using this email address to provide you with updates.
 
@@ -121,7 +121,7 @@ Further appeals will not be considered.
 #### **31. Can my company register more essential manpower than the permitted headcount on-site given that we operate on a split team basis?**
 Please click on <a href="https://go.gov.sg/additionalmanpower" target="_blank">Submission of Additional Manpower</a> to request for a review.
 
-#### **32. I am a sole proprietor and have no employees. I had previously received the approval of my exemption request. Do I still need to submit my personal details via the “Permission and Manpower Declaration” form?**
+#### **32. I am a sole proprietor and have no employees. I had previously received the approval of my exemption request. Do I still need to submit my personal details via the “Permissions and Manpower Declaration” form?**
 Yes. You will still need to submit your details via the form when you receive the notification email to do so.
 
 #### **33. I had previously submitted the details of my essential manpower. Do I need to re-submit it daily?**
