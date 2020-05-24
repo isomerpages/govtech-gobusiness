@@ -23,7 +23,7 @@ sections:
           description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br>Click Here
         - title: Permission and Manpower Declaration
           url: https://go.gov.sg/timelimitedexemption
-          description: </br>Only for businesses performing essential services and those who have an approval for exemption</br></br></br>Click Here
+          description: </br>To check your exemption application / business resumption status; and to submit your manpower details.</br></br></br>Click Here
     - infobar:
         title: Time-Limited Exemption
         subtitle: 
