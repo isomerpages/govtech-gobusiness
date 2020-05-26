@@ -47,7 +47,7 @@ As such, TCM services that involve direct prolonged contact with patients e.g. c
 #### **9. Will there be any practice restrictions as TCM needle acupuncture is allowed for other conditions besides pain management?**
 The provision of TCM needle acupuncture for all conditions will be allowed, with the following restrictions:
 
-i. Only TCMPs in TCM clinics and those co-located within a TCM medical hall with dedicated treatment rooms can offer acupuncture treatment;</br>
+i. Only TCMPs in TCM clinics and those co-located within a TCM medical hall with dedicated treatment rooms can offer acupuncture treatment;<br>
 ii. TCMPs must only perform acupuncture treatment on one patient at any one time i.e. no concurrent treatment of patients even in separate rooms;<br>
 iii. Acupuncture treatment should be restricted to once a week per patient on appointment basis. Each session should not exceed 45 minutes; and<br>
 iv. Masks must be worn by both TCMPs and patients throughout the acupuncture treatment session. TCMPs must also observe proper infection control guidelines as prescribed below:
