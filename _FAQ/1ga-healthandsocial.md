@@ -47,9 +47,9 @@ As such, TCM services that involve direct prolonged contact with patients e.g. c
 #### **9. Will there be any practice restrictions as TCM needle acupuncture is allowed for other conditions besides pain management?**
 The provision of TCM needle acupuncture for all conditions will be allowed, with the following restrictions:
 
-i. Only TCMPs in TCM clinics and those co-located within a TCM medical hall with dedicated treatment rooms can offer acupuncture treatment;
-ii. TCMPs must only perform acupuncture treatment on one patient at any one time i.e. no concurrent treatment of patients even in separate rooms;
-iii. Acupuncture treatment should be restricted to once a week per patient on appointment basis. Each session should not exceed 45 minutes; and
+i. Only TCMPs in TCM clinics and those co-located within a TCM medical hall with dedicated treatment rooms can offer acupuncture treatment;<br>
+ii. TCMPs must only perform acupuncture treatment on one patient at any one time i.e. no concurrent treatment of patients even in separate rooms;<br>
+iii. Acupuncture treatment should be restricted to once a week per patient on appointment basis. Each session should not exceed 45 minutes; and<br>
 iv. Masks must be worn by both TCMPs and patients throughout the acupuncture treatment session. TCMPs must also observe proper infection control guidelines as prescribed below:
 - Hand hygiene must be strictly observed.
 - Surgical masks, gloves and other protective gear (e.g. disposable gowns when appropriate) must be used when performing acupuncture and manipulative treatment.
@@ -57,8 +57,6 @@ iv. Masks must be worn by both TCMPs and patients throughout the acupuncture tre
 - Maintain a clean work environment.
 
 #### **10. Am I allowed to make house calls to deliver essential TCM services?**
-Yes, house calls will be allowed but with the following restrictions:
-
 Yes, house calls will be allowed but with the following restrictions:
 
 i. Make a pre-visit phone call on the day of home therapy/home visit to ascertain the patient’s/client’s health condition and potential exposure to COVID-19 prior to the therapy/visit and review the need to proceed with home therapy/home visit;
