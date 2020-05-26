@@ -72,20 +72,20 @@ Please approach the relevant authority which regulates the activities in your se
 #### **16. What is the penalty if my company is found operating when we are not allowed to do so?**
 Under the COVID-19 (Temporary Measures) Act, first-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
-## **<ins>Submission of Manpower Details</ins>**
+#### **17. I have an approved General Exemption application. Is there any change to the approval granted to operate my business?**
+There may be conditions imposed on your approved General Exemption. From 26 May, you are advised to login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> to check your exemption application for any conditions to your approval.
 
-#### **17. My business is included in the list of permitted services. Do I still need to submit my manpower details?**
-Yes. All businesses must submit their manpower details via the GoBusiness portal within 2 weeks of the date of resumption of operations.  Businesses that fail to submit their manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
-
-#### **18. What are the manpower details that I will be required to submit?**
-Your company will be required to report manpower information such as the number of workers who will be working on-site. 
-
-Businesses who fail to submit the manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
-
-#### **19. I tried to submit my company’s manpower details at the GoBusiness portal but am unable to do so. What should I do?**
-If your company falls under the list of permitted services to resume operations from 2 June, you will only be able to access the manpower submission function via the “Permissions and Manpower Declaration” button on the GoBusiness portal from 26 May onwards.
+#### **18. I have checked the list of permitted services against my primary SSIC code and I am sure I am allowed to resume operations from 2 Jun 2020. Why is my business resumption status not reflected as “permitted”?**
+If your primary SSIC code falls into the list of permitted services and you have not changed your primary SSIC code recently, please write to <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a> for assistance.
 
 ## **<ins>Implementing safe management measures</ins>**
+
+#### **19. How do I start preparing my company for the Safe Management requirements?**
+The tripartite partners have issued new requirements for employers on the Safe Management measures required of employers allowed to resume their operations after the enhanced circuit breaker period. Details on the Safe Management measures can be found at <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures">https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures</a>.
+
+These measures will help provide a safe working environment and minimise risks of further outbreaks of COVID-19. Employers should implement these Safe Management measures in a sustainable manner before resuming operations and be prepared to undertake them for as long as necessary.
+
+If these Safe Management measures are not well implemented, tighter measures that affect our economy and livelihoods may have to be reintroduced. To prevent this, action will be taken against errant employers, including the cessation of operations.
 
 #### **20. If I am unable to implement all the safe management measures in time. Will I still be allowed to resume operations?**
 No. Companies must ensure that all safe management measures are in place before they resume operations.
@@ -160,3 +160,8 @@ To this end, all employers should provide the facilities necessary and direct ev
 MOM’s Safe Management Measures requirements at the workplace, which include ensuring that employees telecommute where possible, can be found <a href="https://go.gov.sg/mommeasures">here</a>. There is also a list of resources such as technology solutions and grants available to assist companies <a href="https://go.gov.sg/mommeasurespdf">here</a>.
 
 Checks will be conducted. Businesses whose employers do not provide a safe workplace, ensure employees work from home where possible, or whose workers do not adhere to safe management measures, may have to close their workplaces.
+
+#### **38. Can I fix an appointment to repair my leaking air conditioner? What safe distancing measures must all repair personnel abide by?**
+You may fix an appointment to repair your air conditioner. The repair of consumer electronics, IT peripherals, and household appliances is allowed to continue during the circuit breaker period. Air con servicing will also be allowed to resume from 2 June onwards.
+
+All repair personnel must comply with stringent hygiene and safe distancing practices. These include wearing a mask, minimising physical contact and interaction, and maintaining a safe distance as much as possible. The number of personnel should also be kept to a minimum and they must leave the premises once the job is completed.
