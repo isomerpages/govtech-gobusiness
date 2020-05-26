@@ -10,9 +10,9 @@ collections:
   supportschemes:
     output: true
   safetywork:
-    output: true
+    output: false
   govtassist:
-    output: true
+    output: false
   essentialservices:
     output: true
   guides:
