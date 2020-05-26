@@ -19,6 +19,8 @@ You can refer to the full list of permitted services allowed to resume operation
 #### **3. I have received a General Exemption approval and have submitted details of my essential manpower. However, I am unable to key in my permitted manpower. What should I do?**
 You will be able to key in your permitted manpower from 2 June 2020 onwards.
 
+This includes (i) the total number of employees/workers working on-site and (ii) the proportion of these employees/workers who are working part-time and shifts.
+
 #### **4. How do I submit/declare my manpower details when the “manpower submission” form is no longer available on the Covid GoBusiness portal?**
 You may submit/declare your manpower details <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a>.
 
