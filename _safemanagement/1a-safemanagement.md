@@ -31,9 +31,9 @@ Please view the infographic below for an overview of the safe management measure
 |  Safe Management  |                                  Link                                  |
 | :---------------: | :--------------------------------------------------------------------: |
 | Full Infographic  | <a href="https://go.gov.sg/images/Resumption_of_Biz_Activities_-_Safe_Management_Measures_Infographic_Revised_FA.pdf" target="_blank">PDF</a> |
-|      Step 1       |     <a href="https://go.gov.sg/safestep1" target="_blank">JPG</a>      |
-|      Step 2       |     <a href="https://go.gov.sg/safestep2" target="_blank">JPG</a>      |
-| Step 3 and Step 4 |     <a href="https://go.gov.sg/safestep3" target="_blank">JPG</a>      |
-|      Step 5       |     <a href="https://go.gov.sg/safestep4" target="_blank">JPG</a>      |
-| Step 6 - Frame 1  |     <a href="https://go.gov.sg/safestep5" target="_blank">JPG</a>      |
-| Step 6 - Frame 2  |     <a href="https://go.gov.sg/safestep6" target="_blank">JPG</a>      |
+|      Step 1       |     <a href="https://go.gov.sg/images/img-01.jpg" target="_blank">JPG</a>      |
+|      Step 2       |     <a href="https://go.gov.sg/images/img-02.jpg" target="_blank">JPG</a>      |
+| Step 3 and Step 4 |     <a href="https://go.gov.sg/images/img-03.jpg" target="_blank">JPG</a>      |
+|      Step 5       |     <a href="https://go.gov.sg/images/img-04.jpg" target="_blank">JPG</a>      |
+| Step 6 - Frame 1  |     <a href="https://go.gov.sg/images/img-05.jpg" target="_blank">JPG</a>      |
+| Step 6 - Frame 2  |     <a href="https://go.gov.sg/images/img-06.jpg" target="_blank">JPG</a>      |
