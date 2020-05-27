@@ -93,47 +93,50 @@ You may only register your essential manpower after your company exemption is ap
 #### **21. I have problems adding in more essential manpower details to my application. Why is it so?**
 Each business is allotted a specific manpower quota. You will not be able to add more employees to your application once you have reached the allotted quota.  The cap on the number of employees that you are allowed to have on-site is necessary to minimise the movement of workers to and from work. We are acutely aware that this will be disruptive for businesses, but it is also essential in the fight against COVID-19.
 
-#### **22. What happens after I have submitted the details of my essential manpower?**
+#### **22. I have received the email notification to submit the details of my essential manpower. However, my “Manpower Submission” form states that my allotted headcount is “0” or “N/A”. What should I do?**
+If your allotted headcount is reflected as “0” or “N/A”, it means that the system is still being updated. Please check back in 1 or 2 days to view your allotted headcount. You may continue operations with your current headcount in the meantime.
+
+#### **23. What happens after I have submitted the details of my essential manpower?**
 An acknowledgement email will be sent to your email address to inform you that we have received a record of the details of your essential manpower.
 
-#### **23. What happens if I do not receive an acknowledgement email after I have submitted the details of my essential manpower?**
+#### **24. What happens if I do not receive an acknowledgement email after I have submitted the details of my essential manpower?**
 If you have not received an acknowledgement email, your email address may be inaccurately captured on our system.
 
 For applicants with a CorpPass account, kindly login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> to verify if your email address is accurately reflected. You will be able to update your email address if needed. All changes will be reflected immediately.
 
-#### **24. How will employers be informed if their essential manpower can work on-site?**
+#### **25. How will employers be informed if their essential manpower can work on-site?**
 All manpower submissions must be submitted by 8pm one day before the workers are deployed for work. Employers will receive an email sent by the Ministry of Manpower, on behalf of the Ministry of Trade and Industry, to inform them of the specific manpower who have been granted permission to work on-site.
 
-#### **25. What should I do if I would like to make changes to the details of my essential manpower?**
+#### **26. What should I do if I would like to make changes to the details of my essential manpower?**
 Please login <a href="https://go.gov.sg/momforeignworkerupdate" target="_blank">here</a> and click on the approved exemption to resubmit the NRIC/FIN numbers of your essential manpower. Kindly resubmit **<ins>all</ins>** NRIC/FIN numbers of your essential manpower who are working on-site.
 
-#### **26. Is there a limit to the number of times I can change the details of my essential manpower?**
+#### **27. Is there a limit to the number of times I can change the details of my essential manpower?**
 You may change and resubmit the details of your essential manpower up to 5 times a day.
 
 Kindly resubmit the NRIC/FIN numbers of **<ins>all</ins>** your essential manpower who are working on-site for each resubmission. The list of essential manpower working on-site will be based on the latest submission.
 
-#### **27. I need more essential manpower on site to ensure the continuation of my business activities. What should I do?**
+#### **28. I need more essential manpower on site to ensure the continuation of my business activities. What should I do?**
 The cap on the number of essential manpower that you are allowed to have on-site is necessary to minimise the movement of employees to and from work.  We are acutely aware that this will be disruptive for businesses, but it is also essential in the fight against COVID-19. Each and every one of us can, and must, play our part in protecting our people from infection. If you would, nevertheless, like to request for a review of your cap, please click on <a href="https://go.gov.sg/additionalmanpower" target="_blank">Submission of Additional Manpower</a>.
 
-#### **28. My company is not on the permitted services list but I have a General Exemption approval. Can I operate with more employees than my allocated headcount from 2 June onwards?**
+#### **29. My company is not on the permitted services list but I have a General Exemption approval. Can I operate with more employees than my allocated headcount from 2 June onwards?**
 No. Companies with a General Exemption approval but that are not on the list of permitted services can only operate with the manpower allocated. You may request for a review of your manpower allocation via the <a href="https://go.gov.sg/additionalmanpower" target="_blank">Submission of Additional Manpower</a>. 
 
-#### **29. My appeal for additional manpower has been rejected, but I really need more employees on-site. Can I appeal again?**
+#### **30. My appeal for additional manpower has been rejected, but I really need more employees on-site. Can I appeal again?**
 Further appeals will not be considered.
 
-#### **30. Can my company register more essential manpower than the permitted headcount on-site given that we operate on a split team basis?**
+#### **31. Can my company register more essential manpower than the permitted headcount on-site given that we operate on a split team basis?**
 Please click on <a href="https://go.gov.sg/additionalmanpower" target="_blank">Submission of Additional Manpower</a> to request for a review.
 
-#### **31. I am a sole proprietor and have no employees. I had previously received the approval of my exemption request. Do I still need to submit my personal details via the “Permissions and Manpower Declaration” form?**
+#### **32. I am a sole proprietor and have no employees. I had previously received the approval of my exemption request. Do I still need to submit my personal details via the “Permissions and Manpower Declaration” form?**
 Yes. You will still need to submit your details via the form when you receive the notification email to do so.
 
-#### **32. I had previously submitted the details of my essential manpower. Do I need to re-submit it daily?**
+#### **33. I had previously submitted the details of my essential manpower. Do I need to re-submit it daily?**
 No, you do not need to. You will only need to re-submit the details of your essential manpower if there are changes.
 
-#### **33. My employees are on shift work. Do I need to submit one application for each shift?**
+#### **34. My employees are on shift work. Do I need to submit one application for each shift?**
 Please submit the total number of employees performing shift work and the number of shifts most workers are on via the “Application for Additional Manpower” form if the quota of employees allocated to you is insufficient to cover all the workers on shift work.
 
 We will review your application and reflect the revised allotted headcount on the “Permissions and Manpower Declaration” form as soon as possible. Once the quota has been revised, you may enter the details of your employees via the <a href="https://go.gov.sg/essentialworkers" target="_blank">Permissions and Manpower Declaration</a> form. You may continue operations with your current allotted headcount in the meantime.
 
-#### **34. Can I operate with more manpower once I have submitted my request for additional manpower?**
+#### **35. Can I operate with more manpower once I have submitted my request for additional manpower?**
 If your submission relates only to a request for additional manpower to cater for shift work, you can proceed with operations with the additional shift workers. Otherwise, please note that you should continue operations with your current allocated headcount until you have received the official email notification stating the outcome of your request.
