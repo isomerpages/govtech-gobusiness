@@ -24,7 +24,7 @@ Please view the infographic below for an overview of the safe management measure
 
 **<ins>Video</ins>**
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/glU2wn0VIZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lzCc0TOA7F4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **<ins>Downloadable</ins>**
 
