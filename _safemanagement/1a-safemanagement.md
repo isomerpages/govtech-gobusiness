@@ -30,7 +30,7 @@ Please view the infographic below for an overview of the safe management measure
 
 |  Safe Management  |                                  Link                                  |
 | :---------------: | :--------------------------------------------------------------------: |
-| Full Infographic  | <a href="https://go.gov.sg/fullinfographicpdf" target="_blank">PDF</a> |
+| Full Infographic  | <a href="https://go.gov.sg/images/Resumption_of_Biz_Activities_-_Safe_Management_Measures_Infographic_Revised_FA.pdf" target="_blank">PDF</a> |
 |      Step 1       |     <a href="https://go.gov.sg/safestep1" target="_blank">JPG</a>      |
 |      Step 2       |     <a href="https://go.gov.sg/safestep2" target="_blank">JPG</a>      |
 | Step 3 and Step 4 |     <a href="https://go.gov.sg/safestep3" target="_blank">JPG</a>      |
