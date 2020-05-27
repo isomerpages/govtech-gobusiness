@@ -26,7 +26,7 @@ The measures specific to the finance sector are accessible at <a href = "https:/
 
 The Council for Estate Agencies (CEA) has released an advisory dated 26 May 2020 on the Phase 1 resumption of property transaction activities by estate agents and real estate salespersons after the circuit breaker period. 
 
-<a href="https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf" target="_blank">PDF</a>
+<a href = "https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf">https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf</a>.
 
 #### **Manufacturing and Production Facilities (Factories, Plants, and Logistics Centres)**
 
