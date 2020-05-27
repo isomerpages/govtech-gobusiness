@@ -16,7 +16,7 @@ Please view the infographic below for an overview of the safe management measure
 
 
 **Be Ready, Stay Safe**<br>
-**6 Easy Steps for Safe Management**
+**7 Key Requirements for Safe Management at Workplaces**
 
 **<ins>Infographic</ins>**
 

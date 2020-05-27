@@ -7,6 +7,14 @@ Businesses should adhere to sector-specific guidelines as below, in addition to 
 
 Businesses may also wish to refer to MTI’s <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/05/MTI-Advisory-on-resumption-of-activities-from-2-June-2020.pdf" target="_blank">advisory</a> dated 19 May 2020, on the gradual resumption of business activities in phases starting from 2 June 2020.
 
+#### **Accounting Practices**
+
+Institute of Singapore Chartered Accountants-Singapore Accountancy Commission (ISCA-SAC) Advisory for Accounting Practices
+
+ISCA: <a href = "https://isca.org.sg/covid-19-series/faqs/?j=538131&sfmc_sub=28753357&l=215_HTML&u=10800996&mid=7235277&jb=1">https://isca.org.sg/covid-19-series/faqs/?j=538131&sfmc_sub=28753357&l=215_HTML&u=10800996&mid=7235277&jb=1</a>
+
+SAC: <a href = "https://www.sac.gov.sg/isca-sac-advisory-safe-management-measures-accounting-practices-post-covid-19-circuit-breaker-period">https://www.sac.gov.sg/isca-sac-advisory-safe-management-measures-accounting-practices-post-covid-19-circuit-breaker-period</a>
+
 #### **Arts and Culture**
 
 <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Operationalisation-of-Circuit-Breaker-Safe-Distancing-Measures.html">National Arts Council Advisory</a>
