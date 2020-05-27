@@ -13,6 +13,11 @@ Businesses may also wish to refer to MTI’s <a href="https://www.mti.gov.sg/-/m
 <br>
 <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19">National Heritage Board Advisory</a>
 
+#### **Built Environment Sector**
+
+<a href="https://go.gov.sg/bca-advisory-restart-residential-reno-bldg-works" target="_blank">Advisory on safe and controlled restart of renovation works and building works for residential properties from 2 June 2020 (27 May)</a>
+<br>
+<a href="https://go.gov.sg/bca-advisory-restart-construction" target="_blank">Advisory on safe and controlled restart of the construction sector from 2 June 2020 (25 May)</a>
 
 #### **Retail & F&B**
 
