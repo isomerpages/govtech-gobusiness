@@ -6,6 +6,20 @@ permalink: /supportschemes/digitalsupport/
 <div class="gobizfinapplyTable">
   <ul class="gobizfinapplyTable-firstTable">
     <li class="gobizfinapplyTable-firstTable_table">
+      <h1 class="gobizfinapplyTable-firstTable_table__header">Digital Resilience Bonus</h1>
+      <ul class="gobizfinapplyTable-firstTable_table__options">
+        <li>Pilot starting with Food Services and Retail sectors</li>
+        <li>Payout of up to $5,000 to help businesses digitalise with PayNow Corporate, e-invoicing, business process or e-commerce solutions</li>
+        <li>Additional payout of $5,000 for businesses that use advance solutions</li>
+      </ul>
+      <a href="https://go.gov.sg/digitalresiliencebonus"><div class="gobizfinapplyTable-firstTable_table__getstart">Click Here</div></a>
+    </li>
+  </ul>
+</div>
+
+<div class="gobizfinapplyTable">
+  <ul class="gobizfinapplyTable-firstTable">
+    <li class="gobizfinapplyTable-firstTable_table">
       <h1 class="gobizfinapplyTable-firstTable_table__header">Remote Working</h1>
       <ul class="gobizfinapplyTable-firstTable_table__options">
         <li>Remote working solutions enable businesses to operate with off-site teams. This often involves the use of digital hardware and software to facilitate online collaboration, virtual meetings and e-signatures.</li>
