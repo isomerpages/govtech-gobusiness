@@ -9,7 +9,7 @@ third_nav_title: Finanical Support
     <li class="gobizfinsup1Table-firstTable_table">
       <h1 class="gobizfinsup1Table-firstTable_table__header">Jobs Support Scheme (JSS)</h1>
       <ul class="gobizfinsup1Table-firstTable_table__options">
-        <li>To help employers retain workers, Government will co-fund the first $4,600 of gross monthly wages paid to each local employee for 10 months, with payouts in April, July, and October 2020</li>
+        <li>To help employers retain workers, Government will co-fund the first $4,600 of gross monthly wages paid to each local employee for 10 months, with payouts in April, May, July, and October 2020</li>
         <li>Firms not allowed to resume operations to get 75% wage support until August 2020 or when allowed to reopen, whichever is earlier</li>
         <li>For other qualifying months, Government will pay:</li>
             <ul>
