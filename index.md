@@ -12,6 +12,9 @@ sections:
         subtitle: Overcoming Challenges, Emerging Stronger
         background: /images/hero-banner.jpg
         key_highlights:
+        - title: Permissions and Manpower Declaration
+          url: https://go.gov.sg/timelimitedexemption
+          description: </br>To check your exemption application/business resumption status; and to submit your manpower details.</br></br></br>Click Here
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
           description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
@@ -21,9 +24,7 @@ sections:
         - title: Application for Additional Manpower
           url: https://go.gov.sg/additionalmanpower
           description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br>Click Here
-        - title: Permissions and Manpower Declaration
-          url: https://go.gov.sg/timelimitedexemption
-          description: </br>To check your exemption application/business resumption status; and to submit your manpower details.</br></br></br>Click Here
+
     - infobar:
         title: Time-Limited Exemption
         subtitle: 
