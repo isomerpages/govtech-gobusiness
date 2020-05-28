@@ -15,8 +15,10 @@ permalink: /supportschemes/general
         <li>Deferment of Income Tax Payments</li>
         <li>Property Tax Rebate for 2020</li>
         <li>Rental Waivers</li>
+        <li>Government Cash Grant for SME tenants in private properties</li>
         <li>Corporate Income Tax Rebate</li>
         <li>Foreign Worker Levy (FWL) Waiver</li>
+        <li>Deferment of Higher CPF Contribution Rates</li>
       </ul>
       <a href="/supportschemes/immediateschemes"><div class="gobizfinsup1Table-firstTable_table__getstart">Click here for more information</div></a>
     </li>
