@@ -14,7 +14,7 @@ sections:
         key_highlights:
         - title: Permissions and Manpower Declaration
           url: https://go.gov.sg/timelimitedexemption
-          description: </br>For businesses operating/ resuming from 2 June 2020.</br></br></br>Click Here
+          description: </br>For businesses operating/ resuming from 2 June 2020.</br></br>To check your exemption application/ business resumption status; and to submit your manpower details.<br></br>Click Here
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
           description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
