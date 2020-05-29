@@ -108,8 +108,6 @@ For enquires on implementing safe management measures at the workplace, please c
 #### **5. Are my employees allowed to have meals together in the pantry?**
 No. Employees should avoid socialising with colleagues within (e.g. in canteen or pantries) and outside of the workplace. 
 
-Under the COVID-19 (Temporary Measures) Act, first-time offenders will face a fine of up to S$10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.
-
 #### **6. How do I ensure that my employees and visitors adhere to Safe Management Measures?**
 Employers are required to ensure that Safe Management Measures are in place and communicated to employees prior to resuming work. Employers should have a plan to communicate their Safe Management Measures to employees through their internal communications channels such as emails, notices, and signs to remind employees and visitors to observe the measures.
 
