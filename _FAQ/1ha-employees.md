@@ -30,7 +30,7 @@ The Jobs Support Scheme announced by the Government is meant to support employer
 
 The latest Advisory on salary and leave arrangements can be found on the MOM website at <a href="https://www.mom.gov.sg/covid-19/advisory-on-salary-and-leave" target="_blank">https://www.mom.gov.sg/covid-19/advisory-on-salary-and-leave</a>
 
-#### **5. WWhat can employees of firms which are not allowed to resume service do, if they are told to leave the company due to refusal to report to work?**
+#### **5. What can employees of firms which are not allowed to resume service do, if they are told to leave the company due to refusal to report to work?**
 Employees who have been wrongfully dismissed may file a claim against the wrongful dismissal or make a phone advisory appointment with the <a href="https://www.tal.sg/tadm/eServices" target="_blank">Tripartite Alliance for Dispute Management (TADM)</a>.
 
 For more information on what constitutes a wrongful dismissal, please refer to the Tripartite Guidelines on Wrongful Dismissal.
