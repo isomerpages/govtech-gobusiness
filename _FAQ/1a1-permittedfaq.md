@@ -161,7 +161,7 @@ Insurance agents are not permitted to have face-to-face meetings with clients, e
 #### **2. Are property agents allowed to meet and bring clients to view properties from 2 June onwards?**
 Property agents are not permitted to have direct, face-to-face meetings with clients. However, should your client’s physical presence be legally required to complete the transaction, your client may complete the transaction at the lawyer’s or HDB’s office. If this is not possible, you should arrange for the completion of the transaction in your property agency’s office with the necessary safe management measures as required by MOM.
 
-#### **3. Can MTI allow potential tenants to physically view vacant property units from 2 June onwards? **
+#### **3. Can MTI allow potential tenants to physically view vacant property units from 2 June onwards?**
 As we exit the circuit breaker period on 2 June, we will embark on a phased approach to resume activities safely. Given that the risk of a resurgence in community transmission remains high, we will first resume economic activities that pose a lower risk of transmission and involve little or no interaction with the wider community.
 
 In light of these considerations, RESs should continue to avoid activities involving direct, face-to-face interactions with any other persons in Phase 1. For instance, activities such as physical viewings, which involve contact with different groups of people such as landlords and potential tenants are not permitted. However, RESs are able to continue to conduct property viewings through electronic means which some have been doing throughout the circuit breaker period.
