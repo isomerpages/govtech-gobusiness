@@ -141,7 +141,7 @@ It is the responsibility of employers to show that they have made a reasonable e
 
 Businesses that do not implement Safe Management Measures are liable for penalties under the COVID-19 (Temporary Measures) Act and to have their operations suspended.
 
-Breaches or poor practices of Safe Management Measures can be reported via **<a href="www.mom.gov.sg/eservices/snapsafe" target="_blank">SnapSAFE</a>**.
+Breaches or poor practices of Safe Management Measures can be reported via **<a href="https://www.mom.gov.sg/eservices/snapsafe" target="_blank">SnapSAFE</a>**.
 
 #### **5. Under what circumstances may I return to my workplace from 2 June?**
 Employers are permitted to allow employees to go to the office if there is no alternative and it is demonstrably necessary (e.g. to operate a system or equipment that cannot be accessed from home, or to fulfil legal requirements).  For example, if your job involves operating machinery or equipment on-site, or systems that cannot be accessed outside of the office, you may return to work to do so.
