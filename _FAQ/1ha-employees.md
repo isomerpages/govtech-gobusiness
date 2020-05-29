@@ -33,7 +33,7 @@ The latest Advisory on salary and leave arrangements can be found on the MOM web
 #### **5. What can employees of firms which are not allowed to resume service do, if they are told to leave the company due to refusal to report to work?**
 Employees who have been wrongfully dismissed may file a claim against the wrongful dismissal or make a phone advisory appointment with the <a href="https://www.tal.sg/tadm/eServices" target="_blank">Tripartite Alliance for Dispute Management (TADM)</a>.
 
-For more information on what constitutes a wrongful dismissal, please refer to the Tripartite Guidelines on Wrongful Dismissal.
+For more information on what constitutes a wrongful dismissal, please refer to the <a href="https://www.mom.gov.sg/employment-practices/termination-of-employment/unfair-dismissal#what-is-a-wrongful-dismissal" target="_blank">Tripartite Guidelines on Wrongful Dismissal</a>.
 
 #### **6. Do statutory medical check-ups, e.g. for foreign domestic workers and work permit holders, medical examination for driving licence, have to be deferred?**
 Statutory medical check-ups are considered non-essential and should be deferred. MOH is working with MOM and MOT/LTA for them to notify employers/companies.
