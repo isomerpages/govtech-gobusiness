@@ -72,96 +72,121 @@ Please approach the relevant authority which regulates the activities in your se
 #### **16. What is the penalty if my company is found operating when we are not allowed to do so?**
 Under the COVID-19 (Temporary Measures) Act, first-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
-#### **17. I have an approved General Exemption application. Is there any change to the approval granted to operate my business?**
-There may be conditions imposed on your approved General Exemption. From 26 May, you are advised to login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> to check your exemption application for any conditions to your approval.
-
-#### **18. I have checked the list of permitted services against my primary SSIC code and I am sure I am allowed to resume operations from 2 Jun 2020. Why is my business resumption status not reflected as “permitted”?**
+#### **17. I have checked the list of permitted services against my primary SSIC code and I am sure I am allowed to resume operations from 2 Jun 2020. Why is my business resumption status not reflected as “permitted”?**
 If your primary SSIC code falls into the list of permitted services and you have not changed your primary SSIC code recently, please write to <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a> for assistance.
+
+#### **18. My company’s activities belong to the list of permitted services. However, my company’s primary business functions or services require our personnel to meet with clients in person at their households to carry out activities (e.g. taking measurements, installing items at the households etc). Would we still be allowed to operate?**
+Households should continue to limit contacts with others outside of their household. Therefore, except for the services that are allowed during the circuit breaker period and in Phase 1 (e.g. deliveries, emergency repairs, installations, or aircon servicing from 2 Jun 2020), other businesses should not meet clients in person at their households, to avoid mixing beyond the immediate households in residences.
+
+#### **19. What if my business activities do not fall under what is stated as permitted services for the SSIC code of my company’s primary business activity?**
+Your company may resume the business activities that fall within the list of permitted services for the SSIC code of your company’s primary business activity.
+
+If your company’s business activities do not fall within the permitted services for the SSIC code of your company’s primary business activity, these activities should remain suspended until further notice. You will need to submit an application for a General Exemption for our review.
 
 ## **<ins>Implementing safe management measures</ins>**
 
-#### **19. How do I start preparing my company for the Safe Management requirements?**
+#### **1. Are Safe Management Measures mandatory and who should implement them?**
+Yes, it is mandatory for all businesses to put in place Safe Management Measures to provide a safe working environment for employees and prevent COVID-19 transmission at the workplace before they resume onsite operations on 2 June. Businesses must comply with the requirements for Safe Management Measures seen <a href="https://covid.gobusiness.gov.sg/safemanagement/general" target="_blank">here</a> and any sector-specific requirements which apply to them.
+
+#### **2. How do I start preparing my company for the Safe Management requirements?**
 The tripartite partners have issued new requirements for employers on the Safe Management measures required of employers allowed to resume their operations after the enhanced circuit breaker period. Details on the Safe Management measures can be found at <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures">https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures</a>.
 
 These measures will help provide a safe working environment and minimise risks of further outbreaks of COVID-19. Employers should implement these Safe Management measures in a sustainable manner before resuming operations and be prepared to undertake them for as long as necessary.
 
 If these Safe Management measures are not well implemented, tighter measures that affect our economy and livelihoods may have to be reintroduced. To prevent this, action will be taken against errant employers, including the cessation of operations.
 
-#### **20. If I am unable to implement all the safe management measures in time. Will I still be allowed to resume operations?**
+#### **3. If I am unable to implement all the safe management measures in time. Will I still be allowed to resume operations?**
 No. Companies must ensure that all safe management measures are in place before they resume operations.
 
 The Government takes a serious view of any infringement of safe distancing measures and will not hesitate to take actions against non-compliant businesses. 
 
 Under the COVID-19 (Temporary Measures) Act, first-time offenders will face a fine of up to S$10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.
 
-#### **21. I am having difficulties implementing the safe management measures. Who can I seek help from?**
+#### **4. I am having difficulties implementing the safe management measures. Who can I seek help from?**
 For enquires on implementing safe management measures at the workplace, please contact <a href="https://go.gov.sg/momcontact">MOM</a> and <a href="https://go.gov.sg/mohfeedback">MOH</a>.
 
-#### **22. What are the penalties for non-compliant companies that flout the suspension of activities at workplace premises and safe distancing measures?**
-The Government takes a serious view of any infringement of safe distancing measures and will not hesitate to take actions against non-compliant businesses. 
+#### **5. Are my employees allowed to have meals together in the pantry?**
+No. Employees should avoid socialising with colleagues within (e.g. in canteen or pantries) and outside of the workplace. 
 
-Under the COVID-19 (Temporary Measures) Act, first-time offenders will face a fine of up to S$10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.
+#### **6. How do I ensure that my employees and visitors adhere to Safe Management Measures?**
+Employers are required to ensure that Safe Management Measures are in place and communicated to employees prior to resuming work. Employers should have a plan to communicate their Safe Management Measures to employees through their internal communications channels such as emails, notices, and signs to remind employees and visitors to observe the measures.
 
-#### **23. Will all my staff be allowed to return to office once I resume operations? Do we still need to have split teaming?**
-Employers must put in place safe management measures before resuming workplace activities, in order to provide a safe working environment and prevent transmission at the workplace. 
+## **<ins>Working from Home</ins>**
 
-Employers should ensure that employees whose functions can be done remotely (e.g. by telecommuting) continue to do so.  Employees should only come into the office when demonstrably necessary, e.g. to access specialised systems/equipment that cannot be accessed from home or to complete a transaction that is legally required to be completed in person and on-site. All employers and employees must also adhere to the Safe Management Measures <a href="/safemanagement/general/">here</a> at all times. 
+#### **1. Will all my staff be allowed to return to office once I resume operations? Do we still need to have split teaming?**
+Employers must put in place safe management measures before resuming workplace activities, in order to provide a safe working environment and prevent transmission at the workplace.
 
-If telecommuting is not possible, employers should split their employees into teams. There should be no cross-deployment/interaction between employees in different teams or worksites, even outside of work. 
+Employers should ensure that employees whose functions can be done remotely (e.g. by telecommuting) continue to do so.  Employees should only come into the office when demonstrably necessary, e.g. to access specialised systems/equipment that cannot be accessed from home or to complete a transaction that is legally required to be completed in person and on-site. All employers and employees must also adhere to the Safe Management Measures <a href="https://covid.gobusiness.gov.sg/safemanagement/general/" target="_blank">here</a> at all times.
+
+If telecommuting is not possible, employers should split their employees into teams. There should be no cross-deployment/interaction between employees in different teams or worksites, even outside of work.
 
 Strict checks will be conducted, and businesses that do not provide a safe workplace for our workers will be asked to close their workplace again.
 
-#### **24. Do my staff need to carry any documentation to verify that they can return to office?**
+#### **2. Do my staff need to carry any documentation to verify that they can return to office?**
 No. Staff who are returning to their workplaces are not required to carry any documentation.
 
-## **<ins>Sector Specific</ins>**
-
-#### **25. Can insurance agents physically meet clients from 2 June onwards?**
-Insurance agents are not permitted to have face-to-face meetings with clients, except where clients’ physical presence is legally required to complete transactions.  In such situations, the meeting must take place in the office of the insurer.
-
-#### **26. Are property agents allowed to meet and bring clients to view properties from 2 June onwards?**
-Property agents are not permitted to have face-to-face meetings with clients, except where clients’ physical presence is legally required to complete transactions. In such situations, the meeting must take place in the office of the real estate company. Property viewings are not permitted to be conducted in person.  They may be conducted through electronic means.
-
-#### **27. Are car showrooms allowed to re-open from 2 June?**
-Car showrooms will not be allowed to resume operations from 2 June 2020.
-
-#### **28. Are bubble tea shops allowed to re-open from 2 June?**
-Shops selling predominantly beverages have to remain closed.
-
-#### **29. Is in-person home tuition allowed from 2 June?**
-In-person home tuition services are not allowed. Tutors and students can continue with lessons online.
-
-#### **30. Are home cleaning services allowed from 2 June?**
-Household cleaning services will continue to be suspended during this period.
-
-#### **31. Can maid agencies re-open from 2 June?**
-No. Maid agencies are not permitted to open their physical outlets until further notice.  They can continue to operate remotely through electronic means.
-
-#### **32. Will shops selling health products like vitamins/supplements be allowed to open from 2 June?**
-No. To manage the risks of transmission, most retail outlets, including those selling health supplements, will have to remain closed until further notice. They may continue to sell their products online and fulfil the orders through delivery.
-
-#### **33. Will commercial visa application centres re-open from 2 June?**
-Commercial visa application centres are not permitted to operate their physical outlets.  They can continue to operate remotely through electronic means.
-
-#### **34. Will foot reflexology services be allowed to resume from 2 June?**
-No, foot reflexology services will not be allowed to resume operations from 2 June. More details will be announced later.
-
-#### **35. Are beauty services such as facial, threading, manicures, pedicures etc allowed to resume from 2 June?**
-No, beauty services are not allowed to resume operations from 2 June. Physical retail stores and services that could lead to social mixing or close contact between individuals have to remain closed until further notice.
-
-#### **36. Given that in-person marriage solemnisations are allowed to take place in Phase 1, are wedding- related services such as bridal studios, wedding photography, videography and make-up services, allowed to resume as well?**
-No. Wedding-related services are not allowed to resume operations in Phase 1 until further notice. They may continue to sell their products online and fulfil the orders through delivery.
-
-#### **37. Are companies which are resuming operations in Phase 1 required to ensure that their employees work from home?**
-The default mode of working for all companies (including for companies resuming operations in Phases 1 and 2) should be telecommuting. This is to reduce physical interactions in the workplace in order to minimise spread of COVID-19. Please refer to para 4(a) of MOH’s <a href="https://go.gov.sg/mompressrelease">press release</a> for more details.
+#### **3. Are companies which are resuming operations in Phase 1 required to ensure that their employees work from home?**
+The default mode of working for all companies (including for companies resuming operations in Phases 1 and 2) should be telecommuting. This is to reduce physical interactions in the workplace in order to minimise spread of COVID-19. Please refer to para 4(a) of MOH’s <a href="https://www.moh.gov.sg/news-highlights/details/end-of-circuit-breaker-phased-approach-to-resuming-activities-safely" target="_blank">press release</a> for more details. 
 
 To this end, all employers should provide the facilities necessary and direct every worker to work from home, as far as reasonably practicable. All employees who have been working from home so far should continue to do so, even as operations in their companies resume.
 
-MOM’s Safe Management Measures requirements at the workplace, which include ensuring that employees telecommute where possible, can be found <a href="https://go.gov.sg/mommeasures">here</a>. There is also a list of resources such as technology solutions and grants available to assist companies <a href="https://go.gov.sg/mommeasurespdf">here</a>.
+MOM’s Safe Management Measures requirements at the workplace, which include ensuring that employees telecommute where possible, can be found <a href="https://www.mom.gov.sg/covid-19/requirement-for-safe-management-measures" target="_blank">here</a>. There is also a list of resources such as technology solutions and grants available to assist companies <a href="https://www.mom.gov.sg/-/media/mom/document/covid-19/annex-b-resources-to-assist-companies.pdf" target="_blank">here</a>. 
 
 Checks will be conducted. Businesses whose employers do not provide a safe workplace, ensure employees work from home where possible, or whose workers do not adhere to safe management measures, may have to close their workplaces.
 
-#### **38. Can I fix an appointment to repair my leaking air conditioner? What safe distancing measures must all repair personnel abide by?**
+#### **4. I have been told to return to the office from 2 June despite being able to perform my work from home during the Circuit Breaker period. What do I do?**
+All employers must put in place Safe Management Measures and should communicate the measures clearly to all employees before resuming business. The measures include ensuring all employees continue to work from home as much as possible, so as to reduce physical interactions at workplaces.
+
+It is the responsibility of employers to show that they have made a reasonable effort to facilitate working from home for all days and at all times, including reviewing and transforming business processes through technology to support remote working (e.g. e-payment, e-invoicing, e-signatures).
+
+Businesses that do not implement Safe Management Measures are liable for penalties under the COVID-19 (Temporary Measures) Act and to have their operations suspended.
+
+Breaches or poor practices of Safe Management Measures can be reported via **<a href="https://www.mom.gov.sg/eservices/snapsafe" target="_blank">SnapSAFE</a>**.
+
+#### **5. Under what circumstances may I return to my workplace from 2 June?**
+Employers are permitted to allow employees to go to the office if there is no alternative and it is demonstrably necessary (e.g. to operate a system or equipment that cannot be accessed from home, or to fulfil legal requirements).  For example, if your job involves operating machinery or equipment on-site, or systems that cannot be accessed outside of the office, you may return to work to do so.
+
+#### **6. What should I take note of if I am really unable to telecommute and need to be in the office?**
+EYou will need to adhere to Safe Management Measures while working in the office. These include undergoing temperature screenings and declarations, wearing masks at all times, practising good personal hygiene and keeping at least one metre distance from others. If you feel unwell, you must not go to work.
+
+Functions that can be done through email, telephone or videoconferencing should be conducted remotely. Employers should review work processes, provide the necessary IT equipment to employees and adopt solutions that enable remote working and online collaboration.
+
+## **<ins>Sector Specific</ins>**
+
+#### **1. Can insurance agents physically meet clients from 2 June onwards?**
+Insurance agents are not permitted to have face-to-face meetings with clients, except where clients’ physical presence is legally required to complete transactions.  In such situations, the meeting must take place in the office of the insurer.
+
+#### **2. Are property agents allowed to meet and bring clients to view properties from 2 June onwards?**
+Property agents are not permitted to have direct, face-to-face meetings with clients. However, should your client’s physical presence be legally required to complete the transaction, your client may complete the transaction at the lawyer’s or HDB’s office. If this is not possible, you should arrange for the completion of the transaction in your property agency’s office with the necessary safe management measures as required by MOM.
+
+#### **3. Can MTI allow potential tenants to physically view vacant property units from 2 June onwards?**
+As we exit the circuit breaker period on 2 June, we will embark on a phased approach to resume activities safely. Given that the risk of a resurgence in community transmission remains high, we will first resume economic activities that pose a lower risk of transmission and involve little or no interaction with the wider community.
+
+In light of these considerations, RESs should continue to avoid activities involving direct, face-to-face interactions with any other persons in Phase 1. For instance, activities such as physical viewings, which involve contact with different groups of people such as landlords and potential tenants are not permitted. However, RESs are able to continue to conduct property viewings through electronic means which some have been doing throughout the circuit breaker period.
+
+Agents may enter the property on their own to photograph or film the property if the property is unoccupied, to facilitate online viewings thereafter. Agents should not enter occupied properties, even if it is temporarily vacated, to photograph or film the property.
+
+We will continue to closely monitor the health situation in Singapore after we exit the circuit breaker period. If community transmission rates remain low and stable over the subsequent few weeks, we will be able to move into Phase Two and gradually resume more activities.
+
+#### **4. Is in-person home tuition allowed from 2 June?**
+In-person home tuition services are not allowed. Tutors and students can continue with lessons online.
+
+#### **5. Are home cleaning services allowed from 2 June?**
+Household cleaning services will continue to be suspended during this period.
+
+#### **6. Can maid agencies re-open from 2 June?**
+No. Maid agencies are not permitted to open their physical outlets until further notice.  They can continue to operate remotely through electronic means.
+
+#### **7. Will commercial visa application centres re-open from 2 June?**
+Commercial visa application centres are not permitted to operate their physical outlets.  They can continue to operate remotely through electronic means.
+
+#### **8. Will foot reflexology services be allowed to resume from 2 June?**
+No, foot reflexology services will not be allowed to resume operations from 2 June. More details will be announced later.
+
+#### **9. Are beauty services such as facial, threading, manicures, pedicures etc allowed to resume from 2 June?**
+No, beauty services are not allowed to resume operations from 2 June. Physical retail stores and services that could lead to social mixing or close contact between individuals have to remain closed until further notice.
+
+#### **10. Can I fix an appointment to repair my leaking air conditioner? What safe distancing measures must all repair personnel abide by?**
 You may fix an appointment to repair your air conditioner. The repair of consumer electronics, IT peripherals, and household appliances is allowed to continue during the circuit breaker period. Air con servicing will also be allowed to resume from 2 June onwards.
 
 All repair personnel must comply with stringent hygiene and safe distancing practices. These include wearing a mask, minimising physical contact and interaction, and maintaining a safe distance as much as possible. The number of personnel should also be kept to a minimum and they must leave the premises once the job is completed.
