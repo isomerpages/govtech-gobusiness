@@ -135,7 +135,7 @@ The default mode of working for all companies (including for companies resuming 
 
 To this end, all employers should provide the facilities necessary and direct every worker to work from home, as far as reasonably practicable. All employees who have been working from home so far should continue to do so, even as operations in their companies resume.
 
-MOM’s Safe Management Measures requirements at the workplace, which include ensuring that employees telecommute where possible, can be found <a href="https://www.mom.gov.sg/covid-19/requirement-for-safe-management-measures" target="_blank">here</a>. There is also a list of resources such as technology solutions and grants available to assist companies <a href="https://www.mom.gov.sg/-/media/mom/document/covid-19/annex-b-resources-to-assist-companies.pdf" target="_blank">here</a>. 
+MOM’s Safe Management Measures requirements at the workplace, which include ensuring that employees telecommute where possible, can be found <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures" target="_blank">here</a>. There is also a list of resources such as technology solutions and grants available to assist companies <a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-a-resources-to-assist-companies.pdf" target="_blank">here</a>. 
 
 Checks will be conducted. Businesses whose employers do not provide a safe workplace, ensure employees work from home where possible, or whose workers do not adhere to safe management measures, may have to close their workplaces.
 
