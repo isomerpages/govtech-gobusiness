@@ -4,7 +4,7 @@ permalink: /faq/nonessentialservices
 ---
 
 #### **1. Is my company required to suspend all business activities if my operations cannot continue via telecommuting?**
-Permitted  services are exempted from the suspension of on-site business activities. If your company’s business activities does not belong to the permitted services list , but can continue to operate via telecommuting, you may continue to do so. Where possible, businesses are encouraged to adopt video and audio conferencing and other IT tools to support their employees to work from home.
+Permitted  services are exempted from the suspension of on-site business activities. If your company’s business activities do not belong to the permitted services list , but can continue to operate via telecommuting, you may continue to do so. Where possible, businesses are encouraged to adopt video and audio conferencing and other IT tools to support their employees to work from home.
 
 #### **2. If my business is not allowed to resume operation, can I go to my place of business to perform maintenance of the facility, attend to perishable products, receive deliveries or perform other necessary tasks?**
 You may go to your business location for a short duration to take care of crucial tasks that cannot be done remotely or to retrieve necessary materials or documents even if your business is not allowed to resume operations.
