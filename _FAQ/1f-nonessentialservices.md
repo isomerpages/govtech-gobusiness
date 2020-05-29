@@ -1,5 +1,5 @@
 ---
-title: For Non-Permitted Services Companies
+title: For Non-Permitted Services
 permalink: /faq/nonessentialservices
 ---
 
