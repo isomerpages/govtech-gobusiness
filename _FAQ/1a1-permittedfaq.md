@@ -188,12 +188,7 @@ No, foot reflexology services will not be allowed to resume operations from 2 Ju
 #### **9. Are beauty services such as facial, threading, manicures, pedicures etc allowed to resume from 2 June?**
 No, beauty services are not allowed to resume operations from 2 June. Physical retail stores and services that could lead to social mixing or close contact between individuals have to remain closed until further notice.
 
-#### **10. Given that in-person marriage solemnisations are allowed to take place in Phase 1 are wedding- related services such as wedding photography, videography and make-up services, allowed to resume as well? Are venues which are currently not in operation allowed to re-open for the purposes of wedding solemnisation?**
-Wedding-related services are not allowed to resume operations in Phase 1 until further notice. Wedding photographers, videographers, hair and make-up service providers must apply for a Time-Limited exemption should they wish to provide their service. Wedding service providers present on-site will be counted towards the limit of 10 persons allowed to attend the wedding solemnisation. 
-
-Venues which are currently not in operation are not allowed to re-open for the purposes of wedding solemnisation. This includes hotels which remain open for the purpose of supporting SHN, GQF, CIF and accommodation needs of employees in the healthcare sector and foreigners affected by travel restrictions as well as restaurants which are only open for takeaway and delivery during this period.
-
-#### **11. Can I fix an appointment to repair my leaking air conditioner? What safe distancing measures must all repair personnel abide by?**
+#### **10. Can I fix an appointment to repair my leaking air conditioner? What safe distancing measures must all repair personnel abide by?**
 You may fix an appointment to repair your air conditioner. The repair of consumer electronics, IT peripherals, and household appliances is allowed to continue during the circuit breaker period. Air con servicing will also be allowed to resume from 2 June onwards.
 
 All repair personnel must comply with stringent hygiene and safe distancing practices. These include wearing a mask, minimising physical contact and interaction, and maintaining a safe distance as much as possible. The number of personnel should also be kept to a minimum and they must leave the premises once the job is completed.
