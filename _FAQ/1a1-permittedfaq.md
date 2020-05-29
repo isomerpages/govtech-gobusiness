@@ -192,7 +192,7 @@ No, foot reflexology services will not be allowed to resume operations from 2 Ju
 No, beauty services are not allowed to resume operations from 2 June. Physical retail stores and services that could lead to social mixing or close contact between individuals have to remain closed until further notice.
 
 #### **10. Given that in-person marriage solemnisations are allowed to take place in Phase 1, are wedding- related services such as wedding photography, videography and make-up services, allowed to resume as well? Are venues which are currently not in operation allowed to re-open for the purposes of wedding solemnisation?**
-YNo. Wedding-related services are not allowed to resume operations in Phase 1 until further notice. They may continue to sell their products online and fulfil the orders through delivery.
+No. Wedding-related services are not allowed to resume operations in Phase 1 until further notice. They may continue to sell their products online and fulfil the orders through delivery.
 
 Venues which are currently not in operation are not allowed to re-open for the purposes of wedding solemnisation. This includes hotels which remain open for the purpose of supporting SHN, GQF, CIF and accommodation needs of employees in the healthcare sector and foreigners affected by travel restrictions as well as restaurants which are only open for takeaway and delivery during this period. 
 
