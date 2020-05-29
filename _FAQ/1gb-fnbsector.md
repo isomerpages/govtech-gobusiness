@@ -28,3 +28,8 @@ This is to minimise movement and interaction amongst the public.  As F&B service
 
 #### **7. Why are food vending machines not allowed to operate in parks even during Phase 1?**
 F&B outlets and food vending machines are closed in line with the guideline to minimise movement and interaction of people. Drinks vending machines in parks remain operational. 
+
+#### **8. Are retailers of religious items allowed to continue operations in Phase 1?**
+In order to allow members of the public to purchase the items they require for the purpose of praying at home, joss paper shops and shops selling Hindu prayer offerings and flower garlands, will be allowed to open from 4 to 7 June. Outside of this period, the storefronts of these shops will have to remain closed.
+
+While these shops will not be required to apply for any exemptions or approvals to operate from 4 to 7 June, they are required to observe the necessary Safe Distancing Measures such as putting in place a queue management system to minimise crowding within their premises, ensuring that all staff and customers are wearing masks and ensuring at least one-metre spacing between customers at all times.

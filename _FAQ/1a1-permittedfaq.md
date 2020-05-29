@@ -13,9 +13,9 @@ If you do not know your company’s SSIC code or are unsure of the classificatio
 #### **2. How did MTI decide which companies should resume operations first?**
 The objective of Phase 1 is to resume economic and social activities in a safe and gradual manner. Therefore, we will gradually allow more workers to return to work, starting with businesses that operate in settings with lower transmission risks, or that do not result in large group or close contact. These include manufacturing and production facilities and most businesses with employees working in office settings or settings that do not require interactions with large groups of people. 
 
-However, all employers should ensure that employees whose functions can be done remotely (e.g. by telecommuting) continue to do so.  Employees should only come into the office when demonstrably necessary, e.g. to access specialised systems/equipment that cannot be accessed from home or to complete a transaction that is legally required to be completed in person and on-site. All employers and employees must also adhere to the safe management measures <a href="/safemanagement/general/">here</a> at all times.
+Before resuming activities, businesses must comply with the requirements for Safe Management Measures seen <a href="https://covid.gobusiness.gov.sg/safemanagement/general" target="_blank">here</a> and any sector-specific requirements which apply to them.
 
-In addition, to manage the risks of transmission, most consumer-facing businesses will not be allowed to operate yet. Physical retail stores and services that could lead to social mixing or close contact between individuals (e.g.  cinemas and spas) will not be among the list of businesses that are permitted to operate from 2 June. 
+Employers must adopt telecommuting to the maximum extent. Employees who have been working from home should continue to do so. They should only go to the office when demonstrably necessary, for example to access systems or equipment that cannot be accessed from home or to complete a transaction that is legally required to be completed in person and on-site.
 
 #### **3. Do I need to apply for an exemption to resume operations on 2 June?**
 No. Entities whose business is listed in the list of permitted activities need not seek exemption before resuming operations. Taking into consideration the large number of businesses involved, these businesses have been granted a class exemption to resume operations with effect from 2 June 2020, subject to their implementation of safe management measures. However, businesses must submit their manpower details via the GoBusiness portal within 2 weeks of the date of resumption of operations.
@@ -111,6 +111,11 @@ No. Employees should avoid socialising with colleagues within (e.g. in canteen o
 #### **6. How do I ensure that my employees and visitors adhere to Safe Management Measures?**
 Employers are required to ensure that Safe Management Measures are in place and communicated to employees prior to resuming work. Employers should have a plan to communicate their Safe Management Measures to employees through their internal communications channels such as emails, notices, and signs to remind employees and visitors to observe the measures.
 
+#### **7. Is my company allowed to arrange physical meetings with external guests?**
+Companies that are allowed to resume operations must continue to minimise all internal and external meetings between employees and with suppliers/contractors/clients/guests and conduct them virtually where possible. If there is a demonstrable need for these meetings to be held physically, companies should hold these in office settings, limit the number of attendees and shorten their durations. Companies should also ensure that all employees and guests adhere to the necessary Safe Management Measures, including ensuring clear physical spacing of at least 1 metre between persons at all times.
+
+Companies should also comply with any other additional sector-specific guidelines that may have been issued by their respective sector agencies (e.g. no opening of retail storefronts or showrooms unless explicitly permitted).
+
 ## **<ins>Working from Home</ins>**
 
 #### **1. Will all my staff be allowed to return to office once I resume operations? Do we still need to have split teaming?**
@@ -130,7 +135,7 @@ The default mode of working for all companies (including for companies resuming 
 
 To this end, all employers should provide the facilities necessary and direct every worker to work from home, as far as reasonably practicable. All employees who have been working from home so far should continue to do so, even as operations in their companies resume.
 
-MOM’s Safe Management Measures requirements at the workplace, which include ensuring that employees telecommute where possible, can be found <a href="https://www.mom.gov.sg/covid-19/requirement-for-safe-management-measures" target="_blank">here</a>. There is also a list of resources such as technology solutions and grants available to assist companies <a href="https://www.mom.gov.sg/-/media/mom/document/covid-19/annex-b-resources-to-assist-companies.pdf" target="_blank">here</a>. 
+MOM’s Safe Management Measures requirements at the workplace, which include ensuring that employees telecommute where possible, can be found <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures" target="_blank">here</a>. There is also a list of resources such as technology solutions and grants available to assist companies <a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-a-resources-to-assist-companies.pdf" target="_blank">here</a>. 
 
 Checks will be conducted. Businesses whose employers do not provide a safe workplace, ensure employees work from home where possible, or whose workers do not adhere to safe management measures, may have to close their workplaces.
 
@@ -186,7 +191,12 @@ No, foot reflexology services will not be allowed to resume operations from 2 Ju
 #### **9. Are beauty services such as facial, threading, manicures, pedicures etc allowed to resume from 2 June?**
 No, beauty services are not allowed to resume operations from 2 June. Physical retail stores and services that could lead to social mixing or close contact between individuals have to remain closed until further notice.
 
-#### **10. Can I fix an appointment to repair my leaking air conditioner? What safe distancing measures must all repair personnel abide by?**
+#### **10. Given that in-person marriage solemnisations are allowed to take place in Phase 1, are wedding- related services such as wedding photography, videography and make-up services, allowed to resume as well? Are venues which are currently not in operation allowed to re-open for the purposes of wedding solemnisation?**
+No. Wedding-related services are not allowed to resume operations in Phase 1 until further notice. They may continue to sell their products online and fulfil the orders through delivery.
+
+Venues which are currently not in operation are not allowed to re-open for the purposes of wedding solemnisation. This includes hotels which remain open for the purpose of supporting SHN, GQF, CIF and accommodation needs of employees in the healthcare sector and foreigners affected by travel restrictions as well as restaurants which are only open for takeaway and delivery during this period. 
+
+#### **11. Can I fix an appointment to repair my leaking air conditioner? What safe distancing measures must all repair personnel abide by?**
 You may fix an appointment to repair your air conditioner. The repair of consumer electronics, IT peripherals, and household appliances is allowed to continue during the circuit breaker period. Air con servicing will also be allowed to resume from 2 June onwards.
 
 All repair personnel must comply with stringent hygiene and safe distancing practices. These include wearing a mask, minimising physical contact and interaction, and maintaining a safe distance as much as possible. The number of personnel should also be kept to a minimum and they must leave the premises once the job is completed.

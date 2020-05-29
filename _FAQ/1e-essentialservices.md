@@ -1,5 +1,5 @@
 ---
-title: For Permitted Services Companies
+title: For Permitted Services
 permalink: /faq/essentialservices
 ---
 
