@@ -33,7 +33,7 @@ sections:
     - infopic:
         title: Permitted Services
         subtitle: 
-        description: For businesses operating/ resuming from 2 June 2020.
+        description: List of permitted services allowed to resume operations from 2 June 2020.
         button: Find Out More
         url: /permittedlist/
         image: /images/open.jpg
