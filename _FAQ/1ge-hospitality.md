@@ -4,8 +4,8 @@ permalink: /faq/sectorspecific/hospitality
 third_nav_title: For Sector-Specific Queries
 ---
 
-#### **1. Are hotels deemed as providing an essential service? Will they be allowed to continue operations?**
-Licensed hotels, serviced apartments, dormitories and hostels are considered essential services if they support Stay Home Notice (SHN), Government Quarantine Facility (GQF), Community Isolation Facility (CIF) and accommodation needs of students, employees in the healthcare sector, foreigners, and foreign employees affected by travel restrictions, as well as house existing occupants. These establishments can continue to operate until informed otherwise.
+#### **1. Are hotels allowed to continue operations?**
+Licensed hotels, serviced apartments, dormitories and hostels can continue operations if they support Stay Home Notice (SHN), Government Quarantine Facility (GQF), Community Isolation Facility (CIF) and accommodation needs of students, employees in the healthcare sector, foreigners, and foreign employees affected by travel restrictions, as well as house existing occupants. These establishments can continue to operate until informed otherwise.
 
 Hotels providing the abovementioned services must close all on-site recreational facilities, while their F&B facilities may remain open for takeaway or delivery only. They must also minimise the number of on-site staffing and all hotel staff who can perform their roles remotely (e.g., finance, HR) must telecommute.
 

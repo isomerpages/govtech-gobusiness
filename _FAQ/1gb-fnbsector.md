@@ -17,8 +17,14 @@ Retail businesses can continue to sell their products online and provide deliver
 
 Please refer to the guidelines for home-based businesses on the <a href="https://go.gov.sg/hdbhomebasedoffice" target="_blank">Housing & Development Board</a> and the <a href="https://go.gov.sg/urahomebasedoffice" target="_blank">Urban Redevelopment Authority</a> websites.
 
-#### **4. I have received the approval to continue my business operations. Does that mean that I can continue to operate all my business functions?**
-No. Retail businesses that have received the approval can continue their trading (B2B) or online sales functions. They must however cease their physical retail shops for B2C sales function, unless their physical B2C sales is clearly stated as an essential service e.g. supermarkets, pharmacies. This means that all other physical retail stores/ department stores must cease operations. B2C sales via online retail can still continue.
+#### **4. Is it safe to use reusable containers for takeaway? What if the container was handled by someone who has the virus? **
+According to the Singapore Food Authority, there is currently no evidence to support the transmission of COVID-19 associated with food and food packaging that may have been exposed to an infected person. This means that there is a very low risk of spread from food, product and packaging. Members of the public should continue to practice good hygiene habits such as washing their hands regularly. 
 
-#### **5. Is it okay for a cleaner/part-time maid to come to clean my house?**
-No. Home cleaning services, including freelance home cleaning, are not permitted to continue.
+#### **5. Will shops selling health products like vitamins/supplements be allowed to open from 2 June?**
+No. To manage the risks of transmission, most retail outlets, including those selling health supplements, will have to remain closed until further notice. They may continue to sell their products online and fulfil the orders through delivery.
+
+#### **6. Why is it that F&B establishments in parks cannot operate for takeaway/delivery even during Phase 1?**
+This is to minimise movement and interaction amongst the public.  As F&B services in parks are considered less critical consumer services, they will be suspended.
+
+#### **7. Why are food vending machines not allowed to operate in parks even during Phase 1?**
+F&B outlets and food vending machines are closed in line with the guideline to minimise movement and interaction of people. Drinks vending machines in parks remain operational. 

@@ -21,14 +21,9 @@ Please report this business and provide relevant details such as its name, addre
 #### **4. What happens if my company is unable to pay employees’ salaries due to the suspension of activities?**
 The Jobs Support Scheme (JSS) will help enterprises retain their local employees during this period of uncertainty. All active employers, with the exception of Government organisations (local and foreign) and representative officers, are eligible for the JSS. For more details, please visit the IRAS website at <a href="http://www.iras.gov.sg" target="_blank">http://www.iras.gov.sg</a> or call the hotline 1800 3524728.
 
-#### **8. Is my company still required to pay rental during the period of suspension of activities?**
-To provide greater support for businesses, stallholders at hawker centres and markets would get enhanced rental waiver of three months, with a minimum waiver of $200 per month. The eligible commercial tenants in Government-owned or managed facilities would be given two months of rental waivers, up from half a month. Government agencies such as JTC, SLA, HDB, URA, BCA, PA and Nparks would provide half a month rental waiver to eligible tenants of other non-residential premises. Eligible tenants include those who did not pay property tax.
-
-#### **9. Should my company continue with medical insurance coverage for foreign employees, given that they are unable to work during the suspension of activities?**
+#### **5. Should my company continue with medical insurance coverage for foreign employees, given that they are unable to work during the suspension of activities?**
 Yes, employers who fail to meet the medical insurance requirement for their foreign employees (WP, S Pass holders and FDW) may be fined up to $10,000 or jailed up to 12 months, or both. In addition, they may be barred from employing foreign employees. The medical insurance requirement is not applicable to EP holders.
 
-#### **10. Can foreign employees be redeployed to work on areas that are not within their current approved vocations? If so, what are the procedures that companies need to follow?**
+#### **6. Can foreign employees be redeployed to work on areas that are not within their current approved vocations? If so, what are the procedures that companies need to follow?**
 Employers can write in to MOM with reasons for the redeployment and seek permission to do so.
 
-#### **11. If a company is not on the list of essential services, can it continue to operate from home? Must it also stop operations? E.g. trading firms, software development whose clients are overseas.**
-Businesses that are not exempted can continue their operations as long as it does not require physical activity or staff movement in Singapore. These activities must take place through telecommuting.
