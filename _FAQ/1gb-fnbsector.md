@@ -17,7 +17,7 @@ Retail businesses can continue to sell their products online and provide deliver
 
 Please refer to the guidelines for home-based businesses on the <a href="https://go.gov.sg/hdbhomebasedoffice" target="_blank">Housing & Development Board</a> and the <a href="https://go.gov.sg/urahomebasedoffice" target="_blank">Urban Redevelopment Authority</a> websites.
 
-#### **4. Is it safe to use reusable containers for takeaway? What if the container was handled by someone who has the virus? **
+#### **4. Is it safe to use reusable containers for takeaway? What if the container was handled by someone who has the virus?**
 According to the Singapore Food Authority, there is currently no evidence to support the transmission of COVID-19 associated with food and food packaging that may have been exposed to an infected person. This means that there is a very low risk of spread from food, product and packaging. Members of the public should continue to practice good hygiene habits such as washing their hands regularly. 
 
 #### **5. Will shops selling health products like vitamins/supplements be allowed to open from 2 June?**
