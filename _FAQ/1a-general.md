@@ -10,7 +10,7 @@ Please suspend your business operations until you have received the official ema
 
 For the status of your application, please click <a href="https://go.gov.sg/exemptionstatus" target="_blank">here</a>.
 
-#### **2. The website reflects that my exemption application is still pending. What should I do?**
+#### **2. The website reflects that my exemption application is still processing. What should I do?**
 Your application is being processed. Please check back on your application status in the next 2 to 3 days. You will also receive an official email notification to inform you if your application is approved or rejected.
 
 Please suspend your business operations until you have received the official email notification of approval.

@@ -15,11 +15,11 @@ The measures specific to accounting practices are accessible on both the Institu
 
 The measures specific to arts and culture stakeholders are accessible at the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Operationalisation-of-Circuit-Breaker-Safe-Distancing-Measures.html" target="_blank">website</a>, while the measures specific to museum stakeholders are accessible at the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
 
-#### **Built Environment Sector**
+#### **Built Environment**
 
 Information on the safe and controlled restart of:
-- the construction sector from 2 June 2020 are accessible at the Building and Construction Authority website <a href="https://go.gov.sg/bca-advisory-restart-residential-reno-bldg-works" target="_blank">here</a>; and
-- renovation works and building works for residential properties from 2 June 2020 are accessible at the Building and Construction Authority website <a href="https://go.gov.sg/bca-advisory-restart-construction" target="_blank">here</a>.
+- the construction sector from 2 June 2020 are accessible at the Building and Construction Authority website <a href="https://go.gov.sg/bca-advisory-restart-construction" target="_blank">here</a>; and
+- renovation works and building works for residential properties from 2 June 2020 are accessible at the Building and Construction Authority website <a href="https://go.gov.sg/bca-advisory-restart-residential-reno-bldg-works" target="_blank">here</a>.
 
 #### **Estate Agents and Real Estate Salespersons**
 

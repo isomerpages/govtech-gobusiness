@@ -39,7 +39,7 @@ Yes. If your company’s business is in the list of permitted services, you will
 If your company needs to support a permitted service please submit an application for a General Exemption or a Time-Limited Exemption through 
 <a href="https://covid.gobusiness.gov.sg">https://covid.gobusiness.gov.sg</a>.
 
-You are not permitted to operate until you have received the approval to do so. 
+You will only be permitted to operate when the status of your General Exemption or Time-Limited Exemption is reflected as “approved”.
 
 #### **8. My company is in the permitted services list but I do not wish to resume operations on 2 June. Is that allowed?**
 Yes. Companies that are in the permitted services list may choose to resume their operations on 2 June or at a later date.
@@ -167,7 +167,7 @@ Property agents are not permitted to have direct, face-to-face meetings with cli
 #### **3. Can MTI allow potential tenants to physically view vacant property units from 2 June onwards?**
 As we exit the circuit breaker period on 2 June, we will embark on a phased approach to resume activities safely. Given that the risk of a resurgence in community transmission remains high, we will first resume economic activities that pose a lower risk of transmission and involve little or no interaction with the wider community.
 
-In light of these considerations, RESs should continue to avoid activities involving direct, face-to-face interactions with any other persons in Phase 1. For instance, activities such as physical viewings, which involve contact with different groups of people such as landlords and potential tenants are not permitted. However, RESs are able to continue to conduct property viewings through electronic means which some have been doing throughout the circuit breaker period.
+In light of these considerations, Real Estate Salespersons (RESs) should continue to avoid activities involving direct, face-to-face interactions with any other persons in Phase 1. For instance, activities such as physical viewings, which involve contact with different groups of people such as landlords and potential tenants are not permitted. However, RESs are able to continue to conduct property viewings through electronic means which some have been doing throughout the circuit breaker period.
 
 Agents may enter the property on their own to photograph or film the property if the property is unoccupied, to facilitate online viewings thereafter. Agents should not enter occupied properties, even if it is temporarily vacated, to photograph or film the property.
 
@@ -200,3 +200,6 @@ Venues which are currently not in operation are not allowed to re-open for the p
 You may fix an appointment to repair your air conditioner. The repair of consumer electronics, IT peripherals, and household appliances is allowed to continue during the circuit breaker period. Air con servicing will also be allowed to resume from 2 June onwards.
 
 All repair personnel must comply with stringent hygiene and safe distancing practices. These include wearing a mask, minimising physical contact and interaction, and maintaining a safe distance as much as possible. The number of personnel should also be kept to a minimum and they must leave the premises once the job is completed.
+
+#### **12. Are home-based babysitting services allowed from 2 June?**
+Home-based childcare services are not allowed during this period.
