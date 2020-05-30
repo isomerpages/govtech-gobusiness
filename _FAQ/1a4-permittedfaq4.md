@@ -1,6 +1,6 @@
 ---
 title: Sector Specific
-permalink: /faq/resumptionbusiness/sector/
+permalink: /faq/resumption/sector/
 third_nav_title: Resumption of Business Activities from 2 June
 ---
 

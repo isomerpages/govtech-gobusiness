@@ -1,6 +1,6 @@
 ---
 title: Resumption of operations
-permalink: /faq/resumptionbusiness/resumption/
+permalink: /faq/resumption/resumption/
 third_nav_title: Resumption of Business Activities from 2 June
 ---
 
