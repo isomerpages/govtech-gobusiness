@@ -9,44 +9,34 @@ Businesses may also wish to refer to MTI’s <a href="https://www.mti.gov.sg/-/m
 
 #### **Accounting Practices**
 
-Institute of Singapore Chartered Accountants-Singapore Accountancy Commission (ISCA-SAC) Advisory for Accounting Practices
-
-ISCA: <a href = "https://isca.org.sg/covid-19-series/faqs/?j=538131&sfmc_sub=28753357&l=215_HTML&u=10800996&mid=7235277&jb=1">https://isca.org.sg/covid-19-series/faqs/?j=538131&sfmc_sub=28753357&l=215_HTML&u=10800996&mid=7235277&jb=1</a>
-
-SAC: <a href = "https://www.sac.gov.sg/isca-sac-advisory-safe-management-measures-accounting-practices-post-covid-19-circuit-breaker-period">https://www.sac.gov.sg/isca-sac-advisory-safe-management-measures-accounting-practices-post-covid-19-circuit-breaker-period</a>
+The measures specific to accounting practices are accessible on both the Institute of Singapore Chartered Accountants <a href = "https://isca.org.sg/covid-19-series/faqs/?j=538131&sfmc_sub=28753357&l=215_HTML&u=10800996&mid=7235277&jb=1">website</a> and the Singapore Accountancy Commission <a href = "https://www.sac.gov.sg/isca-sac-advisory-safe-management-measures-accounting-practices-post-covid-19-circuit-breaker-period">website</a>.
 
 #### **Arts and Culture**
 
-<a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Operationalisation-of-Circuit-Breaker-Safe-Distancing-Measures.html">National Arts Council Advisory</a>
-<br>
-<a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19">National Heritage Board Advisory</a>
+The measures specific to arts and culture stakeholders are accessible at the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Operationalisation-of-Circuit-Breaker-Safe-Distancing-Measures.html">website</a>, while the measures specific to museum stakeholders are accessible at the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19">website</a>.
 
 #### **Built Environment Sector**
 
-<a href="https://go.gov.sg/bca-advisory-restart-residential-reno-bldg-works" target="_blank">Advisory on safe and controlled restart of renovation works and building works for residential properties from 2 June 2020 (27 May)</a>
-<br>
-<a href="https://go.gov.sg/bca-advisory-restart-construction" target="_blank">Advisory on safe and controlled restart of the construction sector from 2 June 2020 (25 May)</a>
+Information on the safe and controlled restart of:
+- the construction sector from 2 June 2020 are accessible at the Building and Construction Authority website <a href="https://go.gov.sg/bca-advisory-restart-residential-reno-bldg-works" target="_blank">here</a>; and
+- renovation works and building works for residential properties from 2 June 2020 are accessible at the Building and Construction Authority website <a href="https://go.gov.sg/bca-advisory-restart-construction" target="_blank">here</a>.
 
 #### **Estate Agents and Real Estate Salespersons**
 
-The Council for Estate Agencies (CEA) has released an advisory dated 26 May 2020 on the Phase 1 resumption of property transaction activities by estate agents and real estate salespersons after the circuit breaker period. 
-
-<a href = "https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf">https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf</a>
+The measures specific to estate agents and real estate salespersons are accessible at the Council for Estate Agencies <a href = "https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf">website</a>.
 
 #### **Finance**
 
-The measures specific to the finance sector are accessible at <a href = "https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector">https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector</a>.
+The measures specific to the finance sector are accessible at the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector">website</a>.
 
 #### **Manufacturing and Production Facilities (Factories, Plants, and Logistics Centres)**
 
-The measures specific to the manufacturing sector are accessible at <a href = "https://www.edb.gov.sg/en/news-and-events/news/guidelines-on-safe-management-measures-for-the-manufacturing.html">https://www.edb.gov.sg/en/news-and-events/news/guidelines-on-safe-management-measures-for-the-manufacturing.html</a>.
+The measures specific to the manufacturing sector are accessible at the Singapore Economic Development Board <a href = "https://www.edb.gov.sg/en/news-and-events/news/guidelines-on-safe-management-measures-for-the-manufacturing.html">website</a>.
 
 #### **Retail & F&B**
 
-The measures specific to the retail and F&B sectors are accessible at <a href = "https://www.enterprisesg.gov.sg/covid-19/safe-distance">https://www.enterprisesg.gov.sg/covid-19/safe-distance</a>.
+The measures specific to the retail and F&B sectors are accessible at the Enterprise Singapore <a href = "https://www.enterprisesg.gov.sg/covid-19/safe-distance">website</a>.
 
 #### **Water Quality for Swimming Pools and Water Foundtains**
 
-The following guidelines are still applicable for all swimming pools and water fountains until further notice.
-
-<a href = "https://go.gov.sg/neawaterguidelines">Click here</a>
+The following guidelines on the National Environment Agency <a href = "https://go.gov.sg/neawaterguidelines">website</a> are still applicable for all swimming pools and water fountains until further notice.
