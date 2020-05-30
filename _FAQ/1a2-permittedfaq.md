@@ -1,6 +1,6 @@
 ---
 title: Implementing safe management measures
-permalink: /faq/resumptionbusiness/2
+permalink: /faq/resumptionbusiness/smr
 third_nav_title: Resumption of Business Activities from 2 June
 ---
 
