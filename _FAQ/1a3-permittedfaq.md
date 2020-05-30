@@ -1,6 +1,6 @@
 ---
 title: Working from Home
-permalink: /faq/resumptionbusiness
+permalink: /faq/resumptionbusiness/3
 third_nav_title: Resumption of Business Activities from 2 June
 ---
 
