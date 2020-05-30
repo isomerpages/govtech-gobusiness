@@ -1,7 +1,7 @@
 ---
 title: Sector Specific
 permalink: /faq/resumption/sector/
-third_nav_title: Resumption of Business
+third_nav_title: Resumption of Business Activities from 2 June
 ---
 
 #### **1. Can insurance agents physically meet clients from 2 June onwards?**

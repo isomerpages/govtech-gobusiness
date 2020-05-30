@@ -1,7 +1,7 @@
 ---
 title: Working from Home
 permalink: /faq/resumption/wfh/
-third_nav_title: Resumption of Business
+third_nav_title: Resumption of Business Activities from 2 June
 ---
 
 #### **1. Will all my staff be allowed to return to office once I resume operations? Do we still need to have split teaming?**
