@@ -81,3 +81,6 @@ Households should continue to limit contacts with others outside of their househ
 Your company may resume the business activities that fall within the list of permitted services for the SSIC code of your company’s primary business activity.
 
 If your company’s business activities do not fall within the permitted services for the SSIC code of your company’s primary business activity, these activities should remain suspended until further notice. You will need to submit an application for a General Exemption for our review.
+
+#### **20. I checked my exemption/resumption status and there is now a “period” specified next to my permitted “status”. What does this mean? Can I continue operating?**
+If your exemption/resumption status is reflected as “permitted from 2 Jun”, you will only be allowed to resume operations from 2 Jun. If your exemption/resumption status is reflected as just “permitted”, you are already allowed to continue your operations.
