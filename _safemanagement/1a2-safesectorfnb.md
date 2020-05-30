@@ -9,11 +9,11 @@ Businesses may also wish to refer to MTI’s <a href="https://www.mti.gov.sg/-/m
 
 #### **Accounting Practices**
 
-The measures specific to accounting practices are accessible on both the Institute of Singapore Chartered Accountants <a href = "https://isca.org.sg/covid-19-series/faqs/?j=538131&sfmc_sub=28753357&l=215_HTML&u=10800996&mid=7235277&jb=1">website</a> and the Singapore Accountancy Commission <a href = "https://www.sac.gov.sg/isca-sac-advisory-safe-management-measures-accounting-practices-post-covid-19-circuit-breaker-period">website</a>.
+The measures specific to accounting practices are accessible on both the Institute of Singapore Chartered Accountants <a href = "https://isca.org.sg/covid-19-series/faqs/?j=538131&sfmc_sub=28753357&l=215_HTML&u=10800996&mid=7235277&jb=1" target="_blank">website</a> and the Singapore Accountancy Commission <a href = "https://www.sac.gov.sg/isca-sac-advisory-safe-management-measures-accounting-practices-post-covid-19-circuit-breaker-period" target="_blank">website</a>.
 
 #### **Arts and Culture**
 
-The measures specific to arts and culture stakeholders are accessible at the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Operationalisation-of-Circuit-Breaker-Safe-Distancing-Measures.html">website</a>, while the measures specific to museum stakeholders are accessible at the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19">website</a>.
+The measures specific to arts and culture stakeholders are accessible at the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Operationalisation-of-Circuit-Breaker-Safe-Distancing-Measures.html" target="_blank">website</a>, while the measures specific to museum stakeholders are accessible at the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
 
 #### **Built Environment Sector**
 
@@ -23,20 +23,20 @@ Information on the safe and controlled restart of:
 
 #### **Estate Agents and Real Estate Salespersons**
 
-The measures specific to estate agents and real estate salespersons are accessible at the Council for Estate Agencies <a href = "https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf">website</a>.
+The measures specific to estate agents and real estate salespersons are accessible at the Council for Estate Agencies <a href = "https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf" target="_blank">website</a>.
 
 #### **Finance**
 
-The measures specific to the finance sector are accessible at the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector">website</a>.
+The measures specific to the finance sector are accessible at the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector" target="_blank">website</a>.
 
 #### **Manufacturing and Production Facilities (Factories, Plants, and Logistics Centres)**
 
-The measures specific to the manufacturing sector are accessible at the Singapore Economic Development Board <a href = "https://www.edb.gov.sg/en/news-and-events/news/guidelines-on-safe-management-measures-for-the-manufacturing.html">website</a>.
+The measures specific to the manufacturing sector are accessible at the Singapore Economic Development Board <a href = "https://www.edb.gov.sg/en/news-and-events/news/guidelines-on-safe-management-measures-for-the-manufacturing.html" target="_blank">website</a>.
 
 #### **Retail & F&B**
 
-The measures specific to the retail and F&B sectors are accessible at the Enterprise Singapore <a href = "https://www.enterprisesg.gov.sg/covid-19/safe-distance">website</a>.
+The measures specific to the retail and F&B sectors are accessible at the Enterprise Singapore <a href = "https://www.enterprisesg.gov.sg/covid-19/safe-distance" target="_blank">website</a>.
 
 #### **Water Quality for Swimming Pools and Water Foundtains**
 
-The following guidelines on the National Environment Agency <a href = "https://go.gov.sg/neawaterguidelines">website</a> are still applicable for all swimming pools and water fountains until further notice.
+The following guidelines on the National Environment Agency <a href = "https://go.gov.sg/neawaterguidelines" target="_blank">website</a> are still applicable for all swimming pools and water fountains until further notice.
