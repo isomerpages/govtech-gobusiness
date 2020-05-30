@@ -27,20 +27,26 @@ SAC: <a href = "https://www.sac.gov.sg/isca-sac-advisory-safe-management-measure
 <br>
 <a href="https://go.gov.sg/bca-advisory-restart-construction" target="_blank">Advisory on safe and controlled restart of the construction sector from 2 June 2020 (25 May)</a>
 
-#### **Retail & F&B**
-
-The measures specific to the retail and F&B sectors are accessible at <a href = "https://www.enterprisesg.gov.sg/covid-19/safe-distance">https://www.enterprisesg.gov.sg/covid-19/safe-distance</a>.
-
-#### **Finance**
-
-The measures specific to the finance sector are accessible at <a href = "https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector">https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector</a>.
-
 #### **Estate Agents and Real Estate Salespersons**
 
 The Council for Estate Agencies (CEA) has released an advisory dated 26 May 2020 on the Phase 1 resumption of property transaction activities by estate agents and real estate salespersons after the circuit breaker period. 
 
 <a href = "https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf">https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf</a>
 
+#### **Finance**
+
+The measures specific to the finance sector are accessible at <a href = "https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector">https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector</a>.
+
 #### **Manufacturing and Production Facilities (Factories, Plants, and Logistics Centres)**
 
 The measures specific to the manufacturing sector are accessible at <a href = "https://www.edb.gov.sg/en/news-and-events/news/guidelines-on-safe-management-measures-for-the-manufacturing.html">https://www.edb.gov.sg/en/news-and-events/news/guidelines-on-safe-management-measures-for-the-manufacturing.html</a>.
+
+#### **Retail & F&B**
+
+The measures specific to the retail and F&B sectors are accessible at <a href = "https://www.enterprisesg.gov.sg/covid-19/safe-distance">https://www.enterprisesg.gov.sg/covid-19/safe-distance</a>.
+
+#### **Water Quality for Swimming Pools and Water Foundtains**
+
+The following guidelines are still applicable for all swimming pools and water fountains until further notice.
+
+<a href = "https://go.gov.sg/neawaterguidelines">Click here</a>
