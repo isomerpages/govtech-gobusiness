@@ -4,8 +4,6 @@ permalink: /faq/resumption/resumption/
 third_nav_title: Resumption of Business Activities from 2 June
 ---
 
-## **<ins>Resumption of operations</ins>**
-
 #### **1. How do I know if my company is allowed to resume operations from 2 June?**
 The list of business activities (and the corresponding Singapore Standard Industrial Classification (SSIC) codes) that may operate from 2 June 2020 can be found <a href="/permittedlist">here</a>. All businesses that operate are required to comply with the safe management measures <a href="/safemanagement/general/">here</a>.
 
