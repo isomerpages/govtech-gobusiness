@@ -1,7 +1,7 @@
 ---
 title: Resumption of operations
 permalink: /faq/resumption/resumption/
-third_nav_title: Resumption of Business Activities from 2 June
+third_nav_title: Resumption of Business
 ---
 
 #### **1. How do I know if my company is allowed to resume operations from 2 June?**
