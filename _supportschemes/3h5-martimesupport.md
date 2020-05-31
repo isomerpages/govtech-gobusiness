@@ -9,7 +9,7 @@ third_nav_title: Sector-Specific Support
     <li class="gobizfinapplyTable-firstTable_table">
       <h1 class="gobizfinapplyTable-firstTable_table__header">Maritime Support</h1>
       <ul class="gobizfinapplyTable-firstTable_table__options">
-        <li>The Solidarity Budget, presented on 6 April 2020, complements measures introduced under Budget 2020 on 18 February 2020 and the subsequent supplementary Resilience Budget on 26 March 2020. It aims to address the rapidly evolving COVID-19 pandemic and its impact on Singapore’s economy and society.</li>
+        <li>The MaritimeSG Together Package includes financial support to the maritime industry such as port dues concessions, waiver of public licence fees for passenger terminal operators and rental waiver for MPA tenants. This is on top of the other relief measures introduced under Budget 2020 and the supplementary Budgets.</li>
       </ul>
       <a href="https://go.gov.sg/martimesupport"><div class="gobizfinapplyTable-firstTable_table__getstart">Click Here</div></a>
     </li>
