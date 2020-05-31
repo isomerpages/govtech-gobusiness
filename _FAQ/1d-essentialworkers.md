@@ -24,11 +24,11 @@ You will be expected to  ensure that your manpower details are updated for the e
 Employment agencies should submit/declare the manpower details for all employees under their direct employment, regardless of where they are deployed.
 
 #### **7. What manpower details must companies submit from 31 May? How do I declare my manpower details?**
-From 30 May, companies will no longer be required to submit the NRIC/FIN for their essential workers nor check their manpower status via the SGworkpass app.
+From 31 May, companies will no longer be required to submit the NRIC/FIN for their essential workers nor check their manpower status via the SGworkpass app.
 
 They will only need to declare their manpower numbers (i.e. total number of manpower on-site and the proportion of which work part-time or shifts).
 
-For applicants with a CorpPass account, please login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a>. Thereafter, please click on the button “submit manpower”, which will be made available only for permitted business resumption/general exemption. 
+For applicants with a CorpPass account, please login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a>. Thereafter, please click on the button “submit manpower”, which will be made available only for permitted business resumptions/general exemptions. 
 
 Businesses who fail to submit the manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
