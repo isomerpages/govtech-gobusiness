@@ -1,7 +1,6 @@
 ---
 title: Employees/ Manpower Queries
 permalink: /faq/employees/employees
-third_nav_title: For Employees/ Manpower Queries
 ---
 
 #### **1. What will happen to my foreign employees since I am not allowed to operate during this period? Can I repatriate my employees since I cannot operate now?**
