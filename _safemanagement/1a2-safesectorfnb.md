@@ -37,18 +37,18 @@ The measures specific to the manufacturing sector are accessible at the Singapor
 
 The advisory for a safe and controlled restart of the Marine & Offshore (M&O) sector from 2 June 2020 is accessible <a href="/images/Advisory - MO Sector (final 1 June 2020).pdf" target="_blank">here</a>.
 
-For more information on COVID-safe restart criteria for the M&O sector, click here.
+For more information on COVID-safe restart criteria for the M&O sector, click <a href="/images/Criteria - Shipyards (final 1 June 2020).pdf" target="_blank">here</a>.
 
-To view FAQs for a safe and controlled restart of the M&O sector, click here.
+To view FAQs for a safe and controlled restart of the M&O sector, click <a href="/images/FAQs for Restart of MO Sector (final 1 June 2020).pdf" target="_blank">here</a>.
 
 #### **Process Construction & Maintenance Sector**
 
-The advisory for a safe and controlled restart of the Process Construction & Maintenance (PCM) sector from 2 June 2020 is accessible here.
+The advisory for a safe and controlled restart of the Process Construction & Maintenance (PCM) sector from 2 June 2020 is accessible <a href="/images/Advisory - PCM Sector (final 1 June 2020).pdf" target="_blank">here</a>.
 
-For more information on COVID-safe restart criteria for Energy & Chemical Plant owners, click here.
-For more information on COVID-safe restart criteria for PCM companies, click here.
+For more information on COVID-safe restart criteria for Energy & Chemical Plant owners, click <a href="/images/Criteria - EC Plant Owners (final 1 June 2020).pdf" target="_blank">here</a>.
+For more information on COVID-safe restart criteria for PCM companies, click <a href="/images/Criteria - PCM Companies (final 1 June 2020).pdf" target="_blank">here</a>.
 
-To view FAQs for a safe and controlled restart of the PCM sector, click here.
+To view FAQs for a safe and controlled restart of the PCM sector, click <a href="/images/FAQs for Restart of PCM Sector (final 1 June 2020).pdf" target="_blank">here</a>.
 
 #### **Retail & F&B**
 
