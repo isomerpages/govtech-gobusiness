@@ -33,10 +33,28 @@ The measures specific to the finance sector are accessible at the Monetary Autho
 
 The measures specific to the manufacturing sector are accessible at the Singapore Economic Development Board <a href = "https://www.edb.gov.sg/en/news-and-events/news/guidelines-on-safe-management-measures-for-the-manufacturing.html" target="_blank">website</a>.
 
+#### **Marine & Offshore Sector**
+
+The advisory for a safe and controlled restart of the Marine & Offshore (M&O) sector from 2 June 2020 is accessible <a href="/images/Advisory - MO Sector (final 1 June 2020).pdf" target="_blank">here</a>.
+
+For more information on COVID-safe restart criteria for the M&O sector, click <a href="/images/Criteria - Shipyards (final 1 June 2020).pdf" target="_blank">here</a>.
+
+To view FAQs for a safe and controlled restart of the M&O sector, click <a href="/images/FAQs for Restart of MO Sector (final 1 June 2020).pdf" target="_blank">here</a>.
+
+#### **Process Construction & Maintenance Sector**
+
+The advisory for a safe and controlled restart of the Process Construction & Maintenance (PCM) sector from 2 June 2020 is accessible <a href="/images/Advisory - PCM Sector (final 1 June 2020).pdf" target="_blank">here</a>.
+
+For more information on COVID-safe restart criteria for Energy & Chemical Plant owners, click <a href="/images/Criteria - EC Plant Owners (final 1 June 2020).pdf" target="_blank">here</a>.
+
+For more information on COVID-safe restart criteria for PCM companies, click <a href="/images/Criteria - PCM Companies (final 1 June 2020).pdf" target="_blank">here</a>.
+
+To view FAQs for a safe and controlled restart of the PCM sector, click <a href="/images/FAQs for Restart of PCM Sector (final 1 June 2020).pdf" target="_blank">here</a>.
+
 #### **Retail & F&B**
 
 The measures specific to the retail and F&B sectors are accessible at the Enterprise Singapore <a href = "https://www.enterprisesg.gov.sg/covid-19/safe-distance" target="_blank">website</a>.
 
-#### **Water Quality for Swimming Pools and Water Foundtains**
+#### **Water Quality for Swimming Pools and Water Fountains**
 
-The following guidelines on the National Environment Agency <a href = "https://go.gov.sg/neawaterguidelines" target="_blank">website</a> are still applicable for all swimming pools and water fountains until further notice.
+The guidelines on managing water quality in water features regulated by the National Environment Agency (NEA), accessible at the NEA <a href = "https://www.nea.gov.sg/docs/default-source/default-document-library/guidelines-for-managing-water-quality-for-cooling-towers-swimming-pool-and-water-fountains-during-the-period-of-heightened-safe-distancing-measures-(revised-on-26-apr-2020).pdf" target="_blank">website</a>, are still applicable for all swimming pools and water fountains until further notice.
