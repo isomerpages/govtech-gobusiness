@@ -40,7 +40,7 @@ No, beauty services are not allowed to resume operations from 2 June. Physical r
 #### **10. Given that in-person marriage solemnisations are allowed to take place in Phase 1, are wedding- related services such as wedding photography, videography and make-up services, allowed to resume as well? Are venues which are currently not in operation allowed to re-open for the purposes of wedding solemnisation?**
 No. Wedding-related services are not allowed to resume operations in Phase 1 until further notice. They may continue to sell their products online and fulfil the orders through delivery.
 
-Venues which are currently not in operation are not allowed to re-open for the purposes of wedding solemnisation. This includes hotels which remain open for the purpose of supporting SHN, GQF, CIF and accommodation needs of employees in the healthcare sector and foreigners affected by travel restrictions as well as restaurants which are only open for takeaway and delivery during this period. 
+Solemnisations should take place only in the Registry of Marriages or in Places of Worship. Other venues (e.g. hotels, country clubs, F&B restaurants) are not allowed to open for the purpose of wedding solemnisation.
 
 #### **11. Can I fix an appointment to repair my leaking air conditioner? What safe distancing measures must all repair personnel abide by?**
 You may fix an appointment to repair your air conditioner. The repair of consumer electronics, IT peripherals, and household appliances is allowed to continue during the circuit breaker period. Air con servicing will also be allowed to resume from 2 June onwards.
@@ -49,3 +49,6 @@ All repair personnel must comply with stringent hygiene and safe distancing prac
 
 #### **12. Are home-based babysitting services allowed from 2 June?**
 Home-based childcare services are not allowed during this period.
+
+#### **13. Are street-intercept and face- to- face surveys permitted from 2 June?**
+Research companies are not allowed to conduct street-intercept and face-to-face surveys in Phase 1 until further notice. Only online and phone surveys are permitted.
