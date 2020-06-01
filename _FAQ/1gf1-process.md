@@ -115,7 +115,7 @@ The following groups of PCM workers are required to undergo regular swab tests:
 - Those who work on the production site; and/or 
 - Those who stay in purpose-built dormitories, factory-converted dormitories, construction temporary quarters or temporary occupation license quarters 
 
-The above is applicable for Singaporeans, Singaporean Permanent Residences, Work Permit Holders, S Pass Holders and Employment Pass Holders.
+The above is applicable for Singaporeans, Singaporean Permanent Residents, Work Permit Holders, S Pass Holders and Employment Pass Holders.
  
 Upon receiving companies’ applications, EDB will inform relevant companies on the swab test arrangements. EDB will provide further information through ASPRI on swab test arrangements as well. If any workers who are working are found to have missed regular testing, EDB reserves the right to withdraw any approval for resumption of works.
 
