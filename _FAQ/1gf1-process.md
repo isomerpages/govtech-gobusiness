@@ -22,21 +22,21 @@ For PCM companies, resumption of on-site operations to support construction proj
 Any increase in PCM company manning levels for regular process plant maintenance activities will also have to be graduated. Appeals will be considered on a case-by-case basis. PCM companies may apply jointly with the E&C plant owner at <a href="http://www.edb.gov.sg/en/contact/contact-us.html" target="_blank">http://www.edb.gov.sg/en/contact/contact-us.html</a>.
 
 #### **3. What kind of projects or activities will require approval from the relevant authorities before they can start/resume from 2 June 2020 onwards?**
-For day-to-day maintenance activities
+<ins>For day-to-day maintenance activities:</ins>
 - Essential maintenance activities carried out by (a) firms that are allowed to operate from 2 June 2020, or (b) firms that are operating on an exemption basis at earlier approved manning levels by MTI will not require any additional approval, subject to earlier approved manning levels.
 - Any increase in PCM company manning levels for regular process plant maintenance activities will have to be graduated. Appeals will be considered on a case-by-case basis. PCM companies may jointly apply with the E&C plant owner at <a href="http://www.edb.gov.sg/en/contact/contact-us.html" target="_blank">http://www.edb.gov.sg/en/contact/contact-us.html</a>.
 
-For process construction projects and turnaround maintenance activities:
+<ins>For process construction projects and turnaround maintenance activities:</ins>
 - For categories of work on (a) process plant turnaround maintenance activities, or (b) process construction activities that are not regulated under the Building Control Act, applications will have to be submitted to EDB by plant owners before their appointed PCM contractors can commence/resume work.
 - For process construction projects regulated under the Building Control Act, applications will have to be submitted by the plant owner and main contractor to BCA for the project before work can resume, even if BCA’s building plan or structural plan approvals had previously been sought.
 
 #### **4. Is there any difference in the resumption of work after Circuit Breaker between the PCM and Construction Sector?**
-Please refer to Table 1 in the Advisory for a Safe and Controlled Restart of the PCM Sector for details on the guidelines that would apply to different types of works and companies.
+Please refer to Table 1 in the <a href="/safemanagement/sector/">Advisory for a Safe and Controlled Restart of the PCM Sector</a> for details on the guidelines that would apply to different types of works and companies.
 
 For the relevant COVID-Safe Restart advisory and criteria for the Construction sector, please refer to the BCA advisory <a href="https://www1.bca.gov.sg/docs/default-source/bca-restart/advisory-safe-controlled-restart-of-construction-sector.pdf" target="_blank">here</a>. 
 
 #### **5. For queries on the restarting of projects and works for the PCM sector, is there a point-of-contact in EDB or ESG that I can consult on the queries?**
-For foreign-owned enterprises and large local enterprises, please contact EDB <a href="http://www.edb.gov.sg/en/contact/contact-us.html%20" target="_blank">here</a> if you have any queries or require clarifications. All other local enterprises can contact Enterprise Singapore <a href="https://covid.gobusiness.gov.sg/contact-us/" target="_blank">here</a> if you have any queries or require clarifications.
+For foreign-owned enterprises and large local enterprises, please contact EDB <a href="http://www.edb.gov.sg/en/contact/contact-us.html" target="_blank">here</a> if you have any queries or require clarifications. All other local enterprises can contact Enterprise Singapore <a href="https://covid.gobusiness.gov.sg/contact-us/" target="_blank">here</a> if you have any queries or require clarifications.
 
 #### **6. I am a PCM company and I want to increase manning for regular maintenance activities above the earlier approved manning levels. Do I need to apply to EDB to increase manning?**
 Yes. Any increase in PCM company manning levels for regular maintenance activities above the earlier approved manning levels will have to be graduated. Appeals will be considered on a case-by-case basis. PCM companies may apply jointly with the E&C plant owner <a href="http://www.edb.gov.sg/en/contact/contact-us.html" target="_blank">here</a>.

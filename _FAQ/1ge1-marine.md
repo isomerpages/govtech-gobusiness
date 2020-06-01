@@ -10,7 +10,7 @@ These FAQs apply to companies in the M&O sector. It covers Shipyards, Resident C
 #### **2. For M&O companies that are currently operating during the Circuit Breaker, what is the difference after 1 June 2020?**
 M&O companies that are currently operating under Circuit Breaker to provide essential ship repair and maintenance activities are allowed to continue without approval from Economic Development Board (EDB) and Enterprise Singapore (ESG), subject to earlier approved manning levels. Any increase in manning levels will require EDB/ESG’s approval. Refer to Table 1 of the Advisory for a Safe and Controlled Restart of the Marine & Offshore Sector from 2 June 2020.
 
-Shipyards and Common Contractors which are currently allowed to operate must submit their Safe Management Plans demonstrating compliance with the Marine & Offshore COVID-Safe Restart Criteria, under the <a href="https://go.gov.sg/exemptionstatus" target="_blank">Application for Amendment</a> function by 22 June 2020. Failure to do so by the stipulated date can result in a rescindment of your General Exemption.
+Shipyards and Common Contractors which are currently allowed to operate must submit their Safe Management Plans demonstrating compliance with the Marine & Offshore COVID-Safe Restart Criteria, under the <a href="https://go.gov.sg/additionalinfo" target="_blank">Application for Amendment</a> function by 22 June 2020. Failure to do so by the stipulated date can result in a rescindment of your General Exemption.
 
 #### **3. What should I take note of when submitting the supplemental documentation for Earlier Permitted Activities by 22 June 2020?**
 Shipyards are required to submit their Safe Management Plans in compliance with the Marine & Offshore COVID-Safe Restart Criteria, including those of their resident contractors and common contractors needed to carry out on-site activities at the shipyards. Resident contractors are not required to make an independent submission, and should submit the relevant information together with their Sponsoring Shipyards. Shipyards’ plans should indicate what measures are taken to ensure that vessel owner representatives and other short-term visitors do not have direct interaction with other workers on the production sites.
@@ -34,7 +34,7 @@ MOM will implement an Audit and Inspection regime to conduct checks and to ensur
 Penalties will be imposed on firms which have contravened the Marine & Offshore COVID-Safe Restart Criteria or MOM’s Safe Management Measures, whichever relevant. In addition, firms will be required to resubmit their rectification plans, where applicable, and implement these measures as part of the follow ups to the enforcement actions taken.
 
 #### **7. What happens if a project is found to have a worker infected with COVID-19 after works have resumed?**
-Shipyards and contractors should immediately vacate and cordon-off the immediate section of the workplace premises where the confirmed case worked. There is no need to vacate the whole yard or building if there is no sustained and close contact with the confirmed case. Subsequently, carry out a thorough cleaning and disinfect all relevant on-site areas and assets exposed to confirmed cases, in accordance with the National Environment Agency’s (NEA’s) guidelines. Please refer to the Marine & Offshore COVID-Safe Restart criteria for further guidance on the handling of suspected and/or confirmed cases. 
+Shipyards and contractors should immediately vacate and cordon-off the immediate section of the workplace premises where the confirmed case worked. There is no need to vacate the whole yard or building if there is no sustained and close contact with the confirmed case. Subsequently, carry out a thorough cleaning and disinfect all relevant on-site areas and assets exposed to confirmed cases, in accordance with the National Environment Agency’s (NEA’s) guidelines. Please refer to the <a href="/safemanagement/sector/">Marine & Offshore COVID-Safe Restart criteria</a> for further guidance on the handling of suspected and/or confirmed cases. 
 
 The whole team that the infected worker is from will have to be isolated and tested; works on site may be suspended.
 
@@ -77,12 +77,12 @@ It is possible for workers of a worksite to be housed at one or more accommodati
 ## **COVID-Safe Workforce**
 
 #### **1. Who would need to be regularly swab tested?**
-The following groups of employees are required undergo regular swab tests:
+The following groups of employees are required to undergo regular swab tests:
 - Those who work on the shipyards’ production site; and 
 - Those who work in shipyard contractors’ external production site e.g. workshop; and 
 - Those who stay in purpose-built dormitories, factory-converted dormitories, construction temporary quarters or temporary occupation license quarters 
 
-The above is applicable for Singaporeans, Singaporean Permanent Residences, Work Permit Holders, S Pass Holders and Employment Pass Holders. 
+The above is applicable for Singaporeans, Singaporean Permanent Residents, Work Permit Holders, S Pass Holders and Employment Pass Holders. 
 
 EDB/ESG will inform relevant companies on the swab test arrangements. If any workers who are working are found to have missed regular testing, EDB/ESG reserves the right to withdraw any approval for resumption of works.
 
