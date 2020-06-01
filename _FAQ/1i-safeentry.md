@@ -96,4 +96,3 @@ The TraceTogether app is available for download on App Store and Google Play Sto
 
 #### **21. My worksite does not allow workers to hold on to mobile phones while at the work area due to safety/ security reasons. Can I use other methods to replace TraceTogether?**
 Unless there are potential contraventions of prevailing MOM workplace health and safety regulations, it will be a requirement for all personnel entering site to have a smart phone with TraceTogether app installed before they are allowed to enter the site. All personnel have to ensure that the TraceTogether app is turned on (i.e. Bluetooth is switched on) and that they carry their handphone with them at all times within the worksite. In the application to resume/ reinstate works or increase manning, the Shipyard and their contractors have to confirm that this requirement can be achieved.
-
