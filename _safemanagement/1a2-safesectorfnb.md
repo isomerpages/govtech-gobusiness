@@ -29,10 +29,6 @@ The measures specific to estate agents and real estate salespersons are accessib
 
 The measures specific to the finance sector are accessible at the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector" target="_blank">website</a>.
 
-#### **Manufacturing and Production Facilities (Factories, Plants, and Logistics Centres)**
-
-The measures specific to the manufacturing sector are accessible at the Singapore Economic Development Board <a href = "https://www.edb.gov.sg/en/news-and-events/news/guidelines-on-safe-management-measures-for-the-manufacturing.html" target="_blank">website</a>.
-
 #### **Marine & Offshore Sector**
 
 The advisory for a safe and controlled restart of the Marine & Offshore (M&O) sector from 2 June 2020 is accessible <a href="/images/Advisory - MO Sector (final 1 June 2020).pdf" target="_blank">here</a>.
