@@ -5,7 +5,7 @@ description: For Singapore Businesses
 image: /images/
 permalink: /
 #notification: 
-notification: With the gradual resumption of businesses from 2 Jun 2020, the SGWorkPass app will no longer be used to check for permission to work on-site with effect from 31 May 2020.</br></br>Due to system glitch, the Time-Limited Exemption form is temporarily <u>unavailable</u>. All other services on the site remain unaffected. We are working to resolve the issue and apologise for any inconvenience caused.
+notification: With the gradual resumption of businesses from 2 Jun 2020, the SGWorkPass app will no longer be used to check for permission to work on-site with effect from 31 May 2020.
 sections:
     - hero:
         title: Supporting Our Businesses
