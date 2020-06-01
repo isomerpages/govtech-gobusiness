@@ -46,6 +46,7 @@ To view FAQs for a safe and controlled restart of the M&O sector, click <a href=
 The advisory for a safe and controlled restart of the Process Construction & Maintenance (PCM) sector from 2 June 2020 is accessible <a href="/images/Advisory - PCM Sector (final 1 June 2020).pdf" target="_blank">here</a>.
 
 For more information on COVID-safe restart criteria for Energy & Chemical Plant owners, click <a href="/images/Criteria - EC Plant Owners (final 1 June 2020).pdf" target="_blank">here</a>.
+
 For more information on COVID-safe restart criteria for PCM companies, click <a href="/images/Criteria - PCM Companies (final 1 June 2020).pdf" target="_blank">here</a>.
 
 To view FAQs for a safe and controlled restart of the PCM sector, click <a href="/images/FAQs for Restart of PCM Sector (final 1 June 2020).pdf" target="_blank">here</a>.
