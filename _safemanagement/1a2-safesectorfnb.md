@@ -35,7 +35,7 @@ The measures specific to the manufacturing sector are accessible at the Singapor
 
 #### **Marine & Offshore Sector**
 
-The advisory for a safe and controlled restart of the Marine & Offshore (M&O) sector from 2 June 2020 is accessible here.
+The advisory for a safe and controlled restart of the Marine & Offshore (M&O) sector from 2 June 2020 is accessible <a href="/images/Advisory - MO Sector (final 1 June 2020).pdf" target="_blank">here</a>.
 
 For more information on COVID-safe restart criteria for the M&O sector, click here.
 
