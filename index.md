@@ -5,7 +5,7 @@ description: For Singapore Businesses
 image: /images/
 permalink: /
 #notification: 
-notification: With the gradual resumption of businesses from 2 Jun 2020, the SGWorkPass app will no longer be used to check for permission to work on-site with effect from 31 May 2020.
+notification: 
 sections:
     - hero:
         title: Supporting Our Businesses
