@@ -24,7 +24,7 @@ You will be expected to  ensure that your manpower details are updated for the e
 Employment agencies should submit/declare the manpower details for all employees under their direct employment, regardless of where they are deployed.
 
 #### **7. What manpower details must companies submit from 31 May? How do I declare my manpower details?**
-From 31 May, companies will no longer be required to submit the NRIC/FIN for their essential workers nor check their manpower status via the SGworkpass app.
+From 31 May, companies will no longer be required to submit the NRIC/FIN for their essential workers.
 
 They will only need to declare their manpower numbers (i.e. total number of manpower on-site and the proportion of which work part-time or shifts).
 
