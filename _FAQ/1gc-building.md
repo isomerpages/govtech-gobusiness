@@ -64,7 +64,7 @@ Companies carrying out construction account works must ensure compliance with CO
 #### **10b. From 2 June 2020, can I provide essential services (e.g. maintenance of equipment, repairs & rectifications, delivery/ receiving of materials) using my employees who are not construction sector WP or S-pass holders (i.e. SC/PR, EP, non-construction sector WP/S-pass)?**
 Resumption of administrative works in corporate offices, works on non-construction/renovation sites and essential services (e.g. maintenance of equipment, repairs & rectifications, delivery/receiving of materials) do not require approval from BCA so long as such works do not deploy construction account work permit holders (WPHs) and S-pass holders. Nonetheless, telecommuting should be adopted to the maximum extent feasible. Those who have been working from home so far should continue to do so. 
 
-From 2 Jun, before commencing such offsite works, you must apply and obtain MTI’s approval for a general or time-limited exemption on MTI’s website [https://covid.gobusiness.gov.sg](https://covid.gobusiness.gov.sg){:target="_blank"}.
+From 2 Jun,  companies that do not already have a General Exemption from MTI must apply and obtain MTI’s approval for a general or time-limited exemption at [https://covid.gobusiness.gov.sg](https://covid.gobusiness.gov.sg){:target="_blank"}.
 
 #### **11. Do I have to include the details of part-time site personnel in my application to resume Construction Projects/Supply Works Premises?**
 Yes, all personnel involved in the Construction Project/Supply Works (part-time or full-time) should be included in your application. In the application form, under the “Construction and Supply Main Submission” section, you may fill in the excel form with details of all personnel involved in the Construction Project/Supply Works and indicate if the personnel is working full-time or part-time on site or in the Supply Works Premise. Qualified Persons and site supervisors such as REs and RTOs should also be included in the application.
@@ -88,7 +88,7 @@ Companies would need to seek approval from BCA who is approving on behalf of MTI
 No, there is no need to seek BCA’s approval if you are not starting work on site.
 
 #### **4. How long does it take to obtain approval for my application?**
-If all the documents submitted are in order, we target to give the approval in 3 working days.
+If all the documents submitted are in order, BCA aims to give the approval in 3 working days.
 
 #### **5. My company had received approval from BCA to restart works with some workers after 2 June. Do I need to inform BCA of additional manpower that I plan to deploy?**
 Companies that had received approval from BCA to restart works with some workers and now wish to deploy additional workers who are construction work permit, S-pass or employment pass holders before deployment, will need to seek BCA’s approval again for these additional workers.
