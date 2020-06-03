@@ -54,8 +54,8 @@ Premises owners and managers who have permitted enterprise workers working withi
 
 Permitted enterprise and selected service workers whose work requires them to be on the move e.g. delivery services, transport services, or home healthcare services, should return to their office or homes for their meals. If this is not practical, they can eat in their vehicles, or in public spaces such as void decks, park benches. Workers should observe the following while doing so:
 
-a. Dine alone and keep a distance of at least one metre from another individual;
-b. Dine quickly and leave the public space in a clean state after they have consumed their meals; and
+a. Dine alone and keep a distance of at least one metre from another individual;<br>
+b. Dine quickly and leave the public space in a clean state after they have consumed their meals; and<br>
 c. Carry identification to indicate their employment status as permitted enterprise and selected service workers, and provide the identification upon request by Safe Distancing Ambassadors, Enforcement Officers, and police officers.
 
 Hawkers and coffeeshop stall operators may consume their meals at tables in front of their stalls. They should dine alone and keep a distance of at least one metre from another individual, not share tables with other individuals or congregate. 
