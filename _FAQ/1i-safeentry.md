@@ -4,7 +4,7 @@ permalink: /faq/safeentry
 ---
 
 #### **1. What is SafeEntry?**
-SafeEntry is a national digital check-in system that logs the names, NRIC/FINs and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to facilitate contact tracing efforts.
+SafeEntry is a national digital check-in system that logs the names, NRIC/FINs and mobile numbers of individuals visiting hotspots, workplaces of permitted services, as well as selected public venues to facilitate contact tracing efforts.
 
 SafeEntry is used for data collection and verification at entry/exit points through (1) scanning of a QR code displayed at the venue, or (2) having an identification card with a barcode (e.g. NRIC, driver’s licence, student pass and work permit) scanned by staff.
 
