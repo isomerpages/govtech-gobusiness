@@ -21,7 +21,7 @@ iv. Masks must be worn by both TCMPs and patients throughout the acupuncture tre
 - Proper disposal of used acupuncture needles and all other wastes.
 - Maintain a clean work environment.
 
-#### **3. Am I allowed to make house calls to deliver essential TCM services?**
+#### **3. Am I allowed to make house calls to deliver permitted TCM services?**
 Yes, house calls will be allowed but with the following restrictions:
 
 i. Make a pre-visit phone call on the day of home therapy/home visit to ascertain the patient’s/client’s health condition and potential exposure to COVID-19 prior to the therapy/visit and review the need to proceed with home therapy/home visit;

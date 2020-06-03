@@ -10,7 +10,7 @@ If it is assessed that the foreign employees are still not needed, employers may
 
 If foreign employees would like to head home, companies will have to cancel the work passes, repatriate the employees and bear the repatriation cost.
 
-#### **2. Is company-based training for essential firms allowed?**
+#### **2. Is company-based training for permitted firms allowed?**
 Company-based training is only allowed for essential roles to support our national COVID-19 efforts. Companies are reminded to comply with all existing Safe Distancing measures during training.
 
 For non-permitted services firms, training should be conducted online or in e-learning format only.
@@ -41,3 +41,21 @@ Statutory medical check-ups are considered non-essential and should be deferred.
 If you are requesting to continue with physical/actual building works on the construction site, you are required to obtain an approval from BCA first at 1800-342-5222 or <a href="https://www.bca.gov.sg/feedbackform" target="_blank">www.bca.gov.sg/feedbackform</a> before you can proceed.
 
 However, if the work that you will be conducting at the construction site is non-construction related (eg. administrative work done at the office), you do not need to seek BCA’s approval before applying for the Time-Limited Exemption. 
+
+#### **8. Where can permitted enterprise workers take their meals if they are not near home? Do these individuals have to furnish proof of being a permitted enterprise worker if questioned by enforcement officers?**
+Employers of such workers have the responsibility to look after the welfare of their workers and provide their workers with a suitable sheltered space within the work place premise to consume meals, such as staff canteens, pantries, or any other rest area. Employers should ensure that their workers observe the following in these spaces:
+1. Workers should dine alone and keep a distance of at least one metre from another individual; 
+2. Staggered meal times to reduce the interactions between their workers and prevent congregation; and
+3. Workers should dine quickly and leave the space in a clean state after they have consumed their meals.
+
+Workers who have fixed work stations which are suitable for consuming food at should also be allowed by their employers to individually consume their meals there.
+
+Premises owners and managers who have permitted enterprise workers working within their malls or buildings can designate an area within their premises for these workers to have their meals e.g. part of a food court within a mall.
+
+Permitted enterprise and selected service workers whose work requires them to be on the move e.g. delivery services, transport services, or home healthcare services, should return to their office or homes for their meals. If this is not practical, they can eat in their vehicles, or in public spaces such as void decks, park benches. Workers should observe the following while doing so:
+
+a. Dine alone and keep a distance of at least one metre from another individual;<br>
+b. Dine quickly and leave the public space in a clean state after they have consumed their meals; and<br>
+c. Carry identification to indicate their employment status as permitted enterprise and selected service workers, and provide the identification upon request by Safe Distancing Ambassadors, Enforcement Officers, and police officers.
+
+Hawkers and coffeeshop stall operators may consume their meals at tables in front of their stalls. They should dine alone and keep a distance of at least one metre from another individual, not share tables with other individuals or congregate. 
