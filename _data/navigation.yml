@@ -14,8 +14,8 @@ links:
 #    collection: safemanagement
 #  - title: Support Schemes for Businesses
 #    collection: supportschemes
-  - title: List of Essential Services
-    url: /essentialservices/healthandsocialservices/
+#  - title: List of Essential Services
+#    url: /essentialservices/healthandsocialservices/
   - title: Permitted Services
     url: /permittedlist/
 #    collection: essentialservices
