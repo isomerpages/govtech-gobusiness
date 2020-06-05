@@ -18,7 +18,7 @@ All companies should check the <a href="https://covid.gobusiness.gov.sg/" target
 		</tr>
 		<tr>
 			<td>All other sectors</td>
-			<td>GoBusiness Portal (Email : covid_gobusiness@mti.gov.sg)</td>
+			<td>GoBusiness Portal (Email:<a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>)</td>
 		</tr>
 	</tbody>
 </table>
