@@ -9,8 +9,8 @@ All companies should check the <a href="https://covid.gobusiness.gov.sg/" target
 <table >
 	<tbody>
 		<tr>
-			<td><th>Sector your company is in</th></td>
-			<td><th>Who to approach?</th></td>
+			<td><b>Sector your company is in</b></td>
+			<td><b>Who to approach?</b></td>
 		</tr>
 		<tr>
 			<td>Construction</td>
