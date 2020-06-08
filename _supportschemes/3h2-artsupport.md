@@ -23,7 +23,7 @@ third_nav_title: Sector-Specific Support
     <li class="gobizfinapplyTable-firstTable_table">
       <h1 class="gobizfinapplyTable-firstTable_table__header">Digital Presentation Grant for the Arts (DPG)</h1>
       <ul class="gobizfinapplyTable-firstTable_table__options">
-        <li>The DPG aims to support efforts by artists and arts organisations to present their in digital form or via digital medium during this COVID-19 period.</li>
+        <li>The DPG aims to support efforts by artists and arts organisations to present their work in digital form or via digital medium during this COVID-19 period.</li>
         <li>Applications are open till 31 July 2020 (5pm) and projects should be completed by 31 December 2020. Successful applicants may receive up to $20,000 per project.</li>
       </ul>
       <a href="https://go.gov.sg/nacadvisory"><div class="gobizfinapplyTable-firstTable_table__getstart">More info</div></a>

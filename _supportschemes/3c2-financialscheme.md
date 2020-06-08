@@ -37,7 +37,7 @@ third_nav_title: Finanical Support
 <div class="gobizfinapplyTable">
   <ul class="gobizfinapplyTable-firstTable">
     <li class="gobizfinapplyTable-firstTable_table">
-      <h1 class="gobizfinapplyTable-firstTable_table__header">Loan Insurance Scheme</h1>
+      <h1 class="gobizfinapplyTable-firstTable_table__header">Loan Insurance Scheme (LIS)</h1>
       <ul class="gobizfinapplyTable-firstTable_table__options">
         <li>Enterprises can secure short-term trade financing loans via the LIS from Participating Financial Institutions (PFI).</li>
         <li>Support for the LIS insurance premium will be increased to 80% (from 50%) until 31 March 2021.</li>
@@ -50,7 +50,7 @@ third_nav_title: Finanical Support
 <div class="gobizfinapplyTable">
   <ul class="gobizfinapplyTable-firstTable">
     <li class="gobizfinapplyTable-firstTable_table">
-      <h1 class="gobizfinapplyTable-firstTable_table__header">Temporary Bridging Loan Programme</h1>
+      <h1 class="gobizfinapplyTable-firstTable_table__header">Temporary Bridging Loan Programme (TBLP)</h1>
       <ul class="gobizfinapplyTable-firstTable_table__options">
         <li>The TBLP provides access to working capital for business needs.</li>
         <li>Eligible enterprises may borrow up to $5 million under the TBLP, with the interest rate capped at 5% p.a., from Participating Financial Institutions (PFI). The Government will provide 90% risk-share on these loans for new applications submitted from 8 April 2020 to 31 March 2021.</li>

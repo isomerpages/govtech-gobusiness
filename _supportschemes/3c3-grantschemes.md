@@ -41,9 +41,9 @@ third_nav_title: Finanical Support
         <li>Small and medium enterprises (SMEs) will receive an international boost with the MRA grant to help take your business overseas.</li>
         <li>Eligible SMEs will receive up to 70% of eligible costs, capped at S$100,000 per company per new market from 1 April 2020 to 31 March 2023 that covers:</li>
         <ul>
-                <li>Overseas market promotion (capped at S$20,000)</a></li>
-                <li>Overseas business development (capped at S$50,000)</a></li>
-                <li>Overseas market set-up (capped at S$30,000)</a></li>
+                <li>Overseas market promotion (capped at S$20,000)</li>
+                <li>Overseas business development (capped at S$50,000)</li>
+                <li>Overseas market set-up (capped at S$30,000)</li>
             </ul>
         <li>Each application is limited to one activity in a single overseas market (e.g. market entry, or participation in a trade fair)</li>
       </ul>
@@ -55,7 +55,7 @@ third_nav_title: Finanical Support
 <div class="gobizfinapplyTable">
   <ul class="gobizfinapplyTable-firstTable">
     <li class="gobizfinapplyTable-firstTable_table">
-      <h1 class="gobizfinapplyTable-firstTable_table__header">Enterprise Leadership for Transformation</h1>
+      <h1 class="gobizfinapplyTable-firstTable_table__header">Enterprise Leadership for Transformation (ELT)</h1>
       <ul class="gobizfinapplyTable-firstTable_table__options">
         <li>The ELT is a one-year programme that supports business leaders of promising small and medium enterprises to develop business growth capabilities, to be launched in Q3 2020.</li>
         <li>Eligible enterprises can qualify for up to 90% funding of programme fees.</li>
