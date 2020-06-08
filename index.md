@@ -5,7 +5,7 @@ description: For Singapore Businesses
 image: /images/
 permalink: /
 #notification: 
-notification: <strong>Attention:</strong> There may be intermittent disruptions for CorpPass users. We are working to resolve the issue and apologise for any inconvenience caused.
+#notification: <strong>Attention:</strong> There may be intermittent disruptions for CorpPass users. We are working to resolve the issue and apologise for any inconvenience caused.
 sections:
     - hero:
         title: Supporting Our Businesses
