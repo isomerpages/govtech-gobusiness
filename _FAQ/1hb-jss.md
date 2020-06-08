@@ -11,7 +11,7 @@ The Jobs Support Scheme (JSS) provides wage support to employers, to help enterp
 Companies in sectors that are not allowed to resume operations and are currently not operating under a General Exemption, will be accorded the Circuit Breaker tier JSS of 75%.
 
 #### **3. What happens if my company’s SSIC code falls under the permitted list but my primary business activity is not permitted by the Government? Am I still eligible for the Circuit Breaker tier JSS of 75%?**
-If your primary business activity is not permitted by the Government, you will not be allowed to operate even if your company’s SSIC code falls within the permitted list. In such instance, you can submit an appeal to <a href="https://form.gov.sg/#!/5e845afe41d03" target="_blank">IRAS</a> to request for the Circuit Breaker tier JSS of 75%.
+If your primary business activity is not permitted by the Government, you will not be allowed to operate even if your company’s SSIC code falls within the permitted list. In such instance, you can submit an appeal to <a href="https://form.gov.sg/#!/5e845afe41d035001110b715" target="_blank">IRAS</a> to request for the Circuit Breaker tier JSS of 75%.
 
 #### **4. Can I change my company’s SSIC code to be eligible for the Circuit Breaker tier JSS of 75%?**
 A company who has changed its SSIC code will have to apply for a General Exemption for its case to be reviewed.
@@ -39,7 +39,7 @@ No. Companies allowed to operate with restricted services will only receive the 
 A company is eligible for the 75% Circuit Breaker tier JSS based on whether it is permitted to resume operations. As long as a company with a specific UEN has activities which have been permitted to operate, the company with that UEN will not qualify for the Circuit Breaker tier JSS of 75%.
 
 #### **11. My company has different subsidiaries. If I cross-deploy my workers across the different UENs, am I still eligible for the Circuit Breaker tier JSS of 75%?**
-The JSS is tied to the payroll of workers for the qualifying UEN. Please approach <a href="https://form.gov.sg/#!/5e845afe41d03" target="_blank">IRAS</a> to review the details of your case.
+The JSS is tied to the payroll of workers for the qualifying UEN. Please approach <a href="https://form.gov.sg/#!/5e40f20eef9f0b0011d0e25a" target="_blank">IRAS</a> to review the details of your case.
 
 #### **12. My company is in a sector which is allowed to resume operations but prefers to remain close. Can I still qualify for the Circuit Breaker tier JSS of 75%?**
 Companies that have chosen to remain closed even though they are allowed to resume operations will not qualify for the Circuit Breaker tier JSS of 75%.
@@ -54,7 +54,9 @@ Retail companies which are only allowed to reopen in Phase 2, and are not operat
 
 However, online retail companies (SSIC 47910) which is on the list of Permitted Services, are allowed to resume operations and are not eligible for the Circuit Breaker tier JSS of 75%.
 
-#### **15. My company is allowed to operate (either in Permitted List or has a General Exemption to operate) but cannot do so as my workers have not been released from the dorms. Is my company still eligible for the Circuit Breaker tier JSS of 75%?**
+#### **15a. I had earlier received a General Exemption to operate. However, I was unable to resume operations as my workers were on SHN and unable to work. Is my company still eligible for the Circuit Breaker tier JSS of 75%?**
+
+#### **15b. My company is allowed to operate (either in Permitted List or has a General Exemption to operate) but cannot do so as my workers have not been released from the dorms. Is my company still eligible for the Circuit Breaker tier JSS of 75%?**
 You may wish to submit an appeal to <a href="https://form.gov.sg/#!/5e845afe41d035001110b715" target="_blank">IRAS</a> to review the circumstances of your case.
 
 #### **16. My company was not allowed to resume operations in Phase 1, was subsequently allowed to operate under a General Exemption, and now have our General Exemption rescinded. Do we qualify for a pro-rated Circuit Breaker tier JSS of 75%?**
