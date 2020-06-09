@@ -4,7 +4,7 @@ permalink: /faq/timelimited
 ---
 
 #### **1. Is there a guide on how to apply for a Time-Limited Exemption?**
-Yes. The guide on how to apply for Time-Limited Exemption can be found <a href="https://go.gov.sg/timelimitedexemptionguide" target="_blank">here</a>.
+Yes. The guide on how to apply for Time-Limited Exemption can be found <a href="https://go.gov.sg/Guide for TLE v9 Jun.pdf" target="_blank">here</a>.
 
 #### **2. How many times can I apply for Time-Limited Exemptions (TLEs)?**
 You will be allowed to submit up to 2 TLE applications each week[^1].
