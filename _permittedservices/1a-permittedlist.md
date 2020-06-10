@@ -72,7 +72,17 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
         <td>
             <ul>
                 <li>
-                    Open only for private worship; groups restricted to immediate family members
+                    Open only for private worship; groups restricted to immediate family members.
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Street-hail and ride-hail service providers</td>
+        <td>
+            <ul>
+                <li>
+                    Only taxi services and chauffeured private hire car services booked through ride-hail platforms are allowed to operate.
                 </li>
             </ul>
         </td>
@@ -82,7 +92,7 @@ If you do not know your SSIC code, you can login to <a href="https://www.bizfile
         <td>
             <ul>
                 <li>
-                    Retail storefronts (if any) of firms in wholesale trade sector are not permitted to be opened
+                    Retail storefronts (if any) of firms in wholesale trade sector are not permitted to be opened.
                 </li>
             </ul>
         </td>
