@@ -15,7 +15,12 @@ All companies should check the <a href="https://covid.gobusiness.gov.sg/" target
 		</tr>
 		<tr>
 			<td>Construction</td>
-			<td>Building and Construction Authority (BCA)</td>
+			<td>Building and Construction Authority (BCA)
+				<ul>
+					<li>Download and fill in the feedback on workers' <a href="https://go.gov.sg/bca-workers-sg-workpass-status" target="_blank">SGWorkPass</a> status.</li>
+					<li>Email it to <a href = "mailto: bca_safeworkforce@bca.gov.sg">bca_safeworkforce@bca.gov.sg</a></li>
+				</ul>
+			</td>
 		</tr>
 		<tr>
 			<td>All other sectors</td>
