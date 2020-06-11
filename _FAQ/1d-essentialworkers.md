@@ -42,30 +42,35 @@ Businesses that fail to submit their manpower details within 2 weeks of resuming
 #### **9. If my business is on the permitted services list but I choose to resume my business operations at a later date (after 2 June 2020), when do I need to submit my manpower declaration?**
 You should submit your manpower declaration within 2 weeks of resumption of your business operations.
 
-#### **10. Can I proceed to resume operations after declaring my manpower details? Will I receive any notification of approval?**
+#### **10. My company is allowed to resume operations but my staff will be continuing to work from home. How should I submit my manpower declaration?**
+Companies that are allowed to resume operations must submit their manpower declaration within 2 weeks of resuming operations or their approved date to resume operations, whichever is later.
+
+If the company does not have any staff working onsite, they should first key in “1” under the field “total number of manpower working onsite”, followed by “reset to 0” to declare that they have “0” manpower working onsite.
+
+#### **11. Can I proceed to resume operations after declaring my manpower details? Will I receive any notification of approval?**
 You will receive an email acknowledgment of your manpower declaration. You can only resume operations from 2 June 2020 onwards.
 
-#### **11. What happens if I do not receive an acknowledgement email after I have declared my manpower details?**
+#### **12. What happens if I do not receive an acknowledgement email after I have declared my manpower details?**
 If you have not received an acknowledgement email, your email address may be inaccurately captured on our system. For applicants with a CorpPass account, kindly login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> to verify that your email address is accurately reflected.
 
 You will be able to update your email address if needed. All changes will be reflected immediately. You will also be able to check whether your declaration has been captured. You should resubmit the declaration if it has not been captured.
 
-#### **12. Under what circumstances do I need to update my manpower declaration? Do I need to do so if there is a change in the number of employees/workers working on-site?**
+#### **13. Under what circumstances do I need to update my manpower declaration? Do I need to do so if there is a change in the number of employees/workers working on-site?**
 Yes, you should update your manpower declaration if there are any changes to (i) the total number of employees/workers working on-site and (ii) the proportion of these employees/workers who are working part-time and shifts.
 
-#### **13. What should I do if I would like to make changes to my manpower declaration?**
+#### **14. What should I do if I would like to make changes to my manpower declaration?**
 You can login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> and click on your business resumption to resubmit your manpower declaration. 
 
-#### **14. Is there a limit to the number of times I can change my manpower declaration details?**
+#### **15. Is there a limit to the number of times I can change my manpower declaration details?**
 You may change and resubmit your manpower declaration up to 5 times a day.
 
-#### **15. Is there a penalty that will be imposed if I do not declare my manpower within 2 weeks of resumption of business operations?**
+#### **16. Is there a penalty that will be imposed if I do not declare my manpower within 2 weeks of resumption of business operations?**
 Businesses that fail to submit their manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
-#### **16. When I login to the system to submit my manpower details, I notice that “the number of employees/workers under my employment” reflected is incorrect. What should I do?**
+#### **17. When I login to the system to submit my manpower details, I notice that “the number of employees/workers under my employment” reflected is incorrect. What should I do?**
 The employment records are accurate as at Feb 2020. We allow for reasonable fluctuations to this number. Therefore, you should continue to declare your manpower details.
 
 However, should the numbers vary substantially, you should notify the Central Provident Fund (CPF) and/or the Ministry of Manpower (MOM) to update your records with them. Once you have received an acknowledgement that your records have been updated, you should submit it to MTI at <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>.
 
-#### **17. I need to update the Ministry of Manpower of changes in my foreign workers’ particulars (e.g. residential address) during their employment. Where can I find more information about this?**
+#### **18. I need to update the Ministry of Manpower of changes in my foreign workers’ particulars (e.g. residential address) during their employment. Where can I find more information about this?**
 You can find more information <a href="https://go.gov.sg/momforeignworkerupdate" target="_blank">here</a>. 
