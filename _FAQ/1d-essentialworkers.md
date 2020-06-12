@@ -70,7 +70,7 @@ Businesses that fail to submit their manpower details within 2 weeks of resuming
 #### **17. When I login to the system to submit my manpower details, I notice that “the number of employees/workers under my employment” reflected is incorrect. What should I do?**
 The employment records are accurate as at Feb 2020. We allow for reasonable fluctuations to this number. Therefore, you should continue to declare your manpower details.
 
-However, should the numbers vary substantially, you should notify the Central Provident Fund (CPF) and/or the Ministry of Manpower (MOM) to update your records with them. Once you have received an acknowledgement that your records have been updated, you should submit it to MTI at <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>.
+However, should the numbers vary substantially, you should submit a copy of your manpower records to the Ministry of Manpower (MOM) and/or  the Central Provident Fund (CPF) to MTI at <a href = "mailto: Covid_GoBusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>.
 
 #### **18. I need to update the Ministry of Manpower of changes in my foreign workers’ particulars (e.g. residential address) during their employment. Where can I find more information about this?**
 You can find more information <a href="https://go.gov.sg/momforeignworkerupdate" target="_blank">here</a>. 
