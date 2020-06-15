@@ -65,7 +65,7 @@ Only taxi services and chauffeured private hire car services booked through ride
 
 Under Phase 1, in addition to essential services provided by entities allowed to operate during the Circuit Breaker, basic pet services, i.e. basic pet-grooming (no grooming services for cosmetic purposes), and pet physiotherapy and rehabilitation (with veterinarian’s referral) are allowed to be provided. 
 
-Under Phase 2, all animal and veterinary-related services and activities, as long as they comply with safe management measures as required by MOM and the Animal & Veterinary Service, a cluster of NParks. More information is available at <a href="https://go.gov.sg/avs-covid" target="_blank">here</a>.
+Under Phase 2, all animal and veterinary-related services and activities will resume, as long as they comply with safe management measures as required by MOM and the Animal & Veterinary Service, a cluster of NParks. More information is available at <a href="https://go.gov.sg/avs-covid" target="_blank">here</a>.
 
 #### **Water Quality for Swimming Pools and Water Fountains**
 
