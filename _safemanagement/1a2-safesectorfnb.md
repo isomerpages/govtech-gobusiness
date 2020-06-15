@@ -33,7 +33,7 @@ Enterprises in the finance sector are to comply to measures stipulated in this <
 
 All landscape-related services and nurseries, including non-essential operations, will resume, subject to safe management measures as required by MOM and NParks. 
 
-You can refer to NParks website for more information. For further clarification, email <a href = "mailto: NParks_Industry@nparks.gov.sg">NParks_Industry@nparks.gov.sg</a>.
+More information for the landscape sector is available <a href="https://go.gov.sg/safe-landscaping" target="_blank">here</a>. For further clarification, email <a href = "mailto: NParks_Industry@nparks.gov.sg">NParks_Industry@nparks.gov.sg</a>.
 
 #### **Marine & Offshore (M&O) Sector**
 
