@@ -4,51 +4,26 @@ permalink: /faq/resumption/sector/
 third_nav_title: Resumption of Business Activities from 2 June
 ---
 
-#### **1. Can insurance agents physically meet clients from 2 June onwards?**
-Insurance agents are not permitted to have face-to-face meetings with clients, except where clients’ physical presence is legally required to complete transactions.  In such situations, the meeting must take place in the office of the insurer.
+#### **1. When can religious institutions resume operations?**
+MCCY is engaging the religious organisations and will provide details on the resumption of more religious activities in Phase Two in due course.
 
-#### **2. Are property agents allowed to meet and bring clients to view properties from 2 June onwards?**
-Property agents are not permitted to have direct, face-to-face meetings with clients. However, should your client’s physical presence be legally required to complete the transaction, your client may complete the transaction at the lawyer’s or HDB’s office. If this is not possible, you should arrange for the completion of the transaction in your property agency’s office with the necessary safe management measures as required by MOM.
+#### **2. Are entertainment venues (eg. public entertainment venues, cinemas, theatres and attractions) allowed to resume operations from 19 June onwards?**
+No, these venues will resume operations progressively, later in Phase 2. These venues and activities typically involve large numbers of people interacting with one another, often in enclosed spaces, and for prolonged periods of time, with the potential to spawn large clusters of infected persons.  The relevant agencies will be engaging the operators of these venues on the safe management measures required to manage the risks involved, and will advise them on the approval processes and timelines for the resumption of their operations. 
 
-#### **3. Can MTI allow potential tenants to physically view vacant property units from 2 June onwards?**
-As we exit the circuit breaker period on 2 June, we will embark on a phased approach to resume activities safely. Given that the risk of a resurgence in community transmission remains high, we will first resume economic activities that pose a lower risk of transmission and involve little or no interaction with the wider community.
+Operators may wish to refer to sector-specific updates on this website, or visit the following agencies’ website for the latest updates: 
+- Public entertainment venues - Police’s website 
+- Cinemas 
+- Theatres 
+- Attractions 
 
-In light of these considerations, Real Estate Salespersons (RESs) should continue to avoid activities involving direct, face-to-face interactions with any other persons in Phase 1. For instance, activities such as physical viewings, which involve contact with different groups of people such as landlords and potential tenants are not permitted. However, RESs are able to continue to conduct property viewings through electronic means which some have been doing throughout the circuit breaker period.
+#### **3. Can performing arts resume their rehearsals? Is there a limit to the number of persons allowed during rehearsals?**
+Rehearsals will be allowed to resume, subject to limits on involvement and organisations/practitioners’ ability and readiness to adhere to safe management measures. These would be indicated in NAC’s upcoming advisory for the arts and culture sector.
 
-Agents may enter the property on their own to photograph or film the property if the property is unoccupied, to facilitate online viewings thereafter. Agents should not enter occupied properties, even if it is temporarily vacated, to photograph or film the property.
+#### **4. Are there any restrictions for dining in at F&B outlets from 19 June 2020 onwards?**
+Yes. There should be a one metre distance between distinct groups of not more than five persons, with no mixing between groups. Other safe management measures should also be in place.
 
-We will continue to closely monitor the health situation in Singapore after we exit the circuit breaker period. If community transmission rates remain low and stable over the subsequent few weeks, we will be able to move into Phase Two and gradually resume more activities.
+#### **5. What are some of the personal health and wellness services that may reopen in Phase Two?**
+Some of the personal health and wellness services that may reopen include spas, massage centres, fitness studios, gyms and sports facilities.
 
-#### **4. Is in-person home tuition allowed from 2 June?**
-In-person home tuition services are not allowed. Tutors and students can continue with lessons online.
-
-#### **5. Are home cleaning services allowed from 2 June?**
-Household cleaning services will continue to be suspended during this period.
-
-#### **6. Can maid agencies re-open from 2 June?**
-No. Maid agencies are not permitted to open their physical outlets until further notice.  They can continue to operate remotely through electronic means.
-
-#### **7. Will commercial visa application centres re-open from 2 June?**
-Commercial visa application centres are not permitted to operate their physical outlets.  They can continue to operate remotely through electronic means.
-
-#### **8. Will foot reflexology services be allowed to resume from 2 June?**
-No, foot reflexology services will not be allowed to resume operations from 2 June. More details will be announced later.
-
-#### **9. Are beauty services such as facial, threading, manicures, pedicures etc allowed to resume from 2 June?**
-No, beauty services are not allowed to resume operations from 2 June. Physical retail stores and services that could lead to social mixing or close contact between individuals have to remain closed until further notice.
-
-#### **10. Given that in-person marriage solemnisations are allowed to take place in Phase 1, are wedding- related services such as wedding photography, videography and make-up services, allowed to resume as well? Are venues which are currently not in operation allowed to re-open for the purposes of wedding solemnisation?**
-No. Wedding-related services are not allowed to resume operations in Phase 1 until further notice. They may continue to sell their products online and fulfil the orders through delivery.
-
-Solemnisations should take place only in the Registry of Marriages or in Places of Worship. Other venues (e.g. hotels, country clubs, F&B restaurants) are not allowed to open for the purpose of wedding solemnisation.
-
-#### **11. Can I fix an appointment to repair my leaking air conditioner? What safe distancing measures must all repair personnel abide by?**
-You may fix an appointment to repair your air conditioner. The repair of consumer electronics, IT peripherals, and household appliances is allowed to continue during the circuit breaker period. Air con servicing will also be allowed to resume from 2 June onwards.
-
-All repair personnel must comply with stringent hygiene and safe distancing practices. These include wearing a mask, minimising physical contact and interaction, and maintaining a safe distance as much as possible. The number of personnel should also be kept to a minimum and they must leave the premises once the job is completed.
-
-#### **12. Are home-based babysitting services allowed from 2 June?**
-Home-based childcare services are not allowed during this period.
-
-#### **13. Are street-intercept and face- to- face surveys permitted from 2 June?**
-Research companies are not allowed to conduct street-intercept and face-to-face surveys in Phase 1 until further notice. Only online and phone surveys are permitted.
+#### **6. Are car showrooms allowed to reopen in Phase Two?**
+Yes. Car showrooms may re-open from 19 June 2020.

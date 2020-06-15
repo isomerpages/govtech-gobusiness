@@ -1,52 +1,54 @@
 ---
-title: Resumption of operations
+title: Resumption of Business Activities (Phases One and Two)
 permalink: /faq/resumption/resumption/
 third_nav_title: Resumption of Business Activities from 2 June
 ---
 
-#### **1. How do I know if my company is allowed to resume operations from 2 June?**
-The list of business activities (and the corresponding Singapore Standard Industrial Classification (SSIC) codes) that may operate from 2 June 2020 can be found <a href="/permittedlist">here</a>. All businesses that operate are required to comply with the safe management measures <a href="/safemanagement/general/">here</a>.
+#### **1. How do I know if my company is allowed to resume operations**
+The lists of businesses (and the corresponding Singapore Standard Industrial Classification (SSIC) codes) that may operate from 2 June 2020 (Phase One) and 19 June 2020 (Phase Two) can be found <a href="https://go.gov.sg/permittedserviceslist" target="_blank">here</a> and <a href="https://go.gov.sg/permittedserviceslist2" target="_blank">here</a> respectively. Businesses in these lists do not need to apply to MTI for exemption before resuming operations. They are required to submit the number of workers who are working on-site using the <a href="https://covid.gobusiness.gov.sg">GoBusiness portal</a> within two weeks of the date of resumption of operations.
 
-If you do not know your company’s SSIC code or are unsure of the classification of your business activity, you can visit <a href="https://www.bizfile.gov.sg/">BizFile+</a> and login with your CorpPass to retrieve the SSIC code of your company’s primary business activity. Thereafter, you can check that SSIC code against the list of permitted services that can resume operations on 2 June. 
+If you cannot recall your company’s primary SSIC code or are unsure of the classification of your business activity, you can visit <a href="https://www.bizfile.gov.sg/">BizFile+</a> and login with your CorpPass to retrieve your primary SSIC code. Thereafter, you can check this against the list of permitted services. 
 
-#### **2. How did MTI decide which companies should resume operations first?**
-The objective of Phase 1 is to resume economic and social activities in a safe and gradual manner. Therefore, we will gradually allow more workers to return to work, starting with businesses that operate in settings with lower transmission risks, or that do not result in large group or close contact. These include manufacturing and production facilities and most businesses with employees working in office settings or settings that do not require interactions with large groups of people. 
+#### **2. How did MTI decide which companies should resume operations?**
+The Multi-Ministry Taskforce (MTF) announced on 19 May that we will exit the Circuit Breaker and resume activities in a phased manner from 2 June to minimise the risk of a resurgence in COVID-19 community transmission. In Phase One starting from 2 June, the MTF gradually allowed more workers to return to work, starting with businesses that operate in settings with lower transmission risks, or that do not require interactions with large groups of people. In Phase Two starting from 19 June, we will allow the resumption of a broad range of activities, including the reopening of physical outlets of retail businesses, as well as the resumption of food and beverage dine-in, personal health and wellness, and home-based services. 
 
-Before resuming activities, businesses must comply with the requirements for Safe Management Measures seen <a href="https://covid.gobusiness.gov.sg/safemanagement/general" target="_blank">here</a> and any sector-specific requirements which apply to them.
+Before resuming activities, businesses must comply with the requirements for Safe Management Measures and any sector-specific requirements which apply to them. 
 
-Employers must adopt telecommuting to the maximum extent. Employees who have been working from home should continue to do so. They should only go to the office when demonstrably necessary, for example to access systems or equipment that cannot be accessed from home or to complete a transaction that is legally required to be completed in person and on-site.
+Employers must continue to adopt telecommuting to the maximum extent. Employees who have been working from home should continue to do so.
 
-#### **3. Do I need to apply for an exemption to resume operations on 2 June?**
-No. Entities whose business is listed in the list of permitted activities need not seek exemption before resuming operations. Taking into consideration the large number of businesses involved, these businesses have been granted a class exemption to resume operations with effect from 2 June 2020, subject to their implementation of safe management measures. However, businesses must submit their manpower details via the GoBusiness portal within 2 weeks of the date of resumption of operations.
+#### **3. Why is my company’s SSIC code still not on the permitted list? What can I do to resume operations?**
+As part of the phased approach, higher-risk activities will be treated with more caution for now.  These typically involve large numbers of people interacting, often in enclosed spaces, and for prolonged periods of time. 
 
-Businesses may submit their manpower details using the “Permissions and Manpower Declaration” button on the GoBusiness portal from 26 May onwards.
+Government agencies have begun to engage relevant businesses and organisations on safe management measures to be taken to manage the risks involved. Agencies will advise these organisations on the approval processes and timelines for their resumption at a later date, depending on the ability and readiness of the organisation to implement these measures. 
 
-#### **4. Will I receive an email or document to confirm that my company can resume operations on 2 June?**
+#### **4. Will I receive an email or document to confirm that my company can resume operations?**
 No, you will not receive any additional notifications. 
 
-If you are unsure whether you can resume operations, please visit bizfile.gov.sg  and login with your CorpPass to obtain the Singapore Standard Industrial Classification (SSIC) code for your primary business activity. You will be able to retrieve your SSIC code once you have logged in. 
+If you are unsure whether you can resume operations, please visit <a href="https://www.bizfile.gov.sg/">BizFile+</a> and login with your CorpPass to obtain the Singapore Standard Industrial Classification (SSIC) code for your primary business activity. You will be able to retrieve your SSIC code once you have logged in. 
 
-Once you have retrieved your SSIC code for your primary business activity, please check it against the list of permitted services that can resume operations on 2 June <a href="/permittedlist">here</a>.
+Once you have retrieved your SSIC code for your primary business activity, please check it against the list of permitted services that can resume operations <a href="/permittedlist">here</a>.
 
-#### **5. I had previously received an approval of my General Exemption but my companies’ activities are not listed in the permitted services list. Will I be able to continue operations on 2 June?**
-Yes. All companies that received an exemption to operate before 1 June will be able to continue operations.
+#### **5. I had previously received an approval of my General Exemption but my companies’ activities are not listed in the permitted services list. Will I be able to continue operations?**
+Yes. All companies that received an exemption to operate will be able to continue operations.
 
-#### **6. I had previously received an email notification that my exemption had been rescinded, but my company falls under the list of permitted services in Phase 1. Will I be able to resume operations on 2 June?**
-Yes. If your company’s business is in the list of permitted services, you will be allowed to resume operations on 2 June. If your company has other business functions or services that are not in the list of permitted services, these other business functions or services should remain suspended until further notice.
+#### **6. I had previously received an email notification that my exemption had been rescinded, but my company falls under the list of permitted services. Will I be able to resume operations?**
+Yes. If your company’s activities are listed in the list of permitted services, you will be allowed to resume operations. If your company has other business functions or services that do not belong in the list of permitted services, these other business functions or services should remain suspended until further notice.
 
 #### **7. My company’s activities do not belong to the list of permitted services, but we support a permitted service that is listed. What should I do? Can I appeal?**
 If your company needs to support a permitted service please submit an application for a General Exemption or a Time-Limited Exemption through 
 <a href="https://covid.gobusiness.gov.sg">https://covid.gobusiness.gov.sg</a>.
 
-You will only be permitted to operate when the status of your General Exemption or Time-Limited Exemption is reflected as “approved”.
+You will only be permitted to operate when your General Exemption or Time-Limited Exemption is approved.
 
-#### **8. My company is in the permitted services list but I do not wish to resume operations on 2 June. Is that allowed?**
-Yes. Companies that are in the permitted services list may choose to resume their operations on 2 June or at a later date.
+#### **8. My company is in the permitted services list but I do not wish to resume operations. Is that allowed?**
+Yes.
 
 #### **9. Are there any requirements that I need to fulfil before I can resume operations?**
-All companies that are resuming operations must fulfil stringent safe management measures, as well as comply with any sector specific guidelines relevant to their business, before resuming operations. Please refer to these guidelines <a href="/safemanagement/general/">here</a>. 
+All businesses that are resuming operations must fulfil stringent safe management measures, as well as comply with any sector specific requirements relevant to their business, before resuming operations. Please refer to these requirements <a href="/safemanagement/general/">here</a>. 
 
-Businesses must submit their manpower details via the GoBusiness portal within 2 weeks of the date of resumption of operations.
+Businesses that belong to the list of permitted services must declare their number of workers who are working onsite using the GoBusiness portal **<ins>within 2 weeks of the date of resumption of operations</ins>**.  
+
+Businesses which receive a General Exemption approval to resume operations must declare their number of workers who are working onsite **<ins>within 2 days of the commencement of operations</ins>**. 
 
 #### **10. If my company’s activities belong to the list of permitted services, will I be able to operate all my business functions?**
 If your company has other business functions or services that are not in the list of permitted services, these other business functions or services should remain suspended until further notice.
@@ -58,7 +60,7 @@ You should refer to the SSIC code for your primary business activity and check i
 No. You may resume operations only if the SSIC code for your primary business activity falls within the list of permitted services that can resume operations on 2 June. However, if you intend to only carry out the secondary activity (and not the primary activity) which falls within the list of permitted services, you may submit an application for General Exemption <a href="https://go.gov.sg/generalexemption">here</a>.
 
 #### **13. My company is carrying out the activity as listed in the list of permitted services. However, my SSIC code does not fall under the listed code on the website. Will I still be allowed to resume operations?**
-You can submit an application for General Exemption <a href="https://go.gov.sg/generalexemption">here</a> for our review.
+You will need to submit an application for General Exemption <a href="https://go.gov.sg/generalexemption">here</a> and receive approval from MTI before resuming operations.
 
 #### **14. I am a freelancer and do not have an Singapore Standard Industrial Classification (SSIC) code. How do I know if I can resume service?**
 Freelancers have to be registered with ACRA, unless the business is carried out in your full name as reflected in your NRIC. 
@@ -74,13 +76,10 @@ Under the COVID-19 (Temporary Measures) Act, first-time offenders found operatin
 #### **17. I have checked the list of permitted services against my primary SSIC code and I am sure I am allowed to resume operations from 2 Jun 2020. Why is my business resumption status not reflected as “permitted”?**
 If your primary SSIC code falls into the list of permitted services and you have not changed your primary SSIC code recently, please write to <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a> for assistance.
 
-#### **18. My company’s activities belong to the list of permitted services. However, my company’s primary business functions or services require our personnel to meet with clients in person at their households to carry out activities (e.g. taking measurements, installing items at the households etc). Would we still be allowed to operate?**
-Households should continue to limit contacts with others outside of their household. Therefore, except for the services that are allowed during the circuit breaker period and in Phase 1 (e.g. deliveries, emergency repairs, installations, or aircon servicing from 2 Jun 2020), other businesses should not meet clients in person at their households, to avoid mixing beyond the immediate households in residences.
+#### **18. What if my business activities do not fall under what is stated as permitted services for the SSIC code of my company’s primary business activity?**
+Your company may resume the business activities that fall within the list of permitted services.
 
-#### **19. What if my business activities do not fall under what is stated as permitted services for the SSIC code of my company’s primary business activity?**
-Your company may resume the business activities that fall within the list of permitted services for the SSIC code of your company’s primary business activity.
+If your company’s business activities do not fall within the permitted services for the SSIC code of your company’s primary business activity, these activities should remain suspended until further notice. You will need to apply for a General Exemption.
 
-If your company’s business activities do not fall within the permitted services for the SSIC code of your company’s primary business activity, these activities should remain suspended until further notice. You will need to submit an application for a General Exemption for our review.
-
-#### **20. I checked my exemption/resumption status and there is now a “period” specified next to my permitted “status”. What does this mean? Can I continue operating?**
-If your exemption/resumption status is reflected as “permitted from 2 Jun”, you will only be allowed to resume operations from 2 Jun. If your exemption/resumption status is reflected as just “permitted”, you are already allowed to continue your operations.
+#### **19. I checked my exemption/resumption status and there is now a “period” specified next to my permitted “status”. What does this mean? Can I continue operating?**
+If your exemption/resumption status is reflected as “permitted from (date)”, you will only be allowed to resume operations from the specified date. If your exemption/resumption status is reflected as just “permitted”, you are already allowed to continue your operations.
