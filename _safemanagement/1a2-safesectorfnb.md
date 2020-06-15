@@ -33,7 +33,7 @@ Enterprises in the finance sector are to comply to measures stipulated in this <
 
 All landscape-related services and nurseries, including non-essential operations, will resume, subject to safe management measures as required by MOM and NParks. 
 
-You can refer to NParks website for more information. For further clarification, email <a href = "mailto: NParks_Industry@nparks.gov.sg">NParks_Industry@nparks.gov.sg</a>.
+More information for the landscape sector is available <a href="https://go.gov.sg/safe-landscaping" target="_blank">here</a>. For further clarification, email <a href = "mailto: NParks_Industry@nparks.gov.sg">NParks_Industry@nparks.gov.sg</a>.
 
 #### **Marine & Offshore (M&O) Sector**
 
@@ -47,7 +47,7 @@ To view FAQs for a safe and controlled restart of the M&O sector, click <a href=
 
 Energy and chemical plant owners are to comply to measures stipulated in this <a href="/images/Advisory - PCM Sector (final 1 June 2020).pdf" target="_blank">document</a> [last updated on 1 Jun 20].
 
-PCM companies are to comply to measures stipulated in this <a href="/images/Criteria - EC Plant Owners (final 1 June 2020).pdf" target="_blank">document</a> [last updated on 1 Jun 20].
+PCM companies are to comply to measures stipulated in this <a href="/images/Criteria - PCM Companies (final 1 June 2020).pdf" target="_blank">document</a> [last updated on 1 Jun 20].
 
 #### **Retail & F&B**
 
