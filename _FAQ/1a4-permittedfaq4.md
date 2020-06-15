@@ -1,7 +1,7 @@
 ---
 title: Sector Specific
 permalink: /faq/resumption/sector/
-third_nav_title: Resumption of Business Activities from 2 June
+third_nav_title: Resumption of Business Activities (Phases One and Two)
 ---
 
 #### **1. When can religious institutions resume operations?**
