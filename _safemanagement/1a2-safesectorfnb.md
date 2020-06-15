@@ -5,8 +5,6 @@ permalink: /safemanagement/sector/
 
 Businesses must adhere to sector-specific requirements as stipulated below, in addition to the <a href="/safemanagement/general/">general guidelines</a>. 
 
-Businesses may also wish to refer to MTI’s <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/05/MTI-Advisory-on-resumption-of-activities-from-2-June-2020.pdf" target="_blank">advisory</a> dated 19 May 2020, on the gradual resumption of business activities in phases starting from 2 June 2020.
-
 #### **Accounting Practices**
 
 Accounting practices are to comply to measures stipulated in this <a href="https://go.gov.sg/accountingpractices" target="_blank">document</a> [last updated on 26 May 20]. You can also refer to the Institute of Singapore Chartered Accountants <a href = "https://isca.org.sg/covid-19-series/faqs/?j=538131&sfmc_sub=28753357&l=215_HTML&u=10800996&mid=7235277&jb=1" target="_blank">website</a> and the Singapore Accountancy Commission <a href = "https://www.sac.gov.sg/isca-sac-advisory-safe-management-measures-accounting-practices-post-covid-19-circuit-breaker-period" target="_blank">website</a>.
@@ -15,7 +13,7 @@ Accounting practices are to comply to measures stipulated in this <a href="https
 
 Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nacsmrrequirements" target="_blank">document</a> [last updated on 26 May 20] in Phase 1. You can also refer to the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Operationalisation-of-Circuit-Breaker-Safe-Distancing-Measures.html" target="_blank">website</a>.
 
-Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 26 May 20] in Phase 1. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
+Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 21 May 20] in Phase 1. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
 
 #### **Built Environment**
 
@@ -25,7 +23,7 @@ Enterprises undertaking renovation works and building works for residential prop
 
 #### **Estate Agents and Real Estate Salespersons**
 
-Estate agents and real estate salespersons are to comply to measures stipulated in this <a href="https://go.gov.sg/cea" target="_blank">document</a> [last updated on DDMMYY] under Phase 1. You can also refer to  the Estate Agencies <a href = "https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf" target="_blank">website</a>.
+Estate agents and real estate salespersons are to comply to measures stipulated in this <a href="https://go.gov.sg/cea" target="_blank">document</a> [last updated on 21 May 20] under Phase 1. You can also refer to  the Estate Agencies <a href = "https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf" target="_blank">website</a>.
 
 #### **Finance**
 
@@ -33,9 +31,9 @@ Enterprises in the finance sector are to comply to measures stipulated in this <
 
 #### **Landscape-related Services**
 
-All landscape-related services and nurseries, including non-essential operations, will resume, subject to safe management measures as required by MOM and Nparks. 
+All landscape-related services and nurseries, including non-essential operations, will resume, subject to safe management measures as required by MOM and NParks. 
 
-You can refer to nParks website for more information. For further clarification, email <a href = "mailto: NParks_Industry@nparks.gov.sg">NParks_Industry@nparks.gov.sg</a>.
+You can refer to NParks website for more information. For further clarification, email <a href = "mailto: NParks_Industry@nparks.gov.sg">NParks_Industry@nparks.gov.sg</a>.
 
 #### **Marine & Offshore (M&O) Sector**
 
