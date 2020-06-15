@@ -3,102 +3,16 @@ title: List of Permitted Services
 permalink: /permittedlist/
 ---
 
-The Government will allow the gradual resumption of businesses, in phases, with effect from 2 June 2020. All firms who are in operations are to comply with the safe management requirements listed <a href="https://covid.gobusiness.gov.sg/safemanagement/general/">here</a>. 
+The Government will allow the gradual resumption of businesses, in phases. Phase 1 commenced on 2 June 2020, and Phase 2 will commence on 22 June 2020. . 
 
-The list of permitted services, and the corresponding Singapore Standard Industrial Classification (SSIC) codes, that will be allowed to resume operations in Phase 1 can be found <a href="https://go.gov.sg/permittedserviceslist">here</a>. Please refer to the table below for the sector-specific requirements.
+All firms who are in operations are to comply with the (1) safe management requirements listed <a href="https://covid.gobusiness.gov.sg/safemanagement/general/">here</a> and (2) sector specific requirements listed <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/">here</a>.
 
-Please note that firms that have been permitted to operate as at 1 Jun will be allowed to continue to carry on their operations.
+The current list of permitted services and the corresponding Singapore Standard Industrial Classification (SSIC) codes that are allowed to operate can be found <a href="https://go.gov.sg/permittedlist">here</a>.
 
-Please note that your SSIC code should correspond with the “<ins>primary</ins> business activity” in your business registration records with the Accounting and Corporate Regulatory Authority (ACRA). You should ensure that your business activity is in line with your selected SSIC code. 
+With effect from 22 June 2020, the list of permitted services and the corresponding SSIC codes that will be allowed to operate can be found here (Phase 2 pdf file). 
 
-If you do not know your SSIC code, you can login to <a href="https://www.bizfile.gov.sg/">BizFile+</a> using your CorpPass credentials. 
+Please note that firms that have been permitted to operate as at 1 Jun will be allowed to continue to carry on their operations. 
 
+Please note that your SSIC code should correspond with the “primary business activity” in your business registration records with the Accounting and Corporate Regulatory Authority (ACRA). You should ensure that your business activity is in line with your selected SSIC code. 
 
-#### **Table of sector-specific requirements**
-
-<table>
-    <tr>
-        <th>Sector</th>
-        <th>Requirements</th>
-    </tr>
-    <tr>
-        <td>Care services for pets and animals</td>
-        <td>
-            <ul>
-                <li>
-                    Only basic pet services, i.e. basic pet-grooming (no grooming services for cosmetic purposes), and pet physiotherapy and rehabilitation (with veterinarian’s referral) are allowed. Visit <a href="https://www.go.gov.sg/avs-covid">www.go.gov.sg/avs-covid</a> for more information. 
-                </li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>Food services<sup>1</sup></td>
-        <td>
-            <ul>
-                <li>
-                    Establishments permitted to open are to be opened only for takeaways and deliveries; no dine-in services are allowed.
-                </li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>Information and Communications</td>
-        <td>
-            <ul>
-                <li>
-                    Retail storefronts (if any) of firms in the information and communications sector are not permitted to be opened.
-                </li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>Manufacturing</td>
-        <td>
-            <ul>
-                <li>
-                    Retail storefronts (if any) of firms in manufacturing sector are not permitted to be opened.
-                </li>
-                <li>
-                    Please approach EDB if your firm is undertaking activities which involve the deployment of work permit holders in the Marine or Process industries. Your firm will only be allowed to operate upon notification by MTI.
-                </li>
-                <li>
-                    The resumption of activities in the marine and offshore, and process construction and maintenance industries, which employs marine and process work permit holders, will be subject to separate timelines and arrangements established by EDB.
-                </li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>Places of worship</td>
-        <td>
-            <ul>
-                <li>
-                    Open only for private worship; groups restricted to immediate family members.
-                </li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>Street-hail and ride-hail service providers</td>
-        <td>
-            <ul>
-                <li>
-                    Only taxi services and chauffeured private hire car services booked through ride-hail platforms are allowed to operate.
-                </li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>Wholesale Trade</td>
-        <td>
-            <ul>
-                <li>
-                    Retail storefronts (if any) of firms in wholesale trade sector are not permitted to be opened.
-                </li>
-            </ul>
-        </td>
-    </tr>
-</table>
-
-
-__________________________________________________________________________________________________
-<i>1. F&B outlets in parks and standalone outlets selling predominantly beverages remain closed.</i>
+If you do not know your SSIC code, you can login to <a href="https://www.bizfile.gov.sg/">BizFile+</a> using your CorpPass credentials.
