@@ -22,7 +22,7 @@ As part of the phased approach, higher-risk activities will be treated with more
 Government agencies have begun to engage relevant businesses and organisations on safe management measures to be taken to manage the risks involved. Agencies will advise these organisations on the approval processes and timelines for their resumption at a later date, depending on the ability and readiness of the organisation to implement these measures. 
 
 #### **4. Will I receive an email or document to confirm that my company can resume operations?**
-No, you will not receive any additional notifications. 
+No, you will not receive a notifications. 
 
 If you are unsure whether you can resume operations, please visit <a href="https://www.bizfile.gov.sg/">BizFile+</a> and login with your CorpPass to obtain the Singapore Standard Industrial Classification (SSIC) code for your primary business activity. You will be able to retrieve your SSIC code once you have logged in. 
 
