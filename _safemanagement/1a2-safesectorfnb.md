@@ -47,7 +47,7 @@ To view FAQs for a safe and controlled restart of the M&O sector, click <a href=
 
 Energy and chemical plant owners are to comply to measures stipulated in this <a href="/images/Advisory - PCM Sector (final 1 June 2020).pdf" target="_blank">document</a> [last updated on 1 Jun 20].
 
-PCM companies are to comply to measures stipulated in this <a href="/images/Criteria - EC Plant Owners (final 1 June 2020).pdf" target="_blank">document</a> [last updated on 1 Jun 20].
+PCM companies are to comply to measures stipulated in this <a href="/images/Criteria - PCM Companies (final 1 June 2020).pdf" target="_blank">document</a> [last updated on 1 Jun 20].
 
 #### **Retail & F&B**
 
