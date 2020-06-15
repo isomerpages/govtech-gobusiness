@@ -23,7 +23,7 @@ Enterprises undertaking renovation works and building works for residential prop
 
 #### **Estate Agents and Real Estate Salespersons**
 
-Estate agents and real estate salespersons are to comply to measures stipulated in this <a href="https://go.gov.sg/cea" target="_blank">document</a> [last updated on 21 May 20] under Phase 1. You can also refer to  the Estate Agencies <a href = "https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf" target="_blank">website</a>.
+Estate agents and real estate salespersons are to comply to measures stipulated in this <a href="https://go.gov.sg/cea" target="_blank">document</a> [last updated on 26 May 20] under Phase 1. You can also refer to  the Estate Agencies <a href = "https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf" target="_blank">website</a>.
 
 #### **Finance**
 
