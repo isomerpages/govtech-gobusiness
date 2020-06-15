@@ -4,7 +4,7 @@ permalink: /faq/resumption/resumption/
 third_nav_title: Resumption of Business Activities from 2 June
 ---
 
-#### **1. How do I know if my company is allowed to resume operations**
+#### **1. How do I know if my company is allowed to resume operations?**
 The lists of businesses (and the corresponding Singapore Standard Industrial Classification (SSIC) codes) that may operate from 2 June 2020 (Phase One) and 19 June 2020 (Phase Two) can be found <a href="https://go.gov.sg/permittedserviceslist" target="_blank">here</a> and <a href="https://go.gov.sg/permittedserviceslist2" target="_blank">here</a> respectively. Businesses in these lists do not need to apply to MTI for exemption before resuming operations. They are required to submit the number of workers who are working on-site using the <a href="https://covid.gobusiness.gov.sg">GoBusiness portal</a> within two weeks of the date of resumption of operations.
 
 If you cannot recall your company’s primary SSIC code or are unsure of the classification of your business activity, you can visit <a href="https://www.bizfile.gov.sg/">BizFile+</a> and login with your CorpPass to retrieve your primary SSIC code. Thereafter, you can check this against the list of permitted services. 
