@@ -65,7 +65,7 @@ You can also refer to the Enterprise Singapore <a href = "https://www.enterprise
 
 Under Phase 2,
 - F&B establishments are to comply to measures stipulated in this <a href="https://go.gov.sg/fbestablishments2" target="_blank">document</a> [last updated on 16 Jun 20].
-- To view the inforgraphic on Safe Management Measures at F&B Establishments [last updated on 16 Jun 20], click <a href="https://go.gov.sg/smrfnb" target="_blank">here</a>.
+- To view the infographic on Safe Management Measures at F&B Establishments [last updated on 16 Jun 20], click <a href="https://go.gov.sg/smrfnb" target="_blank">here</a>.
 - Retail establishments and lifestyle-related services are to comply to measures stipulated in this <a href="https://go.gov.sg/retailsmrrequirements2" target="_blank">document</a> [last updated on 16 Jun 20].
 - To view the infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 16 Jun 20], click <a href="https://go.gov.sg/smrretail" target="_blank">here</a>.
 
