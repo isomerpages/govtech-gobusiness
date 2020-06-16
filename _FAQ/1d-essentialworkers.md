@@ -7,9 +7,9 @@ permalink: /faq/essentialworkers
 Yes. The guide for declaration of manpower details can be found <a href="https://go.gov.sg/essentialmanpowerguide" target="_blank">here</a>.
 
 #### **2. How do I know if I need to declare my manpower details?**
-Only businesses that are allowed to resume operations from 2 June 2020, or have received an approval for their General Exemption application, are required to do so.
+Only businesses that are allowed to resume operations, or have received an approval for their General Exemption application, are required to do so.
 
-You can refer to the full list of permitted services allowed to resume operations from 2 June 2020 <a href="https://go.gov.sg/permittedserviceslist" target="_blank">here</a>.
+You can refer to the full list of permitted services allowed to resume operations <a href="https://go.gov.sg/permittedserviceslist" target="_blank">here</a>.
 
 #### **3. I am unable to declare my manpower details. What should I do?**
 If the status of your general exemption or business resumption is not reflected as “permitted”, you will be unable to declare your manpower details. If you require assistance, please write to MTI at <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>
@@ -35,11 +35,11 @@ Businesses who fail to submit the manpower details within 2 weeks of resuming op
 #### **8. My business is on the permitted services list. Why do I still need to declare my manpower details?**
 The Multi-Ministry TaskForce announced on 19 May 2020 that Circuit Breaker measures will be gradually eased from 2 June 2020, and businesses will be allowed to resume activities in a phased manner.
 
-As more workers go back to work, we need to ensure that businesses resume operations in a safe way. Hence, businesses that are allowed to resume operations from  2 June 2020 are required to declare their manpower details.
+As more workers go back to work, we need to ensure that businesses resume operations in a safe way. Hence, businesses that are allowed to resume operations are required to declare their manpower details.
 
 Businesses that fail to submit their manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
-#### **9. If my business is on the permitted services list but I choose to resume my business operations at a later date (after 2 June 2020), when do I need to submit my manpower declaration?**
+#### **9. If my business is on the permitted services list but I choose to resume my business operations at a later date when do I need to submit my manpower declaration?**
 You should submit your manpower declaration within 2 weeks of resumption of your business operations.
 
 #### **10. My company is allowed to resume operations but my staff will be continuing to work from home. How should I submit my manpower declaration?**
@@ -48,7 +48,7 @@ Companies that are allowed to resume operations must submit their manpower decla
 If the company does not have any staff working onsite, they should first key in “1” under the field “total number of manpower working onsite”, followed by “reset to 0” to declare that they have “0” manpower working onsite.
 
 #### **11. Can I proceed to resume operations after declaring my manpower details? Will I receive any notification of approval?**
-You will receive an email acknowledgment of your manpower declaration. You can only resume operations from 2 June 2020 onwards.
+You will receive an email acknowledgment of your manpower declaration. You can only resume operations from the specified date of resumption onwards.
 
 #### **12. What happens if I do not receive an acknowledgement email after I have declared my manpower details?**
 If you have not received an acknowledgement email, your email address may be inaccurately captured on our system. For applicants with a CorpPass account, kindly login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> to verify that your email address is accurately reflected.
