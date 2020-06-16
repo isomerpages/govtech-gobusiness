@@ -63,6 +63,10 @@ Under Phase 1,
 
 You can also refer to the Enterprise Singapore <a href = "https://www.enterprisesg.gov.sg/covid-19/safe-distance" target="_blank">website</a> for these requirements and other information.
 
+Under Phase 2,
+- F&B establishments are to comply to measures stipulated in this <a href="https://go.gov.sg/fbestablishments2" target="_blank">document</a> [last updated on 16 Jun 20].
+- Retail establishments and lifestyle-related services are to comply to measures stipulated in this <a href="https://go.gov.sg/retailsmrrequirements2" target="_blank">document</a> [last updated on 16 Jun 20].
+
 #### **Street-hail and ride-hail service providers**
 
 Only taxi services and chauffeured private hire car services booked through ride-hail platforms are allowed to operate.
