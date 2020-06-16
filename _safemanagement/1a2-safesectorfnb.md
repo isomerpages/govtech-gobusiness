@@ -53,7 +53,7 @@ Energy and chemical plant owners are to comply to measures stipulated in this <a
 
 You should also read the advisory for a safe and controlled restart of the PCM sector <a href="https://go.gov.sg/CriteriaPCMCompanies" target="_blank">here</a>.
 
-To view the FAQs for a safe and controlled restart of the PCM sector, click <a href="https://go.gov.sg/FAQsforRestartofPCM Sector" target="_blank">here</a>.
+To view the FAQs for a safe and controlled restart of the PCM sector, click <a href="https://go.gov.sg/FAQsforRestartofPCMSector" target="_blank">here</a>.
 
 #### **Retail & F&B**
 
