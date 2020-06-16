@@ -3,7 +3,7 @@ title: Sector Specific Requirements
 permalink: /safemanagement/sector/
 ---
 
-Businesses must adhere to sector-specific requirements as stipulated below, in addition to the <a href="/safemanagement/general/">general guidelines</a>. 
+Businesses must adhere to sector-specific requirements as stipulated below, in addition to the <a href="https://covid.gobusiness.gov.sg/safemanagement/general/" target="_blank">general requirements</a>. 
 
 #### **Accounting Practices**
 
@@ -17,9 +17,9 @@ Arts and culture stakeholders are to comply to measures stipulated in this <a hr
 
 #### **Built Environment**
 
-Enterprises in the construction sector are to comply to measures stipulated in this <a href="https://go.gov.sg/construction" target="_blank">document</a> [last updated on 25 May 20]. You can also refer to the Building and Construction Authority <a href="https://go.gov.sg/bca-advisory-restart-residential-reno-bldg-works" target="_blank">website</a>.
+Enterprises in the construction sector are to comply to measures stipulated in this <a href="https://go.gov.sg/construction" target="_blank">document</a> [last updated on 25 May 20]. You can also refer to the BCA <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">website</a>.
 
-Enterprises undertaking renovation works and building works for residential properties from 2 June 2020 are to comply to measures stipulated in this <a href="https://go.gov.sg/renosmrrequirements" target="_blank">document</a> [last updated on 13 Jun 20]. You can also refer to the Building and Construction Authority <a href="https://go.gov.sg/bca-advisory-restart-residential-reno-bldg-works" target="_blank">website</a>.
+Enterprises undertaking renovation works and building works for residential properties from 2 June 2020 are to comply to measures stipulated in this <a href="https://go.gov.sg/renosmrrequirements" target="_blank">document</a> [last updated on 13 Jun 20]. You can also refer to the BCA <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">website</a>.
 
 #### **Estate Agents and Real Estate Salespersons**
 
@@ -31,7 +31,9 @@ Enterprises in the finance sector are to comply to measures stipulated in this <
 
 #### **Landscape-related Services**
 
-All landscape-related services and nurseries, including non-essential operations, will resume, subject to safe management measures as required by MOM and NParks. 
+In Phase 1, only essential landscape-related operations that have a bearing on public safety and health should be performed. These include preventive tree pruning and landscape works like grass cutting for vector control and prevention of vegetation fires in gardens and parks, and grass verges along the roads. In undertaking grass-cutting works during this period, areas with known dengue clusters should be prioritised.
+
+In Phase Two, all landscape-related services and nurseries will resume, subject to safe management measures as required by MOM and NParks. 
 
 More information for the landscape sector is available <a href="https://go.gov.sg/safe-landscaping" target="_blank">here</a>. For further clarification, email <a href = "mailto: NParks_Industry@nparks.gov.sg">NParks_Industry@nparks.gov.sg</a>.
 
@@ -45,9 +47,13 @@ To view FAQs for a safe and controlled restart of the M&O sector, click <a href=
 
 #### **Process Construction & Maintenance Sector**
 
-Energy and chemical plant owners are to comply to measures stipulated in this <a href="/images/Advisory - PCM Sector (final 1 June 2020).pdf" target="_blank">document</a> [last updated on 1 Jun 20].
+PCM companies are to comply to measures stipulated in this <a href="https://go.gov.sg/PCMAdvisory" target="_blank">document</a> [last updated on 1 Jun 20].
 
-PCM companies are to comply to measures stipulated in this <a href="/images/Criteria - PCM Companies (final 1 June 2020).pdf" target="_blank">document</a> [last updated on 1 Jun 20].
+Energy and chemical plant owners are to comply to measures stipulated in this <a href="https://go.gov.sg/CriteriaECPlantOwners" target="_blank">document</a> [last updated on 1 Jun 20].
+
+You should also read the advisory for a safe and controlled restart of the PCM sector <a href="https://go.gov.sg/CriteriaPCMCompanies" target="_blank">here</a>.
+
+To view the FAQs for a safe and controlled restart of the PCM sector, click <a href="https://go.gov.sg/FAQsforRestartofPCMSector" target="_blank">here</a>.
 
 #### **Retail & F&B**
 
@@ -67,6 +73,12 @@ Under Phase 1, in addition to essential services provided by entities allowed to
 
 Under Phase 2, all animal and veterinary-related services and activities will resume, as long as they comply with safe management measures as required by MOM and the Animal & Veterinary Service, a cluster of NParks. More information is available at <a href="https://go.gov.sg/avs-covid" target="_blank">here</a>.
 
-#### **Water Quality for Swimming Pools and Water Fountains**
+#### **Water Quality for Cooling Towers, Swimming Pools and Water Fountains**
 
-Companies involved in  managing water quality in water features are to comply to measures stipulated in this <a href="https://go.gov.sg/waterquality" target="_blank">document</a> [last updated on 26 Apr 20]. You can also refer to the National Environment Agency <a href = "https://www.nea.gov.sg/docs/default-source/default-document-library/guidelines-for-managing-water-quality-for-cooling-towers-swimming-pool-and-water-fountains-during-the-period-of-heightened-safe-distancing-measures-(revised-on-26-apr-2020).pdf" target="_blank">website</a>.
+Maintenance companies should refer to the following documents on measures relating to the thorough cleaning, disinfection and testing before re-opening/re-starting of cooling towers, swimming pools and water fountains: 
+
+a.	NEA’s <a href="https://go.gov.sg/GuidelinesforManagingWaterQuality" target="_blank">guidelines</a> on procedures of thorough cleaning, disinfection and testing before re-opening/re-starting of cooling towers, swimming pools and water fountains [last updated on 26 Apr 20]
+
+b.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresRestartingCoolingTowers" target="_blank">circular</a> on measures to be taken when re-starting cooling towers [last updated on 18 May 20]
+
+c.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresSwimmingPoolsAndWaterFountains" target="_blank">circular</a> on measures to be taken when re-opening and re-starting of swimming pools and water fountains [last updated on 15 Jun 20]
