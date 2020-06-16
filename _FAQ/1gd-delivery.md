@@ -9,6 +9,3 @@ Port operators and logistics service providers will be allowed to continue to op
 
 #### **2. If the factory is closed, but some of the components are being shipped in, can the company still maintain a minimum number of employees onsite to clear the goods?**
 Yes, the intention is to keep goods flowing in and to keep the port clear.
-
-#### **3. Are movers allowed to continue operations?**
-Third party logistics providers, including companies which provide moving services to households and companies, can continue operations.

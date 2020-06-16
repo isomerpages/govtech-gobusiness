@@ -4,13 +4,6 @@ permalink: /faq/sectorspecific/building
 third_nav_title: For Sector-Specific Queries
 ---
 
-#### **1. My house is currently under renovation and I need a place to stay. Where can I find lodging?**
-You may consider staying at serviced apartments.
-
-#### **2. Are landscaping works considered a permitted service?**
-Landscaping works are not  considered a permitted service unless it is for the purpose of vector control to prevent mosquito breeding.
-
-
 ## **<ins>Restart of the Construction Sector from 2 June</ins>**
 
 #### **1. I had earlier obtained MTI’s approval to perform essential services during the Circuit Breaker period. Do I need to apply to BCA to continue these works from 2 Jun (inclusive) onwards?**

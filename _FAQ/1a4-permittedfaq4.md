@@ -7,7 +7,7 @@ third_nav_title: Resumption of Business Activities (Phases One and Two)
 #### **1. When can religious institutions resume operations?**
 MCCY is engaging the religious organisations and will provide details on the resumption of more religious activities in Phase Two in due course.
 
-#### **2. Are entertainment venues (eg. public entertainment venues, cinemas, theatres and attractions) allowed to resume operations from 19 June onwards?**
+#### **2. Are entertainment venues (e.g. public entertainment venues, cinemas, theatres and attractions) allowed to resume operations from 19 June onwards?**
 No, these venues will resume operations progressively, later in Phase Two. These venues and activities typically involve large numbers of people interacting with one another, often in enclosed spaces, and for prolonged periods of time, with the potential to spawn large clusters of infected persons.  The relevant agencies will be engaging the operators of these venues on the safe management measures required to manage the risks involved, and will advise them on the approval processes and timelines for the resumption of their operations. 
 
 Operators may wish to refer to sector-specific updates on this website, or visit the following agencies’ website for the latest updates: 
@@ -27,3 +27,6 @@ Some of the personal health and wellness services that may reopen include spas, 
 
 #### **6. Are car showrooms allowed to reopen in Phase Two?**
 Yes. Car showrooms may reopen from 19 June 2020.
+
+#### **7. Country clubs are allowed to open in Phase Two. Are all facilities within the country club allowed to open from 19 June 2020?**
+No. While country clubs are allowed to resume operations from 19 June 2020, facilities such as karaoke rooms, cinema/movie rooms and billiard halls within the club must remain closed.

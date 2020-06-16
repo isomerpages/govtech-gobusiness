@@ -31,4 +31,4 @@ Employers are required to ensure that Safe Management Measures are in place and 
 #### **7. Is my company allowed to arrange physical meetings with external guests?**
 Companies that are allowed to resume operations must continue to minimise internal and external meetings between employees and with suppliers/contractors/clients/guests and conduct them virtually where possible. For meetings that need to be held physically, companies should limit the number of attendees and keep the meeting short. Companies should also ensure that all employees and guests adhere to the necessary Safe Management Measures, including ensuring physical spacing of at least one metre between persons at all times.
 
-Companies should also comply with any other additional sector-specific guidelines that may have been issued by their respective sector agencies.
+Companies should also comply with any other additional sector-specific requirements that may have been issued by their respective sector agencies.
