@@ -23,7 +23,7 @@ Enterprises undertaking renovation works and building works for residential prop
 
 #### **Estate Agents and Real Estate Salespersons**
 
-Estate agents and real estate salespersons are to comply to measures stipulated in this <a href="https://go.gov.sg/cea" target="_blank">document</a> [last updated on 26 May 20] under Phase 1. You can also refer to  the Estate Agencies <a href = "https://www.cea.gov.sg/docs/default-source/module/pressRelease/2df90c4e-89ff-4789-a95b-e84567c8da13.pdf" target="_blank">website</a>.
+Estate agents and real estate salespersons are to comply to measures stipulated in this <a href="https://go.gov.sg/cea" target="_blank">document</a> [last updated on 26 May 20] under Phase 1 and measures stipulated in this <a href="https://go.gov.sg/cea2" target="_blank">document</a> [last updated on 16 Jun 20] under Phase 2. You can also refer to Council for Estate Agencies <a href = "https://www.cea.gov.sg/news-publications/press-releases/covid-19-cea-s-measures-and-guidance" target="_blank">website</a>.
 
 #### **Finance**
 
@@ -65,7 +65,9 @@ You can also refer to the Enterprise Singapore <a href = "https://www.enterprise
 
 Under Phase 2,
 - F&B establishments are to comply to measures stipulated in this <a href="https://go.gov.sg/fbestablishments2" target="_blank">document</a> [last updated on 16 Jun 20].
+- To view the inforgraphic on Safe Management Measures at F&B Establishments [last updated on 16 Jun 20], click <a href="https://go.gov.sg/smrfnb" target="_blank">here</a>.
 - Retail establishments and lifestyle-related services are to comply to measures stipulated in this <a href="https://go.gov.sg/retailsmrrequirements2" target="_blank">document</a> [last updated on 16 Jun 20].
+- To view the infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 16 Jun 20], click <a href="https://go.gov.sg/smrretail" target="_blank">here</a>.
 
 #### **Street-hail and ride-hail service providers**
 
