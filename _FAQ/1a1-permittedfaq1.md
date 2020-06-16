@@ -40,7 +40,7 @@ If your company needs to support a permitted service please submit an applicatio
 
 You will only be permitted to operate when your General Exemption or Time-Limited Exemption is approved.
 
-#### **8. My company falls within the list of permitted services list but I do not wish to resume operations. Is that allowed?**
+#### **8. My company falls within the list of permitted services but I do not wish to resume operations. Is that allowed?**
 Yes.
 
 #### **9. Are there any requirements that I need to fulfil before I can resume operations?**

@@ -35,7 +35,7 @@ Businesses who fail to submit the manpower details within 2 weeks of resuming op
 #### **8. My business is on the permitted services list. Why do I still need to declare my manpower details?**
 The Multi-Ministry TaskForce announced on 19 May 2020 that Circuit Breaker measures will be gradually eased from 2 June 2020, and businesses will be allowed to resume activities in a phased manner.
 
-As more workers go back to work, we need to ensure that businesses resume operations in a safe way. Hence, businesses that are allowed to resume operations from are required to declare their manpower details.
+As more workers go back to work, we need to ensure that businesses resume operations in a safe way. Hence, businesses that are allowed to resume operations are required to declare their manpower details.
 
 Businesses that fail to submit their manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
