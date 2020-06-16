@@ -51,9 +51,9 @@ PCM companies are to comply to measures stipulated in this <a href="https://go.g
 
 Energy and chemical plant owners are to comply to measures stipulated in this <a href="https://go.gov.sg/CriteriaECPlantOwners" target="_blank">document</a> [last updated on 1 Jun 20].
 
-You should also read the advisory for a safe and controlled restart of the PCM sector (here).
+You should also read the advisory for a safe and controlled restart of the PCM sector <a href="https://go.gov.sg/CriteriaPCMCompanies" target="_blank">here</a>.
 
-To view the FAQs for a safe and controlled restart of the PCM sector, click (here).
+To view the FAQs for a safe and controlled restart of the PCM sector, click <a href="https://go.gov.sg/FAQsforRestartofPCM Sector" target="_blank">here</a>.
 
 #### **Retail & F&B**
 
@@ -77,8 +77,8 @@ Under Phase 2, all animal and veterinary-related services and activities will re
 
 Maintenance companies should refer to the following documents on measures relating to the thorough cleaning, disinfection and testing before re-opening/re-starting of cooling towers, swimming pools and water fountains: 
 
-a.	NEA’s (guidelines) on procedures of thorough cleaning, disinfection and testing before re-opening/re-starting of cooling towers, swimming pools and water fountains [last updated on 26 Apr 20]
+a.	NEA’s <a href="https://go.gov.sg/GuidelinesforManagingWaterQuality" target="_blank">guidelines</a> on procedures of thorough cleaning, disinfection and testing before re-opening/re-starting of cooling towers, swimming pools and water fountains [last updated on 26 Apr 20]
 
-b.	NEA’s (circular) on measures to be taken when re-starting cooling towers [last updated on 18 May 20]
+b.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresRestartingCoolingTowers" target="_blank">circular</a> on measures to be taken when re-starting cooling towers [last updated on 18 May 20]
 
-c.	NEA’s (circular) on measures to be taken when re-opening and re-starting of swimming pools and water fountains [last updated on 15 Jun 20]
+c.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresSwimmingPoolsAndWaterFountains" target="_blank">circular</a> on measures to be taken when re-opening and re-starting of swimming pools and water fountains [last updated on 15 Jun 20]
