@@ -22,23 +22,18 @@ Since 12 May 2020, all businesses allowed to operate during the Circuit Breaker 
 
 Law practices resuming business activities at your office premises from 2 June 2020, must comply with the requirements for Safe Management Measures before resuming workplace activities, in order to provide a safe working environment for your employees and prevent transmission at the workplace. These measures must be implemented in a sustainable manner for as long as necessary. Strict checks will be conducted, and law practices that do not provide a safe workplace for your employees will have your operations suspended until you are able to do so. 
 
-Law practices may refer to the guidelines on implementation of Safe Management Measures on <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures" target="_blank">“Requirements for Safe Management Measures at the workplace after Circuit Breaker period”</a>.
+Law practices may refer to the requirements on implementation of Safe Management Measures on <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures" target="_blank">“Requirements for Safe Management Measures at the workplace after Circuit Breaker period”</a>.
 
-#### **5. Is the resumption of business activities for legal services limited to only the four categories of legal activities identified as essential services in the Ministry of Law’s advisory of 5 April 2020 or are other legal services now permitted as well?**
-The resumption of business activities for legal services extends beyond the four essential legal services outlined during the Circuit Breaker period. Law practices that did not previously apply for General or Time-Limited Exemptions will be able to resume business activities from 2 June 2020, subject to implementation of Safe Management Measures.
-
-Law practices may refer to the guidelines on implementation of Safe Management Measures on <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures" target="_blank">“Requirements for Safe Management Measures at the workplace after Circuit Breaker period”</a>.
-
-#### **6. Is there a minimum percentage or number of employees that law practices must place on work from home arrangements with the resumption of business activities from 2 June 2020?**
+#### **5. Is there a minimum percentage or number of employees that law practices must place on work from home arrangements with the resumption of business activities from 2 June 2020?**
 The reduction of physical interaction, together with other Safe Management Measures at the workplace, is necessary to ensure a safe working environment and minimise the spread of COVID-19. Employers should adopt telecommuting to the maximum as far as reasonably practicable. The proportion of employees that are able to telecommute will vary in different workplaces and sectors due to differing operational requirements. The onus is on the employers to show that they have made reasonable effort to facilitate working from home.
 
-#### **7. Are my employees and visitors required to wear a mask at all times at the workplace?**
+#### **6. Are my employees and visitors required to wear a mask at all times at the workplace?**
 For general office workplaces, employers must ensure that employees and visitors wear a mask at all times at the workplace, except during activities that require masks to be removed such as when eating or drinking. Supplementary personal protective equipment is encouraged, whenever relevant. This is in addition to the other Safe Management Measures that must be in place at the workplace.
 
 When attending remote court hearings via video or teleconferencing, lawyers may remove their masks to speak, while observing other Safe Management Measures.
 
-#### **8. Pertaining to service of court process and documents, will the court process servers of law practices be able to carry out services of process on parties including individuals at their residences or offices?**
+#### **7. Pertaining to service of court process and documents, will the court process servers of law practices be able to carry out services of process on parties including individuals at their residences or offices?**
 The service of court processes and documents is permissible, including delivery by hand where necessary, as process servers will be providing an essential service of the law practice, which is a permitted business. The process servers should observe safe distancing and take all other necessary precautions required under the Control Order at all times.
 
-#### **9. Will clients of law practices be able to be physically present at the offices of law practices for the purpose of meetings, notarization, signing of wills, contracts, mortgages, instruments of conveyancing and other legal documents?**
+#### **8. Will clients of law practices be able to be physically present at the offices of law practices for the purpose of meetings, notarization, signing of wills, contracts, mortgages, instruments of conveyancing and other legal documents?**
 Physical attendance at the office by clients of law practices is permitted only where their physical presence is necessary, such as to complete a contract or transaction that is legally required to be completed in person. Employees of the law practice and clients are required to observe Safe Management Measures requirements at all times.

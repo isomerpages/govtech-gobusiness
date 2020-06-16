@@ -68,7 +68,7 @@ Freelancers have to be registered with ACRA, unless the business is carried out 
 If the business is carried out in your full name as reflected in your NRIC, you can include a description of your business and click <a href="https://www.bizfile.gov.sg/">here</a> to search for the SSIC code which corresponds to the nature of your business activity. Once you have retrieved your SSIC code, please check it against the list of permitted services that can resume operations <a href="/permittedlist">here</a>.
 
 #### **15. I am running a society/organisation which does not require me to be registered with ACRA. How can I check whether I can resume activities?**
-All membership organisations which are registered with the Registry of Societies are allowed to resume their onsite activities, subject to the implementation of safe management measures and any sector specific guidelines relevant to their activities, before resuming operations. Please refer to these guidelines <a href="/safemanagement/general/">here</a>.
+All membership organisations which are registered with the Registry of Societies are allowed to resume their onsite activities, subject to the implementation of safe management measures and any sector specific requirements relevant to their activities, before resuming operations. Please refer to these requirements <a href="/safemanagement/general/">here</a>.
 
 #### **16. What is the penalty if my company is found operating when we are not allowed to do so?**
 Under the COVID-19 (Temporary Measures) Act, first-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
@@ -83,3 +83,8 @@ If your company’s business activities do not fall within the permitted service
 
 #### **19. I checked my exemption/resumption status and there is now a “period” specified next to my permitted “status”. What does this mean? Can I continue operating?**
 If your exemption/resumption status is reflected as “permitted from (date)”, you will only be allowed to resume operations from the specified date. If your exemption/resumption status is reflected as just “permitted”, you are already allowed to continue your operations.
+
+#### **20. When will events be allowed to resume?**
+Activities or settings where large numbers of people are likely to come into close contact, often in enclosed spaces and for prolonged periods of time, are still not allowed to resume in Phase Two as these settings can spawn large clusters of infections, given the number of close contacts between individuals during the course of such activities.
+
+STB has begun to engage relevant businesses and organisations on possible safe management measures to be taken for these activities or settings. STB will advise businesses and organisations on the approval processes and timelines for resumption at a later date.

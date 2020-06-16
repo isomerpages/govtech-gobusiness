@@ -18,7 +18,7 @@ If the status of your general exemption or business resumption is not reflected 
 You may declare your manpower details <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a>.
 
 #### **5. How long do I need to keep declaring my manpower details? Do I need to update this information on a daily basis whenever there are changes to my manpower count?**
-You will be expected to  ensure that your manpower details are updated for the entire duration of the phased resumption of businesses starting from 2 Jun 2020.  Any significant changes to the manpower count which you had declared earlier should be updated as soon as possible.
+You will be expected to  ensure that your manpower details are updated for the entire duration of the phased resumption of businesses starting.  Any significant changes to the manpower count which you had declared earlier should be updated as soon as possible.
 
 #### **6. I run an Employment Agency. Would it be my responsibility to submit/declare my manpower details or should companies that hire these contract employees be responsible?**
 Employment agencies should submit/declare the manpower details for all employees under their direct employment, regardless of where they are deployed.
