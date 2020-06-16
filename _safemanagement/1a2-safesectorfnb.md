@@ -51,7 +51,7 @@ PCM companies are to comply to measures stipulated in this <a href="https://go.g
 
 PCM companies should also comply to the COVID-Safe restart criteria stipulated <a href="https://go.gov.sg/CriteriaPCMCompanies" target="_blank">here</a> [last updated on 1 Jun 20].
 
-Energy and chemical plant owners are to comply to measures stipulated in this <a href="https://go.gov.sg/CriteriaECPlantOwners" target="_blank">document</a> [last updated on 1 Jun 20].
+Energy and chemical plant owners are to comply to the COVID-Safe restart criteria stipulated in this <a href="https://go.gov.sg/CriteriaECPlantOwners" target="_blank">document</a> [last updated on 1 Jun 20].
 
 To view the FAQs for a safe and controlled restart of the PCM sector, click <a href="https://go.gov.sg/FAQsforRestartofPCMSector" target="_blank">here</a>.
 
