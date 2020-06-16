@@ -8,7 +8,7 @@ third_nav_title: Resumption of Business Activities (Phases One and Two)
 MCCY is engaging the religious organisations and will provide details on the resumption of more religious activities in Phase Two in due course.
 
 #### **2. Are entertainment venues (eg. public entertainment venues, cinemas, theatres and attractions) allowed to resume operations from 19 June onwards?**
-No, these venues will resume operations progressively, later in Phase 2. These venues and activities typically involve large numbers of people interacting with one another, often in enclosed spaces, and for prolonged periods of time, with the potential to spawn large clusters of infected persons.  The relevant agencies will be engaging the operators of these venues on the safe management measures required to manage the risks involved, and will advise them on the approval processes and timelines for the resumption of their operations. 
+No, these venues will resume operations progressively, later in Phase Two. These venues and activities typically involve large numbers of people interacting with one another, often in enclosed spaces, and for prolonged periods of time, with the potential to spawn large clusters of infected persons.  The relevant agencies will be engaging the operators of these venues on the safe management measures required to manage the risks involved, and will advise them on the approval processes and timelines for the resumption of their operations. 
 
 Operators may wish to refer to sector-specific updates on this website, or visit the following agencies’ website for the latest updates: 
 - <a href="https://www.police.gov.sg/e-Services/Police-Licences/Public-Entertainment-Licence" target="_blank">Public entertainment venues</a>
@@ -26,4 +26,4 @@ Yes. There should be a one metre distance between distinct groups of not more th
 Some of the personal health and wellness services that may reopen include spas, massage centres, fitness studios, gyms and sports facilities.
 
 #### **6. Are car showrooms allowed to reopen in Phase Two?**
-Yes. Car showrooms may re-open from 19 June 2020.
+Yes. Car showrooms may reopen from 19 June 2020.

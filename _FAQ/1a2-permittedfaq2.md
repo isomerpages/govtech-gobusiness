@@ -5,7 +5,7 @@ third_nav_title: Resumption of Business Activities (Phases One and Two)
 ---
 
 #### **1. Are Safe Management Measures mandatory and who should implement them?**
-Yes, it is mandatory for all businesses to put in place Safe Management Measures to provide a safe working environment for employees and prevent COVID-19 transmission at the workplace before they resume onsite operations on 2 June. Businesses must comply with the requirements for Safe Management Measures seen <a href="https://covid.gobusiness.gov.sg/safemanagement/general" target="_blank">here</a> and any sector-specific requirements which apply to them.
+Yes, it is mandatory for all businesses to put in place Safe Management Measures to provide a safe working environment for employees and prevent COVID-19 transmission at the workplace before they resume onsite operations. Businesses must comply with the requirements for Safe Management Measures seen <a href="https://covid.gobusiness.gov.sg/safemanagement/general" target="_blank">here</a> and any sector-specific requirements which apply to them.
 
 #### **2. How do I start preparing my company for the Safe Management requirements?**
 The Ministry of Manpower has issued new requirements for employers on the Safe Management measures required of employers allowed to resume their operations after the enhanced circuit breaker period. Details on the Safe Management measures can be found at <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures">https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures</a>.
@@ -29,6 +29,6 @@ Employees should avoid socialising with colleagues within (e.g. in canteen or pa
 Employers are required to ensure that Safe Management Measures are in place and communicated to employees prior to resuming work. Employers should have a plan to communicate their Safe Management Measures to employees through their internal communications channels such as emails, notices, and signs to remind employees and visitors to observe the measures.
 
 #### **7. Is my company allowed to arrange physical meetings with external guests?**
-Companies that are allowed to resume operations must continue to minimise internal and external meetings between employees and with suppliers/contractors/clients/guests and conduct them virtually where possible. For meetings that need to be held physically, companies should limit the number of attendees and keep the meeting short. Companies should also ensure that all employees and guests adhere to the necessary Safe Management Measures, including ensuring physical spacing of at least 1 metre between persons at all times.
+Companies that are allowed to resume operations must continue to minimise internal and external meetings between employees and with suppliers/contractors/clients/guests and conduct them virtually where possible. For meetings that need to be held physically, companies should limit the number of attendees and keep the meeting short. Companies should also ensure that all employees and guests adhere to the necessary Safe Management Measures, including ensuring physical spacing of at least one metre between persons at all times.
 
 Companies should also comply with any other additional sector-specific guidelines that may have been issued by their respective sector agencies.

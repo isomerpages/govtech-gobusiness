@@ -1,5 +1,5 @@
 ---
-title: Resumption of Business Activities (Phases One and Two)
+title: Resumption of operations
 permalink: /faq/resumption/resumption/
 third_nav_title: Resumption of Business Activities (Phases One and Two)
 ---
@@ -32,7 +32,7 @@ Once you have retrieved your SSIC code for your primary business activity, pleas
 Yes. All companies that received an exemption to operate will be able to continue operations.
 
 #### **6. I had previously received an email notification that my exemption had been rescinded, but my company falls under the list of permitted services. Will I be able to resume operations?**
-Yes. If your company’s activities are listed in the list of permitted services, you will be allowed to resume operations. If your company has other business functions or services that do not belong in the list of permitted services, these other business functions or services should remain suspended until further notice.
+Yes. If your company’s activities are listed in the list of permitted services, you will be allowed to resume operations. If your company has other business functions or services that do not belong to the list of permitted services, these other business functions or services should remain suspended until further notice.
 
 #### **7. My company’s activities do not belong to the list of permitted services, but we support a permitted service that is listed. What should I do? Can I appeal?**
 If your company needs to support a permitted service please submit an application for a General Exemption or a Time-Limited Exemption through 
@@ -40,7 +40,7 @@ If your company needs to support a permitted service please submit an applicatio
 
 You will only be permitted to operate when your General Exemption or Time-Limited Exemption is approved.
 
-#### **8. My company is in the permitted services list but I do not wish to resume operations. Is that allowed?**
+#### **8. My company falls within the list of permitted services list but I do not wish to resume operations. Is that allowed?**
 Yes.
 
 #### **9. Are there any requirements that I need to fulfil before I can resume operations?**
@@ -54,10 +54,10 @@ Businesses which receive a General Exemption approval to resume operations must 
 If your company has other business functions or services that are not in the list of permitted services, these other business functions or services should remain suspended until further notice.
 
 #### **11. I operate multiple business activities and have more than one Singapore Standard Industrial Classification (SSIC) code tagged to my business. Which code should I refer to?**
-You should refer to the SSIC code for your primary business activity and check it against the list of permitted services that can resume operations on 2 June <a href="/permittedlist">here</a>.
+You should refer to the SSIC code for your primary business activity and check it against the list of permitted services that can resume operations <a href="/permittedlist">here</a>.
 
 #### **12. I have more than one Singapore Standard Industrial Classification (SSIC) code tagged to my business. If my primary activity does not fall under the list of permitted services, but my secondary activity falls under the list of permitted services, will I still be allowed to resume operations?**
-No. You may resume operations only if the SSIC code for your primary business activity falls within the list of permitted services that can resume operations on 2 June. However, if you intend to only carry out the secondary activity (and not the primary activity) which falls within the list of permitted services, you may submit an application for General Exemption <a href="https://go.gov.sg/generalexemption">here</a>.
+No. You may resume operations only if the SSIC code for your primary business activity falls within the list of permitted services that can resume operations. However, if you intend to only carry out the secondary activity (and not the primary activity) which falls within the list of permitted services, you may submit an application for General Exemption <a href="https://go.gov.sg/generalexemption">here</a>.
 
 #### **13. My company is carrying out the activity as listed in the list of permitted services. However, my SSIC code does not fall under the listed code on the website. Will I still be allowed to resume operations?**
 You will need to submit an application for General Exemption <a href="https://go.gov.sg/generalexemption">here</a> and receive approval from MTI before resuming operations.
@@ -65,15 +65,15 @@ You will need to submit an application for General Exemption <a href="https://go
 #### **14. I am a freelancer and do not have an Singapore Standard Industrial Classification (SSIC) code. How do I know if I can resume service?**
 Freelancers have to be registered with ACRA, unless the business is carried out in your full name as reflected in your NRIC. 
 
-If the business is carried out in your full name as reflected in your NRIC, you can include a description of your business and click <a href="https://www.bizfile.gov.sg/">here</a> to search for the SSIC code which corresponds to the nature of your business activity. Once you have retrieved your SSIC code, please check it against the list of permitted services that can resume operations on 2 June <a href="/permittedlist">here</a>.
+If the business is carried out in your full name as reflected in your NRIC, you can include a description of your business and click <a href="https://www.bizfile.gov.sg/">here</a> to search for the SSIC code which corresponds to the nature of your business activity. Once you have retrieved your SSIC code, please check it against the list of permitted services that can resume operations <a href="/permittedlist">here</a>.
 
 #### **15. I am running a society/organisation which does not require me to be registered with ACRA. How can I check whether I can resume activities?**
-Please approach the relevant authority which regulates the activities in your sector, e.g. MCCY for religious organisations.
+All membership organisations which are registered with the Registry of Societies are allowed to resume their onsite activities, subject to the implementation of safe management measures and any sector specific guidelines relevant to their activities, before resuming operations. Please refer to these guidelines <a href="/safemanagement/general/">here</a>.
 
 #### **16. What is the penalty if my company is found operating when we are not allowed to do so?**
 Under the COVID-19 (Temporary Measures) Act, first-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
-#### **17. I have checked the list of permitted services against my primary SSIC code and I am sure I am allowed to resume operations from 2 Jun 2020. Why is my business resumption status not reflected as “permitted”?**
+#### **17. I have checked the list of permitted services against my primary SSIC code and I am sure I am allowed to resume operations. Why is my business resumption status not reflected as “permitted”?**
 If your primary SSIC code falls into the list of permitted services and you have not changed your primary SSIC code recently, please write to <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a> for assistance.
 
 #### **18. What if my business activities do not fall under what is stated as permitted services for the SSIC code of my company’s primary business activity?**

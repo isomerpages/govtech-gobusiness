@@ -17,7 +17,7 @@ Strict checks will be conducted, and businesses that do not provide a safe workp
 No. Staff who are returning to their workplaces are not required to carry documentation.
 
 #### **3. Are companies which are resuming operations required to ensure that their employees work from home?**
-The default mode of working for all companies (including for companies resuming operations in Phases 1 and 2) should be telecommuting. This is to reduce physical interactions in the workplace in order to minimise spread of COVID-19. Please refer to para 4(a) of MOH’s <a href="https://www.moh.gov.sg/news-highlights/details/end-of-circuit-breaker-phased-approach-to-resuming-activities-safely" target="_blank">press release</a> for more details. 
+The default mode of working for all companies (including for companies resuming operations in Phases One and Two) should be telecommuting. This is to reduce physical interactions in the workplace in order to minimise spread of COVID-19. Please refer to para 4(a) of MOH’s <a href="https://www.moh.gov.sg/news-highlights/details/end-of-circuit-breaker-phased-approach-to-resuming-activities-safely" target="_blank">press release</a> for more details. 
 
 To this end, all employers should provide the facilities necessary and have employees work from home, as far as reasonably practicable. All employees who have been working from home so far should continue to do so, even as operations in their companies resume. Employees whose roles require them to work on-site (e.g. employees cooking or providing dine-in services at F&B outlets) may do so.
 
@@ -25,7 +25,7 @@ MOM’s Safe Management Measures requirements at the workplace, which include en
 
 Checks will be conducted. Businesses whose employers do not provide a safe workplace, ensure employees work from home where possible, or whose workers do not adhere to safe management measures, may have to close their workplaces.
 
-#### **4. I have been told to return to the office from 2 June despite being able to perform my work from home during the Circuit Breaker period. What do I do?**
+#### **4. I have been told to return to the office despite being able to perform my work from home during the Circuit Breaker period. What do I do?**
 All employers must put in place Safe Management Measures and should communicate the measures clearly to all employees before resuming business. The measures include ensuring all employees continue to work from home as much as possible, so as to reduce physical interactions at workplaces.
 
 It is the responsibility of employers to show that they have made a reasonable effort to facilitate working from home for all days and at all times, including reviewing and transforming business processes through technology to support remote working (e.g. e-payment, e-invoicing, e-signatures).
@@ -38,6 +38,6 @@ Breaches or poor practices of Safe Management Measures can be reported via **<a 
 Employers are permitted to allow employees to go to the office if their job functions cannot be performed remotely or where demonstrably necessary (e.g. to operate a system or equipment that cannot be accessed from home, or to attend physical meetings that cannot be avoided).
 
 #### **6. What should I take note of if I am really unable to telecommute and need to be in the office?**
-EYou will need to adhere to Safe Management Measures while working in the office. These include undergoing temperature screenings and declarations, wearing masks at all times, practising good personal hygiene and keeping at least one metre distance from others. If you feel unwell, you must not go to work.
+You will need to adhere to Safe Management Measures while working in the office. These include undergoing temperature screenings and declarations, wearing masks at all times, practising good personal hygiene and keeping at least one metre distance from others. If you feel unwell, you must not go to work.
 
 Functions that can be done through email, telephone or videoconferencing should be conducted remotely. Employers should review work processes, provide the necessary IT equipment to employees and adopt solutions that enable remote working and online collaboration.
