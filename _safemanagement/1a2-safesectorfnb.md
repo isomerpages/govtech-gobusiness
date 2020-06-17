@@ -23,7 +23,7 @@ Enterprises undertaking renovation works and building works for residential prop
 
 #### **Dental Sector**
 
-Dental clinics and dental practitioners are to comply to measures stipulated in this <a href="https://go.gov.sg/dentalcircular" target="_blank">document</a> [last updated on 21 May 20] under Phase 1 and measures stipulated in this (document) [last updated on 17 Jun 20] under Phase 2.
+Dental clinics and dental practitioners are to comply to measures stipulated in this <a href="https://go.gov.sg/dentalcircular" target="_blank">document</a> [last updated on 21 May 20] under Phase 1 and measures stipulated in this <a href="https://go.gov.sg/dentalcircular2" target="_blank">document</a> [last updated on 17 Jun 20] under Phase 2.
 
 #### **Estate Agents and Real Estate Salespersons**
 
