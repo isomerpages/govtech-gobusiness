@@ -31,10 +31,10 @@ All businesses and services that are in operation must institute SafeEntry for t
     f.	[Updated] Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres<br>
     g.	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)<br>
 - [New] Tuition and enrichment, training centres, and other training/ class venues 
-- [New] Sports and recreation
+- [New] Sports and recreation<br>
     a.	Sports and fitness centres, including gyms, studios<br>
     b.	Country and recreation clubs, and registered premises of other member clubs/ societies<br>
-- [New] Cultural and entertainment venues
+- [New] Cultural and entertainment venues<br>
     a.	Libraries<br>
     b.	Museums, exhibitions, and showrooms<br>
     c.	Cinemas, attractions, and other entertainment venues<br>
