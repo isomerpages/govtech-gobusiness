@@ -13,7 +13,7 @@ Accounting practices are to comply to measures stipulated in this <a href="https
 
 Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nacsmrrequirements" target="_blank">document</a> [last updated on 26 May 20] in Phase 1. You can also refer to the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Operationalisation-of-Circuit-Breaker-Safe-Distancing-Measures.html" target="_blank">website</a>.
 
-Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 21 May 20] in Phase 1. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
+Museum are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 21 May 20] in Phase 1. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
 
 #### **Built Environment**
 
@@ -27,11 +27,11 @@ Dental clinics and dental practitioners are to comply to measures stipulated in 
 
 #### **Estate Agents and Real Estate Salespersons**
 
-Estate agents and real estate salespersons are to comply to measures stipulated in this <a href="https://go.gov.sg/cea" target="_blank">document</a> [last updated on 26 May 20] under Phase 1 and measures stipulated in this <a href="https://go.gov.sg/cea2" target="_blank">document</a> [last updated on 16 Jun 20] under Phase 2. You can also refer to Council for Estate Agencies <a href = "https://www.cea.gov.sg/news-publications/press-releases/covid-19-cea-s-measures-and-guidance" target="_blank">website</a>.
+Estate agents and real estate salespersons are to comply to measures stipulated in this <a href="https://go.gov.sg/cea" target="_blank">document</a> [last updated on 26 May 20] under Phase 1 and measures stipulated in this <a href="https://go.gov.sg/cea2" target="_blank">document</a> [last updated on 17 Jun 20] under Phase 2. You can also refer to Council for Estate Agencies <a href = "https://www.cea.gov.sg/news-publications/press-releases/covid-19-cea-s-measures-and-guidance" target="_blank">website</a>.
 
 #### **Finance**
 
-Enterprises in the finance sector are to comply to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements" target="_blank">document</a> [last updated on 19 May 20]. You can also refer to the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector" target="_blank">website</a>.
+Enterprises in the finance sector are to comply to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements" target="_blank">document</a> [last updated on 19 May 20] under Phase 1 and to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements2" target="_blank">document</a> [last updated on 15 Jun 20] under Phase 2. You can also refer to the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector" target="_blank">website</a>.
 
 #### **Landscape-related Services**
 
@@ -78,10 +78,10 @@ Under Phase 1,
 You can also refer to the Enterprise Singapore <a href = "https://www.enterprisesg.gov.sg/covid-19/safe-distance" target="_blank">website</a> for these requirements and other information.
 
 Under Phase 2,
-- F&B establishments are to comply to measures stipulated in this <a href="https://go.gov.sg/fbestablishments2" target="_blank">document</a> [last updated on 16 Jun 20].
-- To view the infographic on Safe Management Measures at F&B Establishments [last updated on 16 Jun 20], click <a href="https://go.gov.sg/smrfnb" target="_blank">here</a>.
-- Retail establishments and lifestyle-related services are to comply to measures stipulated in this <a href="https://go.gov.sg/retailsmrrequirements2" target="_blank">document</a> [last updated on 16 Jun 20].
-- To view the infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 16 Jun 20], click <a href="https://go.gov.sg/smrretail" target="_blank">here</a>.
+- F&B establishments are to comply to measures stipulated in this <a href="https://go.gov.sg/fbestablishments2" target="_blank">document</a> [last updated on 16 Jun 20].<br>
+[![F&B](/images/gov-assist/smrfnb.jpg "F&B establishments")]
+- Retail establishments and lifestyle-related services are to comply to measures stipulated in this <a href="https://go.gov.sg/retailsmrrequirements2" target="_blank">document</a> [last updated on 16 Jun 20].<br>
+[![Retail](/images/gov-assist/smrretail.jpg "Retail")]
 
 #### **Street-hail and ride-hail service providers**
 
