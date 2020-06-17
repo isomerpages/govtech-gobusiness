@@ -3,9 +3,9 @@ title: List of Permitted Services
 permalink: /permittedlist/
 ---
 
-The Government will allow the gradual resumption of businesses, in phases. Phase 1 commenced on 2 June 2020, and Phase 2 will commence on 19 June 2020. . 
+The Government will allow the gradual resumption of businesses, in phases. Phase 1 commenced on 2 June 2020, and Phase 2 will commence on 19 June 2020.
 
-All firms who are in operations are to comply with the (1) safe management requirements listed <a href="https://covid.gobusiness.gov.sg/safemanagement/general/">here</a> and (2) sector specific requirements listed <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/">here</a>.
+All firms who are in operation are to comply with the (1) safe management requirements listed <a href="https://covid.gobusiness.gov.sg/safemanagement/general/">here</a> and (2) sector specific requirements listed <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/">here</a>.
 
 The current list of permitted services and the corresponding Singapore Standard Industrial Classification (SSIC) codes that are allowed to operate can be found <a href="https://go.gov.sg/permittedserviceslist" target="_blank">here</a>.
 
