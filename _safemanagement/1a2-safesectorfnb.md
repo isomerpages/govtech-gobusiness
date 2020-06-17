@@ -79,9 +79,9 @@ You can also refer to the Enterprise Singapore <a href = "https://www.enterprise
 
 Under Phase 2,
 - F&B establishments are to comply to measures stipulated in this <a href="https://go.gov.sg/fbestablishments2" target="_blank">document</a> [last updated on 16 Jun 20].<br>
-[!(/images/smrfnb.jpg "F&B establishments")]
+![F&B](/images/smrfnb.jpg "F&B establishments")
 - Retail establishments and lifestyle-related services are to comply to measures stipulated in this <a href="https://go.gov.sg/retailsmrrequirements2" target="_blank">document</a> [last updated on 16 Jun 20].<br>
-[!(/images/smrretail.jpg "Retail")]
+![Retail](/images/smrretail.jpg "Retail")
 
 #### **Street-hail and ride-hail service providers**
 
