@@ -31,7 +31,7 @@ Estate agents and real estate salespersons are to comply to measures stipulated 
 
 #### **Finance**
 
-Enterprises in the finance sector are to comply to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements" target="_blank">document</a> [last updated on 19 May 20] under Phase 1 and to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements2" target="_blank">document</a> [last updated on 15 Jun 20] under Phase 2. You can also refer to the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector" target="_blank">website</a>.
+Enterprises in the finance sector are to comply to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements" target="_blank">document</a> [last updated on 19 May 20] under Phase 1 and to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements2" target="_blank">document</a> [last updated on 15 Jun 20] under Phase 2. You can also refer to the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news" target="_blank">website</a>.
 
 #### **Landscape-related Services**
 
