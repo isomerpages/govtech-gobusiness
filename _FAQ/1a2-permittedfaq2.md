@@ -32,3 +32,13 @@ Employers are required to ensure that Safe Management Measures are in place and 
 Companies that are allowed to resume operations must continue to minimise internal and external meetings between employees and with suppliers/contractors/clients/guests and conduct them virtually where possible. For meetings that need to be held physically, companies should limit the number of attendees and keep the meeting short. Companies should also ensure that all employees and guests adhere to the necessary Safe Management Measures, including ensuring physical spacing of at least one metre between persons at all times.
 
 Companies should also comply with any other additional sector-specific requirements that may have been issued by their respective sector agencies.
+
+#### **8. When will events be allowed to resume?**
+Activities or settings where large numbers of people are likely to come into close contact, often in enclosed spaces and for prolonged periods of time, are still not allowed to resume in Phase Two as these settings can spawn large clusters of infections, given the number of close contacts between individuals during the course of such activities.
+
+STB has begun to engage relevant businesses and organisations on possible safe management measures to be taken for these activities or settings. STB will advise businesses and organisations on the approval processes and timelines for resumption at a later date.
+
+#### **9. What are some examples of home-based services which can resume in Phase Two? Do they include home-based cleaners or home-based salons?**
+Under Phase Two, home-based services, including those involving visitors to the home, will be allowed to resume, as long as they comply with prevailing rules and safe management measures, including the cap of give visitors allowed in the home at any one time. Service providers are required to wear masks and maintain a one metre distancing.
+
+Home-based services that involve customers entering one's home for a prolonged period e.g. private dining and hairdressing services must deploy SafeEntry.
