@@ -22,22 +22,22 @@ All businesses and services that are in operation must institute SafeEntry for t
 - Funeral parlours 
 - Hotels
 - Banks and financial institutions
-- Retail, personal and food & beverage (F&B) services
-    a.	Malls 
-    b.	Supermarkets
-    c.	Selected popular wet markets (Geylang Serai Market, Block 104 / 105 Yishun Ring Road (Chong Pang Market), Block 20/21 Marsiling Lane, and Block 505 Jurong West Street 52)
-    d.	[New] F&B outlets for dine-in customers
-    e.	[New] Large retail outlets (> 930 sqm or 10,000 sqft)   
-    f.	[Updated] Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres 
-    g.	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)
+- Retail, personal and food & beverage (F&B) services<br>
+    a.	Malls<br>
+    b.	Supermarkets<br>
+    c.	Selected popular wet markets (Geylang Serai Market, Block 104 / 105 Yishun Ring Road (Chong Pang Market), Block 20/21 Marsiling Lane, and Block 505 Jurong West Street 52)<br>
+    d.	[New] F&B outlets for dine-in customers<br>
+    e.	[New] Large retail outlets (> 930 sqm or 10,000 sqft)<br>
+    f.	[Updated] Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres<br>
+    g.	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)<br>
 - [New] Tuition and enrichment, training centres, and other training/ class venues 
 - [New] Sports and recreation
-    a.	Sports and fitness centres, including gyms, studios
-    b.	Country and recreation clubs, and registered premises of other member clubs/ societies
+    a.	Sports and fitness centres, including gyms, studios<br>
+    b.	Country and recreation clubs, and registered premises of other member clubs/ societies<br>
 - [New] Cultural and entertainment venues
-    a.	Libraries
-    b.	Museums, exhibitions, and showrooms
-    c.	Cinemas, attractions, and other entertainment venues  
+    a.	Libraries<br>
+    b.	Museums, exhibitions, and showrooms<br>
+    c.	Cinemas, attractions, and other entertainment venues<br>
 - [New] Home-based businesses that involve customers entering one’s home for a prolonged period, e.g. private dining, hairdressing services
 - [New] Event venues e.g. function halls/ rooms, event lawns  
 
