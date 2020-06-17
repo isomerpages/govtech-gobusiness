@@ -45,6 +45,12 @@ You should also read the advisory for a safe and controlled restart of the M&O s
 
 To view FAQs for a safe and controlled restart of the M&O sector, click <a href="/images/FAQs for Restart of MO Sector (final 1 June 2020).pdf" target="_blank">here</a>.
 
+#### **Massage Establishments**
+
+Massage establishments (MEs) are to comply to measures stipulated in this <a href="https://go.gov.sg/meadvisory" target="_blank">document</a> [last updated on 17 Jun 20]. MEs are also encouraged to refer to the <a href="https://go.gov.sg/meannex" target="_blank">annex</a> and adopt the additional measures within, where possible [last updated on 17 Jun 20].
+
+You can also refer to the Singapore Police Force <a href = "https://www.police.gov.sg/e-Services/Police-Licences/Massage-Establishment-Licence" target="_blank">website</a>.
+
 #### **Process Construction & Maintenance Sector**
 
 PCM companies are to comply to measures stipulated in this <a href="https://go.gov.sg/PCMAdvisory" target="_blank">document</a> [last updated on 1 Jun 20].
