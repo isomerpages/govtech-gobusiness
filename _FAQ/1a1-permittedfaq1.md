@@ -83,13 +83,3 @@ If your company’s business activities do not fall within the permitted service
 
 #### **19. I checked my exemption/resumption status and there is now a “period” specified next to my permitted “status”. What does this mean? Can I continue operating?**
 If your exemption/resumption status is reflected as “permitted from (date)”, you will only be allowed to resume operations from the specified date. If your exemption/resumption status is reflected as just “permitted”, you are already allowed to continue your operations.
-
-#### **20. When will events be allowed to resume?**
-Activities or settings where large numbers of people are likely to come into close contact, often in enclosed spaces and for prolonged periods of time, are still not allowed to resume in Phase Two as these settings can spawn large clusters of infections, given the number of close contacts between individuals during the course of such activities.
-
-STB has begun to engage relevant businesses and organisations on possible safe management measures to be taken for these activities or settings. STB will advise businesses and organisations on the approval processes and timelines for resumption at a later date.
-
-#### **21. What are some examples of home-based services which can resume in Phase Two? Do they include home-based cleaners or home-based salons?**
-Under Phase Two, home-based services, including those involving visitors to the home, will be allowed to resume, as long as they comply with prevailing rules and safe management measures, including the cap of give visitors allowed in the home at any one time. Service providers are required to wear masks and maintain a one metre distancing.
-
-Home-based services that involve customers entering one's home for a prolonged period e.g. private dining and hairdressing services must deploy SafeEntry.
