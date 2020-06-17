@@ -37,6 +37,6 @@ Activities or settings where large numbers of people are likely to come into clo
 STB has begun to engage relevant businesses and organisations on possible safe management measures to be taken for these activities or settings. STB will advise businesses and organisations on the approval processes and timelines for resumption at a later date.
 
 #### **9. What are some examples of home-based services which can resume in Phase Two? Do they include home-based cleaners or home-based salons?**
-Under Phase Two, home-based services, including those involving visitors to the home, will be allowed to resume, as long as they comply with prevailing rules and safe management measures, including the cap of give visitors allowed in the home at any one time. Service providers are required to wear masks and maintain a one metre distancing.
+Under Phase Two, home-based services, including those involving visitors to the home, will be allowed to resume, as long as they comply with prevailing rules and safe management measures, including the cap of five visitors allowed in the home at any one time. Service providers are required to wear masks and maintain a one metre distancing.
 
 Home-based services that involve customers entering one's home for a prolonged period e.g. private dining and hairdressing services must deploy SafeEntry.
