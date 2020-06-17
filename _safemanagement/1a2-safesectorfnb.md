@@ -21,6 +21,10 @@ Enterprises in the construction sector are to comply to measures stipulated in t
 
 Enterprises undertaking renovation works and building works for residential properties from 2 June 2020 are to comply to measures stipulated in this <a href="https://go.gov.sg/renosmrrequirements" target="_blank">document</a> [last updated on 13 Jun 20]. You can also refer to the BCA <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">website</a>.
 
+#### **Dental Sector**
+
+Dental clinics and dental practitioners are to comply to measures stipulated in this <a href="https://go.gov.sg/dentalcircular" target="_blank">document</a> [last updated on 21 May 20] under Phase 1 and measures stipulated in this (document) [last updated on 17 Jun 20] under Phase 2.
+
 #### **Estate Agents and Real Estate Salespersons**
 
 Estate agents and real estate salespersons are to comply to measures stipulated in this <a href="https://go.gov.sg/cea" target="_blank">document</a> [last updated on 26 May 20] under Phase 1 and measures stipulated in this <a href="https://go.gov.sg/cea2" target="_blank">document</a> [last updated on 16 Jun 20] under Phase 2. You can also refer to Council for Estate Agencies <a href = "https://www.cea.gov.sg/news-publications/press-releases/covid-19-cea-s-measures-and-guidance" target="_blank">website</a>.
@@ -50,6 +54,10 @@ To view FAQs for a safe and controlled restart of the M&O sector, click <a href=
 Massage establishments (MEs) are to comply to measures stipulated in this <a href="https://go.gov.sg/meadvisory" target="_blank">document</a> [last updated on 17 Jun 20]. MEs are also encouraged to refer to the <a href="https://go.gov.sg/meannex" target="_blank">annex</a> and adopt the additional measures within, where possible [last updated on 17 Jun 20].
 
 You can also refer to the Singapore Police Force <a href = "https://www.police.gov.sg/e-Services/Police-Licences/Massage-Establishment-Licence" target="_blank">website</a>.
+
+#### **Private Tuition and Enrichment**
+
+Private tuition and enrichment providers are to comply to measures stipulated in this <a href="https://go.gov.sg/tuitionadvisory" target="_blank">document</a> [last updated on 17 Jun 20].
 
 #### **Process Construction & Maintenance Sector**
 

@@ -14,24 +14,40 @@ Businesses and building owners who wish to find out more can click <a target="_b
 
 All businesses and services that are in operation must institute SafeEntry for their employees, associates and vendors. Of the businesses/services that are allowed to be in operation, the following list of facilities/places must also deploy the SafeEntry system to log the check-in of customers, clients, students, visitors entering their premises.
 - Workplaces e.g. offices, factories 
-- Schools and educational institutes
+- Schools and educational institute
 - Preschools and student care centres
 - Healthcare facilities e.g. hospitals, clinics, TCM clinics, complementary healthcare facilities 
 - Residential and community-based care facilities e.g. nursing homes, Senior Activity Centres, Senior Care Centres, Day Activity Centres for Persons with Disabilities    
-- Hairdressers / barbers
-- Supermarkets
-- Selected popular wet markets (Geylang Serai Market, Block 104 / 105 Yishun Ring Road (Chong Pang Market), Block 20/21 Marsiling Lane, and Block 505 Jurong West Street 52)
-- Malls
-- Hotels
 - Places of worship 
-- Banks and financial institutions
 - Funeral parlours 
-- Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)
+- Hotels
+- Banks and financial institutions
+- Retail, personal and food & beverage (F&B) services
+    a.	Malls 
+    b.	Supermarkets
+    c.	Selected popular wet markets (Geylang Serai Market, Block 104 / 105 Yishun Ring Road (Chong Pang Market), Block 20/21 Marsiling Lane, and Block 505 Jurong West Street 52)
+    d.	[New] F&B outlets for dine-in customers
+    e.	[New] Large retail outlets (> 930 sqm or 10,000 sqft)   
+    f.	[Updated] Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres 
+    g.	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)
+- [New] Tuition and enrichment, training centres, and other training/ class venues 
+- [New] Sports and recreation
+    a.	Sports and fitness centres, including gyms, studios
+    b.	Country and recreation clubs, and registered premises of other member clubs/ societies
+- [New] Cultural and entertainment venues
+    a.	Libraries
+    b.	Museums, exhibitions, and showrooms
+    c.	Cinemas, attractions, and other entertainment venues  
+- [New] Home-based businesses that involve customers entering one’s home for a prolonged period, e.g. private dining, hairdressing services
+- [New] Event venues e.g. function halls/ rooms, event lawns  
 
 SafeEntry has been progressively rolled out to taxis since 12 May 2020 to better support contact tracing efforts for street-hail trips. All commuters who get onto the taxi should scan the SafeEntry QR codes deployed in taxis when taking street-hail trips.
 
-Retail outlets where customers are unlikely to be in close proximity for a prolonged period of time, such as pharmacies, convenience stores and heartland provision shops, are encouraged, but not required, to implement SafeEntry for customers. F&B outlets are not required to deploy SafeEntry for customers for now, as they are only open for delivery and/or takeaway.  
-For avoidance of doubt, all premises, including retail and F&B outlets, must still implement SafeEntry for employees, associates and vendors as per all workplaces, and adhere strictly to the other safe management measures, e.g. safe distancing.
+Retail outlets where customers are unlikely to be in close proximity for a prolonged period of time, such as pharmacies, convenience stores and heartland provision shops, are encouraged, but not required, to implement SafeEntry for customers. 
+
+For avoidance of doubt, all premises, including small retail outlets, must still implement SafeEntry for employees, associates and vendors as per all workplaces, and adhere strictly to the other safe management measures, e.g. safe distancing.
+
+*This list will be updated as more activities and services are resumed. 
 
 
 #### **2. TraceTogether**
