@@ -18,12 +18,18 @@ sections:
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
           description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
-        - title: Application for Amendment
-          url: https://go.gov.sg/additionalinfo
-          description: </br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
-        - title: Application for Additional Manpower
-          url: https://go.gov.sg/additionalmanpower
-          description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br>Click Here
+#        - title: Application for Amendment
+#          url: https://go.gov.sg/additionalinfo
+#          description: </br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
+#        - title: Application for Additional Manpower
+#          url: https://go.gov.sg/additionalmanpower
+#          description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br>Click Here
+        - title: Permitted Services
+          url: /permittedlist/
+          description: </br>List of permitted services allowed to resume operations under Phases One and Two.</br></br></br>Click Here
+        - title: Safe Management Requirements
+          url: /safemanagement/general/
+          description: </br>List of measures to ensure safety at the workplace.</br></br>Click Here
 #    - infobar:
 #        title: Status of Application
 #        subtitle: 
