@@ -17,7 +17,7 @@ sections:
           description: </br>For businesses operating/ resuming under Phases One and Two.</br></br>To check your exemption application/ business resumption status; and to submit your manpower details.<br></br>Click Here
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
-          description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
+          description: </br></br>Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
 #        - title: Application for Amendment
 #          url: https://go.gov.sg/additionalinfo
 #          description: </br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
@@ -29,7 +29,7 @@ sections:
           description: </br></br></br>List of permitted services allowed to resume operations under Phases One and Two.</br></br></br></br></br>Click Here
         - title: Safe Management Requirements
           url: /safemanagement/general/
-          description: </br></br></br>List of measures to ensure safety at the workplace.</br></br></br></br>Click Here
+          description: </br></br>List of measures to ensure safety at the workplace.</br></br></br></br></br></br>Click Here
 #    - infobar:
 #        title: Status of Application
 #        subtitle: 
