@@ -58,7 +58,7 @@ In addition to the occupancy limit, malls and standalone stores must also ensure
 #### **12. How can a mall/ standalone store manage the number of shoppers to ensure compliance with the occupancy limit of one person per 10 sqm of Gross Floor Area (GFA)?**
 Malls and standalone stores can consider continuing to reduce the number of entrances and deploy queue management systems or staff to control the number of visitors entering and leaving the premises, to ensure compliance with the allowable visitor capacity. 
 
-The reduction in the number of entrances should not lead to a congregation of visitors outside the mall. Mall must make sure that there is at least one metre spacing between persons standing in queues, including those outside the mall.
+The reduction in the number of entrances should not lead to a congregation of visitors outside the mall. Malls must make sure that there is at least one metre spacing between persons standing in queues, including those outside the mall.
 
 #### **13. Are in-store and mall promotions e.g. sales and special offers, allowed in Phase Two?**
 Retailers should avoid activities that would attract crowds in and outside of the retail establishment (e.g. providing special discounts or offers for reopening) for at least two weeks from Phase Two reopening. This is to prevent crowds and long queues of customers and delivery personnel at the store front.
