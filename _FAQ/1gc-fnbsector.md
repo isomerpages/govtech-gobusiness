@@ -22,7 +22,7 @@ Bars (licensed by SFA under ‘Pubs, Bars, Nightclub, Discos') and entertainment
 #### **4. What are the safe management measures F&B establishments need to implement for dine-in?**
 With effect from 19 June 2020, dine-in for F&B establishments (except those with SFA food shop licences under the Pubs, Bars, Nightclubs and Discos categories) is allowed. Please refer to the <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/advisory-for-phase-2-re-opening-of--food-and-beverage-establishments" target="_blank">advisory for Phase Two Re-opening of Food & Beverage Establishments</a> for details on the applicable safe management measures. 
 
-#### **5. I own an F&B establishment within a mall. Am I required to implement SafeEntry and conduct temperature taking/checks on visible symptoms, since visitors who entered the malls are already required to do so?**
+#### **5. I own a F&B establishment within a mall. Am I required to implement SafeEntry and conduct temperature taking/checks on visible symptoms, since visitors who entered the malls are already required to do so?**
 All F&B establishments with seated diners must implement SafeEntry to facilitate the efficient collection of customer information for contact tracing when needed. 
 
 All F&B establishments with seated diners must also conduct temperature taking of customers and checks on visible symptoms, except if they are located in malls which are already doing so. They should however do so, if they operate outside the mall hours.
