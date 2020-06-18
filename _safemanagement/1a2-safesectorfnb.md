@@ -85,9 +85,9 @@ Under Phase 2,
 - Infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 16 Jun 20]<br>
 ![Retail](/images/smrretail.jpg "Retail")
 
-#### **Street-hail and ride-hail service providers**
+#### **Sports Sector**
 
-Only taxi services and chauffeured private hire car services booked through ride-hail platforms are allowed to operate.
+Enterprises in the sports sector are to comply to measures stipulated in this <a href="https://go.gov.sg/sportsadvisory" target="_blank">document</a> [last updated on 18 Jun 20] under Phase 2.
 
 #### **Veterinary and pet-related services**
 
