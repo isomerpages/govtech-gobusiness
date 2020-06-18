@@ -32,7 +32,7 @@ Tutors/instructors may wear a face shield instead of a mask only when they are t
 
 Tutors teaching in private residences must wear a mask at all times.
 
-#### **5. What support is available for tuition and enrichment centres, which experienced a loss of income due to the earlier closures or prevailing safe management measures? **
+#### **5. What support is available for tuition and enrichment centres, which experienced a loss of income due to the earlier closures or prevailing safe management measures?**
 The Government has announced measures to help affected workers and businesses tide over this period of decreased cashflow. These include:
 
 - A wage offset for businesses of 75% for all local (Singapore Citizen and Permanent Resident) employees up to the first $4,600 of gross monthly wages for (a) April and May 2020; and (b) any further period they are not allowed to resume operations, or August 2020, whichever is earlier
