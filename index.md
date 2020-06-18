@@ -26,7 +26,7 @@ sections:
 #          description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br>Click Here
         - title: Permitted Services
           url: /permittedlist/
-          description: </br></br></br>List of permitted services allowed to resume operations under Phases One and Two.</br></br></br></br></br>Click Here
+          description: </br></br></br>List of permitted services allowed to resume operations under Phases One and Two.</br></br></br></br></br></br>Click Here
         - title: Safe Management Requirements
           url: /safemanagement/general/
           description: </br></br>List of measures to ensure safety at the workplace.</br></br></br></br></br></br>Click Here
@@ -36,28 +36,40 @@ sections:
 #        description: 
 #        button: Check Status of General Exemption Application Here
 #        url: https://go.gov.sg/exemptionstatus
-    - infopic:
-        title: Permitted Services
-        subtitle: 
-        description: List of permitted services allowed to resume operations under Phases One and Two.
-        button: Find Out More
-        url: /permittedlist/
-        image: /images/open.jpg
-        alt: Permitted Services
+#    - infopic:
+#        title: Permitted Services
+#        subtitle: 
+#        description: List of permitted services allowed to resume operations under Phases One and Two.
+#        button: Find Out More
+#        url: /permittedlist/
+#        image: /images/open.jpg
+#        alt: Permitted Services
     - infobar:
         title: Time-Limited Exemption
         subtitle: 
         description: Application for your workplace to be allowed to have temporary operations.<br/>Your application will only take effect on the following day after your submission.<br/>You are allowed to submit applications only twice every week (each week starting from Sunday 12:00am to Saturday 11:59pm)
         button: Click Here to Apply
         url: https://go.gov.sg/exemptionstatus
-    - infopic:
-        title: Safe Management Requirements
+    - infobar:
+        title: Application for Amendment
         subtitle: 
-        description: List of measures to ensure safety at the workplace.
-        button: Find Out More
-        url: /safemanagement/general/
-        image: /images/safetywork.jpg
-        alt: Safe Management Practices
+        description: Amendment for submitted applications under General Exemption.
+        button: Click Here to Apply
+        url: https://go.gov.sg/additionalinfo
+    - infobar:
+        title: Application for Additional Manpower
+        subtitle: 
+        description: If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)
+        button: Click Here to Apply
+        url: https://go.gov.sg/exemptionstatus
+#    - infopic:
+#        title: Safe Management Requirements
+#        subtitle: 
+#        description: List of measures to ensure safety at the workplace.
+#        button: Find Out More
+#        url: /safemanagement/general/
+#        image: /images/safetywork.jpg
+#        alt: Safe Management Practices
     - infopic:
         title: Support Schemes for Businesses
         subtitle: 
