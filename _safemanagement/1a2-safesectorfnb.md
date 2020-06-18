@@ -89,10 +89,6 @@ Under Phase 2,
 
 Enterprises in the sports sector are to comply to measures stipulated in this <a href="https://go.gov.sg/sportsadvisory" target="_blank">document</a> [last updated on 18 Jun 20] under Phase 2.
 
-#### **Street-hail and ride-hail service providers**
-
-Only taxi services and chauffeured private hire car services booked through ride-hail platforms are allowed to operate.
-
 #### **Veterinary and pet-related services**
 
 Under Phase 1, in addition to essential services provided by entities allowed to operate during the Circuit Breaker, basic pet services, i.e. basic pet-grooming (no grooming services for cosmetic purposes), and pet physiotherapy and rehabilitation (with veterinarian’s referral) are allowed to be provided. 
