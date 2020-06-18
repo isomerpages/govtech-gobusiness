@@ -17,7 +17,7 @@ sections:
           description: </br>For businesses operating/ resuming under Phases One and Two.</br></br>To check your exemption application/ business resumption status; and to submit your manpower details.<br></br>Click Here
         - title: General Exemption
           url: https://go.gov.sg/generalexemption
-          description: </br></br>Application for your workplace to be allowed to continue operations during the phased resumption of business operations.</br></br>Click Here
+          description: </br></br>Application for your workplace to be allowed to continue operations during the phased resumption of business operations.</br></br></br></br></br>Click Here
 #        - title: Application for Amendment
 #          url: https://go.gov.sg/additionalinfo
 #          description: </br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
