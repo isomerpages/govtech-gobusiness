@@ -12,12 +12,12 @@ According to the Singapore Food Authority, there is currently no evidence to sup
 #### **2. Do I need to apply for an exemption to resume operations for Phase Two?**
 F&B and retail establishments that are allowed to open in Phase Two need not apply for an exemption before resuming operations. A class exemption to resume business will be granted by MTI. 
 
-However, please note that you will need to submit manpower details via the GoBusiness portal (<a href = "https://covid.gobusiness.gov.sg">https://covid.gobusiness.gov.sg</a>) within two weeks from 19 June 2020.  
+However, please note that you will need to submit manpower details via the <a href="https://covid.gobusiness.gov.sg" target="_blank">GoBusiness portal</a> within two weeks from 19 June 2020.  
 
 ## **<ins>F&B Establishments</ins>**
 
 #### **3. Will bars or entertainment venues that offer food and hot snacks be allowed to provide dine-in options if they do not provide live music performances, dancing or karaoke activities (i.e. just F&B)?**
-Bars (licensed by SFA under ‘Pubs, Bars, Nightclub, Discos) and entertainment venues (licensed by SPF under the Public Entertainment Act) are not allowed to open, and hence cannot provide dine-in options during Phase Two.
+Bars (licensed by SFA under ‘Pubs, Bars, Nightclub, Discos') and entertainment venues (licensed by SPF under the Public Entertainment Act) are not allowed to open, and hence cannot provide dine-in options during Phase Two.
 
 #### **4. What are the safe management measures F&B establishments need to implement for dine-in?**
 With effect from 19 June 2020, dine-in for F&B establishments (except those with SFA food shop licences under the Pubs, Bars, Nightclubs and Discos categories) is allowed. Please refer to the <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/advisory-for-phase-2-re-opening-of--food-and-beverage-establishments" target="_blank">advisory for Phase Two Re-opening of Food & Beverage Establishments</a> for details on the applicable safe management measures. 

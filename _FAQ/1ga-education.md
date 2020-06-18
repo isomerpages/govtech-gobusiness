@@ -7,8 +7,6 @@ third_nav_title: For Sector-Specific Queries
 #### **1. When can face-to-face lessons at private residences, tuition centres and enrichment centres resume?**
 Face-to-face tuition and enrichment classes will be allowed to resume from Phase Two of the post-Circuit Breaker period, which will start on 19 June 2020. In line with the rest of the economy, they will be subject to safe management measures.
 
-As such, TCM services that involve direct prolonged contact with patients e.g. cupping, moxibustion, guasha and tuina massage, should only be performed after careful assessment by the TCMPs that, if not provided or performed, would result in significant or rapid deterioration of the patient’s medical condition, and potentially threatening their health and well-being.
-
 #### **2. What are the safe management measures that tuition and enrichment centres should be implementing?**
 To reduce risk of transmission of COVID-19, tuition and enrichment centres are required to abide by the nationwide safe management measures for workplaces issued on 9 May 2020. These include health checks and declarations for all employees and students, the use of SafeEntry to support contact tracing, and regular cleaning of common facilities and high-touch areas. More details are available at the <a href="https://www.moe.gov.sg/faqs-covid-19-infection" target="_blank">MOE website</a> and <a href="https://covid.gobusiness.gov.sg/safemanagement/general/" target="_blank">GoBusiness website</a>.
 
@@ -39,4 +37,4 @@ The Government has announced measures to help affected workers and businesses ti
 - Automatic deferment of income tax payments for 3 months for companies and self-employed persons
 - Enhanced rental waivers to support tenants – under the COVID-19 (Temporary Measures) Act, tenants who are unable to pay rent and serve a notice for relief will have their rental payments suspended for up to 6 months, and leases cannot be terminated by landlords for non-payment of rent.
 
-For more information, please refer to <a href = "http://www.singaporebudget.gov.sg">http://www.singaporebudget.gov.sg</a> and the Ministry of Law website (<a href = "http://www.mlaw.gov.sg">http://www.mlaw.gov.sg</a>).
+For more information, please refer to <a href = "http://www.singaporebudget.gov.sg">http://www.singaporebudget.gov.sg</a> and the Ministry of Law <a href="http://www.mlaw.gov.sg" target="_blank">website</a>.
