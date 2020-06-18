@@ -61,7 +61,7 @@ sections:
         subtitle: 
         description: If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)
         button: Click Here to Apply
-        url: https://go.gov.sg/exemptionstatus
+        url: https://go.gov.sg/additionalmanpower
 #    - infopic:
 #        title: Safe Management Requirements
 #        subtitle: 
