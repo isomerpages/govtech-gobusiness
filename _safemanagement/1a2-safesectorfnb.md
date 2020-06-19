@@ -73,9 +73,7 @@ Under Phase 2,
 - Infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 16 Jun 20]<br>
 ![Retail](/images/smrretail.jpg "Retail")
 
-#### **Sports Sector**
-
-**</ins>Sports Sector Enterprises, Sports Education, and Premises with Sports Facilities</ins>**
+#### **Sports Sector Enterprises, Sports Education, and Premises with Sports Facilities**
 
 Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this <a href="https://go.gov.sg/sportsadvisory" target="_blank">document</a> [last updated 18 Jun 20]
 
