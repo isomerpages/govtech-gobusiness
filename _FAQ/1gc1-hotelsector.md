@@ -12,7 +12,7 @@ Hotels are reminded not to accept reservations from local residents e.g. staycat
 - returnees who completed their stay-home notice (SHN) at dedicated facilities but do not have a place of their own as they do not ordinarily live in Singapore; or 
 - healthcare workers who wish to isolate themselves from other family members living in the same residential unit; 
 - Green/ Fast-lane Travellers; and 
-- Travellers, including Long-Term Pass holders entering Singapore from 17 June 2020, 2359hrs, and who had remained in Australia, Brunei Darussalam, Hong Kong, Japan, Macao, Mainland China, New Zealand, Republic of Korea, Taiwan and Vietnamese in the last consecutive 14 days prior to their entry who wish to serve their 14-day SHN in a Hotel. Hotels are required to exercise due diligence to ensure that guests seeking accommodation fulfils criteria listed above.
+- Travellers, including Long-Term Pass holders entering Singapore from 17 June 2020, 2359hrs, and who had remained in Australia, Brunei Darussalam, Hong Kong, Japan, Macao, Mainland China, New Zealand, Republic of Korea, Taiwan and Vietnam in the last consecutive 14 days prior to their entry who wish to serve their 14-day SHN in a Hotel. Hotels are required to exercise due diligence to ensure that guests seeking accommodation fulfils criteria listed above.
 
 #### **2. Can Hotels resume Staycations in Phase Two? When can Hotels start marketing efforts to promote staycation packages?**
 The Singapore Tourism Board will advise when hotels may resume staycations once the details are ready. Please do not embark on any marketing efforts to promote staycation packages until further advised by the Singapore Tourism Board. This will avoid creating public confusion.
