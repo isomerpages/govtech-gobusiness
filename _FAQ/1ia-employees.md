@@ -72,15 +72,12 @@ Employees who have been wrongfully dismissed may file a claim against the wrongf
 
 For more information on what constitutes a wrongful dismissal, please refer to the <a href="https://www.mom.gov.sg/employment-practices/termination-of-employment/unfair-dismissal#what-is-a-wrongful-dismissal" target="_blank">Tripartite Guidelines on Wrongful Dismissal</a>.
 
-#### **9. Do statutory medical check-ups, e.g. for foreign domestic workers and work permit holders, medical examination for driving licence, have to be deferred?**
-Statutory medical check-ups are considered non-essential and should be deferred. MOH is working with MOM and MOT/LTA for them to notify employers/companies.
-
-#### **10. I need some employees to work at a construction site. Do I need to seek BCA’s approval before I can apply for a time-limited exemption?**
+#### **9. I need some employees to work at a construction site. Do I need to seek BCA’s approval before I can apply for a time-limited exemption?**
 If you are requesting to continue with physical/actual building works on the construction site, you are required to obtain an approval from BCA first at 1800-342-5222 or <a href="https://www.bca.gov.sg/feedbackform" target="_blank">www.bca.gov.sg/feedbackform</a> before you can proceed.
 
 However, if the work that you will be conducting at the construction site is non-construction related (eg. administrative work done at the office), you do not need to seek BCA’s approval before applying for the Time-Limited Exemption. 
 
-#### **11. Where can permitted enterprise workers take their meals if they are not near home? Do these individuals have to furnish proof of being a permitted enterprise worker if questioned by enforcement officers?**
+#### **10. Where can permitted enterprise workers take their meals if they are not near home? Do these individuals have to furnish proof of being a permitted enterprise worker if questioned by enforcement officers?**
 Employers of such workers have the responsibility to look after the welfare of their workers and provide their workers with a suitable sheltered space within the work place premise to consume meals, such as staff canteens, pantries, or any other rest area. Employers should ensure that their workers observe the following in these spaces:
 1. Workers should dine alone and keep a distance of at least one metre from another individual; 
 2. Staggered meal times to reduce the interactions between their workers and prevent congregation; and
