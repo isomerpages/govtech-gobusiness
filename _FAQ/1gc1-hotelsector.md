@@ -21,7 +21,7 @@ The Singapore Tourism Board will advise when hotels may resume staycations once 
 Yes, Hotels’ F&B establishments may resume dine-in services in Phase Two, subject to liquor sales and consumption ceasing at 2230 hours. Live music, radio broadcasts and all forms of television/video screenings, as well as other forms of public entertainment such as dancing, darts or karaoke, are not allowed. All F&B establishments must adhere to the Safe Management Measures outlined in Enterprise Singapore’s advisory for F&B establishments.
 
 #### **4. Are Hotels allowed to open Club Lounges in Phase Two?**
-Yes, club lounges are allowed to open, but must adhere to the Safe Management Measures outlined in Enterprise Singapore’s advisory for F&B establishments at ESG’s website.
+Yes, club lounges are allowed to open, but must adhere to the Safe Management Measures outlined in Enterprise Singapore’s advisory for F&B establishments at ESG’s <a href="https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/jun-2020/fnb-advisory_16-june-2020/safe-management-measures-for-fb-reopening.pdf" target="_blank">website</a>.
 
 #### **5. Are Hotels allowed to provide regular in-room dining services in Phase Two?**
 Meals are to be left at the door only for rooms occupied by Persons on Stay-Home-Notice.
