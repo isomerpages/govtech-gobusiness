@@ -11,7 +11,7 @@ Based on the Multi-Ministerial Taskforce’s announcement on 15 June 2020, all s
 According to the Multi-Ministerial Taskforce’s announcement on 15 June 2020, all sport and recreational facilities, including but not limited to swimming pools, stadiums, studios, gyms, indoor sport halls, hardcourts, bowling centres, and function rooms, may be opened from Phase Two.
 
 #### **3. Can I admit more than 50 persons in my facility?**
-All sport and recreational facilities is limited to 10 Sqm per person based on its Gross Floor Area or 50 persons, whichever is lower. Staff on the premises is not included as part of the maximum capacity of 10 Sqm per person or 50 persons. Facilities that need to admit more 50 persons can apply for approval by Sport Singapore via email at <a href = "mailto: SPORT_QSM@sport.gov.sg">SPORT_QSM@sport.gov.sg</a>.
+All sport and recreational facilities is limited to 10 Sqm per person based on its Gross Floor Area or 50 persons, whichever is lower. Staff on the premises is not included as part of the maximum capacity of 10 Sqm per person or 50 persons. Facilities that need to admit more than 50 persons can apply for approval by Sport Singapore via email at <a href = "mailto: SPORT_QSM@sport.gov.sg">SPORT_QSM@sport.gov.sg</a>.
 
 #### **4. My facility is less than 50 Sqm, what is the maximum capacity?**
 Facilities up to 50 Sqm can admit up to five persons. For example, a 20 Sqm facility can accommodate five persons, excluding staff. Facility operators have to ensure that the physical distancing measures are observed. These parameters will be reviewed from time to time, and more may be allowed at a later juncture in Phase Two.
