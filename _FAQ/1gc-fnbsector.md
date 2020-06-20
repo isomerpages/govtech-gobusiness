@@ -99,3 +99,6 @@ Yes, vending machines are permitted to open.
 Yes. Retail businesses are allowed to reopen their shopfronts from 19 June 2020, including operating from their outdoor display areas outside their shops. 
 
 Retailers are required to implement safe management measures. More details can be found <a href="https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/jun-2020/retail-advisory_16-june-2020/safe-management-measures-for-retail_reopening.pdf?la=en" target="_blank">here</a>. 
+
+#### **23. Can paid massage chairs resume operations?**
+No, for hygiene and safety reasons, massage chairs must remain closed.
