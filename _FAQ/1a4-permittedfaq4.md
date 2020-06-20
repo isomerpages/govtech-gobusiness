@@ -12,7 +12,7 @@ No, ROs no longer have to apply for a TLE.
 - Religious workers and staff on-site must comply with safe distancing and other prevailing workplace safe management measures stipulated by the Ministry of Manpower (MOM).
 
 #### **2. I have submitted Safe Management Plans for my religious organisation (RO) during Phase One. Do I need to submit another plan for Phase Two?**
-Yes. As Phase Two involves the gradual resumption of congregational and worship services, as well as other non-congregational worship activities, all ROs are required to submit their Safe Management Plan, including manpower deployment, at least 3 days before resumption of Phase Two activities. ROs who have already submitted their safe management plan in Phase One only need to submit a shorter plan to cover the additional safe management measures for Phase Two activities. Please refer to <a href="www.cpro.gov.sg" target="_blank">www.cpro.gov.sg</a> for details.
+Yes. As Phase Two involves the gradual resumption of congregational and worship services, as well as other non-congregational worship activities, all ROs are required to submit their Safe Management Plan, including manpower deployment, at least 3 days before resumption of Phase Two activities. ROs who have already submitted their safe management plan in Phase One only need to submit a shorter plan to cover the additional safe management measures for Phase Two activities. Please refer to <a href="https://www.cpro.gov.sg" target="_blank">www.cpro.gov.sg</a> for details.
 
 ROs requesting deviations from the parameters set out in MCCY’s 18 Jun 2020 advisory on resumption of more religious activities in Phase Two will require MCCY’s approval before proceeding with their activities.
 
