@@ -27,9 +27,9 @@ Yes, club lounges are allowed to open, but must adhere to the Safe Management Me
 Meals are to be left at the door only for rooms occupied by Persons on Stay-Home-Notice.
 
 #### **6. Can Hotels resume operations for event venues?**
-Yes, Hotels may resume operations for event venues subject to national Safe Management Guidelines. This includes a capacity of no more than five persons, excluding hotel staff per event (no multiple groups allowed). Marriage Solemnisations in Hotel venues are limited to 20 persons including vendors, excluding Solemniser and hotel staff. Please refer to Registry of Marriages’ (ROM) advisory for Solemnisations <a href="https://www.rom.gov.sg/images/ROM_infographic.jpg" target="_blank">here</a>.
+Yes, Hotels may resume operations for event venues subject to national Safe Management Guidelines. This includes a capacity of no more than five persons, excluding hotel staff per event (no multiple groups allowed). Marriage Solemnizations in Hotel venues are limited to 20 persons including vendors, excluding Solemnizer and hotel staff. Please refer to Registry of Marriages’ (ROM) advisory for Solemnizations <a href="https://www.rom.gov.sg/images/ROM_infographic.jpg" target="_blank">here</a>.
 
-#### **7. Are hotels allowed to provide meals for solemnisations, and can the meals be consumed in a private venue or restaurant?**
+#### **7. Are hotels allowed to provide meals for solemnizations, and can the meals be consumed in a private venue or restaurant?**
 Meals may be provided for no more than five persons, subject to Enterprise Singapore’s advisory for F&B establishments on its <a href="https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/jun-2020/fnb-advisory_16-june-2020/safe-management-measures-for-fb-reopening.pdf" target="_blank">website</a>.
 
 #### **8. Can Hotels start hosting site inspections for event venues in Phase Two?**
