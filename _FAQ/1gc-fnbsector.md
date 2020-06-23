@@ -104,4 +104,4 @@ Retailers are required to implement safe management measures. More details can b
 No, they must remain closed until further notice. 
 
 #### **24. Can designated smoking areas (DSAs) be reopened?**
-Yes, malls may reopen DSAs, so long as the safe distancing measures are adhered to. Malls can refer to the latest NEA advisory for the guidelines on DSAs. 
+Yes, malls may reopen DSAs, so long as the safe distancing measures are adhered to. Malls can refer to the latest NEA advisory for the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/post-circuit-breaker-measures" target="_blank">guidelines on DSAs</a>. 
