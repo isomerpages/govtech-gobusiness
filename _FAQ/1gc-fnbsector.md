@@ -101,4 +101,7 @@ Yes. Retail businesses are allowed to reopen their shopfronts from 19 June 2020,
 Retailers are required to implement safe management measures. More details can be found <a href="https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/jun-2020/retail-advisory_16-june-2020/safe-management-measures-for-retail_reopening.pdf?la=en" target="_blank">here</a>. 
 
 #### **23. Can paid massage chairs resume operations?**
-No, for hygiene and safety reasons, massage chairs must remain closed.
+No, they must remain closed until further notice. 
+
+#### **24. Can designated smoking areas (DSAs) be reopened?**
+Yes, malls may reopen DSAs, so long as the safe distancing measures are adhered to. Malls can refer to the latest NEA advisory for the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/post-circuit-breaker-measures" target="_blank">guidelines on DSAs</a>. 
