@@ -75,6 +75,10 @@ Energy and chemical plant owners are to comply to the COVID-Safe restart criteri
 
 To view the FAQs for a safe and controlled restart of the PCM sector, click <a href="https://go.gov.sg/FAQsforRestartofPCMSector" target="_blank">here</a>.
 
+#### **Property show galleries**
+
+Developers are to comply to measures stipulated in this document [last updated on 17 Jun 20] under Phase 2. You can also refer to the Urban Redevelopment Authority <a href = "https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-13" target="_blank">website</a>.
+
 #### **Religious Organisations**
 
 Religious organisations are to comply to measures stipulated in this <a href="https://go.gov.sg/mccyroadvisory" target="_blank">document</a> [last updated on 18 Jun 20]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/" target="_blank">website</a>.
