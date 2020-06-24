@@ -25,14 +25,10 @@ MOM’s Safe Management Measures requirements at the workplace, which include en
 
 Checks will be conducted. Businesses whose employers do not provide a safe workplace, ensure employees work from home where possible, or whose workers do not adhere to safe management measures, may have to close their workplaces.
 
-#### **4. I have been told to return to the office despite being able to perform my work from home during the Circuit Breaker period. What do I do?**
-All employers must put in place Safe Management Measures and should communicate the measures clearly to all employees before resuming business. The measures include ensuring all employees continue to work from home as much as possible, so as to reduce physical interactions at workplaces.
+#### **4. What should I do if my employees are unwilling to work from home because their home is not conducive for work?**
+The overarching objective of these regulations is to reduce physical interactions in order to prevent spread of COVID-19. Employers are required to provide the facilities necessary and direct every worker to work from home, as far as reasonably practicable. 
 
-It is the responsibility of employers to show that they have made a reasonable effort to facilitate working from home for all days and at all times, including reviewing and transforming business processes through technology to support remote working (e.g. e-payment, e-invoicing, e-signatures).
-
-Businesses that do not implement Safe Management Measures are liable for penalties under the COVID-19 (Temporary Measures) Act and to have their operations suspended.
-
-Breaches or poor practices of Safe Management Measures can be reported via **<a href="https://www.mom.gov.sg/eservices/snapsafe" target="_blank">SnapSAFE</a>**.
+If employees are genuinely unable to work from home, they can be allowed to continue working in the workplace, subject to the implementation of all other Safe Management measures such as staggered working hours and physical safe distancing measures. Employers should be prepared to demonstrate the reasons for the employee’s being unable to work from home. 
 
 #### **5. Under what circumstances may I return to my workplace?**
 Employers are permitted to allow employees to go to the office if their job functions cannot be performed remotely or where demonstrably necessary (e.g. to operate a system or equipment that cannot be accessed from home, or to attend physical meetings that cannot be avoided).

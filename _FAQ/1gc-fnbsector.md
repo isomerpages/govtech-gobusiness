@@ -55,10 +55,21 @@ The occupancy limit is meant to help malls and standalone stores operationalise 
 
 In addition to the occupancy limit, malls and standalone stores must also ensure that they comply with other safe distancing measures, e.g. dispersion of groups of more than five people and physical distancing of at least one metre in queues.
 
-#### **12. How can a mall/ standalone store manage the number of shoppers to ensure compliance with the occupancy limit of one person per 10 sqm of Gross Floor Area (GFA)?**
+#### **12. How should malls and standalone stores compute the number of people allowed in their premises based on the occupancy limit of one person per 10 sqm of Gross Floor Area (GFA)?**
+Malls and standalone stores can take reference from the following guidelines:
+- A standalone mall with an approved GFA of 32,000 sqm for the retail component will have an allowable visitor capacity of 3,200 persons at any one time. 
+- Non-visitors, i.e. staff of the mall management, tenants and term contractors, will not be included in the visitor capacity computation. 
+- Individual tenants within shopping malls will not be subjected to this rule. However, other safe distancing measures are to be applied, e.g. dispersion of groups more than five people and physical distancing of at least one metre in queues.
+
+#### **13. How can a mall/ standalone store manage the number of shoppers to ensure compliance with the occupancy limit of one person per 10 sqm of Gross Floor Area (GFA)?**
 Malls and standalone stores can consider continuing to reduce the number of entrances and deploy queue management systems or staff to control the number of visitors entering and leaving the premises, to ensure compliance with the allowable visitor capacity. 
 
 The reduction in the number of entrances should not lead to a congregation of visitors outside the mall. Malls must make sure that there is at least one metre spacing between persons standing in queues, including those outside the mall.
+
+#### **13. With more shops opening, crowds are coming back. How else can I better control the crowd level in my store?**
+You may wish to minimise the in-store dwell time of customers, suppliers and contractors. For instance, delay opening sections of the store for better crowd control. 
+
+You may also wish to adopt <a href="https://www.smeportal.sg/content/tech-depot/en/psg/generic-it-solution-category/visitor-management-queue-management-system.html" target="_blank">queue management systems</a>, which are supported under the <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant" target="_blank">Productivity Solutions Grant</a>. 
 
 #### **13. Are in-store and mall promotions e.g. sales and special offers, allowed in Phase Two?**
 Retailers should avoid activities that would attract crowds in and outside of the retail establishment (e.g. providing special discounts or offers for reopening) for at least two weeks from Phase Two reopening. This is to prevent crowds and long queues of customers and delivery personnel at the store front.
