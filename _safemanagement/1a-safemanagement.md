@@ -4,7 +4,7 @@ permalink: /safemanagement/general/
 third_nav_title: Safe Management Requirements
 ---
 
-To provide a safe working environment and to prevent transmission at the workplace, businesses are required to abide by the <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures">nation-wide general requirements for workplaces issued on 9 May 2020</a>. Businesses should also adhere to the <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/">sector-specific requirements</a>.
+To provide a safe working environment and to prevent virus transmission at the workplace, businesses are required to abide by the <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures">nation-wide general requirements for workplaces issued on 9 May 2020</a>. Businesses should also adhere to the <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/">sector-specific requirements</a>.
 
 All businesses are to comply with the following requirements: 
 - Employers must ensure that employees who have been working from home continue to do so. Working from home should continue to be the default mode of working, to reduce physical interactions in the workplace and minimise the spread of COVID-19.
@@ -24,7 +24,7 @@ Please view the infographic below for an overview of the safe management measure
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/lzCc0TOA7F4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**<ins>Downloadable</ins>**
+**<ins>Resources for download</ins>**
 
 |         Safe Management          |                                                                                                                                                                           Link                                                                                                                                                                            |
 | :------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
