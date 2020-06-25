@@ -7,8 +7,6 @@ The Government will allow the gradual resumption of businesses, in phases. Phase
 
 All firms who are in operation are to comply with the (1) safe management requirements listed <a href="https://covid.gobusiness.gov.sg/safemanagement/general/">here</a> and (2) sector specific requirements listed <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/">here</a>.
 
-The current list of permitted services and the corresponding Singapore Standard Industrial Classification (SSIC) codes that are allowed to operate can be found <a href="https://go.gov.sg/permittedserviceslist" target="_blank">here</a>.
-
 With effect from 19 June 2020, the list of permitted services and the corresponding SSIC codes that will be allowed to operate can be found <a href="https://go.gov.sg/permittedserviceslist2" target="_blank">here</a>. 
 
 Please note that firms that have been permitted to operate as at 18 Jun will be allowed to continue to carry on their operations. 
