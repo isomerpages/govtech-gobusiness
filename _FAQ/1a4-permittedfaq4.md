@@ -57,10 +57,13 @@ Activities or settings where large numbers of people are likely to come into clo
 
 STB has begun to engage relevant businesses and organisations on possible safe management measures to be taken for these activities or settings. STB will advise businesses and organisations on the approval processes and timelines for resumption at a later date.
 
-#### **12. What are some examples of home-based services which can resume in Phase Two? Do they include home-based cleaners or home-based salons?**
+#### **12. Are tourist guides allowed to conduct tours?**
+Organised guided tours (both indoors and outdoors) should be deferred or cancelled until further notice.
+
+#### **13. What are some examples of home-based services which can resume in Phase Two? Do they include home-based cleaners or home-based salons?**
 Under Phase Two, home-based services, including those involving visitors to the home, will be allowed to resume, as long as they comply with prevailing rules and safe management measures, including the cap of five visitors allowed in the home at any one time. Service providers are required to wear masks and maintain a one metre distancing.
 
 Home-based services that involve customers entering one's home for a prolonged period e.g. private dining and hairdressing services must deploy SafeEntry.
 
-#### **13. For wedding solemnizations, can different groups of 20 persons (but keep to 20 persons at any one time) attend the same solemnization but at different times?**
+#### **14. For wedding solemnizations, can different groups of 20 persons (but keep to 20 persons at any one time) attend the same solemnization but at different times?**
 No. The maximum number of 20 persons allowed to attend the solemnization applies to the entire duration of a solemnization. Excluding the Solemnizer, the maximum number of persons per wedding solemnization at home, Registry of Marriages (ROM) or Registry of Muslim Marriages (ROMM) is ten. At external venues, the maximum number of persons allowed to attend is twenty or the safe capacity of the venue, whichever is lower.

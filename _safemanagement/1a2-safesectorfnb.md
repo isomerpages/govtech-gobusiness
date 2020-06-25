@@ -61,6 +61,10 @@ Massage establishments (MEs) are to comply to measures stipulated in this <a hre
 
 You can also refer to the Singapore Police Force <a href = "https://www.police.gov.sg/e-Services/Police-Licences/Massage-Establishment-Licence" target="_blank">website</a>.
 
+#### **Private mahjong (or gambling) rooms operators**
+
+Operators of private mahjong (or gambling) rooms are to comply to measures stipulated in this <a href="https://go.gov.sg/privatemjadvisory" target="_blank">document</a> [last updated on 25 Jun 20].
+
 #### **Private Tuition and Enrichment**
 
 Private tuition and enrichment providers are to comply to measures stipulated in this <a href="https://go.gov.sg/tuitionadvisory" target="_blank">document</a> [last updated on 19 Jun 20].
