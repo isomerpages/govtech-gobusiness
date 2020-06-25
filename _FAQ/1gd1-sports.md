@@ -34,9 +34,9 @@ Water coolers or dispensers for individuals to fill up their own water bottles a
 Equipment is placed and used such that there is a two metre distance between users.
 
 #### **10. I run a yoga studio. What are some of the safe management measures that I need to take note of?**
-Some safe management measures (SMMs) for yoga studios include adhering to the maximum facility capacity, limiting groups activities to no more than 5 participations and 1 instructor, as well as maintaining 3m between different groups and ensuring no intermixing between different groups. 
+Some safe management measures (SMMs) for yoga studios include adhering to the maximum facility capacity, limiting group activities to no more than 5 participants and 1 instructor, as well as maintaining 3m between different groups and ensuring no intermixing between different groups. 
 
 For a full list of SMM, please view Sport Singapore’s latest <a href="https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2020/Advisory-For-Resumption-Of-Sport-And-Physical-Exercise-and-Activity-For-Phase-Two-Safe-Transition" target="_blank">advisory</a>.
 
-#### **9. Can TeamSG athletes return to training?**
+#### **11. Can TeamSG athletes return to training?**
 Yes. All organised trainings and exercise are permitted in Phase Two, but groups must be kept to no more than five persons. An additional coach is allowed and will not be part of the group size of five. Safe management measures must be adhered to at all times and there must be no socialising before or after the training session. Masks must be worn when not engaged in strenuous activities.
