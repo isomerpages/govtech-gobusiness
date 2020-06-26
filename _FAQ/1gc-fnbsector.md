@@ -158,7 +158,7 @@ Private therapy rooms are defined as rooms which are fully enclosed, with fixed 
 #### **34. Should malls continue to demarcate lifts with one-metre spacing?**
 Lifts in shopping malls should continue to be demarcated with the floor markers to remind shoppers to keep one-metre spacing.
 
-#### **35. 24.	Are kiosks and push-carts permitted to resume operations?**
+#### **35. Are kiosks and push-carts permitted to resume operations?**
 Yes, kiosks and push-carts with permitted SSIC codes can operate. This applies to operations that exist before the Circuit Breaker period. 
 
 Temporary pop-up events/shops will not be permitted. All atrium events and activities must remain closed.
