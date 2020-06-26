@@ -133,47 +133,47 @@ Yes. Retail businesses are allowed to reopen their shopfronts from 19 June 2020,
 
 Retailers are required to implement safe management measures. More details can be found <a href="https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/jun-2020/retail-advisory_16-june-2020/safe-management-measures-for-retail_reopening.pdf?la=en" target="_blank">here</a>.
 
-#### **30. Are home-based beauty salons allowed to reopen? Is there an advisory for home-based beauty salon businesses?**
+#### **31. Are home-based beauty salons allowed to reopen? Is there an advisory for home-based beauty salon businesses?**
 Yes, home-based beauty services are allowed to resume from 19 June 2020. Home-based businesses must ensure that Safe Management Measures are deployed and that safe distancing measures are practised at all times by your employees and customers.  
 
 Before resuming activities, businesses must comply with the requirements for Safe Management Measures and any sector-specific requirements which apply to them. For retail and lifestyle-related services, which include beauty services, businesses may refer to the joint advisories issued by ESG, STB, SFA, HDB and URA.
 
-#### **31. How long will Phase Two last for?**
+#### **32. How long will Phase Two last for?**
 The Multi-Ministry Taskforce will continue to monitor the situation closely, with the aim of continuing to ease measures in a gradual and calibrated manner, until we reach a new normal in Phase Three. Phase Three is the state in which we expect to remain until an effective vaccine or treatment for COVID-19 is developed.
  
 Over the course of Phase Two, some higher risk activities and settings that remain closed at the start of Phase Two will gradually be allowed to open, when they are able to implement adequate safe management measures. Prevailing limits on gathering sizes may also be relaxed in a gradual manner.
 
-#### **32. Are there guidelines for saunas, especially large-format spas and saunas?**
+#### **33. Are there guidelines for saunas, especially large-format spas and saunas?**
 Spas and saunas are allowed to open, and operators must practise safe management and safe distancing measures, including ensuring that customers are spaced at least one-metre apart at all times on the premises. 
 
 Mask should be worn as a default. Masks can be taken off when performing strenuous activities or where practicable, although it is still recommended as good practice even under such circumstances.  
 
 Large-format spas and saunas may also reference the advisory for malls and large standalone stores where those larger than > 930 sqm (or 10,000 sqft) of Gross Floor Area (GFA) must comply with the occupancy limit of one person per 10 sqm of GFA.
 
-#### **33. Can customers share private therapy rooms?**
+#### **34. Can customers share private therapy rooms?**
 Customers in a group may share a private therapy room, up to a limit of no more than five customers. They are allowed to remove their masks only during their facial treatments or facial therapies done in such private rooms, but operators must ensure that the private room is thoroughly disinfected before and after use.
 
 Private therapy rooms are defined as rooms which are fully enclosed, with fixed floor-to-ceiling partitions. (i.e. rooms which have fixed partitions). Rooms created with curtain partitions are not considered private therapy rooms.
 
-#### **34. Should malls continue to demarcate lifts with one-metre spacing?**
+#### **35. Should malls continue to demarcate lifts with one-metre spacing?**
 Lifts in shopping malls should continue to be demarcated with the floor markers to remind shoppers to keep one-metre spacing.
 
-#### **35. 24.	Are kiosks and push-carts permitted to resume operations?**
+#### **36. Are kiosks and push-carts permitted to resume operations?**
 Yes, kiosks and push-carts with permitted SSIC codes can operate. This applies to operations that exist before the Circuit Breaker period. 
 
 Temporary pop-up events/shops will not be permitted. All atrium events and activities must remain closed.
 
-#### **36. Can paid massage chairs resume operations?**
+#### **37. Can paid massage chairs resume operations?**
 No, they must remain closed until further notice. 
 
-#### **37. Can shoppers remove their masks and sit at common areas to consume takeaway food?**
+#### **38. Can shoppers remove their masks and sit at common areas to consume takeaway food?**
 Yes, they are allowed to sit at common areas to consume food. However, they should eat quickly, and leave the area immediately after they finish their food/drinks. They must put on their masks properly at all times except when eating or drinking. All other Safe Management measures will apply.
 
-#### **38. For retail stores that are currently under renovation and are taking up a temporary lease at atrium space, can they operate in Phase 2?**
+#### **39. For retail stores that are currently under renovation and are taking up a temporary lease at atrium space, can they operate in Phase 2?**
 Yes, they can do so, but subject to ESG’s approval. They may write to <a href = "mailto: Retail_Design@enterprisesg.gov.sg">Retail_Design@enterprisesg.gov.sg</a>.
 
-#### **39. The main walkway to office block passes through some retail units (facing corridor), do workers still need to do SafeEntry and temperature checks?**
+#### **40. The main walkway to office block passes through some retail units (facing corridor), do workers still need to do SafeEntry and temperature checks?**
 Yes, workers will still need to do SafeEntry and temperature checks as they may decide to enter the mall and patronise the retail stores and F&B outlets. Exemption is only given if the mall is able to create a dedicated pathway that leads the workers directly to the office entrance.
 
-#### **40. Can designated smoking areas (DSAs) be reopened?**
+#### **41. Can designated smoking areas (DSAs) be reopened?**
 Yes, malls may reopen DSAs, so long as the safe distancing measures are adhered to. Malls can refer to the latest NEA advisory for the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/post-circuit-breaker-measures" target="_blank">guidelines on DSAs</a>. 
