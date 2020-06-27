@@ -67,3 +67,8 @@ Home-based services that involve customers entering one's home for a prolonged p
 
 #### **14. For wedding solemnizations, can different groups of 20 persons (but keep to 20 persons at any one time) attend the same solemnization but at different times?**
 No. The maximum number of 20 persons allowed to attend the solemnization applies to the entire duration of a solemnization. Excluding the Solemnizer, the maximum number of persons per wedding solemnization at home, Registry of Marriages (ROM) or Registry of Muslim Marriages (ROMM) is ten. At external venues, the maximum number of persons allowed to attend is twenty or the safe capacity of the venue, whichever is lower.
+
+#### **15. For weddings, can the bride and groom remove their face masks for the exchange of vows, to kiss and for photo-taking? Can guests remove their face masks for photo-taking?**
+No. To minimise the risk of community transmission and in line with our current safe management measures, masks should not be removed for the entire duration of the solemnization as the solemnization involves individuals from different households.
+
+For more COVID-19 (marriage-related) FAQs, visit ROM’s website.
