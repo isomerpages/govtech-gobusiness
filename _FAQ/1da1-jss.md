@@ -1,7 +1,7 @@
 ---
 title: Jobs Support Scheme
-permalink: /faq/employees/jss
-third_nav_title: Employees/ Manpower Queries
+permalink: /faq/reliefmeasures/jss
+third_nav_title: Support and Relief Measures
 ---
 
 #### **1. What is the Jobs Support Scheme (JSS)?**
