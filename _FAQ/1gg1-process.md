@@ -78,10 +78,17 @@ The whole team that the infected worker is from will have to be isolated and tes
 
 ## **COVID-Safe Worksite**
 
-#### **1. Who is responsible to enforce and ensure that all personnel from PCM companies comply with COVID-Safe Worksite requirements?**
+#### **1. Where can I find resources to help me implement SafeEntry at my worksite?**
+On the deployment of SafeEntry, companies can refer to the SafeEntry website <a href="https://www.safeentry.gov.sg/" target="_blank">here</a> for a full step-by-step guide and resources (including posters that can be displayed at scanning stations). FAQs and additional technical support are available <a href="https://support.safeentry.gov.sg/hc/en-us" target="_blank">here</a>. 
+
+SafeEntry with checks specifically for the Construction, Marine & Offshore and Process sectors is available to ensure that your entry checks incorporate sector-specific requirements such as the fulfillment of regular swabbing requirements, and use of TraceTogether. To install SafeEntry with checks specifically for the CMP sectors, please refer to this <a href="https://go.gov.sg/safeentry-construction-sites-guide" target="_blank">user guide</a>.
+
+For access code related queries, companies can contact MOM <a href="https://service2.mom.gov.sg/efeedback/Froms/eFeedback.aspx" target="_blank">here</a>.
+
+#### **2. Who is responsible to enforce and ensure that all personnel from PCM companies comply with COVID-Safe Worksite requirements?**
 PCM contractors are responsible to ensure that all their personnel (e.g. employees, contractors, etc.) adhere to COVID-Safe Worksite requirements for PCM companies, as well as any requirements determined by plant owners for the worksite.
 
-#### **2. Which workers will the COVID-Safe Worksite criteria from EDB apply to?**
+#### **3. Which workers will the COVID-Safe Worksite criteria from EDB apply to?**
 Please refer to the following categories:
 - For all workers involved in process construction or turnaround maintenance activities that are not regulated under the Building Control Act, the PCM sector COVID-Safe Worksite criteria from EDB would apply.
 - For all workers involved in process construction projects subject to BCA’s approval, the relevant requirements under BCA’s COVID-Safe Worksite Guidelines would apply.
@@ -89,11 +96,14 @@ Please refer to the following categories:
 
 PCM contractors and employees are to avoid direct interaction with the E&C plant owner/customer’s employees except for safety and quality checks.
 
-#### **3. Can a Workplace Safety & Health Officer (WSHO) also be a Safe Management Officer (SMO)?**
+#### **4. Can a Workplace Safety & Health Officer (WSHO) also be a Safe Management Officer (SMO)?**
 Yes, a WSHO can also be an SMO.
 
-#### **4. Who can be appointed as SMOs or Safe Distancing Officers (SDO)?**
+#### **5. Who can be appointed as SMOs or Safe Distancing Officers (SDO)?**
 For both E&C plant owners & PCM companies, this can be employees that have been appointed to assume the roles of SMOs & SDOs. PCM companies will have to employ both SMOs and SDOs, while plant owners will have to minimally employ SMOs. SMOs & SDOs from plant owners and PCM companies should also work together to implement and coordinate the SMM system at the worksite.
+
+#### **6. My worksite does not allow workers to hold on to mobile phones while at the work area due to safety/security reasons. Can I use other methods to replace TraceTogether?**
+All personnel entering the site must have a smart phone with TraceTogether app installed before they are allowed to enter the site. Workers should download, activate, and maintain the latest version of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile app</a> to facilitate contact tracking. While TraceTogether is not mandatory at the worksite given that not all workers will be able to hold on to mobile phones while at the work area in live plants, logging the entry of all personnel via the SafeEntry visitor management system will be required to support contact tracing efforts.
 
 #### **5. Can a team be divided into sub-teams at the worksite?**
 Yes. Each sub-team will be treated as separate teams. Each sub-team will have to be segregated both at the place of accommodation as well as at the worksite from the other sub-teams to ensure no interaction from the other sub-teams. 
@@ -126,7 +136,7 @@ No. Only those that are working on the production site and in contact with on-si
 Companies should not approach laboratories/hospitals to set up a private arrangement for these tests. Relevant companies will be contacted by EDB to arrange for their employees to be tested.
 
 #### **5. What is the situation around foreign workers dormitories? When can my workers leave the dormitory for work?**
-Companies may refer to MOM’s advisory on foreign worker dormitories <a href="https://www.mom.gov.sg/covid-19/advisory-to-employers-on-safe-living-for-foreign-worker-dormitories" target="_blank">here</a>.
+Companies may refer to MOM’s website for updated information on dormitory clearance <a href="https://www.mom.gov.sg/covid-19/cleared-dormitories" target="_blank">here</a> and MOM’s advisory to employers on safe living in foreign worker dormitories <a href="https://www.mom.gov.sg/covid-19/advisory-to-employers-on-safe-living-for-foreign-worker-dormitories" target="_blank">here</a>.
 
 #### **6. What is the arrangement for foreign workers currently staying outside the dormitories? E.g. hotels, govt. decanted sites or other private residences.**
 As the resumption of PCM works will be phased out from 2 June 2020, only those deployed for critical maintenance/repair activities under Earlier Permitted Activities by MTI will continue to be able to work until EDB’s approval has been obtained for other works to resume.

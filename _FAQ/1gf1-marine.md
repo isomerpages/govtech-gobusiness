@@ -58,19 +58,29 @@ Contractors will be notified by their respective Shipyards if their works are ap
 
 ## **COVID-Safe Worksite**
 
-#### **1. Who is responsible to enforce and ensure that all personnel in the Shipyard complies with COVID-Safe Worksite requirements?**
+#### **1. Where can I find resources to help me implement SafeEntry at my worksite?**
+On the deployment of SafeEntry, companies can refer to the SafeEntry website <a href="https://www.safeentry.gov.sg/" target="_blank">here</a> for a full step-by-step guide and resources (including posters that can be displayed at scanning stations). FAQs and additional technical support are available <a href="https://support.safeentry.gov.sg/hc/en-us" target="_blank">here</a>. 
+
+SafeEntry with checks specifically for the Construction, Marine & Offshore and Process sectors is available to ensure that your entry checks incorporate sector-specific requirements such as the fulfillment of regular swabbing requirements, and use of TraceTogether. To install SafeEntry with checks specifically for the CMP sectors, please refer to this <a href="https://go.gov.sg/safeentry-construction-sites-guide" target="_blank">user guide</a>.
+
+For access code related queries, companies can contact MOM <a href="https://service2.mom.gov.sg/efeedback/Froms/eFeedback.aspx" target="_blank">here</a>.
+
+#### **2. Who is responsible to enforce and ensure that all personnel in the Shipyard complies with COVID-Safe Worksite requirements?**
 The Shipyard operator is responsible for ensuring that all personnel (e.g. employees, contractors, clients, etc.) working on-site adhere to COVID-Safe Worksite requirements, and should work with its contractors to do so. Similarly, contractors will be responsible for their production sites outside of the Shipyards.
 
-#### **2. Can a Workplace Safety & Health Officer (WSHO) also be a Safe Management Officer (SMO)?**
+#### **3. Can a Workplace Safety & Health Officer (WSHO) also be a Safe Management Officer (SMO)?**
 Yes, a WSHO can also be an SMO.
 
-#### **3. Can a team be divided into sub-teams at the worksite?**
+#### **4. Can a team be divided into sub-teams at the worksite?**
+All personnel entering the site must have a smart phone with TraceTogether app installed before they are allowed to enter the site. Workers should download, activate, and maintain the latest version of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile app</a> to facilitate contact tracking. All personnel have to ensure that the TraceTogether app is turned on (i.e. Bluetooth is switched on) and that they carry their handphone with them at all times within the worksite, unless there are workplace health and safety risks and concerns. In the application to resume/ reinstate works or increase manning, the Shipyard and their contractors have to confirm that this requirement can be achieved.
+
+#### **5. Can a team be divided into sub-teams at the worksite?**
 Yes. Each sub-team will be treated as separate teams. Each sub-team will have to be segregated both at the place of accommodation as well as at the worksite from the other sub-teams even if they are doing the same activity. For example, if a worksite has 3 work locations e.g. vessels, each team will have to work within the designated zone and no exchange of workers between the 3 teams will be allowed.
 
-#### **4. Can a worksite be separated into 2 or more sub-sites?**
+#### **6. Can a worksite be separated into 2 or more sub-sites?**
 Yes, a physical barrier or clear demarcation is to be implemented for each sub-site. The workers must also be housed in segregated accommodations. Within each sub-site, the same segregation requirements for each team working within a designated zone and segregation on the use of communal shared facilities will apply.
 
-#### **5. Are multiple accommodations allowed?**
+#### **7. Are multiple accommodations allowed?**
 It is possible for workers of a worksite to be housed at one or more accommodations. All on-site accommodations at shipyards are required to be dedicated to the worksite.
 
 
@@ -93,7 +103,7 @@ No. Only those that are working on production site and in contact with productio
 Companies should not approach laboratories/hospitals to set up a private arrangement for these tests. Relevant companies will be contacted by EDB/ESG to arrange for their employees and contractors to be tested.
 
 #### **4. What is the situation around foreign workers dormitories? When can my workers leave the dormitory for work?**
-Companies may refer to MOM’s advisory on foreign worker dormitories <a href="https://www.mom.gov.sg/covid-19/advisory-to-employers-on-safe-living-for-foreign-worker-dormitories" target="_blank">here</a>.
+Companies may refer to MOM’s website for updated information on dormitory clearance <a href="https://www.mom.gov.sg/covid-19/cleared-dormitories" target="_blank">here</a> and MOM’s advisory to employers on safe living in foreign worker dormitories <a href="https://www.mom.gov.sg/covid-19/advisory-to-employers-on-safe-living-for-foreign-worker-dormitories" target="_blank">here</a>.
 
 #### **5. What is the arrangement for foreign workers currently staying outside the dormitories? E.g. hotels, govt. decanted sites or other private residences.**
 As the resumption of M&O works will be phased out from 2 June 2020, only those deployed for critical maintenance/repair activities under Earlier Permitted Activities by MTI will continue to be able to work until EDB/ESG’s approval has been obtained for other works to resume.
