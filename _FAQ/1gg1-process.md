@@ -83,7 +83,7 @@ On the deployment of SafeEntry, companies can refer to the SafeEntry website <a 
 
 SafeEntry with checks specifically for the Construction, Marine & Offshore and Process sectors is available to ensure that your entry checks incorporate sector-specific requirements such as the fulfillment of regular swabbing requirements, and use of TraceTogether. To install SafeEntry with checks specifically for the CMP sectors, please refer to this <a href="https://go.gov.sg/safeentry-construction-sites-guide" target="_blank">user guide</a>.
 
-For access code related queries, companies can contact MOM <a href="https://service2.mom.gov.sg/efeedback/Froms/eFeedback.aspx" target="_blank">here</a>.
+For access code related queries, companies can contact MOM <a href="https://service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx" target="_blank">here</a>.
 
 #### **2. Who is responsible to enforce and ensure that all personnel from PCM companies comply with COVID-Safe Worksite requirements?**
 PCM contractors are responsible to ensure that all their personnel (e.g. employees, contractors, etc.) adhere to COVID-Safe Worksite requirements for PCM companies, as well as any requirements determined by plant owners for the worksite.

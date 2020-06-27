@@ -63,7 +63,7 @@ On the deployment of SafeEntry, companies can refer to the SafeEntry website <a 
 
 SafeEntry with checks specifically for the Construction, Marine & Offshore and Process sectors is available to ensure that your entry checks incorporate sector-specific requirements such as the fulfillment of regular swabbing requirements, and use of TraceTogether. To install SafeEntry with checks specifically for the CMP sectors, please refer to this <a href="https://go.gov.sg/safeentry-construction-sites-guide" target="_blank">user guide</a>.
 
-For access code related queries, companies can contact MOM <a href="https://service2.mom.gov.sg/efeedback/Froms/eFeedback.aspx" target="_blank">here</a>.
+For access code related queries, companies can contact MOM <a href="https://service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx" target="_blank">here</a>.
 
 #### **2. Who is responsible to enforce and ensure that all personnel in the Shipyard complies with COVID-Safe Worksite requirements?**
 The Shipyard operator is responsible for ensuring that all personnel (e.g. employees, contractors, clients, etc.) working on-site adhere to COVID-Safe Worksite requirements, and should work with its contractors to do so. Similarly, contractors will be responsible for their production sites outside of the Shipyards.
