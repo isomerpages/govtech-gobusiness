@@ -49,7 +49,7 @@ In Phase Two, all landscape-related services and nurseries will resume, subject 
 
 #### **Marine & Offshore (M&O) Sector**
 
-Enterprises in the M&O sector are to comply to measures for stipulated in this <a href="/images/Advisory - MO Sector (final 1 June 2020).pdf" target="_blank">document</a> [last updated on 1 Jun 20].
+Enterprises in the M&O sector are to comply to measures for stipulated in this <a href="/images/Advisory - MO Sector (final 1 June 2020).pdf" target="_blank">document</a> [last updated on 27 Jun 20].
 
 You should also comply to the COVID-Safe restart criteria for shipyards, resident contractors and common contractors (M&O) <a href="/images/Criteria - Shipyards (final 1 June 2020).pdf" target="_blank">here</a> [last updated on 27 Jun 20].
 
