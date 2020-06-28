@@ -1,7 +1,6 @@
 ---
 title: Employees/ Manpower Queries
 permalink: /faq/employees/employees
-third_nav_title: Employees/ Manpower Queries
 ---
 
 #### **1. My foreign employees were approved as essential workers and they have been working throughout the Circuit Breaker period. Why does the SGWorkPass AccessCode now show a ‘GREY’ status for them? Can they continue to work?**

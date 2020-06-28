@@ -71,7 +71,7 @@ The Shipyard operator is responsible for ensuring that all personnel (e.g. emplo
 #### **3. Can a Workplace Safety & Health Officer (WSHO) also be a Safe Management Officer (SMO)?**
 Yes, a WSHO can also be an SMO.
 
-#### **4. Can a team be divided into sub-teams at the worksite?**
+#### **4. My worksite does not allow workers to hold on to mobile phones while at the work area due to safety/security reasons. Can I use other methods to replace TraceTogether?**
 All personnel entering the site must have a smart phone with TraceTogether app installed before they are allowed to enter the site. Workers should download, activate, and maintain the latest version of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile app</a> to facilitate contact tracking. All personnel have to ensure that the TraceTogether app is turned on (i.e. Bluetooth is switched on) and that they carry their handphone with them at all times within the worksite, unless there are workplace health and safety risks and concerns. In the application to resume/ reinstate works or increase manning, the Shipyard and their contractors have to confirm that this requirement can be achieved.
 
 #### **5. Can a team be divided into sub-teams at the worksite?**
