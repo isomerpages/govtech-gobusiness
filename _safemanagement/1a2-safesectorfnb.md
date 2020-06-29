@@ -15,6 +15,10 @@ Arts and culture stakeholders are to comply to measures stipulated in this <a hr
 
 Museum stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 19 Jun 20] under Phase Two. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
 
+#### **Attractions**
+
+Attractions operators are to comply to measures stipulated in this <a href="https://go.gov.sg/STBAdvisoryforattractions" target="_blank">document</a> [last updated on 28 Jun 20]. You can also refer to the Singapore Tourism Board <a href="https://www.stb.gov.sg/content/stb/en/media-centre/media-releases.html" target="_blank">website</a>.
+
 #### **Built Environment**
 
 Enterprises in the construction sector are to comply to measures stipulated in this <a href="https://go.gov.sg/construction" target="_blank">document</a> [last updated on 25 May 20]. You can also refer to the BCA <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">website</a>.
