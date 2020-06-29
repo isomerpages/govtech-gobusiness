@@ -17,7 +17,7 @@ Museum stakeholders are to comply to measures stipulated in this <a href="https:
 
 #### **Attractions**
 
-Attractions operators are to comply to measures stipulated in this <a href="https://go.gov.sg/STBAdvisoryforattractions" target="_blank">document</a> [last updated on 28  20]. You can also refer to the Singapore Tourism Board <a href="https://www.stb.gov.sg/content/stb/en/media-centre/media-releases.html" target="_blank">website</a>.
+Attractions operators are to comply to measures stipulated in this <a href="https://go.gov.sg/STBAdvisoryforattractions" target="_blank">document</a> [last updated on 28 Jun 20]. You can also refer to the Singapore Tourism Board <a href="https://www.stb.gov.sg/content/stb/en/media-centre/media-releases.html" target="_blank">website</a>.
 
 #### **Built Environment**
 
