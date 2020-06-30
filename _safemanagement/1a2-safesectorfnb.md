@@ -59,7 +59,7 @@ You should also comply to the COVID-Safe restart criteria for shipyards, residen
 
 #### **Massage Establishments**
 
-Massage establishments (MEs) are to comply to measures stipulated in this <a href="https://go.gov.sg/meadvisory" target="_blank">document</a> [last updated on 17 Jun 20]. MEs are also encouraged to refer to the <a href="https://go.gov.sg/meannex" target="_blank">annex</a> and adopt the additional measures within, where possible [last updated on 17 Jun 20].
+Massage Establishments (MEs) are to comply to measures stipulated in this <a href="https://go.gov.sg/meadvisory" target="_blank">document</a> [last updated on 17 Jun 20]. MEs are also encouraged to refer to the <a href="https://go.gov.sg/meannex" target="_blank">annex</a> and adopt the additional measures within, where possible [last updated on 17 Jun 20].
 
 You can also refer to the Singapore Police Force <a href = "https://www.police.gov.sg/e-Services/Police-Licences/Massage-Establishment-Licence" target="_blank">website</a>.
 
@@ -82,6 +82,12 @@ Energy and chemical plant owners are to comply to the COVID-Safe restart criteri
 #### **Property show galleries**
 
 Developers are to comply to measures stipulated in this <a href="https://go.gov.sg/PropertyURA" target="_blank">document</a> [last updated on 17 Jun 20] under Phase 2. You can also refer to the Urban Redevelopment Authority <a href = "https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-13" target="_blank">website</a>.
+
+#### **Public Entertainment**
+
+Public Entertainment (PE) venue operators are to comply to measures stipulated in this <a href="https://go.gov.sg/peadvisory" target="_blank">document</a> [last updated on 30 Jun 20]. PE operators are also encouraged to refer to the <a href="https://go.gov.sg/peannex" target="_blank">annex</a> and adopt the additional measures within, where possible [last updated on 30 Jun 20]. 
+
+You can also refer to the Singapore Police Force <a href = "https://www.police.gov.sg/e-Services/Police-Licences/Public-Entertainment-Licence" target="_blank">website</a>.
 
 #### **Religious Organisations**
 
