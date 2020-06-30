@@ -26,9 +26,9 @@ With effect from 19 June 2020, dine-in for F&B establishments (except those with
 No. The default is to ensure at least one metre safe distancing between groups of seated diners (five or fewer) at all times. While acrylic dividers or other physical barriers can be adopted alongside the safe distancing requirement, they are not meant to be used as a substitute for the safe distancing requirement. Where physical barriers (e.g. acrylic dividers) are used, additional safeguards must be taken to minimise the risk of cross infection (e.g. regular cleaning).
 
 #### **6. I own a F&B establishment within a mall. Am I required to implement SafeEntry and conduct temperature taking/checks on visible symptoms, since visitors who entered the malls are already required to do so?**
-All F&B establishments with seated diners must implement SafeEntry to facilitate the efficient collection of customer information for contact tracing when needed. 
+All F&B establishments with dine-in facilities must implement SafeEntry to facilitate the efficient collection of customer information for contact tracing when needed. Food courts are expected to put up SafeEntry QR codes for customers to sign in. 
 
-All F&B establishments with seated diners must also conduct temperature taking of customers and checks on visible symptoms, except if they are located in malls which are already doing so. They should however do so, if they operate outside the mall hours.
+All F&B establishments with dine-in facilities must conduct temperature taking and checks visible symptoms, except if they are located in malls that are already doing temperature taking. They should however do so, if they operate outside the mall opening  hours or if they have an entrance not within the mall’s screened area.
 
 #### **7. What are the visible symptoms to check for and how should I check this?**
 Notable visible symptoms to look out for include: (a) coughing; (b) sneezing; (c) breathlessness; and (d) a runny nose.

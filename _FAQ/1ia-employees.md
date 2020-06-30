@@ -88,3 +88,30 @@ b. Dine quickly and leave the public space in a clean state after they have cons
 c. Carry identification to indicate their employment status as permitted enterprise and selected service workers, and provide the identification upon request by Safe Distancing Ambassadors, Enforcement Officers, and police officers.
 
 Hawkers and coffeeshop stall operators may consume their meals at tables in front of their stalls. They should dine alone and keep a distance of at least one metre from another individual, not share tables with other individuals or congregate. 
+
+#### **10. Are workers staying in dormitories allowed to take public transport?**
+As an employer, you must provide transport for your workers to and from their worksites.
+More details on implementing safe management measures for workers on employer-provided transportation can be found <a href="https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation" target="_blank">here</a>.
+
+#### **11. Can my workers who are staying in dormitories walk or take their own personal transport (e.g. bicycle, motorcycles) to and from their worksites?**
+As an employer, you must provide transport for your workers to and from their worksites.
+
+If the worksite is located nearby (e.g. <1km away) and there are no community areas en-route, you can allow your worker to walk or cycle.
+
+When allowing workers to walk or cycle between dormitories and worksites, you must demonstrate that you have complied with the relevant safe management measures upon request by enforcement officers. You must ensure that your workers wear their masks at all times, and that they only travel to and from their worksites with no stops in between.
+
+Workers are not allowed to ride motorcycles to and from their worksites under any circumstances.
+
+More details on implementing safe management measures for workers on employer-provided transportation can be found <a href="https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation" target="_blank">here</a>.
+
+#### **12. Can my workers who are staying in dormitories take taxis or private hire vehicles (e.g. Grab, GoJek) to and from their worksites?**
+As an employer, you must provide transport for your workers to and from their worksites.
+You can use taxis or private hire vehicles (PHVs) as long as you:
+- Work with taxi or PHV operators to pre-arrange and pre-pay for such vehicles to ferry the workers to ensure availability of vehicles and reduce physical interactions between drivers and workers.
+- Work with dormitory operators to plan and coordinate pick-up times so as to reduce congestion.
+AND
+- Are able to demonstrate that you have complied with the relevant safe management measures upon request.
+
+You must ensure that your workers wear their masks at all times, check in using SafeEntry, and that they go directly to and from their worksites with no stops in between.
+
+More details on implementing safe management measures for workers on employer-provided transportation can be found <a href="https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation" target="_blank">here</a>.

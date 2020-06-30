@@ -107,3 +107,6 @@ Companies may refer to MOM’s website for updated information on dormitory clea
 
 #### **5. What is the arrangement for foreign workers currently staying outside the dormitories? E.g. hotels, govt. decanted sites or other private residences.**
 As the resumption of M&O works will be phased out from 2 June 2020, only those deployed for critical maintenance/repair activities under Earlier Permitted Activities by MTI will continue to be able to work until EDB/ESG’s approval has been obtained for other works to resume.
+
+#### **6. Do I have to segregate my workers at their accommodation according to their projects and teams?**
+Yes. Companies must work with dormitory operators to segregate workers according to their worksites and teams so as to avoid inter-mixing.
