@@ -44,7 +44,7 @@ If you have submitted your manpower details by 1730 hours, your employee/workers
 You will need to update your manpower details as soon as there is a change in the specific workers required to work on-site, as this will affect arrangements for your workers’ regular swab tests.
 
 #### **11. My SSIC code is in Marine/Offshore/Process but that is not the nature of my work. Do I still have to submit my manpower details?**
-Manpower details are required for companies utilising  Marine Shipyard or Process manpower quota as defined under MOM. These details are required to ensure that your workers’ SG WorkPass app AccessCode reflects their approval to be deployed for work and to facilitate arrangement for regular swab tests.
+Manpower details are required for companies utilising  Marine Shipyard or Process manpower quota as defined under MOM. These details are required to ensure that your workers’ SGWorkPass app AccessCode reflects their approval to be deployed for work and to facilitate arrangement for regular swab tests.
 
 #### **12. I have successfully submitted my manpower details but the Workpass app still comes out as red. Can I proceed to deploy my workers?**
 The AccessCode factors in a few parameters, namely:
