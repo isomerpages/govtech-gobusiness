@@ -5,13 +5,13 @@ third_nav_title: Manpower Declaration
 ---
 
 #### **1. Why is the manpower submission requirement for Marine & Offshore and Process sectors different?**
-From 1 July 2020, businesses that falls under the Marine & Offshore and Process sectors will be required to submit details of the employees/workers <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a>. This submission of manpower details is required to facilitate information updates for the AccessCode on the SGWorkPass app, including the approval to work and the requirement for regular swabbing. Failure to do so will cause the employee’s SGWorkPass AccessCode status to reflect as “Red”.
+From 1 July 2020, businesses that fall under the Marine & Offshore and Process sectors will be required to submit details of the employees/workers <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a>. This submission of manpower details is required to facilitate information updates for the AccessCode on the SGWorkPass app, including the approval to work and the requirement for regular swabbing. Failure to do so will cause the employee/worker's SGWorkPass AccessCode status to reflect as “Red”.
 
 #### **2. What manpower details must I submit, and from when should I be submitting?**
 You will need to submit the FIN/NRICs of your workers/employees that are working on-site, and the proportion of the on-site workers that work part-time or shifts. If your workers are working on-site, you will also need to provide the address of the work premises, and indicate whether the work premises is a production site (e.g. production plant) or non-production site (e.g. office premise).
 
 For workers and employees that are working from home, who subsequently need to go back to site for specific reasons, you will need to submit their FIN details. 
-Only the details for Singapore Citizens, Singapore Permanent Residents, Employment Pass Holders, S Pass Holders and Work Permit Holders are required to be submitted. All other non-MOM work pass holders (e..g long-term visitor pass or ICA work pass) need not be submitted. 
+Only the details for Singapore Citizens, Singapore Permanent Residents, Employment Pass Holders, S Pass Holders and Work Permit Holders are required to be submitted. All other non-MOM work pass holders (e.g. long-term visitor pass or ICA work pass) need not be submitted. 
 
 #### **3. What is considered a production site?**
 Production site is defined as areas where shipbuilding/shiprepair, process maintenance and construction activities are carried out. Examples of production sites includes shipyards, process plants, refineries and fabrication workshops.
