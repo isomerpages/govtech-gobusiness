@@ -1,6 +1,7 @@
 ---
 title: Manpower Declaration
 permalink: /faq/essentialworkers
+third_nav_title: Manpower Declaration
 ---
 
 #### **1. Is there a guide on how to declare my manpower details?**
