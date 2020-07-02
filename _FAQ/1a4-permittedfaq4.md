@@ -32,43 +32,38 @@ Operators may wish to refer to sector-specific updates on this website, or visit
 - <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Sustaining-the-arts-during-COVID-19.html" target="_blank">Theatres</a> 
 - <a href="https://www.stb.gov.sg/content/stb/en/home-pages/advisory-on-covid-19.html" target="_blank">Attractions</a> 
 
-#### **5. Why are commercial cue sports outlets not able to resume operations yet?**
-Commercial cue sports outlets (i.e. billiard saloons) are considered entertainment venues. The resumption of operations at entertainment venues will be more gradual, as the activities in these settings typically involve large numbers of people coming into close contact, often in enclosed spaces, and for prolonged periods of time, with the potential to spawn large clusters of COVID-19 infections.
-
-SPF has begun to engage billiard saloon operators on the possible safe management measures to be implemented for their operations to resume safely, and will consider operators’ feedback. When the safe management measures have been finalised, SPF will then notify operators of the date when they can resume their operations, subject to the implementation of the safe management measures. Operators can refer to SPF’s <a href="https://www.police.gov.sg/e-services/police-licences/public-entertainment-licence" target="_blank">website</a> for the latest information.
-
-#### **6. Can performing arts resume their rehearsals? Is there a limit to the number of persons allowed during rehearsals?**
+#### **5. Can performing arts resume their rehearsals? Is there a limit to the number of persons allowed during rehearsals?**
 Rehearsals will be allowed to resume, subject to limits on involvement and organisations/practitioners’ ability and readiness to adhere to safe management measures. These would be indicated in NAC’s upcoming advisory for the arts and culture sector.
 
-#### **7. Are there any restrictions for dining in at F&B outlets from 19 June 2020 onwards?**
+#### **6. Are there any restrictions for dining in at F&B outlets from 19 June 2020 onwards?**
 Yes. There should be a one metre distance between distinct groups of not more than five persons, with no mixing between groups. Other safe management measures should also be in place.
 
-#### **8. What are some of the personal health and wellness services that may reopen in Phase Two?**
+#### **7. What are some of the personal health and wellness services that may reopen in Phase Two?**
 Some of the personal health and wellness services that may reopen include spas, massage centres, fitness studios, gyms and sports facilities.
 
-#### **9. Are car showrooms allowed to reopen in Phase Two?**
+#### **8. Are car showrooms allowed to reopen in Phase Two?**
 Yes. Car showrooms may reopen from 19 June 2020.
 
-#### **10. Country clubs are allowed to open in Phase Two. Are all facilities within the country club allowed to open from 19 June 2020?**
-No. While country clubs are allowed to resume operations from 19 June 2020, facilities such as karaoke rooms, cinema/movie rooms and billiard halls within the club must remain closed.
+#### **9. Country clubs are allowed to open in Phase Two. Are all facilities within the country club allowed to open from 19 June 2020?**
+No. While country clubs are allowed to resume operations from 19 June 2020, facilities such as karaoke rooms and cinema/movie rooms within the club must remain closed.
 
-#### **11. When will events be allowed to resume?**
+#### **10. When will events be allowed to resume?**
 Activities or settings where large numbers of people are likely to come into close contact, often in enclosed spaces and for prolonged periods of time, are still not allowed to resume in Phase Two as these settings can spawn large clusters of infections, given the number of close contacts between individuals during the course of such activities.
 
 STB has begun to engage relevant businesses and organisations on possible safe management measures to be taken for these activities or settings. STB will advise businesses and organisations on the approval processes and timelines for resumption at a later date.
 
-#### **12. Are tourist guides allowed to conduct tours?**
+#### **11. Are tourist guides allowed to conduct tours?**
 Organised guided tours (both indoors and outdoors) should be deferred or cancelled until further notice.
 
-#### **13. What are some examples of home-based services which can resume in Phase Two? Do they include home-based cleaners or home-based salons?**
+#### **12. What are some examples of home-based services which can resume in Phase Two? Do they include home-based cleaners or home-based salons?**
 Under Phase Two, home-based services, including those involving visitors to the home, will be allowed to resume, as long as they comply with prevailing rules and safe management measures, including the cap of five visitors allowed in the home at any one time. Service providers are required to wear masks and maintain a one metre distancing.
 
 Home-based services that involve customers entering one's home for a prolonged period e.g. private dining and hairdressing services must deploy SafeEntry.
 
-#### **14. For wedding solemnizations, can different groups of 20 persons (but keep to 20 persons at any one time) attend the same solemnization but at different times?**
+#### **13. For wedding solemnizations, can different groups of 20 persons (but keep to 20 persons at any one time) attend the same solemnization but at different times?**
 No. The maximum number of 20 persons allowed to attend the solemnization applies to the entire duration of a solemnization. Excluding the Solemnizer, the maximum number of persons per wedding solemnization at home, Registry of Marriages (ROM) or Registry of Muslim Marriages (ROMM) is ten. At external venues, the maximum number of persons allowed to attend is twenty or the safe capacity of the venue, whichever is lower.
 
-#### **15. For weddings, can the bride and groom remove their face masks for the exchange of vows, to kiss and for photo-taking? Can guests remove their face masks for photo-taking?**
+#### **14. For weddings, can the bride and groom remove their face masks for the exchange of vows, to kiss and for photo-taking? Can guests remove their face masks for photo-taking?**
 No. To minimise the risk of community transmission and in line with our current safe management measures, masks should not be removed for the entire duration of the solemnization as the solemnization involves individuals from different households.
 
 For more COVID-19 (marriage-related) FAQs, visit ROM’s website.
