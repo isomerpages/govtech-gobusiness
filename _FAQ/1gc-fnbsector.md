@@ -61,7 +61,7 @@ Bar counters within the restaurants are considered higher-risk areas where there
 #### **13. Can F&B establishments without a retail licence serve alcohol for takeaway or delivery?**
 No. In view that F&B dine-in has resumed, the earlier concession given by Police to allow takeaway or delivery of alcohol at F&B premises without the need for a retail liquor licence will cease. F&B outlets that wish to continue providing such retail services are required to apply for a retail (Class 3A/3B) liquor licence, in accordance with the Liquor Control (Supply and Consumption) Act 2015. They should do so by 31 July 2020. 
 
-F&B outlets may make the application online at <a href="https://covid.gobusiness.gov.sg" target="_blank">GoBusiness portal</a>. Please note that the application is subject to the planning permission for the premises permitting takeaway or deliveries, among other considerations. In the interim when such an application (if any) was submitted and is being processed, Police will continue to exercise flexibility until the outcome of the licence application is made known to the applicant. 
+F&B outlets may make the application online at <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness portal</a>. Please note that the application is subject to the planning permission for the premises permitting takeaway or deliveries, among other considerations. In the interim when such an application (if any) was submitted and is being processed, Police will continue to exercise flexibility until the outcome of the licence application is made known to the applicant. 
 
 Should you require further information or assistance on the matter, please contact SPF via: SPF_PLRD_PELLD@spf.gov.sg.
 
