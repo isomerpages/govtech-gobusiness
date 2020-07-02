@@ -4,12 +4,7 @@ permalink: /faq/sectorspecific/healthandsocial
 third_nav_title: For Sector-Specific Queries
 ---
 
-#### **1. Why are treatment modalities like cupping, moxibustion, guasha and tuina massage allowed only if assessed to be necessary?**
-Even as we resume more TCM services, managing the current outbreak situation and preventing new clusters from forming remains MOH’s priority. The resumption of more TCM services will be gradual and controlled, as we carefully balance patients’ needs against the larger public health concerns and challenges.
-
-As such, TCM services that involve direct prolonged contact with patients e.g. cupping, moxibustion, guasha and tuina massage, should only be performed after careful assessment by the TCMPs that, if not provided or performed, would result in significant or rapid deterioration of the patient’s medical condition, and potentially threatening their health and well-being.
-
-#### **2. Will there be any practice restrictions as TCM needle acupuncture is allowed for other conditions besides pain management?**
+#### **1. Will there be any practice restrictions as TCM needle acupuncture is allowed for other conditions besides pain management?**
 The provision of TCM needle acupuncture for all conditions will be allowed, with the following restrictions:
 
 i. Only TCMPs in TCM clinics and those co-located within a TCM medical hall with dedicated treatment rooms can offer acupuncture treatment;<br>
@@ -21,7 +16,7 @@ iv. Masks must be worn by both TCMPs and patients throughout the acupuncture tre
 - Proper disposal of used acupuncture needles and all other wastes.
 - Maintain a clean work environment.
 
-#### **3. Am I allowed to make house calls to deliver permitted TCM services?**
+#### **2. Am I allowed to make house calls to deliver permitted TCM services?**
 Yes, house calls will be allowed but with the following restrictions:
 
 i. Make a pre-visit phone call on the day of home therapy/home visit to ascertain the patient’s/client’s health condition and potential exposure to COVID-19 prior to the therapy/visit and review the need to proceed with home therapy/home visit;
@@ -36,5 +31,5 @@ iv. Masks must be worn by both TCMPs and patients throughout the consultation an
 - Proper disposal of used acupuncture needles and all other wastes.
 - Maintain a clean work environment.
 
-#### **4. Am I allowed to practice at multiple places of practice?**
+#### **3. Am I allowed to practice at multiple places of practice?**
 To minimise infection risk and cross-institutional transmission of COVID-19, TCMPs who wish to practice during phase 1 of post CB period are allowed to do so only at one place of practice.
