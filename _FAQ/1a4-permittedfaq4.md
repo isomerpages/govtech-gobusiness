@@ -52,18 +52,15 @@ Activities or settings where large numbers of people are likely to come into clo
 
 STB has begun to engage relevant businesses and organisations on possible safe management measures to be taken for these activities or settings. STB will advise businesses and organisations on the approval processes and timelines for resumption at a later date.
 
-#### **11. Are tourist guides allowed to conduct tours?**
-Organised guided tours (both indoors and outdoors) should be deferred or cancelled until further notice.
-
-#### **12. What are some examples of home-based services which can resume in Phase Two? Do they include home-based cleaners or home-based salons?**
+#### **11. What are some examples of home-based services which can resume in Phase Two? Do they include home-based cleaners or home-based salons?**
 Under Phase Two, home-based services, including those involving visitors to the home, will be allowed to resume, as long as they comply with prevailing rules and safe management measures, including the cap of five visitors allowed in the home at any one time. Service providers are required to wear masks and maintain a one metre distancing.
 
 Home-based services that involve customers entering one's home for a prolonged period e.g. private dining and hairdressing services must deploy SafeEntry.
 
-#### **13. For wedding solemnizations, can different groups of 20 persons (but keep to 20 persons at any one time) attend the same solemnization but at different times?**
+#### **12. For wedding solemnizations, can different groups of 20 persons (but keep to 20 persons at any one time) attend the same solemnization but at different times?**
 No. The maximum number of 20 persons allowed to attend the solemnization applies to the entire duration of a solemnization. Excluding the Solemnizer, the maximum number of persons per wedding solemnization at home, Registry of Marriages (ROM) or Registry of Muslim Marriages (ROMM) is ten. At external venues, the maximum number of persons allowed to attend is twenty or the safe capacity of the venue, whichever is lower.
 
-#### **14. For weddings, can the bride and groom remove their face masks for the exchange of vows, to kiss and for photo-taking? Can guests remove their face masks for photo-taking?**
+#### **13. For weddings, can the bride and groom remove their face masks for the exchange of vows, to kiss and for photo-taking? Can guests remove their face masks for photo-taking?**
 No. To minimise the risk of community transmission and in line with our current safe management measures, masks should not be removed for the entire duration of the solemnization as the solemnization involves individuals from different households.
 
 For more COVID-19 (marriage-related) FAQs, visit ROM’s website.
