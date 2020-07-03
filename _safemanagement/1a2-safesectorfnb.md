@@ -85,7 +85,7 @@ Developers are to comply to measures stipulated in this <a href="https://go.gov.
 
 #### **Public Entertainment**
 
-Public Entertainment (PE) venue operators are to comply to measures stipulated in this <a href="https://go.gov.sg/peadvisory" target="_blank">document</a> [last updated on 30 Jun 20]. PE operators are also encouraged to refer to the <a href="https://go.gov.sg/peannex" target="_blank">annex</a> and adopt the additional measures within, where possible [last updated on 30 Jun 20]. 
+Public Entertainment (PE) venue operators are to comply to measures stipulated in this <a href="https://go.gov.sg/peadvisory" target="_blank">document</a> [last updated on 3 Jul 20]. PE operators are also encouraged to refer to the <a href="https://go.gov.sg/peannex" target="_blank">annex</a> and adopt the additional measures within, where possible [last updated on 30 Jun 20]. 
 
 You can also refer to the Singapore Police Force <a href = "https://www.police.gov.sg/e-Services/Police-Licences/Public-Entertainment-Licence" target="_blank">website</a>.
 
