@@ -43,7 +43,7 @@ Estate agents and real estate salespersons are to comply to measures stipulated 
 
 #### **Finance**
 
-Enterprises in the finance sector are to comply to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements2" target="_blank">document</a> [last updated on 15 Jun 20] under Phase Two. You can also refer to the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news" target="_blank">website</a>.
+Enterprises in the finance sector are to comply to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements2" target="_blank">document</a> [last updated on 15 Jun 20]. You can also refer to the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news" target="_blank">website</a>.
 
 #### **Health and Social Services**
 
@@ -57,7 +57,7 @@ Hotels are to comply to measures stipulated in this <a href="https://go.gov.sg/h
 
 #### **Landscape-related Services**
 
-In Phase Two, all landscape-related services and nurseries will resume, subject to safe management measures as required by MOM and NParks. More information for the landscape sector is available <a href="https://go.gov.sg/safe-landscaping" target="_blank">here</a>. For further clarification, email <a href = "mailto: NParks_Industry@nparks.gov.sg">NParks_Industry@nparks.gov.sg</a>.
+All landscape-related services and nurseries will resume, subject to safe management measures as required by MOM and NParks. More information for the landscape sector is available <a href="https://go.gov.sg/safe-landscaping" target="_blank">here</a>. For further clarification, email <a href = "mailto: NParks_Industry@nparks.gov.sg">NParks_Industry@nparks.gov.sg</a>.
 
 #### **Marine & Offshore (M&O) Sector**
 
@@ -103,7 +103,6 @@ Religious organisations are to comply to measures stipulated in this <a href="ht
 
 #### **Retail & F&B**
 
-Under Phase Two,
 - F&B establishments are to comply to measures stipulated in this <a href="https://go.gov.sg/fbestablishments2" target="_blank">document</a> [last updated on 16 Jun 20].<br>
 - Infographic on Safe Management Measures at F&B Establishments [last updated on 16 Jun 20]<br>
 ![F&B](/images/smrfnb.jpg "F&B establishments")
