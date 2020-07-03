@@ -89,7 +89,7 @@ Energy and chemical plant owners are to comply to the COVID-Safe restart criteri
 
 #### **Property show galleries**
 
-Developers are to comply to measures stipulated in this <a href="https://go.gov.sg/PropertyURA" target="_blank">document</a> [last updated on 17 Jun 20] under Phase 2. You can also refer to the Urban Redevelopment Authority <a href = "https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-13" target="_blank">website</a>.
+Developers are to comply to measures stipulated in this <a href="https://go.gov.sg/PropertyURA" target="_blank">document</a> [last updated on 17 Jun 20]. You can also refer to the Urban Redevelopment Authority <a href = "https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-13" target="_blank">website</a>.
 
 #### **Public Entertainment**
 
@@ -120,7 +120,7 @@ Tour operators and tourist guides are to comply to measures stipulated in this <
 
 #### **Veterinary and pet-related services**
 
-Under Phase Two, all animal and veterinary-related services and activities will resume, as long as they comply with safe management measures as required by MOM and the Animal & Veterinary Service, a cluster of NParks. More information is available at <a href="https://go.gov.sg/avs-covid" target="_blank">here</a>.
+All animal and veterinary-related services and activities will resume, as long as they comply with safe management measures as required by MOM and the Animal & Veterinary Service, a cluster of NParks. More information is available at <a href="https://go.gov.sg/avs-covid" target="_blank">here</a>.
 
 #### **Water Quality for Cooling Towers, Swimming Pools and Water Fountains**
 
