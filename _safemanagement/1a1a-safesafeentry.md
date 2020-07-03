@@ -26,20 +26,20 @@ All businesses and services that are in operation must institute SafeEntry for t
     a.	Malls<br>
     b.	Supermarkets<br>
     c.	Selected popular wet markets (Geylang Serai Market, Block 104 / 105 Yishun Ring Road (Chong Pang Market), Block 20/21 Marsiling Lane, and Block 505 Jurong West Street 52)<br>
-    d.	**[New]** F&B outlets for dine-in customers<br>
-    e.	**[New]** Large retail outlets (> 930 sqm or 10,000 sqft)<br>
-    f.	**[Updated]** Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres<br>
+    d.	F&B outlets for dine-in customers<br>
+    e.	Large retail outlets (> 930 sqm or 10,000 sqft)<br>
+    f.	Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres<br>
     g.	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)<br>
-- **[New]** Tuition and enrichment, training centres, and other training/ class venues 
-- **[New]** Sports and recreation<br>
+- Tuition and enrichment, training centres, and other training/ class venues 
+- Sports and recreation<br>
     a.	Sports and fitness centres, including gyms, studios<br>
     b.	Country and recreation clubs, and registered premises of other member clubs/ societies<br>
-- **[New]** Cultural and entertainment venues<br>
+- Cultural and entertainment venues<br>
     a.	Libraries<br>
     b.	Museums, exhibitions, and showrooms<br>
     c.	Cinemas, attractions, and other entertainment venues<br>
-- **[New]** Home-based businesses that involve customers entering one’s home for a prolonged period, e.g. private dining, hairdressing services
-- **[New]** Event venues e.g. function halls/ rooms, event lawns  
+- Home-based businesses that involve customers entering one’s home for a prolonged period, e.g. private dining, hairdressing services
+- Event venues e.g. function halls/ rooms, event lawns  
 
 SafeEntry has been progressively rolled out to taxis since 12 May 2020 to better support contact tracing efforts for street-hail trips. All commuters who get onto the taxi should scan the SafeEntry QR codes deployed in taxis when taking street-hail trips.
 
