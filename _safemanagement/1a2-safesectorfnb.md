@@ -11,9 +11,9 @@ Accounting practices are to comply to measures stipulated in this <a href="https
 
 #### **Arts and Culture**
 
-Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nacsmrrequirements" target="_blank">document</a> [last updated on 19 Jun 20] under Phase Two. You can also refer to the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html" target="_blank">website</a>. 
+Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nacsmrrequirements" target="_blank">document</a> [last updated on 19 Jun 20]. You can also refer to the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html" target="_blank">website</a>. 
 
-Museum stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 19 Jun 20] under Phase Two. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
+Museum stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 19 Jun 20]. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
 
 #### **Attractions**
 
@@ -25,31 +25,39 @@ Enterprises in the construction sector are to comply to measures stipulated in t
 
 Enterprises undertaking renovation works and building works for residential properties from 2 June 2020 are to comply to measures stipulated in this <a href="https://go.gov.sg/renosmrrequirements" target="_blank">document</a> [last updated on 13 Jun 20]. You can also refer to the BCA <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">website</a>.
 
+#### **Cinemas**
+
+Cinema operators are to comply to measures stipulated in this <a href="https://go.gov.sg/cinemasadvisory" target="_blank">document</a> [last updated on 3 Jul 20]. You can also refer to the Infocomm Media Development Authority <a href="https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Advisories-on-COVID-19-Situation" target="_blank">website</a>.
+
 #### **Country and Recreation Clubs**
 
-Country and recreation clubs are to comply to measures stipulated in this <a href="https://go.gov.sg/countryclubadvisory" target="_blank">document</a> [last updated on 18 Jun] under Phase Two. 
+Country and recreation clubs are to comply to measures stipulated in this <a href="https://go.gov.sg/countryclubadvisory" target="_blank">document</a> [last updated on 18 Jun]. 
 
 #### **Dental Sector**
 
-Dental clinics and dental practitioners are to comply to measures stipulated in this <a href="https://go.gov.sg/dentalcircular2" target="_blank">document</a> [last updated on 17 Jun 20] under Phase Two.
+Dental clinics and dental practitioners are to comply to measures stipulated in this <a href="https://go.gov.sg/dentalcircular2" target="_blank">document</a> [last updated on 17 Jun 20].
 
 #### **Estate Agents and Real Estate Salespersons**
 
-Estate agents and real estate salespersons are to comply to measures stipulated in this <a href="https://go.gov.sg/cea2" target="_blank">document</a> [last updated on 17 Jun 20] under Phase Two. You can also refer to Council for Estate Agencies <a href = "https://www.cea.gov.sg/news-publications/press-releases/covid-19-cea-s-measures-and-guidance" target="_blank">website</a>.
+Estate agents and real estate salespersons are to comply to measures stipulated in this <a href="https://go.gov.sg/cea2" target="_blank">document</a> [last updated on 17 Jun 20]. You can also refer to Council for Estate Agencies <a href = "https://www.cea.gov.sg/news-publications/press-releases/covid-19-cea-s-measures-and-guidance" target="_blank">website</a>.
 
 #### **Finance**
 
-Enterprises in the finance sector are to comply to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements2" target="_blank">document</a> [last updated on 15 Jun 20] under Phase Two. You can also refer to the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news" target="_blank">website</a>.
+Enterprises in the finance sector are to comply to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements2" target="_blank">document</a> [last updated on 15 Jun 20]. You can also refer to the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news" target="_blank">website</a>.
 
 #### **Health and Social Services**
 
-Residential and Community-based Facilities are to comply to measures stipulated in this <a href="https://go.gov.sg/msfresidentialadvisory" target="_blank">document</a> [last updated on 17 Jun 20] under Phase Two. You can also refer to the Ministry of Social and Family Development <a href = "https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx" target="_blank">website</a>.
+Residential and Community-based Facilities are to comply to measures stipulated in this <a href="https://go.gov.sg/msfresidentialadvisory" target="_blank">document</a> [last updated on 17 Jun 20]. You can also refer to the Ministry of Social and Family Development <a href = "https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx" target="_blank">website</a>.
 
-Social Service Agencies and community groups distributing essential aid (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid) are to comply to measures stipulated in this <a href="https://go.gov.sg/msfsocialadvisory" target="_blank">document</a> [last updated on 17 Jun 20] under Phase Two. You can also refer to the Ministry of Social and Family Development <a href = "https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx" target="_blank">website</a>.
+Social Service Agencies and community groups distributing essential aid (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid) are to comply to measures stipulated in this <a href="https://go.gov.sg/msfsocialadvisory" target="_blank">document</a> [last updated on 17 Jun 20]. You can also refer to the Ministry of Social and Family Development <a href = "https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx" target="_blank">website</a>.
+
+#### **Hotels**
+
+Hotels are to comply to measures stipulated in this <a href="https://go.gov.sg/hoteladvisory" target="_blank">document</a> [last updated 3 Jul 20]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html#Hotels" target="_blank">website</a>.
 
 #### **Landscape-related Services**
 
-In Phase Two, all landscape-related services and nurseries will resume, subject to safe management measures as required by MOM and NParks. More information for the landscape sector is available <a href="https://go.gov.sg/safe-landscaping" target="_blank">here</a>. For further clarification, email <a href = "mailto: NParks_Industry@nparks.gov.sg">NParks_Industry@nparks.gov.sg</a>.
+All landscape-related services and nurseries will resume, subject to safe management measures as required by MOM and NParks. More information for the landscape sector is available <a href="https://go.gov.sg/safe-landscaping" target="_blank">here</a>. For further clarification, email <a href = "mailto: NParks_Industry@nparks.gov.sg">NParks_Industry@nparks.gov.sg</a>.
 
 #### **Marine & Offshore (M&O) Sector**
 
@@ -81,7 +89,7 @@ Energy and chemical plant owners are to comply to the COVID-Safe restart criteri
 
 #### **Property show galleries**
 
-Developers are to comply to measures stipulated in this <a href="https://go.gov.sg/PropertyURA" target="_blank">document</a> [last updated on 17 Jun 20] under Phase 2. You can also refer to the Urban Redevelopment Authority <a href = "https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-13" target="_blank">website</a>.
+Developers are to comply to measures stipulated in this <a href="https://go.gov.sg/PropertyURA" target="_blank">document</a> [last updated on 17 Jun 20]. You can also refer to the Urban Redevelopment Authority <a href = "https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-13" target="_blank">website</a>.
 
 #### **Public Entertainment**
 
@@ -95,7 +103,6 @@ Religious organisations are to comply to measures stipulated in this <a href="ht
 
 #### **Retail & F&B**
 
-Under Phase Two,
 - F&B establishments are to comply to measures stipulated in this <a href="https://go.gov.sg/fbestablishments2" target="_blank">document</a> [last updated on 16 Jun 20].<br>
 - Infographic on Safe Management Measures at F&B Establishments [last updated on 16 Jun 20]<br>
 ![F&B](/images/smrfnb.jpg "F&B establishments")
@@ -107,9 +114,13 @@ Under Phase Two,
 
 Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this <a href="https://go.gov.sg/sportsadvisory" target="_blank">document</a> [last updated 18 Jun 20]
 
+#### **Tours**
+
+Tour operators and tourist guides are to comply to measures stipulated in this <a href="https://go.gov.sg/touradvisory" target="_blank">document</a> [last updated 28 Jun 20]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html#Tours" target="_blank">website</a>.
+
 #### **Veterinary and pet-related services**
 
-Under Phase Two, all animal and veterinary-related services and activities will resume, as long as they comply with safe management measures as required by MOM and the Animal & Veterinary Service, a cluster of NParks. More information is available at <a href="https://go.gov.sg/avs-covid" target="_blank">here</a>.
+All animal and veterinary-related services and activities will resume, as long as they comply with safe management measures as required by MOM and the Animal & Veterinary Service, a cluster of NParks. More information is available at <a href="https://go.gov.sg/avs-covid" target="_blank">here</a>.
 
 #### **Water Quality for Cooling Towers, Swimming Pools and Water Fountains**
 
