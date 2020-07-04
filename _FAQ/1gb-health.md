@@ -1,5 +1,5 @@
 ---
-title: 1.	Healthcare and Social Services
+title: Healthcare and Social Services
 permalink: /faq/sectorspecific/health
 third_nav_title: For Sector-Specific Queries
 ---
