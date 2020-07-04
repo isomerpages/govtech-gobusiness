@@ -24,10 +24,14 @@ You will be expected to  ensure that your manpower details are updated for the e
 #### **6. I run an Employment Agency. Would it be my responsibility to submit/declare my manpower details or should companies that hire these contract employees be responsible?**
 Employment agencies should submit/declare the manpower details for all employees under their direct employment, regardless of where they are deployed.
 
-#### **7. How do I declare my manpower details?**
+#### **7. What manpower details must companies submit? How do I declare my manpower details?**
+Companies on the permitted list are not required to submit the NRIC/FIN for their workers. They will only need to declare their manpower numbers (i.e. total number of manpower on-site and the proportion of which work part-time or shifts).
+
 For applicants with a CorpPass account, please login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">https://www.gobusiness.gov.sg/exemptions</a>. Thereafter, please click on the button “submit manpower”, which will be made available only for permitted business resumptions/ general exemptions. 
 
 Businesses who fail to submit the manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
+
+Specific manpower declaration requirements for the Marine & Offshore and Process sectors can be found <a href="/faq/essentialworkers/offshore" target="_blank">here</a>.
 
 #### **8. My business is on the permitted services list. Why do I still need to declare my manpower details?**
 The Multi-Ministry TaskForce announced on 19 May 2020 that Circuit Breaker measures will be gradually eased from 2 June 2020, and businesses will be allowed to resume activities in a phased manner.
