@@ -23,14 +23,14 @@ MCCY will conduct enforcement checks and action will be taken against ROs who do
 - ROs who wish to deviate from the parameters set out in MCCY’s 18 Jun 2020 advisory on resumption of more religious activities in Phase Two will require MCCY’s approval before proceeding with their activities. 
 - MCCY will conduct enforcement checks and action will be taken against ROs who do not comply with the relevant guidelines, including the cessation of operations.
 
-#### **4. Are entertainment venues (e.g. public entertainment venues, cinemas, theatres and attractions) allowed to resume operations from 19 June onwards?**
-No, these venues will resume operations progressively, later in Phase Two. These venues and activities typically involve large numbers of people interacting with one another, often in enclosed spaces, and for prolonged periods of time, with the potential to spawn large clusters of infected persons.  The relevant agencies will be engaging the operators of these venues on the safe management measures required to manage the risks involved, and will advise them on the approval processes and timelines for the resumption of their operations. 
+#### **4. Are entertainment venues (e.g. public entertainment venues, cinemas, theatres and attractions) allowed to resume operations?**
+These venues will resume operations progressively in Phase Two. The relevant agencies have been engaging the operators of these venues on the safe management measures required to manage the risks involved, and some of these venues  have since reopened while others will be reopening soon. For the remaining venues, the relevant agencies will continue to engage the operators and advise them on the approval processes and timelines for the resumption of their operations. 
 
 Operators may wish to refer to sector-specific updates on this website, or visit the following agencies’ website for the latest updates: 
 - <a href="https://www.police.gov.sg/e-Services/Police-Licences/Public-Entertainment-Licence" target="_blank">Public entertainment venues</a>
 - <a href="https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Advisories-on-COVID-19-Situation" target="_blank">Cinemas</a> 
 - <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Sustaining-the-arts-during-COVID-19.html" target="_blank">Theatres</a> 
-- <a href="https://www.stb.gov.sg/content/stb/en/home-pages/advisory-on-covid-19.html" target="_blank">Attractions</a> 
+- <a href="https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-attractions.html#Attractions" target="_blank">Attractions</a> 
 
 #### **5. Can performing arts resume their rehearsals? Is there a limit to the number of persons allowed during rehearsals?**
 Rehearsals will be allowed to resume, subject to limits on involvement and organisations/practitioners’ ability and readiness to adhere to safe management measures. These would be indicated in NAC’s upcoming advisory for the arts and culture sector.
@@ -45,7 +45,7 @@ Some of the personal health and wellness services that may reopen include spas, 
 Yes. Car showrooms may reopen from 19 June 2020.
 
 #### **9. Country clubs are allowed to open in Phase Two. Are all facilities within the country club allowed to open from 19 June 2020?**
-No. While country clubs are allowed to resume operations from 19 June 2020, facilities such as karaoke rooms and cinema/movie rooms within the club must remain closed.
+No. While country clubs are allowed to resume operations from 19 June 2020, their facilities can only resume operations when the same activities are allowed to resume in the public sphere. For instance, billiard facilities in the country clubs may open from 4 July 2020, in line with the reopening date of commercial billiard saloons. Other facilities such as karaoke rooms within the club must remain closed. The management of the country clubs are encouraged to adopt the same safe management measures for these facilities provided for the respective sectors to reduce risks of COVID-19 transmission.
 
 #### **10. When will events be allowed to resume?**
 Activities or settings where large numbers of people are likely to come into close contact, often in enclosed spaces and for prolonged periods of time, are still not allowed to resume in Phase Two as these settings can spawn large clusters of infections, given the number of close contacts between individuals during the course of such activities.

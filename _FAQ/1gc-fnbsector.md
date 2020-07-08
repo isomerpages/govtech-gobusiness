@@ -16,49 +16,46 @@ However, please note that you will need to submit manpower details via the <a hr
 
 ## **<ins>F&B Establishments</ins>**
 
-#### **3. Will bars or entertainment venues that offer food and hot snacks be allowed to provide dine-in options if they do not provide live music performances, dancing or karaoke activities (i.e. just F&B)?**
-Bars (licensed by SFA under ‘Pubs, Bars, Nightclub, Discos') and entertainment venues (licensed by SPF under the Public Entertainment Act) are not allowed to open, and hence cannot provide dine-in options during Phase Two.
+#### **3. What are the safe management measures F&B establishments need to implement for dine-in?**
+With effect from 19 June 2020, dine-in for F&B establishments is allowed. Please refer to the <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/advisory-for-phase-2-re-opening-of--food-and-beverage-establishments" target="_blank">advisory for Phase Two Re-opening of Food & Beverage Establishments</a> for details on the applicable safe management measures. 
 
-#### **4. What are the safe management measures F&B establishments need to implement for dine-in?**
-With effect from 19 June 2020, dine-in for F&B establishments (except those with SFA food shop licences under the Pubs, Bars, Nightclubs and Discos categories) is allowed. Please refer to the <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/advisory-for-phase-2-re-opening-of--food-and-beverage-establishments" target="_blank">advisory for Phase Two Re-opening of Food & Beverage Establishments</a> for details on the applicable safe management measures.
-
-#### **5. Can F&B establishments use acrylic dividers or physical barriers to replace the need for 1m safe distancing?**
+#### **4. Can F&B establishments use acrylic dividers or physical barriers to replace the need for 1m safe distancing?**
 No. The default is to ensure at least one metre safe distancing between groups of seated diners (five or fewer) at all times. While acrylic dividers or other physical barriers can be adopted alongside the safe distancing requirement, they are not meant to be used as a substitute for the safe distancing requirement. Where physical barriers (e.g. acrylic dividers) are used, additional safeguards must be taken to minimise the risk of cross infection (e.g. regular cleaning).
 
-#### **6. I own a F&B establishment within a mall. Am I required to implement SafeEntry and conduct temperature taking/checks on visible symptoms, since visitors who entered the malls are already required to do so?**
+#### **5. I own a F&B establishment within a mall. Am I required to implement SafeEntry and conduct temperature taking/checks on visible symptoms, since visitors who entered the malls are already required to do so?**
 All F&B establishments with dine-in facilities must implement SafeEntry to facilitate the efficient collection of customer information for contact tracing when needed. Food courts are expected to put up SafeEntry QR codes for customers to sign in. 
 
 All F&B establishments with dine-in facilities must conduct temperature taking and checks for visible symptoms, except if they are located in malls that are already doing temperature taking. They should however do so, if they operate outside the mall opening  hours or if they have an entrance not within the mall’s screened area.
 
-#### **7. What are the visible symptoms to check for and how should I check this?**
+#### **6. What are the visible symptoms to check for and how should I check this?**
 Notable visible symptoms to look out for include: (a) coughing; (b) sneezing; (c) breathlessness; and (d) a runny nose.
 
 These would be noticeable symptoms. Advise those who appear unwell to see a doctor before turning them away.
 
-#### **8. Are we allowed to hold sales and promotional activities within our F&B outlets?**
+#### **7. Are we allowed to hold sales and promotional activities within our F&B outlets?**
 F&B establishments should avoid activities that would attract crowds in and outside of their premises (e.g. providing special discounts or offers for dine-in), for at least two weeks from Phase Two reopening. This is to facilitate crowd management.
 
 Outlets may continue with ongoing promotional activities for online delivery and takeaway orders, but must also take note to minimise long queues of customers and delivery personnel at the shopfront. Outlets are encouraged to adopt a tiered pricing strategy where applicable to support staggered meal hours, particularly at locations that attract large crowds.
 
-#### **9. Can I leave the cutleries and condiments on the dining table or placed at a common station for the customers to self-serve?**
+#### **8. Can I leave the cutleries and condiments on the dining table or placed at a common station for the customers to self-serve?**
 To minimise unnecessary mingling/crowding at F&B outlets, the provision of condiments (e.g. soy sauce, salt and pepper, chilli sauce) and cutleries at self-serve common stations should not be allowed, unless these are individually packed & sealed.
 
 For dine-in, condiments should be provided to diners only after they are seated or upon request, and be promptly removed after diners have taken the required serving. Where practicable, F&B establishments should ensure that any shared condiments are properly bottled, and not kept in containers with partial openings and/or involve the use of common utensils. Likewise, cutleries should either be provided to diners when they are seated, or stored in a properly covered container/ compartment at respective dining tables. 
 
 The above notwithstanding, food stalls and kiosks are allowed to place condiments and cutleries at their stall counters (e.g. in covered containers), as long as these are within sight of and managed directly by the staff.
 
-#### **10. For related diners, do they still need to take alternative seats when they are dining together?**
+#### **9. For related diners, do they still need to take alternative seats when they are dining together?**
 Each table or group must be limited to five or fewer persons, with at least one-metre spacing between tables or groups. In situations where groups are unable to be separated one metre apart from each other due to fixed furniture, alternate tables (or seats between groups) must be marked out to maintain the one-metre distance between groups.
 
-#### **11. Are there guidelines for diners on when they can remove their mask and how soon would they need to put it back on?**
+#### **10. Are there guidelines for diners on when they can remove their mask and how soon would they need to put it back on?**
 Dine-in customers are required to wear their masks at all times except when eating or drinking, but they must put the mask back on immediately after.
 
-#### **12. Can F&B establishments serve alcohol? If so, can the bar counters in the restaurants be opened?**
+#### **11. Can F&B establishments serve alcohol? If so, can the bar counters in the restaurants be opened?**
 Only permitted F&B establishments are allowed to operate and provide dine-in services. Such outlets can serve alcohol along with the meals. 
 
 Bar counters within the restaurants are considered higher-risk areas where there is a higher likelihood of customers mixing between groups and socialising/mingling. F&B establishments can mitigate the risk by seating customers on stools or clearly demarcating the boundaries for each dining area to ensure separation of at least one metre between groups at all times. F&B establishments should also refrain from serving drinks-only menu at the bar counters.
 
-#### **13. Can F&B establishments without a retail licence serve alcohol for takeaway or delivery?**
+#### **12. Can F&B establishments without a retail licence serve alcohol for takeaway or delivery?**
 No. In view that F&B dine-in has resumed, the earlier concession given by Police to allow takeaway or delivery of alcohol at F&B premises without the need for a retail liquor licence will cease. F&B outlets that wish to continue providing such retail services are required to apply for a retail (Class 3A/3B) liquor licence, in accordance with the Liquor Control (Supply and Consumption) Act 2015. They should do so by 31 July 2020. 
 
 F&B outlets may make the application online at <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness portal</a>. Please note that the application is subject to the planning permission for the premises permitting takeaway or deliveries, among other considerations. In the interim when such an application (if any) was submitted and is being processed, Police will continue to exercise flexibility until the outcome of the licence application is made known to the applicant. 
@@ -139,58 +136,50 @@ For the safety of employees and customers, facial threading services where thera
 #### **30. Are paid kiddy rides/indoor playgrounds/family entertainment centres permitted to resume operations?**
 No. Paid kiddy rides, indoor playgrounds and family entertainment centres are not permitted to resume operations as they are considered a form of entertainment. 
 
-#### **31. Are game arcades/claw machines permitted to resume operations?**
-No, they must remain closed as they are considered a form of entertainment.
-
-#### **32. Are vending machines permitted to open?**
+#### **31. Are vending machines permitted to open?**
 Yes, vending machines are permitted to open.
 
-#### **33. Are retail businesses who conduct their businesses from their outdoor display areas outside their retail shops permitted to resume operations?**
+#### **32. Are retail businesses who conduct their businesses from their outdoor display areas outside their retail shops permitted to resume operations?**
 Yes. Retail businesses are allowed to reopen their shopfronts from 19 June 2020, including operating from their outdoor display areas outside their shops. 
 
 Retailers are required to implement safe management measures. More details can be found <a href="https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/jun-2020/retail-advisory_16-june-2020/safe-management-measures-for-retail_reopening.pdf?la=en" target="_blank">here</a>.
 
-#### **34. Are home-based beauty salons allowed to reopen? Is there an advisory for home-based beauty salon businesses?**
+#### **33. Are home-based beauty salons allowed to reopen? Is there an advisory for home-based beauty salon businesses?**
 Yes, home-based beauty services are allowed to resume from 19 June 2020. Home-based businesses must ensure that Safe Management Measures are deployed and that safe distancing measures are practised at all times by your employees and customers.  
 
 Before resuming activities, businesses must comply with the requirements for Safe Management Measures and any sector-specific requirements which apply to them. For retail and lifestyle-related services, which include beauty services, businesses may refer to the joint advisories issued by ESG, STB, SFA, HDB and URA.
 
-#### **35. How long will Phase Two last for?**
-The Multi-Ministry Taskforce will continue to monitor the situation closely, with the aim of continuing to ease measures in a gradual and calibrated manner, until we reach a new normal in Phase Three. Phase Three is the state in which we expect to remain until an effective vaccine or treatment for COVID-19 is developed.
- 
-Over the course of Phase Two, some higher risk activities and settings that remain closed at the start of Phase Two will gradually be allowed to open, when they are able to implement adequate safe management measures. Prevailing limits on gathering sizes may also be relaxed in a gradual manner.
-
-#### **36. Are there guidelines for saunas, especially large-format spas and saunas?**
+#### **34. Are there guidelines for saunas, especially large-format spas and saunas?**
 Spas and saunas are allowed to open, and operators must practise safe management and safe distancing measures, including ensuring that customers are spaced at least one-metre apart at all times on the premises. 
 
 Mask should be worn as a default. Masks can be taken off when performing strenuous activities or where practicable, although it is still recommended as good practice even under such circumstances.  
 
 Large-format spas and saunas may also reference the advisory for malls and large standalone stores where those larger than > 930 sqm (or 10,000 sqft) of Gross Floor Area (GFA) must comply with the occupancy limit of one person per 10 sqm of GFA.
 
-#### **37. Can customers share private therapy rooms?**
+#### **35. Can customers share private therapy rooms?**
 Customers in a group may share a private therapy room, up to a limit of no more than five customers. They are allowed to remove their masks only during their facial treatments or facial therapies done in such private rooms, but operators must ensure that the private room is thoroughly disinfected before and after use.
 
 Private therapy rooms are defined as rooms which are fully enclosed, with fixed floor-to-ceiling partitions. (i.e. rooms which have fixed partitions). Rooms created with curtain partitions are not considered private therapy rooms.
 
-#### **38. Should malls continue to demarcate lifts with one-metre spacing?**
+#### **36. Should malls continue to demarcate lifts with one-metre spacing?**
 Lifts in shopping malls should continue to be demarcated with the floor markers to remind shoppers to keep one-metre spacing.
 
-#### **39. Are kiosks and push-carts permitted to resume operations?**
+#### **37. Are kiosks and push-carts permitted to resume operations?**
 Yes, kiosks and push-carts with permitted SSIC codes can operate. This applies to operations that exist before the Circuit Breaker period. 
 
 Temporary pop-up events/shops will not be permitted. All atrium events and activities must remain closed.
 
-#### **40. Can paid massage chairs resume operations?**
+#### **38. Can paid massage chairs resume operations?**
 No, they must remain closed until further notice. 
 
-#### **41. Can shoppers remove their masks and sit at common areas to consume takeaway food?**
+#### **39. Can shoppers remove their masks and sit at common areas to consume takeaway food?**
 Yes, they are allowed to sit at common areas to consume food. However, they should eat quickly, and leave the area immediately after they finish their food/drinks. They must put on their masks properly at all times except when eating or drinking. All other Safe Management measures will apply.
 
-#### **42. For retail stores that are currently under renovation and are taking up a temporary lease at atrium space, can they operate in Phase 2?**
+#### **40. For retail stores that are currently under renovation and are taking up a temporary lease at atrium space, can they operate in Phase 2?**
 Yes, they can do so, but subject to ESG’s approval. They may write to <a href = "mailto: Retail_Design@enterprisesg.gov.sg">Retail_Design@enterprisesg.gov.sg</a>.
 
-#### **43. The main walkway to office block passes through some retail units (facing corridor), do workers still need to do SafeEntry and temperature checks?**
+#### **41. The main walkway to office block passes through some retail units (facing corridor), do workers still need to do SafeEntry and temperature checks?**
 Yes, workers will still need to do SafeEntry and temperature checks as they may decide to enter the mall and patronise the retail stores and F&B outlets. Exemption is only given if the mall is able to create a dedicated pathway that leads the workers directly to the office entrance.
 
-#### **44. Can designated smoking areas (DSAs) be reopened?**
+#### **42. Can designated smoking areas (DSAs) be reopened?**
 Yes, malls may reopen DSAs, so long as the safe distancing measures are adhered to. Malls can refer to the latest NEA advisory for the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/post-circuit-breaker-measures" target="_blank">guidelines on DSAs</a>. 
