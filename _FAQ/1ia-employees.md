@@ -61,17 +61,12 @@ Hiring firms will be required to meet the prevailing criteria under their respec
 
 For inter-sectoral transfers (earlier than 40 days before work permit expiry), firms can approach SBF at <a href = "mailto: manpowerconnect@sbf.org.sg">manpowerconnect@sbf.org.sg</a> or visit their website for more information. For transfer of WPHs from 40 days before work permit expiry (including inter-sectorial transfers), firms can submit their request via an online form or visit MOM’s website for more information.
 
-#### **7. My business is no longer allowed to operate. Do I still need to pay my employees, or should I let them go on leave?**
-The Jobs Support Scheme announced by the Government is meant to support employers to retain and continue to pay their local employees, even during periods of reduction in business activity.
-
-The latest Advisory on salary and leave arrangements can be found on the MOM website at <a href="https://www.mom.gov.sg/covid-19/advisory-on-salary-and-leave" target="_blank">https://www.mom.gov.sg/covid-19/advisory-on-salary-and-leave</a>
-
-#### **8. What can employees of firms which are not allowed to resume service do, if they are told to leave the company due to refusal to report to work?**
+#### **7. What can employees of firms which are not allowed to resume service do, if they are told to leave the company due to refusal to report to work?**
 Employees who have been wrongfully dismissed may file a claim against the wrongful dismissal or make a phone advisory appointment with the <a href="https://www.tal.sg/tadm/eServices" target="_blank">Tripartite Alliance for Dispute Management (TADM)</a>.
 
 For more information on what constitutes a wrongful dismissal, please refer to the <a href="https://www.mom.gov.sg/employment-practices/termination-of-employment/unfair-dismissal#what-is-a-wrongful-dismissal" target="_blank">Tripartite Guidelines on Wrongful Dismissal</a>.
 
-#### **9. Where can permitted enterprise workers take their meals if they are not near home? Do these individuals have to furnish proof of being a permitted enterprise worker if questioned by enforcement officers?**
+#### **8. Where can permitted enterprise workers take their meals if they are not near home? Do these individuals have to furnish proof of being a permitted enterprise worker if questioned by enforcement officers?**
 Employers of such workers have the responsibility to look after the welfare of their workers and provide their workers with a suitable sheltered space within the work place premise to consume meals, such as staff canteens, pantries, or any other rest area. Employers should ensure that their workers observe the following in these spaces:
 1. Workers should dine alone and keep a distance of at least one metre from another individual; 
 2. Staggered meal times to reduce the interactions between their workers and prevent congregation; and
@@ -89,11 +84,11 @@ c. Carry identification to indicate their employment status as permitted enterpr
 
 Hawkers and coffeeshop stall operators may consume their meals at tables in front of their stalls. They should dine alone and keep a distance of at least one metre from another individual, not share tables with other individuals or congregate. 
 
-#### **10. Are workers staying in dormitories allowed to take public transport?**
+#### **9. Are workers staying in dormitories allowed to take public transport?**
 As an employer, you must provide transport for your workers to and from their worksites.
 More details on implementing safe management measures for workers on employer-provided transportation can be found <a href="https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation" target="_blank">here</a>.
 
-#### **11. Can my workers who are staying in dormitories walk or take their own personal transport (e.g. bicycle, motorcycles) to and from their worksites?**
+#### **10. Can my workers who are staying in dormitories walk or take their own personal transport (e.g. bicycle, motorcycles) to and from their worksites?**
 As an employer, you must provide transport for your workers to and from their worksites.
 
 If the worksite is located nearby (e.g. <1km away) and there are no community areas en-route, you can allow your worker to walk or cycle.
@@ -104,7 +99,7 @@ Workers are not allowed to ride motorcycles to and from their worksites under an
 
 More details on implementing safe management measures for workers on employer-provided transportation can be found <a href="https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation" target="_blank">here</a>.
 
-#### **12. Can my workers who are staying in dormitories take taxis or private hire vehicles (e.g. Grab, GoJek) to and from their worksites?**
+#### **11. Can my workers who are staying in dormitories take taxis or private hire vehicles (e.g. Grab, GoJek) to and from their worksites?**
 As an employer, you must provide transport for your workers to and from their worksites.
 You can use taxis or private hire vehicles (PHVs) as long as you:
 - Work with taxi or PHV operators to pre-arrange and pre-pay for such vehicles to ferry the workers to ensure availability of vehicles and reduce physical interactions between drivers and workers.
