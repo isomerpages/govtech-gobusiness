@@ -1,6 +1,6 @@
 ---
 title: InfoComm and Media
-permalink: /faq/sectorspecific/fnb
+permalink: /faq/sectorspecific/InfoCommandMedia
 third_nav_title: For Sector-Specific Queries
 ---
 
