@@ -8,7 +8,9 @@ permalink: /faq/general
 #### **1. What should I do if I have not received an exemption? Am I allowed to continue operations?**
 Please suspend your business operations until you have received the official email notification of approval.
 
-For the status of your application, please click <a href="https://go.gov.sg/exemptionstatus" target="_blank">here</a>.
+If there are conditions imposed on the approval of your general exemption, these conditions will be indicated in your official email notification of approval. Alternatively, you may login to <a href="https://go.gov.sg/exemptionstatus" target="_blank">https://www.gobusiness.gov.sg/exemptions</a> to check your exemption application for any conditions to your approval. 
+
+You will be allowed to continue operations if the status of your general exemption is reflected as either “approved” or “permitted”.
 
 #### **2. The website reflects that my exemption application is still processing. What should I do?**
 Your application is being processed. Please check back on your application status in the next 2 to 3 days. You will also receive an official email notification to inform you if your application is approved or rejected.
@@ -24,7 +26,7 @@ If you are still unable to view your application status after 3 days, please wri
 You will need to submit one application for each registered business. One application per UEN number. 
 
 #### **5. I have an approved General Exemption application. Is there any change to the approval granted to operate my business?**
-There may be conditions imposed on your approved General Exemption. From 26 May, you are advised to login to <a href = "https://www.gobusiness.gov.sg/exemptions">https://www.gobusiness.gov.sg/exemptions</a> to check your exemption application for any conditions to your approval. 
+There may be conditions imposed on your approval. You should login to <a href = "https://www.gobusiness.gov.sg/exemptions">https://www.gobusiness.gov.sg/exemptions</a> to check your exemption application for any conditions to your approval. 
 
 #### **6. I am having problems logging into CorpPass. Who can I approach for help?**
 You can contact the Corp Pass Helpdesk at 6643-0577 or email <a href = "mailto: support@corppass.gov.sg">support@corppass.gov.sg</a>.
