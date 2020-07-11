@@ -10,7 +10,7 @@ Please suspend your business operations until you have received the official ema
 
 If there are conditions imposed on the approval of your general exemption, these conditions will be indicated in your official email notification of approval. Alternatively, you may login to <a href="https://go.gov.sg/exemptionstatus" target="_blank">https://www.gobusiness.gov.sg/exemptions</a> to check your exemption application for any conditions to your approval. 
 
-For the status of your application, please click <a href="https://go.gov.sg/exemptionstatus" target="_blank">here</a>. You will be allowed to continue operations if the status of your general exemption is reflected as either “approved” or “permitted”.
+You will be allowed to continue operations if the status of your general exemption is reflected as either “approved” or “permitted”.
 
 #### **2. The website reflects that my exemption application is still processing. What should I do?**
 Your application is being processed. Please check back on your application status in the next 2 to 3 days. You will also receive an official email notification to inform you if your application is approved or rejected.
