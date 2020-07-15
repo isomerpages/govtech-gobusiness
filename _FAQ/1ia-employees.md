@@ -3,7 +3,23 @@ title: Employees/ Manpower Queries
 permalink: /faq/employees/employees
 ---
 
-#### **1. My foreign employees were approved as essential workers and they have been working throughout the Circuit Breaker period. Why does the SGWorkPass AccessCode now show a ‘GREY’ status for them? Can they continue to work?**
+#### **1. How do I know if my foreign workers can leave their residence for work?**
+You can now use the AccessCode on the SGWorkPass app to check if your foreign employees can leave their residence (dormitory or non-dormitory housing) for work. The status of your employees' AccessCode takes into account 3 broad parameters:
+- Their health
+- Their residential address
+- Whether your company and/or worker is allowed to resume work
+
+They can only leave for work if their AccessCode is 'Green' (can go out for work).
+However, if their AccessCode is 'Red' (cannot go out for work), they are not allowed to leave for work.
+
+#### **2. Am I able to access all my workers' AccessCode status and details, instead of checking individually using the SGWorkPass?**
+From 12 July 2020, employers can download the AccessCode details of their workers from a new <a href="https://www.mom.gov.sg/eservices/services/safe-work" target="_blank">Safe@Work eService</a>. For a start, AccessCode statuses of workers who hold a Work Permit or S Pass will be available. Downloading the AccessCode details for Employment Pass holders will be available in the near future.
+
+Please refer to the <a href="https://www.mom.gov.sg/eservices/services/safe-work" target="_blank">Safe@Work eService</a> onboarding guide for more information.
+
+#### **3. My worker's AccessCode is 'Red' and his AccessCode details shows 'No approval to start work'. What should I do?**
+This means your company has not been given approval to operate, and/or your workers are not allowed to start work.
+
 All companies should check the <a href="https://covid.gobusiness.gov.sg/" target="_blank">GoBusiness Portal</a> to find out if they are allowed to resume operations. If your workers’ AccessCode status is reflected as ‘GREY’ (AccessCode does not apply) even though you are permitted to operate, please approach your respective lead agencies for assistance.
 
 <table >
@@ -14,11 +30,19 @@ All companies should check the <a href="https://covid.gobusiness.gov.sg/" target
 		</tr>
 		<tr>
 			<td>Construction</td>
-			<td>Building and Construction Authority (BCA)
+			<td>Building and Construction Authority (BCA)<br>If your worker's AccessCode details show 'No approval to start work', it could be because:
 				<ul>
-					<li>Download and fill in the feedback on workers' <a href="https://go.gov.sg/bca-workers-sg-workpass-status" target="_blank">SGWorkPass</a> status.</li>
-					<li>Email it to <a href = "mailto: bca_safeworkforce@bca.gov.sg">bca_safeworkforce@bca.gov.sg</a></li>
+					<li>Your company has not submitted project or workers to BCA for approval</li>
+					<li>Your company has obtained BCA's approval, but:</li>
+					<li>Your project did not include the worker in the submission for approval</li>
+					<li>There is missing/wrong worker's information in the submission (e.g. wrong FIN/UEN or FIN entered is not under the employment of the UEN entered)</li>
 				</ul>
+				For the above scenario, please submit/resubmit an application for construction/supply works at BCA's website. Please refer to the links below the application process:
+				<ul>
+					<li><a href="https://go.gov.sg/bca-restart-navigator" target="_blank">English Version</a></li>
+					<li><a href="https://go.gov.sg/bca-restart-navigator-chi" target="_blank">Chinese Version</a></li>
+				</ul>
+					If none of the above reasons apply to you, please contact BCA at <a href = "mailto: bca_safeworkforce@bca.gov.sg">bca_safeworkforce@bca.gov.sg</a> for assistance.
 			</td>
 		</tr>
 		<tr>
@@ -28,29 +52,17 @@ All companies should check the <a href="https://covid.gobusiness.gov.sg/" target
 	</tbody>
 </table>
 
-Please also ensure your employees’ residential addresses are updated as it is one of the components that affects the AccessCode status.
-
-#### **2. My foreign employees do not stay in dormitories and are not infected with COVID-19. Why is their SGWorkPass AccessCode status reflected as ‘RED’ when they had been allowed to work and were working during the Circuit Breaker period?**
-As the status of your employees’ AccessCode takes into account three broad parameters, it is possible that your employees’ AccessCode is reflected as ‘RED’ if their residential addresses have not been updated with MOM.  As such, please ensure their residential addresses are kept updated.
-
-#### **3. How do I update my foreign employee’s residential address?**
-Their residential addresses can be updated through the following eService:
+#### **4. How do I update my foreign employee’s residential address?**
+You can update their residential address using:
 - <a href="https://www.mom.gov.sg/eservices/services/ofwas" target="_blank">Online Foreign Worker Address Service (OFWAS)</a> for Work Permit holders
-- <a href="https://www.mom.gov.sg/eservices/services/ep-online" target="_blank">EP Online</a> for Employment Pass and S Pass holders 
+- <a href="https://www.mom.gov.sg/eservices/services/ep-online" target="_blank">EP Online</a> for Employment Pass and S Pass holders
 
-If their residential addresses have changed, please update their address by 1pm for their AccessCode status to be updated after 2am the next day.
+Their AccessCode will be refreshed 1 - 2 days after their addresses are updated in OFWAS or EP Online. If their AccessCode is not refreshed, it may mean:
+- Your worker has failed to scan the QR code in his room using the FWMOMCare App; or
+- the dormitory operators' record is not updated. Please contact the dormitory operator to rectify this.
 
-#### **4. What will happen to my foreign employees since I am not allowed to operate during this period? Can I repatriate my employees since I cannot operate now?**
-Instead of repatriation or retrenchment, we urge employers to first consider cost-saving measures to manage excess manpower. E.g. look at training, redeployment, reasonable adjustment of salaries etc. Please take note of MOM’s guidelines on cost saving measures and retrenchment: [https://www.mom.gov.sg/employment-practices/retrenchment](https://www.mom.gov.sg/employment-practices/retrenchment){:target="_blank"}
-
-If it is assessed that the foreign employees are still not needed, employers may give consent for them to be transferred to other employers facing manpower shortages. Employers can approach SBF at <a href = "mailto: manpowerconnect@sbf.org.sg">manpowerconnect@sbf.org.sg</a> or visit SBF's website.
-
-If foreign employees would like to head home, companies will have to cancel the work passes, repatriate the employees and bear the repatriation cost.
-
-#### **5. Is company-based training for permitted firms allowed?**
-Company-based training is only allowed for essential roles to support our national COVID-19 efforts. Companies are reminded to comply with all existing Safe Distancing measures during training.
-
-For non-permitted services firms, training should be conducted online or in e-learning format only.
+#### **5. Is company-based training allowed?**
+Company-based training is allowed for firms that are permitted to resume operations.  Companies are reminded to comply all existing Safe Distancing measures during training.
 
 #### **6. I have been told to ramp up production during this time period but cannot find additional manpower, how do I source for employees during this time?**
 MOM has partnered with the Singapore Business Federation to offer a temporary scheme that allows companies in all sectors to hire existing WPHs (who are in Singapore) from other sectors, with the agreement of their current employers. 
