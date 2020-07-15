@@ -13,9 +13,9 @@ They can only leave for work if their AccessCode is 'Green' (can go out for work
 However, if their AccessCode is 'Red' (cannot go out for work), they are not allowed to leave for work.
 
 #### **2. Am I able to access all my workers' AccessCode status and details, instead of checking individually using the SGWorkPass?**
-From 12 July 2020, employers can download the AccessCode details of their workers from a new Safe@Work eService. For a start, AccessCode statuses of workers who hold a Work Permit or S Pass will be available. Downloading the AccessCode details for Employment Pass holders will be available in the near future.
+From 12 July 2020, employers can download the AccessCode details of their workers from a new <a href="https://www.mom.gov.sg/eservices/services/safe-work" target="_blank">Safe@Work eService</a>. For a start, AccessCode statuses of workers who hold a Work Permit or S Pass will be available. Downloading the AccessCode details for Employment Pass holders will be available in the near future.
 
-Please refer to the Safe@Work eService onboarding guide for more information.
+Please refer to the <a href="https://www.mom.gov.sg/eservices/services/safe-work" target="_blank">Safe@Work eService</a> onboarding guide for more information.
 
 #### **3. My worker's AccessCode is 'Red' and his AccessCode details shows 'No approval to start work'. What should I do?**
 This means your company has not been given approval to operate, and/or your workers are not allowed to start work.
@@ -30,7 +30,7 @@ All companies should check the <a href="https://covid.gobusiness.gov.sg/" target
 		</tr>
 		<tr>
 			<td>Construction</td>
-			<td>Building and Construction Authority (BCA)</br>If your worker's AccessCode details show 'No approval to start work', it could be because:
+			<td>Building and Construction Authority (BCA)<br>If your worker's AccessCode details show 'No approval to start work', it could be because:
 				<ul>
 					<li>Your company has not submitted project or workers to BCA for approval</li>
 					<li>Your company has obtained BCA's approval, but:</li>
