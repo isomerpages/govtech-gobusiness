@@ -30,11 +30,20 @@ All companies should check the <a href="https://covid.gobusiness.gov.sg/" target
 		</tr>
 		<tr>
 			<td>Construction</td>
-			<td>Building and Construction Authority (BCA)
+			<td>Building and Construction Authority (BCA)</br>If your worker's AccessCode details show 'No approval to start work', it could be because:
 				<ul>
-					<li>Download and fill in the feedback on workers' <a href="https://go.gov.sg/bca-workers-sg-workpass-status" target="_blank">SGWorkPass</a> status.</li>
+					<li>Your company has not submitted project or workers to BCA for approval</li>
+					<li>Your company has obtained BCA's approval, but:</li>
+					<li>Your project did not include the worker in the submission for approval</li>
+					<li>There is missing/wrong worker's information in the submission (e.g. wrong FIN/UEN or FIN entered is not under the employment of the UEN entered)</li>
 					<li>Email it to <a href = "mailto: bca_safeworkforce@bca.gov.sg">bca_safeworkforce@bca.gov.sg</a></li>
 				</ul>
+				For the above scenario, please submit/resubmit an application for construction/supply works at BCA's website. Please refer to the links below the application process:
+					<ul>
+					<li><a href="https://go.gov.sg/bca-restart-navigator" target="_blank">English Version</a></li>
+					<li><a href="https://go.gov.sg/bca-restart-navigator-chi" target="_blank">Chinese Version</a></li>
+					</ul>
+					If none of the above reasons apply to you, please contact BCA at <a href = "mailto: bca_safeworkforce@bca.gov.sg">bca_safeworkforce@bca.gov.sg</a> for assistance.
 			</td>
 		</tr>
 		<tr>
