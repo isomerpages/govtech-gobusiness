@@ -9,7 +9,7 @@ Businesses must adhere to sector-specific requirements as stipulated below, in a
 
 Accounting practices are to comply to measures stipulated in this <a href="https://go.gov.sg/accountingpractices" target="_blank">document</a> [last updated on 26 May 20]. You can also refer to the Institute of Singapore Chartered Accountants <a href = "https://isca.org.sg/covid-19-series/faqs/?j=538131&sfmc_sub=28753357&l=215_HTML&u=10800996&mid=7235277&jb=1" target="_blank">website</a> and the Singapore Accountancy Commission <a href = "https://www.sac.gov.sg/isca-sac-advisory-safe-management-measures-accounting-practices-post-covid-19-circuit-breaker-period" target="_blank">website</a>.
 
-#### **Arts and Culture**
+#### **Arts and Culture / Museums**
 
 Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nacsmrrequirements" target="_blank">document</a> [last updated on 3 Jul 20]. You can also refer to the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html" target="_blank">website</a>. 
 
