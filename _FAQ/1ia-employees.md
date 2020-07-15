@@ -5,9 +5,9 @@ permalink: /faq/employees/employees
 
 #### **1. How do I know if my foreign workers can leave their residence for work?**
 You can now use the AccessCode on the SGWorkPass app to check if your foreign employees can leave their residence (dormitory or non-dormitory housing) for work. The status of your employees' AccessCode takes into account 3 broad parameters:
-•	Their health
-•	Their residential address
-•	Whether your company and/or worker is allowed to resume work
+- Their health
+- Their residential address
+- Whether your company and/or worker is allowed to resume work
 
 They can only leave for work if their AccessCode is 'Green' (can go out for work).
 However, if their AccessCode is 'Red' (cannot go out for work), they are not allowed to leave for work.
