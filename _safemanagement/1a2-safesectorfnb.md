@@ -11,9 +11,9 @@ Accounting practices are to comply to measures stipulated in this <a href="https
 
 #### **Arts and Culture**
 
-Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nacsmrrequirements" target="_blank">document</a> [last updated on 19 Jun 20]. You can also refer to the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html" target="_blank">website</a>. 
+Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nacsmrrequirements" target="_blank">document</a> [last updated on 3 Jul 20]. You can also refer to the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html" target="_blank">website</a>. 
 
-Museum stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 19 Jun 20]. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
+Museum stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 7 Jul 20]. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
 
 #### **Attractions**
 
@@ -21,9 +21,11 @@ Attractions operators are to comply to measures stipulated in this <a href="http
 
 #### **Built Environment**
 
-Enterprises in the construction sector are to comply to measures stipulated in this <a href="https://go.gov.sg/construction" target="_blank">document</a> [last updated on 25 May 20]. You can also refer to the BCA <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">website</a>.
+Enterprises in the construction sector are to comply to measures stipulated in this <a href="https://go.gov.sg/construction" target="_blank">document</a> [last updated on 25 May 20] and this <a href="https://go.gov.sg/constructionpart2" target="_blank">document</a> [last updated on 26 Jun 20].
 
-Enterprises undertaking renovation works and building works for residential properties from 2 June 2020 are to comply to measures stipulated in this <a href="https://go.gov.sg/renosmrrequirements" target="_blank">document</a> [last updated on 13 Jun 20]. You can also refer to the BCA <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">website</a>.
+Enterprises undertaking renovation works and building works for residential properties from 2 June 2020 are to comply to measures stipulated in this <a href="https://go.gov.sg/renosmrrequirements" target="_blank">document</a> [last updated on 13 Jun 20].
+
+For the latest updates from BCA, companies can visit BCA’s COVID-19 <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">webpage</a> or subscribe to BCA’s channel on the Telegram app (t.me/BCASingapore).
 
 #### **Cinemas**
 
@@ -39,11 +41,20 @@ Dental clinics and dental practitioners are to comply to measures stipulated in 
 
 #### **Estate Agents and Real Estate Salespersons**
 
-Estate agents and real estate salespersons are to comply to measures stipulated in this <a href="https://go.gov.sg/cea2" target="_blank">document</a> [last updated on 17 Jun 20]. You can also refer to Council for Estate Agencies <a href = "https://www.cea.gov.sg/news-publications/press-releases/covid-19-cea-s-measures-and-guidance" target="_blank">website</a>.
+Estate agents and real estate salespersons are to comply to measures stipulated in this <a href="https://go.gov.sg/cea2" target="_blank">document</a> [last updated on 2 Jul 20]. You can also refer to Council for Estate Agencies <a href = "https://www.cea.gov.sg/news-publications/press-releases/covid-19-cea-s-measures-and-guidance" target="_blank">website</a>.
 
 #### **Finance**
 
 Enterprises in the finance sector are to comply to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements2" target="_blank">document</a> [last updated on 15 Jun 20]. You can also refer to the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news" target="_blank">website</a>.
+
+#### **F&B & Retail**
+
+- F&B establishments are to comply to measures stipulated in this <a href="https://go.gov.sg/fbestablishments2" target="_blank">document</a> [last updated on 13 Jul 20].<br>
+- Infographic on Safe Management Measures at F&B Establishments [last updated on 16 Jun 20]<br>
+![F&B](/images/smrfnb.jpg "F&B establishments")
+- Retail establishments and lifestyle-related services are to comply to measures stipulated in this <a href="https://go.gov.sg/retailsmrrequirements2" target="_blank">document</a> [last updated on 13 Jul 20].<br>
+- Infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 16 Jun 20]<br>
+![Retail](/images/smrretail.jpg "Retail")
 
 #### **Health and Social Services**
 
@@ -100,15 +111,6 @@ You can also refer to the Singapore Police Force <a href = "https://www.police.g
 #### **Religious Organisations**
 
 Religious organisations are to comply to measures stipulated in this <a href="https://go.gov.sg/mccyroadvisory" target="_blank">document</a> [last updated on 18 Jun 20]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/" target="_blank">website</a>.
-
-#### **Retail & F&B**
-
-- F&B establishments are to comply to measures stipulated in this <a href="https://go.gov.sg/fbestablishments2" target="_blank">document</a> [last updated on 16 Jun 20].<br>
-- Infographic on Safe Management Measures at F&B Establishments [last updated on 16 Jun 20]<br>
-![F&B](/images/smrfnb.jpg "F&B establishments")
-- Retail establishments and lifestyle-related services are to comply to measures stipulated in this <a href="https://go.gov.sg/retailsmrrequirements2" target="_blank">document</a> [last updated on 16 Jun 20].<br>
-- Infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 16 Jun 20]<br>
-![Retail](/images/smrretail.jpg "Retail")
 
 #### **Sports Sector Enterprises, Sports Education, and Premises with Sports Facilities**
 
