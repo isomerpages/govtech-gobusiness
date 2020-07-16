@@ -25,7 +25,7 @@ Enterprises in the construction sector are to comply to measures stipulated in t
 
 Enterprises undertaking renovation works and building works for residential properties from 2 June 2020 are to comply to measures stipulated in this <a href="https://go.gov.sg/renosmrrequirements" target="_blank">document</a> [last updated on 13 Jun 20].
 
-For the latest updates from BCA, companies can visit BCA’s COVID-19 <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">webpage</a> or subscribe to BCA’s channel on the Telegram app (t.me/BCASingapore).
+For the latest updates from BCA, companies can visit BCA’s COVID-19 <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">webpage</a> or subscribe to BCA’s channel on the Telegram app (<a href="https://t.me/BCASingapore">https://t.me/BCASingapore</a>).
 
 #### **Cinemas**
 
