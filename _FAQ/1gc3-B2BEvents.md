@@ -27,10 +27,10 @@ The number of individuals allowed for pilot business events is in line with curr
 In order to ensure that B2B events are piloted in a safe and controlled manner, STB will be instituting additional measures including further dividing the cohort of 50 individuals into sub-groups of up to 20 individuals each, with no inter-mingling between the sub-groups. In addition, all individuals must continue to maintain at least 1m spacing between individuals at all times, even within each sub-group. This is even more stringent than the current limit of five people for social gatherings, where the one-metre safe distancing requirement is not required.
 
 These stringent set of measures are included as part of the Safe Business Event Risk Management Framework. As part of this framework, Event Organisers and Venues must also demonstrate that they are capable of meeting all the 5 outcomes required for safe resumption of events, which are:
-a) Infection control measures for every stage of an event attendee’s journey (pre-to post-event) 
-b) Limits on crowd density
-c) Limits on close contacts between individuals
-d) Ensuring a safe and clean environment
-e) Preparing for emergencies relating to COVID-19
+a) Infection control measures for every stage of an event attendee’s journey (pre-to post-event)<br>
+b) Limits on crowd density<br>
+c) Limits on close contacts between individuals<br>
+d) Ensuring a safe and clean environment<br>
+e) Preparing for emergencies relating to COVID-19<br>
 
 More information can be found in the MICE events resumption advisory <a href="https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html" target="_blank">here</a>.
