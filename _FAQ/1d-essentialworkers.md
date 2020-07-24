@@ -8,7 +8,7 @@ third_nav_title: Manpower Declaration
 Yes. The guide for declaration/submission of manpower details can be found <a href="https://go.gov.sg/essentialmanpowerguide" target="_blank">here</a>.
 
 #### **2. How do I know if I need to declare/submit my manpower details?**
-Only businesses that are allowed to resume operations, or have received an approval for their General Exemption application, are required to do so.
+All businesses that are allowed to resume operations, or have received an approval for their General Exemption application, are required to do so.
 
 You can refer to the full list of permitted services allowed to resume operations <a href="https://go.gov.sg/permittedserviceslist2" target="_blank">here</a>.
 
@@ -40,12 +40,14 @@ As more workers go back to work, we need to ensure that businesses resume operat
 Businesses that fail to submit their manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
 #### **8. If my business is on the permitted services list but I choose to resume my business operations at a later date when do I need to submit my manpower declaration?**
-You should submit your manpower declaration within 2 weeks of resumption of your business operations.
+You should submit your manpower declaration within 2 days of resumption of your business operations.
 
 #### **9. My company is allowed to resume operations but my staff will be continuing to work from home. How should I submit my manpower declaration?**
-Companies that are allowed to resume operations must submit their manpower declaration within 2 weeks of resuming operations or their approved date to resume operations, whichever is later.
+Companies that are allowed to resume operations, even if employees are working from home, must submit their manpower declaration within 2 days of resuming operations. 
 
-If the company does not have any staff working onsite, they should first key in “1” under the field “total number of manpower working onsite”, followed by “reset to 0” to declare that they have “0” manpower working onsite.
+If your company has not submitted on-site manpower details before and is not operating on-site, please click on the “declare 0 button” to declare “0” manpower working on-site. 
+
+If you had already submitted on-site manpower details previously but are now ceasing on-site operations, click on the “reset to 0” button under the field “total number of manpower working on-site” to declare “0” manpower working on-site. 
 
 #### **10. Can I proceed to resume operations after declaring/submitting my manpower details? Will I receive any notification of approval?**
 You will receive an email acknowledgment of your manpower declaration. You can only resume operations from the specified date indicated against your business resumption status, when you login to <a href="https://go.gov.sg/exemptionstatus" target="_blank">https://www.gobusiness.gov.sg/exemptions</a>. 
@@ -73,3 +75,9 @@ However, should the numbers vary substantially, you should submit a copy of your
 
 #### **16. I need to update the Ministry of Manpower of changes in my foreign workers’ particulars (e.g. residential address) during their employment. Where can I find more information about this?**
 You can find more information <a href="https://go.gov.sg/momforeignworkerupdate" target="_blank">here</a>. 
+
+#### **17. I have problems adding in more manpower details to my application. Why is it so?**
+Depending on the status & conditions tagged to your exemption, each application is allotted a specific manpower quota. You will not be able to add more employees to your application once you have reached the allotted quota.  The cap on the number of employees that you are allowed to have on-site is necessary to minimise the movement of workers to and from work.  We are aware that this will be disruptive for businesses, but it is also essential in the fight against COVID-19.
+
+#### **18. I need more manpower on site to ensure the continuation of my business activities. What should I do?**
+The cap on the number of manpower that you are allowed to have on-site is necessary to minimise the movement of employees to and from work.  Should you require additional manpower, please submit an application for Additional Manpower here. Do note that the application will be subject to assessment by the respective agencies.
