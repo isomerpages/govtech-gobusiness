@@ -18,7 +18,7 @@ Your application is being processed. Please check back on your application statu
 Please suspend your business operations until you have received the official email notification of approval.
 
 #### **3. The website reflects that my exemption application is “approved”. What should I do?**
-Please proceed to declare your manpower details here. Please note that you are still subjected to a manpower quota as your company is not in the list of permitted services.
+Please proceed to declare your manpower details <a href="https://go.gov.sg/exemptionstatus" target="_blank">here</a>. Please note that you are still subjected to a manpower quota as your company is not in the list of permitted services.
 
 #### **4. I am unable to find the status of my application for General Exemption on covid.gobusiness.gov.sg. What should I do?**
 Please allow at least 2-3 days for your application to be processed. 
