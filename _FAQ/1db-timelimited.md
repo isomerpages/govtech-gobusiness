@@ -23,6 +23,9 @@ You are required to apply for the <a href="https://go.gov.sg/timelimitedexemptio
 #### **6. Can I amend, cancel or void my Time-Limited Exemption application if there are changes in my manpower deployment plans?**
 A Time-Limited Exemption application cannot be amended, cancelled or voided once it has been submitted regardless of circumstances. It will still be counted towards your submission quota of twice per week. 
 
+#### **7. I am not allowed to apply for a Time-Limited Exemption. What should I do?**
+If you are unable to apply for a Time-Limited Exemption, please contact our helpdesk at <a href = ": Covid_GoBusiness@mti.gov.sg">Covid_GoBusiness@mti.gov.sg</a> for further assistance.
+
 
 ___
 [^1]: The weekly cycle starts from Sunday 12.00am and ends on Saturday 11.59pm.
