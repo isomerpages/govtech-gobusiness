@@ -114,11 +114,11 @@ Religious organisations are to comply to measures stipulated in this <a href="ht
 
 #### **Sports Sector Enterprises, Sports Education, and Premises with Sports Facilities**
 
-Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this <a href="https://go.gov.sg/sportsadvisory" target="_blank">document</a> [last updated 18 Jun 20]
+Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this <a href="https://go.gov.sg/sportsadvisory" target="_blank">document</a> [last updated 18 Jun 20].
 
 #### **Tours**
 
-Tour operators and tourist guides are to comply to measures stipulated in this <a href="https://go.gov.sg/touradvisory" target="_blank">document</a> [last updated 28 Jun 20]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html#Tours" target="_blank">website</a>.
+Tour operators and tourist guides are to comply to measures stipulated in this <a href="https://go.gov.sg/touradvisory" target="_blank">document</a> [last updated 27 Jul 20]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html#Tours" target="_blank">website</a>.
 
 #### **Veterinary and pet-related services**
 
@@ -131,3 +131,7 @@ Maintenance companies should refer to the following documents on measures relati
 a.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresRestartingCoolingTowers" target="_blank">circular</a> on measures to be taken when re-starting cooling towers [last updated on 18 May 20]
 
 b.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresSwimmingPoolsAndWaterFountains" target="_blank">circular</a> on measures to be taken when re-opening and re-starting of swimming pools and water fountains [last updated on 15 Jun 20]
+
+#### **Wedding Solemnisations and Receptions**
+
+Wedding solemnisations and receptions will be expected to comply to measures stipulated in this <a href="https://go.gov.sg/Weddings" target="_blank">document</a> [last updated 30 Jul 20], depending on venue. You can also refer to the Registry of Marriages <a href="https://www.rom.gov.sg/" target="_blank">website</a>.
