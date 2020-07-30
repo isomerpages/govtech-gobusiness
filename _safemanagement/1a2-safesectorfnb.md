@@ -49,7 +49,7 @@ Enterprises in the finance sector are to comply to measures stipulated in this <
 
 #### **F&B & Retail**
 
-- F&B establishments are to comply to measures stipulated in this <a href="https://go.gov.sg/fbestablishments2" target="_blank">document</a> [last updated on 13 Jul 20].<br>
+- F&B establishments are to comply to measures stipulated in this <a href="https://go.gov.sg/fbestablishments2" target="_blank">document</a> [last updated on 30 Jul 20].<br>
 - Infographic on Safe Management Measures at F&B Establishments [last updated on 16 Jun 20]<br>
 ![F&B](/images/smrfnb.jpg "F&B establishments")
 - Retail establishments and lifestyle-related services are to comply to measures stipulated in this <a href="https://go.gov.sg/retailsmrrequirements2" target="_blank">document</a> [last updated on 13 Jul 20].<br>
@@ -69,6 +69,10 @@ Hotels are to comply to measures stipulated in this <a href="https://go.gov.sg/h
 #### **Landscape-related Services**
 
 All landscape-related services and nurseries will resume, subject to safe management measures as required by MOM and NParks. More information for the landscape sector is available <a href="https://go.gov.sg/safe-landscaping" target="_blank">here</a>. For further clarification, email <a href = "mailto: NParks_Industry@nparks.gov.sg">NParks_Industry@nparks.gov.sg</a>.
+
+#### **Marriage Solemnisations and Receptions**
+
+Marriage solemnisations and receptions will be expected to comply to measures stipulated in this <a href="https://go.gov.sg/Weddings" target="_blank">document</a> [last updated 30 Jul 20], depending on venue.
 
 #### **Marine & Offshore (M&O) Sector**
 
@@ -131,7 +135,3 @@ Maintenance companies should refer to the following documents on measures relati
 a.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresRestartingCoolingTowers" target="_blank">circular</a> on measures to be taken when re-starting cooling towers [last updated on 18 May 20]
 
 b.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresSwimmingPoolsAndWaterFountains" target="_blank">circular</a> on measures to be taken when re-opening and re-starting of swimming pools and water fountains [last updated on 15 Jun 20]
-
-#### **Wedding Solemnisations and Receptions**
-
-Wedding solemnisations and receptions will be expected to comply to measures stipulated in this <a href="https://go.gov.sg/Weddings" target="_blank">document</a> [last updated 30 Jul 20], depending on venue. You can also refer to the Registry of Marriages <a href="https://www.rom.gov.sg/" target="_blank">website</a>.
