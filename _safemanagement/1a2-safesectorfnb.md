@@ -132,6 +132,6 @@ a.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresRestartingCoolingTowers"
 
 b.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresSwimmingPoolsAndWaterFountains" target="_blank">circular</a> on measures to be taken when re-opening and re-starting of swimming pools and water fountains [last updated on 15 Jun 20]
 
-#### **Wedding Solemnisations and Receptions**
+#### **Marriage Solemnisations and Receptions**
 
-Wedding solemnisations and receptions will be expected to comply to measures stipulated in this <a href="https://go.gov.sg/Weddings" target="_blank">document</a> [last updated 30 Jul 20], depending on venue. You can also refer to the Registry of Marriages <a href="https://www.rom.gov.sg/" target="_blank">website</a>.
+Marriage solemnisations and receptions will be expected to comply to measures stipulated in this <a href="https://go.gov.sg/Weddings" target="_blank">document</a> [last updated 30 Jul 20], depending on venue.
