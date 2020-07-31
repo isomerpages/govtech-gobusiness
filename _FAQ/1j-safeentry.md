@@ -99,8 +99,8 @@ Please take note that when you use the group check-in feature, you are making a 
 #### **24. Can I add an individual who is not my family member (e.g. friend or co-worker) into my check-in list?**
 While this feature is primarily meant for family members, you may add any individual into your check-in list if:
 
-a.	All members are staying in the same place of residence; and/or 
-b.	All of you travel as a group to and from the location by the same mode of transport.
+- a.	All members are staying in the same place of residence; and/or 
+- b.	All of you travel as a group to and from the location by the same mode of transport.
 
 In the situation where you need to check-in with a friend or co-worker, e.g. if you are staying together as roommates, please ensure that you have their explicit permission and knowledge to add their NRIC/FIN to your check-in list. Please take note that when you use the group check-in feature, you are making a declaration on behalf of others.
 
