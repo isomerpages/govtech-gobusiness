@@ -13,7 +13,7 @@ contacts:
     - other: From Monday-Friday, 8.30am-5.30pm (excluding Public Holidays)
 #    - email: Test
 #    - email: safedistancing@enterprisesg.gov.sg
-    - other: <br>You may also reach out to us by submitting your enquiry through our <a href="https://go.gov.sg/sdenquiries" target="_blank">online form</a>.
+    - other: <br>You may also reach out to us via email at <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>.
 #    - other: Test 
     - other: <br>We are experiencing a high volume of enquiries and appreciate your understanding and patience. 
 #    - other: For more enquiries,<br>contact us at +65 6898 1800 or drop us an email at safedistancing@enterprisesg.gov.sg   

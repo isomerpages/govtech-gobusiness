@@ -69,7 +69,7 @@ For access code related queries, companies can contact MOM <a href="https://serv
 The Shipyard operator is responsible for ensuring that all personnel (e.g. employees, contractors, clients, etc.) working on-site adhere to COVID-Safe Worksite requirements, and should work with its contractors to do so. Similarly, contractors will be responsible for their production sites outside of the Shipyards.
 
 #### **3. Can a Workplace Safety & Health Officer (WSHO) also be a Safe Management Officer (SMO)?**
-Yes, a WSHO can also be an SMO.
+Yes, a WSHO can also be a SMO.
 
 #### **4. My worksite does not allow workers to hold on to mobile phones while at the work area due to safety/security reasons. Can I use other methods to replace TraceTogether?**
 All personnel entering the site must have a smart phone with TraceTogether app installed before they are allowed to enter the site. Workers should download, activate, and maintain the latest version of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile app</a> to facilitate contact tracking. All personnel have to ensure that the TraceTogether app is turned on (i.e. Bluetooth is switched on) and that they carry their handphone with them at all times within the worksite, unless there are workplace health and safety risks and concerns. In the application to resume/ reinstate works or increase manning, the Shipyard and their contractors have to confirm that this requirement can be achieved.

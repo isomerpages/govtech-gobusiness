@@ -8,7 +8,7 @@ third_nav_title: Resumption of Business Activities (Phases One and Two)
 Yes, it is mandatory for all businesses to put in place Safe Management Measures to provide a safe working environment for employees and prevent COVID-19 transmission at the workplace before they resume onsite operations. Businesses must comply with the requirements for Safe Management Measures seen <a href="https://covid.gobusiness.gov.sg/safemanagement/general" target="_blank">here</a> and any sector-specific requirements which apply to them.
 
 #### **2. How do I start preparing my company for the Safe Management requirements?**
-The Ministry of Manpower has issued new requirements for employers on the Safe Management measures required of employers allowed to resume their operations after the enhanced circuit breaker period. Details on the Safe Management measures can be found at <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures">https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures</a>.
+The Ministry of Manpower has issued new requirements for employers on the Safe Management measures required of employers allowed to resume their operations after the enhanced circuit breaker period. Details on the Safe Management measures can be found at <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures">here</a>.
 
 These measures will help provide a safe working environment and minimise risks of further outbreaks of COVID-19. Employers should implement these Safe Management measures before resuming operations and be prepared to undertake them for as long as necessary.
 

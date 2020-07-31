@@ -67,7 +67,7 @@ No. You may resume operations only if the SSIC code for your primary business ac
 #### **14. My company is carrying out the activity as listed in the list of permitted services. However, my SSIC code does not fall under the listed code on the website. Will I still be allowed to resume operations?**
 You will need to submit an application for General Exemption <a href="https://go.gov.sg/generalexemption">here</a> and receive approval from MTI before resuming operations.
 
-#### **15. I am a freelancer and do not have an Singapore Standard Industrial Classification (SSIC) code. How do I know if I can resume service?**
+#### **15. I am a freelancer and do not have a Singapore Standard Industrial Classification (SSIC) code. How do I know if I can resume service?**
 Freelancers have to be registered with ACRA, unless the business is carried out in your full name as reflected in your NRIC. 
 
 If the business is carried out in your full name as reflected in your NRIC, you can include a description of your business and click <a href="https://www.bizfile.gov.sg/">here</a> to search for the SSIC code which corresponds to the nature of your business activity. Once you have retrieved your SSIC code, please check it against the list of permitted services that can resume operations <a href="/permittedlist">here</a>.
