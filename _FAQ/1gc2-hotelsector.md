@@ -23,12 +23,14 @@ Meals are to be left at the door only for rooms occupied by Persons on Stay-Home
 #### **5. Can Hotels resume operations for event venues?**
 Yes, Hotels may resume operations for event venues subject to national Safe Management Guidelines. This includes a capacity of no more than five persons for gatherings, excluding hotel staff per event (no multiple groups allowed).
 
-Marriage Solemnizations in Hotel venues are limited to 20 persons including vendors, excluding Solemnizer and hotel staff. Please refer to Registry of Marriages’ (ROM) advisory for Solemnizations <a href="https://www.rom.gov.sg/images/ROM_infographic.jpg" target="_blank">here</a>.
+Marriage Solemnizations in Hotel venues are limited to 50 persons excluding Solemnizers, vendors and premises staff (to be kept to minimum required).
 
 Classes organised by a permitted enterprise providing an education service, such as training and professional development, are limited to 50 persons including the trainer, and excluding hotel staff and must adhere to mandatory SMMs.
 
 #### **6. Are hotels allowed to provide meals for solemnizations, and can the meals be consumed in a private venue or restaurant?**
-Wedding receptions are not allowed. The booking for solemnization ends after the solemnization session is over. Hotels may accept a separate booking for social gatherings of up to 5 persons in the function space, including provision of F&B if requested, subject to Enterprise Singapore’s advisory for F&B establishments on its <a href="https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2020/jul-2020/safe-management-measures-for-fb_reopening_updated_as_of_13-jul.pdf?la=en" target="_blank">website</a>.
+Wedding receptions are not allowed as part of the solemnization. 
+
+A separate reception may be held after the solemnisation. For such receptions, you may have up to 50 persons, or the safe capacity of the venue, whichever is lower. All food should be individually packed or plated. Self-service buffets and sharing platters are not permitted. For more information, please refer to the safe management guidelines <a href="/safemanagement/sector/" target="_blank">here</a>.
 
 #### **7. Can Hotels start hosting site inspections for event venues in Phase Two?**
 Yes, Hotels may do so with the necessary safeguards in place. This includes having no more than five persons, excluding Hotel staff in an inspection group. Multiple groups of inspection are not allowed at any one point in time. As a default, measures should be put in place to ensure that individuals maintain safe distancing of at least one metre at all times, where feasible and practicable.

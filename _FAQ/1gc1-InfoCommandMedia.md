@@ -33,7 +33,7 @@ In general, most events are not allowed in Phase 2. Workplaces have to comply wi
 For permitted enterprises that wish to organise other types of events, these would be subject to the <a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S254-2020?DocDate=20200407" target="_blank">COVID-19 (Temporary Measures) (Control Order) Regulations</a>, in particular Regulations 10 and 13.
 Religious services may be held at cinema premises, subject to a cap of 50 pax and adherence to MCCY’s advisory on <a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/jun/resumption-of-more-religious-activities-in-phase-two" target="_blank">resumption of more religious activities in Phase 2</a>.
 
-For private events, individuals holding private gatherings e.g. weddings, birthday parties will have to comply with the restrictions in <a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S254-2020?DocDate=20200407&ProvIds=pr6-#pr6-" target="_blank">Regulation 6 of the Control Order</a>. The 5 pax limit for social gatherings would generally apply with exceptions as stated in Regulation 6.
+For private events, individuals holding private gatherings e.g. birthday parties will have to comply with the restrictions in <a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S254-2020?DocDate=20200407&ProvIds=pr6-#pr6-" target="_blank">Regulation 6 of the Control Order</a>. The 5 pax limit for social gatherings would generally apply with exceptions as stated in Regulation 6.
 
 #### **9. What are the guidelines for outdoor movie screenings?**
 In general, most events are not allowed in Phase 2.

@@ -97,7 +97,7 @@ Please refer to the following categories:
 PCM contractors and employees are to avoid direct interaction with the E&C plant owner/customer’s employees except for safety and quality checks.
 
 #### **4. Can a Workplace Safety & Health Officer (WSHO) also be a Safe Management Officer (SMO)?**
-Yes, a WSHO can also be an SMO.
+Yes, a WSHO can also be a SMO.
 
 #### **5. Who can be appointed as SMOs or Safe Distancing Officers (SDO)?**
 For both E&C plant owners & PCM companies, this can be employees that have been appointed to assume the roles of SMOs & SDOs. PCM companies will have to employ both SMOs and SDOs, while plant owners will have to minimally employ SMOs. SMOs & SDOs from plant owners and PCM companies should also work together to implement and coordinate the SMM system at the worksite.
