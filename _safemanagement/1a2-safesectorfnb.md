@@ -11,7 +11,7 @@ Accounting practices are to comply to measures stipulated in this <a href="https
 
 #### **Arts and Culture / Museums**
 
-Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nacsmrrequirements" target="_blank">document</a> [last updated on 30 Jul 20]. You can also refer to the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html" target="_blank">website</a>. 
+Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nac" target="_blank">document</a> [last updated on 30 Jul 20]. You can also refer to the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html" target="_blank">website</a>. 
 
 Museum stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 7 Jul 20]. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
 
