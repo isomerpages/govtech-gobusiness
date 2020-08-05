@@ -12,8 +12,6 @@ Most face-to-face tuition and enrichment classes were allowed to resume from Pha
 
 Classes which involve activities with potentially higher risk of virus transmission through droplet spread (such as singing, voice projection, playing of wind or brass instruments or other instruments that require intentional expulsion of air) have been allowed to resume from 3 August 2020. They will be subject to additional safe management measures as seen <a href="https://covid.gobusiness.gov.sg\safemanagement\sector" target="_blank">here</a>, in view of the higher risks involved.
 
-For more information, please refer to <a href="https://go.gov.sg/tuitionadvisory" target="_blank">https://go.gov.sg/tuitionadvisory</a> and <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html" target="_blank">www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html</a>.
-
 #### **3. What are the safe management measures that tuition and enrichment centres should be implementing?**
 To reduce risk of transmission of COVID-19, tuition and enrichment centres are required to abide by the nationwide safe management measures for workplaces issued on 9 May 2020. These include health checks and declarations for all employees and students, the use of SafeEntry to support contact tracing, and regular cleaning of common facilities and high-touch areas. More details are available at the <a href="https://www.moe.gov.sg/faqs-covid-19-infection" target="_blank">MOE website</a> and <a href="https://covid.gobusiness.gov.sg/safemanagement/general/" target="_blank">GoBusiness website</a>.
 
