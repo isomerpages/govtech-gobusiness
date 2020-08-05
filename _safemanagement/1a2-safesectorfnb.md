@@ -92,7 +92,7 @@ Operators of private mahjong (or gambling) rooms are to comply to measures stipu
 
 #### **Private Tuition and Enrichment**
 
-Private tuition and enrichment providers are to comply to measures stipulated in this <a href="https://go.gov.sg/tuitionadvisory" target="_blank">document</a> [last updated on 19 Jun 20].
+Private tuition and enrichment providers are to comply to measures stipulated in this <a href="https://go.gov.sg/tuitionadvisory" target="_blank">document</a> [last updated on 4 Aug 20].
 
 #### **Process Construction & Maintenance Sector**
 
