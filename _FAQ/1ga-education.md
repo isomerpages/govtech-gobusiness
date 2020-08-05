@@ -20,14 +20,14 @@ To reduce risk of transmission of COVID-19, tuition and enrichment centres are r
 #### **4. Some tuition and enrichment classes involve high movement activities (e.g. sports, dance), or activities which carry a higher risk of virus transmission through droplet spread (e.g. singing, wind/brass instruments). What additional safe management measures should be implemented?**
 The following additional safe management measures apply:
 
-Sports and Dance Classes
+Sports and Dance Classes<br>
 a. Masks may only be removed when performing strenuous activities, although it is still recommended as good practice that masks be worn even under such circumstances.<br>
 
 b. Participants should maintain at least 2m safe distancing from others, and try to minimise physical contact as much as possible<br>
 
 c. There should be a minimum of 3m spacing between each group/class, if more than one group/class is using the same venue.<br>
 
-Singing, Voice Training, Speech and Drama, Wind/Brass Instrument Classes
+Singing, Voice Training, Speech and Drama, Wind/Brass Instrument Classes<br>
 a. Group sizes are limited to five participants (excluding one instructor), except for singing classes which are limited to one participant (excluding one instructor). No more than one group is permitted in the same room.<br>
 
 b. Masks must continue to be worn as a default, except when unmasking is necessary for the activity. If possible, face shields should be worn even when unmasked.<br>
@@ -37,9 +37,13 @@ c. Participants should maintain at least 2m safe distancing from others and refr
 d. For wind/brass instrument classes,<br>
 
 i. Instructors should continue to wear masks when singing or humming a passage of music to demonstrate how it should sound when played on the instrument.<br>
+
 ii. Participants should play on wind instruments which are fully intact, and refrain from training practices involving only parts of the instrument (e.g. mouthpiece buzzing, playing with just the lead pipe) to prevent droplet transmission.<br>
+
 iii. Sharing of music instruments or parts thereof (e.g. mouthpieces, reeds) is not allowed.<br>
+
 iv. Liquids from instruments (i.e. condensation and saliva) must be collected and disposed of hygienically.<br>
+
 For detailed guidance, please also refer to the advisories issued by <a href="https://www.sportsingapore.gov.sg/newsroom/media-releases/2020/advisory-for-resumption-of-sport-and-physical-exercise-and-activity-for-phase-two-safe-transition" target="_blank">Sport Singapore</a> and the <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html" target="_blank">National Arts Council</a>.
 
 #### **5. Will private tutors who are operating out of private residences be allowed to resume face-to-face lessons?**
