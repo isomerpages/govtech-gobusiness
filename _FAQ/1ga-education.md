@@ -18,7 +18,7 @@ To reduce risk of transmission of COVID-19, tuition and enrichment centres are r
 #### **4. Some tuition and enrichment classes involve high movement activities (e.g. sports, dance), or activities which carry a higher risk of virus transmission through droplet spread (e.g. singing, wind/brass instruments). What additional safe management measures should be implemented?**
 The following additional safe management measures apply:
 
-Sports and Dance Classes<br>
+<ins>Sports and Dance Classes</ins><br>
 
 a. Masks may only be removed when performing strenuous activities, although it is still recommended as good practice that masks be worn even under such circumstances.<br>
 
@@ -26,7 +26,7 @@ b. Participants should maintain at least 2m safe distancing from others, and try
 
 c. There should be a minimum of 3m spacing between each group/class, if more than one group/class is using the same venue.<br>
 
-Singing, Voice Training, Speech and Drama, Wind/Brass Instrument Classes<br>
+<ins>Singing, Voice Training, Speech and Drama, Wind/Brass Instrument Classes</ins><br>
 
 a. Group sizes are limited to five participants (excluding one instructor), except for singing classes which are limited to one participant (excluding one instructor). No more than one group is permitted in the same room.<br>
 
