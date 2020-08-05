@@ -21,6 +21,7 @@ To reduce risk of transmission of COVID-19, tuition and enrichment centres are r
 The following additional safe management measures apply:
 
 Sports and Dance Classes<br>
+
 a. Masks may only be removed when performing strenuous activities, although it is still recommended as good practice that masks be worn even under such circumstances.<br>
 
 b. Participants should maintain at least 2m safe distancing from others, and try to minimise physical contact as much as possible<br>
@@ -28,6 +29,7 @@ b. Participants should maintain at least 2m safe distancing from others, and try
 c. There should be a minimum of 3m spacing between each group/class, if more than one group/class is using the same venue.<br>
 
 Singing, Voice Training, Speech and Drama, Wind/Brass Instrument Classes<br>
+
 a. Group sizes are limited to five participants (excluding one instructor), except for singing classes which are limited to one participant (excluding one instructor). No more than one group is permitted in the same room.<br>
 
 b. Masks must continue to be worn as a default, except when unmasking is necessary for the activity. If possible, face shields should be worn even when unmasked.<br>
