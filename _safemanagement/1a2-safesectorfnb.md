@@ -114,7 +114,11 @@ You can also refer to the Singapore Police Force <a href = "https://www.police.g
 
 #### **Religious Organisations**
 
-Religious organisations are to comply to measures stipulated in this <a href="https://go.gov.sg/mccyroadvisory" target="_blank">document</a> [last updated on 18 Jun 20]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/" target="_blank">website</a>.
+Religious organisations are to comply to measures stipulated in this <a href="https://go.gov.sg/mccyroadvisory" target="_blank">document</a> [last updated on 2 Aug 20]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/" target="_blank">website</a>.
+
+For the conduct of 7th lunar month activities in Phase Two, ROs are to comply to measures stipulated in this <a href="https://go.gov.sg/seventhmonthadvisory" target="_blank">document</a> [last updated on 7 Aug 20]. This year’s 7th lunar month is from 19 August to 16 September 2020. 
+
+For more information and FAQs on COVID-19 for the religious sector, please visit <a href = "www.cpro.gov.sg" target="_blank">www.cpro.gov.sg</a> or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at <a href = "mailto: cpro@mccy.gov.sg">cpro@mccy.gov.sg</a>. 
 
 #### **Sports Sector Enterprises, Sports Education, and Premises with Sports Facilities**
 
