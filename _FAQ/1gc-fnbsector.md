@@ -17,7 +17,7 @@ However, please note that you will need to submit manpower details via the <a hr
 ## **<ins>F&B Establishments</ins>**
 
 #### **3. What are the safe management measures F&B establishments need to implement for dine-in?**
-With effect from 19 June 2020, dine-in for F&B establishments is allowed. Please refer to the <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/advisory-for-phase-2-re-opening-of--food-and-beverage-establishments" target="_blank">advisory for Phase Two Re-opening of Food & Beverage Establishments</a> for details on the applicable safe management measures. 
+With effect from 19 June 2020, dine-in for F&B establishments is allowed. Please refer to the <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/july/updated-advisory-for-phase-2-re-opening-of-food-beverage-establishments" target="_blank">advisory for Phase Two Re-opening of Food & Beverage Establishments</a> for details on the applicable safe management measures. 
 
 #### **4. Can F&B establishments use acrylic dividers or physical barriers to replace the need for 1m safe distancing?**
 No. The default is to ensure at least one metre safe distancing between groups of seated diners (five or fewer) at all times. While acrylic dividers or other physical barriers can be adopted alongside the safe distancing requirement, they are not meant to be used as a substitute for the safe distancing requirement. Where physical barriers (e.g. acrylic dividers) are used, additional safeguards must be taken to minimise the risk of cross infection (e.g. regular cleaning).
