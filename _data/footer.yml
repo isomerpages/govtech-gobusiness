@@ -9,7 +9,7 @@ navlinks:
   #  url: /
     sublinks:
       - title: GoBusiness Gov Assist
-        url: /gov-assist/
+        url: https://govassist.gobusiness.gov.sg/
       - title: GoBusiness Licensing
         url: https://www.gobusiness.gov.sg/licences
       - title: GoBusiness COVID-19
