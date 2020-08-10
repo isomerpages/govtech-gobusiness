@@ -5,12 +5,15 @@ privacy_policy: /privacy/
 terms_of_use: /terms-of-use/
 
 navlinks:
-  - title: Products
+  - title: Our Services
   #  url: /
     sublinks:
+      - title: GoBusiness Gov Assist
+        url: /gov-assist/
       - title: GoBusiness Licensing
         url: https://www.gobusiness.gov.sg/licences
-      - title: GoBusiness Gov Assist *Coming Soon!
+      - title: GoBusiness COVID-19
+        url: https://covid.gobusiness.gov.sg/
       #  url: /some-page-b/
       #- title: Subitem 3
       #  url: /some-page-c/
