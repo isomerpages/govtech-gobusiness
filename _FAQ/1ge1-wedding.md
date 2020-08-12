@@ -131,7 +131,7 @@ Cultural rites involving food and beverages are not allowed to be conducted as p
 ## **<ins>Other wedding activities</ins>**
 
 #### **20. Can I hold a reception? How many receptions can I hold? What are the guidelines for receptions?**
-You can have only one reception, held on the same day as the solemnization or on a separate day . You may hold your reception in anycontrolled premises opened for operation (outside of the home, the ROM(M) Building and designated areas in the National Museum of Singapore operated by ROM) that can accommodate receptions whereby safe management measures are implemented and enforced. You may check directly with the venue operator on their processes and conditions for the holding of the reception. Venue owners/ operators may determine if and when to allow solemnizations and receptions to be held in their premises, and may set additional conditions for their use, such as setting a lower limit for attendance based on their capacity or ability to ensure safe management measures are implemented.
+You can have only one reception, held on the same day as the solemnization or on a separate day . You may hold your reception in any controlled premises opened for operation (outside of the home, the ROM(M) Building and designated areas in the National Museum of Singapore operated by ROM) that can accommodate receptions whereby safe management measures are implemented and enforced. You may check directly with the venue operator on their processes and conditions for the holding of the reception. Venue owners/ operators may determine if and when to allow solemnizations and receptions to be held in their premises, and may set additional conditions for their use, such as setting a lower limit for attendance based on their capacity or ability to ensure safe management measures are implemented.
 
 For such receptions, you may have up to 50 persons, or the safe capacity of the venue, whichever is lower. For the safety of all who are attending your reception, please ensure that you and your guests comply with the following measures:
 
@@ -148,7 +148,7 @@ We must remain vigilant to protect ourselves and our loved ones. All guests shou
  
 The organiser is responsible for ensuring that all attendees observe the necessary safe management measures. Please refer here for the full set of safe management measures. If your venue operator has further questions regarding receptions, they can contact the relevant agency overseeing their operations (e.g. Enterprise Singapore for F&B establishments[^4], Singapore Tourism Board for hotels).
 
-#### **21. 21.	Can I hold reception at HDB common areas?**
+#### **21.	Can I hold reception at HDB common areas?**
 No. Receptions are only allowed at controlled premises (e.g function rooms, community centres, restaurants and hotels) whereby safe management measures are implemented and enforced.
 
 #### **22. Can I perform other cultural rites such as the tea ceremony during the reception? Can we have our tea ceremony at the external solemnization venue?**
