@@ -110,3 +110,60 @@ As the resumption of M&O works will be phased out from 2 June 2020, only those d
 
 #### **6. Do I have to segregate my workers at their accommodation according to their projects and teams?**
 Yes. Companies must work with dormitory operators to segregate workers according to their worksites and teams so as to avoid inter-mixing.
+
+
+## **Staggered Rest Day**
+
+#### **1. Which companies will be affected by this requirement and will this be imposed on all employees within the company?**
+Only companies who employ foreign workers in the Marine Shipyard sector will be affected. Staggered rest days will apply to all Work Permit and S Pass holders hired under the Marine Shipyard account. Companies can check the category of their foreign workers via Ministry of Manpower’s (MOM’s) Work Permit Online platform here. Companies are required to adopt and implement the staggered rest day arrangement for these employees.
+
+#### **2. My Marine Shipyard account foreign workers are working in the office and not on the production site, are they required to follow the staggered rest day arrangement?**
+Yes, all Marine Shipyard account Work Permit and S Pass holders are included regardless of their assigned worksite and role.  This will help to reduce crowding when they are out on personal activities on their rest days.
+
+#### **3. Are my Marine Shipyard account foreign workers allowed to work on their allocated rest day?**
+Yes, if there are operational needs and the worker is willing to work on their rest day. However, employers are to comply with the Employment Act and compensate the worker with overtime pay, and abide by the overtime hours limit accordingly.
+
+#### **4. If I have no critical production needs and do not want to operate on Sunday, do my Marine Shipyard account workers still need to report to work as it is not their assigned rest day? **
+No, if the company is not operating on Sunday, these workers need not report to the worksite but they will not be able to leave their dormitory for leisure or personal errands that day. The workers can leave the dormitories for leisure or personal reasons only on their assigned rest day each week.
+
+#### **5. If my Marine Shipyard account foreign workers usually have two rest days per week, can they be given two rest days?**
+Yes, companies can allow workers to have more than one rest day. Nonetheless, companies need to update only one of the rest days in the Safe@Work system. This will be the day where the workers will be able to leave their dormitory for leisure and personal reasons.  On other rest days, the worker need not work, but will need to rest in their dormitory during this stage of the pandemic. 
+
+#### **6. Will this staggered rest day arrangement apply to my Marine Shipyard account foreign workers who are not living in dormitories?**
+Yes, companies are required to implement the staggered rest day arrangement for their Marine Shipyard account workers regardless of their place of residence. Staggered rest day is needed to prevent the risk of large numbers of people congregating on their rest days, which will heighten the risk of COVID-19 transmission. This arrangement will reduce the pool of people interacting with others outside of work on any given day, and mitigate the public health risk to themselves and others. However, workers not living in dormitories will not be required to apply for Exit Pass to leave their residence.
+
+#### **7. Is there an end date for this staggered rest day arrangement?**
+The arrangement is needed to minimise the risk of large numbers of people congregating, and thereby reduce the risk of COVID-19 transmission. Staggered rest days will be reviewed when the COVID-19 pandemic has abated.
+
+#### **8. Will there be enforcement? What will be the penalties for companies and workers who do not comply with the staggered rest day arrangement?**
+MOM will take enforcement measures against errant foreign workers including the suspension of dorm exits for leisure purposes, and in extreme cases, the revocation of work passes. 
+
+
+## **ASSIGNMENT OF STAGGERED REST DAY**
+
+#### **9. Why are Sponsoring Shipyards and their Resident Contractors grouped together for the staggered rest day arrangement?**
+Resident Contractors are supported by a specific Sponsoring Shipyard. As Sponsoring Shipyards work very closely with their Resident Contractors they are provided with the flexibility to coordinate the staggered rest day arrangements according to operational needs. Sponsoring Shipyards are to ensure that between the shipyard and Resident Contractors there is an even spread of Marine Shipyard account workers resting each day across Monday to Saturday.
+
+For example:
+A Sponsoring Shipyard has 100 marine pass holders. Their Resident Contractor A and B has 30 and 50 Marine pass holders respectively. Together, they have a total of 180 marine workers. Sponsoring Shipyard will work together with Resident Contractor A and B, and coordinate such that 30 marine workers (180 ÷ 6 = 30) between them are resting each day from Monday to Saturday. 
+
+#### **10. My company wishes to adopt the randomly assigned rest day option. Can we choose our preferred rest day between Monday to Saturday?**
+No. The rest day will be randomly assigned for all companies that have chosen this option. This is to ensure even distribution of workers resting across the 6 days.
+
+#### **11. How will companies be notified of the rest day they have been allocated?**
+Companies will be notified by email by 26th August.
+
+#### **12. What will happen if I do not make any selection by the deadline?**
+Eligible companies who do not indicate their selection by 21st August via here will be automatically randomly assigned one rest day for their Marine Shipyard account foreign workers. We will not be able to process any appeals. 
+
+#### **13. If I have indicated my selection but changed my mind, can I change my selection?**
+Companies that wishes to change their selection are to re-submit the form here by 21st August. The latest submission will be considered. Afterwhich, companies will not be able to make any changes as it would affect the equal spread of rest day for workers from other companies. 
+
+#### **14. If I am adopting the equal spread of Marine Shipyard account workers resting between Monday to Saturday, am I allowed to swap the workers’ rest days in the Safe@Work system while keeping to the numbers resting each day?**
+Yes, companies are allowed to change the workers’ rest day in the Safe@Work system while adhering to the numbers resting each day. However, employers are to ensure fair treatment to workers and timely communication to allow workers to make the necessary adjustment, and should not prevent their workers from applying for an Exit Pass, or force them to work on their rest day against their will.
+
+#### **1. Sample**
+Sample
+
+#### **1. Sample**
+Sample
