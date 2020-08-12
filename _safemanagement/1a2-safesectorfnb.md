@@ -27,6 +27,8 @@ Enterprises undertaking renovation works and building works for residential prop
 
 For the latest updates from BCA, companies can visit BCA’s COVID-19 <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">webpage</a> or subscribe to BCA’s channel on the Telegram app (<a href="https://t.me/BCASingapore">https://t.me/BCASingapore</a>).
 
+Enterprises in the Construction sector are to comply to measures stipulated in this <a href="https://go.gov.sg/construction2" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders. 
+
 #### **Cinemas**
 
 Cinema operators are to comply to measures stipulated in this <a href="https://go.gov.sg/cinemasadvisory" target="_blank">document</a> [last updated on 3 Jul 20]. You can also refer to the Infocomm Media Development Authority <a href="https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Advisories-on-COVID-19-Situation" target="_blank">website</a>.
@@ -38,6 +40,10 @@ Country and recreation clubs are to comply to measures stipulated in this <a hre
 #### **Dental Sector**
 
 Dental clinics and dental practitioners are to comply to measures stipulated in this <a href="https://go.gov.sg/dentalcircular2" target="_blank">document</a> [last updated on 17 Jun 20].
+
+#### **Dormitory Operators**
+
+Dormitory operators are to comply to measures stipulated in this <a href="https://go.gov.sg/dormoperators" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for dormitory residents.
 
 #### **Estate Agents and Real Estate Salespersons**
 
@@ -79,6 +85,8 @@ Marriage solemnisations and receptions will be expected to comply to measures st
 Enterprises in the M&O sector are to comply to measures for stipulated in this <a href="/images/Advisory - MO Sector (final 1 June 2020).pdf" target="_blank">document</a> [last updated on 27 Jun 20].
 
 You should also comply to the COVID-Safe restart criteria for shipyards, resident contractors and common contractors (M&O) <a href="/images/Criteria - Shipyards (final 1 June 2020).pdf" target="_blank">here</a> [last updated on 27 Jun 20].
+
+Enterprises in the M&O sector are to comply to measures stipulated in this <a href="https://go.gov.sg/marineadvisory" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.  
 
 #### **Massage Establishments**
 
