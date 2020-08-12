@@ -27,7 +27,7 @@ Enterprises undertaking renovation works and building works for residential prop
 
 For the latest updates from BCA, companies can visit BCA’s COVID-19 <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">webpage</a> or subscribe to BCA’s channel on the Telegram app (<a href="https://t.me/BCASingapore">https://t.me/BCASingapore</a>).
 
-Enterprises in the Construction sector are to comply to measures stipulated in this <a href="https://go.gov.sg/construction2" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders. 
+Enterprises in the Construction sector are to comply to measures stipulated in this <a href="https://go.gov.sg/construction3" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders. 
 
 #### **Cinemas**
 
