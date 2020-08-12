@@ -75,7 +75,7 @@ sections:
         subtitle: 
         description: List of assistance that Government is providing.
         button: Find Out More
-        url: /supportschemes/general
+        url: https://go.gov.sg/govassist
         image: /images/helpinghands.jpg
         alt: Support Schemes for Businesses
     - infopic:
