@@ -105,13 +105,13 @@ For both E&C plant owners & PCM companies, this can be employees that have been 
 #### **6. My worksite does not allow workers to hold on to mobile phones while at the work area due to safety/security reasons. Can I use other methods to replace TraceTogether?**
 All personnel entering the site must have a smart phone with TraceTogether app installed before they are allowed to enter the site. Workers should download, activate, and maintain the latest version of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile app</a> to facilitate contact tracking. While TraceTogether is not mandatory at the worksite given that not all workers will be able to hold on to mobile phones while at the work area in live plants, logging the entry of all personnel via the SafeEntry visitor management system will be required to support contact tracing efforts.
 
-#### **5. Can a team be divided into sub-teams at the worksite?**
+#### **7. Can a team be divided into sub-teams at the worksite?**
 Yes. Each sub-team will be treated as separate teams. Each sub-team will have to be segregated both at the place of accommodation as well as at the worksite from the other sub-teams to ensure no interaction from the other sub-teams. 
 
-#### **6. Will workers not declared by the company be allowed to go onto the worksite?**
+#### **8. Will workers not declared by the company be allowed to go onto the worksite?**
 No. Companies will be required to declare all workers entering the worksite and ensure that those who are unwell or have not completed the required swab tests do not enter the worksite for the project.
 
-#### **7. Can all office staff commence work after 2 June 2020?**
+#### **9. Can all office staff commence work after 2 June 2020?**
 For companies that are allowed to resume work from 2 June 2020 based on MTI’s advisory dated 19 May 2020 or have received approval to restart PCM works, the intent is still to have the workforce that can telecommute to do so. Employees should go to the office only where it is demonstrably necessary e.g. to access specialized systems/equipment that cannot be accessed from home, or to fulfill legal requirements (e.g. to complete contracts or transactions).
 
 
@@ -143,3 +143,56 @@ As the resumption of PCM works will be phased out from 2 June 2020, only those d
 
 #### **7. Do I have to segregate my workers at their accommodation according to their projects and teams?**
 Yes. Companies must work with dormitory operators to segregate workers according to their teams so as to avoid inter-mixing.
+
+
+## **Staggered Rest Day**
+
+#### **1. How will staggered rest days apply to PCM projects/activities that involve Work Permit and S Pass holders hired under the Process account?**
+<ins>Process Maintenance[^1]</ins><br>
+We recognize that these firms may be subjected to contractual agreements on days when their services need to be provided. To cater for their varying manpower deployment requirements, we will allow firms to choose the appropriate rest days for their workers between Monday to Saturday, as the day when the worker is allowed to exit the dorm. Workers can continue to rest from work on Sunday but must stay within the dorm. 
+
+<ins>Process Construction[^2]</ins><br>
+For Process Construction projects which have applied to BCA for approval to restart, BCA will assign a rest day for the <ins>Construction account</ins> Work Permit and S-pass holders involved in the project. For projects that do not apply to BCA for restart, employers of <ins>Construction account</ins> Work Permit or S-Pass Holders can choose a rest day for each of their workers. 
+
+We recognize that process construction projects could have synergies with process maintenance works (e.g. shared equipment/workers, interdependent job sequencing). To cater for these synergies, we will allow Process firms to choose the appropriate rest days for their <ins>Process account</ins> Work Permit and S-Pass holders between Monday to Saturday, as the day when the worker is allowed to exit the dorm. Workers can continue to rest from work on Sunday but must stay within the dorm. Employers should work with the project/plant owner to select the appropriate rest day for their workers from Monday to Saturday. 
+
+#### **2. Which companies will be affected by this requirement and will this be imposed on all employees within the company?**
+Only companies who employ foreign workers in the Process sector will be affected. Staggered rest days will apply to all Work Permit and S Pass holders hired under the Process account. Companies can check the category of their foreign workers via Ministry of Manpower’s (MOM’s) Work Permit Online platform <a href="https://www.mom.gov.sg/eservices/services/wp-online-for-businesses-and-employment-agencies" target="_blank">here</a>. Companies are required to adopt and implement the staggered rest day arrangement for these employees.
+
+#### **3. My Process sector foreign workers are working in the office and not on the production site, are they required to follow the staggered rest day arrangement?**
+Yes, all Process Sector Work Permit and S Pass holders are included regardless of their assigned worksite and role. This will help to reduce crowding when they are out on personal activities on their rest days.
+
+#### **4. Are my Process sector foreign workers allowed to work on their allocated rest day?**
+Yes, if there are operational needs and the worker is willing to work on their rest day. However, employers are to comply with the Employment Act and compensate the worker with overtime pay, and abide by the overtime hours limit accordingly.
+
+#### **5. If I have no critical production needs and do not want to operate on Sunday, do my Process sector workers still need to report to work as it is not their assigned rest day?**
+No, if the company is not operating on Sunday, these workers need not report to the worksite but they will not be able to leave their dormitory for leisure or personal errands that day. The workers can leave the dormitories for leisure or personal reasons only on their assigned rest day each week.
+
+#### **6. If my Process sector foreign workers usually have two rest days per week, can they be given two rest days?**
+Yes, companies can allow workers to have more than one rest day. Nonetheless, companies need to update only one of the rest days in the Safe@Work system. This will be the day where the workers will be able to leave their dormitory for leisure and personal reasons. On other rest days, the worker need not work, but will need to rest in their dormitory during this stage of the pandemic.
+
+#### **7. Will this staggered rest day arrangement apply to my Process sector workers who are not living in dormitories?**
+Yes, companies are required to implement the staggered rest day arrangement for their Process sector workers regardless of their place of residence. Staggered rest day is needed to prevent the risk of large numbers of people congregating on their rest days, which will heighten the risk of COVID-19 transmission. This arrangement will reduce the pool of people interacting with others outside of work on any given day, and mitigate the public health risk to themselves, and others. However, workers not living in dormitories will not be required to apply for Exit Pass to leave their residence.
+
+#### **8. Is there an end date for this staggered rest day arrangement?**
+The arrangement is needed to minimise the risk of large numbers of people congregating, and thereby reduce the risk of COVID-19 transmission. Staggered rest days will be reviewed when the COVID-19 pandemic has abated.
+
+#### **9. Will there be enforcement? What will be the penalties for companies and workers who do not comply with the staggered rest day arrangement?**
+MOM will take enforcement measures against errant foreign workers including the suspension of dorm exits for leisure purposes, and in extreme cases, the revocation of work passes.
+
+
+## **Assignment of Staggered Rest Day**
+
+#### **10. Will MOM/BCA/EDB inform my workers on their assigned rest day?**
+No. Employers are responsible for informing their workers on their assigned rest days and if there are any subsequent changes.
+
+#### **11. My worker is deployed to multiple worksites. Which rest day should I follow?**
+If your worker is primarily deployed to one project site, you should follow the rest day of the project site. If your worker serves multiple project sites or is not deployed to a site, you may select a rest day between Monday to Saturday that best fits his work schedule. Please log on to MOM’s Safe@Work system to select a suitable rest day for your worker.
+
+#### **12. Do I need to implement the new rest day immediately?**
+We understand that firms will need time to adjust their business practices and manpower deployment to implement their new rest day. Hence, you will be given one-month grace period from 12 August 2020 to implement your new rest day.
+
+
+___
+[^1]: Works requiring Process Sector Work Permit or S-Pass Holders in connection with the maintenance of plant equipment in the Petroleum/Petrochemicals and other Chemicals manufacturing sector.
+[^2]: Works requiring Process Sector Work Permit or S-Pass Holders in connection with the construction of plant equipment in the Petroleum/Petrochemicals and other Chemicals manufacturing sector.
