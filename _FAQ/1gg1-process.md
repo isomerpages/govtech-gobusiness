@@ -105,13 +105,13 @@ For both E&C plant owners & PCM companies, this can be employees that have been 
 #### **6. My worksite does not allow workers to hold on to mobile phones while at the work area due to safety/security reasons. Can I use other methods to replace TraceTogether?**
 All personnel entering the site must have a smart phone with TraceTogether app installed before they are allowed to enter the site. Workers should download, activate, and maintain the latest version of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile app</a> to facilitate contact tracking. While TraceTogether is not mandatory at the worksite given that not all workers will be able to hold on to mobile phones while at the work area in live plants, logging the entry of all personnel via the SafeEntry visitor management system will be required to support contact tracing efforts.
 
-#### **5. Can a team be divided into sub-teams at the worksite?**
+#### **7. Can a team be divided into sub-teams at the worksite?**
 Yes. Each sub-team will be treated as separate teams. Each sub-team will have to be segregated both at the place of accommodation as well as at the worksite from the other sub-teams to ensure no interaction from the other sub-teams. 
 
-#### **6. Will workers not declared by the company be allowed to go onto the worksite?**
+#### **8. Will workers not declared by the company be allowed to go onto the worksite?**
 No. Companies will be required to declare all workers entering the worksite and ensure that those who are unwell or have not completed the required swab tests do not enter the worksite for the project.
 
-#### **7. Can all office staff commence work after 2 June 2020?**
+#### **9. Can all office staff commence work after 2 June 2020?**
 For companies that are allowed to resume work from 2 June 2020 based on MTI’s advisory dated 19 May 2020 or have received approval to restart PCM works, the intent is still to have the workforce that can telecommute to do so. Employees should go to the office only where it is demonstrably necessary e.g. to access specialized systems/equipment that cannot be accessed from home, or to fulfill legal requirements (e.g. to complete contracts or transactions).
 
 
@@ -148,10 +148,10 @@ Yes. Companies must work with dormitory operators to segregate workers according
 ## **Staggered Rest Day**
 
 #### **1. How will staggered rest days apply to PCM projects/activities that involve Work Permit and S Pass holders hired under the Process account?**
-<ins>Process Maintenance[^1]</ins>
+<ins>Process Maintenance[^1]</ins><br>
 We recognize that these firms may be subjected to contractual agreements on days when their services need to be provided. To cater for their varying manpower deployment requirements, we will allow firms to choose the appropriate rest days for their workers between Monday to Saturday, as the day when the worker is allowed to exit the dorm. Workers can continue to rest from work on Sunday but must stay within the dorm. 
 
-<ins>Process Construction[^2]</ins>
+<ins>Process Construction[^2]</ins><br>
 For Process Construction projects which have applied to BCA for approval to restart, BCA will assign a rest day for the Construction account Work Permit and S-pass holders involved in the project. For projects that do not apply to BCA for restart, employers of Construction account Work Permit or S-Pass Holders can choose a rest day for each of their workers. 
 
 We recognize that process construction projects could have synergies with process maintenance works (e.g. shared equipment/workers, interdependent job sequencing). To cater for these synergies, we will allow Process firms to choose the appropriate rest days for their Process account Work Permit and S-Pass holders between Monday to Saturday, as the day when the worker is allowed to exit the dorm. Workers can continue to rest from work on Sunday but must stay within the dorm. Employers should work with the project/plant owner to select the appropriate rest day for their workers from Monday to Saturday. 
