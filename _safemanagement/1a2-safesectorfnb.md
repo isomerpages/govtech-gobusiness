@@ -25,9 +25,11 @@ Enterprises in the construction sector are to comply to measures stipulated in t
 
 Enterprises undertaking renovation works and building works for residential properties from 2 June 2020 are to comply to measures stipulated in this <a href="https://go.gov.sg/renosmrrequirements" target="_blank">document</a> [last updated on 13 Jun 20].
 
-For the latest updates from BCA, companies can visit BCA’s COVID-19 <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">webpage</a> or subscribe to BCA’s channel on the Telegram app (<a href="https://t.me/BCASingapore">https://t.me/BCASingapore</a>).
+Enterprises employing foreign workers registered with MOM under construction account are to refer to BCA’s Circular on permission for companies to resume work from 10 Aug 2020 and review of COVID-Safe accommodation criteria in this <a href="https://go.gov.sg/BCACircularResumption10Aug" target="_blank">document</a> [last updated on 10 Aug 20].
 
-Enterprises in the Construction sector are to comply to measures stipulated in this <a href="https://go.gov.sg/construction3" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders. 
+Enterprises in the construction sector are to comply to measures stipulated in this <a href="https://go.gov.sg/construction3" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.
+
+For the latest updates from BCA, companies can visit BCA’s COVID-19 <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">webpage</a> or subscribe to BCA’s channel on the Telegram app (<a href="https://t.me/BCASingapore">https://t.me/BCASingapore</a>).
 
 #### **Cinemas**
 
