@@ -47,7 +47,7 @@ sections:
     - infopic:
         title: Support Schemes for Businesses
         subtitle:      
-        description: For assistance on Job Support Scheme.<br/><a herf="https://go.gov.sg/jss" rel="noreferrer" target="_blank" class="bp-sec-button margin--top padding--bottom"><u>Find Out Here</u><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></a><br/>For other list of assistance that Government is providing.
+        description: For assistance on Job Support Scheme.<br/><a href="https://go.gov.sg/jss" rel="noreferrer" target="_blank" class="bp-sec-button margin--top padding--bottom"><u>Find Out Here</u> <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></a><br/>For other list of assistance that Government is providing.
         button: Find Out More
         url: https://govassist.gobusiness.gov.sg
         image: /images/helpinghands.jpg
