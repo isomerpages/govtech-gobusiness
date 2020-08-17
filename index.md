@@ -46,12 +46,8 @@ sections:
 #        alt: Permitted Services
     - infopic:
         title: Support Schemes for Businesses
-        subtitle: 
-        description: For assistance on Job Support Scheme
-        button: Find Out Here
-        url: https://go.gov.sg/jss
-        
-        description: For other list of assistance that Government is providing.
+        subtitle:      
+        description: For assistance on Job Support Scheme Find Out Here https://go.gov.sg/jss For other list of assistance that Government is providing.
         button: Find Out More
         url: https://govassist.gobusiness.gov.sg
         image: /images/helpinghands.jpg
