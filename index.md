@@ -51,6 +51,7 @@ sections:
         button: Find Out More
         url: https://go.gov.sg/jss
         image: /images/helpinghands.jpg
+        
         description: For other list of assistance that Government is providing.
         button: Find Out More
         url: https://govassist.gobusiness.gov.sg
