@@ -112,6 +112,8 @@ PCM companies should also comply to the COVID-Safe restart criteria stipulated <
 
 Energy and chemical plant owners are to comply to the COVID-Safe restart criteria stipulated in this <a href="https://go.gov.sg/CriteriaECPlantOwners" target="_blank">document</a> [last updated on 27 Jun 20].
 
+Enterprises in the Process Construction & Maintenance sector are to comply to measures stipulated in this <a href="https://go.gov.sg/PCMBCAStaggeredRestDay" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders. 
+
 #### **Property show galleries**
 
 Developers are to comply to measures stipulated in this <a href="https://go.gov.sg/PropertyURA" target="_blank">document</a> [last updated on 17 Jun 20]. You can also refer to the Urban Redevelopment Authority <a href = "https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-13" target="_blank">website</a>.
