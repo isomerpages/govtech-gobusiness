@@ -44,6 +44,18 @@ sections:
 #        url: /permittedlist/
 #        image: /images/open.jpg
 #        alt: Permitted Services
+    - infopic:
+        title: Support Schemes for Businesses
+        subtitle: 
+        description: For assistance on Job Support Scheme
+        button: Find Out Here
+        url: https://go.gov.sg/jss
+        
+        description: For other list of assistance that Government is providing.
+        button: Find Out More
+        url: https://govassist.gobusiness.gov.sg
+        image: /images/helpinghands.jpg
+        alt: Support Schemes for Businesses
     - infobar:
         title: Time-Limited Exemption
         subtitle: 
@@ -70,14 +82,6 @@ sections:
 #        url: /safemanagement/general/
 #        image: /images/safetywork.jpg
 #        alt: Safe Management Practices
-    - infopic:
-        title: Support Schemes for Businesses
-        subtitle: 
-        description: List of assistance that Government is providing.
-        button: Find Out More
-        url: https://go.gov.sg/govassist
-        image: /images/helpinghands.jpg
-        alt: Support Schemes for Businesses
     - infopic:
         title: News & Advisories
         subtitle: 
