@@ -80,7 +80,7 @@ All landscape-related services and nurseries will resume, subject to safe manage
 
 #### **Marriage Solemnisations and Receptions**
 
-Marriage solemnisations and receptions will be expected to comply to measures stipulated in this <a href="https://go.gov.sg/Weddings" target="_blank">document</a> [last updated 30 Jul 20], depending on venue.
+Marriage solemnisations and receptions will be expected to comply to measures stipulated in this <a href="https://go.gov.sg/Weddings" target="_blank">document</a> [last updated 18 Aug 20], depending on venue.
 
 #### **Marine & Offshore (M&O) Sector**
 
@@ -126,7 +126,7 @@ You can also refer to the Singapore Police Force <a href = "https://www.police.g
 
 #### **Religious Organisations**
 
-Religious organisations are to comply to measures stipulated in this <a href="https://go.gov.sg/mccyroadvisory" target="_blank">document</a> [last updated on 2 Aug 20]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/" target="_blank">website</a>.
+Religious organisations are to comply to measures stipulated in this <a href="https://go.gov.sg/mccyroadvisory" target="_blank">document</a> [last updated on 18 Aug 20]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/aug/resumption-of-more-religious-activities-in-phase-two" target="_blank">website</a>.
 
 For the conduct of 7th lunar month activities in Phase Two, ROs are to comply to measures stipulated in this <a href="https://go.gov.sg/seventhmonthadvisory" target="_blank">document</a> [last updated on 7 Aug 20]. This year’s 7th lunar month is from 19 August to 16 September 2020. 
 

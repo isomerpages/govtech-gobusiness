@@ -5,7 +5,9 @@ third_nav_title: Support and Relief Measures
 ---
 
 #### **1. What is the Jobs Support Scheme (JSS)?**
-The Jobs Support Scheme (JSS) provides wage support to employers, to help enterprises retain their local employees (Singaporean Citizens and Permanent Residents) during this period of economic uncertainty. Under the JSS, the Government will co-fund between **<ins>25% and 75% of the first $4600 of gross monthly wages paid to each employee in a 10-month period</ins>** through cash subsidy. Employers will receive three main JSS pay-outs in April, July and October 2020, with a special pay-out in May 2020.
+The Jobs Support Scheme (JSS) provides wage support to employers, to help enterprises retain their local employees (Singaporean Citizens and Permanent Residents) during this period of economic uncertainty. Under the JSS, the Government co-funds between 25% to 75% of the first $4,600 of gross monthly wages paid to each local employee in a 10-month period (up to Aug 2020) and 10% to 50% of the same in the subsequent 7-month period (Sep 2020 to Mar 2021).
+
+Employers will receive five main JSS payouts in Apr 2020, Jul 2020, Oct 2020, Mar 2021, and Jun 2021, with an additional special payout in May 2020. The level and duration of support each employer receives depends on the sector in which the employer operates. Please refer <a href="https://www.iras.gov.sg/irashome/Schemes/Businesses/Jobs-Support-Scheme--JSS-/" target="_blank">here</a> for more information. 
 
 #### **2. How do I know if I am eligible for the Circuit Breaker tier JSS of 75%?**
 Companies in sectors that are not allowed to resume operations and are currently not operating under a General Exemption, will be accorded the Circuit Breaker tier JSS of 75%.
