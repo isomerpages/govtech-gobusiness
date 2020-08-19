@@ -52,7 +52,7 @@ For the safety of all who are attending your solemnization, please ensure that y
 
 We must remain vigilant to protect ourselves and our loved ones. All attendees should check their temperature and ensure they are feeling well before they attend the solemnization. You may wish to encourage your guests, especially if they are more vulnerable, to refrain from attending your solemnization in person. Instead, they can join in the celebrations safely by using technology (e.g. witness the solemnization through a video link).  
  
-The organiser is responsible for ensuring that all attendees observe the necessary safe management measures[^2].
+The organiser is liable for ensuring that all attendees observe the necessary safe management measures[^2].
 
 #### **9. Can I have a small wedding reception at home immediately after my solemnization? Can I perform other cultural rites in the home before or after the solemnization?**
 Receptions are not allowed in your home. Couples may want to consider having a separate reception (see Q.19) at allowed venues where proper safe management measures can be observed more readily. Any other pre- or post-solemnization activities held at home should abide by the prevailing number of visitors allowed for home visits.
@@ -70,7 +70,7 @@ For the safety of all who are attending your solemnization, please ensure that y
 
 We must remain vigilant to protect ourselves and our loved ones. All guests should check their temperature and ensure they are not feeling unwell before they attend the solemnization. You may wish to encourage your guests, especially if they are more vulnerable, to refrain from attending your solemnization in person. Instead, they can join in the celebrations safely by using technology (e.g. witness the solemnization through a video link).  
  
-The organiser is responsible for ensuring that all attendees observe the necessary safe management measures. 
+The organiser is liable for ensuring that all attendees observe the necessary safe management measures. 
 
 #### **11. Can I have a small wedding reception at ROM(M) Building after my solemnization? Can I perform other cultural rites such as the tea ceremony before or after the solemnization at ROM(M) Building?**
 No, receptions and other activities outside of the solemnization are not permitted in the ROM(M) Building or designated areas in the National Museum of Singapore operated by ROM.
@@ -93,7 +93,7 @@ For the safety of all who are attending your solemnization, please ensure that y
 
 We must remain vigilant to protect ourselves and our loved ones. Any guest who is not feeling well should not attend the solemnization. You may wish to encourage your guests, especially if they are more vulnerable, to refrain from attending your solemnization in person. Instead, they can join in the celebrations safely by using technology (e.g. witness the solemnization through a video link).  
  
-The organiser is responsible for ensuring that all attendees observe the necessary safe management measures. 
+The organiser is liable for ensuring that all attendees observe the necessary safe management measures. 
 
 #### **14. Can the solemnization be accompanied by a religious service or rite?**
 Yes, your solemnization may be accompanied by a religious service or rite. However, for the safety of yourself and your attendees, this should be kept as short as possible. You may contact your Religious Organisation or MCCY’s Crisis Preparedness for Religious Organisations Programme Office at <a href = "mailto: cpro@mccy.gov.sg">cpro@mccy.gov.sg</a> if you have further queries.
@@ -120,18 +120,23 @@ For the safety of all who are attending your solemnization, please ensure that y
 
 We must remain vigilant to protect ourselves and our loved ones. All guests should check their temperature and ensure they are not feeling unwell before they attend the solemnization. You may wish to encourage your guests, especially if they are more vulnerable, to refrain from attending your solemnization in person. Instead, they can join in the celebrations safely by using technology (e.g. witness the solemnization through a video link).
  
-The organiser is responsible for ensuring that all attendees observe the necessary safe management measures. 
+The organiser is liable for ensuring that all attendees observe the necessary safe management measures. 
 
 #### **18. Can I have a pre- / post- solemnization reception or provide food / buffet as part of our ceremony?**
 Food and beverages are not allowed to be served as part of the solemnization ceremony. Couples may hold one reception either on the same day as the solemnization or on a separate day.
 
-#### **19. Can I perform other cultural rites such as the tea ceremony before or after the solemnization?**
+#### **19. What happens if the solemnization is back to back with the F&B reception i.e. solemnization followed by F&B reception in the same room?**
+If the solemnization is back-to-back with the F&B reception, the entire event (solemnization and reception) is subject to an overall cap of 50 persons, and no other receptions would be allowed.
+
+#### **20. Can I perform other cultural rites such as the tea ceremony before or after the solemnization?**
 Cultural rites involving food and beverages are not allowed to be conducted as part of the solemnization ceremony. The performance of cultural rites before or after the solemnization should take into account the prevailing national guidelines for that activity.
+
+Such cultural rites may take place as part of the wedding reception if they do not involve live performances or other prohibited activities for wedding receptions. For example, the tea ceremony can be held amongst the “wedding party” of 20 persons as part of the reception, and should take into account the prevailing national guidelines for that activity.
 
 ## **<ins>Other wedding activities</ins>**
 
-#### **20. Can I hold a reception? How many receptions can I hold? What are the guidelines for receptions?**
-You can have only one reception, held on the same day as the solemnization or on a separate day . You may hold your reception in controlled premises opened for operation (outside of the home, the ROM(M) Building and designated areas in the National Museum of Singapore operated by ROM) that can accommodate receptions whereby safe management measures are implemented and enforced. You may check directly with the venue operator on their processes and conditions for the holding of the reception. Venue owners/ operators may determine if and when to allow solemnizations and receptions to be held in their premises, and may set additional conditions for their use, such as setting a lower limit for attendance based on their capacity or ability to ensure safe management measures are implemented.
+#### **21. Can I hold a reception? How many receptions can I hold? What are the guidelines for receptions?**
+You can have only one reception, held on the same day as the solemnization or on a separate day[^3]. If the reception takes place in the same location right after the solemnization, the entire event (solemnization and reception) is subject to the overall cap of 50 persons (or lower based on the venue). You may hold your reception in controlled premises opened for operation (outside of the home, the ROM(M) Building and designated areas in the National Museum of Singapore operated by ROM) that can accommodate receptions whereby safe management measures are implemented and enforced. You may check directly with the venue operator on their processes and conditions for the holding of the reception. Venue owners/ operators may determine if and when to allow solemnizations and receptions to be held in their premises, and may set additional conditions for their use, such as setting a lower limit for attendance based on their capacity or ability to ensure safe management measures are implemented.
 
 For such receptions, you may have up to 50 persons, or the safe capacity of the venue, whichever is lower. For the safety of all who are attending your reception, please ensure that you and your guests comply with the following measures:
 
@@ -146,10 +151,7 @@ For such receptions, you may have up to 50 persons, or the safe capacity of the 
 
 We must remain vigilant to protect ourselves and our loved ones. All guests should check their temperature and ensure they are not feeling unwell before they attend the reception. You may wish to encourage your guests, especially if they are more vulnerable, to refrain from attending your solemnization in person. Instead, they can join in the celebrations safely by using technology (e.g. witness the solemnization through a video link).  
  
-The organiser is responsible for ensuring that all attendees observe the necessary safe management measures. Please refer here for the full set of safe management measures. If your venue operator has further questions regarding receptions, they can contact the relevant agency overseeing their operations (e.g. Enterprise Singapore for F&B establishments[^4], Singapore Tourism Board for hotels).
-
-#### **21.	Can I hold reception at HDB common areas?**
-No. Receptions are only allowed at controlled premises (e.g function rooms, community centres, restaurants and hotels) whereby safe management measures are implemented and enforced.
+The organiser is liable for ensuring that all attendees observe the necessary safe management measures. Please refer here for the full set of safe management measures. If your venue operator has further questions regarding receptions, they can contact the relevant agency overseeing their operations (e.g. Enterprise Singapore for F&B establishments[^4], Singapore Tourism Board for hotels).
 
 #### **22. Can I perform other cultural rites such as the tea ceremony during the reception? Can we have our tea ceremony at the external solemnization venue?**
 Yes you may, but any other activities done apart from the solemnization ceremony will be subject to the prevailing safe management guidelines.
@@ -158,29 +160,50 @@ Yes you may, but any other activities done apart from the solemnization ceremony
 You may do your pre-wedding photo shoots on a separate day from your solemnization. Please check directly with the wedding photographer on the Safe Management Measures that must be adhered to.
 
 #### **24. Can we hire a photographer to take photos of my wedding dinner/reception, and can the photographer take photos of guests at each table by adhering to the 1 metre distancing?**
-Yes, you can hire a photographer to take photos of the wedding reception. However, there should be no intermingling between the wedding party and guests (i.e. table-to-table photos should be avoided). Masks may be removed momentarily for photo-taking, and should be put on immediately after.
+Yes, you can hire a photographer to take photos of the wedding reception. A 1-metre distance between the photographer and the subject(s) of photography should be maintained at all times. However, there should be no intermingling between the wedding party and guests (i.e. table-to-table photos should be avoided). Masks may be removed momentarily for photo-taking, and should be put on immediately after.
 
-#### **25. Can we play video screenings and/or projections of our wedding photos during the reception?**
+#### **25. Can the bride and groom stand/ sit on the stage and take photos with the wedding party of 20? Can masks be removed momentarily for this?**
+Yes, they can mingle and take photos with one another within the core party of 20 persons (including the bride and groom). Other guests not in the core party of 20 should not be interacting with the bride and groom (or persons from any other groups), and therefore should not be taking photos together.
+
+#### **26. Can we play video screenings and/or projections of our wedding photos during the reception?**
 Yes, you can. However, there should be no live singing, cheering, loud toasting or shouting during the reception.
 
-#### **26. Can weddings that are up to 20 pax be considered a wedding party where the hosts and guests are allowed to interact as a group?**
+#### **27. Can weddings that are up to 20 pax be considered a wedding party where the hosts and guests are allowed to interact as a group?**
 Yes, if the limit is kept at 20 pax throughout the entire reception.
 
-#### **27. If I have a wedding reception of up to 50 persons now, can I have another reception should the limits be increased subsequently?**
+#### **28. If I have a wedding reception of up to 50 persons now, can I have another reception should the limits be increased subsequently?**
 The conditions for the holding of marriage solemnizations and wedding receptions during the COVID-19 situation will depend on the prevailing circumstances and policies. Based on the current limit of one reception per couple, a second reception is not allowed.
 
-#### **28. Must the 50 people in the solemnization and reception be the same?**
+#### **29. Must the 50 people in the solemnization and reception be the same?**
 No, they need not be the same 50 people. However, you are encouraged to keep your number of social contacts to a minimum to reduce the risk of large clusters forming.
+
+#### **30. Can a wedding couple hold one wedding reception for more than 50 people, as long as only 50 people attend per designated time slot?**
+No. Each wedding couple can have only one reception, where the total number of attendees has to be capped at 50 persons throughout the entire event (i.e. only 50 attendees in total), or a lower number subject to the size of the premise and safe management requirements. This excludes vendors and premise staff (kept to a minimum).
+
+#### **31. If there are certain guests that attend the reception purely to meet and greet the couple and leave straightaway without sitting in to eat and drink, would they be counted as part of the 50 people attendees limit?**
+The total number of attendees has to be capped at 50 persons throughout the entire event (i.e. only 50 attendees in total), or a lower number subject to the size of the premise and safe management requirements. This includes those who attend the reception for a short duration without eating or drinking.
+
+#### **32. Are there any duration limits or time restrictions for wedding reception/solemnization?**
+There is no fixed time frame/ duration limit, but it is recommended to keep the sessions as brief as possible. The total number of attendees has to be capped at 50 persons throughout the entire event (i.e. only 50 attendees in total) or a lower number subject to the size of the premise and safe management requirements. Note that only up to 10 persons are allowed for solemnization in homes, in ROM(M) building, or at designated area(s) in the National Museum of Singapore, excluding the licensed solemnizer, and vendors (kept to a minimum). In other external solemnization venues, such as places of worship or hotels, the cap is up to 50 persons, or the safe capacity of the venue whichever is lower, excluding licensed solemnizer, and vendors (kept to a minimum). Alcohol cannot be served or consumed after 10.30pm.
+
+#### **33. Does the set up of the ceremony allow for a stage, reception table etc?**
+A stage can be set up as part of the ceremony, but there should be no intermingling between the wedding party and other groups of guests, or between groups of guests. A reception table is allowed, if it is to receive guests when they arrive. However, any interactions should be minimized. E-check-in or other contactless methods of registration should be adopted where possible.
+
+#### **34. Is a food line able to be set-up with safe distancing queues and served by the servers at hand?**
+Guests are to be served seated at their tables, instead of queuing at the food lines. This is to minimise unnecessary mingling/ crowding, and to reduce interaction amongst different groups of guests. Organisers can offer individually plated or packaged food, and should avoid shared platters or dishes. For solemnizations, food and beverages are strictly not allowed.
+
+#### **35. What is the rationale that the reception should be held no more than twelve months after the registration of marriage?**
+The easing of restrictions on two key life events (weddings and funerals) is part of a careful, calibrated, resumption of activities in Phase 2. While recognising the need for the importance of these key life events to continue, the Multi-Ministry Taskforce will also need to assess the ability of the organisers and venue owners to ensure that the necessary safe management measures are put in place and adhered to, given the higher risk of community transmission at such events. While calibrating the number of wedding receptions held in the first place, we had also considered that most receptions take place within the 12-months period following the solemnization. We will continue to review the parameters for such events.
 
 ## **<ins>Video-link solemnizations</ins>**
 
-#### **29. If we opt for solemnization via video link, can the bride, groom, witnesses and guests be in the same venue? Is there a limit to the number of guests in the same venue?**
+#### **36. If we opt for solemnization via video link, can the bride, groom, witnesses and guests be in the same venue? Is there a limit to the number of guests in the same venue?**
 The bride, groom, and witnesses can be in the same location if they belong to the same household. If the solemnization is held in the home, then in line with the safe distancing measures, you should not have more than 5 visitors in your home. Other guests may wish to join in through the video link instead. Such processes through video links are to enable marriage solemnizations to take place in a safe manner.
 
 ___
 [^1]: Children aged twelve years and below, who may have difficulty wearing and keeping face masks on for a prolonged period of time, may wear a face shield as indicated in MOH’s Advisory of 1 Jun 2020 (“Guidance for Use of Masks and Face Shields”)
 
-[^2]: A person is regarded to be an organiser of a wedding if he/ she procures for, or supplies to, any party to the marriage, the premises and any goods and services for the celebration arrangements in connection with the holding of the wedding.
+[^2]: A person is regarded to be an organiser of a wedding if he/ she (whether or not for reward, and whether jointly or otherwise) procures for, or supplies to, any party to the marriage, the premises and any goods and services for the celebration arrangements in connection with the holding of the wedding.
 
 [^3]: If held on a separate day, the reception should be held no more than twelve months after the registration of marriage.
 
