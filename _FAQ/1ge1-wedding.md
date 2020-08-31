@@ -145,13 +145,13 @@ For such receptions, you may have up to 50 persons, or the safe capacity of the 
 - c.	Self-service buffets are not allowed. Sharing dishes/ platters is strongly discouraged. 
 - d.	Sale and consumption of alcohol is prohibited after 2230hrs.
 - e.	Interactions (e.g. face-to-face greetings or conversations) between the “wedding party” and all other guests should be kept to a minimum. 
-- f.	Live performances involving singing or shouting are not permitted. Event emcees and persons making speeches on stage may wear face shields in lieu of face masks when speaking on stage, if they are standing in a fixed position and maintaining at least 1m distance from all other persons, in line with MOH’s guidelines for the use of face masks and shields issued on 1 Jun 2020.
+- f.	Live performances or activities involving singing or shouting are not permitted. Event emcees and persons making speeches on stage may wear face shields in lieu of face masks when speaking on stage, if they are standing in a fixed position and maintaining at least 1m distance from all other persons, in line with MOH’s guidelines for the use of face masks and shields issued on 1 Jun 2020.
 - g.	Guests will be required to take your temperature, check in and out via SafeEntry before entering the premises, and download and activate the TraceTogether app before attending the event.
 - h.	Attendees’ arrival and departure timings should be staggered, and queueing in groups should be discouraged.
 
 We must remain vigilant to protect ourselves and our loved ones. All guests should check their temperature and ensure they are not feeling unwell before they attend the reception. You may wish to encourage your guests, especially if they are more vulnerable, to refrain from attending your solemnization in person. Instead, they can join in the celebrations safely by using technology (e.g. witness the solemnization through a video link).  
  
-The organiser is liable for ensuring that all attendees observe the necessary safe management measures. Please refer here for the full set of safe management measures. If your venue operator has further questions regarding receptions, they can contact the relevant agency overseeing their operations (e.g. Enterprise Singapore for F&B establishments[^4], Singapore Tourism Board for hotels).
+The organiser is liable for ensuring that all attendees observe the necessary safe management measures. Please refer <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">here</a> for the full set of safe management measures. If your venue operator has further questions regarding receptions, they can contact the relevant agency overseeing their operations (e.g. Enterprise Singapore for F&B establishments[^4], Singapore Tourism Board for hotels).
 
 #### **22. Can I perform other cultural rites such as the tea ceremony during the reception? Can we have our tea ceremony at the external solemnization venue?**
 Yes you may, but any other activities done apart from the solemnization ceremony will be subject to the prevailing safe management guidelines.
