@@ -145,7 +145,7 @@ For such receptions, you may have up to 50 persons, or the safe capacity of the 
 - c.	Self-service buffets are not allowed. Sharing dishes/ platters is strongly discouraged. 
 - d.	Sale and consumption of alcohol is prohibited after 2230hrs.
 - e.	Interactions (e.g. face-to-face greetings or conversations) between the “wedding party” and all other guests should be kept to a minimum. 
-- f.	Live performances involving singing or shouting are not permitted. Event emcees and persons making speeches on stage may wear face shields in lieu of face masks when speaking on stage, if they are standing in a fixed position and maintaining at least 1m distance from all other persons, in line with MOH’s guidelines for the use of face masks and shields issued on 1 Jun 2020.
+- f.	Live performances or activities involving singing or shouting are not permitted. Event emcees and persons making speeches on stage may wear face shields in lieu of face masks when speaking on stage, if they are standing in a fixed position and maintaining at least 1m distance from all other persons, in line with MOH’s guidelines for the use of face masks and shields issued on 1 Jun 2020.
 - g.	Guests will be required to take your temperature, check in and out via SafeEntry before entering the premises, and download and activate the TraceTogether app before attending the event.
 - h.	Attendees’ arrival and departure timings should be staggered, and queueing in groups should be discouraged.
 
