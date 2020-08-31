@@ -73,7 +73,7 @@ Employers must ensure clear physical spacing of at least one metre between perso
 
 If leaving an empty desk and demarcating clearly with visual indicators allows for at least one metre distancing between employees, such an approach can be considered. For barriers between workstations, while there are no specific height guidelines, the barriers should also facilitate the required safe physical distance of one metre apart.   
 
-#### **16. Must I wear a mask throughout the day at work, for example, if I am at a work cubicle?   **
+#### **16. Must I wear a mask throughout the day at work, for example, if I am at a work cubicle?**
 Everyone should wear a mask when they are outside their homes. This includes while they are at the workplace.
 
 However, if an individual is alone in his or her own office with the door closed, and no other person enters the room, the individual may remove his or her mask in the room. If the room door is opened or if there is any contact with people, a mask must be used. 
