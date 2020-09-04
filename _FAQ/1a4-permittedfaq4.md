@@ -24,7 +24,9 @@ MCCY will conduct enforcement checks and action will be taken against ROs who do
 - MCCY will conduct enforcement checks and action will be taken against ROs who do not comply with the relevant guidelines, including the cessation of operations.
 
 #### **4. Are entertainment venues (e.g. public entertainment venues, cinemas, theatres and attractions) allowed to resume operations?**
-These venues will resume operations progressively in Phase Two. The relevant agencies have been engaging the operators of these venues on the safe management measures required to manage the risks involved, and some of these venues  have since reopened while others will be reopening soon. For the remaining venues, the relevant agencies will continue to engage the operators and advise them on the approval processes and timelines for the resumption of their operations. 
+We are taking a particularly cautious approach for entertainment establishments in the nightlife sector because large numbers of people are likely to come into close contact for prolonged periods of time, and often in enclosed spaces. We have seen the rapid spread of COVID-19 through nightclubs and pubs overseas, and we want to prevent the same thing from happening in Singapore to guard against recurring waves of infection.
+
+As businesses in the nightlife industry will not be able to reopen soon, companies in these sectors are strongly encouraged to re-examine their business models and undertake permitted activities instead. Businesses that are keen to do so can contact the relevant government agencies to understand the processes involved. 
 
 Operators may wish to refer to sector-specific updates on this website, or visit the following agencies’ website for the latest updates: 
 - <a href="https://www.police.gov.sg/e-Services/Police-Licences/Public-Entertainment-Licence" target="_blank">Public entertainment venues</a>
