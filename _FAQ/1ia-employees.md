@@ -78,29 +78,11 @@ Employees who have been wrongfully dismissed may file a claim against the wrongf
 
 For more information on what constitutes a wrongful dismissal, please refer to the <a href="https://www.mom.gov.sg/employment-practices/termination-of-employment/unfair-dismissal#what-is-a-wrongful-dismissal" target="_blank">Tripartite Guidelines on Wrongful Dismissal</a>.
 
-#### **8. Where can permitted enterprise workers take their meals if they are not near home? Do these individuals have to furnish proof of being a permitted enterprise worker if questioned by enforcement officers?**
-Employers of such workers have the responsibility to look after the welfare of their workers and provide their workers with a suitable sheltered space within the work place premise to consume meals, such as staff canteens, pantries, or any other rest area. Employers should ensure that their workers observe the following in these spaces:
-1. Workers should dine alone and keep a distance of at least one metre from another individual; 
-2. Staggered meal times to reduce the interactions between their workers and prevent congregation; and
-3. Workers should dine quickly and leave the space in a clean state after they have consumed their meals.
-
-Workers who have fixed work stations which are suitable for consuming food at should also be allowed by their employers to individually consume their meals there.
-
-Premises owners and managers who have permitted enterprise workers working within their malls or buildings can designate an area within their premises for these workers to have their meals e.g. part of a food court within a mall.
-
-Permitted enterprise and selected service workers whose work requires them to be on the move e.g. delivery services, transport services, or home healthcare services, should return to their office or homes for their meals. If this is not practical, they can eat in their vehicles, or in public spaces such as void decks, park benches. Workers should observe the following while doing so:
-
-a. Dine alone and keep a distance of at least one metre from another individual;<br>
-b. Dine quickly and leave the public space in a clean state after they have consumed their meals; and<br>
-c. Carry identification to indicate their employment status as permitted enterprise and selected service workers, and provide the identification upon request by Safe Distancing Ambassadors, Enforcement Officers, and police officers.
-
-Hawkers and coffeeshop stall operators may consume their meals at tables in front of their stalls. They should dine alone and keep a distance of at least one metre from another individual, not share tables with other individuals or congregate. 
-
-#### **9. Are workers staying in dormitories allowed to take public transport?**
+#### **8. Are workers staying in dormitories allowed to take public transport?**
 As an employer, you must provide transport for your workers to and from their worksites.
 More details on implementing safe management measures for workers on employer-provided transportation can be found <a href="https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation" target="_blank">here</a>.
 
-#### **10. Can my workers who are staying in dormitories walk or take their own personal transport (e.g. bicycle, motorcycles) to and from their worksites?**
+#### **9. Can my workers who are staying in dormitories walk or take their own personal transport (e.g. bicycle, motorcycles) to and from their worksites?**
 As an employer, you must provide transport for your workers to and from their worksites.
 
 If the worksite is located nearby (e.g. <1km away) and there are no community areas en-route, you can allow your worker to walk or cycle.
@@ -111,7 +93,7 @@ Workers are not allowed to ride motorcycles to and from their worksites under an
 
 More details on implementing safe management measures for workers on employer-provided transportation can be found <a href="https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation" target="_blank">here</a>.
 
-#### **11. Can my workers who are staying in dormitories take taxis or private hire vehicles (e.g. Grab, GoJek) to and from their worksites?**
+#### **10. Can my workers who are staying in dormitories take taxis or private hire vehicles (e.g. Grab, GoJek) to and from their worksites?**
 As an employer, you must provide transport for your workers to and from their worksites.
 You can use taxis or private hire vehicles (PHVs) as long as you:
 - Work with taxi or PHV operators to pre-arrange and pre-pay for such vehicles to ferry the workers to ensure availability of vehicles and reduce physical interactions between drivers and workers.
