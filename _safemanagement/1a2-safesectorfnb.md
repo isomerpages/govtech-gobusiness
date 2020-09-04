@@ -138,7 +138,7 @@ Sports sector enterprises, sports education, and premises with sports facilities
 
 #### **Tours**
 
-Tour operators and tourist guides are to comply to measures stipulated in this <a href="https://go.gov.sg/touradvisory" target="_blank">document</a> [last updated 27 Jul 20]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html#Tours" target="_blank">website</a>.
+Tour operators and tourist guides are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/TourAdvisory2.pdf" target="_blank">document</a> [last updated 26 Aug 20]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html#Tours" target="_blank">website</a>.
 
 #### **Veterinary and pet-related services**
 
