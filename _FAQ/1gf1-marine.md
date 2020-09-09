@@ -153,11 +153,5 @@ No. The rest day will be randomly assigned for all companies that have chosen th
 #### **11. How will companies be notified of the rest day they have been allocated?**
 Companies will be notified by email by 26th August.
 
-#### **12. What will happen if I do not make any selection by the deadline?**
-Eligible companies who do not indicate their selection by 21st August via <a href="https://bit.ly/NSS_CC_staggeredrestdayoptions" target="_blank">here</a> will be automatically randomly assigned one rest day for their Marine Shipyard account foreign workers. We will not be able to process any appeals. 
-
-#### **13. If I have indicated my selection but changed my mind, can I change my selection?**
-Companies that wishes to change their selection are to re-submit the form <a href="https://bit.ly/NSS_CC_staggeredrestdayoptions" target="_blank">here</a> by 21st August. The latest submission will be considered. Afterwhich, companies will not be able to make any changes as it would affect the equal spread of rest day for workers from other companies. 
-
-#### **14. If I am adopting the equal spread of Marine Shipyard account workers resting between Monday to Saturday, am I allowed to swap the workers’ rest days in the Safe@Work system while keeping to the numbers resting each day?**
+#### **12. If I am adopting the equal spread of Marine Shipyard account workers resting between Monday to Saturday, am I allowed to swap the workers’ rest days in the Safe@Work system while keeping to the numbers resting each day?**
 Yes, companies are allowed to change the workers’ rest day in the Safe@Work system while adhering to the numbers resting each day. However, employers are to ensure fair treatment to workers and timely communication to allow workers to make the necessary adjustment, and should not prevent their workers from applying for an Exit Pass, or force them to work on their rest day against their will.
