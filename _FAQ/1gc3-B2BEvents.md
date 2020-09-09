@@ -18,4 +18,4 @@ Businesses that do not comply with the Government’s required SMMs may also be 
 
 
 ___
-[^1] Excludes work-related events such as conferences, seminars, corporate retreats, Annual General Meetings (AGMs) and Extraordinary General Meetings (EGMs) targeted at internal audience including employees.
+[^1]: Excludes work-related events such as conferences, seminars, corporate retreats, Annual General Meetings (AGMs) and Extraordinary General Meetings (EGMs) targeted at internal audience including employees.
