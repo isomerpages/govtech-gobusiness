@@ -15,5 +15,5 @@ Under the COVID-19 (Temporary Measures) Act passed in Parliament on 7 April 2020
 
 Businesses that do not comply with the Government’s required SMMs may also be ineligible for government grants, loans, tax rebates and other assistance.<br>
 <br>
-
+___
 <td>1. Excludes work-related events such as conferences, seminars, corporate retreats, Annual General Meetings (AGMs) and Extraordinary General Meetings (EGMs) targeted at internal audience including employees.</td>
