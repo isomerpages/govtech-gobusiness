@@ -186,7 +186,9 @@ Customers in a group may share a private therapy room, up to a limit of no more 
 Private therapy rooms are defined as rooms which are fully enclosed, with fixed floor-to-ceiling partitions. (i.e. rooms which have fixed partitions). Rooms created with curtain partitions are not considered private therapy rooms.
 
 #### **41. Should malls continue to demarcate lifts with one-metre spacing?**
-Lifts in shopping malls should continue to be demarcated with the floor markers to remind shoppers to keep one-metre spacing.
+As more activities resume, lift lobbies have become increasingly crowded. To reduce the risk of overcrowding in lift lobbies, there is no longer a requirement for 1-metre safe distancing within the lift. 
+
+In lieu of the 1-metre safe distancing requirements in lift, lift owners should implement the following safe management measures found <a href="https://www1.bca.gov.sg/docs/default-source/bca-restart/advisory-to-lift-owners-smm-lifts.pdf" target="_blank">here</a>. 
 
 #### **42. Are kiosks and push-carts permitted to resume operations?**
 Yes, kiosks and push-carts with permitted SSIC codes can operate. This applies to operations that exist before the Circuit Breaker period. 
