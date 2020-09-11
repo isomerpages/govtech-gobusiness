@@ -80,7 +80,7 @@ All landscape-related services and nurseries will resume, subject to safe manage
 
 #### **Marriage Solemnisations and Receptions**
 
-Marriage solemnisations and receptions will be expected to comply to measures stipulated in this <a href="https://go.gov.sg/Weddings" target="_blank">document</a> [last updated 18 Aug 20], depending on venue.
+Marriage solemnisations and receptions will be expected to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/weddings2.pdf" target="_blank">document</a> [last updated 10 Sep 20], depending on venue.
 
 #### **Marine & Offshore (M&O) Sector**
 
