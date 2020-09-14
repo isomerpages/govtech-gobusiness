@@ -14,31 +14,37 @@ There is currently no evidence that this group is of a higher risk prevalence. M
 #### **2. What other groups will be tested?**
 As a start, MOH will be conducting testing operations for Point-to-Point (P2P) drivers, food delivery personnel, vendors servicing dormitories, as well as hawkers and wet market vendors. MOH will progressively review and expand complimentary testing to other identified groups.
 
-#### **3. Why is SafeEntry being expanded to more places?**
-As more activities and services gradually resume following the circuit breaker period, it is important that efforts to prevent and control the transmission of COVID-19 such as contact tracing and identification of COVID-19 clusters can be done quickly to limit the risk of further community transmission.  SafeEntry helps support and quicken these efforts to prevent and control the incidence or transmission of COVID-19 as it provides authorities with a record of individuals who enter and exit places. The records will reduce the time needed to identify potential close contacts of COVID-19 patients and potential COVID-19 clusters. This is important so that we can continue advancing towards fewer restrictions on our movements, and our daily lives.
+#### **3. How long will these testing operations be conducted for?**
+The government is conducting the pilot testing operations at two temporary testing facilities at Marine Parade on 19 Sep 2020 (Sat) and 20 Sep 2020 (Sun). These testing facilities would be available for the testing of food delivery personnel, hawkers, coffeeshop operators, stallholders and stall assistants around the area.
 
-#### **4. SafeEntry is already implemented for my building (e.g. Mall), do tenants within the building have to implement SafeEntry as well?**
-As part of safe workplace measures, all businesses and services that are in operation must institute SafeEntry for their employees, associates and vendors. Further, places listed on <a target="_blank" href="https://go.gov.sg/safeentrydeloyment">https://www.safeentry.gov.sg/deployment</a> such as supermarkets and hairdressing salons will have to implement SafeEntry for customers, clients and visitors, even if they are within a building e.g. mall.
+#### **4. How frequently will these tests be conducted? Will similar operations be conducted in the future?**
+The testing operations at Marine Parade will be a one-time exercise. There is no need for individuals to return for regular testing. MOH will review the results of the complimentary testing operations to assess the need for further testing of the sector.
 
-#### **5. As a SafeEntry enabled business / venue operator, am I required to use SafeEntry for emergency service providers (e.g. SCDF ambulance staff or firefighters) entering the premise during an emergency?**
-No. In emergency situations, priority should be placed on addressing the situation. The authorities will use other data available to help in contact tracing efforts should the need arises.
+More details on the full roll-out of the COVID-19 testing plans for the identified community groups will be made known when ready.
 
-#### **6. I am required under 10B of the COVID-19 (Temporary Measures) (Control Order) Regulations 2020 to “as far as is reasonably practicable, obtain and keep the contact particulars of every individual” before allowing him or her to enter my premises, so as to facilitate contact tracing measures. Can I fulfil this by deploying SafeEntry?**
-Yes. The deployment of SafeEntry will facilitate the Government’s contact tracing measures, and will fulfil the above requirement under Regulation 10B.
+#### **5. Is the swab test compulsory?**
+The swab test is not compulsory, but we strongly encourage food delivery personnel to be tested so that they can take measures to protect themselves and their loved ones if tested positive. They will also be able to receive prompt medical treatment if required.
 
-#### **7. Why do we need to use SafeEntry instead of existing vendor management systems?**
-The use of SafeEntry is mandatory because a common system used by all establishments would allow data to be made available to MOH quickly, so as to facilitate efforts to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters. SafeEntry allows information of visitors and employees who may have come into contact with COVID-19 cases to be sent to the authorities automatically. Contact data collected by SafeEntry is only used by authorised personnel, and stringent measures are in place to safeguard the data in accordance with the Government’s data security standards.
+#### **6. Are there any rewards/ incentives for food delivery personnel who come forward for testing?**
+The government will bear the full costs of the swab tests. By stepping forward for testing, food delivery personnel can also provide assurance to their loved ones and those around them.
 
-#### **8. I am already using an existing visitor management system. Is it possible to integrate this with SafeEntry?**
-SafeEntry is not able to support integrations with other systems at the moment.
+#### **7. Is the swab test painful?**
+Depending on each individual’s threshold, some may experience some discomfort during the swab test. The swabbers are well-trained and experienced and will do their best to ensure a smooth and painless process as far as possible.
 
-#### **9. Do businesses and venues have to enforce both check in and check out?**
-Only check-in for SafeEntry needs to be enforced. This applies to workplaces too.
+#### **8. Is there an age limit to taking the swab test?**
+No, there is no age limit. Anyone above the age of 12 can undergo a swab test.
 
-Businesses and venues should facilitate check-out on a best-effort principle. This includes prominently displaying QR codes at exit points and reminding staff and visitors to check out wherever possible. 
+#### **9. For those who have previously tested negative/positive for COVID-19 and are already well now, do they still need to be tested?**
+Food delivery personnel who have previously tested negative for COVID-19 are strongly encouraged to register for a swab test. 
 
-#### **10. Can visitors check in using one mode and exist using another mode (e.g. QR and NRIC)?**
-Yes, they can.
+Individuals who have tested positive from COVID-19 do not need to be retested for COVID-19 if it is still within 180 days from the onset of infection
+
+## **<ins>Registration for Testing</ins>**
+
+#### **10. How should food delivery personnel register for a swab appointment?**
+For this pilot, pre-registration is mandatory due to the limited testing availability. Interested food delivery personnel can access FormSG here to register for a testing slot. Registration will open from 14 September 2020, 0700 hours to 16 September 2020, 1900 hours.
+
+The confirmed appointment date and time will be communicated to them through email. They are also strongly encouraged to keep to their assigned appointment slot. 
 
 #### **11. What happens if SafeEntry breaks down? Is there flexibility in the enforcement of SafeEntry?**
 Businesses should tap on the alternate mode of SafeEntry in the unlikely event that their preferred mode breaks down, i.e. use SafeEntry QR as back-up if SafeEntry NRIC is the preferred mode, and vice versa. Businesses may do so by setting up the alternate mode at <a target="_blank" href="https://www.SafeEntry.gov.sg">https://www.SafeEntry.gov.sg</a>. SafeEntry does not recommend hard copy form filling as a back-up. 
