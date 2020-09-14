@@ -49,7 +49,7 @@ Yes, you may hold your solemnization at home, involving up to 10 persons, exclud
 
 For the safety of all who are attending your solemnization, please ensure that you and your guests comply with the following measures:
 
-- a.	All guests should wear masks for the duration of the solemnization. The bride and groom may choose to wear face shields instead for the duration of the solemnization, and may remove their face shields for key moments such as to exchange vows, rings, and to kiss and during march-ins/outs. Other guests should maintain a 2-metre distance from the bride and groom when they are unmasked. The bride, groom, and guests may remove their masks briefly for photo-taking. 
+- a.	All guests should wear masks for the duration of the solemnization. The bride and groom may choose to wear face shields instead for the duration of the solemnization, and may remove their face shields for key moments such as to exchange vows, rings, to kiss and during march-ins/outs. Other guests should maintain a 2-metre distance from the bride and groom when they are unmasked. The bride, groom, and guests may remove their masks briefly for photo-taking. 
 - b.	Maintain a safe distance from those from a different household.
 - c.	You must also declare to your Licensed Solemnizer the guest list at least 1 day before the solemnization. 
 
@@ -67,7 +67,7 @@ Up to 10 persons may attend the solemnization, excluding the Licensed Solemnizer
 
 For the safety of all who are attending your solemnization, please ensure that you and your guests comply with the following measures:
 
-- a.	All guests should wear masks for the duration of the solemnization. The bride and groom may choose to wear face shields instead for the duration of the solemnization, and may remove their face shields for key moments such as to exchange vows, rings, and to kiss and during march-ins/outs. Other guests should maintain a 2-metre distance from the bride and groom when they are unmasked. Masks may be removed briefly for photo-taking, and should be put on immediately after.
+- a.	All guests should wear masks for the duration of the solemnization. The bride and groom may choose to wear face shields instead for the duration of the solemnization, and may remove their face shields for key moments such as to exchange vows, rings, to kiss and during march-ins/outs. Other guests should maintain a 2-metre distance from the bride and groom when they are unmasked. Masks may be removed briefly for photo-taking, and should be put on immediately after.
 - b.	You will be required to check in and out via SafeEntry before entering the premises. 
 - c.	You will also need to declare your guests and vendors to ROM during your Verification of Documents and Statutory Declaration appointment.
 
@@ -89,7 +89,7 @@ Up to 50 persons (subject to the safe capacity of the venue) may attend the sole
 For the safety of all who are attending your solemnization, please ensure that you and your guests comply with the following measures:
 
 - a.	For solemnizations with more than 20 attendees, attendees should be split into a group of 20 (called the “wedding party”), and groups of 5. The “wedding party” should maintain a 1-metre distance from the smaller groups of 5. The groups of 5 should also maintain a 1-metre distance from each other. 
-- b.	All guests must wear masks for the duration of the solemnization. The bride and groom may choose to wear face shields instead for the duration of the solemnization, and may remove their face shields for key moments such as to exchange vows, rings, and to kiss and during march-ins/outs, as long as they maintain a safe distance of at least 2 metres from others.
+- b.	All guests must wear masks for the duration of the solemnization. The bride and groom may choose to wear face shields instead for the duration of the solemnization, and may remove their face shields for key moments such as to exchange vows, rings, to kiss and during march-ins/outs, as long as they maintain a safe distance of at least 2 metres from others.
 - c.	Masks/ face shields may be removed momentarily for photo-taking, and should be put on immediately after.
 - d.	All attendees should take their temperature, check in and out via SafeEntry before entering the premises, and download and activate the TraceTogether app for the duration of the solemnization.  
 - e.	You must also declare to your Solemnizer your guest and vendor list at least 1 day before the solemnization. 
@@ -115,7 +115,7 @@ Up to 50 persons, or the safe capacity of the venue, whichever is lower, may att
 For the safety of all who are attending your solemnization, please ensure that you and your guests comply with the following measures:
 
 - a.	For solemnizations with more than 20 persons (up to a max of 50), attendees should be split into a group of 20 (called the “wedding party”), and groups of 5. The “wedding party” should maintain a 1-metre distance from the smaller groups of 5. The groups of 5 should also maintain 1-metre distance from each other, and there should be no intermingling between groups. 
-- b.	All guests should wear masks for the duration of the solemnization. The bride and groom may choose to wear face shields instead for the duration of the solemnization, and may remove their face shields for key moments such as to exchange vows, rings, and to kiss and during march-ins/outs. Other guests should maintain 2 metre distance from the bride and groom when they are unmasked.
+- b.	All guests should wear masks for the duration of the solemnization. The bride and groom may choose to wear face shields instead for the duration of the solemnization, and may remove their face shields for key moments such as to exchange vows, rings, to kiss and during march-ins/outs. Other guests should maintain 2 metre distance from the bride and groom when they are unmasked.
 - c.	Masks may be removed briefly for photo-taking, and should be put on immediately after 
 - d.	Guests will be required to take their temperature, check in and out via SafeEntry before entering the premises, and download and activate the TraceTogether app for the duration of the solemnization.  
 - e.	You must also declare to your Solemnizer your guest and vendor list at least 1 day before the solemnization. 
