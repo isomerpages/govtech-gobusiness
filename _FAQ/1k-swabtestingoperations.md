@@ -46,37 +46,35 @@ For this pilot, pre-registration is mandatory due to the limited testing availab
 
 The confirmed appointment date and time will be communicated to them through email. They are also strongly encouraged to keep to their assigned appointment slot. 
 
-#### **11. What happens if SafeEntry breaks down? Is there flexibility in the enforcement of SafeEntry?**
-Businesses should tap on the alternate mode of SafeEntry in the unlikely event that their preferred mode breaks down, i.e. use SafeEntry QR as back-up if SafeEntry NRIC is the preferred mode, and vice versa. Businesses may do so by setting up the alternate mode at <a target="_blank" href="https://www.SafeEntry.gov.sg">https://www.SafeEntry.gov.sg</a>. SafeEntry does not recommend hard copy form filling as a back-up. 
+#### **11. Is the pilot open to all food delivery personnel?**
+For a start, this pilot community testing will be available to food delivery personnel of key food delivery platforms and food chains, who are some of the largest employers of food delivery personnel. These include Deliveroo, foodpanda, GrabFood and McDonald’s.
 
-The common use of SafeEntry by all establishments would allow data to be automatically sent to MOH. Hard copy recording of particulars would present a gap in this automated process and affect the contact tracing process. 
+#### **12. If a food delivery personnel who registered for the test is unable to make it for the allocated slot for the test, can he/she reschedule his/her appointment?**
+Food delivery personnel are strongly advised to keep to their assigned appointment slots. Those who miss their appointments slots can still go for the swab at the appointed site, during the period of the testing exercise (19 - 20 September 2020). However, this is subject to the availability of tests that day.
 
-#### **12. Deployment of SafeEntry can result in significant congestion during certain periods. Can businesses and venues temporarily stand down SafeEntry during these periods?**
-It is important to capture information for SafeEntry especially during high footfall periods. Businesses and venues should develop plans so that they are able to implement SafeEntry at all times.  Businesses should have a system to manage potential crowds, for instance, putting up more QR codes so that people can pre-fill their information before reaching the entrance. 
+#### **13. What if a food delivery personnel who registered for the test is on Medical Leave? Would he/she need to go for the swab test?**
+Individuals on medical leave are encouraged to stay at home to rest. Individuals who display fever or upper respiratory tract related symptoms (cough, runny nose, sore throat, etc.) should see a doctor immediately.
 
-#### **13. With the implementation of SafeEntry, are the health and other relevant declarations still required?**
-Yes, they are  still required to ensure the safety of individuals within venues. Declarations by individuals via SafeEntry with QR can be used to fulfil the requirements for the various declarations. Premises that use SafeEntry with NRIC must display prominent signs informing all visitors and employees that they are making the relevant declarations by checking in via SafeEntry.
+#### **14. Can food delivery personnel still take the swab test if they did not pre-register for it?**
+Due to limited testing capacity, pre-registration for the swab test is mandatory for this pilot; walk-ins are not allowed. There is a limit of 100 food delivery personnel each day at each location. 
 
-#### **14. If I don’t have an NRIC or smartphone, will I be denied entry? What is the alternative should both options be unavailable to a member of public?**
-Individuals visiting venues are required to provide the necessary information  via SafeEntry. Individuals may be denied entry if they do not provide the necessary information.
+The full roll-out of the COVID-19 testing plans for food delivery personnel will be made known when ready. Those who are unable to participate in this pilot, can look out for the details when available and opt to go for swab tests at other locations at a later date.
 
-SafeEntry does not recommend hard copy filing as a back-up. The common use of SafeEntry by all establishments would allow data to be automatically sent to MOH. Hard copy recording of particulars would present a gap in this automated process and affect the contact tracing process. 
+#### **15. What if the food delivery personnel has just returned from Home Quarantine Order, Stay- Home Notice or 5-day Medical Leave? Would they need to go for the swab test?**
+Individuals returning from Home Quarantine Order (HQO), Stay Home Notice (SHN) or 5-day Medical Leave can take the swab test only if their HQO, SHN or 5-day Medical Leave has ended by the date of the scheduled swab appointment. Individuals currently serving their HQO/SHN must remain isolated at their place of residence.
 
-To cater to visitors who do not have a suitable mobile phone to scan QR codes, or do not have their identification cards with them, venue operators should assist the individual to check in  through the manual entry function in SafeEntry with NRIC or the webform in SafeEntry with QR using any available device. 
+#### **16. For food delivery personnel who are not available during the testing period or are unable to participate in this pilot, can they still get swabbed?**
+The pilot testing exercise will only be conducted on 19 Sep 2020 (Sat) and 20 Sep 2020 (Sun). 
 
-#### **15. Are there data safeguards in place when using SafeEntry?**
-The data collected via SafeEntry is encrypted and stored in the Government server, which will only be accessed by the authorities when needed for the purpose of preventing or controlling the transmission of COVID-19.  The Government is the custodian of the data submitted by individuals, and there will be stringent security measures in place to safeguard  the personal data. Only authorised public officers will have access to the data. Under the Public Sector Governance Act, public officers who recklessly or intentionally disclose the data without authorisation, misuse the data for a gain, or re-identify anonymised data may be found guilty of an offence and may be subject to a fine of up to $5,000 or imprisonment of up to 2 years, or both.  The data will be purged when it is no longer needed for such  purposes.
+The full roll-out of the COVID-19 testing plans for food delivery personnel will be made known when ready. Those who are unable to participate in this pilot, can look out for the details when available and opt to go for swab tests at other locations at a later date.   
 
-#### **16. How will the Government check and ensure that businesses are using SafeEntry? What are the penalties for individuals who flout the rules?**
-Businesses are required to use SafeEntry to collect entry information of workers and visitors on their premises for as long as it is required by law during the period of COVID-19.
+## **<ins>On the day of the swab test</ins>**
 
-Businesses that do not comply with the requirement to use SafeEntry will be subject to the relevant penalties, including those stipulated under the COVID-19 (Temporary Measures) Act.
+#### **17. What identification will food delivery personnel need to bring along for their swab test?**
+They are required to produce proof of identity as a food delivery personnel (e.g. through delivery apps, staff pass) and a form of photo identification with their NRIC number (e.g. NRIC, Vocational Licence, Driver’s Licence).
 
-#### **17. Where can I find more information about SafeEntry?**
-More technical details on SafeEntry can be found at <a href="https://www.safeentry.gov.sg/" target="_blank">SafeEntry</a>.
-
-#### **18. Must all street-hail passengers scan the SafeEntry QR code?**
-Passengers should be socially responsible and scan the SafeEntry QR codes at the point of boarding. If passengers are unwilling to do so, taxi drivers can decline to such passengers.
+#### **18. How long will the entire swabbing process take?**
+The swab process typically ranges between 10 and 15 mins. Food delivery personnel are required to register for an appointment and should keep to their allocated appointment slot where possible. We seek the understanding of registrants that there might be a waiting time before their turn for the swabbing process.
 
 #### **19. What about Taxi Booking and Private Hire passengers? Do they also need to scan the SafeEntry QR code?**
 No. Passengers who book their rides via taxi apps or ride hail platforms need not do the same as there is already other data available to help in contact tracing efforts when the need arises. 
