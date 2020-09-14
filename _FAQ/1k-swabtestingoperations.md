@@ -42,7 +42,7 @@ Individuals who have tested positive from COVID-19 do not need to be retested fo
 ## **<ins>Registration for Testing</ins>**
 
 #### **10. How should food delivery personnel register for a swab appointment?**
-For this pilot, pre-registration is mandatory due to the limited testing availability. Interested food delivery personnel can access FormSG here to register for a testing slot. Registration will open from 14 September 2020, 0700 hours to 16 September 2020, 1900 hours.
+For this pilot, pre-registration is mandatory due to the limited testing availability. Interested food delivery personnel can access FormSG <a href="https://go.gov.sg/fooddeliveryswabtest" target="_blank">here</a> to register for a testing slot. Registration will open from 14 September 2020, 0700 hours to 16 September 2020, 1900 hours.
 
 The confirmed appointment date and time will be communicated to them through email. They are also strongly encouraged to keep to their assigned appointment slot. 
 
