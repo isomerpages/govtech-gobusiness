@@ -76,41 +76,34 @@ They are required to produce proof of identity as a food delivery personnel (e.g
 #### **18. How long will the entire swabbing process take?**
 The swab process typically ranges between 10 and 15 mins. Food delivery personnel are required to register for an appointment and should keep to their allocated appointment slot where possible. We seek the understanding of registrants that there might be a waiting time before their turn for the swabbing process.
 
-#### **19. What about Taxi Booking and Private Hire passengers? Do they also need to scan the SafeEntry QR code?**
-No. Passengers who book their rides via taxi apps or ride hail platforms need not do the same as there is already other data available to help in contact tracing efforts when the need arises. 
+## **<ins>Results from COVID-19 Testing</ins>**
 
-#### **20. What is TraceTogether? How does it work?**
-TraceTogether is a mobile application that is designed to supplement current contact tracing efforts. It works by exchanging short-distance Bluetooth signals between phones to detect other participating TraceTogether users in close proximity. 
+#### **19. How long do the food delivery personnel need to wait to receive the results of their test?**
+Test results will be available within 2-3 working days from the date of swab. Only those who have tested positive for COVID-19 will be contacted.
 
-Records of such encounters are stored locally on each user’s phone. If a user is interviewed by MOH as part of the contact tracing efforts, he/she can consent to send his/her TraceTogether data to MOH.
+#### **20. Can food delivery personnel continue to provide services while they are waiting for the results of their swab test?**
+Yes, food delivery personnel are free to carry on their activities after the swab. They should continue to practise the same standard COVID-19 precautionary measures, i.e. frequent washing of hands with soap – especially before eating or handling food, after toilet visits, or when hands are dirtied by respiratory secretion after coughing or sneezing; practising safe distancing; and the wearing of mask when leaving the house for essential purposes.
 
-The TraceTogether app is available for download on App Store and Google Play Store. For more details and queries specific to how foreign workers and their employers can use TraceTogether, visit <a target="_blank" href="https://www.tracetogether.gov.sg">https://www.tracetogether.gov.sg</a> or MOM’s website <a target="_blank" href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/tracetogether#:~:text=How%20do%20I%20know%20if,FCDs%20%2C%20CTQs%20or%20TOL%20quarters.">here</a>.
+#### **21. What happens if a food delivery personnel is tested positive for COVID-19?**
+Positive cases will be contacted by MOH. They will be advised on the appropriate treatment, further tests as well as quarantine arrangements required. They will also be interviewed for identification of close contacts, so that precautionary measures can be taken. 
 
-#### **21. I am carrying a TraceTogether Token. Am I still required to check in with SafeEntry?**
-All individuals with TraceTogether Tokens are still required to check in with SafeEntry whenever they enter venues that have implemented SafeEntry. Digital tools such as SafeEntry and TraceTogether enable speedier contact tracing and prevent the formation of new COVID-19 clusters. SafeEntry provides the authorities with a record of individuals who enter and exit venues while TraceTogether helps to identify close contacts.
+Food delivery personnel who are placed under quarantine or put on Stay-Home Notice (SHN) will receive a $100/day allowance for the duration of the quarantine/SHN. Those who require further financial assistance can apply to The Courage Fund. 
 
-#### **22. My worksite does not allow workers to hold on to mobile phones while at the work area due to safety/ security reasons. Can I use other methods to replace TraceTogether?**
-Unless there are potential contraventions of prevailing MOM workplace health and safety regulations, it will be a requirement for all personnel entering site to have a smart phone with TraceTogether app installed before they are allowed to enter the site. All personnel have to ensure that the TraceTogether app is turned on (i.e. Bluetooth is switched on) and that they carry their handphone with them at all times within the worksite. In the application to resume/ reinstate works or increase manning, the Shipyard and their contractors have to confirm that this requirement can be achieved.
+#### **22. What happens to the close contacts (e.g. colleagues, friends, family), if a food delivery personnel is tested positive for COVID-19?**
+Close contacts of the positive case will be contacted by MOH officials and will be advised on the measures to take. 
 
-## **<ins>Group Check-in</ins>**
+The close contacts are advised to monitor their health closely and seek medical attention if they have fever, cough or runny nose. They should also call the clinic ahead of their visit and inform the doctor of their symptoms. 
 
-#### **23. What is the SafeEntry Group Check-in feature in the SingPass mobile app?**
-The SafeEntry Group Check-in feature allows SingPass mobile users to check-in together with other individuals, primarily their family members, when entering a location.
+#### **23. Will the food delivery companies be informed of the results of their food delivery personnel?**
+Yes, the companies will be notified if their food delivery personnel have tested positive for COVID-19, so that the necessary precautionary measures can be taken. 
 
-With this feature, users may add their family members to a check-in list and select up to five members (including themselves) when checking in to a location together, which would help ease queues at the entrance of public spaces. Watch the how-to video here. 
+MOH will work with the companies to take the necessary public health precautionary measures to prevent further spread of the virus, including measures such as disinfecting of the places where the positive case has spent a prolonged period of time. 
 
-Please take note that when you use the group check-in feature, you are making a declaration on behalf of your family members; and you will be held responsible for ensuring the accuracy of everyone’s check-in information within the group. If any family member wishes to leave the venue earlier, he / she should check in individually.
+#### **24. Is it compulsory for positive cases to go to the hospital via the arranged transportation? Can they go to the hospital on their own (i.e. commute on their own).**
+Positive cases will be contacted by MOH and advised on the necessary follow-up measures to be taken. Transport will be arranged to send them to the hospital or community care facilities so that they can receive adequate care and treatment. They will not be allowed to take their own mode of transport in order to ensure other members in the community are not infected.
 
-#### **24. Can I add an individual who is not my family member (e.g. friend or co-worker) into my check-in list?**
-While this feature is primarily meant for family members, you may add any individual into your check-in list if:
+#### **25. Can positive cases bring their family member with them when they are being conveyed to the hospital/community care facility?**
+It is not advisable for positive cases to bring any family member along with them as it is important to maintain appropriate safe distance from their loved ones and those around them.
 
-- a.	All members are staying in the same place of residence; and/or 
-- b.	All of you travel as a group to and from the location by the same mode of transport.
-
-In the situation where you need to check-in with a friend or co-worker, e.g. if you are staying together as roommates, please ensure that you have their explicit permission and knowledge to add their NRIC/FIN to your check-in list. Please take note that when you use the group check-in feature, you are making a declaration on behalf of others.
-
-#### **25. Can I add my domestic helper into the check-in list?**
-You may add your domestic helper to your check-in list by entering his / her FIN number indicated on his / her work permit.
-
-#### **26. What should I do when a family member, whom I have checked in together with, leaves the venue much earlier than I do?**
-We advise users to plan ahead – if you are likely to check out separately, please check-in separately. In case of an unplanned situation, the user who has conducted the check-in will be responsible for ensuring accuracy in his/her family members’ movement. To support contact tracing efforts, the user should ensure that the check-out is only performed when the last person leaves the venue.
+#### **26. How long must the positive cases stay in the hospital?**
+The duration of stay depends on their condition. The doctor will be able to advise them accordingly.
