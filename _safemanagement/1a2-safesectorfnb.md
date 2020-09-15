@@ -98,7 +98,7 @@ You can also refer to the Singapore Police Force <a href = "https://www.police.g
 
 #### **Private mahjong (or gambling) rooms operators**
 
-Operators of private mahjong (or gambling) rooms are to comply to measures stipulated in this <a href="https://go.gov.sg/privatemjadvisory" target="_blank">document</a> [last updated on 25 Jun 20].
+Operators of private mahjong (or gambling) rooms are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/PrivateTuitionEnrichment.pdf" target="_blank">document</a> [last updated on 14 Sep 20].
 
 #### **Private Tuition and Enrichment**
 
