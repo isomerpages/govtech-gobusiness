@@ -80,7 +80,7 @@ All landscape-related services and nurseries will resume, subject to safe manage
 
 #### **Marriage Solemnisations and Receptions**
 
-Marriage solemnisations and receptions will be expected to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/weddings2.pdf" target="_blank">document</a> [last updated 10 Sep 20], depending on venue.
+Marriage solemnisations and receptions will be expected to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/Weddings3.pdf" target="_blank">document</a> [last updated 23 Sep 20], depending on venue.
 
 #### **Marine & Offshore (M&O) Sector**
 
@@ -127,8 +127,6 @@ You can also refer to the Singapore Police Force <a href = "https://www.police.g
 #### **Religious Organisations**
 
 Religious organisations are to comply to measures stipulated in this <a href="https://go.gov.sg/mccyroadvisory" target="_blank">document</a> [last updated on 18 Aug 20]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/aug/resumption-of-more-religious-activities-in-phase-two" target="_blank">website</a>.
-
-For the conduct of 7th lunar month activities in Phase Two, ROs are to comply to measures stipulated in this <a href="https://go.gov.sg/seventhmonthadvisory" target="_blank">document</a> [last updated on 7 Aug 20]. This year’s 7th lunar month is from 19 August to 16 September 2020. 
 
 For more information and FAQs on COVID-19 for the religious sector, please visit <a href = "www.cpro.gov.sg" target="_blank">www.cpro.gov.sg</a> or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at <a href = "mailto: cpro@mccy.gov.sg">cpro@mccy.gov.sg</a>. 
 
