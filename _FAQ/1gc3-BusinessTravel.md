@@ -26,9 +26,9 @@ third_nav_title: For Sector-Specific Queries
 #### **2. What are the eligibility criteria for this travel pass? How are individuals selected for the pilot?**
 - We are working with our economic agencies to identify a list of senior executives in Singapore with international or regional responsibilities who travel regularly for official and business purposes, and are progressively issuing the passes.
 
-o	Approval is given only if we are satisfied that the individual will comply with the stringent public health requirements and safeguards.
+        a. Approval is given only if we are satisfied that the individual will comply with the stringent public health requirements and safeguards.
 
-o	We will also revoke the travel pass at any time if we find that the traveller failed to abide by the stringent health protocols.
+        b. We will also revoke the travel pass at any time if we find that the traveller failed to abide by the stringent health protocols.
 
 #### **3. Why are travellers identified via economic agencies only, instead of through an open application?**
 - Pre-identifying travellers through the economic agencies will allow us to monitor these travellers closely to determine the public health outcome of the scheme.
