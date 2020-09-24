@@ -15,20 +15,20 @@ third_nav_title: For Sector-Specific Queries
 
 - Travellers on this pass will be required to abide by a strict controlled itinerary when they travel overseas for work.
 
-        a. Upon return, the traveller will undergo a PCR test (in lieu of SHN). 
+        - Upon return, the traveller will undergo a PCR test (in lieu of SHN). 
 
-        b. He or she will also be required to self-isolate until the PCR test results are out and will have to abide by stringent health protocols in Singapore.
+        - He or she will also be required to self-isolate until the PCR test results are out and will have to abide by stringent health protocols in Singapore.
 
 - Because public health remains our utmost priority, we will limit the number of such passes and carefully monitor the public health outcomes during the initial phase.
 
-        a. As we are piloting the scheme, the pass is not open for application at this point in time.
+        - As we are piloting the scheme, the pass is not open for application at this point in time.
 
 #### **2. What are the eligibility criteria for this travel pass? How are individuals selected for the pilot?**
 - We are working with our economic agencies to identify a list of senior executives in Singapore with international or regional responsibilities who travel regularly for official and business purposes, and are progressively issuing the passes.
 
-        a. Approval is given only if we are satisfied that the individual will comply with the stringent public health requirements and safeguards.
+        - Approval is given only if we are satisfied that the individual will comply with the stringent public health requirements and safeguards.
 
-        b. We will also revoke the travel pass at any time if we find that the traveller failed to abide by the stringent health protocols.
+         - We will also revoke the travel pass at any time if we find that the traveller failed to abide by the stringent health protocols.
 
 #### **3. Why are travellers identified via economic agencies only, instead of through an open application?**
 - Pre-identifying travellers through the economic agencies will allow us to monitor these travellers closely to determine the public health outcome of the scheme.
@@ -40,7 +40,7 @@ third_nav_title: For Sector-Specific Queries
 #### **4. Why are we allowing travellers to come into Singapore without serving SHN?**
 - Travellers on the pilot will be screened beforehand and have to take a pre-departure PCR test.
 
-o	They are also required to comply with stringent public health requirements and additional safeguards. For instance, they are required to submit a controlled itinerary before leaving Singapore and adhere strictly to this itinerary abroad. 
+        - They are also required to comply with stringent public health requirements and additional safeguards. For instance, they are required to submit a controlled itinerary before leaving Singapore and adhere strictly to this itinerary abroad. 
 
 - This pilot strikes a balance between managing public health risk and facilitating essential travel to aid Singapore’s economic recovery.
 
