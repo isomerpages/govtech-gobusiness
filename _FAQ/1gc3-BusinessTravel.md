@@ -21,7 +21,7 @@ third_nav_title: For Sector-Specific Queries
 
 - Because public health remains our utmost priority, we will limit the number of such passes and carefully monitor the public health outcomes during the initial phase.
 
-        o As we are piloting the scheme, the pass is not open for application at this point in time.
+        a. As we are piloting the scheme, the pass is not open for application at this point in time.
 
 #### **2. What are the eligibility criteria for this travel pass? How are individuals selected for the pilot?**
 - We are working with our economic agencies to identify a list of senior executives in Singapore with international or regional responsibilities who travel regularly for official and business purposes, and are progressively issuing the passes.
