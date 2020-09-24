@@ -41,7 +41,7 @@ Employers are responsible for ensuring that Safe Management Measures are in plac
 #### **7. Is it possible for my business to resume operations earlier if I have implemented all Safe Management Measures at my workplace?**
 To prevent the re-emergence of community cases, we will need to open the economy gradually, and not all at once. In general, sectors that allow us to trade with the world and access critical supplies will start first. Sectors that attract high traffic and social interactions will have to wait and put in place additional safe measures before restarting progressively. 
 
-You can resume business operations only if your company falls under <a href="htps://www.covid.gobusiness.gov.sg/permittedlist/">MTI’s list of activities and services</a> that can resume operations, and your company has implemented all required Safe Management Measures at your workplace.
+You can resume business operations only if your company falls under <a href="https://www.covid.gobusiness.gov.sg/permittedlist/">MTI’s list of activities and services</a> that can resume operations, and your company has implemented all required Safe Management Measures at your workplace.
 
 #### **8. We have received two advisories, one from MOM and another from the sector agency. Which one do we follow?**
 The advisory on Safe Management Measures and the accompanying checklist issued by MOM are for workplaces in general. Where there may be sector-specific considerations, companies should also refer to the sector-specific advisories issued, over and above MOM’s advisory.
