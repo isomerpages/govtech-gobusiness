@@ -15,13 +15,13 @@ third_nav_title: For Sector-Specific Queries
 
 - Travellers on this pass will be required to abide by a strict controlled itinerary when they travel overseas for work.
 
-o	Upon return, the traveller will undergo a PCR test (in lieu of SHN). 
+        a. Upon return, the traveller will undergo a PCR test (in lieu of SHN). 
 
-o	He or she will also be required to self-isolate until the PCR test results are out and will have to abide by stringent health protocols in Singapore.
+        b. He or she will also be required to self-isolate until the PCR test results are out and will have to abide by stringent health protocols in Singapore.
 
 - Because public health remains our utmost priority, we will limit the number of such passes and carefully monitor the public health outcomes during the initial phase.
 
-o	As we are piloting the scheme, the pass is not open for application at this point in time.
+        o As we are piloting the scheme, the pass is not open for application at this point in time.
 
 #### **2. What are the eligibility criteria for this travel pass? How are individuals selected for the pilot?**
 - We are working with our economic agencies to identify a list of senior executives in Singapore with international or regional responsibilities who travel regularly for official and business purposes, and are progressively issuing the passes.
