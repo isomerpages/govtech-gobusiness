@@ -19,12 +19,10 @@ The Multi-Ministry Taskforce (MTF) announced on 19 May that we will exit the Cir
 
 Before resuming activities, businesses must comply with the requirements for Safe Management Measures and any sector-specific requirements which apply to them. 
 
-Employers must continue to adopt telecommuting to the maximum extent. Employees who have been working from home should continue to do so.
+#### **4. If my business activities are not listed in the permitted services list, can I apply for an exemption to resume business activities?**
+Businesses should suspend operations in their premises from 7 April 2020 onwards until they are approved by MTI to continue operations or their list of business activity falls within the permitted list allowed to operate from 2 June 2020.
 
-#### **4. Why is my company’s SSIC code still not on the permitted list? What can I do to resume operations?**
-As part of the phased approach, higher-risk activities will be treated with more caution for now.  These typically involve large numbers of people interacting, often in enclosed spaces, and for prolonged periods of time. 
-
-Government agencies have begun to engage relevant businesses and organisations on safe management measures to be taken to manage the risks involved. Agencies will advise these organisations on the approval processes and timelines for their resumption at a later date, depending on the ability and readiness of the organisation to implement these measures. 
+If employees have to be activated to return to the workplace for short periods of time (i.e. less than a day), employers are required to apply to MTI for a time-limited exemption to do so via <a href="https://covid.gobusiness.gov.sg/">here</a>. If employers need to maintain a skeletal workforce at the workplace for longer periods, an application for a general exemption should be submitted instead via through <a href="https://covid.gobusiness.gov.sg/">here</a>. 
 
 #### **5. Will I receive an email or document to confirm that my company can resume operations?**
 No, you will not receive a notification. 
