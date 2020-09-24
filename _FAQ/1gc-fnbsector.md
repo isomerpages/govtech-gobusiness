@@ -181,9 +181,7 @@ Mask should be worn as a default. Masks can be taken off when performing strenuo
 Large-format spas and saunas may also reference the advisory for malls and large standalone stores where those larger than > 930 sqm (or 10,000 sqft) of Gross Floor Area (GFA) must comply with the occupancy limit of one person per 10 sqm of GFA.
 
 #### **40. Can customers share private therapy rooms?**
-Customers in a group may share a private therapy room, up to a limit of no more than five customers. They are allowed to remove their masks only during their facial treatments or facial therapies done in such private rooms, but operators must ensure that the private room is thoroughly disinfected before and after use.
-
-Private therapy rooms are defined as rooms which are fully enclosed, with fixed floor-to-ceiling partitions. (i.e. rooms which have fixed partitions). Rooms created with curtain partitions are not considered private therapy rooms.
+Customers in a group of up to 5 may share a private therapy room. They are allowed to remove their masks during their facial treatment or therapy done in a private room, and must put the masks back on immediately after. The operator must ensure that the private room is thoroughly disinfected before and after use. A private therapy room is defined as one which is enclosed on all sides by partitions[^1] that are at least 2 metres in height, e.g. fixed walls, plexiglass. The operator must ensure that customers are at least 1 metre apart during the treatment or therapy.
 
 #### **41. Should malls continue to demarcate lifts with one-metre spacing?**
 As more activities resume, lift lobbies have become increasingly crowded. To reduce the risk of overcrowding in lift lobbies, there is no longer a requirement for 1-metre safe distancing within the lift. 
@@ -209,3 +207,8 @@ Yes, workers will still need to do SafeEntry and temperature checks as they may 
 
 #### **47. Can designated smoking areas (DSAs) be reopened?**
 Yes, malls may reopen DSAs, so long as the safe distancing measures are adhered to. Malls can refer to the latest NEA advisory for the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/post-circuit-breaker-measures" target="_blank">guidelines on DSAs</a>. 
+
+
+
+___
+[^1]: Partitions made of porous materials such as nettings and cloth are not allowed.

@@ -150,8 +150,5 @@ A Sponsoring Shipyard has 100 marine pass holders. Their Resident Contractor A a
 #### **10. My company wishes to adopt the randomly assigned rest day option. Can we choose our preferred rest day between Monday to Saturday?**
 No. The rest day will be randomly assigned for all companies that have chosen this option. This is to ensure even distribution of workers resting across the 6 days.
 
-#### **11. How will companies be notified of the rest day they have been allocated?**
-Companies will be notified by email by 26th August.
-
-#### **12. If I am adopting the equal spread of Marine Shipyard account workers resting between Monday to Saturday, am I allowed to swap the workers’ rest days in the Safe@Work system while keeping to the numbers resting each day?**
+#### **11. If I am adopting the equal spread of Marine Shipyard account workers resting between Monday to Saturday, am I allowed to swap the workers’ rest days in the Safe@Work system while keeping to the numbers resting each day?**
 Yes, companies are allowed to change the workers’ rest day in the Safe@Work system while adhering to the numbers resting each day. However, employers are to ensure fair treatment to workers and timely communication to allow workers to make the necessary adjustment, and should not prevent their workers from applying for an Exit Pass, or force them to work on their rest day against their will.

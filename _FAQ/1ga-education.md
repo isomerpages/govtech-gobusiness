@@ -24,7 +24,7 @@ a. Masks may only be removed when performing strenuous activities, although it i
 
 b. Participants should maintain at least 2m safe distancing from others, and try to minimise physical contact as much as possible<br>
 
-c. There should be a minimum of 3m spacing between each group/class, if more than one group/class is using the same venue.<br>
+c. There should be a minimum of 3m spacing between each group, if more than one group is using the same venue.<br>
 
 <ins>Singing, Voice Training, Speech and Drama, Wind/Brass Instrument Classes</ins><br>
 

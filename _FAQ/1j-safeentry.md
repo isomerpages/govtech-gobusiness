@@ -5,10 +5,10 @@ permalink: /faq/safeentry
 
 #### **1. What is SafeEntry?**
 SafeEntry is a national digital check-in system that logs the NRIC/FINs and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters. 
-Individuals can choose to check in/out from SafeEntry at entry/exit points using any of the following methods: 
-- (a)	Scan QR code: Use the SingPass Mobile app, TraceTogether app, your mobile phone’s camera function or a recommended QR scanner app to scan a QR code and submit your personal particulars; or 
-- (b)	Scan ID card: Present an identification card barcode (e.g. NRIC, Passion card, Pioneer Generation card, Merdeka Generation card, driver’s licence, Transitlink concession card, student pass, work permit, SingPass Mobile app, TraceTogether app) to be scanned by staff; or 
-- (c)	Select from a list of nearby locations: Use the SingPass Mobile app’s ‘SafeEntry Check-In’ function to select a location and check in.
+Individuals can choose to check in/out from SafeEntry at entry/exit points using any of the following methods: <br>
+(a)	Scan QR code: Use the SingPass Mobile app, TraceTogether app, your mobile phone’s camera function or a recommended QR scanner app to scan a QR code and submit your personal particulars; or<br>
+(b)	Scan ID card: Present an identification card barcode (e.g. NRIC, Passion card, Pioneer Generation card, Merdeka Generation card, driver’s licence, Transitlink concession card, student pass, work permit, SingPass Mobile app, TraceTogether app) to be scanned by staff; or<br>
+(c)	Select from a list of nearby locations: Use the SingPass Mobile app’s ‘SafeEntry Check-In’ function to select a location and check in.
 
 #### **2. Where does SafeEntry need to be deployed?**
 Please visit <a target="_blank" href="https://www.safeentry.gov.sg/deployment">https://www.safeentry.gov.sg/deployment</a> for the updated list of places where SafeEntry needs to be deployed. 
@@ -17,7 +17,9 @@ Please visit <a target="_blank" href="https://www.safeentry.gov.sg/deployment">h
 As more activities and services gradually resume following the circuit breaker period, it is important that efforts to prevent and control the transmission of COVID-19 such as contact tracing and identification of COVID-19 clusters can be done quickly to limit the risk of further community transmission.  SafeEntry helps support and quicken these efforts to prevent and control the incidence or transmission of COVID-19 as it provides authorities with a record of individuals who enter and exit places. The records will reduce the time needed to identify potential close contacts of COVID-19 patients and potential COVID-19 clusters. This is important so that we can continue advancing towards fewer restrictions on our movements, and our daily lives.
 
 #### **4. SafeEntry is already implemented for my building (e.g. Mall), do tenants within the building have to implement SafeEntry as well?**
-As part of safe workplace measures, all businesses and services that are in operation must institute SafeEntry for their employees, associates and vendors. Further, places listed on <a target="_blank" href="https://go.gov.sg/safeentrydeloyment">https://www.safeentry.gov.sg/deployment</a> such as supermarkets and hairdressing salons will have to implement SafeEntry for customers, clients and visitors, even if they are within a building e.g. mall.
+As part of safe workplace measures, all venues and facilities found listed <a href="https://www.safeentry.gov.sg/announcements#news-15" target="_blank">here</a> will have to implement SafeEntry for employees and visitors. 
+
+This includes office tenants/workplaces where there is a SafeEntry checkpoint at the main building entrance. For more details, pls refer <a href="https://support.safeentry.gov.sg/hc/en-us" target="_blank">here</a>. 
 
 #### **5. As a SafeEntry enabled business / venue operator, am I required to use SafeEntry for emergency service providers (e.g. SCDF ambulance staff or firefighters) entering the premise during an emergency?**
 No. In emergency situations, priority should be placed on addressing the situation. The authorities will use other data available to help in contact tracing efforts should the need arises.
@@ -28,8 +30,9 @@ Yes. The deployment of SafeEntry will facilitate the Government’s contact trac
 #### **7. Why do we need to use SafeEntry instead of existing vendor management systems?**
 The use of SafeEntry is mandatory because a common system used by all establishments would allow data to be made available to MOH quickly, so as to facilitate efforts to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters. SafeEntry allows information of visitors and employees who may have come into contact with COVID-19 cases to be sent to the authorities automatically. Contact data collected by SafeEntry is only used by authorised personnel, and stringent measures are in place to safeguard the data in accordance with the Government’s data security standards.
 
-#### **8. I am already using an existing visitor management system. Is it possible to integrate this with SafeEntry?**
-SafeEntry is not able to support integrations with other systems at the moment.
+#### **8. Can I use an alternative visitor management system instead of SafeEntry?**
+From 12 May onwards, businesses are required to use SafeEntry to collect entry information of employees and visitors on their premises. Businesses that need to retain the use of their current system for the collection of data that are not required in the SafeEntry system (e.g. purpose of visit, employee’s ID number) are required to implement SafeEntry on top of their existing system.
+To cater to visitors who are not able to scan QR codes or do not have their identification cards with them, businesses are advised to also assist individuals to check in through the manual entry function in SafeEntry using their NRIC, or the webform in SafeEntry with the QR code using any available device.
 
 #### **9. Do businesses and venues have to enforce both check in and check out?**
 Only check-in for SafeEntry needs to be enforced. This applies to workplaces too.
@@ -99,8 +102,8 @@ Please take note that when you use the group check-in feature, you are making a 
 #### **24. Can I add an individual who is not my family member (e.g. friend or co-worker) into my check-in list?**
 While this feature is primarily meant for family members, you may add any individual into your check-in list if:
 
-- a.	All members are staying in the same place of residence; and/or 
-- b.	All of you travel as a group to and from the location by the same mode of transport.
+a.	All members are staying in the same place of residence; and/or <br>
+b.	All of you travel as a group to and from the location by the same mode of transport.
 
 In the situation where you need to check-in with a friend or co-worker, e.g. if you are staying together as roommates, please ensure that you have their explicit permission and knowledge to add their NRIC/FIN to your check-in list. Please take note that when you use the group check-in feature, you are making a declaration on behalf of others.
 
