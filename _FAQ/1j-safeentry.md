@@ -19,7 +19,7 @@ As more activities and services gradually resume following the circuit breaker p
 #### **4. SafeEntry is already implemented for my building (e.g. Mall), do tenants within the building have to implement SafeEntry as well?**
 As part of safe workplace measures, all venues and facilities found listed <a href="https://www.safeentry.gov.sg/announcements#news-15" target="_blank">here</a> will have to implement SafeEntry for employees and visitors. 
 
-This includes office tenants/workplaces where there is a SafeEntry checkpoint at the main building entrance. For more details, pls refer <a href="https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation" target="_blank">here</a>. 
+This includes office tenants/workplaces where there is a SafeEntry checkpoint at the main building entrance. For more details, pls refer <a href="https://www.support.safeentry.gov.sg/hc/en-us" target="_blank">here</a>. 
 
 #### **5. As a SafeEntry enabled business / venue operator, am I required to use SafeEntry for emergency service providers (e.g. SCDF ambulance staff or firefighters) entering the premise during an emergency?**
 No. In emergency situations, priority should be placed on addressing the situation. The authorities will use other data available to help in contact tracing efforts should the need arises.
