@@ -108,11 +108,11 @@ Private tuition and enrichment providers are to comply to measures stipulated in
 
 #### **Process Construction & Maintenance Sector**
 
-PCM companies are to comply to measures stipulated in this <a href="https://go.gov.sg/PCMAdvisory" target="_blank">document</a> [last updated on 27 Jun 20].
+PCM companies are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/PCMAdvisory26Sep.pdf" target="_blank">document</a> [last updated on 26 Sep 20].
 
-PCM companies should also comply to the COVID-Safe restart criteria stipulated <a href="https://go.gov.sg/CriteriaPCMCompanies" target="_blank">here</a> [last updated on 27 Jun 20].
+PCM companies should also comply to the COVID-Safe restart criteria stipulated <a href="https://covid.gobusiness.gov.sg/guides/CriteriaPCMCompanies26Sep.pdf" target="_blank">here</a> [last updated on 26 Sep 20].
 
-Energy and chemical plant owners are to comply to the COVID-Safe restart criteria stipulated in this <a href="https://go.gov.sg/CriteriaECPlantOwners" target="_blank">document</a> [last updated on 27 Jun 20].
+Energy and chemical plant owners are to comply to the COVID-Safe restart criteria stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/CriteriaECPlantOwners26Sep.pdf" target="_blank">document</a> [last updated on 26 Sep 20].
 
 Enterprises in the Process Construction & Maintenance sector are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/PCMBCAStaggeredRestDay.pdf" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders. 
 
