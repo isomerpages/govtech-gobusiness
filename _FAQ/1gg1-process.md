@@ -24,46 +24,30 @@ For the relevant COVID-Safe Restart advisory and criteria for the Construction s
 #### **4. For queries on the restarting of projects and works for the PCM sector, is there a point-of-contact in EDB or ESG that I can consult on the queries?**
 For foreign-owned enterprises and large local enterprises, please contact EDB <a href="http://www.edb.gov.sg/en/contact/contact-us.html" target="_blank">here</a> if you have any queries or require clarifications. All other local enterprises can contact Enterprise Singapore <a href="https://covid.gobusiness.gov.sg/contact-us/" target="_blank">here</a> if you have any queries or require clarifications.
 
-#### **5. For queries on the restarting of projects and works for the PCM sector, is there a point-of-contact in EDB or ESG that I can consult on the queries?**
-For foreign-owned enterprises and large local enterprises, please contact EDB <a href="http://www.edb.gov.sg/en/contact/contact-us.html" target="_blank">here</a> if you have any queries or require clarifications. All other local enterprises can contact Enterprise Singapore <a href="https://covid.gobusiness.gov.sg/contact-us/" target="_blank">here</a> if you have any queries or require clarifications.
+#### **5. My company had received approval from EDB to restart certain construction or turnaround maintenance projects with some workers. Do I need to inform EDB of additional manpower that I plan to deploy?**
+Companies can proceed to deploy the additional manpower without EDB’s approval, subject to the MTI-approved manning levels of their PCM contractors. Companies should maintain updated records of the worker cohorting arrangements (worker details, worksite team/zone, transport and accommodation arrangements) for prompt submission to the relevant authorities if needed, especially in the event of a Covid incident.
 
-#### **6. I am a PCM company and I want to increase manning for regular maintenance activities above the earlier approved manning levels. Do I need to apply to EDB to increase manning?**
-Yes. Any increase in PCM company manning levels for regular maintenance activities above the earlier approved manning levels will have to be graduated. Appeals will be considered on a case-by-case basis. PCM companies may apply jointly with the E&C plant owner <a href="http://www.edb.gov.sg/en/contact/contact-us.html" target="_blank">here</a>.
-
-#### **7. If my PCM company’s SSIC code falls under the permissible SSIC codes that are permissible to operate from 2 June 2020, do I need to apply for approval to deploy additional manpower compared to earlier approved manning levels by MTI?**
-Yes. PCM companies are defined as those which are corporate members of the ASPRI and endorsed by ASPRI as a PCM contractor, allowed to employ PCM Work Permit and S-Pass Holders.
-
-#### **8. I have already obtained EDB’s approval to resume works for one of my projects. Will I be able to proceed with works on all my projects or worksites?**
-No. The approval granted by EDB on behalf of MTI for the resumption of works is project specific. 
-
-Application forms will have to be submitted for each specific project. While safe management plans can be replicated for each of the applications where they are similar, the specific contractors & sub-contractors involved in each project should be updated accordingly.
-
-#### **9. My company had received approval from EDB to restart certain construction or turnaround maintenance projects with some workers. Do I need to inform EDB of additional manpower that I plan to deploy?**
-Companies will need to seek EDB’s approval to deploy additional workers beyond approved manning levels. Companies carrying out these works must comply with the relevant COVID-Safe Restart Criteria, as well as prevailing requirements from MOM.
-
-#### **10. For process construction projects that require BCA’s approval for resumption of works but are unable to meet certain BCA safe restart criteria, where can they lodge an appeal?**
+#### **6. For process construction projects that require BCA’s approval for resumption of works but are unable to meet certain BCA safe restart criteria, where can I lodge an appeal?**
 For companies which are unable to meet certain safe restart criteria from BCA and have legitimate justifications as to why these restart criteria would not be feasible for the process construction project, you can write in to <a href = "mailto: bca_appeals@bca.gov.sg">bca_appeals@bca.gov.sg</a> to appeal with the following information:
-- Reference number of your original submission 
-- Type of works to be carried out 
-- Location of such works 
-- If the works had already started and if yes, the date when works started 
-- Expected date of completion of the works 
-- Reason for the urgency to restart 
-- List of all workers involved, their accommodation addresses and their compliance with BCA’s COVID-Safe Restart Criteria 
-- Other supporting information and documents 
 
-#### **11. I am constructing on-site living quarters for my site but not starting other parts of the project, do I need to obtain EDB’s approval first before constructing the on-site quarters?**
-For construction of on-site living quarters alone without starting other parts of the project, companies will need to seek BCA’s approval to start work from 2 June 2020, similar to any other construction project. Companies will also need to apply for the necessary permits with the relevant agencies. For more information on MOM’s requirements for housing, please visit: <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/housing/various-types-of-housing" target="_blank">https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/housing/various-types-of-housing</a>.
+- Reference number of your original submission
+- Type of works to be carried out
+- Location of such works
+- If the works had already started and if yes, the date when works started
+- Expected date of completion of the works
+- Reason for the urgency to restart
+- List of all workers involved, their accommodation addresses and their compliance with BCA’s COVID-Safe Restart Criteria
+- Other supporting information and documents
 
-#### **12. How will checks be done to ensure that companies are complying with COVID-Safe Restart criteria?**
-MOM will implement an Audit and Inspection regime to conduct checks and to ensure compliance on site based on relevant safe management measures. 
+#### **7. How will checks be done to ensure that companies are complying with COVID-Safe Restart criteria?**
+Agencies will implement an Audit and Inspection regime to conduct checks and to ensure compliance on site based on relevant safe management measures.
+
 Penalties will be imposed on firms which have contravened the COVID-Safe Restart criteria or MOM’s Safe Management Measures, whichever relevant. In addition, these firms will be required to resubmit their rectification plans, where applicable, and implement these measures as part of the follow ups to the enforcement actions taken.
 
-#### **13. What happens if a project is found to have a worker infected with COVID-19 after works have been resumed?**
-Plant owners and PCM companies should immediately vacate and cordon-off the immediate section of the workplace premises where the confirmed case worked. There is no need to vacate the building or the whole floor if there is no sustained and close contact with the confirmed case. Subsequently, carry out a thorough cleaning and disinfect all relevant on-site areas and assets exposed to confirmed cases, in accordance with the National Environment Agency’s (NEA’s) guidelines. Please refer to the COVID-Safe Restart criteria for E&C plant owners and PCM companies for further guidance on the handling of suspected and/or confirmed cases. 
+#### **8. What happens if a project is found to have a worker infected with COVID-19 after works have been resumed?**
+Plant owners and PCM companies should immediately vacate and cordon-off the immediate section of the workplace premises where the confirmed case worked. There is no need to vacate the building or the whole floor if there is no sustained and close contact with the confirmed case. Subsequently, carry out a thorough cleaning and disinfect all relevant on-site areas and assets exposed to confirmed cases, in accordance with the National Environment Agency’s (NEA’s) guidelines. Please refer to the COVID-Safe Restart criteria for E&C plant owners and PCM companies for further guidance on the handling of suspected and/or confirmed cases.
 
-The whole team that the infected worker is from will have to be isolated and tested; works on site may be suspended.
-
+Employers should promptly identify and segregate team members who were in sustained and close contact with the confirmed case to support MOH’s contact tracing efforts. Close contacts will be isolated and tested, and works on site may be suspended.
 
 ## **COVID-Safe Worksite**
 
