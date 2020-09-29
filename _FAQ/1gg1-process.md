@@ -109,6 +109,11 @@ An alternative to repatriation is to consider releasing the foreign worker to ot
 #### **7. For foreign workers who have gone on home leave, when can they return?**
 Please refer to MOM’s guidance on the matter.
 
+## **COVID-Safe Accommodation and Transport**
+
+#### **1. Do I have to segregate my workers at their accommodation according to their projects and teams?**
+Yes. Otherwise, workers employed by the same firm to be housed in the same room. Limited to a maximum of 2 employers housed within each room. Please refer to the latest guidance on the matter <a href="https://go.gov.sg/bca-circular-cohorting-exercise" target="_blank">here</a>. 
+
 ## **Staggered Rest Day**
 
 #### **1. How will staggered rest days apply to PCM projects/activities that involve Work Permit and S Pass holders hired under the Process account?**
