@@ -24,7 +24,7 @@ You will be expected to  ensure that your manpower details are updated for the e
 Employment agencies should submit/declare the manpower details for all employees under their direct employment, regardless of where they are deployed.
 
 #### **6. What manpower details must companies declare/submit? How do I declare/submit my manpower details?**
-Companies on the permitted list are not required to submit the NRIC/FIN for their workers. They will only need to declare their manpower numbers (i.e. total number of manpower on-site and the proportion of which work part-time or shifts).
+Companies on the permitted list are not required to submit the NRIC/FIN for their workers. They will only need to declare their manpower numbers (i.e. total number of manpower on-site and the maximum number of manpower on-site at any given time).
 
 For applicants with a CorpPass account, please login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">https://www.gobusiness.gov.sg/exemptions</a>. Thereafter, please click on the button “submit manpower”, which will be made available only for permitted business resumptions/ general exemptions. 
 
@@ -60,7 +60,7 @@ If you have not received an acknowledgement email, your email address may be ina
 You will be able to update your email address if needed. All changes will be reflected immediately. You will also be able to check whether your declaration has been captured. You should resubmit the declaration if it has not been captured.
 
 #### **12. Under what circumstances do I need to update my manpower declaration? Do I need to do so if there is a change in the number of employees/workers working on-site?**
-Yes, you should update your manpower declaration if there are any changes to (i) the total number of employees/workers working on-site and (ii) the proportion of these employees/workers who are working part-time and shifts.
+Yes, you should update your manpower declaration if there are any changes to (i) the total number of employees/workers working on-site and (ii) the maximum number of workers on-site at any given time. 
 
 #### **13. What should I do if I would like to make changes to my manpower declaration?**
 You can login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> and click on your business resumption to resubmit your manpower declaration. 
