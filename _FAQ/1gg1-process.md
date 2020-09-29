@@ -5,35 +5,24 @@ third_nav_title: For Sector-Specific Queries
 ---
 
 #### **1. How do I know if I am classified as a PCM company and if the following FAQs apply to me?**
-These FAQs apply to PCM companies carrying out process construction and process turnaround maintenance works, as well as the relevant plant owners. PCM companies are defined as those which are corporate members of the Association of the Process Industry (ASPRI) and endorsed by ASPRI as a PCM contractor, allowed to employ PCM Work Permit and S-Pass Holders.
+This set of FAQs apply to PCM companies carrying out process construction and process turnaround maintenance works, as well as the relevant plant owners. PCM companies are defined as those which are corporate members of the Association of the Process Industry (ASPRI) and endorsed by ASPRI as a PCM contractor, allowed to employ Process account Work Permit and S-Pass Holders.
 
 #### **2. Will Energy & Chemicals (E&C) Plant Owners and PCM companies be allowed to resume their operations after 2 June 2020?**
-Petroleum/Petrochemicals and other Chemical facilities (collectively known as E&C facilities) are part of the Manufacturing & Production facilities that are allowed to re-open after 2 June 2020 without any manpower quota.
+Petroleum/Petrochemicals and other Chemical facilities (collectively known as E&C facilities) are part of the Manufacturing & Production facilities that are allowed to re-open after 2 June 2020 without any manpower quota. 
 
 Plant owners must:
-- Submit their manpower details via the Ministry of Trade and Industry’s (MTI’s) GoBusiness portal at https://covid.gobusiness.gov.sg within two weeks of 2 June 2020 or from the date of resumption of operations, whichever date is later.
-- Ensure compliance with the Ministry of Manpower’s (MOM) Safe Management Measures (SMM) and checklist.
-- Implement telecommuting as far as possible in adherence to MOM’s SMM.
+-	Ensure compliance with the Ministry of Manpower’s (MOM) Safe Management Measures (SMM) and checklist. 
+-	Implement telecommuting as far as possible in adherence to MOM’s SMM.
 
-For process construction projects and turnaround maintenance activities, in view of the large number of workers required on site, additional COVID-Safe Restart criteria apply. Approvals will have to be sought from the Building Construction Authority (BCA) or the Economic Development Board (EDB) on behalf of MTI (see below). 
+For PCM activities not regulated under the Building Control Act, E&C plant owners and their PCM contractors must ensure compliance to the COVID-Safe Restart Criteria for E&C plant owners and PCM companies published on MTI’s GoBusiness portal <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">here</a>. 
 
-For PCM companies, resumption of on-site operations to support construction projects and turnaround maintenance activities will be on a project approval basis, facilitated by the plant owner. 
+#### **3. What kind of projects or activities will require approval from the relevant authorities before they can start/resume from 2 June 2020 onwards? Is there any difference in the resumption of work after Circuit Breaker between the PCM and Construction Sector?**
+Please refer to Table 1 in the <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">Advisory for a Safe and Controlled Restart of the PCM Sector</a> for details on the guidelines that would apply to different types of works and companies.
 
-Any increase in PCM company manning levels for regular process plant maintenance activities will also have to be graduated. Appeals will be considered on a case-by-case basis. PCM companies may apply jointly with the E&C plant owner at <a href="http://www.edb.gov.sg/en/contact/contact-us.html" target="_blank">http://www.edb.gov.sg/en/contact/contact-us.html</a>.
+For the relevant COVID-Safe Restart advisory and criteria for the Construction sector, please refer to the BCA advisory dated 10 August 2020 <a href="https://www1.bca.gov.sg/docs/default-source/bca-restart/circular-on-permission-to-resume-work-and-safe-accomm-relaxation.pdf" target="_blank">here</a> and the BCA’s COVID-19 website <a href="https://www1.bca.gov.sg/COVID-19" target="_blank">here</a>.
 
-#### **3. What kind of projects or activities will require approval from the relevant authorities before they can start/resume from 2 June 2020 onwards?**
-<ins>For day-to-day maintenance activities:</ins>
-- Essential maintenance activities carried out by (a) firms that are allowed to operate from 2 June 2020, or (b) firms that are operating on an exemption basis at earlier approved manning levels by MTI will not require any additional approval, subject to earlier approved manning levels.
-- Any increase in PCM company manning levels for regular process plant maintenance activities will have to be graduated. Appeals will be considered on a case-by-case basis. PCM companies may jointly apply with the E&C plant owner at <a href="http://www.edb.gov.sg/en/contact/contact-us.html" target="_blank">http://www.edb.gov.sg/en/contact/contact-us.html</a>.
-
-<ins>For process construction projects and turnaround maintenance activities:</ins>
-- For categories of work on (a) process plant turnaround maintenance activities, or (b) process construction activities that are not regulated under the Building Control Act, applications will have to be submitted to EDB by plant owners before their appointed PCM contractors can commence/resume work.
-- For process construction projects regulated under the Building Control Act, applications will have to be submitted by the plant owner and main contractor to BCA for the project before work can resume, even if BCA’s building plan or structural plan approvals had previously been sought.
-
-#### **4. Is there any difference in the resumption of work after Circuit Breaker between the PCM and Construction Sector?**
-Please refer to Table 1 in the <a href="/safemanagement/sector/">Advisory for a Safe and Controlled Restart of the PCM Sector</a> for details on the guidelines that would apply to different types of works and companies.
-
-For the relevant COVID-Safe Restart advisory and criteria for the Construction sector, please refer to the BCA advisory <a href="https://www1.bca.gov.sg/docs/default-source/bca-restart/advisory-safe-controlled-restart-of-construction-sector.pdf" target="_blank">here</a>. 
+#### **4. For queries on the restarting of projects and works for the PCM sector, is there a point-of-contact in EDB or ESG that I can consult on the queries?**
+For foreign-owned enterprises and large local enterprises, please contact EDB <a href="http://www.edb.gov.sg/en/contact/contact-us.html" target="_blank">here</a> if you have any queries or require clarifications. All other local enterprises can contact Enterprise Singapore <a href="https://covid.gobusiness.gov.sg/contact-us/" target="_blank">here</a> if you have any queries or require clarifications.
 
 #### **5. For queries on the restarting of projects and works for the PCM sector, is there a point-of-contact in EDB or ESG that I can consult on the queries?**
 For foreign-owned enterprises and large local enterprises, please contact EDB <a href="http://www.edb.gov.sg/en/contact/contact-us.html" target="_blank">here</a> if you have any queries or require clarifications. All other local enterprises can contact Enterprise Singapore <a href="https://covid.gobusiness.gov.sg/contact-us/" target="_blank">here</a> if you have any queries or require clarifications.
