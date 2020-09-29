@@ -86,14 +86,14 @@ No. Companies will be required to declare all workers entering the worksite and 
 Employers should refer to press releases from MOM regarding the status of dormitories, and also communicate with their workers to verify their health status.
 
 #### **2. Who would need to be regularly swab tested?**
-All PCM workers will be required to undergo regular swab tests, with the exception of non-dormitory[^1] workers who work in non-production sites or work from home. 
+All PCM workers will be required to undergo regular swab tests, with the exception of non-dormitory[^3] workers who work in non-production sites or work from home. 
 
 The above is applicable for Singaporeans, Singaporean Permanent Residents, Work Permit Holders, S Pass Holders and Employment Pass Holders.
 
 Companies may create accounts to register for swabs by emailing <a href = "mailto: swab@edb.gov.sg">swab@edb.gov.sg</a> and schedule for workers to be swabbed via <a href="https://swab.hpb.gov.sg/ext/login.aspx" target="_blank">https://swab.hpb.gov.sg/ext/login.aspx</a>. If any workers who are working are found to have missed regular testing, the workers’ AccessCode will turn Red after a grace period and the worker should not return to work. MOM will also follow-up to revoke the workpass and blacklist the company should there be no valid reason for the worker missing the swab. EDB also reserves the right to withdraw any approval given for resumption of works.
 
 #### **3. If my office finance and administrative staff do not go on-site or come into contact with on-site workers, do they have to be regularly swab tested?**
-Non-dormitory[^1] workers who work in non-production sites or work from home do not need to be regularly swab tested.
+Non-dormitory[^4] workers who work in non-production sites or work from home do not need to be regularly swab tested.
 
 #### **4. Can employers make their own private arrangements for their employees to be tested?**
 Companies should not approach laboratories/hospitals to set up a private arrangement for these tests. Companies may create accounts to register for swabs by emailing <a href = "mailto: swab@edb.gov.sg">swab@edb.gov.sg</a> and schedule for workers to be swabbed via <a href="https://swab.hpb.gov.sg/ext/login.aspx" target="_blank">https://swab.hpb.gov.sg/ext/login.aspx</a>. 
@@ -165,3 +165,5 @@ We understand that firms will need time to adjust their business practices and m
 ___
 [^1]: Works requiring Process Sector Work Permit or S-Pass Holders in connection with the maintenance of plant equipment in the Petroleum/Petrochemicals and other Chemicals manufacturing sector.
 [^2]: Works requiring Process Sector Work Permit or S-Pass Holders in connection with the construction of plant equipment in the Petroleum/Petrochemicals and other Chemicals manufacturing sector.
+[^3]: Dormitories include purpose-built dormitories, factory-converted dormitories, construction temporary quarters, temporary occupation license quarters, temporary living quarters and government decant sites.
+[^4]: Dormitories include purpose-built dormitories, factory-converted dormitories, construction temporary quarters, temporary occupation license quarters, temporary living quarters and government decant sites.
