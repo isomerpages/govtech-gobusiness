@@ -24,7 +24,7 @@ You will be expected to  ensure that your manpower details are updated for the e
 Employment agencies should submit/declare the manpower details for all employees under their direct employment, regardless of where they are deployed.
 
 #### **6. What manpower details must companies declare/submit? How do I declare/submit my manpower details?**
-Companies on the permitted list are not required to submit the NRIC/FIN for their workers. They will only need to declare their manpower numbers (i.e. total number of manpower on-site and the maximum number of manpower on-site at any given time proportion of which work part-time or shifts).
+Companies on the permitted list are not required to submit the NRIC/FIN for their workers. They will only need to declare their manpower numbers (i.e. total number of manpower on-site and the maximum number of manpower on-site at any given time).
 
 For applicants with a CorpPass account, please login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">https://www.gobusiness.gov.sg/exemptions</a>. Thereafter, please click on the button “submit manpower”, which will be made available only for permitted business resumptions/ general exemptions. 
 
