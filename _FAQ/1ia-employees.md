@@ -104,17 +104,3 @@ AND
 You must ensure that your workers wear their masks at all times, check in using SafeEntry, and that they go directly to and from their worksites with no stops in between.
 
 More details on implementing safe management measures for workers on employer-provided transportation can be found <a href="https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation" target="_blank">here</a>.
-
-#### **11. Can my workers who are staying in dormitories take taxis or private hire vehicles (e.g. Grab, GoJek) to and from their worksites?**
-As an employer, you must provide transport for your workers to and from their worksites.
-You can use taxis or private hire vehicles (PHVs) as long as you:
-- Work with taxi or PHV operators to pre-arrange and pre-pay for such vehicles to ferry the workers to ensure availability of vehicles and reduce physical interactions between drivers and workers.
-- Work with dormitory operators to plan and coordinate pick-up times so as to reduce congestion.
-
-AND
-
-- Are able to demonstrate that you have complied with the relevant safe management measures upon request.
-
-You must ensure that your workers wear their masks at all times, check in using SafeEntry, and that they go directly to and from their worksites with no stops in between.
-
-More details on implementing safe management measures for workers on employer-provided transportation can be found <a href="https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation" target="_blank">here</a>.
