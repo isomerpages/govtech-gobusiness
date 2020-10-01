@@ -162,7 +162,7 @@ Yes, if the holiday falls on a rest day, the next working day is a paid holiday.
 Employers may re-negotiate employment contracts to adjust the rate of pay for working on Sunday, if it becomes a non-rest day.
 
 #### **16. I am experiencing issues with updating Rest Day in Safe@Work. What should I do?**
-Please refer to the answers for frequently asked questions here. If you are still experiencing issues, please contact MOM for assistance.
+Please refer to the answers for frequently asked questions <a href="https://www.mom.gov.sg/eservices/services/safe-work" target="_blank">here</a>. If you are still experiencing issues, please <a href="https://www.mom.gov.sg/contact-us" target="_blank">contact MOM</a> for assistance.
 
 ## **Assignment Of Staggered Rest Day**
 
