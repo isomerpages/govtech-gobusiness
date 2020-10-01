@@ -115,29 +115,36 @@ Yes. Companies must work with dormitory operators to segregate workers according
 ## **Staggered Rest Day**
 
 #### **1. Which companies will be affected by this requirement and will this be imposed on all employees within the company?**
-Only companies who employ foreign workers in the Marine Shipyard sector will be affected. Staggered rest days will apply to all Work Permit and S Pass holders hired under the Marine Shipyard account. Companies can check the category of their foreign workers via Ministry of Manpower’s (MOM’s) Work Permit Online platform <a href="https://www.mom.gov.sg/eservices/services/wp-online-for-businesses-and-employment-agencies" target="_blank">here</a>. Companies are required to adopt and implement the staggered rest day arrangement for these employees.
+Only companies who employ foreign workers in the Marine Shipyard sector will be affected. Staggered rest days will apply to all Work Permit and S Pass holders hired under the Marine Shipyard account. Companies can check the category of their foreign workers via <a href="https://www.mom.gov.sg/eservices/services/wp-online-for-businesses-and-employment-agencies" target="_blank">Ministry of Manpower’s (MOM’s) Work Permit Online</a> or <a href="https://www.mom.gov.sg/eservices/services/ep-online" target="_blank">Employment Pass Online</a>. Companies are required to adopt and implement the staggered rest day arrangement for these employees. 
 
 #### **2. My Marine Shipyard account foreign workers are working in the office and not on the production site, are they required to follow the staggered rest day arrangement?**
 Yes, all Marine Shipyard account Work Permit and S Pass holders are included regardless of their assigned worksite and role.  This will help to reduce crowding when they are out on personal activities on their rest days.
 
-#### **3. Are my Marine Shipyard account foreign workers allowed to work on their allocated rest day?**
-Yes, if there are operational needs and the worker is willing to work on their rest day. However, employers are to comply with the Employment Act and compensate the worker with overtime pay, and abide by the overtime hours limit accordingly.
+#### **3. My Marine account Work Permit and S Pass holders are currently having Sunday as their rest day. What am I required to do in order to comply with the staggered rest days requirement?**
+Under the staggered rest day requirement, employers are to assign their Marine account Work Permit and S Pass holders a rest day between Monday to Saturday according to the company’s allocated rest day arrangement.
 
-#### **4. If I have no critical production needs and do not want to operate on Sunday, do my Marine Shipyard account workers still need to report to work as it is not their assigned rest day?**
-No, if the company is not operating on Sunday, these workers need not report to the worksite but they will not be able to leave their dormitory for leisure or personal errands that day. The workers can leave the dormitories for leisure or personal reasons only on their assigned rest day each week.
+If Sunday is not their rest day, these employees can work on Sunday without overtime pay that is needed for working on their rest day.
 
-#### **5. If my Marine Shipyard account foreign workers usually have two rest days per week, can they be given two rest days?**
-Yes, companies can allow workers to have more than one rest day. Nonetheless, companies need to update only one of the rest days in the Safe@Work system. This will be the day where the workers will be able to leave their dormitory for leisure and personal reasons.  On other rest days, the worker need not work, but will need to rest in their dormitory during this stage of the pandemic. 
+#### **4. Are my Marine Shipyard account foreign workers allowed to work on their allocated rest day? **
+Yes, the worker can work on their rest day as stipulated under the Employment Act, but conditions of pay and other matters must not contravene those stipulated in the Act.
 
-#### **6. Will this staggered rest day arrangement apply to my Marine Shipyard account foreign workers who are not living in dormitories?**
-Yes, companies are required to implement the staggered rest day arrangement for their Marine Shipyard account workers regardless of their place of residence. Staggered rest day is needed to prevent the risk of large numbers of people congregating on their rest days, which will heighten the risk of COVID-19 transmission. This arrangement will reduce the pool of people interacting with others outside of work on any given day, and mitigate the public health risk to themselves and others. However, workers not living in dormitories will not be required to apply for Exit Pass to leave their residence.
+#### **5. If I have no critical production needs and do not want to operate on Sunday, do my Marine Shipyard account workers still need to report to work as it is not their assigned rest day? **
+No, if the company is not operating on Sunday, these workers need not report to the worksite, but they will not be able to leave their dormitory for leisure or personal errands that day.  The workers can leave the dormitories for leisure or personal reasons only on their assigned rest day each week.
 
-#### **7. Is there an end date for this staggered rest day arrangement?**
+#### **6. If my Marine Shipyard account foreign workers usually have two rest days per week, can they be given two rest days? **
+Yes, companies can allow workers to have more than one rest day. Nonetheless, companies need to update only one of the rest days in the Safe@Work system.  This will be the day where the workers will be able to leave their dormitory for leisure and personal reasons.  On other rest days, the worker need not work, but will need to rest in their dormitory during this stage of the pandemic.
+
+#### **7. Will this staggered rest day arrangement apply to my Marine Shipyard account foreign workers who are not living in dormitories?**
+Yes, companies are required to implement the staggered rest day arrangement for their Marine Shipyard account workers regardless of their place of residence. Staggered rest day is needed to prevent the risk of large numbers of people congregating on their rest days, which will heighten the risk of COVID-19 transmission. This arrangement will reduce the pool of people interacting with others outside of work on any given day, and mitigate the public health risk to themselves, and others. However, workers not living in dormitories will not be required to apply for Exit Pass to leave their residence.
+
+#### **8. Is there an end date for this staggered rest day arrangement?**
 The arrangement is needed to minimise the risk of large numbers of people congregating, and thereby reduce the risk of COVID-19 transmission. Staggered rest days will be reviewed when the COVID-19 pandemic has abated.
 
-#### **8. Will there be enforcement? What will be the penalties for companies and workers who do not comply with the staggered rest day arrangement?**
-MOM will take enforcement measures against errant foreign workers including the suspension of dorm exits for leisure purposes, and in extreme cases, the revocation of work passes. 
+#### **9. Will there be enforcement? What will be the penalties for employers and employees who do not comply with the staggered rest day arrangement?**
+Employers will be responsible to implement and communicate the staggered rest day arrangement to their employees. Thereafter, employees are responsible to adhere to their arrangements. MOM will take action against employers that do not comply.
 
+#### **10. My Marine account workers are residing in non-dormitory residences. Are they allowed to go out every day after work and even on Sunday? E.g. for dinner in the evening after work, to the supermarket, take annual leave, visit friends and relatives.**
+Yes. The Exit Pass requirement applies only to dormitory (e.g. PBD, FCD, CTQ, TOLQ, TLQ or government-arranged housing) residents.
 
 ## **Assignment Of Staggered Rest Day**
 
