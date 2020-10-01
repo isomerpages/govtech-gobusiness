@@ -125,13 +125,13 @@ Under the staggered rest day requirement, employers are to assign their Marine a
 
 If Sunday is not their rest day, these employees can work on Sunday without overtime pay that is needed for working on their rest day.
 
-#### **4. Are my Marine Shipyard account foreign workers allowed to work on their allocated rest day? **
+#### **4. Are my Marine Shipyard account foreign workers allowed to work on their allocated rest day?**
 Yes, the worker can work on their rest day as stipulated under the Employment Act, but conditions of pay and other matters must not contravene those stipulated in the Act.
 
-#### **5. If I have no critical production needs and do not want to operate on Sunday, do my Marine Shipyard account workers still need to report to work as it is not their assigned rest day? **
+#### **5. If I have no critical production needs and do not want to operate on Sunday, do my Marine Shipyard account workers still need to report to work as it is not their assigned rest day?**
 No, if the company is not operating on Sunday, these workers need not report to the worksite, but they will not be able to leave their dormitory for leisure or personal errands that day.  The workers can leave the dormitories for leisure or personal reasons only on their assigned rest day each week.
 
-#### **6. If my Marine Shipyard account foreign workers usually have two rest days per week, can they be given two rest days? **
+#### **6. If my Marine Shipyard account foreign workers usually have two rest days per week, can they be given two rest days?**
 Yes, companies can allow workers to have more than one rest day. Nonetheless, companies need to update only one of the rest days in the Safe@Work system.  This will be the day where the workers will be able to leave their dormitory for leisure and personal reasons.  On other rest days, the worker need not work, but will need to rest in their dormitory during this stage of the pandemic.
 
 #### **7. Will this staggered rest day arrangement apply to my Marine Shipyard account foreign workers who are not living in dormitories?**
