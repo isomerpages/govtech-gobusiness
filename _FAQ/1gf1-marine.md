@@ -146,6 +146,12 @@ Employers will be responsible to implement and communicate the staggered rest da
 #### **10. My Marine account workers are residing in non-dormitory residences. Are they allowed to go out every day after work and even on Sunday? E.g. for dinner in the evening after work, to the supermarket, take annual leave, visit friends and relatives.**
 Yes. The Exit Pass requirement applies only to dormitory (e.g. PBD, FCD, CTQ, TOLQ, TLQ or government-arranged housing) residents.
 
+#### **11. What are the type of dormitories that are subjected to entry and exit regulations? What will I need to exit the dormitory for leisure during my staggered rest day?**
+If you stay in a dormitory (e.g. PBD, FCD, CTQ, TOLQ, TLQ or government-arranged housing), you must have an Exit Pass to go out for leisure.  If you stay in other housing types (e.g HDB flat, Private Residential Property), you do not need an Exit Pass.
+
+#### **12. Do we need to submit essential errands request to MOM when workers run errands on their rest day?**
+Yes, workers whose dormitory is declared COVID-cleared and are not serving a Quarantine Order or Stay-Home Notice can leave the dormitory to run essential errands. For essential errands, workers’ employer or dormitory operator are required to notify MOM at www.mom.gov.sg/essential-errands-request, and they can then leave for their specified errand.  This is regardless of AccessCode status, and no Exit Pass is needed. Essential errands include medical appointments, court appointments, MOM-approved training and Work Pass related errands.
+
 ## **Assignment Of Staggered Rest Day**
 
 #### **9. Why are Sponsoring Shipyards and their Resident Contractors grouped together for the staggered rest day arrangement?**
