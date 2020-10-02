@@ -62,23 +62,30 @@ It is possible for workers of a worksite to be housed at one or more accommodati
 ## **COVID-Safe Workforce**
 
 #### **1. Who would need to be regularly swab tested?**
-The following groups of employees are required to undergo regular swab tests:
-- Those who work on the shipyards’ production site; and 
-- Those who work in shipyard contractors’ external production site e.g. workshop; and 
-- Those who stay in purpose-built dormitories, factory-converted dormitories, construction temporary quarters or temporary occupation license quarters 
+All Shipyards’, Resident Contractors’ and Common Contractors’ employees are required to undergo regular swab tests (or Rostered Routine Testing) every 14 days, with the exception of non-dormitory workers who work in non-production sites or work from home.
 
-The above is applicable for Singaporeans, Singaporean Permanent Residents, Work Permit Holders, S Pass Holders and Employment Pass Holders. 
+Dormitories include purpose-built dormitories, factory-converted dormitories, construction temporary quarters, temporary occupation licence quarters, temporary living quarters and government decant sites.
 
-EDB/ESG will inform relevant companies on the swab test arrangements. If any workers who are working are found to have missed regular testing, EDB/ESG reserves the right to withdraw any approval for resumption of works.
+To ensure that the risks of COVID-19 transmission at shipyard premises continue to be well mitigated, personnel from non-Marine Shipyard sector who are required to work at the shipyards’ production sites for **15 or more days out of 30 consecutive days**, will need to undergo RRT. Companies should ensure that affected employees have undergone RRT by **19 October 2020**. The 15 or more days which a personnel is working in the shipyard’s production sites need not be consecutive.
 
-#### **2. If my office finance and administrative staff do not go to production site or come into contact with production site workers, do they have to be regularly swab tested?**
-No. Only those that are working on production site and in contact with production site workers will have to be regularly swab tested.
+This is applicable for Singaporeans, Singaporean Permanent Residences, Work Permit Holders, S Pass Holders and Employment Pass Holders.
 
-#### **3. Can employers make their own private arrangements for their employees to be tested?**
-Companies should not approach laboratories/hospitals to set up a private arrangement for these tests. Relevant companies will be contacted by EDB/ESG to arrange for their employees and contractors to be tested.
+#### **2. If my office finance and administrative staff do not go to production site or come into contact with production site workers, do they have to be regularly swab tested? They do not reside in dormitories.**
+Non-dormitory workers who work in non-production sites or work from home do not need to be regularly swab tested.
 
-#### **4. What is the situation around foreign workers dormitories? When can my workers leave the dormitory for work?**
-Companies may refer to MOM’s website for updated information on dormitory clearance <a href="https://www.mom.gov.sg/covid-19/cleared-dormitories" target="_blank">here</a> and MOM’s advisory to employers on safe living in foreign worker dormitories <a href="https://www.mom.gov.sg/covid-19/advisory-to-employers-on-safe-living-for-foreign-worker-dormitories" target="_blank">here</a>.
+#### **3. Are client/owner representatives who frequent the shipyards’ production sites required to undergo RRT?**
+Yes. Personnel who are required to work at the shipyards’ production sites for 15 or more days out of 30 consecutive days are required to undergo regular swab testing. Companies should ensure that affected employees have undergone RRT by **19 October 2020**.
+
+#### **4. How can companies register for swab testing for eligible employees?**
+All companies can apply for Swab Registration System (SRS) company account creation via <a href="https://form.gov.sg/5f33ac4aef830b0012597673" target="_blank">link</a>. They will receive a follow-up email from <a href = "mailto: swab@edb.gov.sg">swab@edb.gov.sg</a> on SRS onboarding and instructions within 5 days. Companies in the non-Marine Shipyard sectors are to indicate the Shipyard’s company name where their workers will be working at. 
+
+All companies are to submit their Manpower Declaration in <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">GoBusiness</a> indicating employee details and their respective work premises. 
+
+For companies in the Marine Shipyard sector, employees working on the shipyards’ production site and shipyard contractors’ external production site e.g. workshop, are to be captured under **“Production site”** premises while employees working from home or at non-production site e.g. back office, are to be captured under **“Other sites”**.
+
+For companies in non-Marine Shipyard sectors, only employees deployed to the <ins>shipyard’s production site</ins> are to be captured under **“Production site”** premises. All other employees deployed to other premises e.g. office, other industry sites, are to be captured under **“Other sites”**.  This is to facilitate registration and access to RRT for employees deployed to shipyard’s production site. 
+
+Please ensure that details are valid and kept up to date.
 
 #### **5. What is the arrangement for foreign workers currently staying outside the dormitories? E.g. hotels, govt. decanted sites or other private residences.**
 As the resumption of M&O works will be phased out from 2 June 2020, only those deployed for critical maintenance/repair activities under Earlier Permitted Activities by MTI will continue to be able to work until EDB/ESG’s approval has been obtained for other works to resume.
