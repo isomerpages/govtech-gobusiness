@@ -5,7 +5,7 @@ third_nav_title: Manpower Declaration
 ---
 
 #### **1. Is there a guide on how to declare/submit my manpower details?**
-Yes. The guide for declaration/submission of manpower details can be found <a href="https://go.gov.sg/essentialmanpowerguide" target="_blank">here</a>.
+Yes. The guide for declaration/submission of manpower details can be found <a href="https://file.go.gov.sg/essentialmanpowerguide25sep.pdf" target="_blank">here</a>.
 
 #### **2. How do I know if I need to declare/submit my manpower details?**
 All businesses that are allowed to resume operations, or have received an approval for their General Exemption application, are required to do so.
