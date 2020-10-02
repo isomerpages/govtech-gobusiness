@@ -87,12 +87,28 @@ For companies in non-Marine Shipyard sectors, only employees deployed to the <in
 
 Please ensure that details are valid and kept up to date.
 
-#### **5. What is the arrangement for foreign workers currently staying outside the dormitories? E.g. hotels, govt. decanted sites or other private residences.**
-As the resumption of M&O works will be phased out from 2 June 2020, only those deployed for critical maintenance/repair activities under Earlier Permitted Activities by MTI will continue to be able to work until EDB/ESG’s approval has been obtained for other works to resume.
+#### **5. I am unable to key in the specific work premises of my employees in the GoBusiness portal. Who should I approach?**
+Please contact <a href = "mailto: COVID_GoBusiness@mti.gov.sg">COVID_GoBusiness@mti.gov.sg</a>.
 
-#### **6. Do I have to segregate my workers at their accommodation according to their projects and teams?**
-Yes. Companies must work with dormitory operators to segregate workers according to their worksites and teams so as to avoid inter-mixing.
+#### **6. What is considered a “Production site” premise?**
+Production site includes shipyards’ production areas (e.g. dry dock, onboard vessels in shipyards, fabrication workshops), resident and common contractors’ workshops. “Other sites” include back office, supporting sectors’ (e.g. manufacturing) workshop.
 
+#### **7. What should companies from supporting sectors do after they have completed their jobs and are no longer working at the shipyard’s production site?**
+Companies are required to update their employees’ work premises to **“Other sites”** via the Manpower Declaration in <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">GoBusiness</a>. Companies need not register them for subsequent swab appointments in SRS if they are no longer required to work at shipyard’s production site.
+
+#### **8. What should companies from supporting sectors do if their employees will only be working at the shipyard’s production site for a few days (less than 15 days out of 30 consecutive days)?**
+Companies need not register these employees for swab appointments in SRS. However, they are to remind employees to adhere to safe distancing measures and avoid interaction with shipyard-based personnel except for safety checks and worksite inspection.
+
+#### **9. Are ship crew required to undergo RRT? They are based onboard the vessel which is berthed/docked at our shipyard for repair works.**
+Ship crew are to refer to MPA’s Port Marine Circular for the latest guidelines such as signing-on/off SHN and COVID-19 PCR test requirements.
+
+#### **10. When should the last swab test be taken before personnel is allowed to enter shipyards’ production premises?**
+The personnel should have taken their swab test and tested negative within the last 14 days.
+
+## **COVID-Safe Accommodation and Transport**
+
+#### **1. Do I have to segregate my workers at their accommodation according to their projects and teams?**
+Yes. Companies must work with dormitory operators to segregate workers according to their worksites and teams so as to avoid inter-mixing. For workers residing in FEDA-licensed dormitories, employers and dormitory operators are to work together to cohort these workers in compliance with BCA/EDB’s requirements <a href="https://go.gov.sg/bca-circular-cohorting-exercise" target="_blank">here</a>. 
 
 ## **Staggered Rest Day**
 
