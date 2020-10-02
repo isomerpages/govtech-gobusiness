@@ -24,8 +24,10 @@ Businesses should suspend operations in their premises from 7 April 2020 onwards
 
 If employees have to be activated to return to the workplace for short periods of time (i.e. less than a day), employers are required to apply to MTI for a time-limited exemption to do so via <a href="https://covid.gobusiness.gov.sg/">here</a>. If employers need to maintain a skeletal workforce at the workplace for longer periods, an application for a general exemption should be submitted instead via through <a href="https://covid.gobusiness.gov.sg/">here</a>. 
 
-#### **5. I had previously received an approval of my General Exemption but my companies’ activities are not listed in the permitted services list. Will I be able to continue operations?**
-Yes. All companies that received an exemption to operate will be able to continue operations.
+#### **5. I had previously received an approval of my General Exemption but my companies’ activities are not listed in the permitted services list. Will I be able to continue operations? Can our employees who are currently working from home return to the workplace?**
+Companies operating under a General Exemption must submit an application for additional manpower via the GoBusiness portal, to allow more employees to return to the workplace.
+
+Please note that for employees whose jobs can be performed from home, employers must ensure that they continue to do so for at least half their working time, measured over a reasonable period of time not exceeding four weeks. In addition, no more than half of employees who are able to work-from-home are allowed to be at the workplace at any point in time.  
 
 #### **6. I had previously received an email notification that my exemption had been rescinded, but my company falls under the list of permitted services. Will I be able to resume operations?**
 Yes. If your company’s activities are listed in the list of permitted services, you will be allowed to resume operations. If your company has other business functions or services that do not belong to the list of permitted services, these other business functions or services should remain suspended until further notice.
