@@ -88,9 +88,11 @@ With effect from 3 Oct 2020 (inclusive), marriage solemnisations and wedding rec
 
 Enterprises in the M&O sector are to comply to measures for stipulated in this <a href="/images/Advisory - MO Sector (final 1 June 2020).pdf" target="_blank">document</a> [last updated on 27 Jun 20].
 
-You should also comply to the COVID-Safe restart criteria for shipyards, resident contractors and common contractors (M&O) <a href="/images/Criteria - Shipyards (final 1 June 2020).pdf" target="_blank">here</a> [last updated on 27 Jun 20].
+You should also comply to the COVID-Safe restart criteria for shipyards, resident contractors and common contractors (M&O) <a href="https://covid.gobusiness.gov.sg/guides/MORestartCriteria.pdf" target="_blank">here</a> [last updated on 2 Oct 20].
 
-Enterprises in the M&O sector are to comply to measures stipulated in this <a href="https://go.gov.sg/marineadvisory" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.  
+Enterprises in the M&O sector are to comply to measures stipulated in this <a href="https://go.gov.sg/marineadvisory" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.
+
+Enterprises in the M&O sector are to comply to measures relating to Rostered Routine Testing stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/AdvisoryRRTfornonMO.pdf" target="_blank">document</a> [last updated 2 Oct 20].
 
 #### **Massage Establishments**
 
