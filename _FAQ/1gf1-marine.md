@@ -81,9 +81,9 @@ All companies can apply for Swab Registration System (SRS) company account creat
 
 All companies are to submit their Manpower Declaration in <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">GoBusiness</a> indicating employee details and their respective work premises. 
 
-For companies in the Marine Shipyard sector, employees working on the shipyards’ production site and shipyard contractors’ external production site e.g. workshop, are to be captured under **“Production site”** premises while employees working from home or at non-production site e.g. back office, are to be captured under **“Other sites”**.
+For companies in the Marine Shipyard sector, employees working on the shipyards’ production site and shipyard contractors’ external production site e.g. workshop, are to be captured under **“Production site”** premises while employees working from home or at non-production site e.g. back office, are to be captured under **“Non Production Sites”**.
 
-For companies in non-Marine Shipyard sectors, only employees deployed to the <ins>shipyard’s production site</ins> are to be captured under **“Production site”** premises. All other employees deployed to other premises e.g. office, other industry sites, are to be captured under **“Other sites”**.  This is to facilitate registration and access to RRT for employees deployed to shipyard’s production site. 
+For companies in non-Marine Shipyard sectors, only employees deployed to the <ins>shipyard’s production site</ins> are to be captured under **“Production site”** premises. All other employees deployed to other premises e.g. office, other industry sites, are to be captured under **“Non Production Sites”**.  This is to facilitate registration and access to RRT for employees deployed to shipyard’s production site. 
 
 Please ensure that details are valid and kept up to date.
 
@@ -91,10 +91,10 @@ Please ensure that details are valid and kept up to date.
 Please contact <a href = "mailto: COVID_GoBusiness@mti.gov.sg">COVID_GoBusiness@mti.gov.sg</a>.
 
 #### **6. What is considered a “Production site” premise?**
-Production site includes shipyards’ production areas (e.g. dry dock, onboard vessels in shipyards, fabrication workshops), resident and common contractors’ workshops. “Other sites” include back office, supporting sectors’ (e.g. manufacturing) workshop.
+Production site includes shipyards’ production areas (e.g. dry dock, onboard vessels in shipyards, fabrication workshops), resident and common contractors’ workshops. “Non Production Sites” include back office, supporting sectors’ (e.g. manufacturing) workshop.
 
 #### **7. What should companies from supporting sectors do after they have completed their jobs and are no longer working at the shipyard’s production site?**
-Companies are required to update their employees’ work premises to **“Other sites”** via the Manpower Declaration in <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">GoBusiness</a>. Companies need not register them for subsequent swab appointments in SRS if they are no longer required to work at shipyard’s production site.
+Companies are required to update their employees’ work premises to **“Non Production Sites”** via the Manpower Declaration in <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">GoBusiness</a>. Companies need not register them for subsequent swab appointments in SRS if they are no longer required to work at shipyard’s production site.
 
 #### **8. What should companies from supporting sectors do if their employees will only be working at the shipyard’s production site for a few days (less than 15 days out of 30 consecutive days)?**
 Companies need not register these employees for swab appointments in SRS. However, they are to remind employees to adhere to safe distancing measures and avoid interaction with shipyard-based personnel except for safety checks and worksite inspection.
