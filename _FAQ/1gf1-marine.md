@@ -37,7 +37,7 @@ Note that Resident Contractors are to work through their Sponsoring Shipyard to 
 #### **1. Where can I find resources to help me implement SafeEntry at my worksite?**
 On the deployment of SafeEntry, companies can refer to the SafeEntry website <a href="https://www.safeentry.gov.sg/" target="_blank">here</a> for a full step-by-step guide and resources (including posters that can be displayed at scanning stations). FAQs and additional technical support are available <a href="https://support.safeentry.gov.sg/hc/en-us" target="_blank">here</a>. 
 
-SafeEntry with checks specifically for the Construction, Marine & Offshore and Process (CMP) sectors is available to ensure that your entry checks incorporate sector-specific requirements such as the fulfilment of regular swabbing requirements, and use of TraceTogether. To install SafeEntry with checks specifically for the CMP sectors, please refer to this user guide <a href="https://www.safeentry.gov.sg/downloads/SafeEntry-NRIC-for-Construction-Sites-v1.0.10.2.pdf" target="_blank">here/a>.
+SafeEntry with checks specifically for the Construction, Marine & Offshore and Process (CMP) sectors is available to ensure that your entry checks incorporate sector-specific requirements such as the fulfilment of regular swabbing requirements, and use of TraceTogether. To install SafeEntry with checks specifically for the CMP sectors, please refer to this user guide <a href="https://www.safeentry.gov.sg/downloads/SafeEntry-NRIC-for-Construction-Sites-v1.0.10.2.pdf" target="_blank">here</a>.
 
 For access code related queries, companies can contact MOM <a href="https://service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx" target="_blank">here</a>.
 
