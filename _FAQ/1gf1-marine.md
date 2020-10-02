@@ -32,24 +32,12 @@ Companies seeking to resume operations are to submit a General Exemption applica
 
 Note that Resident Contractors are to work through their Sponsoring Shipyard to seek approval from EDB/ESG to resume operations or increase manning levels.
 
-#### **2. If I have yet to receive any notification from EDB/ESG after the first week of June, when can I expect to be able to resume operations?**
-The reopening of the M&O sector will need to be graduated to prevent the resurgence of COVID-19. M&O companies currently without General Exemption can apply to resume operations from 1 July 2020 via <a href="https://covid.gobusiness.gov.sg" target="_blank">MTI's GoBusiness portal</a>. At the point of filing for the General Exemption, companies will need to furnish details of the workers for whom they are seeking approval to return on-site. Where it involves foreign workers staying in dormitories, companies must verify that their workers are living in dormitories with COVID-19 free status and have COVID-19 free health status. Employers should refer to press releases from MOM regarding the status of dormitories, and also communicate with their workers to verify their health status. 
-
-Shipyards, Resident Contractors and Common Contractors will also need to submit their Safe Management Plans in accordance with the Marine & Offshore COVID-Safe Restart Criteria as part of your General Exemption application.
-
-#### **3. If I already have a General Exemption to operate under the Circuit Breaker and wish to increase manning levels, what should I do?**
-Any increase in manning levels will require EDB/ESG’s approval. Requests for increase in manning levels can be made via <a href="https://covid.gobusiness.gov.sg" target="_blank">MTI's GoBusiness portal</a> from 1 July 2020. At the point of filing for the General Exemption, companies will need to furnish details of the workers for whom they are seeking approval to return on-site. Where it involves foreign workers staying in dormitories, companies must verify that their workers are living in dormitories with COVID-19 free status and have COVID-19 free health status. Employers should refer to press releases from MOM regarding the status of dormitories, and also communicate with their workers to verify their health status.
-
-#### **4. I am contracted by a Shipyard for certain jobs. How do I know if the Shipyard I am working at can resume works or increase manning and what is the application process I should undertake?**
-Contractors will be notified by their respective Shipyards if their works are approved by EDB/ESG for resumption in the first phase. Shipyards would be required to collate the relevant on-site workers information from their contractors and submit these in one application to EDB/ESG.
-
-
 ## **COVID-Safe Worksite**
 
 #### **1. Where can I find resources to help me implement SafeEntry at my worksite?**
 On the deployment of SafeEntry, companies can refer to the SafeEntry website <a href="https://www.safeentry.gov.sg/" target="_blank">here</a> for a full step-by-step guide and resources (including posters that can be displayed at scanning stations). FAQs and additional technical support are available <a href="https://support.safeentry.gov.sg/hc/en-us" target="_blank">here</a>. 
 
-SafeEntry with checks specifically for the Construction, Marine & Offshore and Process sectors is available to ensure that your entry checks incorporate sector-specific requirements such as the fulfillment of regular swabbing requirements, and use of TraceTogether. To install SafeEntry with checks specifically for the CMP sectors, please refer to this <a href="https://go.gov.sg/safeentry-construction-sites-guide" target="_blank">user guide</a>.
+SafeEntry with checks specifically for the Construction, Marine & Offshore and Process (CMP) sectors is available to ensure that your entry checks incorporate sector-specific requirements such as the fulfilment of regular swabbing requirements, and use of TraceTogether. To install SafeEntry with checks specifically for the CMP sectors, please refer to this user guide <a href="https://www.safeentry.gov.sg/downloads/SafeEntry-NRIC-for-Construction-Sites-v1.0.10.2.pdf" target="_blank">here/a>.
 
 For access code related queries, companies can contact MOM <a href="https://service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx" target="_blank">here</a>.
 
@@ -70,7 +58,6 @@ Yes, a physical barrier or clear demarcation is to be implemented for each sub-s
 
 #### **7. Are multiple accommodations allowed?**
 It is possible for workers of a worksite to be housed at one or more accommodations. All on-site accommodations at shipyards are required to be dedicated to the worksite.
-
 
 ## **COVID-Safe Workforce**
 
