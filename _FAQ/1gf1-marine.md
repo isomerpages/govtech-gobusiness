@@ -4,64 +4,40 @@ permalink: /faq/sectorspecific/marine
 third_nav_title: For Sector-Specific Queries
 ---
 
+## **<ins>General</ins>**
+
 #### **1. How do I know if I am classified as a Marine & Offshore (M&O) company and if the following FAQs apply to me?**
-These FAQs apply to companies in the M&O sector. It covers Shipyards, Resident Contractors and Common Contractors as per the Ministry of Manpower’s (MOM)’s Marine Shipyard sector definition, and other companies under Singapore Standard Industrial Classification (SSIC) codes 28112, 28241, 30110, 30120.
+This set of FAQs apply to companies in the M&O sector. It covers Shipyards, Resident Contractors and Common Contractors as per the Ministry of Manpower’s (MOM)’s Marine Shipyard sector definition, and other companies under Singapore Standard Industrial Classification (SSIC) codes 28112, 28241, 30110, 30120.
 
-#### **2. For M&O companies that are currently operating during the Circuit Breaker, what is the difference after 1 June 2020?**
-M&O companies that are currently operating under Circuit Breaker to provide essential ship repair and maintenance activities are allowed to continue without approval from Economic Development Board (EDB) and Enterprise Singapore (ESG), subject to earlier approved manning levels. Any increase in manning levels will require EDB/ESG’s approval. Refer to Table 1 of the Advisory for a Safe and Controlled Restart of the Marine & Offshore Sector from 2 June 2020.
+#### **2. Which companies are required to comply with the Marine & Offshore COVID-Safe Restart Criteria?**
+The Marine & Offshore COVID-Safe Restart Criteria will apply to all Shipyards (both sponsoring and non-sponsoring), Resident Contractors as well as Common Contractors, as per the Ministry of Manpower’s (MOM’s) definition of the Marine Shipyard Sector. 
 
-Shipyards and Common Contractors which are currently allowed to operate must submit their Safe Management Plans demonstrating compliance with the Marine & Offshore COVID-Safe Restart Criteria, under the <a href="https://go.gov.sg/additionalinfo" target="_blank">Application for Amendment</a> function by 22 June 2020. Failure to do so by the stipulated date can result in a rescindment of your General Exemption.
-
-#### **3. What should I take note of when submitting the supplemental documentation for Earlier Permitted Activities by 22 June 2020?**
-Shipyards are required to submit their Safe Management Plans in compliance with the Marine & Offshore COVID-Safe Restart Criteria, including those of their resident contractors and common contractors needed to carry out on-site activities at the shipyards. Resident contractors are not required to make an independent submission, and should submit the relevant information together with their Sponsoring Shipyards. Shipyards’ plans should indicate what measures are taken to ensure that vessel owner representatives and other short-term visitors do not have direct interaction with other workers on the production sites.
-
-Common contractors will need to make an independent submission for their Safe Management Plans in compliance with the Marine & Offshore COVID-Safe Restart Criteria.
-
-The Safe Management Plans should include:
-- A checklist declaration of whether the company will be able to meet the criteria listed in the Marine & Offshore Safe Restart Criteria, endorsed by the company’s management.
-- Supporting documents only for specific criteria that state under the **“What companies must show when requested”** column in the Marine & Offshore COVID-Safe Restart Criteria for companies to “Provide [documentation]…” (e.g. Provide monitoring plan for ensuring compliance with Safe Management Measures). 
-
-
-#### **4. Which companies are required to comply with the Marine & Offshore COVID-Safe Restart Criteria?**
-The Marine & Offshore COVID-Safe Restart Criteria will apply to all Shipyards (both sponsoring and non-sponsoring), Resident Contractors as well as Common Contractors.
-
-#### **5. If I am not a Shipyard, Resident Contractor or Common Contractor, do I need to comply with the Marine & Offshore COVID-Safe Restart Criteria?**
+#### **3. If I am not a Shipyard, Resident Contractor or Common Contractor, do I need to comply with the Marine & Offshore COVID-Safe Restart Criteria?**
 The Marine & Offshore COVID-Safe Restart Criteria only apply to Shipyards (both sponsoring and non-sponsoring), Resident Contractors as well as Common Contractors. Other companies are required to comply with MOM’s prevailing advisories.
 
-#### **6. How will checks be done to ensure that companies are complying with COVID-Safe Restart Criteria?**
-MOM will implement an Audit and Inspection regime to conduct checks and to ensure compliance on site based on relevant safe management measures.
+#### **4. How will checks be done to ensure that companies are complying with COVID-Safe Restart Criteria?**
+MOM will implement an Audit and Inspection regime to conduct checks and to ensure compliance on site based on relevant safe management measures. 
 
-Penalties will be imposed on firms which have contravened the Marine & Offshore COVID-Safe Restart Criteria or MOM’s Safe Management Measures, whichever relevant. In addition, firms will be required to resubmit their rectification plans, where applicable, and implement these measures as part of the follow ups to the enforcement actions taken.
+Penalties will be imposed on firms which have contravened the <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">Marine & Offshore COVID-Safe Restart Criteria or MOM’s Safe Management Measures</a>, whichever relevant. In addition, firms will be required to resubmit their rectification plans, where applicable, and implement these measures as part of the follow ups to the enforcement actions taken.
 
-#### **7. What happens if a project is found to have a worker infected with COVID-19 after works have resumed?**
-Shipyards and contractors should immediately vacate and cordon-off the immediate section of the workplace premises where the confirmed case worked. There is no need to vacate the whole yard or building if there is no sustained and close contact with the confirmed case. Subsequently, carry out a thorough cleaning and disinfect all relevant on-site areas and assets exposed to confirmed cases, in accordance with the National Environment Agency’s (NEA’s) guidelines. Please refer to the <a href="/safemanagement/sector/">Marine & Offshore COVID-Safe Restart criteria</a> for further guidance on the handling of suspected and/or confirmed cases. 
+#### **5. What happens if a project or worksite is found to have a worker infected with COVID-19 after works have resumed?**
+Shipyards and contractors should immediately vacate and cordon-off the immediate section of the workplace premises where the confirmed case worked. There is no need to vacate the whole yard or building if there is no sustained and close contact with the confirmed case. Subsequently, carry out a thorough cleaning and disinfect all relevant on-site areas and assets exposed to confirmed cases, in accordance with the National Environment Agency’s (NEA’s) guidelines. Please refer to the <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">Marine & Offshore COVID-Safe Restart criteria</a> for further guidance on the handling of suspected and/or confirmed cases.
 
 The whole team that the infected worker is from will have to be isolated and tested; works on site may be suspended.
 
-
 ## **Application to Resume M&O Works**
 
-#### **1. How do I know if I can resume operations or increase manning after 1 June 2020?**
-For companies that are allowed to resume works in the first phase of reopening, EDB/ESG will notify them of the application process within the week of 1 June 2020. Companies that have not received any notification from EDB/ESG by then should expect to resume work at a later date. This is necessary to ensure a gradual resumption of activities and a gradual increase of workforce movement to prevent the resurgence of COVID-19.
+#### **1. For M&O companies that are seeking to resume operations or increase manning levels, how should they go about it?**
+Companies seeking to resume operations are to submit a General Exemption application via MTI’s GoBusiness portal <a href="https://covid.gobusiness.gov.sg/" target="_blank">here</a>. For companies with existing General Exemption and who wishes to increase their manning levels, they are to submit their request via the “Application for Additional Manpower” function. Please download (<a href="https://go.gov.sg/declaredeployfwindorm" target="_blank">https://go.gov.sg/declaredeployfwindorm</a>) and complete the safe management measures declaration and foreign worker deployment details to be attached in the application. 
 
-#### **2. If I have yet to receive any notification from EDB/ESG after the first week of June, when can I expect to be able to resume operations?**
-The reopening of the M&O sector will need to be graduated to prevent the resurgence of COVID-19. M&O companies currently without General Exemption can apply to resume operations from 1 July 2020 via <a href="https://covid.gobusiness.gov.sg" target="_blank">MTI's GoBusiness portal</a>. At the point of filing for the General Exemption, companies will need to furnish details of the workers for whom they are seeking approval to return on-site. Where it involves foreign workers staying in dormitories, companies must verify that their workers are living in dormitories with COVID-19 free status and have COVID-19 free health status. Employers should refer to press releases from MOM regarding the status of dormitories, and also communicate with their workers to verify their health status. 
-
-Shipyards, Resident Contractors and Common Contractors will also need to submit their Safe Management Plans in accordance with the Marine & Offshore COVID-Safe Restart Criteria as part of your General Exemption application.
-
-#### **3. If I already have a General Exemption to operate under the Circuit Breaker and wish to increase manning levels, what should I do?**
-Any increase in manning levels will require EDB/ESG’s approval. Requests for increase in manning levels can be made via <a href="https://covid.gobusiness.gov.sg" target="_blank">MTI's GoBusiness portal</a> from 1 July 2020. At the point of filing for the General Exemption, companies will need to furnish details of the workers for whom they are seeking approval to return on-site. Where it involves foreign workers staying in dormitories, companies must verify that their workers are living in dormitories with COVID-19 free status and have COVID-19 free health status. Employers should refer to press releases from MOM regarding the status of dormitories, and also communicate with their workers to verify their health status.
-
-#### **4. I am contracted by a Shipyard for certain jobs. How do I know if the Shipyard I am working at can resume works or increase manning and what is the application process I should undertake?**
-Contractors will be notified by their respective Shipyards if their works are approved by EDB/ESG for resumption in the first phase. Shipyards would be required to collate the relevant on-site workers information from their contractors and submit these in one application to EDB/ESG.
-
+Note that Resident Contractors are to work through their Sponsoring Shipyard to seek approval from EDB/ESG to resume operations or increase manning levels.
 
 ## **COVID-Safe Worksite**
 
 #### **1. Where can I find resources to help me implement SafeEntry at my worksite?**
 On the deployment of SafeEntry, companies can refer to the SafeEntry website <a href="https://www.safeentry.gov.sg/" target="_blank">here</a> for a full step-by-step guide and resources (including posters that can be displayed at scanning stations). FAQs and additional technical support are available <a href="https://support.safeentry.gov.sg/hc/en-us" target="_blank">here</a>. 
 
-SafeEntry with checks specifically for the Construction, Marine & Offshore and Process sectors is available to ensure that your entry checks incorporate sector-specific requirements such as the fulfillment of regular swabbing requirements, and use of TraceTogether. To install SafeEntry with checks specifically for the CMP sectors, please refer to this <a href="https://go.gov.sg/safeentry-construction-sites-guide" target="_blank">user guide</a>.
+SafeEntry with checks specifically for the Construction, Marine & Offshore and Process (CMP) sectors is available to ensure that your entry checks incorporate sector-specific requirements such as the fulfilment of regular swabbing requirements, and use of TraceTogether. To install SafeEntry with checks specifically for the CMP sectors, please refer to this user guide <a href="https://www.safeentry.gov.sg/downloads/SafeEntry-NRIC-for-Construction-Sites-v1.0.10.2.pdf" target="_blank">here</a>.
 
 For access code related queries, companies can contact MOM <a href="https://service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx" target="_blank">here</a>.
 
@@ -83,34 +59,56 @@ Yes, a physical barrier or clear demarcation is to be implemented for each sub-s
 #### **7. Are multiple accommodations allowed?**
 It is possible for workers of a worksite to be housed at one or more accommodations. All on-site accommodations at shipyards are required to be dedicated to the worksite.
 
-
 ## **COVID-Safe Workforce**
 
 #### **1. Who would need to be regularly swab tested?**
-The following groups of employees are required to undergo regular swab tests:
-- Those who work on the shipyards’ production site; and 
-- Those who work in shipyard contractors’ external production site e.g. workshop; and 
-- Those who stay in purpose-built dormitories, factory-converted dormitories, construction temporary quarters or temporary occupation license quarters 
+All Shipyards’, Resident Contractors’ and Common Contractors’ employees are required to undergo regular swab tests (or Rostered Routine Testing) every 14 days, with the exception of non-dormitory workers who work in non-production sites or work from home.
 
-The above is applicable for Singaporeans, Singaporean Permanent Residents, Work Permit Holders, S Pass Holders and Employment Pass Holders. 
+Dormitories include purpose-built dormitories, factory-converted dormitories, construction temporary quarters, temporary occupation licence quarters, temporary living quarters and government decant sites.
 
-EDB/ESG will inform relevant companies on the swab test arrangements. If any workers who are working are found to have missed regular testing, EDB/ESG reserves the right to withdraw any approval for resumption of works.
+To ensure that the risks of COVID-19 transmission at shipyard premises continue to be well mitigated, personnel from non-Marine Shipyard sector who are required to work at the shipyards’ production sites for **15 or more days out of 30 consecutive days**, will need to undergo RRT. Companies should ensure that affected employees have undergone RRT by **19 October 2020**. The 15 or more days which a personnel is working in the shipyard’s production sites need not be consecutive.
 
-#### **2. If my office finance and administrative staff do not go to production site or come into contact with production site workers, do they have to be regularly swab tested?**
-No. Only those that are working on production site and in contact with production site workers will have to be regularly swab tested.
+This is applicable for Singaporeans, Singaporean Permanent Residences, Work Permit Holders, S Pass Holders and Employment Pass Holders.
 
-#### **3. Can employers make their own private arrangements for their employees to be tested?**
-Companies should not approach laboratories/hospitals to set up a private arrangement for these tests. Relevant companies will be contacted by EDB/ESG to arrange for their employees and contractors to be tested.
+#### **2. If my office finance and administrative staff do not go to production site or come into contact with production site workers, do they have to be regularly swab tested? They do not reside in dormitories.**
+Non-dormitory workers who work in non-production sites or work from home do not need to be regularly swab tested.
 
-#### **4. What is the situation around foreign workers dormitories? When can my workers leave the dormitory for work?**
-Companies may refer to MOM’s website for updated information on dormitory clearance <a href="https://www.mom.gov.sg/covid-19/cleared-dormitories" target="_blank">here</a> and MOM’s advisory to employers on safe living in foreign worker dormitories <a href="https://www.mom.gov.sg/covid-19/advisory-to-employers-on-safe-living-for-foreign-worker-dormitories" target="_blank">here</a>.
+#### **3. Are client/owner representatives who frequent the shipyards’ production sites required to undergo RRT?**
+Yes. Personnel who are required to work at the shipyards’ production sites for 15 or more days out of 30 consecutive days are required to undergo regular swab testing. Companies should ensure that affected employees have undergone RRT by **19 October 2020**.
 
-#### **5. What is the arrangement for foreign workers currently staying outside the dormitories? E.g. hotels, govt. decanted sites or other private residences.**
-As the resumption of M&O works will be phased out from 2 June 2020, only those deployed for critical maintenance/repair activities under Earlier Permitted Activities by MTI will continue to be able to work until EDB/ESG’s approval has been obtained for other works to resume.
+#### **4. How can companies register for swab testing for eligible employees?**
+All companies can apply for Swab Registration System (SRS) company account creation via <a href="https://form.gov.sg/5f33ac4aef830b0012597673" target="_blank">link</a>. They will receive a follow-up email from <a href = "mailto: swab@edb.gov.sg">swab@edb.gov.sg</a> on SRS onboarding and instructions within 5 days. Companies in the non-Marine Shipyard sectors are to indicate the Shipyard’s company name where their workers will be working at. 
 
-#### **6. Do I have to segregate my workers at their accommodation according to their projects and teams?**
-Yes. Companies must work with dormitory operators to segregate workers according to their worksites and teams so as to avoid inter-mixing.
+All companies are to submit their Manpower Declaration in <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">GoBusiness</a> indicating employee details and their respective work premises. 
 
+For companies in the Marine Shipyard sector, employees working on the shipyards’ production site and shipyard contractors’ external production site e.g. workshop, are to be captured under **“Production site”** premises while employees working from home or at non-production site e.g. back office, are to be captured under **“Non Production Sites”**.
+
+For companies in non-Marine Shipyard sectors, only employees deployed to the <ins>shipyard’s production site</ins> are to be captured under **“Production site”** premises. All other employees deployed to other premises e.g. office, other industry sites, are to be captured under **“Non Production Sites”**.  This is to facilitate registration and access to RRT for employees deployed to shipyard’s production site. 
+
+Please ensure that details are valid and kept up to date.
+
+#### **5. I am unable to key in the specific work premises of my employees in the GoBusiness portal. Who should I approach?**
+Please contact <a href = "mailto: COVID_GoBusiness@mti.gov.sg">COVID_GoBusiness@mti.gov.sg</a>.
+
+#### **6. What is considered a “Production site” premise?**
+Production site includes shipyards’ production areas (e.g. dry dock, onboard vessels in shipyards, fabrication workshops), resident and common contractors’ workshops. “Non Production Sites” include back office, supporting sectors’ (e.g. manufacturing) workshop.
+
+#### **7. What should companies from supporting sectors do after they have completed their jobs and are no longer working at the shipyard’s production site?**
+Companies are required to update their employees’ work premises to **“Non Production Sites”** via the Manpower Declaration in <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">GoBusiness</a>. Companies need not register them for subsequent swab appointments in SRS if they are no longer required to work at shipyard’s production site.
+
+#### **8. What should companies from supporting sectors do if their employees will only be working at the shipyard’s production site for a few days (less than 15 days out of 30 consecutive days)?**
+Companies need not register these employees for swab appointments in SRS. However, they are to remind employees to adhere to safe distancing measures and avoid interaction with shipyard-based personnel except for safety checks and worksite inspection.
+
+#### **9. Are ship crew required to undergo RRT? They are based onboard the vessel which is berthed/docked at our shipyard for repair works.**
+Ship crew are to refer to MPA’s Port Marine Circular for the latest guidelines such as signing-on/off SHN and COVID-19 PCR test requirements.
+
+#### **10. When should the last swab test be taken before personnel is allowed to enter shipyards’ production premises?**
+The personnel should have taken their swab test and tested negative within the last 14 days.
+
+## **COVID-Safe Accommodation and Transport**
+
+#### **1. Do I have to segregate my workers at their accommodation according to their projects and teams?**
+Yes. Companies must work with dormitory operators to segregate workers according to their worksites and teams so as to avoid inter-mixing. For workers residing in FEDA-licensed dormitories, employers and dormitory operators are to work together to cohort these workers in compliance with BCA/EDB’s requirements <a href="https://go.gov.sg/bca-circular-cohorting-exercise" target="_blank">here</a>. 
 
 ## **Staggered Rest Day**
 
