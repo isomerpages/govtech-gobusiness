@@ -25,21 +25,12 @@ Shipyards and contractors should immediately vacate and cordon-off the immediate
 
 The whole team that the infected worker is from will have to be isolated and tested; works on site may be suspended.
 
-#### **6. How will checks be done to ensure that companies are complying with COVID-Safe Restart Criteria?**
-MOM will implement an Audit and Inspection regime to conduct checks and to ensure compliance on site based on relevant safe management measures.
-
-Penalties will be imposed on firms which have contravened the Marine & Offshore COVID-Safe Restart Criteria or MOM’s Safe Management Measures, whichever relevant. In addition, firms will be required to resubmit their rectification plans, where applicable, and implement these measures as part of the follow ups to the enforcement actions taken.
-
-#### **7. What happens if a project is found to have a worker infected with COVID-19 after works have resumed?**
-Shipyards and contractors should immediately vacate and cordon-off the immediate section of the workplace premises where the confirmed case worked. There is no need to vacate the whole yard or building if there is no sustained and close contact with the confirmed case. Subsequently, carry out a thorough cleaning and disinfect all relevant on-site areas and assets exposed to confirmed cases, in accordance with the National Environment Agency’s (NEA’s) guidelines. Please refer to the <a href="/safemanagement/sector/">Marine & Offshore COVID-Safe Restart criteria</a> for further guidance on the handling of suspected and/or confirmed cases. 
-
-The whole team that the infected worker is from will have to be isolated and tested; works on site may be suspended.
-
-
 ## **Application to Resume M&O Works**
 
-#### **1. How do I know if I can resume operations or increase manning after 1 June 2020?**
-For companies that are allowed to resume works in the first phase of reopening, EDB/ESG will notify them of the application process within the week of 1 June 2020. Companies that have not received any notification from EDB/ESG by then should expect to resume work at a later date. This is necessary to ensure a gradual resumption of activities and a gradual increase of workforce movement to prevent the resurgence of COVID-19.
+#### **1. For M&O companies that are seeking to resume operations or increase manning levels, how should they go about it?**
+Companies seeking to resume operations are to submit a General Exemption application via MTI’s GoBusiness portal <a href="https://covid.gobusiness.gov.sg/" target="_blank">here</a>. For companies with existing General Exemption and who wishes to increase their manning levels, they are to submit their request via the “Application for Additional Manpower” function. Please download (<a href="https://go.gov.sg/declaredeployfwindorm" target="_blank">https://go.gov.sg/declaredeployfwindorm</a>) and complete the safe management measures declaration and foreign worker deployment details to be attached in the application. 
+
+Note that Resident Contractors are to work through their Sponsoring Shipyard to seek approval from EDB/ESG to resume operations or increase manning levels.
 
 #### **2. If I have yet to receive any notification from EDB/ESG after the first week of June, when can I expect to be able to resume operations?**
 The reopening of the M&O sector will need to be graduated to prevent the resurgence of COVID-19. M&O companies currently without General Exemption can apply to resume operations from 1 July 2020 via <a href="https://covid.gobusiness.gov.sg" target="_blank">MTI's GoBusiness portal</a>. At the point of filing for the General Exemption, companies will need to furnish details of the workers for whom they are seeking approval to return on-site. Where it involves foreign workers staying in dormitories, companies must verify that their workers are living in dormitories with COVID-19 free status and have COVID-19 free health status. Employers should refer to press releases from MOM regarding the status of dormitories, and also communicate with their workers to verify their health status. 
