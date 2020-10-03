@@ -80,9 +80,7 @@ All landscape-related services and nurseries will resume, subject to safe manage
 
 #### **Marriage Solemnisations and Receptions**
 
-Marriage solemnisations and wedding receptions are required to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/Weddings1_28Sep.pdf" target="_blank">document</a>, In effect until 2 Oct 2020 (inclusive) [last updated 28 Sep 20], depending on venue.
-
-With effect from 3 Oct 2020 (inclusive), marriage solemnisations and wedding receptions will be expected to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/Weddings2_28Sep.pdf" target="_blank">document</a> [Last updated 28 Sep 20], depending on venue.
+With effect from 3 Oct 2020 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/Weddings2_3Oct.pdf" target="_blank">document</a> [Last updated 3 Oct 20], depending on venue.
 
 #### **Marine & Offshore (M&O) Sector**
 
@@ -130,7 +128,7 @@ You can also refer to the Singapore Police Force <a href = "https://www.police.g
 
 #### **Religious Organisations**
 
-Religious organisations are to comply to measures stipulated in this <a href="https://go.gov.sg/mccyroadvisory" target="_blank">document</a> [last updated on 18 Aug 20]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/aug/resumption-of-more-religious-activities-in-phase-two" target="_blank">website</a>.
+Religious organisations are to comply to measures stipulated in this <a href="https://go.gov.sg/mccyroadvisory" target="_blank">document</a> [last updated on 30 Sep 20]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/sep/resumption-of-more-religious-activities-in-phase-two" target="_blank">website</a>.
 
 For more information and FAQs on COVID-19 for the religious sector, please visit <a href = "www.cpro.gov.sg" target="_blank">www.cpro.gov.sg</a> or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at <a href = "mailto: cpro@mccy.gov.sg">cpro@mccy.gov.sg</a>. 
 

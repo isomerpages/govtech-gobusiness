@@ -79,7 +79,7 @@ Yes. Personnel who are required to work at the shipyards’ production sites for
 #### **4. How can companies register for swab testing for eligible employees?**
 All companies can apply for Swab Registration System (SRS) company account creation via <a href="https://form.gov.sg/5f33ac4aef830b0012597673" target="_blank">link</a>. They will receive a follow-up email from <a href = "mailto: swab@edb.gov.sg">swab@edb.gov.sg</a> on SRS onboarding and instructions within 5 days. Companies in the non-Marine Shipyard sectors are to indicate the Shipyard’s company name where their workers will be working at. 
 
-All companies are to submit their Manpower Declaration in <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">GoBusiness</a> indicating employee details and their respective work premises. 
+All companies are to submit their Manpower Declaration in <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">GoBusiness</a> indicating employee details and their respective work premises. Companies will receive an email informing them of the expected timeline from which they can start submitting their manpower declaration.
 
 For companies in the Marine Shipyard sector, employees working on the shipyards’ production site and shipyard contractors’ external production site e.g. workshop, are to be captured under **“Production site”** premises while employees working from home or at non-production site e.g. back office, are to be captured under **“Non Production Sites”**.
 
