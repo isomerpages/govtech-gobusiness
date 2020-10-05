@@ -23,7 +23,7 @@ Meals are to be left at the door only for rooms occupied by Persons on Stay-Home
 #### **5. Can Hotels resume operations for event venues?**
 Yes, Hotels may resume operations for event venues subject to national Safe Management Guidelines. This includes a capacity of no more than five persons for gatherings, excluding hotel staff per event (no multiple groups allowed).
 
-Marriage Solemnizations in Hotel venues are limited to 50 persons excluding Solemnizers, vendors and premises staff (to be kept to minimum required).
+Marriage Solemnizations in Hotel venues are limited to 100 persons excluding Solemnizers, vendors and premises staff (to be kept to minimum required).
 
 Classes organised by a permitted enterprise providing an education service, such as training and professional development, are limited to 50 persons including the trainer, and excluding hotel staff and must adhere to mandatory SMMs.
 
