@@ -24,6 +24,9 @@ sections:
 #        - title: Application for Additional Manpower
 #          url: https://go.gov.sg/additionalmanpower
 #          description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br>Click Here
+#        - title: Business Transition Support
+#          url: /permittedlist/
+#          description: </br></br>For transition assistance for Pubs, Clubs, Discos, Nightclubs and Karaoke establishments.</br></br></br></br></br></br>Click Here
         - title: Permitted Services
           url: /permittedlist/
           description: </br></br>List of permitted services allowed to resume operations under Phases One and Two.</br></br></br></br></br></br>Click Here
