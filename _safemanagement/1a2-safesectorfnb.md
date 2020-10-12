@@ -33,7 +33,7 @@ For the latest updates from BCA, companies can visit BCA’s COVID-19 <a href="h
 
 #### **Cinemas**
 
-Cinema operators are to comply to measures stipulated in this <a href="https://go.gov.sg/cinemasadvisory" target="_blank">document</a> [last updated on 3 Jul 20]. You can also refer to the Infocomm Media Development Authority <a href="https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Advisories-on-COVID-19-Situation" target="_blank">website</a>.
+Cinema operators are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/cinemasadvisory2.pdf" target="_blank">document</a> [last updated on 9 Oct 20]. You can also refer to the Infocomm Media Development Authority <a href="https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Advisories-on-COVID-19-Situation" target="_blank">website</a>.
 
 #### **Country and Recreation Clubs**
 
