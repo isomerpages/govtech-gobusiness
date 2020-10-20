@@ -10,7 +10,7 @@ Yes. The guide for declaration/submission of manpower details can be found <a hr
 #### **2. How do I know if I need to declare/submit my manpower details?**
 All businesses that are allowed to resume operations, or have received an approval for their General Exemption application, are required to do so.
 
-You can refer to the full list of permitted services allowed to resume operations <a href="https://covid.gobusiness.gov.sg/Permittedservices20Oct.pdf" target="_blank">here</a>.
+You can refer to the full list of permitted services allowed to resume operations <a href="https://covid.gobusiness.gov.sg/guides/Permittedservices20Oct.pdf" target="_blank">here</a>.
 
 #### **3. I am unable to declare/submit my manpower details. What should I do?**
 If the status of your general exemption or business resumption is not reflected as “approved” or “permitted”, you will be unable to declare your manpower details. If you require assistance, please write to MTI at <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>
