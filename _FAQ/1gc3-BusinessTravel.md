@@ -38,7 +38,7 @@ third_nav_title: For Sector-Specific Queries
 - This is critical as public health remains our number one priority as we explore new ways to resume business travel to aid in our economic recovery.
 
 #### **4. Why are we allowing travellers to come into Singapore without serving SHN?**
-- Travellers on the pilot will be screened beforehand and have to take a pre-departure PCR test.
+- Travellers on the pilot will be screened beforehand.
 
         - They are also required to comply with stringent public health requirements and additional safeguards. For instance, they are required to submit a controlled itinerary before leaving Singapore and adhere strictly to this itinerary abroad. 
 
