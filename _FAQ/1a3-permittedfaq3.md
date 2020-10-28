@@ -55,7 +55,7 @@ You will need to adhere to Safe Management Measures while working in the office.
 Functions that can be done through email, telephone or videoconferencing should be conducted remotely. Employers should review work processes, provide the necessary IT equipment to employees and adopt solutions that enable remote working and online collaboration.
 
 #### **11. Is there a limit on the number of attendees in a physical meeting?**
-Physical meetings are regarded as work-related events and are allowed to proceed with a cap of 50 physical attendees. They will also be subject to other Safe Management Measures being put in place, such as clear physical spacing of at least 1 metre between all individuals during the meeting and wearing of masks.
+Physical meetings are regarded as work-related events and are allowed to proceed with a cap of 50 physical attendees.  They will also be subject to other Safe Management Measures being put in place, depending on the specific premises where the event is being held.
 
 #### **12. Can I have a meal with my colleagues at F&B outlets?**
 You may socialise with colleagues in the same shift, team or worksite, in groups within and outside of the workplace, subject to prevailing community social gathering rules and group size limits. Safe distancing of at least 1 metre should be maintained between groups at all times.
@@ -71,4 +71,4 @@ These facilities will also be subject to stricter safe management measures (e.g.
 When visiting such facilities, employees will still have to comply with the relevant safe management measures put in place for that setting.
 
 #### **15. Can I hold work-related events outside of my workplace premises?**
-No. Companies are currently only allowed to hold work-related events within the company’s workplace premises. This refers to places where the organiser ordinarily carries out its activities/ businesses.
+Yes, work-related events will be allowed to resume at third-party venues, subject to any additional premises owners’ safe management policies.
