@@ -105,6 +105,9 @@ Ship crew are to refer to MPA’s Port Marine Circular for the latest guidelines
 #### **10. When should the last swab test be taken before personnel is allowed to enter shipyards’ production premises?**
 The personnel should have taken their swab test and tested negative within the last 14 days.
 
+#### **11. My company does not fall under the Marine Shipyard sector. However, my employees are deployed to the shipyard’s production site for 15 or more days and are required to undergo RRT according to the latest advisory for the Marine & Offshore sector. Why is their health status in Safe@Work still showing “Exempted from Rostered Routine Testing (RRT)”?**
+Personnel from non-Marine shipyard sector are not required to undergo RRT on a normal basis such as when carrying out work activities at non-Marine related sites e.g. manufacturing. Such employees’ health status in Safe@Work reflects this by displaying “Exempted from Rostered Routine Testing (RRT)”. However, to ensure the risks of COVID-19 transmission at shipyard premises continue to be well mitigated, these personnel are required to undergo RRT as per the “Advisory for Rostered Routine Testing for the Marine & Offshore Sector” issued on 2 October 2020. They can show proof of their RRT records using FWMOMCARE for migrant workers or HealthHub for Singaporeans and Singapore Permanent Residents. Shipyards have the right to refuse entry to personnel who do not comply in order to safeguard the COVID-19 risks at their premises.
+
 ## **COVID-Safe Accommodation and Transport**
 
 #### **1. Do I have to segregate my workers at their accommodation according to their projects and teams?**
