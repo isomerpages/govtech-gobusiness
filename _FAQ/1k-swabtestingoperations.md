@@ -105,7 +105,7 @@ It is not advisable for positive cases to bring any family member along with the
 The duration of stay depends on their condition. The doctor will be able to advise them accordingly.
 
 #### **27. For those who are tested positive, will their hospital fees be covered?**
-Individuals who have complied with MOH’s travel advisory may be eligible for Government subsidies and MediShield Life/Integrated Shield Plan coverage. More details can be found on <a href="www.moh.gov.sg/covid-19/faqs" target="_blank">MOH’s website</a>.
+Individuals who have complied with MOH’s travel advisory may be eligible for Government subsidies and MediShield Life/Integrated Shield Plan coverage. More details can be found on <a href="https://www.moh.gov.sg/covid-19/faqs" target="_blank">MOH’s website</a>.
 
 
 
