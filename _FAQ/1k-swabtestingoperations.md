@@ -95,7 +95,7 @@ Yes, the companies will be notified if their food delivery personnel have tested
 
 MOH will work with the companies to take the necessary public health precautionary measures to prevent further spread of the virus, including measures such as disinfecting of the areas exposed to the virus.
 
-#### **24. Is it compulsory for positive cases to go to the hospital via the arranged transportation? Can they go to the hospital on their own (i.e. commute on their own).**
+#### **24. Is it compulsory for positive cases to go to the hospital via the arranged transportation? Can they go to the hospital on their own (i.e. commute on their own)?**
 Positive cases will be contacted by MOH and advised on the necessary follow-up measures to be taken. Transport will be arranged to send them to the hospital or community care facilities so that they can receive adequate care and treatment. They will not be allowed to take their own mode of transport in order to ensure other members in the community are not infected.
 
 #### **25. Can positive cases bring their family member with them when they are being conveyed to the hospital/community care facility?**
