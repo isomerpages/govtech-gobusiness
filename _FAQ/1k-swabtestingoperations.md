@@ -83,7 +83,7 @@ Yes, food delivery personnel are free to carry on their activities after the swa
 #### **21. What happens if a food delivery personnel is tested positive for COVID-19?**
 Positive cases will be contacted by MOH. They will be advised on the appropriate treatment, further tests as well as quarantine arrangements required. They will also be interviewed for identification of close contacts, so that precautionary measures can be taken. 
 
-Food delivery personnel who are placed under quarantine or put on Stay-Home Notice (SHN) will receive a $100/day allowance for the duration of the quarantine/SHN. Those who require further financial assistance can apply to The Courage Fund.
+Food delivery personnel who are placed under quarantine or put on Stay-Home Notice (SHN) will receive a $100/day allowance[^1] for the duration of the quarantine/SHN. Those who require further financial assistance can apply to The Courage Fund.
 
 #### **22. What happens to the close contacts (e.g. colleagues, friends, family), if a food delivery personnel is tested positive for COVID-19?**
 Close contacts of the positive case will be contacted by MOH officials and will be advised on the measures to take. 
