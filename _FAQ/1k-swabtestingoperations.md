@@ -106,3 +106,8 @@ The duration of stay depends on their condition. The doctor will be able to advi
 
 #### **27. For those who are tested positive, will their hospital fees be covered?**
 Individuals who have complied with MOH’s travel advisory may be eligible for Government subsidies and MediShield Life/Integrated Shield Plan coverage. More details can be found on <a href="www.moh.gov.sg/covid-19/faqs" target="_blank">MOH’s website</a>.
+
+
+
+___
+[^1]: Claims for the $100 per day can only be made by (i) Singapore-registered companies whose employees under Quarantine Order are Singapore Citizens, Permanent Residents or work pass holders; and (ii) Self-employed Singapore Citizens or Permanent Residents.
