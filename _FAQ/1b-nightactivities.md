@@ -52,7 +52,7 @@ The Ministry of Law has introduced a legislative Re-Align Framework under the CO
 ## **<ins>Application and Licensing Procedure for Pivoting to Permissible Activities</ins>**
 
 #### **1. How can I change my nightlife operations to activities that are permitted today? What kind of licences are required?**
-Nightlife operators that wish to convert to F&B operations should first register their interest with the Ministry of Trade and Industry (“MTI”) through the Singapore Nightlife Business Association (“SNBA”) at helpdesk@snba.org.sg This would allow us to prioritise your subsequent regulatory submissions to the relevant agencies.
+Nightlife operators that wish to convert to F&B operations should first register their interest with the Ministry of Trade and Industry (“MTI”) through the Singapore Nightlife Business Association (“SNBA”) at <a href = "mailto: helpdesk@snba.org.sg">helpdesk@snba.org.sg</a> This would allow us to prioritise your subsequent regulatory submissions to the relevant agencies.
 
 Operators that wish to pivot to other commercial uses should submit their change of use application directly to Urban Redevelopment Authority (“URA”) through the <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness portal</a>.
 
