@@ -1,5 +1,5 @@
 ---
-title: General1
+title: General
 permalink: /faq/general
 ---
 
