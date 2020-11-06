@@ -1,6 +1,6 @@
 ---
 title: Application and Licensing Procedure for Pivoting to Permissible Activities
-permalink: /faq/nightlifeestablishments
+permalink: /faq/nightlifeestablishments/pivot
 third_nav_title: Nightlife Establishments
 ---
 

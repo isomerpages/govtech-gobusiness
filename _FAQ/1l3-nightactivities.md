@@ -1,6 +1,6 @@
 ---
 title: Exit Support Package and Other Government Support for Winding Down
-permalink: /faq/nightlifeestablishments
+permalink: /faq/nightlifeestablishments/exit
 third_nav_title: Nightlife Establishments
 ---
 

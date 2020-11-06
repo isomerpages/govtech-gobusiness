@@ -1,6 +1,6 @@
 ---
 title: Closure of Nightlife Establishments and Government Support
-permalink: /faq/nightlifeestablishments
+permalink: /faq/nightlifeestablishments/info
 third_nav_title: Nightlife Establishments
 ---
 
