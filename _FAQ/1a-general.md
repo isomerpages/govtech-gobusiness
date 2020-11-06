@@ -23,7 +23,7 @@ Please proceed to declare your manpower details <a href="https://go.gov.sg/exemp
 #### **4. I am unable to find the status of my application for General Exemption on covid.gobusiness.gov.sg. What should I do?**
 Please allow at least 2-3 days for your application to be processed. 
 
-If you are still unable to view your application status after 3 days, please write to <a href = ": Covid_GoBusiness@mti.gov.sg">Covid_GoBusiness@mti.gov.sg</a> with your company name, UEN and the reference number for your application.
+If you are still unable to view your application status after 3 days, please write to <a href = "mailto: Covid_GoBusiness@mti.gov.sg">Covid_GoBusiness@mti.gov.sg</a> with your company name, UEN and the reference number for your application.
 
 #### **5. I am self employed / own a business with multiple entities. Do I need to submit my applications individually or will one application cover all my businesses?**
 You will need to submit one application for each registered business. One application per UEN number. 
@@ -53,6 +53,3 @@ The decision of the Enforcement Officers is final. In particular, the Enforcemen
 #### **12. I am issued a fine. How do I make payment?**
 You can refer to the Notice of Offence issued to you for information on the payment mode. Enforcement officers will not collect fines on the spot, from individuals and businesses who have contravened these rules. The penalties for breaches will be issued to individuals or businesses in the form of composition letters, which will state the relevant follow up actions required.
 
-
-___
-[^1]: The weekly cycle starts from Sunday 12.00am and ends on Saturday 11.59pm.

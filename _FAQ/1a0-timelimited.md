@@ -1,6 +1,6 @@
 ---
 title: Time-Limited Exemption
-permalink: /faq/timelimited
+permalink: /faq/timelimitedexemption
 ---
 
 #### **1. Is there a guide on how to apply for a Time-Limited Exemption?**
@@ -24,7 +24,7 @@ You are required to apply for the <a href="https://go.gov.sg/timelimitedexemptio
 A Time-Limited Exemption application cannot be amended, cancelled or voided once it has been submitted regardless of circumstances. It will still be counted towards your submission quota of twice per week. 
 
 #### **7. I am not allowed to apply for a Time-Limited Exemption. What should I do?**
-If you are unable to apply for a Time-Limited Exemption, please contact our helpdesk at <a href = ": Covid_GoBusiness@mti.gov.sg">Covid_GoBusiness@mti.gov.sg</a> for further assistance.
+If you are unable to apply for a Time-Limited Exemption, please contact our helpdesk at <a href = "mailto: Covid_GoBusiness@mti.gov.sg">Covid_GoBusiness@mti.gov.sg</a> for further assistance.
 
 
 ___
