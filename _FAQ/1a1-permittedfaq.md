@@ -1,8 +1,5 @@
 ---
 title: Resumption1
 permalink: /faq/resumption
-third_nav_title: Resumption
+third_nav_title: Resumption1
 ---
-
-
-
