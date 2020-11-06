@@ -1,7 +1,7 @@
 ---
 title: Resumption of operations
-permalink: /faq/resumption/resumption
-third_nav_title: Resumption of Business Activities (Phases One and Two)
+permalink: /faq/resumption/res
+third_nav_title: Resumption of Business Activities (Phases One and Two
 ---
 
 #### **1. How long will Phase Two last for?**
