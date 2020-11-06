@@ -52,7 +52,3 @@ The decision of the Enforcement Officers is final. In particular, the Enforcemen
 
 #### **12. I am issued a fine. How do I make payment?**
 You can refer to the Notice of Offence issued to you for information on the payment mode. Enforcement officers will not collect fines on the spot, from individuals and businesses who have contravened these rules. The penalties for breaches will be issued to individuals or businesses in the form of composition letters, which will state the relevant follow up actions required.
-
-
-___
-[^1]: The weekly cycle starts from Sunday 12.00am and ends on Saturday 11.59pm.
