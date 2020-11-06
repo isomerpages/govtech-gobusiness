@@ -1,7 +1,7 @@
 ---
 title: Resumption of operations
 permalink: /faq/resumption/res
-third_nav_title: Resumption of Business Activities (Phases One and Two
+third_nav_title: Resumption of Business Activities (Phases One and Two)
 ---
 
 #### **1. How long will Phase Two last for?**
@@ -18,33 +18,3 @@ If you cannot recall your company’s primary SSIC code or are unsure of the cla
 The Multi-Ministry Taskforce (MTF) announced on 19 May that we will exit the Circuit Breaker and resume activities in a phased manner from 2 June to minimise the risk of a resurgence in COVID-19 community transmission. In Phase One starting from 2 June, the MTF gradually allowed more workers to return to work, starting with businesses that operate in settings with lower transmission risks, or that do not require interactions with large groups of people. In Phase Two starting from 19 June, we will allow the resumption of a broad range of activities, including the reopening of physical outlets of retail businesses, as well as the resumption of food and beverage dine-in, personal health and wellness, and home-based services. 
 
 Before resuming activities, businesses must comply with the requirements for Safe Management Measures and any sector-specific requirements which apply to them. 
-
-#### **4. If my business activities are not listed in the permitted services list, can I apply for an exemption to resume business activities?**
-Businesses should suspend operations in their premises from 7 April 2020 onwards until they are approved by MTI to continue operations or their list of business activity falls within the permitted list allowed to operate from 2 June 2020.
-
-If employees have to be activated to return to the workplace for short periods of time (i.e. less than a day), employers are required to apply to MTI for a time-limited exemption to do so via <a href="https://covid.gobusiness.gov.sg/">here</a>. If employers need to maintain a skeletal workforce at the workplace for longer periods, an application for a general exemption should be submitted instead via through <a href="https://covid.gobusiness.gov.sg/">here</a>. 
-
-#### **5. I had previously received an approval of my General Exemption but my companies’ activities are not listed in the permitted services list. Will I be able to continue operations? Can our employees who are currently working from home return to the workplace?**
-Companies operating under a General Exemption must submit an application for additional manpower via the GoBusiness portal, to allow more employees to return to the workplace.
-
-Please note that for employees whose jobs can be performed from home, employers must ensure that they continue to do so for at least half their working time, measured over a reasonable period of time not exceeding four weeks. In addition, no more than half of employees who are able to work-from-home are allowed to be at the workplace at any point in time.  
-
-#### **6. I had previously received an email notification that my exemption had been rescinded, but my company falls under the list of permitted services. Will I be able to resume operations?**
-Yes. If your company’s activities are listed in the list of permitted services, you will be allowed to resume operations. If your company has other business functions or services that do not belong to the list of permitted services, these other business functions or services should remain suspended until further notice.
-
-#### **7. My company’s activities do not belong to the list of permitted services, but we support a permitted service that is listed. What should I do? Can I appeal?**
-If your company needs to support a permitted service please submit an application for a General Exemption or a Time-Limited Exemption through 
-<a href="https://covid.gobusiness.gov.sg">https://covid.gobusiness.gov.sg</a>.
-
-You will only be permitted to operate when your General Exemption or Time-Limited Exemption is approved.
-
-#### **8. Are there any requirements that I need to fulfil before I can resume operations?**
-All businesses that are resuming operations must fulfil stringent safe management measures, as well as comply with any sector specific requirements relevant to their business, before resuming operations. Please refer to these requirements <a href="/safemanagement/general/">here</a>. 
-
-Businesses that belong to the list of permitted services must declare their number of workers who are working onsite using the GoBusiness portal **<ins>within 2 weeks of the date of resumption of operations</ins>**.  
-
-Businesses which receive a General Exemption approval to resume operations must declare their number of workers who are working onsite **<ins>within 2 days of the commencement of operations</ins>**. 
-
-#### **9. If my company’s activities belong to the list of permitted services, will I be able to operate all my business functions?**
-If your company has other business functions or services that are not in the list of permitted services, these other business functions or services should remain suspended until further notice.
-
