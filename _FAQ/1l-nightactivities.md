@@ -18,7 +18,7 @@ However, as the nightlife industry may not fully reopen in its original form for
 #### **3. What assistance is available for nightlife operators that wish to convert operations to a permitted activity?**
 Nightlife operators that wish to convert operations to a permitted activity may apply to Enterprise Singapore (“ESG”) for a grant to defray qualifying costs incurred during the pivoting process such as costs related to refurbishment works, and the purchase of kitchen and service equipment.
 
-Companies can apply to ESG through the Singapore Nightlife Business Association (“SNBA”) at helpdesk@snba.org.sg to seek financial support for pivoting to other uses. 
+Companies can apply to ESG through the Singapore Nightlife Business Association (“SNBA”) at <a href = "mailto: helpdesk@snba.org.sg">helpdesk@snba.org.sg</a> to seek financial support for pivoting to other uses. 
 
 #### **4. What other support measures are there if operators choose not to pivot?**
 As nightlife businesses are not permitted to open for the time being, operators may consider making a commercial decision to pivot, remain closed or exit the industry, based on their own business assessment.
@@ -33,7 +33,7 @@ To begin your grant application process for winding down, please reach out to SN
 Companies which have received the pivot support package will not be eligible for the exit support package. We strongly advise companies to consider the available options and make their own business assessment on the next steps prior to any application for support. 
 
 #### **6. Can companies which have pivoted to permitted activities or exited the industry prior to the effective date of the support packages qualify for the pivot or exit support package respectively on a retrospective basis?**
-For nightlife operators who had taken the initiative to change their business activity earlier, ESG will be prepared to extend the pivot support package on a case-by-case basis. Operators may write to SNBA at helpdesk@snba.org.sg to appeal for the pivot support package. Such appeals will be assessed by ESG subsequently on a case-by-case basis.
+For nightlife operators who had taken the initiative to change their business activity earlier, ESG will be prepared to extend the pivot support package on a case-by-case basis. Operators may write to SNBA at <a href = "mailto: helpdesk@snba.org.sg">helpdesk@snba.org.sg</a> to appeal for the pivot support package. Such appeals will be assessed by ESG subsequently on a case-by-case basis.
 
 Nightlife operators who had exited the industry or are in the process of doing so may qualify for the exit support package if they are still registered with Accounting and Corporate Regulatory Authority (“ACRA”) at the point of application. The retrenchment benefit support will be tied to the number of local employees at the point of application. Employers who have retrenched their employees and provided the retrenchment benefit prior to the effective date of the exit support package may write to SNBA at <a href = "mailto: helpdesk@snba.org.sg">helpdesk@snba.org.sg</a>. Such appeals will be assessed by ESG on a case-by-case basis.
 
@@ -46,7 +46,7 @@ The Simplified Insolvency Programme assists micro and small companies that requi
 #### **9. How is the Government intending to support businesses who may have suffered significant impairment in fulfilling their contracts?**
 The Government recognises that COVID-19 is an unforeseen event and some businesses may be faced with substantial obligations from contracts entered into before the pandemic.
 
-The Ministry of Law has introduced a legislative Re-Align Framework under the COVID-19 (Temporary Measures) Act to allow businesses which have experienced a substantial change in circumstances due to COVID-19, to renegotiate certain prescribed contracts with their counterparties, failing which they may be able to terminate the contract. For more details, please visit <a href="go.gov.sg/re-align" target="_blank">go.gov.sg/re-align</a>.
+The Ministry of Law has introduced a legislative Re-Align Framework under the COVID-19 (Temporary Measures) Act to allow businesses which have experienced a substantial change in circumstances due to COVID-19, to renegotiate certain prescribed contracts with their counterparties, failing which they may be able to terminate the contract. For more details, please visit <a href="https://www.mlaw.gov.sg/covid19-relief/re-align-framework" target="_blank">here</a>.
 
 
 ## **<ins>Application and Licensing Procedure for Pivoting to Permissible Activities</ins>**
@@ -112,7 +112,7 @@ Operators whose premises are located in these areas will be required to make a c
 #### **13. Can nightlife operators collaborate with a neighbouring F&B outlet to serve food at their bar, pub, nightclub or karaoke outlet?**
 All nightlife establishments that wish to convert their business activity to F&B are required to provide their food preparation area within the premises for food to be served at the same place.
 
-Operators may only work with another F&B establishment if the supplying establishment holds a food processing establishment licence from SFA. Nonetheless, nightlife operators would still be required to convert to an F&B establishment or other permitted commercial use in order to reopen. Please refer to advisory note [last updated 6 Nov] here on the application steps, or reach out to the Singapore Nightlife Business Association at <a href = "mailto: helpdesk@snba.org.sg">helpdesk@snba.org.sg</a>. 
+Operators may only work with another F&B establishment if the supplying establishment holds a food processing establishment licence from SFA. Nonetheless, nightlife operators would still be required to convert to an F&B establishment or other permitted commercial use in order to reopen. Please refer to advisory note <a href="https://covid.gobusiness.gov.sg/guides/PivotAdvisory.pdf" target="_blank">here</a> [last updated 6 Nov] here on the application steps, or reach out to the Singapore Nightlife Business Association at <a href = "mailto: helpdesk@snba.org.sg">helpdesk@snba.org.sg</a>. 
 
 #### **14. If I choose to remain close, can I keep my Public Entertainment (PE) licence and reopen at another location when my business is permitted to resume?**
 The PE licence will remain valid for the period stated in the licence for the current location. The operator may apply for a new PE licence in the future for the new location, but the application will be assessed by the Police based on its merits and subject to the prevailing laws and policies. 
