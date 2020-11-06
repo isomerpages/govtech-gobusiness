@@ -1,6 +1,6 @@
 ---
 title: Time-Limited Exemption
-permalink: /faq/timelimited
+permalink: /faq/timelimitedexemption
 ---
 
 #### **1. Is there a guide on how to apply for a Time-Limited Exemption?**
