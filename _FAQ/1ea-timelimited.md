@@ -27,5 +27,5 @@ A Time-Limited Exemption application cannot be amended, cancelled or voided once
 If you are unable to apply for a Time-Limited Exemption, please contact our helpdesk at <a href = "mailto: Covid_GoBusiness@mti.gov.sg">Covid_GoBusiness@mti.gov.sg</a> for further assistance.
 
 
-___
+
 [^1]: The weekly cycle starts from Sunday 12.00am and ends on Saturday 11.59pm.
