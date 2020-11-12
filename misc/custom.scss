@@ -4,6 +4,17 @@
 
 @charset "utf-8";
 
+// Agency brand colors
+$primary: {{- site.colors.primary-color -}};
+$secondary: {{- site.colors.secondary-color -}};
+$secondary-hover: lighten($secondary, 10%);
+
+{%- for media-color in site.colors.media-colors -%}
+  ${{- media-color.title -}}: {{- media-color.color -}};
+{%- endfor -%}
+	  
+
+
 // HLB brand colors
 //$primary: #6031b6;
 $primary: #00838f;
