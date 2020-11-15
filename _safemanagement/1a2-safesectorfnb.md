@@ -15,7 +15,7 @@ Arts and culture stakeholders are to comply to measures stipulated in this <a hr
 
 For resumption of indoor live performances, stakeholders are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/NACAdvisoryonResumptionofIndoorLivePerformances.pdf" target="_blank">document</a> [last updated on 31 Oct 20].
 
-Museum stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 7 Jul 20]. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
+Museum stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 11 Nov 20]. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
 
 #### **Attractions**
 
