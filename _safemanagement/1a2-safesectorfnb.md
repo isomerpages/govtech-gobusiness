@@ -118,7 +118,7 @@ Energy and chemical plant owners are to comply to the COVID-Safe restart criteri
 
 Enterprises in the Process Construction & Maintenance sector are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/PCMBCAStaggeredRestDay.pdf" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.
 
-For more information on the BluePass contact tracing token, please refer to this <a href="https://covid.gobusiness.gov.sg/guides/AdvisoryonBPtokenvf.pdf" target="_blank">document</a> [last updated on 3 Nov 20].
+For more information on the BluePass contact tracing token, please refer to this <a href="https://covid.gobusiness.gov.sg/guides/AdvisoryonBPtokenvf.pdf" target="_blank">document</a> [last updated on 4 Dec 20].
 
 #### **Property show galleries**
 
