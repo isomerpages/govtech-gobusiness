@@ -48,7 +48,7 @@ No. Only the bride and groom may remove their masks and/or face shields during m
 For the safety of the bride, groom, and guests, the solemnization should be kept as brief as possible.
 
 #### **8. Will these measures, including the limit on the number of people, change in the future?**
-These guidelines are based on the current situation, and updated guidelines as part of Phase 3 will take effect from 28 Dec 2020. . The guidelines may change in future, depending on the COVID-19 situation at that point in time.
+These guidelines are based on the current situation, and updated guidelines as part of Phase 3 will take effect from 28 Dec 2020. The guidelines may change in future, depending on the COVID-19 situation at that point in time.
 
 You may wish to refer <a href="https://www.moh.gov.sg/covid-19" target="_blank">here</a> for updates on the COVID-19 situation in Singapore.
 
@@ -167,7 +167,7 @@ Such cultural rites may take place as part of the wedding reception if they do n
 #### **23. Can I hold a reception? How many receptions can I hold? What are the guidelines for receptions?**
 You can have only one reception, held on the same day as the solemnization or on a separate day. This minimizes the risk to the community. If the reception takes place in the same location right after the solemnization, the entire event (solemnization and reception) is subject to the overall cap of 100 persons (or lower based on the venue).
 
-You may hold your reception in controlled premises opened for operation (outside of the home and the ROM(M) Building) that can accommodate receptions. Please note that any meal exceeding the existing group size for social gatherings, if held back-to-back with the solemnization, shall be deemed a reception.. You may check directly with the venue operator on their processes and conditions for the holding of the reception. Venue owners/ operators may determine if and when to allow solemnizations and receptions to be held in their premises, and may set additional conditions for their use, such as setting a lower limit for attendance based on their capacity or ability to ensure safe management measures are implemented.
+You may hold your reception in controlled premises opened for operation (outside of the home and the ROM(M) Building) that can accommodate receptions. Please note that any meal exceeding the existing group size for social gatherings, if held back-to-back with the solemnization, shall be deemed a reception. You may check directly with the venue operator on their processes and conditions for the holding of the reception. Venue owners/ operators may determine if and when to allow solemnizations and receptions to be held in their premises, and may set additional conditions for their use, such as setting a lower limit for attendance based on their capacity or ability to ensure safe management measures are implemented.
 
 For such receptions, you may have up to 100 persons, or the safe capacity of the venue, whichever is lower. For the safety of all who are attending your reception, please ensure that you and your guests comply with the following measures:
 
@@ -245,7 +245,7 @@ The bride, groom, and witnesses can be in the same location if they belong to th
 
 <span style="color:red">^With effect from 28 Dec 2020, each household may receive up to 8 visitors at any point in time.</span>
 
-## **<ins>Zoning and Staggered Timing Requirements <span style="color:red">(with effect from 3 Oct 2020)</span></ins>**
+## **<ins>Zoning and Staggered Timing Requirements</ins>**
 
 #### **40. For a zoning arrangement, can I have as many zones as I want?**
 If the venue permits, you may have more than two zones subject to the overall attendance of the entire event being capped at 100 unique persons, the number of people in each zone not exceeding 50 pax, and zoning rules being adhered to (including a 3-metre gap and a continuous physical barrier or a solid partition of 1.8 metre or taller between zones). These caps include the couple and the wedding party, but excludes solemniser (for the solemnisation), vendors and venue staff (to be kept to a minimum). We understand venues may have different configurations and encourage couples to work out an optimal arrangement with the venue operator. Couples may choose to configure the zones in a way that allows the wedding couple/party to access ‘central’ areas, such as the aisle and the stage. All attendees, including the “wedding party”, must be assigned to only one zone. Regardless of the number of zones, entering an unassigned zone is not allowed, except for the wedding couple, who may do so briefly e.g. to take photos. Arrangements must also be made to ensure attendees from different zones do not meet each other at entrances or exits. For instance, organisers could deploy ushers at the entrances and exits of each zone. Within each zone, there must be no intermingling and mixing between the wedding party and other groups of guests or between groups of guests.
