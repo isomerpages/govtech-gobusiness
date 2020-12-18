@@ -74,7 +74,7 @@ Social Service Agencies and community groups distributing essential aid (i.e. su
 
 #### **Hotels**
 
-Hotels are to comply to measures stipulated in this <a href="https://go.gov.sg/hoteladvisory" target="_blank">document</a> [last updated 3 Jul 20]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html#Hotels" target="_blank">website</a>.
+Hotels are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/hotels_ver17Dec2020.pdf" target="_blank">document</a> [last updated 17 Dec 20]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html" target="_blank">website</a>.
 
 #### **Landscape-related Services**
 
@@ -82,7 +82,9 @@ All landscape-related services and nurseries will resume, subject to safe manage
 
 #### **Marriage Solemnisations and Receptions**
 
-With effect from 3 Oct 2020 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/Weddings2_3Oct.pdf" target="_blank">document</a> [Last updated 3 Oct 20], depending on venue.
+With effect from 3 Oct 2020 (inclusive) to 27 Dec 2020 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/Weddings2_3Oct.pdf" target="_blank">document</a> [Last updated 17 Dec 20], depending on venue.
+
+With effect from 28 Dec 2020 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/Weddings2_28dec.pdf" target="_blank">document</a> [Last updated 17 Dec 20], depending on venue.
 
 #### **Marine & Offshore (M&O) Sector**
 
