@@ -74,7 +74,7 @@ Social Service Agencies and community groups distributing essential aid (i.e. su
 
 #### **Hotels**
 
-Hotels are to comply to the safe management measures as seen on Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html" target="_blank">website</a>.
+Hotels are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/hotels_ver17Dec2020.pdf" target="_blank">document</a> [last updated 17 Dec 20]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html" target="_blank">website</a>.
 
 #### **Landscape-related Services**
 
