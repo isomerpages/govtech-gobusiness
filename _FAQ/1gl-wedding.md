@@ -116,9 +116,9 @@ We must remain vigilant to protect ourselves and our loved ones. Any guest who i
  
 The organiser is liable for ensuring that all attendees observe the necessary safe management measures.
 
-<span style="color:red">^With effect from 28 Dec 2020, the group size for guests other than the wedding party will be increased from five to eight persons.
+<span style="color:red">^With effect from 28 Dec 2020, the group size for guests other than the wedding party will be increased from five to eight persons.</span>
 
-With effect from 28 Dec 2020, live instrumental music (except for the playing of wind instruments) is allowed at solemnizations in indoor venues (except in ROM(M) Building and subject to respective venue operators’ policies), with the necessary safe management measures in place. Singing and dancing are not allowed.</span>
+<span style="color:red">With effect from 28 Dec 2020, live instrumental music (except for the playing of wind instruments) is allowed at solemnizations in indoor venues (except in ROM(M) Building and subject to respective venue operators’ policies), with the necessary safe management measures in place. Singing and dancing are not allowed.</span>
 
 #### **16. Can the solemnization be accompanied by a religious service or rite?**
 Yes, your solemnization may be accompanied by a religious service or rite. However, for the safety of yourself and your attendees, this should be kept as short as possible. You may contact your Religious Organisation or MCCY’s Crisis Preparedness for Religious Organisations Programme Office at <a href = "mailto: cpro@mccy.gov.sg">cpro@mccy.gov.sg</a> if you have further queries.
@@ -147,9 +147,9 @@ We must remain vigilant to protect ourselves and our loved ones. All guests shou
  
 The organiser is liable for ensuring that all attendees observe the necessary safe management measures.
 
-<span style="color:red">^With effect from 28 Dec 2020, the group size for guests other than the wedding party will be increased from five to eight persons.
+<span style="color:red">^With effect from 28 Dec 2020, the group size for guests other than the wedding party will be increased from five to eight persons.</span>
 
-With effect from 28 Dec 2020, live instrumental music (except for the playing of wind instruments) is allowed at solemnizations in indoor venues (except in ROM(M) Building and subject to respective venue operators’ policies), with the necessary safe management measures in place. Singing and dancing are not allowed.</span>
+<span style="color:red">With effect from 28 Dec 2020, live instrumental music (except for the playing of wind instruments) is allowed at solemnizations in indoor venues (except in ROM(M) Building and subject to respective venue operators’ policies), with the necessary safe management measures in place. Singing and dancing are not allowed.</span>
 
 #### **20. Can I have a pre- / post- solemnization reception or provide food / buffet as part of our ceremony?**
 Food and beverages are not allowed to be served as part of the solemnization event. However, couples may hold one reception either on the same day as the solemnization or on a separate day. 
