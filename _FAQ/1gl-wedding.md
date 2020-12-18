@@ -9,9 +9,11 @@ third_nav_title: For Sector-Specific Queries
 #### **[Updated as of 17 Dec]**
 
 #### **1. How many persons can I have at my solemnization ceremony?**
-You may have up to 10 persons[^1] for solemnizations in homes and in the ROM(M) Building excluding the Licensed Solemnizer, the interpreter (if any), and vendors (kept to a minimum) allowed to resume operations for your solemnization.
+You may have up to 10 persons* for solemnizations in homes and in the ROM(M) Building excluding the Licensed Solemnizer, the interpreter (if any), and vendors (kept to a minimum) allowed to resume operations for your solemnization.
 
-In other external solemnization venues, such as places of worship or hotels, you may have up to 100 attendees at your solemnization ceremony, or the safe capacity of the venue, whichever is lower. Please refer to section VII of the FAQs for details on the zoning requirements. This attendance limit excludes the Licensed Solemnizer, the interpreter (if any), and vendors (kept to a minimum) allowed to resume operations for your solemnization. Please check with your solemnization venue owner / operator on the number of attendees allowed and any other conditions to be met before making arrangements. 
+In other external solemnization venues, such as places of worship or hotels, you may have up to 100 attendees at your solemnization ceremony, or the safe capacity of the venue, whichever is lower. Please refer to section VII of the FAQs for details on the zoning requirements. This attendance limit excludes the Licensed Solemnizer, the interpreter (if any), and vendors (kept to a minimum) allowed to resume operations for your solemnization. Please check with your solemnization venue owner / operator on the number of attendees allowed and any other conditions to be met before making arrangements.
+
+<span style="color:red">*With effect from 28 Dec 2020, the cap for solemnizations in homes will be 10 persons (including members of the hosting household), or 8 visitors (excluding members of the hosting household whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors (kept to a minimum). For example, if there are 6 persons currently living in your household, you may have up to 14 persons (6 + 8) for solemnizations in your home, excluding the solemnizer and vendors.</span>
 
 #### **2. Are vendors (e.g. photographers, videographers, make-up artists, bridal studio) allowed to resume operations for solemnizations? Are they part of the guest limit?**
 Vendors engaged must be on MTI’s permitted list of activities as reflected on the GoBusiness portal and must have made their manpower declarations to MTI within two weeks of resuming operations. Vendors who are allowed to resume operations for your solemnization can be excluded from the guest limit for your solemnization / reception but should be kept to a minimum.
@@ -22,16 +24,20 @@ No, the guest limit excludes the interpreter, Licensed Solemnizer, and vendors (
 #### **4. Do we need to practise safe distancing and safe management during the solemnization?**
 Yes, safe management measures must be in place for the solemnizations. 
 
-For solemnizations held at home and the ROM(M) building, up to 10 persons[^1] can attend, excluding the Licensed Solemnizer, the interpreter (if any), and vendors (kept to a minimum) allowed to resume operations for your solemnization, subject to the following.
+For solemnizations held at home and the ROM(M) building, up to 10 persons* can attend, excluding the Licensed Solemnizer, the interpreter (if any), and vendors (kept to a minimum) allowed to resume operations for your solemnization, subject to the following.
 
-For solemnizations held at other venues, couples can have up to 100 persons, excluding the Licensed Solemnizer, the interpreter (if any), and vendors (kept to a minimum) allowed to resume operations for your solemnization. If couples have more than 20 guests, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to five people[^4] for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
+For solemnizations held at other venues, couples can have up to 100 persons, excluding the Licensed Solemnizer, the interpreter (if any), and vendors (kept to a minimum) allowed to resume operations for your solemnization. If couples have more than 20 guests, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to five people^ for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
 
 If the total number of attendees is between 50 to 100 persons, attendees must be split into multiple zones of up to 50 persons in a zone. All attendees, including the “wedding party”, must be assigned to one zone only, and there must be no entering of unassigned zones. An exception is made for the wedding couple, who may enter an unassigned zone briefly e.g. to take photos.
 
 All attendees should also check their temperature and that they are feeling well before they attend your solemnization. For contact tracing purposes, you must inform your Licensed Solemnizer of the names of the attendees and vendors, and keep the attendance record for 14 days after your solemnization. For solemnizations in external venues (i.e. besides home and ROM/M Building), all guests must also check in and out via SafeEntry, and download and activate the TraceTogether app before attending the solemnization.
 
+<span style="color:red">*With effect from 28 Dec 2020, the cap for solemnizations in homes will be 10 persons (including members of the hosting household), or 8 visitors (excluding members of the hosting household whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors (kept to a minimum). For example, if there are 6 persons currently living in your household, you may have up to 14 persons (6 + 8) for solemnizations in your home, excluding the solemnizer and vendors.</span>
+
+<span style="color:red">^With effect from 28 Dec 2020, the group size for guests other than the wedding party will be increased from five to eight persons.</span>
+
 #### **5. Can the bride and groom remove face masks for the solemnization ceremony? Can the bride and groom use face shields in place of face masks? Can the rest of the attendees be unmasked for photo-taking?**
-The bride and groom must use face masks or face shields throughout the solemnization process. In addition, they may remove their masks and/or face shields for key moments of the solemnization, which includes the exchanging of vows, rings, to kiss and during march-ins/outs. However, the bride and groom must maintain a 2-metre distance from the rest of the attendees of the solemnization whenever masks and face shields have been removed. All other attendees must have their masks on throughout the solemnization process . 
+The bride and groom must use face masks or face shields throughout the solemnization process. In addition, they may remove their masks and/or face shields for key moments of the solemnization, which includes the exchanging of vows, rings, to kiss and during march-ins/outs. However, the bride and groom must maintain a 2-metre distance from the rest of the attendees of the solemnization whenever masks and face shields have been removed. All other attendees must have their masks on throughout the solemnization process. 
 
 Masks / face shields may be removed briefly for photo-taking, but must be put on immediately after photos.
 
@@ -49,7 +55,7 @@ You may wish to refer <a href="https://www.moh.gov.sg/covid-19" target="_blank">
 ## **<ins>Solemnizations in homes</ins>**
 
 #### **9. Can we hold our solemnization at home? What are the safe management measures that we must follow?**
-Yes, you may hold your solemnization at home, involving up to 10 persons[^1], excluding the Licensed Solemnizer, interpreter, and any other vendors (kept to a minimum). These 10 persons may include guests who are not immediate family members. 
+Yes, you may hold your solemnization at home, involving up to 10 persons*, excluding the Licensed Solemnizer, interpreter, and any other vendors (kept to a minimum). These 10 persons may include guests who are not immediate family members. 
 
 For the safety of all who are attending your solemnization, please ensure that you and your guests comply with the following measures:
 
@@ -61,11 +67,15 @@ We must remain vigilant to protect ourselves and our loved ones. All attendees s
  
 The organiser is liable for ensuring that all attendees observe the necessary safe management measures[^2].
 
+<span style="color:red">*With effect from 28 Dec 2020, the cap for solemnizations in homes will be 10 persons (including members of the hosting household), or 8 visitors (excluding members of the hosting household whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors (kept to a minimum). For example, if there are 6 persons currently living in your household, you may have up to 14 persons (6 + 8) for solemnizations in your home, excluding the solemnizer and vendors.</span>
+
 #### **10. Can I have a small wedding reception at home immediately after my solemnization? Can I perform other cultural rites in the home before or after the solemnization?**
 Receptions are not allowed in your home. Couples may want to consider having a separate reception at allowed venues where proper safe management measures can be observed more readily. Any other pre- or post-solemnization activities held at home must abide by the prevailing number of visitors allowed for home visits.
 
 #### **11. Can I have more than 10 people for my home solemnization, if my house is sufficiently large to accommodate everybody safely?**
-We recognise that your solemnization is an important event for you and your family. However, we are also mindful that due to the intimate nature of solemnizations in the home context, there will likely be high level of chances of interaction. Unlike external venues, there will also be no premises staff to support you in implementing the safe management measures. All these pose greater risks to you, your family, and guests, especially any vulnerable groups who may be present. Hence, the cap for home solemnizations remains at 10 persons, regardless of the size of your house[^1].
+We recognise that your solemnization is an important event for you and your family. However, we are also mindful that due to the intimate nature of solemnizations in the home context, there will likely be high level of chances of interaction. Unlike external venues, there will also be no premises staff to support you in implementing the safe management measures. All these pose greater risks to you, your family, and guests, especially any vulnerable groups who may be present. Hence, the cap for home solemnizations remains at 10 persons, regardless of the size of your house*.
+
+<span style="color:red">*With effect from 28 Dec 2020, the cap for solemnizations in homes will be 10 persons (including members of the hosting household), or 8 visitors (excluding members of the hosting household whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors (kept to a minimum). For example, if there are 6 persons currently living in your household, you may have up to 14 persons (6 + 8) for solemnizations in your home, excluding the solemnizer and vendors.</span>
 
 #### **12. How do you determine who is from the hosting household?**
 Hosting household will refer to those who are registered to stay in the place of residence that the solemnization will be held at, e.g.  based on the address reflected on the NRIC, occupant list in the lease / tenancy agreement etc.
@@ -95,7 +105,7 @@ Up to 100 persons (subject to the safe capacity of the venue) may attend the sol
 
 For the safety of all who are attending your solemnization, please ensure that you and your guests comply with the following measures:
 
-- a.	For solemnizations with more than 20 attendees, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to five people[^4] for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
+- a.	For solemnizations with more than 20 attendees, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to five people^ for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
 - b.    If the total number of attendees is between 50 to 100 persons, attendees must be split into multiple zones of up to 50 persons in a zone. All attendees, including the “wedding party”, must be assigned to one zone only, and there must be no entering of unassigned zones. An exception is made for the wedding couple, who may enter an unassigned zone briefly e.g. to take photos. 
 - c.	All guests must wear masks for the duration of the solemnization. The bride and groom may choose to wear face shields instead of masks for the duration of the solemnization, and may remove their face shields for key moments such as to exchange vows, rings, to kiss and during march-ins/outs, as long as they maintain a safe distance of at least 2 metres from others.
 - d.	Masks/ face shields may be removed momentarily for photo-taking, and must be put on immediately after.
@@ -105,6 +115,10 @@ For the safety of all who are attending your solemnization, please ensure that y
 We must remain vigilant to protect ourselves and our loved ones. Any guest who is not feeling well must not attend the solemnization. You may wish to encourage your guests, especially if they are more vulnerable, to refrain from attending your solemnization in person. Instead, they can join in the celebrations safely by using technology (e.g. witness the solemnization through a video link).  
  
 The organiser is liable for ensuring that all attendees observe the necessary safe management measures.
+
+<span style="color:red">^With effect from 28 Dec 2020, the group size for guests other than the wedding party will be increased from five to eight persons.</span>
+
+With effect from 28 Dec 2020, live instrumental music (except for the playing of wind instruments) is allowed at solemnizations in indoor venues (except in ROM(M) Building and subject to respective venue operators’ policies), with the necessary safe management measures in place. Singing and dancing are not allowed.
 
 #### **16. Can the solemnization be accompanied by a religious service or rite?**
 Yes, your solemnization may be accompanied by a religious service or rite. However, for the safety of yourself and your attendees, this should be kept as short as possible. You may contact your Religious Organisation or MCCY’s Crisis Preparedness for Religious Organisations Programme Office at <a href = "mailto: cpro@mccy.gov.sg">cpro@mccy.gov.sg</a> if you have further queries.
@@ -122,7 +136,7 @@ Up to 100 persons, or the safe capacity of the venue, whichever is lower, may at
 
 For the safety of all who are attending your solemnization, please ensure that you and your guests comply with the following measures:
 
-- a.	For solemnizations with more than 20 attendees, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to five people[^4] for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking. 
+- a.	For solemnizations with more than 20 attendees, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to five people^ for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking. 
 - b.	If the total number of attendees is between 50 to 100 persons, attendees must be split into multiple zones of up to 50 persons in a zone. All attendee, including the “wedding party”, must be assigned to one zone only, and there must be no entering of unassigned zones. An exception is made for the wedding couple, who may enter an unassigned zone briefly e.g. to take photos.
 - c.	Masks may be removed briefly for photo-taking, and must be put on immediately after 
 - d.	Guests will be required to take their temperature, check in and out via SafeEntry before entering the premises, and download and activate the TraceTogether app for the duration of the solemnization. This list must be available on-site for verification/ checking.
@@ -132,6 +146,10 @@ For the safety of all who are attending your solemnization, please ensure that y
 We must remain vigilant to protect ourselves and our loved ones. All guests should check their temperature and ensure they are not feeling unwell before they attend the solemnization. You may wish to encourage your guests, especially if they are more vulnerable, to refrain from attending your solemnization in person. Instead, they can join in the celebrations safely by using technology (e.g. witness the solemnization through a video link).
  
 The organiser is liable for ensuring that all attendees observe the necessary safe management measures.
+
+<span style="color:red">^With effect from 28 Dec 2020, the group size for guests other than the wedding party will be increased from five to eight persons.</span>
+
+With effect from 28 Dec 2020, live instrumental music (except for the playing of wind instruments) is allowed at solemnizations in indoor venues (except in ROM(M) Building and subject to respective venue operators’ policies), with the necessary safe management measures in place. Singing and dancing are not allowed.
 
 #### **20. Can I have a pre- / post- solemnization reception or provide food / buffet as part of our ceremony?**
 Food and beverages are not allowed to be served as part of the solemnization event. However, couples may hold one reception either on the same day as the solemnization or on a separate day. 
@@ -153,7 +171,7 @@ You may hold your reception in controlled premises opened for operation (outside
 
 For such receptions, you may have up to 100 persons, or the safe capacity of the venue, whichever is lower. For the safety of all who are attending your reception, please ensure that you and your guests comply with the following measures:
 
-- a.	For receptions with more than 20 attendees, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to five people[^4] for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
+- a.	For receptions with more than 20 attendees, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to five people^ for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
 - b.    If the total number of attendees is between 50 to 100 persons, attendees must be split into either multiple zones of up to 50 persons in a zone, or staggered timings with up to 50 persons in each slot with at least 30 minutes between slots for cleaning and disinfection of event space. For a zoning arrangement, all attendees, including the “wedding party”, must be assigned to one zone only, and there must be no entering of unassigned zones. An exception is made for the wedding couple, who may enter an unassigned zone briefly e.g. to take photos. For a staggered timing arrangement, the “wedding party” is allowed to remain in each timeslot as it is the only way for them to host the wedding throughout the day. However, like the zoning arrangement, the “wedding party” must not be intermingling with other groups, and prevailing safe distancing rules i.e. 1m distance between groups, must be observed.
 - c.	There must be fixed seating for all attendees. Pre-wedding receptions, freestanding activities (e.g photobooths) and interactions such as drinks receptions are not permitted. 
 - d.	Self-service buffets or staff-served food lines are not allowed. Food and beverages must be served to seated attendees. Sharing dishes/ platters is strongly discouraged.
@@ -166,6 +184,8 @@ For such receptions, you may have up to 100 persons, or the safe capacity of the
 We must remain vigilant to protect ourselves and our loved ones. All guests should check their temperature and ensure they are not feeling unwell before they attend the reception. You may wish to encourage your guests, especially if they are more vulnerable, to refrain from attending your solemnization in person. Instead, they can join in the celebrations safely by using technology (e.g. witness the solemnization through a video link).  
  
 The organiser is liable for ensuring that all attendees observe the necessary safe management measures. Please refer <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">here</a> for the full set of safe management measures. If your venue operator has further questions regarding receptions, they can contact the relevant agency overseeing their operations (e.g. Enterprise Singapore for F&B establishments[^3], Singapore Tourism Board for hotels).
+
+<span style="color:red">^With effect from 28 Dec 2020, the group size for guests other than the wedding party will be increased from five to eight persons.</span>
 
 #### **24. Can I perform other cultural rites such as the tea ceremony during the reception?**
 Yes you may, subject to the safe management guidelines for receptions (e.g. no intermingling between the wedding party and other groups of guests or between groups of guests). For example, the tea ceremony can be held amongst the “wedding party” of 20 persons as part of the reception, and must take into account the prevailing national guidelines for that activity.
@@ -205,7 +225,9 @@ The total number of attendees has to be capped at 100 persons throughout the ent
 #### **35. Are there any duration limits or time restrictions for wedding reception/solemnization?**
 Couples may choose to hold their solemnization and reception on a separate day, however, each of these events must be completed in the same calendar day. Within the calendar day of each event, there is no fixed time frame/ duration limit, but it is recommended to keep the sessions as brief as possible. For solemnizations held in external venues (i.e. outside the ROM(M) Building or a place of residence), the total number of attendees has to be capped at 100 persons throughout the entire event (i.e. only 100 attendees in total) or a lower number subject to the size of the premises and safe management requirements.
 
-For solemnization in homes and in the ROM(M) building, only 10 persons[^1] are allowed, excluding the licensed solemnizer, translator (if needed), and vendors (kept to a minimum).  For solemnizations in other external  venues, such as places of worship or hotels, the cap is up to 100 persons, or the safe capacity of the venue whichever is lower, excluding licensed solemnizer, and vendors (kept to a minimum). Venue operators reserve the right to retain a lower cap if they are unable to comply with the requirements of zoning, or to impose shorter time limits based on their capacity or ability to ensure safe management measures are implemented. Please also note that alcohol cannot be served or consumed after 10.30pm.
+For solemnization in homes and in the ROM(M) building, only 10 persons* are allowed, excluding the licensed solemnizer, translator (if needed), and vendors (kept to a minimum).  For solemnizations in other external  venues, such as places of worship or hotels, the cap is up to 100 persons, or the safe capacity of the venue whichever is lower, excluding licensed solemnizer, and vendors (kept to a minimum). Venue operators reserve the right to retain a lower cap if they are unable to comply with the requirements of zoning, or to impose shorter time limits based on their capacity or ability to ensure safe management measures are implemented. Please also note that alcohol cannot be served or consumed after 10.30pm.
+
+<span style="color:red">*With effect from 28 Dec 2020, the cap for solemnizations in homes will be 10 persons (including members of the hosting household), or 8 visitors (excluding members of the hosting household.  This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors (kept to a minimum). For example, if there are 6 persons currently living in your household, you may have up to 14 persons (6 + 8) for solemnizations in your home, excluding the solemnizer and vendors. The cap for solemnizations in the ROM(M) Building remains at 10 persons, excluding the licensed solemnizer, translator (if needed), and vendors (kept to a minimum).</span>
 
 #### **36. Does the set up of the ceremony allow for a stage, reception table etc?**
 A stage can be set up as part of the ceremony, but there must be no intermingling between the wedding party and other groups of guests, or between groups of guests. A reception table is allowed, if it is to receive guests when they arrive. However, any interactions should be minimized. E-check-in or other contactless methods of registration should be adopted where possible.
@@ -219,7 +241,9 @@ On-site cooking is allowed as long as the kitchen staff/personnel remain masked 
 ## **<ins>Video-link solemnizations</ins>**
 
 #### **39. If we opt for solemnization via video link, can the bride, groom, witnesses and guests be in the same venue? Is there a limit to the number of guests in the same venue?**
-The bride, groom, and witnesses can be in the same location if they belong to the same household. If the solemnization is held in the home, then in line with the safe distancing measures, you must not have more than 5 visitors[^4] in your home. Other guests may wish to join in through the video link instead. Such processes through video links are to enable marriage solemnizations to take place in a safe manner.
+The bride, groom, and witnesses can be in the same location if they belong to the same household. If the solemnization is held in the home, then in line with the safe distancing measures, you must not have more than 5 visitors^ in your home. Other guests may wish to join in through the video link instead. Such processes through video links are to enable marriage solemnizations to take place in a safe manner.
+
+<span style="color:red">^With effect from 28 Dec 2020, each household may receive up to 8 visitors at any point in time.</span>
 
 ## **<ins>Zoning and Staggered Timing Requirements <span style="color:red">(with effect from 3 Oct 2020)</span></ins>**
 
