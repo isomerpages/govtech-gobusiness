@@ -25,19 +25,19 @@ resources_name: news
 google_analytics: UA-162519866-1
 
 colors:
-  primary-color: '#00838f'
-  secondary-color: '#00838f'
+  primary-color: '#037e8a'
+  secondary-color: '#037e8a'
   media-colors:
     - title: media-color-one
-      color: '#00838f'
+      color: '#037e8a'
     - title: media-color-two
-      color: '#00838f'
+      color: '#037e8a'
     - title: media-color-three
-      color: '#00838f'
+      color: '#037e8a'
     - title: media-color-four
-      color: '#00838f'
+      color: '#037e8a'
     - title: media-color-five
-      color: '#00838f'
+      color: '#037e8a'
 
 
 ##################################################################################################################

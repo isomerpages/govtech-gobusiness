@@ -220,17 +220,17 @@ $desktop: 960px + (2 * $gap) !default;
 // Homepage
 #key-highlights{
 	//background-color: $primary;
-	background-color: #2664C4;
+	background-color: #084e8a;
 	.col {
 		//border-left:1px solid darken($primary,10%);
-		border-left:1px solid darken(#2664C4,10%);
+		border-left:1px solid darken(#084e8a,10%);
 		@include touch(){
 			//border-top:1px solid darken($primary,10%);
-			border-left:1px solid darken(#2664C4,10%);
+			border-left:1px solid darken(#084e8a,10%);
 		}
 		&:hover{
 			//background-color: darken($primary,10%);
-			background-color: darken(#2664C4,10%);
+			background-color: darken(#084e8a,10%);
 		}
 	}
 }
@@ -243,7 +243,7 @@ $desktop: 960px + (2 * $gap) !default;
         &.active{
           @include touch(){
             //border-bottom:2px solid $secondary;
-						border-bottom:2px solid #00838f;
+						border-bottom:2px solid #037e8a;
           }
         }
       }
@@ -252,37 +252,37 @@ $desktop: 960px + (2 * $gap) !default;
   .navbar-link:hover:after {
     //border-bottom: 1px solid $secondary;
     //border-left: 1px solid $secondary;
-		border-bottom: 1px solid #00838f;
-    border-left: 1px solid #00838f;
+		border-bottom: 1px solid #037e8a;
+    border-left: 1px solid #037e8a;
   }
 
   .navbar-item{
     .sub-link.is-active{
       //color:$secondary;
-			color:#00838f;
+			color:#037e8a;
     }
 
     .selector{
       &.active{
         //background-color:$secondary;
-				background-color:#00838f;
+				background-color:#037e8a;
       }
     }
     &.active{
       @include desktop(){
         //border-bottom:1px solid $secondary;
-				border-bottom:1px solid #00838f;
+				border-bottom:1px solid #037e8a;
       }
     }
   }
 .navbar-item:hover {
   a {
     //color:$secondary;
-		color:#00838f;
+		color:#037e8a;
   }
   .selector {
       //background-color:$secondary;
-			background-color:#00838f;
+			background-color:#037e8a;
     }
   }
 }
@@ -600,7 +600,7 @@ $bgfontcolor: #717787;
       
       &__getstart{
         color: white;
-        background-color: #00838f;
+        background-color: #037e8a;
         margin-top: 30px;
         border-radius: 5px;
         cursor: pointer;
@@ -740,7 +740,7 @@ $bgfontcolor: #717787;
           position: absolute;
           color: white;
           display: block;
-          background-color: #00838f;
+          background-color: #037e8a;
           text-align: center;
           right: 15px;
           top: -55px;
@@ -938,7 +938,7 @@ $bgfontcolor: #717787;
       
       &__getstart{
         color: white;
-        background-color: #00838f;
+        background-color: #037e8a;
         margin-top: 30px;
         border-radius: 5px;
         cursor: pointer;
@@ -1079,7 +1079,7 @@ $bgfontcolor: #717787;
           position: absolute;
           color: white;
           display: block;
-          background-color: #00838f;
+          background-color: #037e8a;
           text-align: center;
           right: 15px;
           top: -55px;
@@ -1277,7 +1277,7 @@ $bgfontcolor: #717787;
       
       &__getstart{
         color: white;
-        background-color: #00838f;
+        background-color: #037e8a;
         margin-top: 30px;
         border-radius: 5px;
         cursor: pointer;
