@@ -82,8 +82,6 @@ All landscape-related services and nurseries will resume, subject to safe manage
 
 #### **Marriage Solemnisations and Receptions**
 
-With effect from 3 Oct 2020 (inclusive) to 27 Dec 2020 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/Weddings2_3Oct.pdf" target="_blank">document</a> [Last updated 17 Dec 20], depending on venue.
-
 With effect from 28 Dec 2020 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/Weddings2_28dec.pdf" target="_blank">document</a> [Last updated 24 Dec 20], depending on venue.
 
 #### **Marine & Offshore (M&O) Sector**
