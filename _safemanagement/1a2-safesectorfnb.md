@@ -39,7 +39,7 @@ Cinema operators are to comply to measures stipulated in this <a href="https://c
 
 #### **Country and Recreation Clubs**
 
-Country and recreation clubs are to comply to measures stipulated in this <a href="https://go.gov.sg/countryclubadvisory" target="_blank">document</a> [last updated on 4 Aug 20]. 
+Country and recreation clubs are to comply to measures stipulated in this <a href="https://go.gov.sg/countryclubadvisory" target="_blank">document</a> [last updated on 28 Dec 20]. 
 
 #### **Dental Sector**
 

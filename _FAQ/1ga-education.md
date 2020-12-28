@@ -5,7 +5,7 @@ third_nav_title: For Sector-Specific Queries
 ---
 
 #### **1. When can face-to-face lessons at private residences, tuition centres and enrichment centres resume?**
-Face-to-face tuition and enrichment classes will be allowed to resume from Phase Two of the post-Circuit Breaker period, which will start on 19 June 2020. In line with the rest of the economy, they will be subject to safe management measures.
+Face-to-face tuition and enrichment classes have been allowed to resume from 19 June 2020 in accordance to safe management measures.
 
 #### **2. Are all types of tuition and enrichment classes allowed to resume?**
 Most face-to-face tuition and enrichment classes were allowed to resume from Phase Two, which started on 19 June 2020. In line with the rest of the economy, they are subject to safe management measures. For more information, please refer <a href="https://covid.gobusiness.gov.sg\safemanagement\sector" target="_blank">here</a>.
@@ -47,7 +47,7 @@ iv. Liquids from instruments (i.e. condensation and saliva) must be collected an
 For detailed guidance, please also refer to the advisories issued by <a href="https://www.sportsingapore.gov.sg/newsroom/media-releases/2020/advisory-for-resumption-of-sport-and-physical-exercise-and-activity-for-phase-two-safe-transition" target="_blank">Sport Singapore</a> and the <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html" target="_blank">National Arts Council</a>.
 
 #### **5. Will private tutors who are operating out of private residences be allowed to resume face-to-face lessons?**
-Yes, private tutors who are not based in centres will also be allowed to resume lessons from Phase Two, i.e. from 19 June 2020. Home-based tuition/enrichment is subject to prevailing safe management measures for home-based services, including the cap of five visitors allowed in the home at any one time. Such tutors must also use SafeEntry for visitors to support contact tracing; if the tutor is awaiting the set-up of a SafeEntry account, s/he should maintain a manual log of visitors in the interim.
+Yes, private tutors who are not based in centres have been allowed to resume lessons from Phase Two, i.e. 19 June 2020. Home-based tuition/enrichment is subject to prevailing safe management measures for home-based services, including the cap of eight visitors allowed in the home at any one time. Such tutors must also use SafeEntry for visitors to support contact tracing; if the tutor is awaiting the set-up of a SafeEntry account, s/he should maintain a manual log of visitors in the interim.
 
 Parents and tutors should also adhere to prevailing safe distancing measures, i.e. they should ensure that students and tutors maintain safe distancing of at least one metre at all times, with strictly no physical interaction between individuals. If it is not possible to apply one metre safe distancing between students (e.g. in residences), tutors must limit classes to no more than five persons, including the tutor, with suitable spacing between individuals where possible.
 
