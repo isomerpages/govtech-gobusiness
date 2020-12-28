@@ -97,8 +97,8 @@ You may wish to minimise the in-store dwell time of customers, suppliers and con
 
 You may also wish to adopt <a href="https://www.smeportal.sg/content/tech-depot/en/psg/generic-it-solution-category/visitor-management-queue-management-system.html" target="_blank">queue management systems</a>, which are supported under the <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant" target="_blank">Productivity Solutions Grant</a>. 
 
-#### **21. Are in-store and mall promotions e.g. sales and special offers, allowed?**
-Retailers should avoid activities that would attract crowds in and outside of the retail establishment (e.g. providing special discounts or offers). This is to prevent crowds and long queues of customers and delivery personnel at the store fr.
+#### **21. Are in-store and mall promotions e.g. sales and special offers allowed?**
+Retailers should avoid activities that would attract crowds in and outside of the retail establishment (e.g. providing special discounts or offers). This is to prevent crowds and long queues of customers and delivery personnel at the store front.
 
 Sales and promotions for purchases online are allowed, where purchases are delivered to customers directly.
 
