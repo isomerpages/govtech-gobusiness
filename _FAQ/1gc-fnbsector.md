@@ -48,7 +48,7 @@ The above notwithstanding, food stalls and kiosks are allowed to place condiment
 Entertainment/amusement devices (e.g. dart machines, billiard, pool tables) in F&B establishments must remain closed as these are not the core services provided by the F&B establishments. Such facilities will result in longer than necessary dwell time, and result in crowds or congregation. We urge the cooperation of F&B establishments as we work towards the gradual resumption of activities, to provide a safe environment for customers and employees.
 
 #### **10. Can F&B establishments take in reservations or walk-in diners of more than 8 persons for an event or small group gathering as long as the groups are separated into tables of 8 or less?**
-Gatherings and events involving more than 5 persons are not allowed at F&B establishments. Exceptions can only be made if all members of the group are from the same household. They must be seated at multiple tables with  no more than 5 persons per table, with at least one-metre spacing between groups.
+Gatherings and events involving more than eight persons are not allowed at F&B establishments. Exceptions can only be made if all members of the group are from the same household. They must be seated at multiple tables with  no more than eight persons per table, with at least one-metre spacing between groups.
 
 #### **11. Can F&B establishments request to check the identification cards of the groups of diners if they claim to be from the same household?**
 F&B establishments can request to verify diners’ claims that they are from the same household, and can reject the entry of diners at their discretion.
@@ -79,7 +79,7 @@ Under the current safe management measure at a funeral event (funeral wakes incl
 #### **17. All malls and large standalone stores (>930sqm) must comply with the occupancy limit of 8 sqm per person stipulated. What is the basis for this?**
 The occupancy limit is meant to help malls and standalone stores operationalise the requirement of ensuring sufficient physical distancing between visitors and avoid overcrowding within the premise. 
 
-In addition to the occupancy limit, malls and standalone stores must also ensure that they comply with other safe distancing measures, e.g. dispersion of groups of more than five people and physical distancing of at least one metre in queues.
+In addition to the occupancy limit, malls and standalone stores must also ensure that they comply with other safe distancing measures, e.g. dispersion of groups of more than eight people and physical distancing of at least one metre in queues.
 
 #### **18. How should malls and standalone stores compute the number of people allowed in their premises based on the occupancy limit of one person per 8 sqm of Gross Floor Area (GFA)?**
 Malls and standalone stores can take reference from the following guidelines:

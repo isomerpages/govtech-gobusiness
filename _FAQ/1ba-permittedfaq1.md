@@ -1,7 +1,7 @@
 ---
 title: Resumption of operations
 permalink: /faq/resumption/resumption/
-third_nav_title: Resumption of Business Activities (Phases One and Two)
+third_nav_title: Resumption of Business Activities (Phases One, Two and Three)
 ---
 
 #### **1. How do I know if my company is allowed to resume operations?**
