@@ -14,7 +14,7 @@ To check-in to SafeEntry, visitors scan a QR code using their TraceTogether App,
 
 All businesses and services that are in operation (including offices, factories, etc) must institute SafeEntry for their employees, associates, visitors and vendors. For large office buildings that have multiple floors and/or house different business entities, check-in is required for each business entity and at each floor.  Businesses and building owners who wish to find out more can click <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">here</a>.
 
-Of the businesses/services that are allowed to be in operation, the following list of facilities/places should deploy the SafeEntry system to log the check-in of customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law.
+Of the businesses/services that are allowed to be in operation, the following list of facilities/places should deploy the SafeEntry system to log the check-in of customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law[^1].
 - Construction and marine process worksites
 - Schools and educational institutes
 - Preschools and student care centres
@@ -51,11 +51,11 @@ Retail outlets where customers are unlikely to be in close proximity for a prolo
 
 For avoidance of doubt, all permitted enterprises, including retail outlets, must still implement SafeEntry for employees, associates and vendors as per all workplaces, and adhere strictly to the other safe management measures, e.g. safe distancing.
 
-    Please note that the methods for SafeEntry can and will change depending on the state of affairs in Singapore in the context of the COVID-19 pandemic. Permitted enterprises are advised to stand ready to adapt entry arrangements to their premises to new methods if they want to be confident in meeting statutory requirements.
+    <em>Please note that the methods for SafeEntry can and will change depending on the state of affairs in Singapore in the context of the COVID-19 pandemic. Permitted enterprises are advised to stand ready to adapt entry arrangements to their premises to new methods if they want to be confident in meeting statutory requirements.</em>
 
-    SafeEntry via TraceTogether only (or TraceTogether-only SafeEntry) is a new protocol consisting of check-ins only through the use of the TraceTogether App or Token and is being planned for roll-out soon. 
+    <em>SafeEntry via TraceTogether only (or TraceTogether-only SafeEntry) is a new protocol consisting of check-ins only through the use of the TraceTogether App or Token and is being planned for roll-out soon.</em>
 
-    When TraceTogether-only SafeEntry is rolled out nationwide, supermarkets and retail outlets (regardless of size) that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours will no longer be required to implement SafeEntry nor TraceTogether-only SafeEntry for customers, clients and visitors. 
+    <em>When TraceTogether-only SafeEntry is rolled out nationwide, supermarkets and retail outlets (regardless of size) that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours will no longer be required to implement SafeEntry nor TraceTogether-only SafeEntry for customers, clients and visitors.</em>
 
 
 #### **2. TraceTogether-only SafeEntry**
@@ -74,3 +74,7 @@ Both the TraceTogether App and the TraceTogether Token work by exchanging short-
 If a user is interviewed by a contact tracer for activity mapping, he can authorise the uploading of his TraceTogether data to Ministry of Health (MOH). MOH will then decipher the data and get the mobile numbers of the user’s close contacts within a period of time. This facilitates the contact tracing process, and enables contact tracers to inform close contacts of confirmed cases more expeditiously.
 
 To learn more about the TraceTogether programme, visit <a target="_blank" href="https://www.tracetogether.gov.sg/">here</a>.
+
+
+___
+[^1]: This list will be updated as more activities and services are resumed.
