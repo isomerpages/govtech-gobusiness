@@ -51,11 +51,11 @@ Retail outlets where customers are unlikely to be in close proximity for a prolo
 
 For avoidance of doubt, all permitted enterprises, including retail outlets, must still implement SafeEntry for employees, associates and vendors as per all workplaces, and adhere strictly to the other safe management measures, e.g. safe distancing.
 
-    <em>Please note that the methods for SafeEntry can and will change depending on the state of affairs in Singapore in the context of the COVID-19 pandemic. Permitted enterprises are advised to stand ready to adapt entry arrangements to their premises to new methods if they want to be confident in meeting statutory requirements.</em>
+    *Please note that the methods for SafeEntry can and will change depending on the state of affairs in Singapore in the context of the COVID-19 pandemic. Permitted enterprises are advised to stand ready to adapt entry arrangements to their premises to new methods if they want to be confident in meeting statutory requirements.*
 
-    <em>SafeEntry via TraceTogether only (or TraceTogether-only SafeEntry) is a new protocol consisting of check-ins only through the use of the TraceTogether App or Token and is being planned for roll-out soon.</em>
+    *SafeEntry via TraceTogether only (or TraceTogether-only SafeEntry) is a new protocol consisting of check-ins only through the use of the TraceTogether App or Token and is being planned for roll-out soon.*
 
-    <em>When TraceTogether-only SafeEntry is rolled out nationwide, supermarkets and retail outlets (regardless of size) that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours will no longer be required to implement SafeEntry nor TraceTogether-only SafeEntry for customers, clients and visitors.</em>
+    *When TraceTogether-only SafeEntry is rolled out nationwide, supermarkets and retail outlets (regardless of size) that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours will no longer be required to implement SafeEntry nor TraceTogether-only SafeEntry for customers, clients and visitors.*
 
 
 #### **2. TraceTogether-only SafeEntry**
