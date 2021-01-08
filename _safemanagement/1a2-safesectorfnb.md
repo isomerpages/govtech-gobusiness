@@ -138,7 +138,7 @@ For more information and FAQs on COVID-19 for the religious sector, please visit
 
 #### **Sports Sector Enterprises, Sports Education, and Premises with Sports Facilities**
 
-Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this <a href="https://go.gov.sg/sportsadvisory" target="_blank">document</a> [last updated 18 Jun 20].
+Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this <a href="https://go.gov.sg/sportsadvisory" target="_blank">document</a> [last updated 7 Jan 21].
 
 #### **Tours**
 
