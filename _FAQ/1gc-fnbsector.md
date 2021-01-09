@@ -17,7 +17,7 @@ However, please note that you will need to submit manpower details via the <a hr
 ## **<ins>F&B Establishments</ins>**
 
 #### **3. What are the safe management measures F&B establishments need to implement for dine-in?**
-With effect from 19 June 2020, dine-in for F&B establishments is allowed. Please refer to the <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">advisory for Phase Two Re-opening of Food & Beverage Establishments</a> for details on the applicable safe management measures. 
+With effect from 19 June 2020, dine-in for F&B establishments is allowed. Please refer to the <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">advisory for Re-opening of Food & Beverage Establishments</a> for details on the applicable safe management measures. 
 
 #### **4. Can F&B establishments use acrylic dividers or physical barriers to replace the need for 1m safe distancing?**
 No. The default is to ensure at least one metre safe distancing between groups of seated diners (five or fewer) at all times. While acrylic dividers or other physical barriers can be adopted alongside the safe distancing requirement, they are not meant to be used as a substitute for the safe distancing requirement. Where physical barriers (e.g. acrylic dividers) are used, additional safeguards must be taken to minimise the risk of cross infection (e.g. regular cleaning).
@@ -136,7 +136,7 @@ There should be no cross deployment or interaction between employees in differen
 If cross deployment cannot be avoided due to operational reasons such as the nature of the job, e.g. IT personnel, truck drivers or managerial staff supporting different office/store locations, retailers must take additional safeguards to minimise the risk of cross infection, e.g. minimise the number of premises that workers are cross-deployed to, put in place systems to ensure no direct contact with the cross-deployed personnel.
 
 #### **31. Are testers and samples allowed?**
-Product testers and samples for self application and immediate consumption, e.g. perfume testers,  make-up testers and unsealed food samples, are not allowed. Staff must also not apply the product sample directly on customers.
+Product testers and samples for self application and immediate consumption, e.g. perfume testers,  make-up testers and unsealed food samples, are not allowed. Customers must approach staff for assistance if samples are needed. Staff must also not apply the product sample directly on customers.
 
 #### **32. Can communal water-based facilities such as showers/spas/saunas/jacuzzi facilities be used?**
 Yes, but operators must practise safe management and safe distancing measures, including ensuring that customers are spaced at least one-metre apart at all times on the premises.
