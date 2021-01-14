@@ -7,9 +7,9 @@ third_nav_title: For Sector-Specific Queries
 ## **<ins>General</ins>**
 
 #### **1. When will TraceTogether-only SafeEntry (ToS) be implemented?**
-Since August 2020, ToS has been trialled at selected venues where people are likely to be in close contact for prolonged periods, and where human traffic is high, to ensure that individuals at these higher-risk venues are covered by the TT Programme. Since October 2020, ToS has been introduced at more venues as they increase in capacity, and at larger-scale activities involving more people. These include live performances, selected places of worship and cinemas. 
+Since October 2020, ToS has been piloted at selected venues as they increase in capacity, and at larger-scale activities involving more people, in order to ensure that individuals at these venues and activities are covered by both SafeEntry and TraceTogether. These selected venues include live performances, MICE events, selected places of worship and cinemas. 
 
-Tos will only be implemented after everyone has had the chance to collect a Token in their constituencies, and a reasonable period of national distribution is achieved. 
+ToS will only be implemented after everyone has had the chance to collect a Token in their constituencies, and a reasonable period of national distribution is achieved. It will be announced ahead of implementation, in order to provide time for businesses to prepare for this transition to ToS. 
 
 F&B establishments are advised to ensure that they are able to accept TraceTogether Token check-in alongside other modes of SafeEntry check-in as soon as possible. Refer to <a href="https://go.gov.sg/token-scanning" target="_blank">here</a> to find out how to implement Token check-in.
 
