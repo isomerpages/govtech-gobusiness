@@ -91,145 +91,148 @@ Some F&B outlets have been observed to be playing loud music, causing patrons to
 #### **20. I am a licensed food caterer and understand that self-service buffet lines are not allowed currently. Am I allowed to provide food catering services at a funeral related event such as wake, where the food is handled and served by my staff, or that it is individually packed for the attendees?**
 Under the current safe management measure at a funeral event (funeral wakes included), no buffet set-up or event reception with food and drinks is allowed. However, individually packed drinks (i.e. bottled/packet drink) or individually packed titbits (e.g. peanuts, melon seeds) may be provided, but masks must be worn at all times except when the individual is drinking or eating. There should be strictly no sharing of drinks or titbits.
 
-#### **21. Self-service buffet lines are still not allowed. What if I have service staff to man the buffet line?**
+#### **21. Can meals be catered or consumed at funeral services?**
+There should be no meals catered or consumed at funeral services for attendees. The exception is only given for family members keeping vigil. Individually packaged bento boxes can be catered for them and they must consume their meals away from other attendees.
+
+#### **22. Self-service buffet lines are still not allowed. What if I have service staff to man the buffet line?**
 Buffet lines, where customers queue up to collect the food, are currently not allowed, even if the food at the line is served by staff.
 
 ## **<ins>Retail Establishments</ins>**
 
-#### **22. The Chinese New Year period is coming up. Can retailers hold pop-ups to sell their products, outside of their premises or at mall atriums?**
+#### **23. The Chinese New Year period is coming up. Can retailers hold pop-ups to sell their products, outside of their premises or at mall atriums?**
 Temporary pop-ups/pushcarts and fairs selling Chinese New Year goods at mall atriums and common spaces are disallowed. However, existing designated retail stores in the mall may be used to conduct sales of Chinese New Year goods.
 
-#### **23. Can I give out food samples to my customers during Chinese New Year?**
+#### **24. Can I give out food samples to my customers during Chinese New Year?**
 Open food sampling is strictly disallowed. However, food samples in sealed packaging can be distributed to shoppers; these must not be for immediate consumption.
 
-#### **24. All malls and large standalone stores (>930sqm) must comply with the occupancy limit of 8 sqm per person stipulated. What is the basis for this?**
+#### **25. All malls and large standalone stores (>930sqm) must comply with the occupancy limit of 8 sqm per person stipulated. What is the basis for this?**
 The occupancy limit is meant to help malls and standalone stores operationalise the requirement of ensuring sufficient physical distancing between visitors and avoid overcrowding within the premise. 
 
 In addition to the occupancy limit, malls and standalone stores must also ensure that they comply with other safe distancing measures, e.g. dispersion of groups of more than eight people and physical distancing of at least one metre in queues.
 
-#### **25. How should malls and standalone stores compute the number of people allowed in their premises based on the occupancy limit of one person per 8 sqm of Gross Floor Area (GFA)?**
+#### **26. How should malls and standalone stores compute the number of people allowed in their premises based on the occupancy limit of one person per 8 sqm of Gross Floor Area (GFA)?**
 Malls and standalone stores can take reference from the following guidelines:
 - A standalone mall with an approved GFA of 32,000 sqm for the retail component will have an allowable visitor capacity of 4,000 persons at any one time. 
 - Non-visitors, i.e. staff of the mall management, tenants and term contractors, will not be included in the visitor capacity computation. 
 - Individual tenants within shopping malls will not be subjected to this rule. However, other safe distancing measures are to be applied, e.g. dispersion of groups more than eight people and physical distancing of at least one metre in queues.
 
-#### **26. How can a mall/ standalone store manage the number of shoppers to ensure compliance with the occupancy limit of one person per 8 sqm of Gross Floor Area (GFA)?**
+#### **27. How can a mall/ standalone store manage the number of shoppers to ensure compliance with the occupancy limit of one person per 8 sqm of Gross Floor Area (GFA)?**
 Malls and standalone stores can consider continuing to reduce the number of entrances and deploy queue management systems or staff to control the number of visitors entering and leaving the premises, to ensure compliance with the allowable visitor capacity. 
 
 The reduction in the number of entrances should not lead to a congregation of visitors outside the mall. Malls must make sure that there is at least one metre spacing between persons standing in queues, including those outside the mall.
 
-#### **27. With more shops opening, crowds are coming back. How else can I better control the crowd level in my store?**
+#### **28. With more shops opening, crowds are coming back. How else can I better control the crowd level in my store?**
 You may wish to minimise the in-store dwell time of customers, suppliers and contractors. For instance, delay opening sections of the store for better crowd control. 
 
 You may also wish to adopt <a href="https://www.smeportal.sg/content/tech-depot/en/psg/generic-it-solution-category/visitor-management-queue-management-system.html" target="_blank">queue management systems</a>, which are supported under the <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant" target="_blank">Productivity Solutions Grant</a>. 
 
-#### **28. Are in-store and mall promotions e.g. sales and special offers allowed?**
+#### **29. Are in-store and mall promotions e.g. sales and special offers allowed?**
 Retailers should avoid activities that would attract crowds in and outside of the retail establishment (e.g. providing special discounts or offers). This is to prevent crowds and long queues of customers and delivery personnel at the store front.
 
 Sales and promotions for purchases online are allowed, where purchases are delivered to customers directly.
 
-#### **29. Are in-store events and activities or mall atrium activities allowed?**
+#### **30. Are in-store events and activities or mall atrium activities allowed?**
 Activities and events at mall atriums must not be held.
 
-#### **30. When will we know if atrium sales can resume?**
+#### **31. When will we know if atrium sales can resume?**
 Atrium sales are not permitted until further notice.
 
-#### **31. What are the visible symptoms to check for and how should I check this? As a mall operator, can I turn away all customers who appear unwell?**
+#### **32. What are the visible symptoms to check for and how should I check this? As a mall operator, can I turn away all customers who appear unwell?**
 Notable visible symptoms to look out for include: (a) coughing; (b) sneezing; (c) breathlessness; and (d) a runny nose.
 
 These would be noticeable symptoms. Those who appear unwell should be turned away, except where the individual is entering the mall to seek medical treatment for a specified symptom.
  
-#### **32. Will malls be held accountable if their tenants do not comply with the safe management measures?**
+#### **33. Will malls be held accountable if their tenants do not comply with the safe management measures?**
 Government agencies will step up enforcement efforts to ensure the proper implementation of the safe management measures. If establishments are found to be non-compliant, they will be guided on finding suitable solutions. Subsequently, periodic checks will be conducted to ensure compliance. Mall operators are to provide assistance to tenants who may need it. 
 
 Businesses, including mall operators and their tenants, are accountable for their own safe management measures. If they do not implement or comply with the government’s advisories, they may be ineligible for government grants, loans, tax rebates and other assistance. They may also face fines and jail terms under the COVID-19 (Temporary Measures) Act, depending on the extent of their infringement.
 
-#### **33. Do retailers need to apply for permission if they intend to organise in-store or mall promotions e.g. sales and special offers? What guidelines do they have to follow when organising such activities?**
+#### **34. Do retailers need to apply for permission if they intend to organise in-store or mall promotions e.g. sales and special offers? What guidelines do they have to follow when organising such activities?**
 Retailers should avoid activities that would attract crowds in and outside of the retail establishment (e.g. providing special discounts or offers). If such activities are organised, an application for permit is not required. However, retailers must ensure that they are able to monitor and control the crowd flow diligently. For instance, they must continually ensure that there is no overcrowding, at least one metre spacing between customers standing in the queues, and should disperse groups larger than eight people. Retailers who are unable to implement proper crowd control will be ordered to cease promotion activities immediately.
 
-#### **34. For retailers who have to cross-deploy their staff, what are the additional safeguards that they have to put in place to minimise the risk of cross infection?**
+#### **35. For retailers who have to cross-deploy their staff, what are the additional safeguards that they have to put in place to minimise the risk of cross infection?**
 There should be no cross deployment or interaction between employees in different shifts, teams or worksites, even outside of work.
 
 If cross deployment cannot be avoided due to operational reasons such as the nature of the job, e.g. IT personnel, truck drivers or managerial staff supporting different office/store locations, retailers must take additional safeguards to minimise the risk of cross infection, e.g. minimise the number of premises that workers are cross-deployed to, put in place systems to ensure no direct contact with the cross-deployed personnel.
 
-#### **35. Are testers and samples allowed?**
+#### **36. Are testers and samples allowed?**
 Product testers and samples for self application and immediate consumption, e.g. perfume testers,  make-up testers and unsealed food samples, are not allowed. Customers must approach staff for assistance if samples are needed. Staff must also not apply the product sample directly on customers.
 
-#### **36. Can communal water-based facilities such as showers/spas/saunas/jacuzzi facilities be used?**
+#### **37. Can communal water-based facilities such as showers/spas/saunas/jacuzzi facilities be used?**
 Yes, but operators must practise safe management and safe distancing measures, including ensuring that customers are spaced at least one-metre apart at all times on the premises.
 
-#### **37. As an operator of make-up or facial therapy services, what additional precautions should I take for my employees, as my customers are unable to wear a face mask during these services?**
+#### **38. As an operator of make-up or facial therapy services, what additional precautions should I take for my employees, as my customers are unable to wear a face mask during these services?**
 Apart from wearing masks, operators may wish to provide their employees with additional personal protective equipment such as face shields at the workplace, where practicable. They should also remind employees to wash their hands with soap/sanitise their hands after each service.
 
-#### **38. Do customers need to wear a face mask for facial hair grooming/facial threading services?**
+#### **39. Do customers need to wear a face mask for facial hair grooming/facial threading services?**
 Masks should be worn as a default. Customers receiving facial treatments or facial therapies (which include facial hair grooming or beard trimming services) in private rooms are allowed to remove their masks during their treatment, but operators must ensure that the private room is thoroughly disinfected before and after use. Facial treatment or facial therapies where customers would need to remove their face masks are not allowed in open settings (i.e. open-format salons where customers are seated together). Therapists or technicians are not allowed to remove their masks at all times when performing any services. 
 
 For the safety of employees and customers, facial threading services where therapists or technicians have to remove their face masks during the delivery of service (e.g. use the technique of holding threads in their mouths) are not allowed.
 
-#### **39. Are paid kiddy rides/indoor playgrounds/family entertainment centres permitted to resume operations?**
+#### **40. Are paid kiddy rides/indoor playgrounds/family entertainment centres permitted to resume operations?**
 Paid kiddy rides, indoor playgrounds and family entertainment centres may resume operations. Operators must ensure that safe management measures are adhered to (e.g. regular cleaning of play areas; providing hand sanitisers nearby).
 
 More details can be found <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">here</a>.
 
-#### **40. Are common play areas for children in F&B/retail shops/malls allowed to open?**
+#### **41. Are common play areas for children in F&B/retail shops/malls allowed to open?**
 Common play areas in F&B, retail establishments and malls may open. Operators must ensure that safe management measures are adhered to (e.g. regular cleaning of play areas; providing hand sanitisers nearby).
 
 More details can be found <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">here</a>.
 
-#### **41. Are indoor kids’ playgrounds and leisure centres in malls allowed to open?**
+#### **42. Are indoor kids’ playgrounds and leisure centres in malls allowed to open?**
 Family entertainment centres such as indoor kids’ playgrounds, recreation and leisure centres are allowed to open. They must adhere to the required safe management measures as outlined in ESG’s Advisory for Retail Establishments and Lifestyle-Related Services.  
 
 More details can be found <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">here</a>.
 
-#### **42. Are game arcades/claw machines permitted to resume operations?**
+#### **43. Are game arcades/claw machines permitted to resume operations?**
 Standalone game arcades and claw machines are permitted to resume operations. However, those located within F&B establishments must remain closed as they are not part of the core services provided by the F&B establishments. Such facilities will result in unnecessary dwell time, and result in crowds or congregation.
 
-#### **43. Are vending machines permitted to open?**
+#### **44. Are vending machines permitted to open?**
 Yes, vending machines are permitted to open.
 
-#### **44. Are retail businesses who conduct their businesses from their outdoor display areas outside their retail shops permitted to resume operations?**
+#### **45. Are retail businesses who conduct their businesses from their outdoor display areas outside their retail shops permitted to resume operations?**
 Yes. Retail businesses are allowed to reopen their shopfronts from 19 June 2020, including operating from their outdoor display areas outside their shops. 
 
 Retailers are required to implement safe management measures. More details can be found <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">here</a>.
 
-#### **45. Are home-based beauty salons allowed to reopen? Is there an advisory for home-based beauty salon businesses?**
+#### **46. Are home-based beauty salons allowed to reopen? Is there an advisory for home-based beauty salon businesses?**
 Yes, home-based beauty services are allowed to resume from 19 June 2020. Home-based businesses must ensure that Safe Management Measures are deployed and that safe distancing measures are practised at all times by your employees and customers.  
 
 Before resuming activities, businesses must comply with the requirements for Safe Management Measures and any sector-specific requirements which apply to them. For retail and lifestyle-related services, which include beauty services, businesses may refer to the joint advisories issued by ESG, STB, SFA, HDB and URA.
 
-#### **46. Are there guidelines for saunas, especially large-format spas and saunas?**
+#### **47. Are there guidelines for saunas, especially large-format spas and saunas?**
 Spas and saunas are allowed to open, and operators must practise safe management and safe distancing measures, including ensuring that customers are spaced at least one-metre apart at all times on the premises. 
 
 Mask should be worn as a default. Masks can be taken off when performing strenuous activities or where practicable, although it is still recommended as good practice even under such circumstances.  
 
 Large-format spas and saunas may also reference the advisory for malls and large standalone stores where those larger than > 930 sqm (or 10,000 sqft) of Gross Floor Area (GFA) must comply with the occupancy limit of one person per 8 sqm of GFA.
 
-#### **47. Can customers share private therapy rooms?**
+#### **48. Can customers share private therapy rooms?**
 Customers in a group of up to 8 may share a private therapy room. They are allowed to remove their masks during their facial treatment or therapy done in a private room, and must put the masks back on immediately after. The operator must ensure that the private room is thoroughly disinfected before and after use. A private therapy room is defined as one which is enclosed on all sides by partitions[^1] that are at least 2 metres in height, e.g. fixed walls, plexiglass. The operator must ensure that customers are at least 1 metre apart during the treatment or therapy.
 
-#### **48. Should malls continue to demarcate lifts with one-metre spacing?**
+#### **49. Should malls continue to demarcate lifts with one-metre spacing?**
 As more activities resume, lift lobbies have become increasingly crowded. To reduce the risk of overcrowding in lift lobbies, there is no longer a requirement for 1-metre safe distancing within the lift. 
 
 In lieu of the 1-metre safe distancing requirements in lift, lift owners should implement the following safe management measures found <a href="https://www1.bca.gov.sg/docs/default-source/bca-restart/advisory-to-lift-owners-smm-lifts.pdf" target="_blank">here</a>. 
 
-#### **49. Are kiosks and push-carts permitted to resume operations?**
+#### **50. Are kiosks and push-carts permitted to resume operations?**
 Yes, kiosks and push-carts with permitted SSIC codes can operate. This applies to operations that exist before the Circuit Breaker period. 
 
 Temporary pop-up events/shops will not be permitted. All atrium events and activities must remain closed.
 
-#### **50. Are unmanned massage chairs in malls allowed to operate?**
+#### **51. Are unmanned massage chairs in malls allowed to operate?**
 Coin-operated/unmanned massage chairs are allowed to open, provided they are placed at least one metre apart from each other. Hand sanitisers must be provided nearby, and the chairs must be cleaned and disinfected regularly. Operators are to ensure that users abide by the safe management measures as outlined in ESG’s Advisory for Retail Establishments and Lifestyle-Related Services.
 
-#### **51. Can shoppers remove their masks and sit at common areas to consume takeaway food?**
+#### **52. Can shoppers remove their masks and sit at common areas to consume takeaway food?**
 Yes, they are allowed to sit at common areas to consume food. However, they should eat quickly, and leave the area immediately after they finish their food/drinks. They must put on their masks properly at all times except when eating or drinking. All other Safe Management measures will apply.
 
-#### **52. For retail stores that are currently under renovation and are taking up a temporary lease at atrium space, can they operate?**
+#### **53. For retail stores that are currently under renovation and are taking up a temporary lease at atrium space, can they operate?**
 Yes, they can do so, but subject to ESG’s approval. They may write to <a href = "mailto: Retail_Design@enterprisesg.gov.sg">Retail_Design@enterprisesg.gov.sg</a>.
 
-#### **53. The main walkway to office block passes through some retail units (facing corridor), do workers still need to do SafeEntry and temperature checks?**
+#### **54. The main walkway to office block passes through some retail units (facing corridor), do workers still need to do SafeEntry and temperature checks?**
 Yes, workers will still need to do SafeEntry and temperature checks as they may decide to enter the mall and patronise the retail stores and F&B outlets. Exemption is only given if the mall is able to create a dedicated pathway that leads the workers directly to the office entrance.
 
-#### **54. Can designated smoking areas (DSAs) be reopened?**
+#### **55. Can designated smoking areas (DSAs) be reopened?**
 Yes, malls may reopen DSAs, so long as the safe distancing measures are adhered to. Malls can refer to the latest NEA advisory for the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/post-circuit-breaker-measures" target="_blank">guidelines on DSAs</a>. 
 
 
