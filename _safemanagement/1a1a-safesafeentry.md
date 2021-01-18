@@ -10,6 +10,8 @@ SafeEntry is the name of the national digital visitor registration system that l
 
 To check-in to SafeEntry, visitors scan a QR code using their TraceTogether App, SingPass Mobile app, or other QR code apps, or present their TraceTogether Token or NRIC/FIN/other IDs to be scanned. By doing so, users give consent to share their name and contact information with the businesses, and make the necessary declaration required. Using this system allows businesses to verify user identity with data from Government sources to facilitate their contact tracing work should the need arise.
 
+SafeEntry by any of the methods above is presently regarded as the appropriate procedure and control that enables or facilitates contract tracing for the purpose of meeting the safe management meaures required by the law.
+
 All businesses and services that are in operation (including offices, factories, etc) must institute SafeEntry for their employees, associates, visitors and vendors. For large office buildings that have multiple floors and/or house different business entities, check-in is required for each business entity and at each floor.  Businesses and building owners who wish to find out more can click <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">here</a>.
 
 Of the businesses/services that are allowed to be in operation, the following list of facilities/places should deploy the SafeEntry system to log the check-in of customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law[^1].
