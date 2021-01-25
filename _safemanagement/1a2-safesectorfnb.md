@@ -60,10 +60,10 @@ Enterprises in the finance sector are to comply to measures stipulated in this <
 #### **F&B & Retail**
 
 - F&B establishments are to comply to measures stipulated in this (document) <a href="https://covid.gobusiness.gov.sg/guides/FBestablishments8Jan.pdf" target="_blank">document</a> [last updated on 8 Jan 21].<br>
-- Infographic on Safe Management Measures at F&B Establishments [last updated on 27 Jul 20]<br>
+- Infographic on Safe Management Measures at F&B Establishments [last updated on 12 Jan 21]<br>
 ![F&B](/images/smrfnb.jpg "F&B establishments")
 - Retail establishments and lifestyle-related services are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/retailsmrrequirements8Jan.pdf" target="_blank">document</a> [last updated on 8 Jan 21].<br>
-- Infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 16 Jun 20]<br>
+- Infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 12 Jan 21]<br>
 ![Retail](/images/smrretail.jpg "Retail")
 
 #### **Health and Social Services**
@@ -74,7 +74,7 @@ Social Service Agencies and community groups distributing essential aid (i.e. su
 
 #### **Hotels**
 
-Hotels are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/hotels_ver17Dec2020.pdf" target="_blank">document</a> [last updated 17 Dec 20]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html" target="_blank">website</a>.
+Hotels are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/hotels_ver22Jan2021.pdf" target="_blank">document</a> [last updated 22 Jan 21]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html" target="_blank">website</a>.
 
 #### **Landscape-related Services**
 
