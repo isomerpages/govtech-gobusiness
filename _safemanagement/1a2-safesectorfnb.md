@@ -82,7 +82,7 @@ All landscape-related services and nurseries will resume, subject to safe manage
 
 #### **Marriage Solemnisations and Receptions**
 
-With effect from 28 Dec 2020 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/Weddings2_28dec.pdf" target="_blank">document</a> [Last updated 24 Dec 20], depending on venue.
+With effect from 26 Jan 2021 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/Weddings2_26Jan.pdf" target="_blank">document</a> [Last updated 26 Jan 21], depending on venue.
 
 #### **Marine & Offshore (M&O) Sector**
 
@@ -132,7 +132,7 @@ You can also refer to the Singapore Police Force <a href = "https://www.police.g
 
 #### **Religious Organisations**
 
-Religious organisations are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/mccyroadadvisory2.pdf" target="_blank">document</a> [last updated on 26 Dec 20]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/dec/phase-three-of-re-opening-religious-activities" target="_blank">website</a>.
+Religious organisations are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/mccyroadadvisory2.pdf" target="_blank">document</a> [last updated on 26 Jan 21]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/dec/phase-three-of-re-opening-religious-activities" target="_blank">website</a>.
 
 For more information and FAQs on COVID-19 for the religious sector, please visit <a href = "https://www.cpro.gov.sg" target="_blank">www.cpro.gov.sg</a> or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at <a href = "mailto: cpro@mccy.gov.sg">cpro@mccy.gov.sg</a>. 
 

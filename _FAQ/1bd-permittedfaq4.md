@@ -46,7 +46,12 @@ Activities or settings where large numbers of people are likely to come into clo
 
 STB has begun to engage relevant businesses and organisations on possible safe management measures to be taken for these activities or settings. STB will advise businesses and organisations on the approval processes and timelines for resumption at a later date.
 
-#### **9. Can home-based services such as home-based cleaners or home-based salons resume operations?**
-Home-based services, including those involving visitors to the home, are allowed to resume in accordance, with prevailing rules and safe management measures, including the cap of eight visitors allowed in the home at any one time. Service providers are required to wear masks and maintain a one metre distancing.
+#### **9. Can I receive visitors to my home if I provide home-based services, e.g. private dining, hairdressing services, tuition classes?**
+Yes, these home-based services are allowed. Like any other homes, these homes offering services may receive up to eight visitors per day. Service providers and visitors should wear masks and maintain a one metre distancing.
 
-Home-based services that involve customers entering one's home for a prolonged period e.g. private dining and hairdressing services must deploy SafeEntry.
+Home-based services that involve customers entering one’s home for a prolonged period e.g. private dining and hairdressing services must deploy SafeEntry.
+
+#### **10. Can I allow people offering home-based services into my home? For example: repairman to fix water pipes/electricity/cable/air-conditioning issues/ part-time cleaner / gardener / tuition teacher/ day-time nanny caring for my child? Can they visit more than 2 households per day?**
+Yes, these are home-based services that are allowed. They will count as part of the eight persons cap on visitors per day. Service providers are required to wear masks and maintain a one metre distancing.
+
+Limiting visits to two other households per day applies to social visits, and does not apply to those who need to visit multiple households in the course of business or employment.
