@@ -19,7 +19,7 @@ However, if a place of residence has 8 or more visitors attending a home solemni
 
 <ins>External venues</ins>
 
-For solemnization held in other external solemnization venues, such as places of worship or hotels, to the maximum number of attendees for solemnizations will be 100 attendees , or the safe capacity of the venue, whichever is lower. Please refer to section VII of the FAQs for details on the zoning requirements. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). Please check with your solemnization venue owner / operator on the number of attendees allowed and any other conditions to be met before making arrangements.
+For solemnization held in other external solemnization venues, such as places of worship or hotels, to the maximum number of attendees will be 100 attendees , or the safe capacity of the venue, whichever is lower. Please refer to section VII of the FAQs for details on the zoning requirements. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). Please check with your solemnization venue owner / operator on the number of attendees allowed and any other conditions to be met before making arrangements.
 
 #### **2. Are vendors (e.g. photographers, videographers, make-up artists, bridal studio) allowed to resume operations for solemnizations? Are they part of the guest limit?**
 Vendors engaged to provide authorised services for the solemnization must be on MTI’s permitted list of activities as reflected on the GoBusiness portal and must have made their manpower declarations to MTI within two weeks of resuming operations. These vendors can be excluded from the guest limit for your solemnization / reception but should be kept to a minimum.
@@ -28,9 +28,15 @@ Vendors engaged to provide authorised services for the solemnization must be on 
 No, the guest limit excludes the interpreter, Licensed Solemnizer, and vendors  engaged to provide authorised services for the solemnization (kept to a minimum).
 
 #### **4. Do we need to practise safe distancing and safe management during the solemnization?**
-Yes, safe management measures must be in place for the solemnizations.
+<ins>Places of residence</ins>
 
-For solemnization ceremonies held in places of residence, the maximum number of attendees for solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 8 visitors in addition to any residents to the home where the solemnization is held, whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization.
+As of 26 Jan 2021, an individual must not permit to enter or remain in his or her place of residence more than 8 visitors on any single day. An exception is made for home solemnizations which are subject to the following limits:
+
+For solemnization ceremonies held in places of residence, the maximum number of attendees for solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 8 visitors in addition to any residents to the home where the solemnization is held, whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). For example, if there are 6 persons currently living in your household, the 6 residents and an additional 8 visitors can attend a solemnization in your home. The total of 14 persons counts the wedding couple but excludes the solemnizer and vendors. Or if you live alone, you and 9 other persons, including the wedding couple, can attend a solemnization in your home, excluding the solemnizer and vendors. 
+
+However, if a place of residence has 8 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence[^5].
+
+<ins>External venues</ins>
 
 For solemnizations held at other external venues, couples can have up to 100 persons, excluding the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). If couples have more than 20 guests, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to eight people for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
 
