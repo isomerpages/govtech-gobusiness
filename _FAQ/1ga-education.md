@@ -47,9 +47,9 @@ iv. Liquids from instruments (i.e. condensation and saliva) must be collected an
 For detailed guidance, please also refer to the advisories issued by <a href="https://www.sportsingapore.gov.sg/newsroom/media-releases/2020/advisory-for-resumption-of-sport-and-physical-exercise-and-activity-for-phase-two-safe-transition" target="_blank">Sport Singapore</a> and the <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html" target="_blank">National Arts Council</a>.
 
 #### **5. Will private tutors who are operating out of private residences be allowed to resume face-to-face lessons?**
-Yes, private tutors who are not based in centres have been allowed to resume lessons from Phase Two i.e. 19 June 2020. Home-based tuition/enrichment is subject to prevailing safe management measures for home-based services, including the cap of eight visitors allowed in the home at any one time. Such tutors must also use SafeEntry for visitors to support contact tracing; if the tutor is awaiting the set-up of a SafeEntry account, s/he should maintain a manual log of visitors in the interim.
+Yes, private tutors who are not based in centres have been allowed to resume lessons from Phase Two i.e. 19 June 2020. Home-based tuition/enrichment is subject to prevailing safe management measures for home-based services, including the cap of eight unique visitors allowed in the home in a single day. Such tutors must also use SafeEntry for visitors to support contact tracing; if the tutor is awaiting the set-up of a SafeEntry account, s/he should maintain a manual log of visitors in the interim.
 
-Parents and tutors should also adhere to prevailing safe distancing measures, i.e. they should ensure that students and tutors maintain safe distancing of at least one metre at all times, with strictly no physical interaction between individuals. If it is not possible to apply one metre safe distancing between students (e.g. in residences), tutors must limit classes to no more than five persons, including the tutor, with suitable spacing between individuals where possible.
+Parents and tutors should also adhere to prevailing safe distancing measures, i.e. they should ensure that students and tutors maintain safe distancing of at least one metre at all times, with strictly no physical interaction between individuals. If it is not possible to apply one metre safe distancing between students (e.g. in residences), tutors must limit classes to no more than eight persons, including the tutor, with suitable spacing between individuals where possible.
 
 Private tutors operating out of residences are also advised to put in place appropriate precautionary measures, and work with parents to ensure that they are comfortable with the measures taken. These should include:
 
@@ -66,7 +66,7 @@ With effect from 19 June 2020, in-person training will be permitted for all CET 
 
 For health and safety reasons, the maximum class size for all CET activities is capped at 50 persons (including the trainer(s)). For SSG-funded CET programmes, SSG's prevailing guideline for a maximum class size of 40 persons (including the trainer(s)) for course quality reasons remains and sits on top of this.
 
-As far as possible, training providers should ensure safe distancing of at least 1m between individuals at all times. Where not feasible or practical to do so, this 1m requirement can instead be enforced between groups, with each group made up of not more than five persons, and no mixing between groups. There should be assigned seating in classrooms and other training venues where practicable.
+As far as possible, training providers should ensure safe distancing of at least 1m between individuals at all times. Where not feasible or practical to do so, this 1m requirement can instead be enforced between groups, with each group made up of not more than eight persons, and no mixing between groups. There should be assigned seating in classrooms and other training venues where practicable.
 
 As with all other activities outside of the home, masks should be worn at all times.
 
