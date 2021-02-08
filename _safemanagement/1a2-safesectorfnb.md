@@ -68,7 +68,7 @@ Enterprises in the finance sector are to comply to measures stipulated in this <
 
 #### **Health and Social Services**
 
-Residential and Community-based Facilities are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/msfresidentialadvisory.pdf" target="_blank">document</a> [last updated on 8 Feb 20]. You can also refer to the Ministry of Social and Family Development <a href = "https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx" target="_blank">website</a>.
+Residential and Community-based Facilities are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/msfresidentialadvisory.pdf" target="_blank">document</a> [last updated on 8 Feb 21]. You can also refer to the Ministry of Social and Family Development <a href = "https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx" target="_blank">website</a>.
 
 Social Service Agencies and community groups distributing essential aid (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid) are to comply to measures stipulated in this <a href="https://go.gov.sg/msfsocialadvisory" target="_blank">document</a> [last updated on 7 Jan 21]. You can also refer to the Ministry of Social and Family Development <a href = "https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx" target="_blank">website</a>.
 
