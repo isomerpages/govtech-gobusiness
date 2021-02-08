@@ -140,7 +140,7 @@ For more information and FAQs on COVID-19 for the religious sector, please visit
 
 Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this <a href="https://go.gov.sg/sportsadvisory" target="_blank">document</a> [last updated 7 Jan 21].
 
-Performing Troupes are to comply to measures stipulated in this <a href="https://go.gov.sg/PerformingTroupesAdvisory.pdf" target="_blank">document</a> [last updated 8 Feb 21].
+Performing Troupes are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/PerformingTroupesAdvisory.pdf" target="_blank">document</a> [last updated 8 Feb 21].
 
 #### **Tours**
 
