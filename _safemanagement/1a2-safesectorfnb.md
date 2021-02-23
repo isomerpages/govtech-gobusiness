@@ -92,8 +92,6 @@ You should also comply to the COVID-Safe restart criteria for shipyards, residen
 
 Enterprises in the M&O sector are to comply to measures stipulated in this <a href="https://go.gov.sg/marineadvisory" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.
 
-Enterprises in the M&O sector are to comply to measures relating to Rostered Routine Testing stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/AdvisoryRRTfornonMO.pdf" target="_blank">document</a> [last updated 2 Oct 20].
-
 #### **Massage Establishments**
 
 Massage Establishments (MEs) are to comply to measures stipulated in this <a href="https://go.gov.sg/meadvisory" target="_blank">document</a> [last updated on 28 Dec 20]. MEs are also encouraged to refer to the <a href="https://go.gov.sg/meannex" target="_blank">annex</a> and adopt the additional measures within, where possible [last updated on 28 Dec 20].
