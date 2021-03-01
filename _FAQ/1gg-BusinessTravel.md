@@ -4,19 +4,21 @@ permalink: /faq/sectorspecific/BusinessTravel
 third_nav_title: For Sector-Specific Queries
 ---
 
-## **<ins>Business Travel Pass</ins>**
+## **<ins>A. Business Travel Pass</ins>**
 
-#### **1. What a pilot Business Travel Pass?**
+#### **1. What is a  Business Travel Pass?**
+
+- One of Singapore’s key value propositions is our position as an air and business hub. This includes the ease with which executives based in Singapore can travel around the region for work, to oversee regional operations.
 
 - Unfortunately, the ease of travel has been severely affected by restrictions to safeguard against COVID-19. SME owners cannot visit their customers and factories in the region, and MNCs with global/regional HQ functions here are unable to operate fully. We need to enable these businessmen to travel more easily, and safely, or risk losing these business functions to other countries.
 
 - Hence, we are piloting a  Business Travel Pass for senior executives in Singapore with regional or international roles who need to travel regularly for business. We are doing this in a gradual and calibrated manner to manage our public health situation carefully.
 
-- Travellers on this pass will be required to abide by a strict controlled itinerary when they travel overseas for work.
-
+        - Travellers on this pass will be required to abide by a strict controlled itinerary when they travel overseas for work.
+        
         - Upon return, travellers will undergo an on-arrival COVID-19 PCR test in lieu of the Stay-Home Notice (SHN) and are required to be isolated in a single location until they obtain a negative result for their on-arrival test.
 
-- As an added precautionary measure, travellers on this scheme are required to undergo COVID-19 PCR tests on Day, Day 7 and Day 14 of their return. An additional Serology test will also be required on Day 3.
+        - As an added precautionary measure, travellers on this scheme are required to undergo COVID-19 PCR tests on Day, Day 7 and Day 14 of their return. An additional Serology test will also be required on Day 3.
 
         - These enhanced testing requirements serve to minimise the risk of potential incubating cases leaking into the community.
 
@@ -62,7 +64,7 @@ Eligible candidates include senior executives of all nationalities in Singapore.
 #### **7. How many Business Travel Passes are available?**
 - Because public heath remains our priority, we will limit the number of Business Travel Passes in the pilot phase and carefully monitor the public health outcomes in this phase.  
 
-## **<ins>Health Protocols</ins>**
+## **<ins>B. Health Protocols</ins>**
 
 #### **8. What are the health protocols and safeguards for this travel pass?**
 - Travellers on the pilot will be required to submit a controlled itinerary of their meetings and activities while abroad, including the contacts they meet and venues they go to, and must adhere strictly to this controlled itinerary. Travellers who leave Singapore without an approved controlled itinerary, will be required to serve a 14-day SHN or SHN+ upon arrival into Singapore.
