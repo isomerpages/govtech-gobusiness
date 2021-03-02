@@ -4,7 +4,7 @@ permalink: /safemanagement/general/
 third_nav_title: Safe Management Requirements
 ---
 
-To provide a safe working environment and to prevent virus transmission at the workplace, businesses are required to abide by the <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures">nation-wide general requirements for workplaces issued on 9 May 2020</a>. Businesses <ins>are also required</ins> to adhere to the  <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/">sector-specific requirements</a>, and comply with measures to facilitate contact tracing.
+To provide a safe working environment and to prevent virus transmission at the workplace, businesses are required to abide by the <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures">nation-wide general requirements for workplaces issued on 9 May 2020</a>. Businesses <ins>are also required</ins> to adhere to the  <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/">sector-specific requirements</a>, and comply with <a href="https://covid.gobusiness.gov.sg/safemanagement/safeentry/">measures to facilitate contact tracing</a>.
 
 All businesses are to comply with the following requirements: 
 - Employers must ensure that employees who have been working from home continue to do so. Working from home should continue to be the default mode of working, to reduce physical interactions in the workplace and minimise the spread of COVID-19.

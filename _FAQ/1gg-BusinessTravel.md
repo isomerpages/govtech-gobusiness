@@ -42,7 +42,7 @@ third_nav_title: For Sector-Specific Queries
 
         - We will maintain the ability to revoke the Business Travel Pass if we find that the traveller failed to abide by the stringent health protocols.  
 
-Eligible candidates include senior executives of all nationalities in Singapore. Foreign nationals are required to hold an Employment Pass (EP), EntrePass, Personalised Employment Pass (PEP) or Immigration Exemption Order (IEO). 
+        - Eligible candidates include senior executives of all nationalities in Singapore. Foreign nationals are required to hold an Employment Pass (EP), EntrePass, Personalised Employment Pass (PEP) or Immigration Exemption Order (IEO). 
 
 #### **4. Why are travellers identified via government agencies only, instead of through an open application?**
 - Pre-identifying travellers through the government agencies will allow us to follow up closely with these travellers to determine the public health outcome of the scheme

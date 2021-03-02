@@ -14,7 +14,7 @@ SafeEntry by any of the methods above is presently regarded as the appropriate p
 
 All businesses and services that are in operation (including offices, factories, etc) must institute SafeEntry for their employees, associates, visitors and vendors. For large office buildings that have multiple floors and/or house different business entities, check-in is required for each business entity and at each floor.  Businesses and building owners who wish to find out more can click <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">here</a>.
 
-Of the businesses/services that are allowed to be in operation, the following list of facilities/places should deploy the SafeEntry system to log the check-in of customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law[^1].
+Of the businesses/services that are allowed to be in operation, the following list of facilities/places are also required to deploy the SafeEntry system to log the check-in of customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law[^1].
 - Construction and marine process worksites
 - Schools and educational institutes
 - Preschools and student care centres
