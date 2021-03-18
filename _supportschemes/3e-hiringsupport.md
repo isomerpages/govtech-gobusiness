@@ -1,6 +1,7 @@
 ---
 title: Manpower Support
 permalink: /supportschemes/manpowersupport/
+published: false
 ---
 
 #### **Transform and Grow**

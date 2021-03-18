@@ -15,7 +15,7 @@ F&B establishments are advised to ensure that they are able to accept TraceToget
 
 
 #### **2. On rollout date, how does my establishment enable TraceTogether-only SafeEntry mode on the backend?**
-When ToS is implemented, a feature that limits check-ins via TT App and Tokens only will be automatically activated in the SafeEntry system for all venues. Once this feature is activated, other modes of check in, such as using mobile phone camera, SingPass Mobile or other QR code reader apps will be disabled. Venue operators should allow only individuals who have successfully checked into SafeEntry using their TT App or TT Token to enter their venues.
+When ToS is implemented, a feature that limits check-ins via TT App and Tokens only will be automatically activated in the SafeEntry system for all venues. Once this feature is activated, other modes of check in, such as using mobile phone camera, Singpass Mobile or other QR code reader apps will be disabled. Venue operators should allow only individuals who have successfully checked into SafeEntry using their TT App or TT Token to enter their venues.
 
 #### **3. I am a coffee shop/hawker centre/food court operator. Do I need to enable TraceTogether-only SafeEntry?**
 Due to the porous nature of these establishments, which makes it difficult for a designated entrance and exit point, coffee shops/hawker centres/food courts are not required to implement TraceTogether-only SafeEntry.

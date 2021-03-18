@@ -8,7 +8,7 @@ third_nav_title: Safe Management Requirements
 
 SafeEntry is the name of the national digital visitor registration system that logs the details and contact information of individuals visiting hotspots, workplaces of permitted enterprises, as well as selected public venues to prevent and control the transmission of COVID-19.
 
-To check-in to SafeEntry, visitors scan a QR code using their TraceTogether App, SingPass Mobile app, or other QR code apps, or present their TraceTogether Token or NRIC/FIN/other IDs to be scanned. By doing so, users give consent to share their name and contact information with the businesses, and make the necessary declaration required. Using this system allows businesses to verify user identity with data from Government sources to facilitate their contact tracing work should the need arise.
+To check-in to SafeEntry, visitors scan a QR code using their TraceTogether App, Singpass Mobile app, or other QR code apps, or present their TraceTogether Token or NRIC/FIN/other IDs to be scanned. By doing so, users give consent to share their name and contact information with the businesses, and make the necessary declaration required. Using this system allows businesses to verify user identity with data from Government sources to facilitate their contact tracing work should the need arise.
 
 SafeEntry by any of the methods above is presently regarded as the appropriate procedure and control that enables or facilitates contract tracing for the purpose of meeting the safe management meaures required by the law.
 
@@ -60,7 +60,7 @@ For avoidance of doubt, all permitted enterprises, including retail outlets, mus
 
 #### **2. TraceTogether-only SafeEntry**
 
-TraceTogether-only SafeEntry consists of a protocol where visitors scan a QR code using their TraceTogether App or present their TraceTogether Token to be scanned in order to register a SafeEntry check-in. When TraceTogether-only SafeEntry is implemented, check-in using SingPass Mobile and QR code reader mobile applications will no longer be accepted. For individuals entering premises where TraceTogether-only SafeEntry is implemented as a safe management measure, the individuals have to use either their TraceTogether App or TraceTogether Token, and not any other method, to check in to the venue’s SafeEntry system. 
+TraceTogether-only SafeEntry consists of a protocol where visitors scan a QR code using their TraceTogether App or present their TraceTogether Token to be scanned in order to register a SafeEntry check-in. When TraceTogether-only SafeEntry is implemented, check-in using Singpass Mobile and QR code reader mobile applications will no longer be accepted. For individuals entering premises where TraceTogether-only SafeEntry is implemented as a safe management measure, the individuals have to use either their TraceTogether App or TraceTogether Token, and not any other method, to check in to the venue’s SafeEntry system. 
 
 Permitted enterprises are advised to make the necessary preparations to accept TraceTogether Token check-ins. To learn more, please visit <a target="_blank" href="https://www.safeentry.gov.sg/tracetogether-only-safeentry">here</a>.
 

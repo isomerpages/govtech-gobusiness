@@ -26,7 +26,7 @@ Employment agencies should submit/declare the manpower details for all employees
 #### **6. What manpower details must companies declare/submit? How do I declare/submit my manpower details?**
 Companies on the permitted list are not required to submit the NRIC/FIN for their workers. They will only need to declare their manpower numbers (i.e. total number of manpower on-site and the maximum number of manpower on-site at any given time).
 
-For applicants with a CorpPass account, please login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">https://www.gobusiness.gov.sg/exemptions</a>. Thereafter, please click on the button “submit manpower”, which will be made available only for permitted business resumptions/ general exemptions. 
+For applicants with a Corppass account, please login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">https://www.gobusiness.gov.sg/exemptions</a>. Thereafter, please click on the button “submit manpower”, which will be made available only for permitted business resumptions/ general exemptions. 
 
 Businesses who fail to submit the manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
@@ -55,7 +55,7 @@ You will receive an email acknowledgment of your manpower declaration. You can o
 There may be conditions imposed on your approved/permitted general exemption/business resumption. These conditions will also be indicated in the email acknowledgement of your manpower declaration. Alternatively, you may login to <a href="https://go.gov.sg/exemptionstatus" target="_blank">https://www.gobusiness.gov.sg/exemptions</a> to check your general exemption/business resumption status for any conditions to your approval. 
 
 #### **11. What happens if I do not receive an acknowledgement email after I have declared my manpower details?**
-If you have not received an acknowledgement email, your email address may be inaccurately captured on our system. For applicants with a CorpPass account, kindly login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> to verify that your email address is accurately reflected.
+If you have not received an acknowledgement email, your email address may be inaccurately captured on our system. For applicants with a Corppass account, kindly login <a href="https://go.gov.sg/essentialworkers" target="_blank">here</a> to verify that your email address is accurately reflected.
 
 You will be able to update your email address if needed. All changes will be reflected immediately. You will also be able to check whether your declaration has been captured. You should resubmit the declaration if it has not been captured.
 
