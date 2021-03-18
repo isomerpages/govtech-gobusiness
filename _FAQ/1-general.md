@@ -32,7 +32,7 @@ You will need to submit one application for each registered business. One applic
 There may be conditions imposed on your approval. You should login to <a href = "https://www.gobusiness.gov.sg/exemptions">https://www.gobusiness.gov.sg/exemptions</a> to check your exemption application for any conditions to your approval. 
 
 #### **7. I am having problems logging into Corppass. Who can I approach for help?**
-You can contact the Corp Pass Helpdesk at 6643-0577 or email <a href = "mailto: support@corppass.gov.sg">support@corppass.gov.sg</a>.
+You can contact the Corppass Helpdesk at 6643-0577 or email <a href = "mailto: support@corppass.gov.sg">support@corppass.gov.sg</a>.
 
 ## **<ins>Safe Distancing Ambassadors</ins>**
 
