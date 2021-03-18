@@ -130,7 +130,7 @@ You can also refer to the Singapore Police Force <a href = "https://www.police.g
 
 #### **Religious Organisations**
 
-Religious organisations are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/mccyroadadvisory2.pdf" target="_blank">document</a> [last updated on 26 Jan 21]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/dec/phase-three-of-re-opening-religious-activities" target="_blank">website</a>.
+Religious organisations are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/mccyroadadvisory2.pdf" target="_blank">document</a> [last updated on 18 Mar 21]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/dec/phase-three-of-re-opening-religious-activities" target="_blank">website</a>.
 
 For more information and FAQs on COVID-19 for the religious sector, please visit <a href = "https://www.cpro.gov.sg" target="_blank">www.cpro.gov.sg</a> or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at <a href = "mailto: cpro@mccy.gov.sg">cpro@mccy.gov.sg</a>. 
 
@@ -139,6 +139,10 @@ For more information and FAQs on COVID-19 for the religious sector, please visit
 Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this <a href="https://go.gov.sg/sportsadvisory" target="_blank">document</a> [last updated 7 Jan 21].
 
 Lion Dance Performing Troupes are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/PerformingTroupesAdvisory.pdf" target="_blank">document</a> [last updated 8 Feb 21].
+
+#### **Student Care Centres**
+
+Student Care Centres are to comply to the measures stipulated in this <a href="https://go.gov.sg/studentcareadvisory.pdf" target="_blank">document</a> [last updated 17 Mar 2021]. You can also refer to the <a href = "https://www.msf.gov.sg/studentcare/Pages/Home.aspx" target="_blank">Student Care Portal</a> for more details.
 
 #### **Tours**
 
