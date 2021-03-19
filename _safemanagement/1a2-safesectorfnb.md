@@ -142,7 +142,7 @@ Lion Dance Performing Troupes are to comply to measures stipulated in this <a hr
 
 #### **Student Care Centres**
 
-Student Care Centres are to comply to the measures stipulated in this <a href="https://go.gov.sg/studentcareadvisory.pdf" target="_blank">document</a> [last updated 17 Mar 2021]. You can also refer to the <a href = "https://www.msf.gov.sg/studentcare/Pages/Home.aspx" target="_blank">Student Care Portal</a> for more details.
+Student Care Centres are to comply to the measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/studentcareadvisory.pdf" target="_blank">document</a> [last updated 17 Mar 2021]. You can also refer to the <a href = "https://www.msf.gov.sg/studentcare/Pages/Home.aspx" target="_blank">Student Care Portal</a> for more details.
 
 #### **Tours**
 
