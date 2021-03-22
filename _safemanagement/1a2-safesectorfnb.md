@@ -43,7 +43,7 @@ Country and recreation clubs are to comply to measures stipulated in this <a hre
 
 #### **Dental Sector**
 
-Dental clinics and dental practitioners are to comply to measures stipulated in this <a href="https://go.gov.sg/dentalcircular2" target="_blank">document</a> [last updated on 17 Jun 20].
+Dental clinics and dental practitioners are to comply to measures stipulated in this <a href="https://go.gov.sg/dentalcircular2" target="_blank">document</a> [last updated on 24 Dec 20].
 
 #### **Dormitory Operators**
 
