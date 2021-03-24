@@ -15,20 +15,3 @@ Please note that your SSIC code should correspond with the “primary business a
 
 If you do not know your SSIC code, you can login to <a href="https://www.bizfile.gov.sg/" target="_blank">BizFile+</a> using your Corppass credentials.
 
-<style>
-.navbar>.bp-container{
-display: none
-}
-
-.bp-footer.top-section{
-display: none
-}
-
-.bp-footer{
-display: none
-}
-
-.bp-breadcrumb{
-display: none
-}
-</style>
