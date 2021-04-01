@@ -10,20 +10,12 @@ third_nav_title: For Sector-Specific Queries
 This set of FAQs apply to companies in the M&O sector. It covers Shipyards, Resident Contractors and Common Contractors as per the Ministry of Manpower’s (MOM)’s Marine Shipyard sector definition, and other companies under Singapore Standard Industrial Classification (SSIC) codes 28112, 28241, 30110, 30120.
 
 #### **2. Which companies are required to comply with the Marine & Offshore COVID-Safe Restart Criteria?**
-The Marine & Offshore COVID-Safe Restart Criteria will apply to all Shipyards (both sponsoring and non-sponsoring), Resident Contractors as well as Common Contractors, as per the Ministry of Manpower’s (MOM’s) definition of the Marine Shipyard Sector. 
+The Marine & Offshore COVID-Safe Restart Criteria will apply to all Shipyards (both sponsoring and non-sponsoring), Resident Contractors as well as Common Contractors, as per the Ministry of Manpower’s (MOM’s) definition of the Marine Shipyard Sector and other companies under Singapore Standard Industrial Classification (SSIC) codes 28112, 28241, 30110, 30120. 
 
-#### **3. If I am not a Shipyard, Resident Contractor or Common Contractor, do I need to comply with the Marine & Offshore COVID-Safe Restart Criteria?**
-The Marine & Offshore COVID-Safe Restart Criteria only apply to Shipyards (both sponsoring and non-sponsoring), Resident Contractors as well as Common Contractors. Other companies are required to comply with MOM’s prevailing advisories.
-
-#### **4. How will checks be done to ensure that companies are complying with COVID-Safe Restart Criteria?**
-MOM will implement an Audit and Inspection regime to conduct checks and to ensure compliance on site based on relevant safe management measures. 
+#### **3. How will checks be done to ensure that companies are complying with COVID-Safe Restart Criteria?**
+EDB will implement an Audit and Inspection regime to conduct checks and to ensure compliance on site based on relevant safe management measures. 
 
 Penalties will be imposed on firms which have contravened the <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">Marine & Offshore COVID-Safe Restart Criteria or MOM’s Safe Management Measures</a>, whichever relevant. In addition, firms will be required to resubmit their rectification plans, where applicable, and implement these measures as part of the follow ups to the enforcement actions taken.
-
-#### **5. What happens if a project or worksite is found to have a worker infected with COVID-19 after works have resumed?**
-Shipyards and contractors should immediately vacate and cordon-off the immediate section of the workplace premises where the confirmed case worked. There is no need to vacate the whole yard or building if there is no sustained and close contact with the confirmed case. Subsequently, carry out a thorough cleaning and disinfect all relevant on-site areas and assets exposed to confirmed cases, in accordance with the National Environment Agency’s (NEA’s) guidelines. Please refer to the <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/" target="_blank">Marine & Offshore COVID-Safe Restart criteria</a> for further guidance on the handling of suspected and/or confirmed cases.
-
-The whole team that the infected worker is from will have to be isolated and tested; works on site may be suspended.
 
 ## **Application to Resume M&O Works**
 
@@ -47,16 +39,23 @@ The Shipyard operator is responsible for ensuring that all personnel (e.g. emplo
 #### **3. Can a Workplace Safety & Health Officer (WSHO) also be a Safe Management Officer (SMO)?**
 Yes, a WSHO can also be a SMO.
 
-#### **4. My worksite does not allow workers to hold on to mobile phones while at the work area due to safety/security reasons. Can I use other methods to replace TraceTogether?**
-All personnel entering the site must have a smart phone with TraceTogether app installed before they are allowed to enter the site. Workers should download, activate, and maintain the latest version of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether mobile app</a> to facilitate contact tracking. All personnel have to ensure that the TraceTogether app is turned on (i.e. Bluetooth is switched on) and that they carry their handphone with them at all times within the worksite, unless there are workplace health and safety risks and concerns. In the application to resume/ reinstate works or increase manning, the Shipyard and their contractors have to confirm that this requirement can be achieved.
+#### **4. What training must a SMO and SDO complete?**
+SMO & SDO must attend a training (in-house or external) conducted by a competent person. 
 
-#### **5. Can a team be divided into sub-teams at the worksite?**
+#### **5. My worksite does not allow workers to hold on to mobile phones while at the work area due to safety/security reasons. Can I use other methods to replace TraceTogether?**
+All personnel at the worksite are required to actively use TraceTogether by downloading the TraceTogether app, or carrying TraceTogether or BluePass toekns with them at all times.  Personnel using the TraceTogether mobile <a href="https://www.tracetogether.gov.sg/" target="_blank">app</a> must activate, and maintain the latest version of the app to facilitate contact tracking.  The TraceTogether app must be turned on (i.e. Bluetooth is switched on) and they must carry their handphone with them at all times within the worksite. 
+
+#### **6. Can a team be divided into sub-teams at the worksite?**
 Yes. Each sub-team will be treated as separate teams. Each sub-team will have to be segregated both at the place of accommodation as well as at the worksite from the other sub-teams even if they are doing the same activity. For example, if a worksite has 3 work locations e.g. vessels, each team will have to work within the designated zone and no exchange of workers between the 3 teams will be allowed.
 
-#### **6. Can a worksite be separated into 2 or more sub-sites?**
+In the case where teams are not split, the Company risks facing a Stop Work Order (SWO), in the event a COVID positive case is discovered in the worksite.
+
+#### **7. Can a worksite be separated into 2 or more sub-sites?**
 Yes, a physical barrier or clear demarcation is to be implemented for each sub-site. The workers must also be housed in segregated accommodations. Within each sub-site, the same segregation requirements for each team working within a designated zone and segregation on the use of communal shared facilities will apply.
 
-#### **7. Are multiple accommodations allowed?**
+In the case where worksite is not separated into sub-sites or work zones, the Company risks facing a Stop Work Order (SWO), in the event a COVID positive case is discovered in the worksite.
+
+#### **8. Are multiple accommodations allowed?**
 It is possible for workers of a worksite to be housed at one or more accommodations. All on-site accommodations at shipyards are required to be dedicated to the worksite.
 
 ## **COVID-Safe Workforce**
@@ -66,24 +65,24 @@ All Shipyards’, Resident Contractors’ and Common Contractors’ employees ar
 
 Dormitories include purpose-built dormitories, factory-converted dormitories, construction temporary quarters, temporary occupation licence quarters, temporary living quarters and government decant sites.
 
-To ensure that the risks of COVID-19 transmission at shipyard premises continue to be well mitigated, personnel from non-Marine Shipyard sector who are required to work at the shipyards’ production sites for **15 or more days out of 30 consecutive days**, will need to undergo RRT. Companies should ensure that affected employees have undergone RRT by **19 October 2020**. The 15 or more days which a personnel is working in the shipyard’s production sites need not be consecutive.
+To ensure that the risks of COVID-19 transmission at shipyard premises continue to be well mitigated, all personnel (including external parties) who are required to enter the shipyards’ production site, will need to undergo RRT. Companies should ensure that affected employees have undergone RRT by **24 February 2021**.
 
-This is applicable for Singaporeans, Singaporean Permanent Residences, Work Permit Holders, S Pass Holders and Employment Pass Holders.
+Personnel who are not on a RRT programme will be required to show a negative test result from a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 72 hours prior entry. Similar to RRT, these personnel will be required to undergo regular PCR test during his/her work duration in the shipyard’s production site. After completion of their works at the shipyard’s production site, they will be required to take a PCR test on the 5th to 7th day after exit, and a final PCR test on the 11th day after exit. The COVID-19 PCR test or ART may be done at any of the <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">MOH-approved COVID-19 test providers</a>. The costs of the tests would be at the personnel’s own or their employers’ expense.
 
 #### **2. If my office finance and administrative staff do not go to production site or come into contact with production site workers, do they have to be regularly swab tested? They do not reside in dormitories.**
 Non-dormitory workers who work in non-production sites or work from home do not need to be regularly swab tested.
 
 #### **3. Are client/owner representatives who frequent the shipyards’ production sites required to undergo RRT?**
-Yes. Personnel who are required to work at the shipyards’ production sites for 15 or more days out of 30 consecutive days are required to undergo regular swab testing. Companies should ensure that affected employees have undergone RRT by **19 October 2020**.
+Yes. Personnel who are required to enter the shipyards’ production sites are required to undergo regular swab testing. Companies should ensure that affected employees have undergone RRT by **1 February 2021**.
 
 #### **4. How can companies register for swab testing for eligible employees?**
-All companies can apply for Swab Registration System (SRS) company account creation via <a href="https://form.gov.sg/5f33ac4aef830b0012597673" target="_blank">link</a>. They will receive a follow-up email from <a href = "mailto: swab@edb.gov.sg">swab@edb.gov.sg</a> on SRS onboarding and instructions within 5 days. Companies in the non-Marine Shipyard sectors are to indicate the Shipyard’s company name where their workers will be working at. 
+All companies can apply for Swab Registration System (SRS) company account creation via this <a href="https://form.gov.sg/5f33ac4aef830b0012597673" target="_blank">link</a>. They will receive a follow-up email from <a href = "mailto: swab@edb.gov.sg">swab@edb.gov.sg</a> on SRS onboarding and instructions within 5 days. Companies in the non-Marine Shipyard sectors are to indicate the Shipyard’s company name where their workers will be working at. 
 
 All companies are to submit their Manpower Declaration in <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">GoBusiness</a> indicating employee details and their respective work premises. Companies will receive an email informing them of the expected timeline from which they can start submitting their manpower declaration.
 
-For companies in the Marine Shipyard sector, employees working on the shipyards’ production site and shipyard contractors’ external production site e.g. workshop, are to be captured under **“Production site”** premises while employees working from home or at non-production site e.g. back office, are to be captured under **“Non Production Sites”**.
+For companies in the Marine Shipyard sector, employees working on the shipyards’ production site and shipyard contractors’ external production site e.g. workshop, are to be captured under **“Production site”** premises while employees working from home or at non-production site e.g. back office, are to be captured under **“Other Sites”**.
 
-For companies in non-Marine Shipyard sectors, only employees deployed to the <ins>shipyard’s production site</ins> are to be captured under **“Production site”** premises. All other employees deployed to other premises e.g. office, other industry sites, are to be captured under **“Non Production Sites”**.  This is to facilitate registration and access to RRT for employees deployed to shipyard’s production site. 
+For companies in non-Marine Shipyard sectors, only employees deployed to the <ins>shipyard’s production site</ins> are to be captured under **“Production site”** premises. All other employees deployed to other premises e.g. office, other industry sites, are to be captured under **“Other Sites”**.  This is to facilitate registration and access to RRT for employees deployed to shipyard’s production site. 
 
 Please ensure that details are valid and kept up to date.
 
@@ -91,26 +90,73 @@ Please ensure that details are valid and kept up to date.
 Please contact <a href = "mailto: COVID_GoBusiness@mti.gov.sg">COVID_GoBusiness@mti.gov.sg</a>.
 
 #### **6. What is considered a “Production site” premise?**
-Production site includes shipyards’ production areas (e.g. dry dock, onboard vessels in shipyards, fabrication workshops), resident and common contractors’ workshops. “Non Production Sites” include back office, supporting sectors’ (e.g. manufacturing) workshop.
+Production site includes shipyards’ production areas (e.g. dry dock, onboard vessels in shipyards, fabrication workshops), resident and common contractors’ workshops. “Other Sites” include back office, supporting sectors’ (e.g. manufacturing) workshop.
 
 #### **7. What should companies from supporting sectors do after they have completed their jobs and are no longer working at the shipyard’s production site?**
-Companies are required to update their employees’ work premises to **“Non Production Sites”** via the Manpower Declaration in <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">GoBusiness</a>. Companies need not register them for subsequent swab appointments in SRS if they are no longer required to work at shipyard’s production site.
+Companies are required to update their employees’ work premises to **“Other Sites”** via the Manpower Declaration in <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">GoBusiness</a>. Companies need not register them for subsequent swab appointments in SRS if they are no longer required to work at shipyard’s production site.
 
-#### **8. What should companies from supporting sectors do if their employees will only be working at the shipyard’s production site for a few days (less than 15 days out of 30 consecutive days)?**
-Companies need not register these employees for swab appointments in SRS. However, they are to remind employees to adhere to safe distancing measures and avoid interaction with shipyard-based personnel except for safety checks and worksite inspection.
+#### **8. Are ship crew required to undergo RRT? They are based onboard the vessel which is berthed/docked at our shipyard for repair works.**
+An on-arrival PCR test for all crew must be done onboard the ship in the yard or berthed next to shore. No local workers are allowed to board the ship for works until all crew has been tested negative.
 
-#### **9. Are ship crew required to undergo RRT? They are based onboard the vessel which is berthed/docked at our shipyard for repair works.**
-Ship crew are to refer to MPA’s Port Marine Circular for the latest guidelines such as signing-on/off SHN and COVID-19 PCR test requirements.
+#### **9. How do I arrange for on-arrival PCR swab test for vessels arriving at the shipyard?**
+Ship agent/Shipyard can arrange for on-arrival PCR swab test onboard the vessel, after the vessel has docked in the shipyard or berthed next to shore. Note that these on-arrival swab tests must not be performed at the anchorages.
 
-#### **10. When should the last swab test be taken before personnel is allowed to enter shipyards’ production premises?**
-The personnel should have taken their swab test and tested negative within the last 14 days.
+Only <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">MOH Licensed Healthcare Institute (HCI)</a> can conduct on-arrival offshore PCR swab test onboard vessel only upon obtaining MOH’s approval by following the steps below:
 
-#### **11. My company does not fall under the Marine Shipyard sector. However, my employees are deployed to the shipyard’s production site for 15 or more days and are required to undergo RRT according to the latest advisory for the Marine & Offshore sector. Why is their health status in Safe@Work still showing “Exempted from Rostered Routine Testing (RRT)”?**
-Personnel from non-Marine shipyard sector are not required to undergo RRT on a normal basis such as when carrying out work activities at non-Marine related sites e.g. manufacturing. Such employees’ health status in Safe@Work reflects this by displaying “Exempted from Rostered Routine Testing (RRT)”. However, to ensure the risks of COVID-19 transmission at shipyard premises continue to be well mitigated, these personnel are required to undergo RRT as per the “Advisory for Rostered Routine Testing for the Marine & Offshore Sector” issued on 2 October 2020. They can show proof of their RRT records using FWMOMCARE for migrant workers or HealthHub for Singaporeans and Singapore Permanent Residents. Shipyards have the right to refuse entry to personnel who do not comply in order to safeguard the COVID-19 risks at their premises.
+<ins>a. Register for offsite swab application with MOH</ins>
+The appointed HCI can register their offsite swab application with MOH via <a href="https://go.gov.sg/offsitecovid19swab" target="_blank">here</a>. The appointed HCI must ensure that all on-arrival swab tests to be done onboard vessel in the shipyard or berthed next to shore. No on-arrival PCR swab tests can be done at the anchorage unless explicitly approved by MPA.
+
+Please indicate “Yes” under Question 2 “Have HPB and Sector Lead endorsed this application?” in the link stated above for offsite swab application and follow-up with the next step below.
+
+<ins>Inform MOH Licensing Division and EDB Central COVID Ops Team</ins>
+Only appointed HCI by Ship agent/Shipyard can write in to the MOH Licensing Division (<a href = "mailto: eLIS@moh.gov.sg">eLIS@moh.gov.sg</a>) and copy to <a href = "mailto: cco@edb.gov.sg">cco@edb.gov.sg</a> to follow up on the approval process where MOH Licensing Division must approve the appointed HCI before the on-arrival onboard or sign off pre-departure swab test on the vessel crew can be performed.
+
+Email to MOH Licensing Division to include the following information which is not exhaustive:
+I.	Email header: Mandatory Precautionary Measure on Arrival Onboard PCR Swab Tests for inbound vessels’ crew calling into shipyards for repairs / Pre-Departure Tests for Sign offs only in shipyards or berthed next to shore
+II.	HCI Name;
+III.	HCI Swabbers’ name;
+IV.	Ship agent/Ship owner/Shipyard name that appoint HCI;
+V.	Date and planned time of Swab to be done;
+VI.	Location of Swab to be done;
+VII.	Application date to MOH eLIS for approval to perform offsite swab / show screenshot of approval to MOH eLIS submitted; and
+VIII.	Laboratory Name where collected swabs will be tested.
+
+For urgent on-arrival onboard swabs (defined as swabs to be done over the next 10 calendar days), appointed HCI by Ship agent/Shipyard has to write in to the MOH Licensing Division (<a href = "mailto: eLIS@moh.gov.sg">eLIS@moh.gov.sg</a>) and copy to <a href = "mailto: cco@edb.gov.sg">cco@edb.gov.sg</a> to expedite the approval to conduct offsite swab testing. Only appointed HCI may email or call MOH Licensing Division for urgent confirmation. Urgent applications will be approved only on a case by case basis with justifications.
+
+#### **10. What is the objective of the Updated Mandatory Precautionary Measures (MPM)?**
+Due to rising infection rates and more ships expected to call at Singapore shipyards for repairs, the single On-Arrival Test (OAT) for arriving Not To Land (NTL) crew is insufficient to protect public health of our local yard workers. MOH developed the enhanced testing regime that targets the arriving NTL crew at shipyards. It takes a risk-calibrated approach to NTL crew of all non-passenger ships arriving at the shipyards for works, by aligning with the treatment of SafeTravel Pass RGL (SGL) travellers, i.e. OAT swab and serology, and D3, D7, D14 swabs.
+
+Agencies have updated the MPM for Shipyard Repair Calls in Singapore to include an Enhanced Testing Regime, with the objective of ensuring the safety of our yard workers and the business continuity of our shipyards while Singapore continues to allow repair calls in our shipyards.
+
+#### **11. If the vessel is unable to meet the criteria in the mandatory precautionary measures for shipyard repair calls in Singapore, can the shipyard still accept the repair job?**
+Shipyards are to write to their respective account managers from the Singapore Economic Development Board (EDB) or Enterprise Singapore (ESG) and copy to EDB Central COVID Ops (CCO) team at <a href = "mailto: cco@edb.gov.sg">cco@edb.gov.sg</a>, with their specific queries at least 7 calendar days in advance. The case will be assessed accordingly, and an approval may be given on a case-by-case basis.
+
+#### **12. If the vessel crew have not met the Pre-Departure Test Criteria, can the shipyard still accept the repair job?**
+A12.	Shipyards are to write to their respective account managers from the Singapore Economic Development Board (EDB) or Enterprise Singapore (ESG) and copy to EDB Central COVID Ops (CCO) team at <a href = "mailto: cco@edb.gov.sg">cco@edb.gov.sg</a>, with their specific queries at least 7 calendar days in advance. The case will be assessed accordingly, and an approval may be given on a case-by-case basis.
+
+Shipyards must inform their vessels to plan their voyage for her crew to take Pre-Departure PCR Swab Test at the last port of call or prior to entering Port of Singapore. Shipyards must sight all the vessel crew’s Pre-Departure Negative PCR Swab Test results and keep all results as records. Shipyards can then issue the Letter of Acceptance to the vessel. 
+
+This set of measures have been carefully calibrated to provide lines of defence against C+ cases from vessel crew spilling over to the shipyard and the broader community. It is with the interest of preserving business continuity that the shipyards must implement these mandatory measures. Where there are C+ cases detected and worksite transmission is not contained at the shipyard, the whole shipyard could stop work for a period of time to prevent further transmission, which will be even more disruptive and costlier to the yard and ship owners in managing the incident as compared to implementing the mandatory precautionary measures.
+
+#### **13. When will the Updated Assessment Framework be implemented?**
+Implementation date will be 5 April 2021. The Mandatory Precautionary Measures (effective date: 5 April 2021) will apply to all inbound vessels arriving at our Singapore-based shipyards and waterfront facilities on 5 April 2021 onwards. For vessel repair jobs that shipyards have already issued the Letter of Acceptance (LOA) in accordance with the Mandatory Precautionary Measures dated 19th Feb, shipyards are to write to their respective account managers from the Singapore Economic Development Board (EDB) or Enterprise Singapore (ESG) and copy to EDB Central COVID Ops (CCO) team at <a href = "mailto: cco@edb.gov.sg">cco@edb.gov.sg</a>, with their specific queries at least 7 calendar days in advance. The case will be assessed accordingly, and an approval may be given on a case-by-case basis.
+
+#### **14. Under what situation must SmartEntry@Sea be implemented?**
+All owners, occupiers and managers of any waterfront facility i.e. any pier, wharf, dock, terminal, marina – must ensure that SmartEntry@Sea check-in/out points and QR codes are made available for shore-based personnel who are departing to board a vessel in port (e.g. anchorage). 
+
+In addition, all owners, occupiers and managers of any waterfront facility must ensure that any shore-based personnel going on board a vessel in the port, produce proof of valid negative test COVID-19 test result, before allowing the shore-based personnel to go on board. The owner, occupier or manager of any waterfront facility must also not allow any shore-based personnel who has any specified symptom (coughing, sneezing, breathlessness, a runny nose, loss of sense of smell or anosmia) or is otherwise physically unwell, to go on board the vessel.
+
+Please refer to MPA’s Port Marine Circular No. 08 of 2021 for more details.
+
+#### **15. For quarantined vessel to power down safely, ship owner/ship agent must arrange for replacement crew for the minimal manning. If the replacement crew cannot be found, what must the ship owner/agent do?**
+Ship owner/agent are to write in to NEA Port Health Section (PHS) and EDB for any deviation to this rule. 
 
 ## **COVID-Safe Accommodation and Transport**
 
-#### **1. Do I have to segregate my workers at their accommodation according to their projects and teams?**
+#### **1. Are workers allowed to take public or personal transport?**
+Workers living in dormitories will have to be provided with dedicated transport from their place of accommodation to the worksite by their employers. Please refer to MOM’s guidance for <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/employer-provided-transportation" target="_blank">more information</a>. 
+
+#### **2. Do I have to segregate my workers at their accommodation according to their projects and teams?**
 Yes. Companies must work with dormitory operators to segregate workers according to their worksites and teams so as to avoid inter-mixing. For workers residing in FEDA-licensed dormitories, employers and dormitory operators are to work together to cohort these workers in compliance with BCA/EDB’s requirements <a href="https://go.gov.sg/bca-circular-cohorting-exercise" target="_blank">here</a>. 
 
 ## **Staggered Rest Day**
