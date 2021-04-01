@@ -86,9 +86,9 @@ With effect from 26 Jan 2021 (inclusive), marriage solemnisations and wedding re
 
 #### **Marine & Offshore (M&O) Sector**
 
-Enterprises in the M&O sector are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/AdvisoryMOSector_19Feb.pdf" target="_blank">document</a> [last updated on 19 Feb 21].
+Enterprises in the M&O sector are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/AdvisoryMOSector_19Feb.pdf" target="_blank">document</a> [last updated on 19 Feb 21] and updated measures in this <a href="https://covid.gobusiness.gov.sg/guides/AdvisoryMOSector_30Mar.pdf" target="_blank">document</a> [last updated on 30 Mar 21].
 
-You should also comply to the COVID-Safe restart criteria for shipyards, resident contractors and common contractors (M&O) <a href="https://covid.gobusiness.gov.sg/guides/MORestartCriteria.pdf" target="_blank">here</a> [last updated on 19 Feb 21]. For FAQs regarding COVID-Safe restart criteria, please refer to this <a href="https://covid.gobusiness.gov.sg/guides/FAQsforMOSector.pdf" target="_blank">document</a> [last updated on 19 Feb 21].
+You should also comply to the COVID-Safe restart criteria for shipyards, resident contractors and common contractors (M&O) <a href="https://covid.gobusiness.gov.sg/guides/MORestartCriteria.pdf" target="_blank">here</a> [last updated on 30 Mar 21]. For FAQs regarding COVID-Safe restart criteria, please refer to this <a href="https://covid.gobusiness.gov.sg/guides/FAQsforMOSector.pdf" target="_blank">document</a> [last updated on 30 Mar 21].
 
 Enterprises in the M&O sector are to comply to measures stipulated in this <a href="https://go.gov.sg/marineadvisory" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.
 
