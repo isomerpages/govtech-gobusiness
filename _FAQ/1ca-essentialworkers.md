@@ -29,7 +29,7 @@ Businesses who fail to submit the manpower details within 2 weeks of resuming op
 
 Specific manpower declaration requirements for the Marine & Offshore and Process sectors can be found <a href="/faq/essentialworkers/offshore" target="_blank">here</a>.
 
-#### **6. My company has a General Exemption approval operations but my staff will be continuing to work from home. How should I submit my manpower declaration?**
+#### **6. My company has a General Exemption approval but my staff will be continuing to work from home. How should I submit my manpower declaration?**
 Companies that have a General Exemption approval to resume operations, even if employees are working from home, must submit their manpower declaration within 2 days of resuming operations. 
 
 If your company has not submitted on-site manpower details before and is not operating on-site, please click on the “declare 0 button” to declare “0” manpower working on-site. 

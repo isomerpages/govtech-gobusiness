@@ -43,7 +43,7 @@ Yes, a WSHO can also be a SMO.
 SMO & SDO must attend a training (in-house or external) conducted by a competent person. 
 
 #### **5. My worksite does not allow workers to hold on to mobile phones while at the work area due to safety/security reasons. Can I use other methods to replace TraceTogether?**
-All personnel at the worksite are required to actively use TraceTogether by downloading the TraceTogether app, or carrying TraceTogether or BluePass toekns with them at all times.  Personnel using the TraceTogether mobile <a href="https://www.tracetogether.gov.sg/" target="_blank">app</a> must activate, and maintain the latest version of the app to facilitate contact tracking.  The TraceTogether app must be turned on (i.e. Bluetooth is switched on) and they must carry their handphone with them at all times within the worksite. 
+All personnel at the worksite are required to actively use TraceTogether by downloading the TraceTogether app, or carrying TraceTogether or BluePass tokens with them at all times.  Personnel using the TraceTogether mobile <a href="https://www.tracetogether.gov.sg/" target="_blank">app</a> must activate, and maintain the latest version of the app to facilitate contact tracking.  The TraceTogether app must be turned on (i.e. Bluetooth is switched on) and they must carry their handphone with them at all times within the worksite. 
 
 #### **6. Can a team be divided into sub-teams at the worksite?**
 Yes. Each sub-team will be treated as separate teams. Each sub-team will have to be segregated both at the place of accommodation as well as at the worksite from the other sub-teams even if they are doing the same activity. For example, if a worksite has 3 work locations e.g. vessels, each team will have to work within the designated zone and no exchange of workers between the 3 teams will be allowed.
@@ -65,7 +65,7 @@ All Shipyards’, Resident Contractors’ and Common Contractors’ employees ar
 
 Dormitories include purpose-built dormitories, factory-converted dormitories, construction temporary quarters, temporary occupation licence quarters, temporary living quarters and government decant sites.
 
-To ensure that the risks of COVID-19 transmission at shipyard premises continue to be well mitigated, all personnel (including external parties) who are required to enter the shipyards’ production site, will need to undergo RRT. Companies should ensure that affected employees have undergone RRT by **24 February 2021**.
+To ensure that the risks of COVID-19 transmission at shipyard premises continue to be well mitigated, all personnel (including external parties) who are required to enter the shipyards’ production site, will need to undergo RRT. Companies should ensure that affected employees have undergone RRT by **1 February 2021**.
 
 Personnel who are not on a RRT programme will be required to show a negative test result from a COVID-19 Polymerase Chain Reaction (PCR) test or Antigen Rapid Test (ART) within 72 hours prior entry. Similar to RRT, these personnel will be required to undergo regular PCR test during his/her work duration in the shipyard’s production site. After completion of their works at the shipyard’s production site, they will be required to take a PCR test on the 5th to 7th day after exit, and a final PCR test on the 11th day after exit. The COVID-19 PCR test or ART may be done at any of the <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">MOH-approved COVID-19 test providers</a>. The costs of the tests would be at the personnel’s own or their employers’ expense.
 
@@ -104,22 +104,24 @@ Ship agent/Shipyard can arrange for on-arrival PCR swab test onboard the vessel,
 Only <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">MOH Licensed Healthcare Institute (HCI)</a> can conduct on-arrival offshore PCR swab test onboard vessel only upon obtaining MOH’s approval by following the steps below:
 
 <ins>a. Register for offsite swab application with MOH</ins>
+
 The appointed HCI can register their offsite swab application with MOH via <a href="https://go.gov.sg/offsitecovid19swab" target="_blank">here</a>. The appointed HCI must ensure that all on-arrival swab tests to be done onboard vessel in the shipyard or berthed next to shore. No on-arrival PCR swab tests can be done at the anchorage unless explicitly approved by MPA.
 
 Please indicate “Yes” under Question 2 “Have HPB and Sector Lead endorsed this application?” in the link stated above for offsite swab application and follow-up with the next step below.
 
-<ins>Inform MOH Licensing Division and EDB Central COVID Ops Team</ins>
+<ins>b. Inform MOH Licensing Division and EDB Central COVID Ops Team</ins>
+
 Only appointed HCI by Ship agent/Shipyard can write in to the MOH Licensing Division (<a href = "mailto: eLIS@moh.gov.sg">eLIS@moh.gov.sg</a>) and copy to <a href = "mailto: cco@edb.gov.sg">cco@edb.gov.sg</a> to follow up on the approval process where MOH Licensing Division must approve the appointed HCI before the on-arrival onboard or sign off pre-departure swab test on the vessel crew can be performed.
 
 Email to MOH Licensing Division to include the following information which is not exhaustive:
-I.	Email header: Mandatory Precautionary Measure on Arrival Onboard PCR Swab Tests for inbound vessels’ crew calling into shipyards for repairs / Pre-Departure Tests for Sign offs only in shipyards or berthed next to shore
-II.	HCI Name;
-III.	HCI Swabbers’ name;
-IV.	Ship agent/Ship owner/Shipyard name that appoint HCI;
-V.	Date and planned time of Swab to be done;
-VI.	Location of Swab to be done;
-VII.	Application date to MOH eLIS for approval to perform offsite swab / show screenshot of approval to MOH eLIS submitted; and
-VIII.	Laboratory Name where collected swabs will be tested.
+- I.	Email header: Mandatory Precautionary Measure on Arrival Onboard PCR Swab Tests for inbound vessels’ crew calling into shipyards for repairs / Pre-Departure Tests for Sign offs only in shipyards or berthed next to shore
+- II.	HCI Name;
+- III.	HCI Swabbers’ name;
+- IV.	Ship agent/Ship owner/Shipyard name that appoint HCI;
+- V.	Date and planned time of Swab to be done;
+- VI.	Location of Swab to be done;
+- VII.	Application date to MOH eLIS for approval to perform offsite swab / show screenshot of approval to MOH eLIS submitted; and
+- VIII.	Laboratory Name where collected swabs will be tested.
 
 For urgent on-arrival onboard swabs (defined as swabs to be done over the next 10 calendar days), appointed HCI by Ship agent/Shipyard has to write in to the MOH Licensing Division (<a href = "mailto: eLIS@moh.gov.sg">eLIS@moh.gov.sg</a>) and copy to <a href = "mailto: cco@edb.gov.sg">cco@edb.gov.sg</a> to expedite the approval to conduct offsite swab testing. Only appointed HCI may email or call MOH Licensing Division for urgent confirmation. Urgent applications will be approved only on a case by case basis with justifications.
 
@@ -132,7 +134,7 @@ Agencies have updated the MPM for Shipyard Repair Calls in Singapore to include 
 Shipyards are to write to their respective account managers from the Singapore Economic Development Board (EDB) or Enterprise Singapore (ESG) and copy to EDB Central COVID Ops (CCO) team at <a href = "mailto: cco@edb.gov.sg">cco@edb.gov.sg</a>, with their specific queries at least 7 calendar days in advance. The case will be assessed accordingly, and an approval may be given on a case-by-case basis.
 
 #### **12. If the vessel crew have not met the Pre-Departure Test Criteria, can the shipyard still accept the repair job?**
-A12.	Shipyards are to write to their respective account managers from the Singapore Economic Development Board (EDB) or Enterprise Singapore (ESG) and copy to EDB Central COVID Ops (CCO) team at <a href = "mailto: cco@edb.gov.sg">cco@edb.gov.sg</a>, with their specific queries at least 7 calendar days in advance. The case will be assessed accordingly, and an approval may be given on a case-by-case basis.
+Shipyards are to write to their respective account managers from the Singapore Economic Development Board (EDB) or Enterprise Singapore (ESG) and copy to EDB Central COVID Ops (CCO) team at <a href = "mailto: cco@edb.gov.sg">cco@edb.gov.sg</a>, with their specific queries at least 7 calendar days in advance. The case will be assessed accordingly, and an approval may be given on a case-by-case basis.
 
 Shipyards must inform their vessels to plan their voyage for her crew to take Pre-Departure PCR Swab Test at the last port of call or prior to entering Port of Singapore. Shipyards must sight all the vessel crew’s Pre-Departure Negative PCR Swab Test results and keep all results as records. Shipyards can then issue the Letter of Acceptance to the vessel. 
 
