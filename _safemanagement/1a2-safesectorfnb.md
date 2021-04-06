@@ -11,11 +11,9 @@ Accounting practices are to comply to measures stipulated in this <a href="https
 
 #### **Arts and Culture / Museums**
 
-Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/nac.pdf" target="_blank">document</a> [last updated on 30 Jul 20]. You can also refer to the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html" target="_blank">website</a>. 
+Arts and culture stakeholders are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/nac.pdf" target="_blank">document</a> [last updated on 1 Apr 21]. You can also refer to the National Arts Council <a href="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html" target="_blank">website</a>. 
 
-For resumption of indoor live performances, stakeholders are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/NACAdvisoryonResumptionofIndoorLivePerformances.pdf" target="_blank">document</a> [last updated on 31 Oct 20].
-
-Museum stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 11 Nov 20]. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
+Museum stakeholders are to comply to measures stipulated in this <a href="https://go.gov.sg/nhbsmrrequirements" target="_blank">document</a> [last updated on 28 Dec 20]. You can also refer to the National Heritage Board <a href="https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19" target="_blank">website</a>.
 
 #### **Attractions**
 
@@ -86,9 +84,9 @@ With effect from 26 Jan 2021 (inclusive), marriage solemnisations and wedding re
 
 #### **Marine & Offshore (M&O) Sector**
 
-Enterprises in the M&O sector are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/AdvisoryMOSector_19Feb.pdf" target="_blank">document</a> [last updated on 19 Feb 21].
+Enterprises in the M&O sector are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/AdvisoryMOSector_19Feb.pdf" target="_blank">document</a> [last updated on 19 Feb 21] and updated measures in this <a href="https://covid.gobusiness.gov.sg/guides/AdvisoryMOSector_30Mar.pdf" target="_blank">document</a> [last updated on 30 Mar 21].
 
-You should also comply to the COVID-Safe restart criteria for shipyards, resident contractors and common contractors (M&O) <a href="https://covid.gobusiness.gov.sg/guides/MORestartCriteria.pdf" target="_blank">here</a> [last updated on 19 Feb 21]. For FAQs regarding COVID-Safe restart criteria, please refer to this <a href="https://covid.gobusiness.gov.sg/guides/FAQsforMOSector.pdf" target="_blank">document</a> [last updated on 19 Feb 21].
+You should also comply to the COVID-Safe restart criteria for shipyards, resident contractors and common contractors (M&O) <a href="https://covid.gobusiness.gov.sg/guides/MORestartCriteria.pdf" target="_blank">here</a> [last updated on 30 Mar 21]. For FAQs regarding COVID-Safe restart criteria, please refer to this <a href="https://covid.gobusiness.gov.sg/guides/FAQsforMOSector.pdf" target="_blank">document</a> [last updated on 30 Mar 21].
 
 Enterprises in the M&O sector are to comply to measures stipulated in this <a href="https://go.gov.sg/marineadvisory" target="_blank">document</a> [last updated on 12 Aug 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.
 
@@ -118,6 +116,8 @@ Enterprises in the Process Construction & Maintenance sector are to comply to me
 
 For more information on the BluePass contact tracing token, please refer to this <a href="https://covid.gobusiness.gov.sg/guides/AdvisoryonBPtokenvfp.pdf" target="_blank">document</a> [last updated on 3 Nov 20] and to this <a href="https://covid.gobusiness.gov.sg/guides/AdvisoryonBPtokenvf.pdf" target="_blank">document</a> [last updated on 4 Dec 20].
 
+For more information on the TraceTogether contact tracing token, please refer to this <a href="https://covid.gobusiness.gov.sg/guides/advisoryontttokens.pdf" target="_blank">document</a> [last updated on 5 Apr 2021].
+
 #### **Property show galleries**
 
 Developers are to comply to measures stipulated in this <a href="https://go.gov.sg/PropertyURA" target="_blank">document</a> [last updated on 17 Jun 20]. You can also refer to the Urban Redevelopment Authority <a href = "https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-13" target="_blank">website</a>.
@@ -130,7 +130,7 @@ You can also refer to the Singapore Police Force <a href = "https://www.police.g
 
 #### **Religious Organisations**
 
-Religious organisations are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/mccyroadadvisory2.pdf" target="_blank">document</a> [last updated on 18 Mar 21]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/dec/phase-three-of-re-opening-religious-activities" target="_blank">website</a>.
+Religious organisations are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/mccyroadadvisory2.pdf" target="_blank">document</a> [last updated on 31 Mar 21]. You can also refer to the MCCY <a href = "https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2021/mar/phase-three-re-opening-for-religious-activities" target="_blank">website</a>.
 
 For more information and FAQs on COVID-19 for the religious sector, please visit <a href = "https://www.cpro.gov.sg" target="_blank">www.cpro.gov.sg</a> or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at <a href = "mailto: cpro@mccy.gov.sg">cpro@mccy.gov.sg</a>. 
 
