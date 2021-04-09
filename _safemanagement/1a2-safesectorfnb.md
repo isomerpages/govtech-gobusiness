@@ -55,6 +55,10 @@ Estate agents and real estate salespersons are to comply to measures stipulated 
 
 Enterprises in the finance sector are to comply to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements2" target="_blank">document</a> [last updated on 15 Jun 20]. You can also refer to the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news" target="_blank">website</a>.
 
+#### **Funeral Events**
+
+Enterprises in the Funeral Sector are to comply to measures stipulated in the National Environment Agency <a href = "https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/safe-management-measures/frequently-asked-questions" target="_blank">website</a>
+
 #### **F&B & Retail**
 
 - F&B establishments are to comply to measures stipulated in this (document) <a href="https://covid.gobusiness.gov.sg/guides/FBestablishments30Jan.pdf" target="_blank">document</a> [last updated on 30 Jan 21].<br>
