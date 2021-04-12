@@ -74,6 +74,9 @@ Residential and Community-based Facilities are to comply to measures stipulated 
 
 Social Service Agencies and community groups distributing essential aid (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid) are to comply to measures stipulated in this <a href="https://go.gov.sg/msfsocialadvisory" target="_blank">document</a> [last updated on 7 Jan 21]. You can also refer to the Ministry of Social and Family Development <a href = "https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx" target="_blank">website</a>.
 
+#### **Hostels**
+Hostels are to comply to the measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/hostelsadvisory.pdf" target="_blank">document</a> [last updated on 1 April 2021]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html#advisoryforhostels" target="_blank">website</a>.
+
 #### **Hotels**
 
 Hotels are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/hotels_ver22Jan2021.pdf" target="_blank">document</a> [last updated 22 Jan 21]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html" target="_blank">website</a>.
