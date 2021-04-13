@@ -8,12 +8,12 @@ third_nav_title: Manpower Declaration
 Yes. The guide for declaration/submission of manpower details can be found <a href="https://file.go.gov.sg/essentialmanpowerguide25sep.pdf" target="_blank">here</a>.
 
 #### **2. How do I know if I need to declare/submit my manpower details?**
-All businesses that have received an approval for their General Exemption application, are required to do so.
+With effect from 5 April 2021, businesses with ‘Permitted’ status are no longer required to declare/submit manpower details. Businesses operating on General Exemption approvals are still required to do so. 
 
 Companies can check your status by logging in to the GoBusiness portal.
 
 #### **3. I am unable to declare/submit my manpower details. What should I do?**
-If you require assistance, please write to MTI at <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>
+If your business has a ‘Permitted’ status, you are no longer required to submit manpower details and hence will not be able to see the “Submit Manpower” button on the portal. If you are operating on a General Exemption approval but are facing issues with manpower submission, please write to MTI at <a href = "mailto: covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>
 
 Please also note that there may be conditions imposed on the approval of your general exemption. These conditions will be indicated in your official email notification of approval. Alternatively, you may also login to <a href="https://go.gov.sg/exemptionstatus" target="_blank">https://www.gobusiness.gov.sg/exemptions</a> to check your exemption application for any conditions to your approval.
 
@@ -58,7 +58,9 @@ You can login <a href="https://go.gov.sg/essentialworkers" target="_blank">here<
 You may change and resubmit your manpower declaration up to 5 times a day.
 
 #### **12. When I login to the system to declare/submit my manpower details, I notice that “the number of employees/workers under my employment” reflected is incorrect. What should I do?**
-The employment records are accurate as at Feb 2020. We allow for reasonable fluctuations to this number. Therefore, you should continue to declare your manpower details.
+For applications with ‘Permitted’ status, ‘N/A’ will be reflected under the ‘No. of manpower onsite’, since manpower declaration will no longer be required for ‘Permitted applications from 5 Apr 2021. 
+
+For applications with ‘Approved’ status, the employment records are accurate as at Dec 2020. We allow for reasonable fluctuations to this number. Therefore, you should continue to declare your manpower details.
 
 However, should the numbers vary substantially, you should submit a copy of your manpower records with the Ministry of Manpower (MOM) and/or  the Central Provident Fund (CPF) to MTI at <a href = "mailto: Covid_GoBusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a>.
 
