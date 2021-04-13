@@ -58,7 +58,7 @@ You can login <a href="https://go.gov.sg/essentialworkers" target="_blank">here<
 You may change and resubmit your manpower declaration up to 5 times a day.
 
 #### **12. When I login to the system to declare/submit my manpower details, I notice that “the number of employees/workers under my employment” reflected is incorrect. What should I do?**
-For applications with ‘Permitted’ status, ‘N/A’ will be reflected under the ‘No. of manpower onsite’, since manpower declaration will no longer be required for ‘Permitted applications from 5 Apr 2021. 
+For applications with ‘Permitted’ status, ‘N/A’ will be reflected under the ‘No. of manpower onsite’, since manpower declaration will no longer be required for ‘Permitted’ applications from 5 Apr 2021. 
 
 For applications with ‘Approved’ status, the employment records are accurate as at Dec 2020. We allow for reasonable fluctuations to this number. Therefore, you should continue to declare your manpower details.
 
