@@ -1,0 +1,6 @@
+collections:
+  guides:
+    output: true
+    order:
+      - manpower-submission-user-guide-pdf.md
+      - time-limited-exemption-user-guide-pdf.md
