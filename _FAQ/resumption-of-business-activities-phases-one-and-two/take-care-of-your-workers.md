@@ -61,7 +61,7 @@ When visiting such facilities, employees will still have to comply with the rele
 #### **10. Can I hold work-related events outside of my workplace premises?**
 Yes, work-related events will be allowed to resume at third-party venues, subject to any additional premises owners’ safe management policies.
 
-#### **11. What should I do if my employees are unwilling to work from home because their home is not conducive for work?**
+#### **11. Can I hold religious ceremonies such as 7th month prayers at the workplace? What are the required Safe Management Measures?**
 Yes, these can be conducted up to 30 participants at a time, or a lower number subject to the size of the premises and the need to maintain safe distance. 
 
 The prevailing Safe Management Measures must be adhered to, including: 
