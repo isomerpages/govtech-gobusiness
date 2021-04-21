@@ -2,25 +2,6 @@ title: GoBusiness
 url: "https://covid.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/Gobiz_COVID_logo-01.svg
 favicon: /images/Gobiz_favicon.ico
-collections:
-  transitionsupport:
-    output: false
-  permittedservices:
-    output: true
-  safemanagement:
-    output: true
-  supportschemes:
-    output: true
-  safetywork:
-    output: false
-  govtassist:
-    output: false
-  essentialservices:
-    output: false
-  guides:
-    output: true
-  FAQ:
-    output: true
 resources_name: news
 google_analytics: UA-162519866-1
 
@@ -58,9 +39,12 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+staging: Staging:https://govtech-gb-staging.netlify.com/
+prod: https://govtech-gb-prod.netlify.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
+  - jekyll-remote-theme

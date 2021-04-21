@@ -1,0 +1,16 @@
+collections:
+  supportschemes:
+    output: true
+    order:
+      - supporting-our-businesses.md
+      - finanical-support/.keep
+      - finanical-support/immediate-schemes.md
+      - finanical-support/financial-schemes.md
+      - finanical-support/grants.md
+      - manpower-support.md
+      - digital-support.md
+      - sector-specific-support/.keep
+      - sector-specific-support/f-b.md
+      - sector-specific-support/arts-culture.md
+      - sector-specific-support/hospitality-and-tourism.md
+      - sector-specific-support/maritime.md
