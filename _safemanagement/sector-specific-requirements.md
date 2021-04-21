@@ -57,7 +57,7 @@ Enterprises in the finance sector are to comply to measures stipulated in this <
 
 #### **Funeral Events**
 
-Enterprises in the Funeral Sector are to comply to measures stipulated in the National Environment Agency <a href = "https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/safe-management-measures/frequently-asked-questions" target="_blank">website</a>
+Enterprises in the Funeral Sector are to comply to measures stipulated in <a href="https://covid.gobusiness.gov.sg/guides/SMM_FuneralServices.pdf" target="_blank">document</a> [last updated on 21 Apr 21].
 
 #### **F&B & Retail**
 
@@ -149,7 +149,7 @@ Lion Dance Performing Troupes are to comply to measures stipulated in this <a hr
 
 #### **Student Care Centres**
 
-Student Care Centres are to comply to the measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/studentcareadvisory.pdf" target="_blank">document</a> [last updated 17 Mar 2021]. You can also refer to the <a href = "https://www.msf.gov.sg/studentcare/Pages/Home.aspx" target="_blank">Student Care Portal</a> for more details.
+Student Care Centres are to comply to the measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/studentcareadvisory.pdf" target="_blank">document</a> [last updated 21 Apr 2021]. You can also refer to the <a href = "https://www.msf.gov.sg/studentcare/Pages/Home.aspx" target="_blank">Student Care Portal</a> for more details.
 
 #### **Tours**
 
