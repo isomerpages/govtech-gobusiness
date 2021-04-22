@@ -4,7 +4,7 @@ title: GoBusiness
 description: For Singapore Businesses
 image: /images/
 permalink: /
-notification: '[Announcement]' On 30 April 2021, GoBusiness Covid will be upgraded with more services and features for a better experience.
+notification: [Announcement] On 30 April 2021, GoBusiness Covid will be upgraded with more services and features for a better experience.
 #notification: <strong>Attention:</strong> There may be intermittent disruptions for Corppass users. We are working to resolve the issue and apologise for any inconvenience caused.
 sections:
     - hero:
