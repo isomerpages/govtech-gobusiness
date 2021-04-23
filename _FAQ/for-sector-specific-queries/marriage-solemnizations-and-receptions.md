@@ -329,7 +329,7 @@ If your solemnization and reception are held separately, they need not be the sa
 
 If the reception takes place at the same location right after the solemnization, the entire event (solemnization and reception) is limited to the same guests. Please refer to section VIIII of the FAQs for details on the zoning requirements.
 
-#### **57. If there are certain guests that attend the reception purely to meet and greet the couple and leave straightaway without sitting in to eat and drink, would they be counted as part of the 100 people (without PET) or 250 people (with PET) attendees limit?
+#### **57. If there are certain guests that attend the reception purely to meet and greet the couple and leave straightaway without sitting in to eat and drink, would they be counted as part of the 100 people (without PET) or 250 people (with PET) attendees limit?**
 The total number of attendees for receptions has to be capped at (a) 100 persons (without PET), or (b) 250 persons (with PET), throughout the entire event, or a lower number subject to the size of the premises and safe management requirements. For receptions involving between 101-250 attendees, PET is required for all attendees (including the wedding couple). This includes those who attend the reception for a short duration without eating or drinking.
 
 #### **58. Are there any duration limits or time restrictions for wedding reception/solemnization?**
