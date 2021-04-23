@@ -79,7 +79,7 @@ Hostels are to comply to the measures stipulated in this <a href="https://covid.
 
 #### **Hotels**
 
-Hotels are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/hotels_ver22Jan2021.pdf" target="_blank">document</a> [last updated 22 Jan 21]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html" target="_blank">website</a>.
+Hotels are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/Circular for Hotels in Phase 3_ver23Apr2021.pdf" target="_blank">document</a> [last updated 23 Apr 21]. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html" target="_blank">website</a>.
 
 #### **Landscape-related Services**
 
@@ -87,7 +87,7 @@ All landscape-related services and nurseries will resume, subject to safe manage
 
 #### **Marriage Solemnisations and Receptions**
 
-With effect from 26 Jan 2021 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/Weddings2_26Jan.pdf" target="_blank">document</a> [Last updated 26 Jan 21], depending on venue.
+With effect from 24 Apr 2021 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/SMMs_for_Weddings_w_PET(For 24 Apr).pdf" target="_blank">document</a> [Last updated 24 Apr 21], depending on venue.
 
 #### **Marine & Offshore (M&O) Sector**
 
