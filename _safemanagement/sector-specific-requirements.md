@@ -105,7 +105,7 @@ You can also refer to the Singapore Police Force <a href = "https://www.police.g
 
 #### **MICE events**
  
-Event Organisers and Event Venues (collectively “EOs”) are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/MICEPilotEventAdvisory.pdf" target="_blank">document</a> [last updated on 23 Apr 21] for piloting MICE events of up to 750 participants. You can also refer to the Singapore Tourism Board website for more information on the application process and FAQs.
+Event Organisers and Event Venues (collectively “EOs”) are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/MICEPilotEventAdvisory.pdf" target="_blank">document</a> [last updated on 23 Apr 21] for piloting MICE events of up to 750 participants. You can also refer to the Singapore Tourism Board <a href = "https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE" target="_blank">website</a> for more information on the application process and FAQs.
 
 #### **Private mahjong (or gambling) rooms operators**
 
