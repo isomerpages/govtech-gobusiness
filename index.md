@@ -126,3 +126,5 @@ sections:
    
     
 ---
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid/">
