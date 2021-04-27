@@ -124,7 +124,4 @@ sections:
 #        image: /images/budget2020.jpg
 #        alt: The Unity, Resilience & Solidarity Budgets
    
-    
 ---
-
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid/">
