@@ -33,3 +33,5 @@ Please view the infographic below for an overview of the safe management measure
 |         Full Infographic         |                                                                                                               <a href="/images/Resumption_of_Biz_Activities_-_Safe_Management_Measures_Infographic_Revised_FA.pdf" target="_blank">PDF</a>                                                                                                                |
 | Infographics - Individual frames | <a href="/images/img-01.jpg" target="_blank">JPG</a> <br>  <a href="/images/img-02.jpg" target="_blank">JPG</a>  <br>  <a href="/images/img-03.jpg" target="_blank">JPG</a> <br> <a href="/images/img-04.jpg" target="_blank">JPG</a> <br> <a href="/images/img-05.jpg" target="_blank">JPG</a> <br> <a href="/images/img-06.jpg" target="_blank">JPG</a> |
 
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/safemanagement/general/">
+<a href="https://govtech-gobusiness-main-staging.netlify.app/safemanagement/general/" target="_blank">General Requirements</a>

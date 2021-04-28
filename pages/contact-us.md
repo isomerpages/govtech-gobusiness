@@ -19,3 +19,7 @@ contacts:
     - other: <br>We are experiencing a high volume of enquiries and appreciate your understanding and patience. 
 #    - other: For more enquiries,<br>contact us at +65 6898 1800 or drop us an email at safedistancing@enterprisesg.gov.sg   
 ---
+
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/contact-us/">
+<a href="https://govtech-gobusiness-main-staging.netlify.app/contact-us/" target="_blank">Contact Us</a>

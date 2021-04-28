@@ -167,3 +167,7 @@ ___
 [^2]: Works requiring Process Sector Work Permit or S-Pass Holders in connection with the construction of plant equipment in the Petroleum/Petrochemicals and other Chemicals manufacturing sector.
 [^3]: Dormitories include purpose-built dormitories, factory-converted dormitories, construction temporary quarters, temporary occupation license quarters, temporary living quarters and government decant sites.
 [^4]: Dormitories include purpose-built dormitories, factory-converted dormitories, construction temporary quarters, temporary occupation license quarters, temporary living quarters and government decant sites.
+
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/tourism">
+<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/tourism" target="_blank">Process Construction & Maintenance (PCM) Sector</a>

@@ -437,3 +437,7 @@ ___
 [^4]: With effect from 28 Dec 2020, the group size for guests other than the wedding party will be increased from five to eight persons.
 
 [^5]: If the place of residence has, for instance, 5 visitors attending the home solemnization (as guests or vendors), the individual may accept 3 more visitors to his or her place of residence on the same day.
+
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions">
+<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions" target="_blank">Marriage Solemnizations and Receptions</a>

@@ -30,3 +30,8 @@ A separate application for General Exemption is not required. Once a hotel recei
 
 ___
 [^1]: “Education business” means providing, in the course of any business and whether involving the provision of care or otherwise: (a) lessons or coaching in, or for participation in, a cultural, recreational or sporting activity; (b) private tutoring; (c) full-time education for the purpose of preparing students for any examination that leads to a qualification awarded by any person other than the person which provides the full-time education or that entitles the students to be admitted to an education institution; (d) a course of instruction, training or teaching leading to the award of a diploma, degree, certificate or other qualification; (e) post-secondary education and training which is directed towards the development or upgrading of skills and knowledge in relation to work in commerce or industry; or (f) a post-secondary education program that leads to the development of knowledge and skills that are not specific to any particular occupation.
+
+
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/hotels">
+<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/hotels" target="_blank">Hotels</a>

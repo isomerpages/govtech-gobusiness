@@ -22,3 +22,7 @@ Please refer to the advisory <a href="https://www.stb.gov.sg/content/stb/en/home
 
 #### **3. Are tours permitted?**
 From 29 June 2020, domestic tour operators can begin submitting their applications to resume operations. Tour operators and tourist guides can submit their application to <a href = "mailto: STB_TID@stb.gov.sg">STB_TID@stb.gov.sg</a>, and may only resume carrying out tour activities after receiving approval from MTI. Please refer to the advisory <a href="https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html" target="_blank">here</a> for the full list of requirements.
+
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/tourism">
+<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/tourism" target="_blank">Tourism</a>

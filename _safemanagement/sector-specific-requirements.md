@@ -170,3 +170,7 @@ Maintenance companies should refer to the following documents on measures relati
 a.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresRestartingCoolingTowers" target="_blank">circular</a> on measures to be taken when re-starting cooling towers [last updated on 18 May 20]
 
 b.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresSwimmingPoolsAndWaterFountains" target="_blank">circular</a> on measures to be taken when re-opening and re-starting of swimming pools and water fountains [last updated on 15 Jun 20]
+
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/safemanagement/sector/">
+<a href="https://govtech-gobusiness-main-staging.netlify.app/safemanagement/sector/" target="_blank">Sector Specific Requirements</a>

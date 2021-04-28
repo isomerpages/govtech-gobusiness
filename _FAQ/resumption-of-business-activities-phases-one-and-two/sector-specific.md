@@ -55,3 +55,7 @@ Home-based services that involve customers entering one’s home for a prolonged
 Yes, these are home-based services that are allowed. They will count as part of the eight persons cap on visitors per day. Service providers are required to wear masks and maintain a one metre distancing.
 
 Limiting visits to two other households per day applies to social visits, and does not apply to those who need to visit multiple households in the course of business or employment.
+
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/resumption-biz-activities-phase12/sector-specific">
+<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/resumption-biz-activities-phase12/sector-specific" target="_blank">Sector specific</a>

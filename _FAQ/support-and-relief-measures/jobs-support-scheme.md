@@ -69,3 +69,7 @@ Companies can log in to myTax portal: <a href="https://mytax.iras.gov.sg/ESVWeb/
 
 You may also refer to the guidelines on self-check on the IRAS website:
 <a href="https://www.iras.gov.sg/irashome/e-services/other-taxes/jobs-support-scheme--jss-/" target="_blank">https://www.iras.gov.sg/irashome/e-services/other-taxes/jobs-support-scheme--jss-/</a>  
+
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/support-and-relief-measures/jobs-support-scheme">
+<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/support-and-relief-measures/jobs-support-scheme" target="_blank">Jobs Support Scheme</a>

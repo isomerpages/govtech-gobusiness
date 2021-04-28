@@ -23,3 +23,6 @@ permalink: /privacy/
 7. Please contact 1800 211 0777 or [qsm@tech.gov.sg](mailto:qsm@tech.gov.sg) if you: 
 : (a) have any enquires or feedback on our data protection policies and procedures,
 : (b) need more information on or access to data which you have provided to us in the past..
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/privacy/">
+<a href="https://govtech-gobusiness-main-staging.netlify.app/privacy/" target="_blank">Privacy</a>
