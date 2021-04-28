@@ -15,3 +15,5 @@ Please note that your SSIC code should correspond with the “primary business a
 
 If you do not know your SSIC code, you can login to <a href="https://www.bizfile.gov.sg/" target="_blank">BizFile+</a> using your Corppass credentials.
 
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/permittedlist/">
+<a href="https://govtech-gobusiness-main-staging.netlify.app/permittedlist/" target="_blank">Manpower Submission User Guide (PDF)</a>
