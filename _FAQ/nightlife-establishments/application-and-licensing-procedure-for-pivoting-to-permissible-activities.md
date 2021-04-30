@@ -100,3 +100,7 @@ Smoking rooms are not allowed within the F&B establishment, and all existing smo
 When the premise is converted back to a nightlife establishment, the previously approved smoking room, which is contingent on the Public Entertainment Licence (PEL), may resume operations, subject to prevailing regulations on smoking facilities.
 
 In the event that the PEL is not renewed by the time of reversion, the smoking room must remain close until a valid PEL is obtained.
+
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/nightlife-establishments/application-and-licensing">
+<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/nightlife-establishments/application-and-licensing" target="_blank">Application and Licensing Procedure</a>
