@@ -53,3 +53,6 @@ The decision of the Enforcement Officers is final. In particular, the Enforcemen
 #### **12. I am issued a fine. How do I make payment?**
 You can refer to the Notice of Offence issued to you for information on the payment mode. Enforcement officers will not collect fines on the spot, from individuals and businesses who have contravened these rules. The penalties for breaches will be issued to individuals or businesses in the form of composition letters, which will state the relevant follow up actions required.
 
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/" target="_blank">General</a>

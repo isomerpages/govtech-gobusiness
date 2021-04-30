@@ -29,3 +29,7 @@ TCMPs must also observe proper infection control guidelines as prescribed below:
 
 #### **3. Am I allowed to practice at multiple places of practice?**
 To minimise infection risk and cross-institutional transmission of COVID-19, TCMPs who wish to practice during phases 1 and 2 of post CB period are allowed to do so only at one place of practice.
+
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/healthcare-and-social-services">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/healthcare-and-social-services" target="_blank">Healthcare and Social Services</a>

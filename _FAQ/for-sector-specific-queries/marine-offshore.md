@@ -226,3 +226,8 @@ No. The rest day will be randomly assigned for all companies that have chosen th
 
 #### **19. If I am adopting the equal spread of Marine Shipyard account workers resting between Monday to Saturday, am I allowed to swap the workers’ rest days in the Safe@Work system while keeping to the numbers resting each day?**
 Yes, companies are allowed to change the workers’ rest day in the Safe@Work system while adhering to the numbers resting each day. However, employers are to ensure fair treatment to workers and timely communication to allow workers to make the necessary adjustment, and should not prevent their workers from applying for an Exit Pass, or force them to work on their rest day against their will.
+
+
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/marine-and-offshore">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/marine-and-offshore" target="_blank">Marine & Offshore</a>

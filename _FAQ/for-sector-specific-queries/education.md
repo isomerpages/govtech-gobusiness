@@ -90,3 +90,7 @@ The Government has announced measures to help affected workers and businesses ti
 - Enhanced rental waivers to support tenants – under the COVID-19 (Temporary Measures) Act, tenants who are unable to pay rent and serve a notice for relief will have their rental payments suspended for up to 6 months, and leases cannot be terminated by landlords for non-payment of rent.
 
 For more information, please refer to <a href = "http://www.singaporebudget.gov.sg">http://www.singaporebudget.gov.sg</a> and the Ministry of Law <a href="http://www.mlaw.gov.sg" target="_blank">website</a>.
+
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/education">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/education" target="_blank">Education</a>

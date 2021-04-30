@@ -111,3 +111,6 @@ ___
 [^2]: Supermarkets and large retail outlets located inside buildings already covered by SafeEntry Gateway (e.g. malls or commercial buildings), with the same operating hours, will not be required to deploy SafeEntry Gateways. Please note that all supermarkets and large retail outlets must continue to implement SafeEntry, regardless of whether they are located inside buildings covered by SafeEntry Gateways.
 
 [^3]: Selected public museums, heritage institutions, and galleries will be informed by National Heritage Board.
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/safemanagement/safeentry/">
+<a href="https://www.gobusiness.gov.sg/safemanagement/safeentry/" target="_blank">Contact Tracing Support</a>

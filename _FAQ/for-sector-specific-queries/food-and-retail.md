@@ -239,3 +239,7 @@ Yes, malls may reopen DSAs, so long as the safe distancing measures are adhered 
 
 ___
 [^1]: Partitions made of porous materials such as nettings and cloth are not allowed.
+
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/food-and-retail">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/food-and-retail" target="_blank">Food and Retail</a>

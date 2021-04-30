@@ -49,3 +49,7 @@ The company’s licenses should be terminated, and the company’s name should b
 
 #### **10. What are the types of costs that a company can claim under the ex-gratia support?**
 The company may use the ex-gratia payout of $30,000 to defray costs associated with the cessation of business, including but not limited to early lease terminations costs, reinstatement costs, and labour-related costs. 
+
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/nightlife-establishments/exit-support-package">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/nightlife-establishments/exit-support-package" target="_blank">Exit Support Package</a>

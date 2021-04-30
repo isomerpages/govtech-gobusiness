@@ -71,3 +71,7 @@ If your company’s business activities do not fall within the permitted service
 
 #### **17. I checked my exemption/resumption status and there is now a “period” specified next to my permitted “status”. What does this mean? Can I continue operating?**
 If your exemption/resumption status is reflected as “permitted from (date)”, you will only be allowed to resume operations from the specified date. If your exemption/resumption status is reflected as just “permitted”, you are already allowed to continue your operations.
+
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/resumption-biz-activities-phase123/resumption-of-operations">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/resumption-biz-activities-phase123/resumption-of-operations" target="_blank">Resumption of operations</a>

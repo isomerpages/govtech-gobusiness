@@ -14,3 +14,7 @@ If you need to maintain a small workforce at your place of business for safety p
 
 #### **2. If I see a non-permitted business continue to operate even though it is not supposed to, what should I do?**
 Please report this business and provide relevant details such as its name, address and relevant evidence (e.g. photographs) to <a href="mailto:Covid_GoBusiness@mti.gov.sg" target="_blank">Covid_GoBusiness@mti.gov.sg</a>. 
+
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-non-permitted-services">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-non-permitted-services" target="_blank">For Non-Permitted Services</a>

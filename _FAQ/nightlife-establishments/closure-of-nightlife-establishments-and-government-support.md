@@ -48,3 +48,8 @@ The Simplified Insolvency Programme assists micro and small companies that requi
 The Government recognises that COVID-19 is an unforeseen event and some businesses may be faced with substantial obligations from contracts entered into before the pandemic.
 
 The Ministry of Law has introduced a legislative Re-Align Framework under the COVID-19 (Temporary Measures) Act to allow businesses which have experienced a substantial change in circumstances due to COVID-19, to renegotiate certain prescribed contracts with their counterparties, failing which they may be able to terminate the contract. For more details, please visit <a href="https://www.mlaw.gov.sg/covid19-relief/re-align-framework" target="_blank">here</a>.
+
+
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/nightlife-establishments/closure">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/nightlife-establishments/closure" target="_blank">Closure of nightlife establishments</a>

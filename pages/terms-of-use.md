@@ -61,3 +61,6 @@ regardless of whether GovTech has been advised of the possibility of such damage
 ### **Governing Law**
 
 1. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/terms-of-use/">
+<a href="https://www.gobusiness.gov.sg/terms-of-use/" target="_blank">Terms of Use</a>

@@ -37,3 +37,7 @@ For a full list of SMM, please view Sport Singapore’s latest <a href="https://
 
 #### **10. Can TeamSG athletes return to training?**
 Yes. All organised trainings and exercise are permitted in Phase Three, but groups must be kept to no more than eight persons. An additional coach is allowed and will not be part of the group size of eight. Safe management measures must be adhered to at all times and there must be no socialising before or after the training session. Masks must be worn when not engaged in strenuous activities.
+
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/sport-and-recreational">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/sport-and-recreational" target="_blank">Sport & Recreational</a>

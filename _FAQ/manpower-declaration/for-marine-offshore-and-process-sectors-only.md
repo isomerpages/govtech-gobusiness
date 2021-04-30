@@ -55,3 +55,7 @@ The AccessCode factors in a few parameters, namely:
 - Download and activate latest version of TraceTogether
 
 Only workers with a “green” AccessCode should be deployed to work on-site.
+
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/manpower-declaration/marine-offshore-process">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/manpower-declaration/marine-offshore-process" target="_blank">For marine & offshore and process sectors only</a>

@@ -17,3 +17,6 @@ Both the Event Organiser and Event Venue are jointly responsible for the events 
 
 ___
 [^1]: Excludes work-related events such as conferences, seminars, corporate retreats, Annual General Meetings (AGMs) and Extraordinary General Meetings (EGMs) targeted at internal audience including employees.
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/business-events">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/business-events" target="_blank">Business Events</a>

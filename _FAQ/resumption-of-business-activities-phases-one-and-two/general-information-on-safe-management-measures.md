@@ -62,3 +62,7 @@ No. From 5 April 2021, split team arrangements are no longer mandatory. Nonethel
 Employers must ensure clear physical spacing of at least one metre between persons at all times and demarcate safe physical distances (at least one metre apart) with visual indicators or physical means such as barriers between work stations. 
 
 If leaving an empty desk and demarcating clearly with visual indicators allows for at least one metre distancing between employees, such an approach can be considered. For barriers between workstations, while there are no specific height guidelines, the barriers should also facilitate the required safe physical distance of one metre apart.   
+
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/resumption-biz-activities-phase12/safe-management-measures">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/resumption-biz-activities-phase12/safe-management-measures" target="_blank">General information on Safe Management Measures</a>
