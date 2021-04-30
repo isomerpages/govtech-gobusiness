@@ -102,5 +102,5 @@ When the premise is converted back to a nightlife establishment, the previously 
 In the event that the PEL is not renewed by the time of reversion, the smoking room must remain close until a valid PEL is obtained.
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/nightlife-establishments/application-and-licensing">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/nightlife-establishments/application-and-licensing" target="_blank">Application and Licensing Procedure</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/nightlife-establishments/application-and-licensing">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/nightlife-establishments/application-and-licensing" target="_blank">Application and Licensing Procedure</a>

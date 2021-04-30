@@ -51,5 +51,5 @@ The Ministry of Law has introduced a legislative Re-Align Framework under the CO
 
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/nightlife-establishments/closure">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/nightlife-establishments/closure" target="_blank">Closure of nightlife establishments</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/nightlife-establishments/closure">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/nightlife-establishments/closure" target="_blank">Closure of nightlife establishments</a>

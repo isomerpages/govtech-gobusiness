@@ -172,5 +172,5 @@ a.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresRestartingCoolingTowers"
 b.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresSwimmingPoolsAndWaterFountains" target="_blank">circular</a> on measures to be taken when re-opening and re-starting of swimming pools and water fountains [last updated on 15 Jun 20]
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/safemanagement/sector/">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/safemanagement/sector/" target="_blank">Sector Specific Requirements</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/safemanagement/sector/">
+<a href="https://www.gobusiness.gov.sg/safemanagement/sector/" target="_blank">Sector Specific Requirements</a>

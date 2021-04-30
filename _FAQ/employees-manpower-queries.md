@@ -108,5 +108,5 @@ You must ensure that your workers wear their masks at all times, check in using 
 More details on implementing safe management measures for workers on employer-provided transportation can be found <a href="https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation" target="_blank">here</a>.
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/support-and-relief-measures/employees-manpower-queries">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/support-and-relief-measures/employees-manpower-queries" target="_blank">Employees/ Manpower Queries</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/support-and-relief-measures/employees-manpower-queries">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/support-and-relief-measures/employees-manpower-queries" target="_blank">Employees/ Manpower Queries</a>

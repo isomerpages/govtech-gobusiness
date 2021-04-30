@@ -73,5 +73,5 @@ The prevailing Safe Management Measures must be adhered to, including:
 6. Premises where the ceremony is held should be well-ventilated. Premises that have reduced air circulation (e.g. air-conditioned prayer hall) should, where possible, open doors and windows to naturally ventilate the space after use. 
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/resumption-biz-activities-phase12/returning-workplace">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/resumption-biz-activities-phase12/returning-workplace" target="_blank">Take Care of Your Workers</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/resumption-biz-activities-phase12/returning-workplace">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/resumption-biz-activities-phase12/returning-workplace" target="_blank">Take Care of Your Workers</a>

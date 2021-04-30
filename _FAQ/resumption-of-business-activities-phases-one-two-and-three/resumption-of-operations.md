@@ -73,5 +73,5 @@ If your company’s business activities do not fall within the permitted service
 If your exemption/resumption status is reflected as “permitted from (date)”, you will only be allowed to resume operations from the specified date. If your exemption/resumption status is reflected as just “permitted”, you are already allowed to continue your operations.
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/resumption-biz-activities-phase123/resumption-of-operations">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/resumption-biz-activities-phase123/resumption-of-operations" target="_blank">Resumption of operations</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/resumption-biz-activities-phase123/resumption-of-operations">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/resumption-biz-activities-phase123/resumption-of-operations" target="_blank">Resumption of operations</a>

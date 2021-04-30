@@ -11,5 +11,5 @@ Port operators and logistics service providers will be allowed to continue to op
 Yes, the intention is to keep goods flowing in and to keep the port clear.
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/delivery-transportation">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/delivery-transportation" target="_blank">Delivery/Transportation</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/delivery-transportation">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/delivery-transportation" target="_blank">Delivery/Transportation</a>

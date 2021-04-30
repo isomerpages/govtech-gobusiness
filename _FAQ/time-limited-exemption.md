@@ -31,5 +31,5 @@ If you are unable to apply for a Time-Limited Exemption, please contact our help
 [^1]: The weekly cycle starts from Sunday 12.00am and ends on Saturday 11.59pm.
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/support-and-relief-measures/time-limited-exemption">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/support-and-relief-measures/time-limited-exemption" target="_blank">Time-Limited Exemption</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/support-and-relief-measures/time-limited-exemption">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/support-and-relief-measures/time-limited-exemption" target="_blank">Time-Limited Exemption</a>

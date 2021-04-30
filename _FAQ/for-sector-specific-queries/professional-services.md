@@ -39,5 +39,5 @@ The service of court processes and documents is permissible, including delivery 
 Physical attendance at the office by clients of law practices is permitted only where their physical presence is necessary, such as to complete a contract or transaction that is legally required to be completed in person. Employees of the law practice and clients are required to observe Safe Management Measures requirements at all times.
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/professional-services">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/professional-services" target="_blank">Professional Services</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/professional-services">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/professional-services" target="_blank">Professional Services</a>

@@ -57,5 +57,5 @@ The AccessCode factors in a few parameters, namely:
 Only workers with a “green” AccessCode should be deployed to work on-site.
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/manpower-declaration/marine-offshore-process">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/manpower-declaration/marine-offshore-process" target="_blank">For marine & offshore and process sectors only</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/manpower-declaration/marine-offshore-process">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/manpower-declaration/marine-offshore-process" target="_blank">For marine & offshore and process sectors only</a>

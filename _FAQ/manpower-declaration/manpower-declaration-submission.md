@@ -74,5 +74,5 @@ Depending on the status & conditions tagged to your exemption, each application 
 The cap on the number of manpower that you are allowed to have on-site is necessary to minimise the movement of employees to and from work.  Should you require additional manpower, please submit an application for Additional Manpower <a href="https://go.gov.sg/additionalmanpower" target="_blank">here</a>. Do note that the application will be subject to assessment by the respective agencies.
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/manpower-declaration/manpower-declaration-submission">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/manpower-declaration/manpower-declaration-submission" target="_blank">Manpower declaration / submission</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/manpower-declaration/manpower-declaration-submission">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/manpower-declaration/manpower-declaration-submission" target="_blank">Manpower declaration / submission</a>

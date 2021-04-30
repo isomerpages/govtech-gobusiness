@@ -92,5 +92,5 @@ The Government has announced measures to help affected workers and businesses ti
 For more information, please refer to <a href = "http://www.singaporebudget.gov.sg">http://www.singaporebudget.gov.sg</a> and the Ministry of Law <a href="http://www.mlaw.gov.sg" target="_blank">website</a>.
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/education">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/education" target="_blank">Education</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/education">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/education" target="_blank">Education</a>

@@ -21,5 +21,5 @@ contacts:
 ---
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/contact-us/">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/contact-us/" target="_blank">Contact Us</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/contact-us/">
+<a href="https://www.gobusiness.gov.sg/contact-us/" target="_blank">Contact Us</a>

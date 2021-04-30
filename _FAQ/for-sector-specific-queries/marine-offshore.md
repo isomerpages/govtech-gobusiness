@@ -229,5 +229,5 @@ Yes, companies are allowed to change the workers’ rest day in the Safe@Work sy
 
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/marine-and-offshore">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/marine-and-offshore" target="_blank">Marine & Offshore</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/marine-and-offshore">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/marine-and-offshore" target="_blank">Marine & Offshore</a>

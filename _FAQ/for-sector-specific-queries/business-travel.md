@@ -91,5 +91,5 @@ third_nav_title: For Sector-Specific Queries
 - We will continue to carefully monitor the global situation and the public health outcomes of this scheme in order to strike a calibrated balance between the safety of the local community and resuming business travel in support of our overall economic recovery. 
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/business-travel">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/business-travel" target="_blank">Business Travel</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/business-travel">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/business-travel" target="_blank">Business Travel</a>

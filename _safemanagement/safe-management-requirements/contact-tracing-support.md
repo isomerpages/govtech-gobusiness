@@ -112,5 +112,5 @@ ___
 
 [^3]: Selected public museums, heritage institutions, and galleries will be informed by National Heritage Board.
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/safemanagement/safeentry/">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/safemanagement/safeentry/" target="_blank">Contact Tracing Support</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/safemanagement/safeentry/">
+<a href="https://www.gobusiness.gov.sg/safemanagement/safeentry/" target="_blank">Contact Tracing Support</a>

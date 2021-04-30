@@ -33,5 +33,5 @@ ___
 
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/hotels">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/hotels" target="_blank">Hotels</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/hotels">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/hotels" target="_blank">Hotels</a>

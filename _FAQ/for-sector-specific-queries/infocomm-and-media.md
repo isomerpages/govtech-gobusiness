@@ -28,5 +28,5 @@ Cinema patrons may buy tickets on-site. However, they are strongly encouraged to
 IMDA’s Mandatory Safe Management Measures (SMM) for Cinemas will apply alongside with STB’s set of SMMs for events. STB’s SMM will be published at a later time.
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/infocomm-and-media">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/infocomm-and-media" target="_blank">InfoComm and Media</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/infocomm-and-media">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/infocomm-and-media" target="_blank">InfoComm and Media</a>

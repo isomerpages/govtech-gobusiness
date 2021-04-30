@@ -24,5 +24,5 @@ permalink: /privacy/
 : (a) have any enquires or feedback on our data protection policies and procedures,
 : (b) need more information on or access to data which you have provided to us in the past..
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/privacy/">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/privacy/" target="_blank">Privacy</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/privacy/">
+<a href="https://www.gobusiness.gov.sg/privacy/" target="_blank">Privacy</a>

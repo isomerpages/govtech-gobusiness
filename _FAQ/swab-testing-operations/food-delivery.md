@@ -113,5 +113,5 @@ ___
 [^1]: Claims for the $100 per day can only be made by (i) Singapore-registered companies whose employees under Quarantine Order are Singapore Citizens, Permanent Residents or work pass holders; and (ii) Self-employed Singapore Citizens or Permanent Residents.
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/swab-testing-ops/food-delivery">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/swab-testing-ops/food-delivery" target="_blank">Food Delivery</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/swab-testing-ops/food-delivery">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/swab-testing-ops/food-delivery" target="_blank">Food Delivery</a>

@@ -439,5 +439,5 @@ ___
 [^5]: If the place of residence has, for instance, 5 visitors attending the home solemnization (as guests or vendors), the individual may accept 3 more visitors to his or her place of residence on the same day.
 
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions">
-<a href="https://govtech-gobusiness-main-staging.netlify.app/covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions" target="_blank">Marriage Solemnizations and Receptions</a>
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions">
+<a href="https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions" target="_blank">Marriage Solemnizations and Receptions</a>
