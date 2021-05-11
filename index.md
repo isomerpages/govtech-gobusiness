@@ -1,5 +1,5 @@
 ---
-layout: redirection
+layout: homepage
 title: GoBusiness
 description: For Singapore Businesses
 image: /images/
