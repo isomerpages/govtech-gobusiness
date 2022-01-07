@@ -4,40 +4,72 @@
 #                                #
 ##################################
 
-logo: /images/Gobiz_COVID_logo-01.svg
-
+logo: /images/Gobiz_logo_SG.svg
 
 links:
-#  - title: News & Advisories
-#    url: https://go.gov.sg/newsandadvisories
-#  - title: Safe Management Practices
-#    collection: safemanagement
-#  - title: Support Schemes for Businesses
-#    collection: supportschemes
-#  - title: List of Essential Services
-#    url: /essentialservices/healthandsocialservices/
-  - title: Our Services
-  #  url: /gov-assist/
+  - title: Start a Business
+    url: /start-a-business/
     sublinks:
-      - title: GoBusiness Gov Assist
-        url: https://govassist.gobusiness.gov.sg/
-      - title: GoBusiness Licensing
-        url: https://www.gobusiness.gov.sg/licences
-  - title: Permitted Services
-    url: /permittedlist/
-  - title: Safe Management Requirements
-    url: /safemanagement/general/
-#    collection: essentialservices
-#  - title: GrowSJ
-#    collection: growsj
-#  - title: List of Essential Services
-#    url: /essentialservices/
-  - title: FAQ
-    url: /faq/general
-#    collection: FAQ
-  - title: Guides
-    url: /guides/timelimitedexemptionpdf/
-    collection: guides
-  - title: Contact Us
-    url: /contact-us/
-    
+      - title: Overview
+        url: /start-a-business/
+      - title: Key Steps to Start a Business
+        url: /start-a-business/choose-a-business-structure/
+      - title: Next Steps to Consider
+        url: /start-a-business/hire-employees/
+      - title: FAQ
+        url: /start-a-business/faqs/
+  - title: Run and Grow a Business
+    url: /run-and-grow/
+    sublinks:
+      - title: Overview
+        url: /run-and-grow/
+      - title: Government Assistance
+        url: /gov-assist/
+      - title: Business Grants Portal
+        url: /business-grants-portal/
+      - title: Licences and Permits
+        url: /licences/
+      - title: Taxes, GST and Customs
+        url: /run-and-grow/taxes-and-gst/
+      - title: GeBIZ Alerts
+        url: /gebiz-alerts/
+  - title: Covid-19
+    url: /covid/
+    sublinks:
+      - title: Overview
+        url: /covid/
+      - title: Time Limited RRT for Workplaces
+        url: /timelimitedrrt/ 
+      - title: Permitted Services
+        url: /permittedlist/
+      - title: Safe Management Requirements
+        url: /safemanagement/general/
+      - title: Sector-specific Requirements
+        url: /safemanagement/sector/
+      - title: Digital Solutions for Safe Management
+        url: /safemanagement/safedigital/
+      - title: Guides
+        url: /guides/
+      - title: Financial Support
+        url: /supportschemes/immediateschemes
+      - title: Manpower Support
+        url: /supportschemes/manpowersupport/
+      - title: Sector-Specific Support
+        url: /supportschemes/fnbsupport/
+      - title: FAQ
+        url: /covid-19-faqs/
+  - title: E-Services
+    url: /e-services/
+  - title: Who We Are
+    url: /about-us/
+    sublinks:
+      - title: About Us
+        url: /about-us/
+      - title: News and Updates
+        url: /news-and-updates/
+      - title: Contact Us
+        url: /contact-us/
+      - title: FAQ
+        url: /faqs/popular/
+  - title: <div class="login-btn"></div>
+    url: /login/?src=top_nav

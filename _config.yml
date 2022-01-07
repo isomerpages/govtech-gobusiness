@@ -1,31 +1,34 @@
-title: GoBusiness
-url: "https://covid.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-logo: /images/Gobiz_COVID_logo-01.svg
+title: GoBusiness Singapore
+url: "https://www.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /images/Gobiz_logo_SG.svg
 favicon: /images/Gobiz_favicon.ico
-resources_name: news
-google_analytics: UA-162519866-1
+google_analytics: UA-186826212-1
+facebook-pixel: 199274315251589
+linkedin-insights: 918155
+vica: true
+resources_name: news-and-updates
 
 colors:
   primary-color: '#037e8a'
   secondary-color: '#037e8a'
   media-colors:
     - title: media-color-one
-      color: '#037e8a'
+      color: '#009980'
     - title: media-color-two
-      color: '#037e8a'
+      color: '#2AACA5'
     - title: media-color-three
-      color: '#037e8a'
+      color: '#006699'
     - title: media-color-four
-      color: '#037e8a'
+      color: '#1E3D67'
     - title: media-color-five
-      color: '#037e8a'
+      color: '#3AB488'
 
-
+      
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
 permalink: none
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 include: [_redirects]
 defaults:
@@ -40,8 +43,8 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
-staging: Staging:https://govtech-gb-staging.netlify.com/
-prod: https://govtech-gb-prod.netlify.com/
+staging: https://govtech-gobusiness-main-staging.netlify.app/
+prod: https://govtech-gobusiness-main-prod.netlify.app/
 plugins:
   - jekyll-feed
   - jekyll-assets

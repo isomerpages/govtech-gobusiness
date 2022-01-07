@@ -1,0 +1,40 @@
+<style>
+  #main-content a.secondary-btn {
+    font-family: hknova-semibold;
+    font-weight: 600;
+    text-decoration: none;
+    color: #037E8A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #b3d8dc;
+    box-sizing: border-box;
+    border-radius: 3px;
+    background-color: #fafdfd;
+    font-size: 18px;
+    line-height: 27px;
+    color: #037e8a;
+    height: 52px;
+    width: fit-content;
+    width: -moz-fit-content;
+    margin: 0 auto;
+    cursor: pointer;
+    padding: 12.5px 24px;
+  }
+
+  #main-content a.secondary-btn:hover {
+    border: 1px solid #026770;
+    color: #026770;
+  }
+
+  #main-content a.secondary-btn:active {
+    border: 1px solid #025b63;
+    color: #025b63;
+  }
+
+  #main-content a.secondary-btn:focus {
+    outline: 2px solid #1c8b95;
+  }
+</style>
+
+<a class="secondary-btn" href="{{include.href}}" target="{{include.target}}" rel="{{include.rel}}" >{{include.text}}</a>

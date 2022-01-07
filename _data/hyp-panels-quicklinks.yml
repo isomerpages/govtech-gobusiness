@@ -1,0 +1,54 @@
+panels:
+  - title: Guides for Businesses
+    image: /images/signpost.svg
+    alt: signpost
+    links:
+      - text: e-Adviser for Events
+        href: https://eadviser.gobusiness.gov.sg/events?src=quicklinks
+        target: _blank
+        is_new: true
+      - text: e-Adviser for Premises Use
+        href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=quicklinks
+        target: _blank
+      - text: e-Adviser for Starting a Business
+        href: https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices_quicklinks
+        target: _blank
+      - text: e-Adviser for Government Assistance
+        href: https://gaeadviser.gobusiness.gov.sg/?src=quicklinks
+        target: _blank
+    info-text: <a class="panel-content-links underline" href="/e-services/guides-for-biz/">View all guides for businesses</a>
+  - title: Popular Resources
+    image: /images/popular.svg
+    alt: popular
+    links:
+      - text: Budget 2021
+        href: /gov-assist/budget-2021/
+      - text: General Exemptions Form (Covid-19)
+        href: https://go.gov.sg/covidbusinessresumptions
+        target: _blank
+      - text: Permissions and Manpower Exemption Form (Covid-19)
+        href: https://go.gov.sg/covidbusinessresumptions
+        target: _blank
+      - text: Productivity Solutions Grant Listing
+        href: /productivity-solutions-grant/
+  - title: Licences and Permits
+    image: /images/licences-80.svg
+    alt: licences
+    links:
+      - text: Apply for licences
+        href: /licences/
+        imageClass: login
+        image: /images/login.svg
+        alt: login
+      - text: Cancel or renew licence
+        href: /licences/#amend-renew-licences
+        imageClass: login
+        image: /images/login.svg
+        alt: login
+      - text: Browse by sector
+        href: /licences/find-licence-by-sector/
+      - text: Browse all licences
+        href: /licences/find-licence-by-agency/
+      - text: For new food service business owners
+        href: https://foodservices.gobusiness.gov.sg/licences/foodservices?src=eservices_licence&permits
+        target: _blank
