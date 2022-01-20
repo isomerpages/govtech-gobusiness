@@ -18,7 +18,7 @@ Select a government agency to see its licences and apply for them.
 
 ## I
 
-{% include lletter-accordion-ellipsis.html accordions=site.data.acc079-browse-all-licences letter="i" %}
+{% include letter-accordion-ellipsis.html accordions=site.data.acc079-browse-all-licences letter="i" %}
 
 ## S
 
