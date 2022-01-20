@@ -1,0 +1,6 @@
+collections:
+  browse-all-licences-CAAS:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Permits-for-Carriage-of-Dangerous-Goods.md

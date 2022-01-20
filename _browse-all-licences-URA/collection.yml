@@ -1,0 +1,12 @@
+collections:
+  browse-all-licences-URA:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Change-of-Use-Approval.md
+      - Home-Office-Scheme--URA-.md
+      - Approval-for-Additions-&-Alterations-to-a-Conserved-Building.md
+      - Signage-Proposal-for-a-Conserved-Building.md
+      - Housing-Developer's-Licence.md
+      - Category-3-Works-for-Conserved-Buildings.md
+      - Planning-Permission.md

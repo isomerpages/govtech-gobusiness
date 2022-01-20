@@ -1,0 +1,9 @@
+collections:
+  browse-all-licences-STB:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Non-Renewable-Temporary-Occupation-Licence--NRTOL-.md
+      - Tourist-Guide-Licence.md
+      - Travel-Agent-Licence.md
+      - Safe-Management-Measures-for-MICE-Event.md

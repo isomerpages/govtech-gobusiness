@@ -1,0 +1,6 @@
+collections:
+  browse-all-licences-AVS:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Licence-to-Treat-Animals-and-Birds.md
