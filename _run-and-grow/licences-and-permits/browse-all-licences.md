@@ -10,23 +10,23 @@ Select a government agency to see its licences and apply for them.
 
 ## A
 
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="a" %}
+{% include letter-accordion-ellipsis.html accordions=site.data.acc079-browse-all-licences letter="a" %}
 
 ## C
 
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="c" %}
+{% include letter-accordion-ellipsis.html accordions=site.data.acc079-browse-all-licences letter="c" %}
 
 ## I
 
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="i" %}
+{% include lletter-accordion-ellipsis.html accordions=site.data.acc079-browse-all-licences letter="i" %}
 
 ## S
 
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="s" %}
+{% include letter-accordion-ellipsis.html accordions=site.data.acc079-browse-all-licences letter="s" %}
 
 ## U
 
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="u" %}
+{% include letter-accordion-ellipsis.html accordions=site.data.acc079-browse-all-licences letter="u" %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
