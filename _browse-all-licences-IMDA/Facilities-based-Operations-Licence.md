@@ -18,7 +18,7 @@ Infocomm Media Development Authority (IMDA)
 
 **Additional Information**
 
-<p><strong>Fees<br /></strong>Please refer to "Licence Fees and Licence Duration" in the <a href="https://www.imda.gov.sg/-/media/Imda/Files/Regulations-and-Licensing/Licensing/Telecommunication/Facilities-Based-Operations/FBOGuidelines.pdf">Submission Guidelines (PDF)</a>.</p>
+<p><strong>Fees<br /></strong>Please refer to "Licence Fees and Licence Duration" in the <a href="https://www.imda.gov.sg/-/media/Imda/Files/Regulations-and-Licensing/Licensing/Telecommunication/Facilities-Based-Operations/FBOGuidelines.pdf" target="_blank" rel="noopener">Submission Guidelines (PDF)</a>.</p>
 
 ### Documents Needed
 

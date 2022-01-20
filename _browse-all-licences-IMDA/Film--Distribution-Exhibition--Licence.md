@@ -23,9 +23,9 @@ Infocomm Media Development Authority (IMDA)
 ### Documents Needed
 
 <ul>
- <li>Age-Compliant Measures</li>
- <li>Business Proposition</li>
- <li>Location Maps</li>
+ <li><strong>Age-Compliant Measures</strong></li>
+ <li><strong>Business Proposition</strong></li>
+ <li><strong>Location Maps</strong></li>
  </ul>
 
 ### Requirements

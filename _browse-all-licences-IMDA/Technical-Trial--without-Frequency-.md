@@ -20,7 +20,5 @@ Infocomm Media Development Authority (IMDA)
 
 ### Documents Needed
 
-<ul>
- <li><strong>Approval from Building owner if any</strong></li>
- </ul>
+Documents information abit weird. Here's how it is shown on isomer. can double check? https://govtech-gb-staging.netlify.app/browse-all-licences/infocomm-media-development-authority-(imda)/localised-radio-communication-station-licence
 

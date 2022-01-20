@@ -21,6 +21,6 @@ Infocomm Media Development Authority (IMDA)
 ### Documents Needed
 
 <ul>
- <li>Approval from Building owner if any</li>
+ <li><strong>Approval from Building owner if any</strong></li>
  </ul>
 

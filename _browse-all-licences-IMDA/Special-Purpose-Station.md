@@ -21,6 +21,6 @@ Infocomm Media Development Authority (IMDA)
 ### Documents Needed
 
 <ul>
- <li>Justification</li>
+ <li><strong>Justification</strong></li>
  </ul>
 
