@@ -35,5 +35,5 @@ SkillsFuture Singapore (SSG)
 
 ### Requirements
 
-<p>Click <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme/how-do-i-apply-for-certification">here</a> for more details.</p>
+<p>Click <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme/how-do-i-apply-for-certification">here</a> for more details.</p>
 
