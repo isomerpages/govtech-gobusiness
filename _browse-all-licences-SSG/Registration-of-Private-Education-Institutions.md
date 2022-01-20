@@ -28,5 +28,5 @@ SkillsFuture Singapore (SSG)
 
 ### Requirements
 
-<p>Click <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/enhanced-registration-framework-(erf)/registration-requirements">here</a> for more details.</p>
+<p>Click <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/enhanced-registration-framework-(erf)/registration-requirements">here</a> for more details.</p>
 
