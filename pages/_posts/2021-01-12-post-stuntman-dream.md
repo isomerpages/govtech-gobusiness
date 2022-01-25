@@ -29,7 +29,7 @@ Nonetheless, it is a life he willingly entered to fulfill his dream of propellin
 
 It is with this ideal in mind that Sandbox Training Ground was born – a safe space for like-minded practitioners to hone their craft and make an income by offering classes. 
 
-#### The need for space
+### The need for space
 
 Space has always been a hurdle for the stunt industry, explains Peps. The need for dedicated equipment and padded floors means that training space for stunt actors are limited, and oftentimes expensive. 
 
@@ -40,7 +40,7 @@ To train, stunt actors often resorted to common areas such as the streets and gr
 
 Suitable locations, however, were hard to find. 
 
-#### Struggles in navigating laws and government grants
+### Struggles in navigating laws and government grants
 
 As an inexperienced entrepreneur, Peps was confused about the laws surrounding use of premises.
 
@@ -56,7 +56,7 @@ Another key challenge Peps faced is the lack of financial support. “We didn’
 
 “We fall through the cracks. There isn’t really a governing entity for the stunt industry,” he continues. Since they did not fall within the arts or fitness industry, Goh found himself being directed from one department to another when making enquiries for government grants. 
 
-#### Developing the next generation of stunt coordinators
+### Developing the next generation of stunt coordinators
 
 ![sandbox training mentorship](/images/blog/Stuntman 4.jpg)
 <b><em>Suet Ling (foreground) was a student at Sandbox Training Ground, and is now part of the mentorship programme Goh developed to nurture the next generation of stunt coordinators. (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})</em></b>
