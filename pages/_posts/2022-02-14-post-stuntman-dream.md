@@ -1,17 +1,17 @@
 ---
 layout: gobusiness-blog-post
-title: Sing Swee Kee Chicken Rice
-permalink: /gobusiness-blog/sing-swee-kee-chicken
+title: Planning a conference? How e-Adviser for Events can help you find the correct licences
+permalink: /gobusiness-blog/planning-a-conference
 tags: GoBusiness How-To
 pillar: GoBusiness How-To
-description: test meta description 3
+description: test meta description
 ---
 
 ## Business innovation amidst the pandemic
 
-![sing swee kee image](/images/two-ladies-shop.svg)
+![Planning a conference](/images/woman-with-ipad.svg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius elit a leo ultrices efficitur.
+Hello. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius elit a leo ultrices efficitur.
 Curabitur luctus euismod erat ultricies fringilla. Curabitur erat ligula, condimentum sit amet convallis
 rutrum, pharetra tristique magna. Quisque placerat orci ac placerat fringilla. Nam cursus commodo purus.
 Ut
