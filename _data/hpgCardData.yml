@@ -31,6 +31,7 @@
   href_2: '/safemanagement/general/'
   text_2: Safe management measures
   href_3: 'https://go.gov.sg/covidbusinessresumptions'
+  target_3: _blank
   text_3: Declare onsite manpower
   cta_href: '/covid/'
   cta_text: Covid-19 overview
@@ -40,6 +41,7 @@
   id: 4
   href_1: 'https://eadviser.gobusiness.gov.sg/govassist/?src=about_govassist'
   text_1: Find eligible schemes for your business
+  target_1: _blank
   href_2: '/productivity-solutions-grant/'
   text_2: Productivity Solutions Grant
   href_3: '/business-grants-portal/'
