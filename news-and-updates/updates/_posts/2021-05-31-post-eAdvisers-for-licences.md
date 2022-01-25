@@ -3,6 +3,7 @@ layout: post
 title: e-Advisers for licences
 permalink: /news-and-updates/updates/eAdvisers-for-licences
 published: true
+image: /images/news/News_Licensing eAdviser launch.jpg
 ---
 
 ## New GoBusiness feature: e-Advisers for licences

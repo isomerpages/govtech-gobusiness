@@ -3,6 +3,7 @@ layout: post
 title: Change in Corppass login
 permalink: /news-and-updates/updatess/change-in-login
 published: true
+image: /images/news/News_Change login.jpg
 ---
 
 ## Change in Corppass login
