@@ -710,11 +710,11 @@ img[src*="/images/licences/cp.png"] {
   height: auto;
 }
 
-p > img[src*="/images/blog/"] {
-  margin: 32px 0 0 0;
+p > img[src*="/images/"] {
+  margin: 32px 0;
 }
 
-p > img[src*="/images/"] {
+p > img[src*="/images/blog/"] {
   margin: 32px 0 0 0;
 }
 
