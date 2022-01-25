@@ -2,47 +2,47 @@
   alt: rocket
   title: New Business Owners
   id: 1
-  href_1: '#'
+  href_1: '/start-a-business/'
   text_1: Steps to start a business
-  href_2: '#'
+  href_2: '/start-a-business/register-your-business/'
   text_2: Register a new business
-  href_3: '#'
+  href_3: '/start-a-business/choose-a-business-structure/'
   text_3: Choose a business structure
-  cta_href: '#'
+  cta_href: '/start-a-business/'
   cta_text: View Start-up Guide
 - icon: '/images/licences.png'
   alt: licences
   title: Licences and Permits
   id: 2
-  href_1: '#'
+  href_1: '/licences/#apply-new-licence-anchor'
   text_1: Apply for new licence
-  href_2: '#'
+  href_2: '/licences/#renew-amend-licence-anchor'
   text_2: Renew or amend licence
-  href_3: '#'
+  href_3: '/licences/find-licence-by-sector/'
   text_3: Licence guides
-  cta_href: '#'
+  cta_href: '/licences/'
   cta_text: Licensing overview
 - icon: '/images/covid.png'
   alt: covid
   title: Covid-19
   id: 3
-  href_1: '#'
+  href_1: '/timelimitedrrt/'
   text_1: Time limited RRT
-  href_2: '#'
+  href_2: '/safemanagement/general/'
   text_2: Safe management measures
-  href_3: '#'
+  href_3: 'https://go.gov.sg/covidbusinessresumptions'
   text_3: Declare onsite manpower
-  cta_href: '#'
+  cta_href: '/covid/'
   cta_text: Covid-19 overview
 - icon: '/images/govassist.png'
   alt: govassist
   title: Government Assistance
   id: 4
-  href_1: '#'
+  href_1: 'https://eadviser.gobusiness.gov.sg/govassist/?src=about_govassist'
   text_1: Find eligible schemes for your business
-  href_2: '#'
+  href_2: '/productivity-solutions-grant/'
   text_2: Productivity Solutions Grant
-  href_3: '#'
+  href_3: '/business-grants-portal/'
   text_3: Business Grants Portal
-  cta_href: '#'
+  cta_href: '/gov-assist/'
   cta_text: All GovAssist schemes
