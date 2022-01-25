@@ -1,26 +1,75 @@
 ---
 layout: gobusiness-blog-post
-title: Planning a conference? How e-Adviser for Events can help you find the correct licences
-permalink: /gobusiness-blog/planning-a-conference
-tags: GoBusiness How-To
-pillar: GoBusiness How-To
-description: test meta description
+title: A stuntman’s dream to level up the local stunt industry
+permalink: /gobusiness-blog/stuntman-dream
+tags: Behind The Business
+pillar: Behind The Business
+description: Behind Sandbox Training Ground is a stuntman with big dreams to elevate the local stunt industry. This is his entrepreneurial story of dogged determination.
 ---
 
-## Business innovation amidst the pandemic
+## A stuntman’s dream to level up the local stunt industry
 
-![Planning a conference](/images/woman-with-ipad.svg)
+![Peps Goh sandbox training ground](/images/blog/Stuntman 1.jpg)
+<b><em>Peps Goh (front), stuntman and Founder of stunt training facility Sandbox Training Ground. (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})</em><b>
 
-Hello. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius elit a leo ultrices efficitur.
-Curabitur luctus euismod erat ultricies fringilla. Curabitur erat ligula, condimentum sit amet convallis
-rutrum, pharetra tristique magna. Quisque placerat orci ac placerat fringilla. Nam cursus commodo purus.
-Ut
-mattis tortor mollis orci feugiat, sit amet mollis elit posuere. Pellentesque a egestas nunc. Curabitur
-mollis vulputate elementum. Donec posuere egestas lectus eget bibendum. Quisque iaculis ligula eu lorem
-laoreet, eu eleifend nisi pulvinar. Praesent pretium nunc a metus auctor, vulputate imperdiet nisl
-venenatis. Suspendisse hendrerit ut sapien non sodales. Etiam tellus est, laoreet eget ultricies semper,
-pulvinar vitae purus. Aenean varius pulvinar dignissim.
-Nunc vestibulum pellentesque est, non luctus tortor lobortis non. Pellentesque vel tempor leo. Suspendisse
-pretium finibus mattis. Proin augue mi, malesuada sed consequat id, iaculis eu purus. Sed finibus ex in
-lacus vulputate, id aliquet sem tempus. Morbi luctus blandit sagittis. Aenean congue fermentum odio,
-vehicula luctus lorem ultrices non. Nullam in diam ac nisi feugiat suscipit.
+As a stuntman, Peps Goh is well-acquainted with living life scrappy. But there is nothing quite as scrappy as the life of a bootstrapped entrepreneur. 
+
+That’s how Peps found himself at the space he has rented out, patching concrete as “the roof is leaking and there are holes on the floor.” 
+
+“It’s depressing,” he remarks. “You’re crouching over a piece of wood, trying to figure out how to drill it for three hours and there’s only one plank done. There’s another 60 to go. That was some emotional torture.” 
+
+Nonetheless, it is a life he willingly entered to fulfill his dream of propelling the local stunt industry to greater heights. To do so, he has to swim against decades of existing expectations and methods. 
+
+![stunt demonstration](/images/blog/Stuntman 2.jpg)
+<b><em>Stuntman Peps Goh hopes to improve the local stunt industry with the creation of Sandbox Training Ground. (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})</em></b>
+
+“The [local stunt] industry is not a viable career,” he shares. “It’s very cannibalistic, the way that studios would pay very little and take a lot of risk with our bodies.” 
+
+“I want to try to effect change in the industry and make things sustainable,” Peps continues. This means improving the quality of work going out, while ensuring stunt actors are being paid a decent wage. 
+
+It is with this ideal in mind that Sandbox Training Ground was born – a safe space for like-minded practitioners to hone their craft and make an income by offering classes. 
+
+#### The need for space
+
+Space has always been a hurdle for the stunt industry, explains Peps. The need for dedicated equipment and padded floors means that training space for stunt actors are limited, and oftentimes expensive. 
+
+![business premise use](/images/blog/Stuntman 3.jpg)
+<b><em>Stunt training requires padded floors and mats, which makes finding a space to train difficult and expensive. (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})</em></b>
+
+To train, stunt actors often resorted to common areas such as the streets and grass fields. Yet, the hard ground meant they were unable to practice for higher level stunts. Peps realised that to improve the quality of action scenes in Singapore, having a dedicated training space is a non-negotiable. 
+
+Suitable locations, however, were hard to find. 
+
+#### Struggles in navigating laws and government grants
+
+As an inexperienced entrepreneur, Peps was confused about the laws surrounding use of premises.
+
+Peps required a space with significant floor area and height. Yet, most facilities which have heights five metres and above are considered industrial or lite-industrial buildings. 
+
+To run classes out of these buildings, Peps would have to fork out a sum of money to apply for a Change of Use license, which he didn’t know at the time. Goh’s hunt for a suitable location saw him considering 60 locations, and viewing 30. 
+
+While he eventually found a suitable space, he hopes the process can be more approachable. In his search for a location, he was met with pushy real estate agents who cared more about closing the deal than their business’ needs. 
+
+It would have been good to have a neutral third party who can provide advice and information that we can trust and use, he says. 
+
+Another key challenge Peps faced is the lack of financial support. “We didn’t know where to get funding or apply for help,” he says. 
+
+“We fall through the cracks. There isn’t really a governing entity for the stunt industry,” he continues. Since they did not fall within the arts or fitness industry, Goh found himself being directed from one department to another when making enquiries for government grants. 
+
+#### Developing the next generation of stunt coordinators
+
+![sandbox training mentorship](/images/blog/Stuntman 4.jpg)
+<b><em>Suet Ling (foreground) was a student at Sandbox Training Ground, and is now part of the mentorship programme Goh developed to nurture the next generation of stunt coordinators. (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})</em></b>
+
+Despite the challenges, Peps has no regrets embarking on the entrepreneurial journey. In particular, he finds fulfillment in grooming the next generation of stunt coordinators as part of a mentorship programme he developed. 
+
+Through this programme, participants learn skills such as choreographing an action scene, directing, coaching, and editing, he explains. The goal is to introduce healthy competition into the industry, he adds. 
+
+“It’s been such a pleasure working, teaching, and watching them grow. That’s the highlight for me,” he expresses. 
+
+In starting Sandbox, Peps has invested more than just money into a space. Instead, it is an investment into what he believes can define the future of the industry. 
+
+“This Sandbox was not made just for me, it was made for us as a community,” he says. “We can only try to set an example, place ourselves out there, and hope everyone will follow along as we go.” 
+
+
+Are you a new business owner unsure of what grants you can apply for or premises you can use? GoBusiness is here to help with the [e-Adviser for Government Assistance](https://gaeadviser.gobusiness.gov.sg/?src=about_govassist){:target="_blank"}{:rel="noopener"} and [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=start_using_commercial_space){:target="_blank"}{:rel="noopener"}. Receive recommendations tailored to your business needs just by answering a few questions on these e-Advisers.
