@@ -5,6 +5,7 @@ permalink: /news-and-updates/news/coming-soon-feature
 published: true
 preview: |
   GoBusiness has launched e-Adviser for Events, a new feature to help event organisers find out which licences and permits they need to organise a physical event in Singapore.
+image: /images/news/News_PEP_DB.jpg
 ---
 
 <!-- TODO: Check with YX on the actual "preview" property. Might need to remove for this particular tag -->
