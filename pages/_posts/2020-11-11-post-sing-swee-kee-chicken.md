@@ -10,7 +10,7 @@ description: Behind Sandbox Training Ground is a stuntman with big dreams to ele
 ## A stuntman’s dream to level up the local stunt industry
 
 ![Peps Goh sandbox training ground](/images/blog/Stuntman 1.jpg)
-<b><em>Peps Goh (front), stuntman and Founder of stunt training facility Sandbox Training Ground. (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener")</em><b>
+<b><em>Peps Goh (front), stuntman and Founder of stunt training facility Sandbox Training Ground. (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})</em><b>
 
 As a stuntman, Peps Goh is well-acquainted with living life scrappy. But there is nothing quite as scrappy as the life of a bootstrapped entrepreneur. 
 
