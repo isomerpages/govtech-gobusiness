@@ -61,20 +61,20 @@ links:
   - title: E-Services
     url: /e-services/
   - title: Resources
-    url: #
+    url: /gobusiness-blog/
     sublinks:
-      - title: First
-        url: #
-  - title: Who We Are
-    url: /about-us/
-    sublinks:
-      - title: About Us
-        url: /about-us/
+      - title: Blog
+        url: /gobusiness-blog/
       - title: News and Updates
         url: /news-and-updates/
-      - title: Contact Us
-        url: /contact-us/
       - title: FAQ
         url: /faqs/popular/
+  - title: About Us
+    url: /about-us/
+    sublinks:
+      - title: Who We Are
+        url: /about-us/
+      - title: Contact Us
+        url: /contact-us/
   - title: <div class="login-btn"></div>
     url: /login/?src=top_nav
