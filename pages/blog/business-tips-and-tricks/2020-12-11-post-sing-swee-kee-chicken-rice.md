@@ -4,6 +4,7 @@ title: Interview with Sing Swee Kee Chicken Rice
 permalink: /gobusiness-blog/sing-swee-kee-chicken-rice
 tags: Business Tips and Tricks
 pillar: Business Tips and Tricks
+crumbs: business-tips-and-tricks
 description: test meta description 2
 ---
 

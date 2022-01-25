@@ -4,6 +4,7 @@ title: Sing Swee Kee Chicken Rice
 permalink: /gobusiness-blog/sing-swee-kee-chicken
 tags: GoBusiness How-To
 pillar: GoBusiness How-To
+crumbs: gobusiness-how-to
 description: test meta description 3
 ---
 

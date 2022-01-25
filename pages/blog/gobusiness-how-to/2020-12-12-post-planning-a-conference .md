@@ -4,6 +4,7 @@ title: Planning a conference? How e-Adviser for Events can help you find the cor
 permalink: /gobusiness-blog/planning-a-conference
 tags: GoBusiness How-To
 pillar: GoBusiness How-To
+crumbs: gobusiness-how-to
 description: test meta description
 ---
 
