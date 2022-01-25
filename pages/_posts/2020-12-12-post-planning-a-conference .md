@@ -1,7 +1,6 @@
 ---
 layout: gobusiness-blog-post
 title: Planning a conference? How e-Adviser for Events can help you find the correct licences
-pillar: Business How-To
 permalink: /gobusiness-blog/planning-a-conference
 tags: GoBusiness How-To
 description: test meta description

@@ -1,9 +1,8 @@
 ---
 layout: gobusiness-blog-post
 title: A stuntman’s dream to level up the local stunt industry
-pillar: Behind The Business
 permalink: /gobusiness-blog/stuntman-dream
-tags: GoBusiness How-To
+tags: Behind The Business
 description: Behind Sandbox Training Ground is a stuntman with big dreams to elevate the local stunt industry. This is his entrepreneurial story of dogged determination.
 ---
 
