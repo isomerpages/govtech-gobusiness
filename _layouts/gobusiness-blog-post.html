@@ -149,7 +149,7 @@ layout: skeleton
 
                   {% capture mailto %}
                   mailto:?Subject={{ page.permalink | remove:'/gobusiness-blog/' | upcase
-                  }}&amp;amp;Body=https://gobusiness.gov.sg/gobusiness-blog/merchant-stories/{{
+                  }}&amp;amp;Body=https://gobusiness.gov.sg/gobusiness-blog/{{page.pillar}}/{{
                   page.permalink
                   | remove:'/gobusiness-blog/' }}
                   {% endcapture %}
@@ -166,7 +166,7 @@ layout: skeleton
                   <!-- TODO: Need to change href here -->
 
                   {% capture facebook %}
-                  http://www.facebook.com/sharer.php?u=https://gobusiness.gov.sg/gobusiness-blog/merchant-stories/{{
+                  http://www.facebook.com/sharer.php?u=https://gobusiness.gov.sg/gobusiness-blog/{{page.pillar}}/{{
                   page.permalink | remove:'/gobusiness-blog/' }}
                   {% endcapture %}
 
@@ -174,14 +174,13 @@ layout: skeleton
                     href={{ facebook }}
                     target="_blank" rel="noreferrer" id="fb-anchor" aria-label="Share in Facebook">
                     <button class="bp-button">
-                      <i class="sgds-icon sgds-icon-facebook-alt is-size-4">
                       </i>
                     </button>
                   </a>
                 </div>
                 <div class="actionbar__inner padding--top--sm">
                   {% capture linkedin %}
-                  https://www.linkedin.com/sharing/share-offsite/?url=https://gobusiness.gov.sg/gobusiness-blog/merchant-stories/{{
+                  https://www.linkedin.com/sharing/share-offsite/?url=https://gobusiness.gov.sg/gobusiness-blog/{{page.pillar}}/{{
                   page.permalink | remove:'/gobusiness-blog/' }}&amp;title={{ page.permalink |
                   remove:'/gobusiness-blog/' | upcase }}
                   {% endcapture %}
