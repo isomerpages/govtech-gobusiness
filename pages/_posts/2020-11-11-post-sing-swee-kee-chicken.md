@@ -1,6 +1,7 @@
 ---
 layout: gobusiness-blog-post
 title: Sing Swee Kee Chicken Rice
+pillar: Behind The Business
 permalink: /gobusiness-blog/sing-swee-kee-chicken
 tags: GoBusiness How-To
 description: test meta description 3
