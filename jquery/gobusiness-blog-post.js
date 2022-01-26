@@ -1,3 +1,5 @@
+document.getElementById("print-button").addEventListener('click', () => window.print());
+document.getElementById("copy-link").addEventListener('click', () => copylink());
 function copylink() {
     /* Get the text field */
     var copyText = document.getElementById("clipboard");
@@ -10,3 +12,5 @@ function copylink() {
     return navigator.clipboard.writeText(copyText.value);
   
   }
+
+  
