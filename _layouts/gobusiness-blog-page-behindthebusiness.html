@@ -146,7 +146,7 @@ layout: skeleton
   <div class="blogpage-pagination">
     {% for i in postData %} {% assign value = forloop.index | minus:1 %} {% if
     value == 0 %}
-    <div class="blogpage-index" id="blog-paginated-1">1</div>
+    <div class="blogpage-index blogpage-index-selected" id="blog-paginated-1">1</div>
     {% elsif value == 9 %}
     <div class="blogpage-index" id="blog-paginated-2">2</div>
     {% elsif value == 18 %}
