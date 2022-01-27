@@ -148,8 +148,7 @@ layout: skeleton
                 <div class="actionbar__inner padding--top--sm">
 
                   {% capture mailto %}
-                  mailto:?Subject={{ page.permalink | remove:'/gobusiness-blog/' | upcase
-                  }}&amp;amp;Body=https://gobusiness.gov.sg/gobusiness-blog/{{page.pillar}}/{{
+                  mailto:?Subject={{ page.title}}&amp;amp;Body=https://gobusiness.gov.sg/gobusiness-blog/{{page.pillar}}/{{
                   page.permalink
                   | remove:'/gobusiness-blog/' }}
                   {% endcapture %}
@@ -166,7 +165,7 @@ layout: skeleton
                   <!-- TODO: Need to change href here -->
 
                   {% capture facebook %}
-                  http://www.facebook.com/sharer.php?u=https://gobusiness.gov.sg/gobusiness-blog/{{page.pillar}}/{{
+                  http://www.facebook.com/sharer.php?u=https://gobusiness.gov.sg/gobusiness-blog/{{page.crumbs}}/{{
                   page.permalink | remove:'/gobusiness-blog/' }}
                   {% endcapture %}
 
@@ -180,7 +179,7 @@ layout: skeleton
                 </div>
                 <div class="actionbar__inner padding--top--sm">
                   {% capture linkedin %}
-                  https://www.linkedin.com/sharing/share-offsite/?url=https://gobusiness.gov.sg/gobusiness-blog/{{page.pillar}}/{{
+                  https://www.linkedin.com/sharing/share-offsite/?url=https://gobusiness.gov.sg/gobusiness-blog/{{page.crumbs}}/{{
                   page.permalink | remove:'/gobusiness-blog/' }}&amp;title={{ page.permalink |
                   remove:'/gobusiness-blog/' | upcase }}
                   {% endcapture %}
