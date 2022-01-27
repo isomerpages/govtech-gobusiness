@@ -15,19 +15,21 @@ SkillsFuture Singapore (SSG)
 ### Application Details
 
 <p>Private education institutions can apply to be certified under the EduTrust Certification Scheme. It is a quality assurance scheme which distinguishes private schools that consistently maintain a high standard of quality in the overall provision of education services and make continual improvements that lead to positive student outcomes.</p>
-
-<p>For more information, please refer to the following website:<br /><a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme</a></p>
-<hr>
-<p><strong>FAQ</strong></p>
-<p>For more information, please refer to the following website:<br /><a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme</a></p>
-<hr>
-<p><strong>Contact Information</strong></p>
-<p>For more information, please refer to the following website:<br /><a href="http://www.ssg-wsg.gov.sg/about/contact-us.html">http://www.ssg-wsg.gov.sg/about/contact-us.html</a></p>
+ 
+ <p>For more information, please refer to the following website:<br>
+ <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme" target="_blank" rel="noopener">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme</a></p>
+ <H3>FAQ</H3>
+ For more information, please refer to the following website:<br>
+ <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme" target="_blank" rel="noopener">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme</a>.</p>
+ <p><strong>Contact Information</strong></p>
+ For more information, please refer to the following website:<br>
+ <a href="http://www.ssg-wsg.gov.sg/about/contact-us.html" target="_blank" rel="noopener">http://www.ssg-wsg.gov.sg/about/contact-us.html</a></p>
 
 **Additional Information**
 
-<p><strong>Fee</strong></p>
-<p>For more information, please refer to the following website:<br /><a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme/how-do-i-apply-for-certification">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme/how-do-i-apply-for-certification</a></p>
+<p><strong>Fee</strong><br>
+ For more information, please refer to the following website:<br>
+ <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme/how-do-i-apply-for-certification"target="_blank" rel="noopener">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme/how-do-i-apply-for-certification</a></p>
 
 ### Documents Needed
 
@@ -35,5 +37,5 @@ SkillsFuture Singapore (SSG)
 
 ### Requirements
 
-<p>Click <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme/how-do-i-apply-for-certification">here</a> for more details.</p>
+<p>Click <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme/how-do-i-apply-for-certification"target="_blank" rel="noopener">here</a> for more details.</p>
 

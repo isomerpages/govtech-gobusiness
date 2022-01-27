@@ -16,8 +16,11 @@ Singapore Police Force (SPF)
 
 **Additional Information**
 
-<p>Contact Details: Police Licensing and Regulatory Department, Tel No. 6835 0000 or email spf_licensing_feedback@spf.gov.sg</p>
-<p>Fee:<br />For a Licence to Possess a Firearm: $440 for a period of not more than 2 years<br />For a Licence to possess an air gun or pistol or any arms that can propel, or is designed to propel, a projectile by means other than an explosive: $220 for a period of not more than 2 years<br />For a Licence to possess a Blank-Firing or Deactivate Firearm: $205 for a period of not more than 2 years<br />For a Licence to Possess any arm in respect of which a licence under Rule 26(1)(a) or (b) is in force (Class Licence to Possess Arms): $80 for a period of not more than 1 year</p>
+<p><strong>Fees</strong><br>
+Fees: For a Licence to Possess a Firearm: $440 for a period of not more than 2 years<br />For a Licence to possess an air gun or pistol or any arms that can propel, or is designed to propel, a projectile by means other than an explosive: $220 for a period of not more than 2 years<br />For a Licence to possess a Blank-Firing or Deactivate Firearm: $205 for a period of not more than 2 years<br />For a Licence to Possess any arm in respect of which a licence under Rule 26(1)(a) or (b) is in force (Class Licence to Possess Arms): $80 for a period of not more than 1 year</p>
+
+<p><strong>Contact details</strong><br>Police Licensing and Regulatory Department, Tel No. 6835 0000 or email spf_licensing_feedback@spf.gov.sg</p>
+
 
 ### Requirements
 

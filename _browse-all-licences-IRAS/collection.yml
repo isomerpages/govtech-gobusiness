@@ -1,0 +1,7 @@
+collections:
+  browse-all-licences-IRAS:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - GST-Registration.md
+      - Appraiser's-Licence--Lands-and-Buildings-.md

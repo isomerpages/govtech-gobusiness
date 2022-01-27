@@ -23,7 +23,7 @@ Infocomm Media Development Authority (IMDA)
 ### Documents Needed
 
 <ul>
- <li><strong>Approval</strong></li>
+ <li><strong>Approval from building owner for the installation of the station</strong></li>
  </ul>
 
 ### Requirements

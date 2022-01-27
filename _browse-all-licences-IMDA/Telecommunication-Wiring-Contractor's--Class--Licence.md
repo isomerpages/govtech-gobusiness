@@ -23,8 +23,8 @@ Infocomm Media Development Authority (IMDA)
 ### Documents Needed
 
 <ul>
- <li><strong>Documentary Evidence to show proof of employment with the applicant</strong></li>
- <li><strong>Letter of Authentication for Third Party</strong></li>
+ <li><strong>Documentary Evidence to show proof of employment with the applicant. (E.g. CPF Statement of wiring installer)</strong></li>
+ <li><strong>Letter of Authentication for Third Party (if applicable)</strong></li>
  </ul>
 
 ### Requirements

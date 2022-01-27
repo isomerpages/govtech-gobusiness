@@ -18,7 +18,10 @@ Singapore Police Force (SPF)
 
 **Additional Information**
 
-<p>Contact Details: Police Licensing and Regulatory Department, Tel No. 6835 0000 or email spf_licensing_feedback@spf.gov.sg<br />Fee: $22 for a period of not more than 30 days / per consignment</p>
+<p><strong>Fees</strong><br>
+Fees: $22 for a period of not more than 30 days / per consignment</p>
+
+<p><strong>Contact details</strong><br>Police Licensing and Regulatory Department, Tel No. 6835 0000 or email spf_licensing_feedback@spf.gov.sg</p>
 
 ### Requirements
 

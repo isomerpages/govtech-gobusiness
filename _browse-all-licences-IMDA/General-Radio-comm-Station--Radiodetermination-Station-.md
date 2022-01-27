@@ -23,7 +23,7 @@ Infocomm Media Development Authority (IMDA)
 ### Documents Needed
 
 <ul>
- <li><strong>Justification</strong></li>
+ <li><strong>Justification and configuration diagram of the proposed set up</strong></li>
  </ul>
 
 ### Requirements

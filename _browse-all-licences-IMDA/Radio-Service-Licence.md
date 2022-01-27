@@ -18,7 +18,7 @@ Infocomm Media Development Authority (IMDA)
 
 **Additional Information**
 
-<p><strong>Fees<br /></strong>Please refer to the <a href="https://www.imda.gov.sg/regulations-licensing-and-consultations/licensing/licences/licence-for-the-provision-of-broadcasting-services/free-to-air-nationwide-radio-service-licence" target="_blank" rel="noopener">IMDA website</a> for more information.<strong><br /></strong></p>
+<p><strong>Fees<br /></strong>Please refer to the <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/free-to-air-nationwide-radio-service-licence" target="_blank" rel="noopener">IMDA website</a> for more information.<strong><br /></strong></p>
 
 ### Documents Needed
 

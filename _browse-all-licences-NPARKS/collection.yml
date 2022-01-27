@@ -1,0 +1,10 @@
+collections:
+  browse-all-licences-NPARKS:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Non-CITES-Certificate.md
+      - Phytosanitary-Certification.md
+      - CITES-Permit.md
+      - Pre-signed-CITES-Permit.md
+      - Pre-signed-non-CITES-Certificate.md

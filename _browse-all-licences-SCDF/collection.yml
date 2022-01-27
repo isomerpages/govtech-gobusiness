@@ -1,0 +1,11 @@
+collections:
+  browse-all-licences-SCDF:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Lodgement-of-Minor-Addition---Alteration-Works--Minor-A&A-.md
+      - Plan-Approval-for-Fire-Safety-Works.md
+      - Application-for-Temporary-Fire-Permit---Fire-Safety-Certificate.md
+      - Fire-Certificate.md
+      - Petroleum-&-Flammable-Material-Import-Licence.md
+      - Submission-Requirements-to-SCDF-for-Rooftop-Solar-PV-Installation.md
