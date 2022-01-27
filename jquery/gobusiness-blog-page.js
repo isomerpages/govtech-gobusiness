@@ -11,8 +11,11 @@ document.getElementById("blog-paginated-9").addEventListener('click', (e) => myF
 function myFunction(e) {
   hide()
   let one = document.getElementById(`${e.target.id}-container`);
-  console.log(one);
+  let two = document.getElementById(e.target.id);
+  indexChange()
+  two.classList.add("blogpage-index-selected")
   one.style.display = "inherit";
+  
 }
 
 
@@ -26,7 +29,7 @@ function hide() {
 
 function indexChange() {
   let y = document.getElementsByClassName("blogpage-index")
-  for (i = 0; i < x.length; i++) {
-    y[i].classList.remove("mystyle");
+  for (i = 0; i < y.length; i++) {
+    y[i].classList.remove("blogpage-index-selected");
   }
 };
