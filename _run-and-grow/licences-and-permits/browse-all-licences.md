@@ -12,66 +12,6 @@ Select a government agency to see its licences and apply for them.
 
 {% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="a" %}
 
-## M
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="m" %}
-
-## N
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="n" %}
-
-## S
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="s" %}
-
-## I
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="i" %}
-
-## C
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="c" %}
-
-## I
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="i" %}
-
-## L
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="l" %}
-
-## M
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="m" %}
-
-## P
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="p" %}
-
-## S
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="s" %}
-
-## E
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="e" %}
-
-## H
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="h" %}
-
-## I
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="i" %}
-
-## P
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="p" %}
-
-## S
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="s" %}
-
 ## B
 
 {% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="b" %}
@@ -87,6 +27,14 @@ Select a government agency to see its licences and apply for them.
 ## H
 
 {% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="h" %}
+
+## I
+
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="i" %}
+
+## L
+
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="l" %}
 
 ## M
 

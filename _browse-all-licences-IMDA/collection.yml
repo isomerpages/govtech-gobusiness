@@ -3,53 +3,53 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
-      - General-Radio-comm-Station--Base-or-Fixed-Station-.md
-      - Printing-Press-Licence.md
-      - General-Radio-comm-Station--Radiodetermination-Station-.md
-      - Computer-Online-Service-Licence.md
-      - Telecommunication-Dealer's--Individual--Licence.md
-      - General-Radio-comm-Station--Fixed-Link-or-Relay-Station-.md
-      - Express-Letter-Services--Class--Licence.md
-      - Registration-for-Internet-Access-Service-Providers-and-Resellers-Class-Licence.md
-      - Satellite-Communication-Station-Licence.md
-      - Telecommunication-Wiring-Installer's-Licence.md
-      - Public-Mobile-Network.md
-      - Ship-Station-Licence.md
-      - Technical-Trial--with-use-of-Frequency-.md
-      - Technical-Trial--without-Frequency-.md
-      - General-Equipment-Registration--GER-.md
-      - Postal-Services-Operations-Licence.md
-      - Simplified-Equipment-Registration--SER-.md
-      - Enhanced-Simplified-Equipment-Registration--ESER-.md
-      - Temporary-Use-of-Radio-Frequency.md
-      - Nationwide-TV-Service-Licence.md
-      - Services-Based-Operator--Individual--Licence.md
-      - Exhibition-of-Telecommunication-Equipment--with-Frequency-.md
-      - Fixed-Wireless-Network.md
-      - Localised-Radio-Communication-Station-Licence.md
       - Aircraft-Station-Licence.md
-      - Localised-Private-Network-Licence.md
-      - General-Equipment-Registration-by-Certification-Bodies--GER-CB-.md
-      - Telecommunication-Cable-Detection-Worker-Class-Licence.md
-      - Facilities-based-Operations-Licence.md
-      - Newspaper-Permit.md
-      - Registration-Form-C-for-Class-Licensable-Broadcasting-Services.md
-      - Radio-Service-Licence.md
-      - Localised-Private-Network--Multi-Channel-Radiocom-Networks-and-Systems-.md
-      - Wide-Area-Private-Network-Licence.md
-      - Niche-Television-Service-Licence.md
-      - Experimental-Station-Licence.md
       - Amateur-Station-Licence.md
       - Application-for-Confirmation-of-Conformity--COFC-.md
-      - Exhibition-of-Telecommunication-Equipment--without-Frequency-.md
-      - Telecommunication-Wiring-Contractor's--Class--Licence.md
       - Arts-Entertainment-Licence.md
+      - Computer-Online-Service-Licence.md
+      - Enhanced-Simplified-Equipment-Registration--ESER-.md
+      - Exhibition-of-Telecommunication-Equipment--with-Frequency-.md
+      - Exhibition-of-Telecommunication-Equipment--without-Frequency-.md
+      - Experimental-Station-Licence.md
+      - Express-Letter-Services--Class--Licence.md
+      - Facilities-based-Operations-Licence.md
       - Film--Distribution-Exhibition--Licence.md
-      - Subscription-International-Television-Service-Licence.md
+      - Fixed-Wireless-Network.md
+      - General-Equipment-Registration--GER-.md
+      - General-Equipment-Registration-by-Certification-Bodies--GER-CB-.md
       - General-Operator's-Certificate-of-Competency.md
-      - Special-Purpose-Station.md
-      - Services-Based-Operator--Class--Licence.md
       - General-Radio-comm--Mobile-Station-.md
-      - Telecommunication-Dealer's--Class--Licence.md
+      - General-Radio-comm-Station--Base-or-Fixed-Station-.md
+      - General-Radio-comm-Station--Fixed-Link-or-Relay-Station-.md
+      - General-Radio-comm-Station--Radiodetermination-Station-.md
+      - Localised-Private-Network--Multi-Channel-Radiocom-Networks-and-Systems-.md
+      - Localised-Private-Network-Licence.md
+      - Localised-Radio-Communication-Station-Licence.md
+      - Nationwide-TV-Service-Licence.md
+      - Newspaper-Permit.md
+      - Niche-Television-Service-Licence.md
+      - Postal-Services-Operations-Licence.md
+      - Printing-Press-Licence.md
+      - Public-Mobile-Network.md
+      - Radio-Service-Licence.md
+      - Registration-for-Internet-Access-Service-Providers-and-Resellers-Class-Licence.md
+      - Registration-Form-C-for-Class-Licensable-Broadcasting-Services.md
       - Restricted-Operator's-Certificate-of-Competency.md
+      - Satellite-Communication-Station-Licence.md
+      - Services-Based-Operator--Class--Licence.md
+      - Services-Based-Operator--Individual--Licence.md
+      - Ship-Station-Licence.md
+      - Simplified-Equipment-Registration--SER-.md
+      - Special-Purpose-Station.md
+      - Subscription-International-Television-Service-Licence.md
+      - Technical-Trial--with-use-of-Frequency-.md
+      - Technical-Trial--without-Frequency-.md
+      - Telecommunication-Cable-Detection-Worker-Class-Licence.md
+      - Telecommunication-Dealer's--Class--Licence.md
+      - Telecommunication-Dealer's--Individual--Licence.md
+      - Telecommunication-Wiring-Contractor's--Class--Licence.md
+      - Telecommunication-Wiring-Installer's-Licence.md
+      - Temporary-Use-of-Radio-Frequency.md
       - TV-Receive-Only-System-Licence.md
+      - Wide-Area-Private-Network-Licence.md

@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
-      - Work-passes-and-permits.md
       - Employment-Agency-Licence.md
       - Factory-Notification-and-Registration.md
       - Foreign-employee-dormitories.md
+      - Work-passes-and-permits.md
