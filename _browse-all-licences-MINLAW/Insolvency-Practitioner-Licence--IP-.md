@@ -62,7 +62,7 @@ Ministry of Law (MINLAW)
  <li><strong>Relevant Work Experience</strong><br>
  Other documentary proof evidencing your work experiences to be eligible for the grant or renewal of a licence. For e.g. Court Orders, Resolutions, approved liquidator's licence with ACRA etc.</li>
  <li><strong>Details of Declaration(s)</strong><br>
- Documents relating to declaration(s) which you have stated “Yes" under the declaration page</li>
+ Documents relating to declaration(s) which you have stated "Yes" under the declaration page</li>
  <li><strong>Others</strong><br>
  Any other documents which you wish to provide</li>
  <p><strong>File format:</strong><BR>

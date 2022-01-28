@@ -22,7 +22,7 @@ Singapore Food Agency (SFA)
 
 **Additional Information**
 
-<p><strong>Fee</strong><br />Meat/Fish: $260.00<br />Canning: $840.00<br />Other Processed Food Small (total floor area &lt; 200 square meter): $180.00<br />Other Processed Food Medium (total floor area &gt;= 200 square meter and 750 square meter): $360.00<br />Other Processed Food Large (total floor area &gt;= 750 square meter): $600.00</p>
+<p><strong>Fee</strong><br />Meat/Fish: $260.00<br />Canning: $840.00<br />Other Processed Food Small (total floor area < 200 square meter): $180.00<br />Other Processed Food Medium (total floor area >= 200 square meter and 750 square meter): $360.00<br />Other Processed Food Large (total floor area >= 750 square meter): $600.00</p>
 
 ### Documents Needed
 
@@ -38,5 +38,5 @@ Singapore Food Agency (SFA)
 ### Requirements
 
 <p>Prerequisite Licence(s)</p>
- <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&amp;selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
+ <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

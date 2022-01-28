@@ -50,8 +50,8 @@ Land Transport Authority (LTA)
  <p>Class 2 Bus Service Licence Fee (for new and renewal):<BR>
  2019 - $80 for each month (or part of a month) or $900, whichever is the lower.<BR>
  2020 - $90 for each month (or part of a month) or $1,000, whichever is the lower</p>
- <p>Amend – Fare Amendments: No Charges</p>
- <p>Amend – Non Fare Amendments: Amendment fee of $10</p>
+ <p>Amend - Fare Amendments: No Charges</p>
+ <p>Amend - Non Fare Amendments: Amendment fee of $10</p>
  <p>Security Deposit: $500 for new Bus Service Licence</p>
 
 ### Documents Needed

@@ -73,8 +73,8 @@ Land Transport Authority (LTA)
  <li><strong>50 - 64 years: </strong>Once every 2 years</li>
  <li><strong>65 years onwards: </strong>Every year</li>
  </ul>
- For applicants reaching the age of 70 years, there is a requirement to undergo a special assessment to certify that they are fit to continue driving. This assessment is called the “Assessment on Fitness to Drive for Vocational Licence Holders Aged 70 years and Above”. This Assessment covers a medical examination, an occupational therapy evaluation, and an on-road driving test with an occupational therapist and a driving instructor. After passing the Assessment at age 70 years, he will have to continue to pass LTA’s annual medical examination at 71 and 72 years of age. This Assessment will be required once again at the age of 73 and 74 years of age before the VL holder is allowed to extend his VL up to 75 years of age.<br>
- However, ODVL holders aged 65 years and above will have to pass LTA’s yearly medical examination in order to continue to hold the licence.</li>
+ For applicants reaching the age of 70 years, there is a requirement to undergo a special assessment to certify that they are fit to continue driving. This assessment is called the "Assessment on Fitness to Drive for Vocational Licence Holders Aged 70 years and Above". This Assessment covers a medical examination, an occupational therapy evaluation, and an on-road driving test with an occupational therapist and a driving instructor. After passing the Assessment at age 70 years, he will have to continue to pass LTA's annual medical examination at 71 and 72 years of age. This Assessment will be required once again at the age of 73 and 74 years of age before the VL holder is allowed to extend his VL up to 75 years of age.<br>
+ However, ODVL holders aged 65 years and above will have to pass LTA's yearly medical examination in order to continue to hold the licence.</li>
  <li><strong>How long can an applicant expect to wait for his application to LTA to be approved?</Strong><br>
  As a general guide, it will take about 30 working days for LTA to process an application for an ODVL, assuming that all relevant documents have been duly submitted.</li>
  <li><strong>Will non-Singapore Citizens (SPR / FWP holder) be allowed to apply for an ODVL?</Strong><br>
@@ -103,7 +103,7 @@ Land Transport Authority (LTA)
  Modules for ODVL course:<BR>
  <ul>
  <li>Overview of Public Transport Industry</li>
- <li>Omnibus Driver’s Vocational Licence (ODVL) Rules and Regulations</li>
+ <li>Omnibus Driver's Vocational Licence (ODVL) Rules and Regulations</li>
  <li>Sectoral Tripartism</li>
  <li>Overview of New On-board Bus Equipment (NOBE) and Common Fleet Management System (CFMS)</li>
  <li>Service Literacy</li>
@@ -147,11 +147,11 @@ Land Transport Authority (LTA)
 ### Documents Needed
 
 <ul>
- <li><strong>NRIC – Front and Back</strong><br>
+ <li><strong>NRIC - Front and Back</strong><br>
  For Singaporean / SPR: NRIC<br>
  Mandatory to upload upon application for all type of vocational licences.</li>
- <li><strong>Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation (must be ”Bus Driver”), Expiry date and Company Name – Front and Back</strong><br>
- For Foreigner: Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation (must be ”Bus Driver”), Expiry date and Company Name<br>
+ <li><strong>Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation (must be "Bus Driver"), Expiry date and Company Name - Front and Back</strong><br>
+ For Foreigner: Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation (must be "Bus Driver"), Expiry date and Company Name<br>
  Mandatory to upload upon application for all type of vocational licences.</li>
  <li><strong>Passport size photo</strong><br>
  Please provide a recent passport size photograph (400 by 514 pixels (35mm by 45mm)). Photo must be recent with full face, front view with eyes open, ensure the full head from top of hair to the bottom of chin and head must be at the centre, wears a collared shirt, and on white background. Headgear worn in accordance with religious or racial custom is acceptable as long as it does not hide the facial features. Photo in any uniform group is not allowed.<br>

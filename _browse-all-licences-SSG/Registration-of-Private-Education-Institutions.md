@@ -31,7 +31,7 @@ SkillsFuture Singapore (SSG)
  Any arrangements made with other entities on the sharing of premises if applicable.</li>
  <li><strong>Approval of Use</strong><br>
  Approval for the premises to be used as a commercial school granted by URA or HDB.</li>
- <li><strong>Course Developer’s Permissions</strong><br>
+ <li><strong>Course Developer's Permissions</strong><br>
  Proof that course developer or proprietor allows the PEI to offer the course, if applicable.</li>
  <li><strong>Course Write Up (Certificates and Diploma)</strong><br>
  For certificates and diploma courses only.</li>
@@ -42,7 +42,7 @@ SkillsFuture Singapore (SSG)
  <li><strong>Floor Plan</strong><br>
  Floor plan of the premises.</li>
  <li><strong>Management Committee List</strong><br>
- For societies only. The designation of each manager in the society’s management committee.</li>
+ For societies only. The designation of each manager in the society's management committee.</li>
  <li><strong>Manager Declaration Form</strong><br>
  Required for each manager.</li>
  <li><strong>Sample Student Contract</strong></li>

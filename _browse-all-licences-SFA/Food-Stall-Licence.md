@@ -30,7 +30,7 @@ Singapore Food Agency (SFA)
  <li>For applicants not on GIRO, you may start your business after you have made payment via AXS or GoBusiness.</li>
  </ul>
  <p>SFA will post out the hardcopy licences within 7 working days upon successful payment.</p>
- <p>You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to SFA at&nbsp;<a href="https://csp.sfa.gov.sg/feedback">https://csp.sfa.gov.sg/feedback</a>&nbsp;to request for a replacement copy.</p>
+ <p>You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to SFA at <a href="https://csp.sfa.gov.sg/feedback">https://csp.sfa.gov.sg/feedback</a> to request for a replacement copy.</p>
  </li>
  </ul>
  <h3>FAQs</h3>
@@ -39,7 +39,7 @@ Singapore Food Agency (SFA)
  <p>If you are taking over a food stall where the current licence is valid, you should engage the main operator to ensure the previous licensee has cancelled the licence so as not to delay your application. Otherwise, SFA will require 2 weeks to engage the food stall licensee for cancellation of licence.</p>
  </li>
  <li>
- <p><strong>How soon will my application be approved?<br /></strong>Refer to Step 2. SFA will approve the application within 5 working days upon applicant&rsquo;s full compliance to licensing requirements and submission of required documents.</p>
+ <p><strong>How soon will my application be approved?<br /></strong>Refer to Step 2. SFA will approve the application within 5 working days upon applicant's full compliance to licensing requirements and submission of required documents.</p>
  </li>
  <li>
  <p><strong>When can I commence business? Do I need to wait for the hardcopy licence before I start operations? What do I do if I do not receive the hardcopy licence?<br /></strong>Refer to Step 2 on when you may commence business.<br />SFA will post out the hardcopy licences within 7 working days upon successful payment.<br />You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to SFA at <a href="https://www.sfa.gov.sg/feedback" target="_blank" rel="noopener">https://www.sfa.gov.sg/feedback</a> to request for a replacement copy.</p>
@@ -48,7 +48,7 @@ Singapore Food Agency (SFA)
  <p><strong>How much does this licence cost and how long is it valid?<br /></strong>The Food Stall Licence costs S$32.00 and is valid for one year except for those foodstalls in primary, secondary and junior college school canteens. Licensees are given the option to pay $64.00 for a food stall licence that is valid for two years.<br />Please note that no refund of fees will be allowed once payment has been made.</p>
  </li>
  <li>
- <p><strong>Who can I contact for further details?<br /></strong>For general enquiries or enquiries regarding your application status, please submit your enquiry and GoBusiness Licensing application ID through SFA online feedback form at&nbsp;<a href="http://www.sfa.gov.sg/" target="_blank" rel="noopener">http://www.sfa.gov.sg</a>.<br />If you have not submitted your licence application, you may do so online via GoBusiness Licensing. You may also renew or cancel your licence via this platform.</p>
+ <p><strong>Who can I contact for further details?<br /></strong>For general enquiries or enquiries regarding your application status, please submit your enquiry and GoBusiness Licensing application ID through SFA online feedback form at <a href="http://www.sfa.gov.sg/" target="_blank" rel="noopener">http://www.sfa.gov.sg</a>.<br />If you have not submitted your licence application, you may do so online via GoBusiness Licensing. You may also renew or cancel your licence via this platform.</p>
  </li>
  <li>
  <p><strong>Other frequently asked questions?</strong></p>
@@ -59,11 +59,11 @@ Singapore Food Agency (SFA)
  <p><strong>Q: I operate a pub/ discotheque and intend to have a drink counter selling alcoholic drinks. Do I need to apply for a licence?</strong></p>
  <p>A: Yes. You will need to apply for a food shop licence if you intend to operate a drink or snack counter in your premises.</p>
  <p><strong>Q: I am a foreigner with a valid employment pass issued by MOM. Can I apply for the licence in my name?</strong></p>
- <p>A: No. You will have to form a company that is registered with the Accounting &amp; Corporate Regulatory Authority (ACRA) (formerly Registry of Companies and Business (RCB)) and apply for the licence in the company&rsquo;s name.</p>
+ <p>A: No. You will have to form a company that is registered with the Accounting & Corporate Regulatory Authority (ACRA) (formerly Registry of Companies and Business (RCB)) and apply for the licence in the company's name.</p>
  <p><strong>Q: Can I update, renew or terminate my food shop licence through GoBusiness Licensing?</strong></p>
- <p>A: Yes. You may update, renew and terminate your foodshop licence through GoBusiness Licensing&nbsp;by going to&nbsp;<a href="http://licence1.business.gov.sg/" target="_blank" rel="noopener">licence1.business.gov.sg</a>.</p>
+ <p>A: Yes. You may update, renew and terminate your foodshop licence through GoBusiness Licensing by going to <a href="http://licence1.business.gov.sg/" target="_blank" rel="noopener">licence1.business.gov.sg</a>.</p>
  <p><strong>Q: Where can I obtain information on the general design of a food retail outlet?</strong></p>
- <p>A: You may refer to the Licensing Requirements at&nbsp;<a href="https://www.sfa.gov.sg/">https://www.sfa.gov.sg</a></p>
+ <p>A: You may refer to the Licensing Requirements at <a href="https://www.sfa.gov.sg/">https://www.sfa.gov.sg</a></p>
  <p><strong>Q: What is the consequence if I am unable to comply with some of the hygiene requirements?</strong></p>
  <p>A: If you are unable to comply with any of our hygiene requirements, you will not be issued with the licence.</p>
  <p><strong>Q: What will be the consequences if I provide false information in my application for a licence?</strong></p>
@@ -71,13 +71,13 @@ Singapore Food Agency (SFA)
  <p><strong>Q: I have taken over an existing food stall but I am unable to contact the previous licensee to surrender/cancel his licence for the same premises. How do I apply for the licence in this instance?</strong></p>
  <p>A: You can still submit your application together with all the supporting documents to us. However, for such cases, we will need to write to the previous licensee to confirm whether he is still operating the business at the said premises. If the previous licensee indicates that he is no longer operating the said premises or did not response, then we can proceed to process your application. The processing time for such cases will take about 2 weeks.</p>
  <p><strong>Q: I intend to set up a food premises that make food items (eg. buns, breads, nasi lemak, otah etc) for supply to other food shops and food stalls. Do I need to apply for a food shop licence?</strong></p>
- <p>A: You need not apply for a foodshop licence if your proposed food business does not involve the retail sale of food directly to the customer. However, you may need to obtain a food factory licence from the Food Production &amp; Processing Department (FPPD), SFA, for your proposed business.</p>
+ <p>A: You need not apply for a foodshop licence if your proposed food business does not involve the retail sale of food directly to the customer. However, you may need to obtain a food factory licence from the Food Production & Processing Department (FPPD), SFA, for your proposed business.</p>
  <p><strong>Q: Do I need to apply for a food shop licence if I were to prepare and cook food from my home for sale to the public?</strong></p>
  <p>A: Please be informed that under the current regulations, it is an offence to sell home cooked food to the public.</p>
  </div>
  </div>
- <p><strong>Q: What are the challenges of operating a F &amp; B business?</strong></p>
- <p>A: Please refer to the <a href="https://spring.enterprisesg.gov.sg/Resources/Documents/Guidebook_Turning_Passion_into_Profits.pdf">"Turning Passion into Profit" guide</a> to understand the challenges faced by the F &amp; B industry and managing your business.</p>
+ <p><strong>Q: What are the challenges of operating a F & B business?</strong></p>
+ <p>A: Please refer to the <a href="https://spring.enterprisesg.gov.sg/Resources/Documents/Guidebook_Turning_Passion_into_Profits.pdf">"Turning Passion into Profit" guide</a> to understand the challenges faced by the F & B industry and managing your business.</p>
 
 **Additional Information**
 
@@ -109,7 +109,7 @@ Singapore Food Agency (SFA)
  <li>HACCP charts for CCPs which includes:<br />- Identification of hazards at CCPs<br />- Control measures and critical limits<br />- Monitoring procedures and documentation<br />-Corrective action to be taken<br />File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
  </ol>
  </li>
- <li><strong><strong>WSQ Apply Food Safety Management System for Food Service Establishments&rsquo; Certificate (Statement of Attainment)<br /></strong></strong>
+ <li><strong><strong>WSQ Apply Food Safety Management System for Food Service Establishments' Certificate (Statement of Attainment)<br /></strong></strong>
  <div id="supportingDoc13" class="supporting-doc">For premises which are required to implement FSMS<br />File format: DOC,DOCX,GIF,JPG,PNG,PDF</div>
  Maximum upload per application: 2MB<br /><br /></li>
  <li><strong>HACCP Plan (for premises which are already HACCP-certified)</strong><br />
@@ -128,5 +128,5 @@ Singapore Food Agency (SFA)
 ### Requirements
 
 <p>Prerequisite Licence(s)</p>
- <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&amp;selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
+ <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

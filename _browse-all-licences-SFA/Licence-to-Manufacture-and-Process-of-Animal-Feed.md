@@ -14,11 +14,11 @@ Singapore Food Agency (SFA)
 
 ### Application Details
 
-<p>The Licence to Manufacture and Process of Animal Feed may be issued by either Animal &amp; Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is issued for the manufacture and processing of animal feed in Singapore including pet treats like dog biscuits, pastries or confectionary items for sale at retail outlets.</p>
+<p>The Licence to Manufacture and Process of Animal Feed may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is issued for the manufacture and processing of animal feed in Singapore including pet treats like dog biscuits, pastries or confectionary items for sale at retail outlets.</p>
  <h3>FAQs</h3>
  <ol>
  <li><strong>What is the validity of the licence?</strong><br />1 year<br /><br /></li>
- <li><strong>Do I require a licence to prepare homemade pet food?<br /></strong>No. SFA does not licence the preparation or production of homemade pet food from HDB or private residential premises.<br />For more information on operating small-scale home business, please refer to URA&rsquo;s and HDB&rsquo;s guidelines.<br /><br /></li>
+ <li><strong>Do I require a licence to prepare homemade pet food?<br /></strong>No. SFA does not licence the preparation or production of homemade pet food from HDB or private residential premises.<br />For more information on operating small-scale home business, please refer to URA's and HDB's guidelines.<br /><br /></li>
  <li><strong>Do you require a licence to storage and warehousing of animal feed?<br /></strong>No. SFA does not licence storage and warehousing of Animal Feed.<br /><br /></li>
  <li><strong>Does the site requires to be inspected for fresh applicants and subsequent renewal?<br /></strong>Yes.<br /><br /></li>
  <li><strong>Supporting documents required for submission?</strong><br />The following documents are required for the submission.
@@ -52,5 +52,5 @@ Singapore Food Agency (SFA)
 ### Requirements
 
 <p>Prerequisite Licence(s)</p>
- <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&amp;selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
+ <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

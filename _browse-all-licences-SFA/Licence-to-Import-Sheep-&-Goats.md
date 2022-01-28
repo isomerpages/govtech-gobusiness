@@ -17,7 +17,7 @@ Singapore Food Agency (SFA)
 <p>The Licence to Import Sheep and Goats is issued to importers by Singapore Food Agency to import Sheep and Goats.</p>
  <h3>FAQs</h3>
  <ol>
- <li><strong>Where can I get the FAQ for Licence to Import Sheep &amp; Goats</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
+ <li><strong>Where can I get the FAQ for Licence to Import Sheep & Goats</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
  </ol>
 
 **Additional Information**
@@ -31,6 +31,6 @@ N.A.
 ### Requirements
 
 <p>Prerequisite Licence(s)</p>
-<p>ACRA - <a href=""https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&amp;selectedLicenceIds=201301080000175"" target=""_blank"" rel=""noopener"">Registration for Companies / Business</a></p>
+<p>ACRA - <a href=""https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175"" target=""_blank"" rel=""noopener"">Registration for Companies / Business</a></p>
 
 
