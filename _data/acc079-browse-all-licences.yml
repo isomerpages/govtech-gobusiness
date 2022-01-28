@@ -88,6 +88,16 @@
 - accordion:
   letter: c
   data:
+    - title: Central Narcotics Bureau
+      content: |
+        **Company Registration (CR)**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle; margin-left: 8px;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        To apply CNB Permits for import / export / transhipment of CNB controlled precursors, CNB will then issue an import / export permit to effect the shipment.
+
+        <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=272" target="_blank">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Company-Registration-(CR))
+
     - title: Civil Aviation Authority of Singapore
       content: |
         **Air Operator Certificate**
