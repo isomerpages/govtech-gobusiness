@@ -12,5 +12,5 @@ Singapore Police Force (SPF)
 
 ### Application Details
 
-To cancel a Gun or Weapon Licence issued under the Guns, Explosives And Weapons Control Act
+<p>To cancel a Gun or Weapon Licence issued under the Guns, Explosives And Weapons Control Act</p>
 

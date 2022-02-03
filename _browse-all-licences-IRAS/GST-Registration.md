@@ -23,9 +23,9 @@ Inland Revenue Authority of Singapore (IRAS)
 
 ### Documents Needed
 
-<p>Click <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration"target="_blank" rel="noopener">here</a> for more details.</p>
+<p>Click <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" target="_blank" rel="noopener">here</a> for more details.</p>
 
 ### Requirements
 
-<p>Click <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration"target="_blank" rel="noopener">here</a> for more details.</p>
+<p>Click <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" target="_blank" rel="noopener">here</a> for more details.</p>
 

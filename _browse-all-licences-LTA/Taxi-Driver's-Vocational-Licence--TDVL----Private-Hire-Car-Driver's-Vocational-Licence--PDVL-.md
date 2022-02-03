@@ -17,37 +17,31 @@ Land Transport Authority (LTA)
 <p>A Taxi Driver's Vocational Licence (TDVL) is needed before a person can drive a taxi and a Private Hire Car Driver's Vocational Licence (PDVL) is needed before a person can drive a private hire car.</p>
  <p>Vocational licences granted by the LTA ensure that drivers are properly trained. They also bring an improved professional image to the different professions.</p>
  <p><H3>FAQ</H3>
- <ol><p><u><strong>TDVL/ PDVL APPLICATION</strong></u></p>
+ <ol>
+ <p><u><strong>TDVL/ PDVL APPLICATION</strong></u></p>
  <li><strong>What are the criteria for me to apply for a TDVL/ PDVL?</strong><br>
  a. To be <Strong>eligible to apply for a TDVL/PDVL</Strong>, you have to:<br>
- <ul>
- <li>Be a Singaporean;</li>
- <li>Be at least 30 years old;</li>
- <li>Be able to speak and read simple English*;</li>
- <li>Hold a valid Class 3/3A Singapore driving licence for a continuous period of at least <Strong>one year</Strong> at the point of application;</li>
- <li>Pass LTA's required medical examination and background checks;</li>
- </ul>
+- a Singaporean;<br>
+- Be at least 30 years old;<br>
+ - Be able to speak and read simple English*;<br>
+ - Hold a valid Class 3/3A Singapore driving licence for a continuous period of at least <Strong>one year</Strong> at the point of application;<br>
+- Pass LTA's required medical examination and background checks;<br>
  b. <u>English requirement*</u><br>
  Applicants are required to submit documentary proof of ability to speak and read simple English upon application for a <Strong>TDVL/ PDVL</Strong>.We accept the following qualifications:<br>
- <ul>
- <li>GCE 'O' Level or 'N' Level pass in English (at least a D7 grade);</li>
- <li>Level 3 pass in English under the Workplace Literacy (WPL) programme;</li>
- </ul>
+- GCE 'O' Level or 'N' Level pass in English (at least a D7 grade);<br>
+- Level 3 pass in English under the Workplace Literacy (WPL) programme;<br>
  If you are unable to meet the above requirements, you are required to pass the WPL-Computer Adaptive Test (WPL-CAT). The fee for this test is $10.50 (excluding GST).<br>
  c. <u>CPF Medisave contributions</u><br>
- You must ensure that you have up-to-date Medisave contributions. To check the Medisave payment status for licence application, please visit the CPF website at <a href="http://www.cpf.gov.sg/" target="_blank" rel="noopener">www.cpf.gov.sg</a>.</ul><br>
+ You must ensure that you have up-to-date Medisave contributions. To check the Medisave payment status for licence application, please visit the CPF website at <a href="http://www.cpf.gov.sg/" target="_blank" rel="noopener">www.cpf.gov.sg</a>.</li>
  <li><strong>How do I know whether I am required to contribute to Medisave Account before I apply?</strong><br>
  If you are a self-employed person, you must ensure that you have up-to-date Medisave contributions. For more information on the Medisave for the Self-Employed Scheme or to check the Medisave payment status for licence renewal, please visit the CPF website at <a href="http://www.cpf.gov.sg/" target="_blank" rel="noopener">www.cpf.gov.sg</a>.<br>
  Please note that you are required to make arrangements to settle your Medisave liabilities (at any CPF Branch office or via other channels offered by the CPF Board) at least one week before you apply for your vocational licence.</li>
  <li><strong>How do I apply for a TDVL/ PDVL?</strong><br>
  You may use your SingPass to apply online at <a href="https://www.gobusiness.gov.sg/licences/find-licence-by-agency/" target="_blank" rel="noopener">GoBusiness Singapore</a>, with a payment of $40 to LTA for the non-refundable application fee. You will be required to upload the following documents with your application:<br>
- <ul>
- <li>A recent passport-photograph</li>
- <li>NRIC (Front and Back view on a page)</li>
- <li>Singapore Class 3/3A Driving Licence (Front and Back View on a page)</li>
- <li>Educational Certificate (GCE 'O' Level or 'N' Level pass in English (at least a D7 grade) or a Level 3 pass in English under the Workplace Literacy (WPL) programme;</li>
- </ul>
- </li>
+- A recent passport-photograph<br>
+- NRIC (Front and Back view on a page)<br>
+ - Singapore Class 3/3A Driving Licence (Front and Back View on a page)<br>
+ - Educational Certificate (GCE 'O' Level or 'N' Level pass in English (at least a D7 grade) or a Level 3 pass in English under the Workplace Literacy (WPL) programme;</li>
  <li><strong>Can I apply for both TDVL/ PDVL?</strong><br>
  A TDVL holder will be allowed to provide chauffeured services using <Strong>BOTH</Strong> a taxi and a private hire car.On the other hand, PDVL holders are only allowed to provide chauffeured services using a private hire car.</li>
  <li><strong>How do I withdraw my application?</strong><br>
@@ -75,26 +69,21 @@ Land Transport Authority (LTA)
  <li><strong>I would like to register for the TDVL/ PDVL Course. Where should I go?</strong><br>
  CDG and LHUB have been appointed to conduct training for the TDVL/ PDVL Course. To find out more about the TDVL/ PDVL Course, please contact CDG at 6550 8681 (<a href="http://www.cdgtaxi.com.sg/" target="_blank" rel="noopener">http://www.cdgtaxi.com.sg/</a>), or LHUB at 6336 5482 (<a href="http://www.ntuclearninghub.com/contact-us/locate-us/" target="_blank" rel="noopener">www.ntuclearninghub.com/contact-us/locate-us/</a>).</BR>
  <p>Details of the training providers below:</p>
- <ul>
- <li><Strong>ComfortDelgro Taxi (CDG)</Strong><br>
+<Strong><u>ComfortDelgro Taxi (CDG)</Strong></u><br>
  Citycab Building<br>
  600 Sin Ming Avenue, Level 1<br>
  Singapore 575733<br>
- Tel: 6550 8681</li>
- <li><Strong>NTUC Learning Hub (LHUB)</Strong><br>
+ Tel: 6550 8681<br>
+<Strong><u>NTUC Learning Hub (LHUB)</Strong></u><br>
  NTUC Trade Union House<br>
  73 Bras Basah Road, #02-01<br>
  Singapore 189556<br>
  Tel: 6336 5482</li>
- </ul>
  <li><strong>What do I need to bring along to register for course?</strong><br>
- When registering for the training course, please bring your LTA approval letter, <strong>NRIC, Driving Licence</strong> and the following documents:</li>
- <ol>
- <li>LTA's <strong>medical examination form</strong> duly completed and certified by a registered medical practitioner;</li>
- <li>The original or certified true copy of your <strong>chest</strong> X-rayexamination result card signed by a radiologist; and</li>
- <li>Original and copy of your <strong>GCE "O" or "N" Level certificate</strong>, with a pass (at least a D7 grade) in English OR the results for the <strong>WPL-CAT</strong> (at least a Level 3 pass in the Listening, Reading and Speaking modules).</li>
- </ol>
- </li>
+ When registering for the training course, please bring your LTA approval letter, <strong>NRIC, Driving Licence</strong> and the following documents:<br>
+1. LTA's <strong>medical examination form</strong> duly completed and certified by a registered medical practitioner;<br>
+2. The original or certified true copy of your <strong>chest</strong> X-rayexamination result card signed by a radiologist; and<br>
+3. Original and copy of your <strong>GCE "O" or "N" Level certificate</strong>, with a pass (at least a D7 grade) in English OR the results for the <strong>WPL-CAT</strong> (at least a Level 3 pass in the Listening, Reading and Speaking modules).</li>
  <li><strong>I would like to apply for a TDVL/ PDVL but do not possess a GCE "O" or "N" Level pass (at least a D7 grade) in English. What can I do?</strong><br>
  TDVL/ PDVL applicants who do not possess a GCE "O" or "N" Level pass (at least a D7 grade) in English may sit for the Workplace Literacy Computer Adaptive Test (WPL-CAT) for Conversational English.</br>
  The WPL-CAT for Conversational English assesses an individual's English proficiency in 3 areas - Listening, Reading and Speaking - with the aid of a computer. TDVL/ PDVL applicants must obtain at least a Level 3 pass for all 3 modules in order to meet the English language requirement for a TDVL/ PDVL.<br>
@@ -121,11 +110,9 @@ Land Transport Authority (LTA)
  TDVL/ PDVL is valid for three years from the date of issuance and TDVL/ PDVL holders will be required to go for refresher courses once every six years.</li>
  <li><strong>What are the medical requirements to renew my TDVL/ PDVL?</strong><br>
  Applicants aged 50 years and above are required to pass regular medical examinations. The frequency of medical examinations are as follows:<br>
- <ul>
- <li><strong>50 - 64 years: </strong>Once every 2 years</li>
- <li><strong>65 years onwards: </strong>Every year</li>
- </ul>
- Applicants turning 70, 73 and 74 years old are required to undergo an additional on-road driving test with a driving instructor. </li>
+ <strong>50 - 64 years: </strong>Once every 2 years<br>
+ <strong>65 years onwards: </strong>Every year<br>
+  Applicants turning 70, 73 and 74 years old are required to undergo an additional on-road driving test with a driving instructor. </li>
  <li><strong>Can Skills Future Credit be used for TDVL/ PDVL course?</strong><br>
  Yes.</li>
  <li><strong>Is TDVL/ PDVL course available in Chinese?</strong><br>
@@ -140,6 +127,7 @@ Land Transport Authority (LTA)
  SP will issue the Temporary TDVL/ PDVL to taxi/ PHC drivers who have passed the competency test but have yet to collect the Vocational Licence Card. These taxi/ PHC drivers may show the enforcement officers their Temp TDVL/ PDVL.</li>
  <li><strong>Why am I issued a temp TDVL/ PDVL and not a card licence?</strong><br>
  The Temporary TDVL/ PDVL allows you to provide chauffeured or taxi services using a taxi/ PHC immediately. Taxi/ PHC drivers will subsequently receive their Vocational Licence Card via registered mail.</li>
+</ol>
 
 **Additional Information**
 
@@ -149,18 +137,21 @@ Land Transport Authority (LTA)
 
 <ul>
  <li><strong>NRIC</strong><br>
- For Singaporean : NRIC<br />Mandatory to upload upon application for all type of vocational licences.</li>
+ For Singaporean : NRIC<br />
+ Mandatory to upload upon application for all type of vocational licences. <br>
+ File format:pdf, jpg, jpeg, gif, png, bmp<br>
+Maximum upload per application: 2 MB</li></li>
  <li><strong>Passport size photo</strong><br>
  Please provide a recent passport size photograph (400 by 514 pixels (35mm by 45mm)). Photo must be recent with full face, front view with eyes open, ensure the full head from top of hair to the bottom of chin and head must be at the centre, wears a collared shirt, and on white background. Headgear worn in accordance with religious or racial custom is acceptable as long as it does not hide the facial features. Photo in any uniform group is not allowed.<br>
- Mandatory to upload upon application for all type of vocational licences.</li>
+ Mandatory to upload upon application for all type of vocational licences.<br>
+File format:jpg, jpeg<br>
+Maximum upload per application: 2 MB</li>
  <li><strong>Education Certificates</strong><br>
- Mandatory to upload upon application for TDVL/PDVL.</li>
- <li><strong>Other Supporting Document</strong>
- </li>
- <p><strong>File format:</strong><BR>
- <ul>
- <li>For Passport photo: jpg, jpeg</li>
- <li>For the rest: pdf, jpg, jpeg, gif, png, bmp</li>
- </ul>
- <strong>Maximum upload per application: </strong>2 MB</p>
+ Mandatory to upload upon application for TDVL/PDVL.<br>
+ File format:pdf, jpg, jpeg, gif, png, bmp<br>
+Maximum upload per application: 2 MB</li>
+ <li><strong>Other Supporting Document</strong><br>
+ File format:pdf, jpg, jpeg, gif, png, bmp<br>
+Maximum upload per application: 2 MB</li>
+</ul>
 

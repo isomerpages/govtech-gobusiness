@@ -16,7 +16,7 @@ Ministry of Culture, Community and Youth (MCCY)
 
 ### Documents Needed
 
-<p>Click <a href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Criteria-for-Registration-as-Charity.aspx#"target="_blank" rel="noopener">here</a> for more details.</p>
+<p>Click <a href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Criteria-for-Registration-as-Charity.aspx#" target="_blank" rel="noopener">here</a> for more details.</p>
 
 ### Requirements
 

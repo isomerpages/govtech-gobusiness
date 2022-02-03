@@ -18,16 +18,16 @@ Singapore Police Force (SPF)
 
 **Additional Information**
 
-<p><strong>Fees</strong><br> Fees: $405 for 2 years or part thereof</p> <p><strong>Contact details</strong><br>Police Licensing and Regulatory Department, Tel No. 6835 0000 or email spf_licensing_feedback@spf.gov.sg</p>
+<p><strong>Fees</strong><br> Fees: $405 for 2 years or part thereof</p> <p><strong>Contact details</strong><br>Police Licensing and Regulatory Department, Tel No. <a href="tel:6835 0000">6835 0000</a> or email: <a href="mailto:spf_licensing_feedback@spf.gov.sg">spf_licensing_feedback@spf.gov.sg</a></p>
 
 ### Documents Needed
 
 <p>Supporting documents to be submitted include, but not limited to:</p>
-<ol>
+<ul>
 <li>catalogue and brochure of arms</li>
 <li>training records and certifications of staff handling repair of arms</li>
 <li>safety and security plan for repair, transportation and storage of arms (where applicable)</li>
-</ol>
+</ul>
 
 ### Requirements
 

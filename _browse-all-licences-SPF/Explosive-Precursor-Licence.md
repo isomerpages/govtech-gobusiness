@@ -12,5 +12,5 @@ Singapore Police Force (SPF)
 
 ### Application Details
 
-To cancel an Explosive Precursors Licence issued under the Guns, Explosives And Weapons Control Act
+<p>To cancel an Explosive Precursors Licence issued under the Guns, Explosives And Weapons Control Act</p>
 

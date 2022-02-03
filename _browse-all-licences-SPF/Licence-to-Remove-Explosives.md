@@ -21,9 +21,11 @@ Singapore Police Force (SPF)
 <p><strong>Fees</strong><br>
 Fees: $22 for a period of not more than 30 days / per consignment</p>
 
-<p><strong>Contact details</strong><br>Police Licensing and Regulatory Department, Tel No. 6835 0000 or email spf_licensing_feedback@spf.gov.sg</p>
+<p><strong>Contact details</strong><br>Police Licensing and Regulatory Department, Tel No. <a href="tel:6835 0000">6835 0000</a> or email: <a href="mailto:spf_licensing_feedback@spf.gov.sg">spf_licensing_feedback@spf.gov.sg</a></p>
+
+
 
 ### Requirements
 
-Applicant must have Licence to Deal in Explosives before applying for Licence to Remove Explosive.
+<p>Applicant must have Licence to Deal in Explosives before applying for Licence to Remove Explosive.</p>
 

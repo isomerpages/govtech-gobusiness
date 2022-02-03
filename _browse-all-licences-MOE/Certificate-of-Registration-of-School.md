@@ -22,7 +22,6 @@ Ministry of Education (MOE)
  <li>Privately-funded special education schools.</li>
  </ol>
  <p>You should apply for "Registration of Private Education Institutions" under the CPE (Council for Private Education).</p>
- <p>Thanks</p>
  <hr>
  <p>For registering privately-run schools operating academic classes leading to GCE examinations and courses in commercial/business studies, computer education, languages, fine arts, tuition schools, enrichment centres and foreign system/international schools (including foreign system kindergartens).</p>
  <p>Estimated Processing Time if applied online here: 14 working days</p>

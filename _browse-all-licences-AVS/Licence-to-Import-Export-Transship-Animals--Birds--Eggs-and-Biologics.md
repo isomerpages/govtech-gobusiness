@@ -70,5 +70,6 @@ Animal & Veterinary Service (AVS)
 
 ### Requirements
 
-<p><strong>Related licences to apply at External Agency</strong><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305310000330">Licence to Operate a Coldstore</a><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000332">Licence to Operate Slaughter-house</a><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000331">Licence to Operate a Food Processing Establishment</a></p>
+<p>Prerequisite Licence(s)</p>
+ <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

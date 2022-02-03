@@ -23,8 +23,8 @@ Ministry of Law (MINLAW)
  <p>*Examples of "regulated dealers" who carry on a business of "regulated dealing" include jewellers, bullion traders, jewellery wholesalers, jewellery retailers and secondhand goods dealers. Examples of "regulated dealers" who carry on business as intermediaries for "regulated dealing" include auction houses and trading platforms. Pawnbrokers will be excluded, as they are already subject to AML/CFT measures under the Pawnbrokers Act.</p>
  <p>Under section 6 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act, you are a regulated dealer if you (a) manufacture, import, sell, offer for sale, possess for sale, or purchase for the purpose of resale any precious stone, precious metal or precious product (PSM); (b) sell or redeem any token, certificate or other instrument backed by one or more PSMs that entitles the holder to the PSM or part of it; or (c) act as an intermediary for (a) or (b).</li>
  <li><strong>What fees do I need to pay?</strong><br>
- <strong>Application Fee</strong> - Applicants must pay an application fee of <strong>$120</strong>, payable upfront upon submission of new application. The application fee is non-refundable.<br>
- <strong>Registration Fee</strong> - Registration fees for new applicants and renewal applications where the net price of every precious stone, precious metal, precious product or asset-backed token that isor is to be sold by the registered dealer is less than $2,000 apiece, will be $250 per outlet per year. Otherwise, it will be $350 per outlet per year. </li>
+<p><strong>Application Fee</strong> - Applicants must pay an application fee of <strong>$120</strong>, payable upfront upon submission of new application. The application fee is non-refundable.<br>
+ <strong>Registration Fee</strong> - Registration fees for new applicants and renewal applications where the net price of every precious stone, precious metal, precious product or asset-backed token that isor is to be sold by the registered dealer is less than $2,000 apiece, will be $250 per outlet per year. Otherwise, it will be $350 per outlet per year. <br></p>
  <p><Strong><u>Class A Registration Tier</u></Strong><br>
  Registration Condition: The registration is subject to a condition that the net price of every precious stone, precious metal, precious product or asset-backed token that is or is to be sold by the registered dealer be less than $2,000 apiece.<br>
  Registration Fees(Inclusive of GST): $250 per outlet annually<br>
@@ -32,16 +32,17 @@ Ministry of Law (MINLAW)
  <p><Strong><u>Class B Registration Tier</u></Strong><br>
  Registration Condition: The registered dealer is allowed to sell precious stones, precious metals, precious products or asset-backed tokens of any value.<br>
  Registration Fees (Inclusive of GST): $350 per outlet annually<br>
- Duration: To be renewed annually</p>
+ Duration: To be renewed annually</li>
  <li><strong>Who can I contact for more details?</strong><br>
  You can get more information on regulated dealers on Minlaw website at <a href="https://acd.mlaw.gov.sg/" target="_blank" rel="noopener">https://acd.mlaw.gov.sg</a>.</li>
  </ol>
 
 **Additional Information**
 
-<p><strong>Fee</strong></p>
- <p><strong>Application Fee</strong> - Applicants must pay an application fee of <strong>$120</strong>, payable upfront upon submission of new application. The application fee is non-refundable.</p>
- <p><strong>Registration Fee</strong> - Registration fees for new applicants and renewal applications where the <u>net price</u> of every precious stone, precious metal, precious product or asset-backed token that is <u>or is to be</u> sold by the registered dealer is less than $2,000 apiece, will be $250 per outlet per year. Otherwise, it will be $350 per outlet per year.</p>
+<p><strong>Application Fee</strong><br>
+Applicants must pay an application fee of <strong>$120</strong>, payable upfront upon submission of new application. The application fee is non-refundable.</p>
+<p><strong>Registration Fee</strong><br>
+Registration Fee - Registration fees for new applicants and renewal applications where the <u>net price</u> of every precious stone, precious metal, precious product or asset-backed token that is <u>or is to be</u> sold by the registered dealer is less than $2,000 apiece, will be $250 per outlet per year. Otherwise, it will be $350 per outlet per year.</p>
 
 ### Documents Needed
 
@@ -56,17 +57,17 @@ Ministry of Law (MINLAW)
  - Partner<br>
  - Company Secretary<br>
  - Other person holding an analogous position involved in the management of the applicant<br>
- - Employee managing the applicant's business of regulated dealing or business as an intermediary.</p>
- <p>Please name your file in the following manner:<br />NRIC/FIN/PASSPORT NUMBER.pdf</p>
+ - Employee managing the applicant's business of regulated dealing or business as an intermediary.</pr>
+ <p>Please name your file in the following manner:<br />NRIC/FIN/PASSPORT NUMBER.pdf<br>
  File format: pdf, jpg, png<br>
  Maximum upload per application: 2 MB</p></li>
  <li><strong>Foreign Business Registry Records</strong><br>
  Only applicable for foreign business entities<br>
- <p>File format: pdf, xls, xlsx, doc, docx<br>
+ File format: pdf, xls, xlsx, doc, docx<br>
  Maximum upload per application: 2 MB</li>
  <li><strong>Others</strong><br>
  Any other documents<br>
- <p>File format: pdf, xls, xlsx, doc, docx<br>
+ File format: pdf, xls, xlsx, doc, docx<br>
  Maximum upload per application: 2 MB</li>
  </ul>
 

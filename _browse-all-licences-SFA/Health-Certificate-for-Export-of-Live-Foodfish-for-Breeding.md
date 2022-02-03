@@ -19,7 +19,7 @@ Singapore Food Agency (SFA)
 **Additional Information**
 
 <p><strong>Fee<br /></strong>Licence Fee: $16.80<br />Express Fee: $33.60</p>
- <p>Note: Pre-export inspection charges may also apply. Please contact SFA for clarifications.</p><p>Note: Pre-export inspection charges may also apply. Please contact SFA for clarifications.</p>
+ <p>Note: Pre-export inspection charges may also apply. Please contact SFA for clarifications.</p>
 
 ### Documents Needed
 

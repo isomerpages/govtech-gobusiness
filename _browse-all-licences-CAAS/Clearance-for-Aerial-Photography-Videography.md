@@ -28,7 +28,8 @@ Civil Aviation Authority of Singapore (CAAS)
 
 <ul>
  <li><strong>Flight path and Hazard Identification and Risk Assessment (HIRA) documentation</strong><BR>
- Details of Flight path and Hazard Identification and Risk Assessment (HIRA)</li></ul>
- <p><strong>File format: </strong>csv, zip, pdf, jpg<br>
- <strong>Maximum upload per application: </strong>2 MB</p>
+ Details of Flight path and Hazard Identification and Risk Assessment (HIRA)<BR>
+File format: csv, zip, pdf, jpg<br>
+Maximum upload per application: 2 MB</li>
+</ul>
 

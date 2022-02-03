@@ -13,8 +13,6 @@ Singapore Food Agency (SFA)
 ### Application Details
 
 <p>Makeshift stall in a temporary fair.</p>
- <h3>FAQs</h3>
- <p>Not available!</p>
 
 **Additional Information**
 

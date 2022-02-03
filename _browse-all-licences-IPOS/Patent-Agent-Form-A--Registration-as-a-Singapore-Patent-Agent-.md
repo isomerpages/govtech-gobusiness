@@ -34,7 +34,7 @@ The list of approved courses is listed under the third schedule of the Patents (
 For full details on how to register for (ii) and (iii), please refer to www.suss.edu.sg/mipim</li>
 <li><strong>Where can I download the Certificate of Good Character (From B) and/or Certificate of Good Performance (Form I) templates?</strong><br>
 You may download the documents from IPOS website: <a href="http://www.ipos.gov.sg/resources/patent-agent" target="_blank" rel="noopener">www.ipos.gov.sg/resources/patent-agent</a></li>
-<li><strong><u>6. Who can I contact for further details?</strong><br>
+<li><strong><u>Who can I contact for further details?</strong><br>
 You may email to <a href="mailto:ipos_pau@ipos.gov.sg">ipos_pau@ipos.gov.sg</a></li>
 
 **Additional Information**

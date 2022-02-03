@@ -54,21 +54,28 @@ Ministry of Law (MINLAW)
 
 <ul>
  <li><strong>Curriculum Vitae</strong><br>
- Curriculum Vitae</li>
+ Curriculum Vitae<br>
+ File format: doc, docx, pdf, jpg, gif, png, bmp<br>
+ Maximum upload per application: 5 MB</li>
  <li><strong>Professional Accreditations</strong><br>
- Documentary proof evidencing that you are a qualified Accountant or Solicitor.</li>
+ Documentary proof evidencing that you are a qualified Accountant or Solicitor.<br>
+ File format: doc, docx, pdf, jpg, gif, png, bmp<br>
+ Maximum upload per application: 5 MB</li>
  <li><strong>Professional Membership(s)</strong><br>
- Documentary proof evidencing your membership in any local/foreign professional bodies</li>
+ Documentary proof evidencing your membership in any local/foreign professional bodies<br>
+ File format: doc, docx, pdf, jpg, gif, png, bmp<br>
+ Maximum upload per application: 5 MB</li>
  <li><strong>Relevant Work Experience</strong><br>
- Other documentary proof evidencing your work experiences to be eligible for the grant or renewal of a licence. For e.g. Court Orders, Resolutions, approved liquidator's licence with ACRA etc.</li>
+ Other documentary proof evidencing your work experiences to be eligible for the grant or renewal of a licence. For e.g. Court Orders, Resolutions, approved liquidator's licence with ACRA etc.<br>
+ File format: doc, docx, pdf, jpg, gif, png, bmp<br>
+ Maximum upload per application: 5 MB</li>
  <li><strong>Details of Declaration(s)</strong><br>
- Documents relating to declaration(s) which you have stated "Yes" under the declaration page</li>
+ Documents relating to declaration(s) which you have stated "Yes" under the declaration page<br>
+ File format: doc, docx, pdf, jpg, gif, png, bmp<br>
+ Maximum upload per application: 5 MB</li>
  <li><strong>Others</strong><br>
- Any other documents which you wish to provide</li>
- <p><strong>File format:</strong><BR>
- <ul>
- <li>For Other Document: pdf, jpg, gif, png, bmp</li>
- <li>For the rest: doc, docx, pdf, jpg, gif, png, bmp</li>
+ Any other documents which you wish to provide<br>
+ File format: pdf, jpg, gif, png, bmp<br>
+ Maximum upload per application: 5 MB</li>
  </ul>
- <strong>Maximum upload per application: </strong>5 MB</p>
 

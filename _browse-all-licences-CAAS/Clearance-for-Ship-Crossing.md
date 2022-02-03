@@ -17,7 +17,7 @@ Civil Aviation Authority of Singapore (CAAS)
  <ol>
  <li><Strong>How do I apply for a clearance?</Strong><BR>
  The submission of application for a clearance is free of charge, and can be done through our online form. Please allow for 7 working days for our processing of your application.</li>
- <ol>
+ </ol>
 
 **Additional Information**
 
@@ -27,8 +27,8 @@ Civil Aviation Authority of Singapore (CAAS)
 ### Documents Needed
 
 <ul>
- <li><strong>Intended Route</strong><br>Details of Intended Route</li>
- </ul>
- <p><strong>File format: </strong>jpg, png, pdf<br>
- <strong>Maximum upload per application: </strong>2 MB</p>
+ <li><strong>Intended Route</strong><br>Details of Intended Route<br>
+File format: jpg, png, pdf<br>
+Maximum upload per application: 2 MB</li>
+</ul>
 

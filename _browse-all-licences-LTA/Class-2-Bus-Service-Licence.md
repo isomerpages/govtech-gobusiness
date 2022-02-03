@@ -42,6 +42,7 @@ Land Transport Authority (LTA)
  Upon LTA's approval to amend any aspect relating to the operation of the Bus Service, , the licensee must ensure that notices on the details of the amendments are put up at all stopping places of the Bus Service to inform the commuters on the amendments at least two weeks before the implementation of the amended operating details.</li>
  <li><Strong>Who can I contact for further details?</Strong><BR>
  For general licensing enquiries, please contact LTA at Tel : 1800 - CALL LTA (1800 - 2255 582) or email to <a href="https://www.lta.gov.sg/feedback/" target="_blank" rel="noopener">https://www.lta.gov.sg/feedback/</a></li>
+</ol>
 
 **Additional Information**
 
@@ -58,15 +59,24 @@ Land Transport Authority (LTA)
 
 <ul>
  <li><strong>Route Map</strong><br>
- A map clearly showing the proposed route and all stopping places.</li>
+ A map clearly showing the proposed route and all stopping places.<br>
+ File format: pdf, jpeg, jpg, png, docx, doc, csv<br>
+Maximum upload per application: 2MB</li>
  <li><strong>Stopping places (non-bus stop)</strong><br>
- Pictures of the stopping place(s) which is/are part of the premises of the developments or along the road(s) i.e. not at a public bus stop.</li>
+ Pictures of the stopping place(s) which is/are part of the premises of the developments or along the road(s) i.e. not at a public bus stop.<br>
+File format: pdf, jpeg, jpg, png, docx, doc, csv<br>
+Maximum upload per application: 2MB</li>
  <li><strong>Approval for use of private development/ road</strong><br>
- Proof of approval from the management/ owner if you intend to set a stopping place within a private development/ along a private road.</li>
+ Proof of approval from the management/ owner if you intend to set a stopping place within a private development/ along a private road.<br>
+ File format: pdf, jpeg, jpg, png, docx, doc, csv<br>
+Maximum upload per application: 2MB</li>
  <li><strong>Approval from Ministry of Social and Family Development</strong><br>
- If you are applying to operate a bus service to serve any of the Integrated Resorts (IRs) in Singapore, you are required to declare whether you are related to the IRs or are contracted or subsidised by the IRs to operate the proposed bus service. Please also submit the approval from Ministry of Social and Family Development as a supporting document.</li>
+ If you are applying to operate a bus service to serve any of the Integrated Resorts (IRs) in Singapore, you are required to declare whether you are related to the IRs or are contracted or subsidised by the IRs to operate the proposed bus service. Please also submit the approval from Ministry of Social and Family Development as a supporting document.<br>
+ File format: pdf, jpeg, jpg, png, docx, doc, csv<br>
+Maximum upload per application: 2MB</li>
  <li><strong>Transfer of Bus Ownership for Scheme B Bus Type</strong><br>
- If you are applying Scheme B Bus Type, document on transfer of Bus Ownership is needed as a supporting document.</li>
- <p><strong>File format: </strong>pdf, jpeg, jpg, png, docx, doc, csv<br>
- <strong>Maximum upload per application: </strong>2 MB</p>
+ If you are applying Scheme B Bus Type, document on transfer of Bus Ownership is needed as a supporting document.<br>
+ File format: pdf, jpeg, jpg, png, docx, doc, csv<br>
+Maximum upload per application: 2MB</li>
+</ul>
 

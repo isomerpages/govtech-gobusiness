@@ -39,8 +39,8 @@ Civil Aviation Authority of Singapore (CAAS)
 ### Documents Needed
 
 <ul>
- <li><strong>Any other supporting documents</strong><br>Any additional details of activity to be conducted</li>
- </ul>
- <p><strong>File format: </strong>csv, zip, pdf, jpg<br>
- <strong>Maximum upload per application: </strong>2 MB</p>
+ <li><strong>Any other supporting documents</strong><br>Any additional details of activity to be conducted<br>
+File format: csv, zip, pdf, jpg<br>
+Maximum upload per application: 2 MB</li>
+</ul>
 

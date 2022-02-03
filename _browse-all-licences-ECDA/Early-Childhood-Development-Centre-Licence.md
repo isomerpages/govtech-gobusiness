@@ -99,16 +99,13 @@ For HDB and SLA properties, the tenancy agreement signed with HDB or SLA will su
 The layout of the drawn-to-scale floor plan must match the actual physical premises. Floor plans must be QP-certified and accompanied by a breakdown of the floor areas.
 <br>File format: pdf, jpg, png, docx, xlsx
 <br>Maximum upload per application: 2 MB</li>
-<li><strong>Declaration of Offences or Warnings</strong><br>
-Declaration of Offences or Warnings
+<li><strong>Declaration of Offences or Warnings</strong>
 <br>File format: pdf, jpg, png
 <br>Maximum upload per application: 2 MB</li>
-<li><strong>Declaration of Financial Capacity</strong><br>
-Declaration of Financial Capacity
+<li><strong>Declaration of Financial Capacity</strong>
 <br>File format: pdf, jpg, png
 <br>Maximum upload per application: 2 MB</li>
-<li><strong>Parents' Handbook</strong><br>
-Parents' Handbook
+<li><strong>Parents' Handbook</strong>
 <br>File format: pdf, jpg, png
 <br>Maximum upload per application: 2 MB</li>
 </ul>

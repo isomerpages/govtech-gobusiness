@@ -23,6 +23,7 @@ Ministry of Law (MINLAW)
  <li><Strong>Who can I contact for further details?</Strong><br>
  You can get more information for Pawnbrokers on Minlaw website.<br>
  Please refer to weblink: <a href="http://www.mlaw.gov.sg/rop" target="_blank" rel="noopener">http://www.mlaw.gov.sg/rop</a>.</li>
+</ol>
 
 **Additional Information**
 
@@ -35,9 +36,9 @@ Ministry of Law (MINLAW)
 
 <ul>
  <li><strong>Letter of Authorisation for 3rd Party filing</strong><br>
- Upload of NRICs of all personnels - office bearers, manager, directors and shareholders; and upload a copy of tenancy agreement for the proposed pawnshop premises.</li>
- <p><strong>File format: </strong>doc, docx, jpg, pdf, gif<br>
- <strong>Maximum upload per application: </strong>2 MB</p>
+ Upload of NRICs of all personnels - office bearers, manager, directors and shareholders; and upload a copy of tenancy agreement for the proposed pawnshop premises.<br>
+File format: doc, docx, jpg, pdf, gif<br>
+Maximum upload per application: 2 MB</li>
  </ul>
 
 ### Requirements

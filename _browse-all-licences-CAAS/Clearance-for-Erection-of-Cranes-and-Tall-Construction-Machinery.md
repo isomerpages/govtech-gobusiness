@@ -20,8 +20,6 @@ Civil Aviation Authority of Singapore (CAAS)
  <p><strong>How do I apply for a clearance?</strong><br />The submission of application for a clearance is free of charge, and can be done through our online form. Please allow for 7 working days for our processing of your application. In addition to CAAS, you are required to consult and obtain the necessary clearance from the Republic of Singapore Air Force (RSAF).</p>
  </li>
  </ol>
- 
- https://www.caas.gov.sg/operations-safety/airspace/obstacles-height-control
 
 **Additional Information**
 
@@ -31,8 +29,8 @@ Civil Aviation Authority of Singapore (CAAS)
 ### Documents Needed
 
 <ul>
- <li><strong>Building Elevation Plan</strong><br>Details of Building Elevation Plan</li>
+ <li><strong>Building Elevation Plan</strong><br>Details of Building Elevation Plan<br>
+File format: jpg, png, pdf<br>
+Maximum upload per application: 2 MB</li>
  </ul>
- <p><strong>File format: </strong>jpg, png, pdf<br>
- <strong>Maximum upload per application: </strong>2 MB</p>
 

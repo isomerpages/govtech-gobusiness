@@ -18,39 +18,29 @@ Land Transport Authority (LTA)
  <ol>
  <p><strong><u>BDVL/ BAVL APPLICATION</u></strong></p>
  <li><strong>What are the criteria for me to apply for a BDVL/ BAVL?</Strong><Br>
- a. To be <strong>eligible to apply for a BAVL</strong>, you must:
- <ul>
- <li>Be a Singaporean;</li>
- <li>Be at least 18 years old;</li>
- </ul>
+ a. To be <strong>eligible to apply for a BAVL</strong>, you must:<Br>
+- Be a Singaporean;<br>
+- Be at least 18 years old;<br>
  b. To be <strong>eligible to apply for a BDVL</strong>, you should:<br>
  i. As Singaporean,<br>
- <ul>
- <li>Be at least 21 years old;</li>
- <li>Hold a valid class 3 Singapore driving licence for a continuous period of at least <strong>one year</strong> at the point of application;</li>
- <li>Pass LTA's required medical examination and background checks</li>
- </ul>
+ - Be at least 21 years old;<br>
+ - Hold a valid class 3 Singapore driving licence for a continuous period of at least <strong>one year</strong> at the point of application;<br>
+ - Pass LTA's required medical examination and background checks<br>
  ii. As Singapore Permanent Resident (SPR),<br>
- <ul>
- <li>Hold a valid class 3/3A Singapore driving licence for at least a continuous period of <strong>one year</strong> at the point of application;</li>
- <li>Pass LTA's required medical examination and background checks;</li>
- </ul>
+ - Hold a valid class 3/3A Singapore driving licence for at least a continuous period of <strong>one year</strong> at the point of application;<br>
+ - Pass LTA's required medical examination and background checks;<br>
  iii. As Foreign Work Pass (FWP) holder,<br>
- <ul>
- <li>Hold a valid class 3/3A Singapore driving licence for at least a continuous period of <strong>one year</strong> at the point of application;</li>
- <li>Pass LTA's required medical examination and background checks;</li>
- <li>Be an employee with a Bus Company and produce a copy of your Work Permit (stating "Bus Driver" as Vocation), Employment Letter (stating that "you are employed as a Bus Driver) at the point of application</li>
- </ul>
+ - Hold a valid class 3/3A Singapore driving licence for at least a continuous period of <strong>one year</strong> at the point of application;<br>
+ - Pass LTA's required medical examination and background checks;<br>
+- Be an employee with a Bus Company and produce a copy of your Work Permit (stating "Bus Driver" as Vocation), Employment Letter (stating that "you are employed as a Bus Driver) at the point of application<br>
  </li>
  <li><Strong>How do I apply for a BDVL/ BAVL?</Strong><br>
  You may use your SingPass to apply online at <a href="https://www.gobusiness.gov.sg/licences/find-licence-by-agency/" target="_blank" rel="noopener">GoBusiness Licensing</a>, with a payment of $40 to LTA for the non-refundable application fee. You will be required to upload the following documents with your application:<br>
- <ul>
- <li>A recent passport-photograph</li>
- <li>NRIC (Front and Back view on a page)</li>
- <li>Singapore Class 3/3A/3C/3CA Driving Licence (Front and Back View on a page) (<strong>Optional for BAVL</strong>)</li>
- <li>A copy of your Work Permit (stating "Bus Driver" as Vocation), Employment Letter (stating that "you are employed as a Bus Driver")</li>
- <li>A copy of your In-principle approval letter by MOM stating Name, FIN, Occupation and Company Name or Work Permit (stating "Bus Driver" as Vocation), Employment Letter (stating that "you are employed as a Bus Driver")</li>
- </ul></li>
+ - A recent passport-photograph<br>
+ - NRIC (Front and Back view on a page)<br>
+ - Singapore Class 3/3A/3C/3CA Driving Licence (Front and Back View on a page) (<strong>Optional for BAVL</strong>)<br>
+ - A copy of your Work Permit (stating "Bus Driver" as Vocation), Employment Letter (stating that "you are employed as a Bus Driver")<br>
+ - A copy of your In-principle approval letter by MOM stating Name, FIN, Occupation and Company Name or Work Permit (stating "Bus Driver" as Vocation), Employment Letter (stating that "you are employed as a Bus Driver")</li>
  <li><strong>Can I apply for both BDVL/ BAVL?</Strong><br>
  Yes, However, do note that only Singaporeans are given the option to apply for BAVL when applying BDVL. Application fee applies.</li>
  <li><strong>How do I withdraw my application?</Strong><br>
@@ -62,10 +52,8 @@ Land Transport Authority (LTA)
  However, from 1 January 2016, the upper age limit has been extended until heavy vehicle drivers turn 75 years old. With the revision, heavy vehicle drivers (i.e. Class 4/4A and 5), aged between 70 to 74 years old, can retain their licences if they pass an annual enhanced medical examination and proficiency driving test. Hence, these drivers can continue to drive Class 4/4A buses provided they pass the above requirements by the Traffic Police</li>
  <li><strong>What are the medical requirement to apply for a BDVL/ BAVL?</Strong><br>
  Applicants who are aged 50 years and above are required to pass regular medical examinations. The frequency of medical examinations are as follows:<br>
- <ul>
- <li><strong>50 - 64 years: </strong>Once every 2 years</li>
- <li><strong>65 years onwards: </strong>Every year</li>
- </ul>
+ <strong>50 - 64 years: </strong>Once every 2 years<br>
+ <strong>65 years onwards: </strong>Every year<br>
  For applicants reaching the age of 70 years, there is a requirement to undergo a special assessment to certify that they are fit to continue driving. This assessment is called the "Assessment on Fitness to Drive for Vocational Licence Holders Aged 70 years and Above". This Assessment covers a medical examination, an occupational therapy evaluation, and an on-road driving test with an occupational therapist and a driving instructor. After passing the Assessment at age 70 years, he will have to continue to pass LTA's annual medical examination at 71 and 72 years of age. This Assessment will be required once again at the age of 73 and 74 years of age before the VL holder is allowed to renew and extend his VL up to 75 years of age.<br>
  However, BAVL holders aged 65 years and above will have to pass LTA's yearly medical examination in order to continue to hold the licence.</li>
  <li><strong>How long can an applicant expect to wait for his application to LTA to be approved?</Strong><br>
@@ -82,30 +70,26 @@ Land Transport Authority (LTA)
  <li><strong>I would like to register for the BDVL/ BAVL Course. Where should I go?</Strong><br>
  CDC/ ComfortDelgro Bus/ BBDC/ SSDC are able to conduct training for the BDVL/ BAVL Course. Those who wish to find out more about the BDVL/ BAVL Course can contact CDC at 6841 8900 (<a target="" rel="">http://www.cdc.com.sg/</a>) or ComfortDelgro Bus at 6553 3838 (<a target="" rel="">http://www.comfortdelgrobus.com.sg</a>) or BBDC at 6561 1233 (<a target="" rel="">http://www.bbdc.sg/</a>) or SSDC at 6482 6060 (<a target="" rel="">http://www.ssdcl.com.sg</a>). <strong>Please note that BAVL course is no longer available at ComfortDelgro Bus</strong>.<br>
  Details of the training providers below:<br>
- <ul>
- <li><Strong>ComfortDelgro Driving Centre (CDC)</Strong><br>
+ <Strong><u>ComfortDelgro Driving Centre (CDC)</Strong></u><br>
  205 Ubi Avenue 4<br>
  Singapore 408805<br>
- Tel: 6841 8900</li>
- <li><Strong>Bukit Batok Driving Centre (BBDC)</Strong><br>
+ Tel: 6841 8900<br>
+<Strong><u>Bukit Batok Driving Centre (BBDC)</Strong></u><br>
  815 Bukit Batok West Avenue 5<br>
  Singapore 659085<br>
- Tel: 6561 1233</li>
- <li><Strong>ComfortDelgro Bus Pte Ltd (ComfortDelgro Bus)</Strong><br>
+ Tel: 6561 1233<br>
+ <Strong><u>ComfortDelgro Bus Pte Ltd (ComfortDelgro Bus)</Strong></u><br>
  205 Braddell Road<br>
  Singapore 579701<br>
- Tel: 6553 3838</li>
- <li><Strong>Singapore Safety Driving Centre Ltd (SSDC)</Strong><br>
+ Tel: 6553 3838<br>
+ <Strong><u>Singapore Safety Driving Centre Ltd (SSDC)</Strong></u><br>
  2 Woodlands Industrial Park E4<br>
  Singapore 757387<br>
- Tel: 6482 6060</li>
- </ul>
+ Tel: 6482 6060</br>
  When registering for the training course, please bring your approval letter, <strong>NRIC, Driving Licence</strong> and the following documents:<br>
- <ul>
- <li>a. LTA's<strong> medical examination form</strong> duly completed and certified by a registered medical practitioner; and<br>
+ a. LTA's<strong> medical examination form</strong> duly completed and certified by a registered medical practitioner; and<br>
  b. The original or certified true copy of your <strong>chest X-ray</strong> examination result card signed by a radiologist;</li>
- </ul>
- <li><Strong>How long is the duration for the BDVL/ BAVL course?</Strong><br>
+  <li><Strong>How long is the duration for the BDVL/ BAVL course?</Strong><br>
  <Strong>BDVL course takes 14 hours</strong> to complete (inclusive of 2 hour written test) and <strong>BAVL course takes 3 hours</strong> to complete.</li>
  <li><Strong>What is the course fee for BDVL/ BAVL?</Strong><br>
  The <strong>BDVL course</strong> fee includes GST is $107 and <strong>BAVL course</strong> fee includes GST is $32.</li>
@@ -123,14 +107,15 @@ Land Transport Authority (LTA)
  <li><Strong>How will I be notified on the issuance of my BDVL/ BAVL?</Strong><br>
  Applicants who have completed the BDVL/ BAVL course and passed the test will receive a collection letter from LTA to collect the Vocational Licence Card from LTA.</li>
  <li><Strong>What must I do if my BDVL/ BAVL is lost or damage?</Strong><br>
- You are required to make a police report immediately and apply for a duplicate licence at LTA, 10 SinMing Drive with the following documents:</li>
- <ul>
- <li>A recent passport photograph</li>
- <li>Original NRIC (Original Passport - if NRIC is not available);</li>
- <li>Valid Class 3/3A Singapore Driving Licence; and</li>
- <li>Original police report stating the loss of the BDVL/ BAVL licence</li>
- </ul>
- Please approach the Reception Counter at Level 1 for assistance. You will need to make a payment of $10 (excluding GST) for the replacement of the licence.</li>
+ You are required to make a police report immediately and apply for a duplicate licence at LTA, 10 SinMing Drive with the following documents:<br>
+ - A recent passport photograph<br>
+ - Original NRIC (Original Passport - if NRIC is not available);<br>
+ - Valid Class 3/3A Singapore Driving Licence; and<br>
+ - Original police report stating the loss of the BDVL/ BAVL licence<br>
+  Please approach the Reception Counter at Level 1 for assistance. You will need to make a payment of $10 (excluding GST) for the replacement of the licence.</li>
+ </ol>
+
+
 
 **Additional Information**
 
@@ -139,23 +124,30 @@ Land Transport Authority (LTA)
 ### Documents Needed
 
 <ul>
- <li><strong>NRIC / Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation and Company Name - Front and Back</strong><br>
- For Singaporean / SPR: NRIC<br />For Foreigner: Employment Pass / S Pass / Work Permit/ In-principle approval letter by MOM stating Name, FIN, Occupation and Company Name Mandatory to upload upon application for all type of vocational licences.</li>
- <li><strong>Driving Licence (Front and Back)</strong><br>
- For Singaporean, SPR and Foreigner.<br>
- Mandatory to upload upon application for BDVL only.</li>
- <li><strong>Passport size photo</strong><br>
- Please provide a recent passport size photograph (400 by 514 pixels (35mm by 45mm)). Photo must be recent with full face, front view with eyes open, ensure the full head from top of hair to the bottom of chin and head must be at the centre, wears a collared shirt, and on white background. Headgear worn in accordance with religious or racial custom is acceptable as long as it does not hide the facial features. Photo in any uniform group is not allowed. Mandatory to upload upon application for all type of vocational licences</li>
- <li><strong>Medical Records</strong><br>
- Mandatory to upload upon approval to go for course for all vocational licences.</li>
- <li><strong>Employment letter for Foreigners</strong><br>
- Mandatory to upload for Foreigners applying BDVL.</li>
- <li><strong>Other supporting documents</strong><br>
- Letter of Undertaking / Letter from Singapore School Transport Association / Letter from Singapore School and Private Hire Bus Owner Association, etc.</li>
- <p><strong>File format:</strong><BR>
- <ul>
- <li>For Passport photo: jpg, jpeg</li>
- <li>For the rest: pdf, jpg, jpeg, gif, png, bmp</li>
- </ul>
- <strong>Maximum upload per application: </strong>2 MB</p>
+<li><strong>NRIC / Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation and Company Name - Front and Back</strong><br>
+ For Singaporean / SPR: NRIC<br />For Foreigner: Employment Pass / S Pass / Work Permit/ In-principle approval letter by MOM stating Name, FIN, Occupation and Company Name Mandatory to upload upon application for all type of vocational licences.<BR>
+File format: pdf, jpg, jpeg, gif, png, bmp<BR>
+Maximum upload per application: 2 MB</li>
+<li><strong>Driving Licence (Front and Back)</strong><br>
+For Singaporean, SPR and Foreigner.<br>
+Mandatory to upload upon application for BDVL only.<BR>
+File format: pdf, jpg, jpeg, gif, png, bmp<BR>
+Maximum upload per application: 2 MB</li>
+<li><strong>Passport size photo</strong><br>
+Please provide a recent passport size photograph (400 by 514 pixels (35mm by 45mm)). Photo must be recent with full face, front view with eyes open, ensure the full head from top of hair to the bottom of chin and head must be at the centre, wears a collared shirt, and on white background. Headgear worn in accordance with religious or racial custom is acceptable as long as it does not hide the facial features. Photo in any uniform group is not allowed. Mandatory to upload upon application for all type of vocational licences<BR>
+File format: jpg, jpeg<BR>
+Maximum upload per application: 2 MB</li>
+<li><strong>Medical Records</strong><br>
+Mandatory to upload upon approval to go for course for all vocational licences.<BR>
+File format: pdf, jpg, jpeg, gif, png, bmp<BR>
+Maximum upload per application: 2 MB</li>
+<li><strong>Employment letter for Foreigners</strong><br>
+Mandatory to upload for Foreigners applying BDVL.<BR>
+File format: pdf, jpg, jpeg, gif, png, bmp<BR>
+Maximum upload per application: 2 MB</li>
+<li><strong>Other supporting documents</strong><br>
+Letter of Undertaking / Letter from Singapore School Transport Association / Letter from Singapore School and Private Hire Bus Owner Association, etc.<BR>
+File format: pdf, jpg, jpeg, gif, png, bmp<BR>
+Maximum upload per application: 2 MB</li>
+</ul>
 

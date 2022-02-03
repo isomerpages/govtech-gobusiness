@@ -20,7 +20,7 @@ Hotels Licensing Board (HLB)
 <li><strong>What is the definition of a hotel in the Hotels Act?</strong><br>
 "Hotel" includes a boarding house, lodging-house, guest-house and any building or premises not being a public institution and containing not less than 4 rooms or cubicles in which persons are harboured or lodged for hire or reward of any kind and where any domestic service is provided by the owner, lessee, tenant, occupier or manager for the person on harboured or lodged.</li>
 <li><strong>What are the licences a hotel needs to obtain from HLB to operate?</strong><br>
-To operate a hotel, the following 2 licenses are required:-<br>
+To operate a hotel, the following 2 licenses are required:<br><br>
 a.Certificate of Registration to use the premises as a hotel; and<br>
 b.Hotel-keeper licence to enable the person to keep or manage the hotel<br>
 The premise may require other licences issued by other agencies to operate.</li>
@@ -30,13 +30,13 @@ Any premises with 4 or more rooms/cubicles will need to apply for the licences.<
 <li><strong>What documents do I need to submit for the application of the licences?</strong><br>
 The list of documents required, but not limited to, are:<br>
 Cover letter with the date of proposed commencement of operations of the Hotel<br>
-<li>ACRA business profile of the business or company<br>
-Grant of Written Permission (WP) fromUrban Redevelopment Authority<br>
-Temporary Occupation Permit (TOP) / Certificate of Statutory Completion (CSC) from the Building & Construction Authority. Under the Building Control Act, all building owners are required to conduct periodic structural inspections once every 5 years for non-residential buildings. If the TOP/CSC is issued more than 5 years ago, please submit the latest copy of BCA's acceptance of the periodic inspection report of the building.<br>
-Temporary Fire Permit / Fire Safety Certificate from the Singapore Civil Defence Force.<br>
-Copy of the advertisement according to the Notice template in PDF format. The electronic notice ("e-notice") will typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. Any notice of objection lodged with HLB within two weeks of the advertisement will be taken into account in the assessment of the application for a Certificate of Registration.<br>
-Resume of the proposed hotel-keeper<br>
-Copy of proposed hotel-keeper's employment pass (if applicable)<br>
+ACRA business profile of the business or company<br>
+- Grant of Written Permission (WP) fromUrban Redevelopment Authority<br>
+- Temporary Occupation Permit (TOP) / Certificate of Statutory Completion (CSC) from the Building & Construction Authority. Under the Building Control Act, all building owners are required to conduct periodic structural inspections once every 5 years for non-residential buildings. If the TOP/CSC is issued more than 5 years ago, please submit the latest copy of BCA's acceptance of the periodic inspection report of the building.<br>
+- Temporary Fire Permit / Fire Safety Certificate from the Singapore Civil Defence Force.<br>
+- Copy of the advertisement according to the Notice template in PDF format. The electronic notice ("e-notice") will typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. Any notice of objection lodged with HLB within two weeks of the advertisement will be taken into account in the assessment of the application for a Certificate of Registration.<br>
+- Resume of the proposed hotel-keeper<br>
+- Copy of proposed hotel-keeper's employment pass (if applicable)<br>
 </li>
 
 <li><strong>Where can I find the template for the newspaper notice?</strong><br>

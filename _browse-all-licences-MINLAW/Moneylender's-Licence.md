@@ -14,7 +14,7 @@ Ministry of Law (MINLAW)
 
 ### Application Details
 
-<p><strong>Update:</strong></p>
+<p><strong>Update:</strong><br>
 The Registry of Moneylenders has temporarily suspended the grant of any new moneylending licences. For more details, please refer to the webpage: <a href="https://rom.mlaw.gov.sg/information-for-moneylenders" target="_blank" rel="noopener">https://rom.mlaw.gov.sg/information-for-moneylenders</a>.</p>
  <hr>
  For entities which intend to be in the business of moneylending. Upfront fee payable: A non-refundable application fee of $600.<br>
@@ -39,12 +39,16 @@ The Registry of Moneylenders has temporarily suspended the grant of any new mone
 
 <ul>
  <li><strong>Documentary Evidence of Funds</strong><br>
- Documentary evidence on the availability and the sources of funds for the moneylending business, i.e. how are the funds accumulated (e.g. copies of bank statements, IR8A for the past years, income slips etc.)</li>
+ Documentary evidence on the availability and the sources of funds for the moneylending business, i.e. how are the funds accumulated (e.g. copies of bank statements, IR8A for the past years, income slips etc.)<br>
+ File format: doc, docx, jpg, pdf, gif<br>
+ Maximum upload per application: 2 MB</li>
  <li><strong>Education Qualification and Certificates for Qualified Manager(s)</strong><br>
- Proof of educational qualifications for the test-qualified manager</li>
+ Proof of educational qualifications for the test-qualified manager<br>
+ File format: doc, docx, jpg, pdf, gif<br>
+ Maximum upload per application: 2 MB</li>
  <li><strong>Front and back NRICs of all Person(s) and Annex</strong><br>
- Scanned copies of the NRICs (both front and back of NRICs) of all persons to be involved in the moneylending business and a duly-filled copy of the Annex</li>
- <p><strong>File format: </strong>doc, docx, jpg, pdf, gif<br>
- <strong>Maximum upload per application: </strong>2 MB</p>
- </ul>
+ Scanned copies of the NRICs (both front and back of NRICs) of all persons to be involved in the moneylending business and a duly-filled copy of the Annex<br>
+ File format: doc, docx, jpg, pdf, gif<br>
+ Maximum upload per application: 2 MB</li>
+  </ul>
 

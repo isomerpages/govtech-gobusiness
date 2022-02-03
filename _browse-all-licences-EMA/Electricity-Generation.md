@@ -27,15 +27,14 @@ You do not need to apply for an Electricity Licence for Generation Licensee to g
 The issuance of a licence does not guarantee registration by the Market Company for participation in the Wholesale Electricity Market in Singapore.</li>
 <li><strong>Are there any regulations for the licensee to comply to?</strong><br>
 The Licensee shall be subject to and shall comply with:<br />a. the Transmission Code;<br />b. the Metering Code; and<br />c. any other relevant codes of practice and standards of performance issued or approved under Section 16 of the Electricity Act</li>
-<li><strong>Are there any other prerequisites for this application?</strong></br>
+<li><strong>Are there any other prerequisites for this application?</strong><br>
 The Applicant is required to first consult the Transmission Licensee for an electricity connection scheme and the Transmission Licensee will advise the Applicant on the proposed connection scheme accordingly. The Applicant is required to submit evidence of his acceptance of the Transmission Licensee's proposed connection scheme as part of his application.<br>
 If the Applicant intends to use gas as a fuel for the generating units , the Applicant is also required to consult the Gas Transporter Licensee for a gas connection scheme and the Gas Transporter Licensee will advise the Applicant on the proposed gas connection scheme accordingly. The Applicant is required to submit evidence of the acceptance of the Gas Transporter Licensee's proposed gas connection scheme as part of this application.</li>
 </ol>
 
 **Additional Information**
 
-<p>The annual licence fee is payable each April for the Financial Year starting 1 April. The initial licence fee payable upon issuance of the licence is pro-rated based on the number of days remaining in the current Financial Year.</p>
-<p>You may contact EMA directly if you require further details on the fees for each licence class.</p>
+<p>The annual licence fee is payable each April for the Financial Year starting 1 April. The initial licence fee payable upon issuance of the licence is pro-rated based on the number of days remaining in the current Financial Year.<br>You may contact EMA directly if you require further details on the fees for each licence class.</p>
 
 ### Documents Needed
 

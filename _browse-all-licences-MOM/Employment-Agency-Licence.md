@@ -32,16 +32,14 @@ Ministry of Manpower (MOM)
  - Employment Pass Holder (your employment pass must allow you to work in the particular organization)<br>
  - Personalised Employment Pass holder<br>
  - Registered with ACRA as one of the following positions in the company:<br>
- <ul>
- <li>Company-Managing Director, Director, Authorised Representative</li>
- <li>Sole Proprietorship and Partnership-Owner, Partner, Manager</li>
- <li>Limited Liability Partnership-Partner, Manager</li>
- <li>Limited Partnership-General Partner, Limited Partner</li>
- </ul>
+> Company-Managing Director, Director, Authorised Representative<br>
+> Sole Proprietorship and Partnership-Owner, Partner, Manager<br>
+> Limited Liability Partnership-Partner, Manager<br>
+> Limited Partnership-General Partner, Limited Partner<br>
  - Not an undischarged bankrupt<br>
  - Not have any previous conviction records under Women's Charter, Children and Young Persons Act, Penal Code, Immigration Act, Employment Agencies Act and Employment of Foreign Manpower Act in Singapore or elsewhere<br>
  - Not have any offence records involving dishonesty or human trafficking<br>
- - Not have been involved in the management of an employment agency whose licence had been revoked<br>
+ - Not have been involved in the management of an employment agency whose licence had been revoked</li>
  <li><Strong>What supporting documents do I need to submit?</Strong><br>
  ACRA Business Profile.</li>
  <li><Strong>What other approvals do I need to obtain?</Strong><br>
@@ -77,6 +75,7 @@ Ministry of Manpower (MOM)
  <p>Our Operating Hours<br>
  (Mon to Fri except public holidays)- 8:00am to 5:30pm<br>
  Alternatively, you may also visit the MOM website at<a href="https://www.mom.gov.sg/employment-agencies" target="_blank" rel="noopener">https://www.mom.gov.sg/employment-agencies</a>for more information.</li>
+ </ol>
 
 **Additional Information**
 
@@ -87,13 +86,17 @@ Ministry of Manpower (MOM)
 
 <ul>
  <li><strong>ACRA Business Profile</strong><br>
- ACRA Business Profile (Name of the Directors must exactly match the name on their identification documents).</li>
+ACRA Business Profile (Name of the Directors must exactly match the name on their identification documents).<br>
+File format: pdf<br>
+Maximum upload per application: 1.5 MB</li>
  <li><strong>Approval letter from URA/HDB</strong><br>
- Approval letter from URA/HDB (applicable if you are operating from home).</li>
+ Approval letter from URA/HDB (applicable if you are operating from home).<br>
+ File format: pdf<br>
+Maximum upload per application: 1.5 MB</li>
  <li><strong>Identification</strong><br>
- Please provide copies of NRIC/EP/PEP for ALL ACRA registered Directors and/or valid passports of foreign Directors based overseas.</li>
- <p><strong>File format: </strong>pdf<br>
- <strong>Maximum upload per application: </strong>1.5 MB</p>
+ Please provide copies of NRIC/EP/PEP for ALL ACRA registered Directors and/or valid passports of foreign Directors based overseas.<br>
+ File format: pdf<br>
+Maximum upload per application: 1.5 MB</li>
  </ul>
 
 ### Requirements
