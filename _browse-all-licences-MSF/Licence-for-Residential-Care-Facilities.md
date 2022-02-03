@@ -27,15 +27,15 @@ Please email us at <a href="mailto:MSF_RHL@msf.gov.sg">MSF_RHL@msf.gov.sg</a> if
 
  <li>
 <strong>How do I apply for a licence?</strong><br>
-Please log in to the online portal <a href=”https://licence1.business.gov.sg” target=”_blank” rel=”noopener”>https://licence1.business.gov.sg</a> using your SingPass or CorpPass to submit your application for the licence.
+Please log in to the online portal <a href="https://licence1.business.gov.sg" target="_blank" rel="noopener">https://licence1.business.gov.sg</a> using your SingPass or CorpPass to submit your application for the licence.
 Email us at <a href="mailto:MSF_RHL@msf.gov.sg">MSF_RHL@msf.gov.sg</a> for queries.
 </li>
 
 <li>
 <strong>What requirements do I need to fulfil?</strong><br>
 i) If you are applying as an individual, you must be 21 years of age and must not be an undischarged bankrupt.<br>
-ii) If you are applying as a society, the society must be registered with the Registry of Societies (ROS). More information on <a href=”https://www.ros.mha.gov.sg” target=”_blank” rel=”noopener”>ROS</a>.<br>
-iii) If you are applying as a business entity, the entity must be registered with the Accounting & Corporate Regulatory Authority (ACRA). More information on <a href="https://www.acra.gov.sg" target=”_blank” rel=”noopener”>ACRA</a>.<br><br>
+ii) If you are applying as a society, the society must be registered with the Registry of Societies (ROS). More information on <a href="https://www.ros.mha.gov.sg" target="_blank" rel="noopener">ROS</a>.<br>
+iii) If you are applying as a business entity, the entity must be registered with the Accounting & Corporate Regulatory Authority (ACRA). More information on <a href="https://www.acra.gov.sg" target="_blank" rel="noopener">ACRA</a>.<br><br>
 The applicant should read through the Children and Young Persons Act (CYPA) or the Homes for the Aged Act (HFAA) to familiarise himself/ herself with the requirements for running a children and young persons home or a home for the aged. Click here for information on the CYPA or HFAA  https://sso.agc.gov.sg.
 </li>
 
@@ -76,7 +76,7 @@ iii) Change in Parent Organisation’s registered address;<br>
 iv) Change in the Home’s name;<br>
 v) Transfer of Licensee; or<br>
 vi) Change in Home’s capacity.<br>
-Please select ‘Amend’ button in the online portal <a href=”https://licence1.business.gov.sg” target=”_blank” rel=”noopener”>https://licence1.business.gov.sg</a> if you want to apply to make changes.
+Please select ‘Amend’ button in the online portal <a href="https://licence1.business.gov.sg" target="_blank" rel="noopener">https://licence1.business.gov.sg</a> if you want to apply to make changes.
 </li>
 
 <li>
@@ -95,7 +95,7 @@ For any other amendments, please email us at <a href="mailto:MSF_RHL@msf.gov.sg"
 <li>
 <strong>How do I renew a licence?</strong><br>
 i) Applications to renew the licence should be made at least 6 months before the expiry date of the existing licence.<br>
-ii) Applications should be submitted through the <a href=”https://licence1.business.gov.sg” target=”_blank” rel=”noopener”>online portal</a>.
+ii) Applications should be submitted through the <a href="https://licence1.business.gov.sg" target="_blank" rel="noopener">online portal</a>.
 </li>
 
 </ol>

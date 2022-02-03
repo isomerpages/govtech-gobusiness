@@ -40,12 +40,12 @@ Water Service Works (Potable Water)<br><br>
 (b) a flexible hose after the ball valve.<br><br>
 
 Sanitary Works (Used Water)<br><br>
-1. Installing, replacing or removing —<br>
+1. Installing, replacing or removing -<br>
 (a) any wash basin or sink, including any bottle trap or fitting trap below the wash basin or sink;<br>
 (b) any bath tub, shower tray or shower enclosure;<br>
 (c) any floor waste outlet; or<br>
 (d) any pipe conveying sullage water into a floor trap.<br><br>
-2. Replacing —<br>
+2. Replacing -<br>
 (a) any floor trap grating or cover; or<br>
 (b) any floor waste grating or cover.<br><br>
 3. Installing, replacing or removing any urinal, including any fitting trap or any pipe connecting the urinal to a urinal trap.<br><br>
