@@ -82,8 +82,8 @@ Please select 'Amend' button in the online portal <a href="https://licence1.busi
 <li>
 <strong>Are there documents that need to be submitted to support the amendments?</strong><br>
 Please attach a copy of the supporting documents when making the following amendments:<br>
-i) Transfer of licensee- Application in writing signed by the licensee of the Home and by the person to whom the licensee desires to transfer the licence to; and<br>
-ii) Change in the Home's approved capacity- Any document in support of the request.
+i) Transfer of licensee - Application in writing signed by the licensee of the Home and by the person to whom the licensee desires to transfer the licence to; and<br>
+ii) Change in the Home's approved capacity - Any document in support of the request.
 For any other amendments, please email us at <a href="mailto:MSF_RHL@msf.gov.sg">MSF_RHL@msf.gov.sg</a>.
 
 </li>
