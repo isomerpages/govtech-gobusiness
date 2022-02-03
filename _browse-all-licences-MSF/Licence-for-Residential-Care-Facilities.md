@@ -76,7 +76,7 @@ iii) Change in Parent Organisation's registered address;<br>
 iv) Change in the Home's name;<br>
 v) Transfer of Licensee; or<br>
 vi) Change in Home's capacity.<br>
-Please select ‘Amend' button in the online portal <a href="https://licence1.business.gov.sg" target="_blank" rel="noopener">https://licence1.business.gov.sg</a> if you want to apply to make changes.
+Please select 'Amend' button in the online portal <a href="https://licence1.business.gov.sg" target="_blank" rel="noopener">https://licence1.business.gov.sg</a> if you want to apply to make changes.
 </li>
 
 <li>
