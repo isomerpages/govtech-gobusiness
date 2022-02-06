@@ -42,6 +42,6 @@ National Environment Agency (NEA)
 
 ### Requirements
 
-<p><strong>Related licences to apply at External Agency</strong></p>
-<p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
+<p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
+<p><strong>Related licence(s)</strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=172" target="_blank" rel="noopener">Hazardous Substances (HS) Licence</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=174" target="_blank" rel="noopener">Hazardous Substances (HS) Transport Approval</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=175" target="_blank" rel="noopener">Toxic Industrial Waste (TIW) Collector's Licence</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=176" target="_blank" rel="noopener">Toxic Industrial Waste (TIW) Transport Approval</a></p>
 

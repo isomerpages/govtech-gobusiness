@@ -16,3 +16,7 @@ National Environment Agency (NEA)
 
 <p>To raise the overall standards and professionalism of the cleaning industry through better employment practices and productivity initiatives, together with a new accreditation requirement on progressive wages.</p>
 
+### Requirements
+
+<p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
+

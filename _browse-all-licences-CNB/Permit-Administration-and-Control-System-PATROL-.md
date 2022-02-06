@@ -17,11 +17,10 @@ Central Narcotics Bureau (CNB)
 <p>PATROL is to provide a One-Stop e-Service to allow Traders to perform all transactions pertaining to permit declarations and to align to Government's direction to move towards Electronic Services.</p>
 <h3>FAQ</h3>
 <ol>
-<li><strong>Can individual or foreign company apply for a CNB permit?</strong><br />i. Only local entity with UEN can register the company with CNB</li>
-<li><strong>Who can apply for a CNB permit?</strong><br />i. Only authorise staffs from the company and registered with CNB can access PATROL to apply</li>
-<li><strong>What is the validity of the permit?</strong><br />i. It is on a per consignment basis</li>
+<li><strong>Can individual or foreign company apply for a CNB permit?</strong><br />Only local entity with UEN can register the company with CNB.<br /><br /></li>
+<li><strong>Who can apply for a CNB permit?</strong><br />Only authorise staffs from the company and registered with CNB can access PATROL to apply.<br /><br /></li>
+<li><strong>What is the validity of the permit?</strong><br />It is on a per consignment basis.</li>
 </ol>
-
 
 **Additional Information**
 

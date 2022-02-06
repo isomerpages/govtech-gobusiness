@@ -51,25 +51,36 @@ Singapore Food Agency (SFA)
 <p><strong>Who can I contact for further details?<br /></strong>For general enquiries or enquiries regarding your application status, please submit your enquiry and GoBusiness Licensing application ID through SFA online feedback form at <a href="http://www.sfa.gov.sg/" target="_blank" rel="noopener">http://www.sfa.gov.sg</a>.<br />If you have not submitted your licence application, you may do so online via GoBusiness Licensing. You may also renew or cancel your licence via this platform.</p>
 </li>
 <li>
-<p><strong>Other frequently asked questions?</strong></p>
+<p><strong> I operate a pub/ discotheque and intend to have a drink counter selling alcoholic drinks. Do I need to apply for a licence?<br /></strong>Yes. You will need to apply for a food shop licence if you intend to operate a drink or snack counter in your premises.</p>
+</li>
+<li>
+<p><strong>I am a foreigner with a valid employment pass issued by MOM. Can I apply for the licence in my name?<br /></strong>No. You will have to form a company that is registered with the Accounting & Corporate Regulatory Authority (ACRA) (formerly Registry of Companies and Business (RCB)) and apply for the licence in the company's name.</p>
+</li>
+<li>
+<p><strong>Can I update, renew or terminate my food shop licence through GoBusiness Licensing?<br /></strong>Yes. You may update, renew and terminate your foodshop licence through GoBusiness Licensing by going to <a href="http://licence1.business.gov.sg/" target="_blank" rel="noopener">licence1.business.gov.sg</a>.</p>
+</li>
+<li>
+<p><strong>Where can I obtain information on the general design of a food retail outlet?<br /></strong>You may refer to the Licensing Requirements at <a href="https://www.sfa.gov.sg/">https://www.sfa.gov.sg</a></p>
+</li>
+<li>
+<p><strong>What is the consequence if I am unable to comply with some of the hygiene requirements?<br /></strong>If you are unable to comply with any of our hygiene requirements, you will not be issued with the licence.</p>
+</li>
+<li>
+<p><strong>What will be the consequences if I provide false information in my application for a licence?<br /></strong>Providing false information in your application is a serious offence. Your licence can be suspended, cancelled or revoked. Enforcement action can also be taken against you.</p>
+</li>
+<li>
+<p><strong>I have taken over an existing food stall but I am unable to contact the previous licensee to surrender/cancel his licence for the same premises. How do I apply for the licence in this instance?<br /></strong>You can still submit your application together with all the supporting documents to us. However, for such cases, we will need to write to the previous licensee to confirm whether he is still operating the business at the said premises. If the previous licensee indicates that he is no longer operating the said premises or did not response, then we can proceed to process your application. The processing time for such cases will take about 2 weeks.</p>
+</li>
+<li>
+<p><strong>I intend to set up a food premises that make food items (eg. buns, breads, nasi lemak, otah etc) for supply to other food shops and food stalls. Do I need to apply for a food shop licence?<br /></strong>You need not apply for a foodshop licence if your proposed food business does not involve the retail sale of food directly to the customer. However, you may need to obtain a food factory licence from the Food Production & Processing Department (FPPD), SFA, for your proposed business.</p>
+</li>
+<li>
+<p><strong>Do I need to apply for a food shop licence if I were to prepare and cook food from my home for sale to the public?<br /></strong>Please be informed that under the current regulations, it is an offence to sell home cooked food to the public.</p>
+</li>
+<li>
+<p><strong>What are the challenges of operating a F & B business?<br /></strong>Please refer to the <a href="https://spring.enterprisesg.gov.sg/Resources/Documents/Guidebook_Turning_Passion_into_Profits.pdf">"Turning Passion into Profit" guide</a> to understand the challenges faced by the F and B industry and managing your business.</p>
 </li>
 </ol>
-<div id="faqDiv_6">
-<div id="faqDiv_6_an" title="faq_answer">
-<ul>
-<li><strong>Q: I operate a pub/ discotheque and intend to have a drink counter selling alcoholic drinks. Do I need to apply for a licence?<br /></strong>A: Yes. You will need to apply for a food shop licence if you intend to operate a drink or snack counter in your premises.</li>
-<li><strong>Q: I am a foreigner with a valid employment pass issued by MOM. Can I apply for the licence in my name?<br /></strong>A: No. You will have to form a company that is registered with the Accounting & Corporate Regulatory Authority (ACRA) (formerly Registry of Companies and Business (RCB)) and apply for the licence in the company's name.</li>
-<li><strong>Q: Can I update, renew or terminate my food shop licence through GoBusiness Licensing?<br /></strong>A: Yes. You may update, renew and terminate your foodshop licence through GoBusiness Licensing by going to <a href="http://licence1.business.gov.sg/" target="_blank" rel="noopener">licence1.business.gov.sg</a>.</li>
-<li><strong>Q: Where can I obtain information on the general design of a food retail outlet?<br /></strong>A: You may refer to the Licensing Requirements at <a href="https://www.sfa.gov.sg/">https://www.sfa.gov.sg</a></li>
-<li><strong>Q: What is the consequence if I am unable to comply with some of the hygiene requirements?<br /></strong>A: If you are unable to comply with any of our hygiene requirements, you will not be issued with the licence.</li>
-<li><strong>Q: What will be the consequences if I provide false information in my application for a licence?<br /></strong>A: Providing false information in your application is a serious offence. Your licence can be suspended, cancelled or revoked. Enforcement action can also be taken against you.</li>
-<li><strong>Q: I have taken over an existing food stall but I am unable to contact the previous licensee to surrender/cancel his licence for the same premises. How do I apply for the licence in this instance?<br /></strong>A: You can still submit your application together with all the supporting documents to us. However, for such cases, we will need to write to the previous licensee to confirm whether he is still operating the business at the said premises. If the previous licensee indicates that he is no longer operating the said premises or did not response, then we can proceed to process your application. The processing time for such cases will take about 2 weeks.</li>
-<li><strong>Q: I intend to set up a food premises that make food items (eg. buns, breads, nasi lemak, otah etc) for supply to other food shops and food stalls. Do I need to apply for a food shop licence?<br /></strong>A: You need not apply for a foodshop licence if your proposed food business does not involve the retail sale of food directly to the customer. However, you may need to obtain a food factory licence from the Food Production & Processing Department (FPPD), SFA, for your proposed business.</li>
-<li><strong>Q: Do I need to apply for a food shop licence if I were to prepare and cook food from my home for sale to the public?<br /></strong>A: Please be informed that under the current regulations, it is an offence to sell home cooked food to the public.</li>
-<li><strong>Q: What are the challenges of operating a F & B business?<br /></strong>A: Please refer to the <a href="https://spring.enterprisesg.gov.sg/Resources/Documents/Guidebook_Turning_Passion_into_Profits.pdf">"Turning Passion into Profit" guide</a> to understand the challenges faced by the F and B industry and managing your business.</li>
-</ul>
-</div>
-</div>
 
 **Additional Information**
 

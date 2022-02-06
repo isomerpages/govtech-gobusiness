@@ -20,12 +20,6 @@ Infocomm Media Development Authority (IMDA)
 
 <p><strong>Fee</strong><br />Network fee: $100.00<br />Frequency fee: $16.05 (with GST)</p>
 
-### Documents Needed
-
-<ul>
- <li><strong>Supporting document to support the New Application</strong></li>
- </ul>
-
 ### Requirements
 
 Applicant must be ACRA registered company/business

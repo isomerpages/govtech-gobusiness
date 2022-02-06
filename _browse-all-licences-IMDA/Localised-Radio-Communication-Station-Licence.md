@@ -18,9 +18,3 @@ Infocomm Media Development Authority (IMDA)
 
 <p><strong>Fee</strong><br />Licence Fee: To be determined</p>
 
-### Documents Needed
-
-<ul>
- <li><strong>Supporting Documents</strong></li>
- </ul>
-

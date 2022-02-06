@@ -49,6 +49,5 @@ National Environment Agency (NEA)
 
 ### Requirements
 
-<p><strong>Related licences to apply at External Agency</strong></p>
-<p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
+<p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

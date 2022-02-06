@@ -23,9 +23,11 @@ Infocomm Media Development Authority (IMDA)
 ### Documents Needed
 
 <ul>
- <li><strong>Please provide the following: Purpose of proposed network and supporting documents; Alternate frequency(s) if desired frequency(s) are unavailable; Number of mobile or portable units in the network; and implementation plan (including start/end date)</strong></li>
- <li><strong>This attachment is for any supporting documents required to be submitted</strong></li>
- </ul>
+<li><strong>Purpose of proposed network and supporting documents</strong></li>
+<li><strong>Alternate frequency(s) if desired frequency(s) are unavailable</strong></li>
+<li><strong>Number of mobile or portable units in the network</strong></li>
+<li><strong>Implementation plan (including start/end date)</strong></li>
+</ul>
 
 ### Requirements
 
