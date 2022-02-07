@@ -23,7 +23,7 @@ Ministry of Law (MINLAW)
  <li><Strong>Who can I contact for further details?</Strong><br>
  You can get more information for Pawnbrokers on Minlaw website.<br>
  Please refer to weblink: <a href="http://www.mlaw.gov.sg/rop" target="_blank" rel="noopener">http://www.mlaw.gov.sg/rop</a>.</li>
-</ol>
+</ol></p>
 
 **Additional Information**
 
