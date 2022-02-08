@@ -12,7 +12,7 @@ Hotels Licensing Board (HLB)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=3" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For premises with 4 or more rooms to carry out the business of providing accommodation as a hotel.</p>
 <h3>FAQ</h3>
@@ -88,7 +88,7 @@ STB provides the Applicant with a platform to report any wrong-doings, unlawful 
 <a href="https://www.stb.gov.sg/content/stb/en/about-stb/corporate-governance.html" target="_blank" rel="noopener">https://www.stb.gov.sg/content/stb/en/about-stb/corporate-governance.html</a>.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
 The fees payable for the registration shall be:<br>
@@ -97,7 +97,7 @@ Hotel with more than 100 rooms and less than 300 rooms - $300 per annum<br>
 Hotel with 300 rooms or more - $400 per annum<br>
 and the licence is at $100 per annum</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>URA Grant of Written Permission</strong>
@@ -140,7 +140,7 @@ and the licence is at $100 per annum</p>
 <br>Maximum upload per application: 2 MB</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

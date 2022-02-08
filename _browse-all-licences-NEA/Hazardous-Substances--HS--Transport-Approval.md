@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=174" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Any existing HS licence holder who wishes to transport hazardous substances in quantities exceeding those specified in the Environmental Protection And Management (Hazardous Substances) Regulations.</p>
 <h3>FAQ</h3>
@@ -26,11 +26,11 @@ National Environment Agency (NEA)
 <li><strong>Where can I find more information on the control of hazardous substances (HS) by NEA?</strong><br />Please refer to <a href="https://www.nea.gov.sg/our-services/pollution-control/chemical-safety/hazardous-substances/management-of-hazardous-substances" target="_blank" rel="noopener">NEA's website.</a></li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Bulk packaging inspection certificates</strong><br />To upload inspection certificates of bulk packaging by approved 3rd party inspection bodies (e.g. mandatory periodic inspections, spark testing etc)<br /><br /></li>
@@ -38,7 +38,7 @@ National Environment Agency (NEA)
 <li><strong>Transportation Emergency Response Plan</strong><br />Details of Transportation Emergency Response Plan to deal with any accidental release of the hazardous substances on the road</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 <p><strong>Related licence(s)</strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=172" target="_blank" rel="noopener">Hazardous Substances (HS) Licence</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=173" target="_blank" rel="noopener">Hazardous Substances (HS) Permit</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=175" target="_blank" rel="noopener">Toxic Industrial Waste (TIW) Collector's Licence</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=176" target="_blank" rel="noopener">Toxic Industrial Waste (TIW) Transport Approval</a></p>

@@ -12,15 +12,15 @@ Infocomm Media Development Authority (IMDA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10057" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For establishing and setting up of a network using radio communication equipment utilising the multi-channel radio equipment.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br />Network fee: $100.00<br />Frequency fee: $16.05 (with GST)</p>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

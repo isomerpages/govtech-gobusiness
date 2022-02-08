@@ -12,7 +12,7 @@ Health Sciences Authority (HSA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For the retail of tobacco products</p>
 <h3>FAQ</h3>
@@ -78,12 +78,12 @@ The licensee (with exception of duty-free and specialist tobacconist businesses)
 i) The tobacco licence is non-transferable.<br>
 j) Licensees shall inform the Authority on any changes in the particulars pertaining to the licence not later than 3 days after changes have been effected.</li></ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
 New licence valid for 12 months - $400 per year</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>NRIC of Applicants</strong>

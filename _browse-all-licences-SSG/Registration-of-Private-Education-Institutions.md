@@ -12,17 +12,17 @@ SkillsFuture Singapore (SSG)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=35" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Private education institutions offering private education in Singapore must register with CPE under the Enhanced Registration Framework:</p>
  <p>For more information, please refer to the following website:<br /><a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/enhanced-registration-framework-(erf)" target="_blank" rel="noopener">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/enhanced-registration-framework-(erf)</a></p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong></p>
  <p>Click <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/enhanced-registration-framework-(erf)/registration-fees" target="_blank" rel="noopener">here</a> for more information.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>ACRA Printout or Society Registration Certificate</strong><br>
@@ -82,7 +82,7 @@ File format: jpg, xls, pdf, zip<br>
 Maximum upload per application: 2 MB</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Click <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/enhanced-registration-framework-(erf)/registration-requirements" target="_blank" rel="noopener">here</a> for more details.</p>
 

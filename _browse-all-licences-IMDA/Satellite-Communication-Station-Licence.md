@@ -12,15 +12,15 @@ Infocomm Media Development Authority (IMDA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=33" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For transmitting and/or receiving messages or data by means of satellite communications.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br />Licence Fee: To be determined</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>The attachment should contain a Earth Station System Block Diagram and Description.</strong></li>
@@ -30,7 +30,7 @@ Infocomm Media Development Authority (IMDA)
  <li><strong>This attachment is for any supporting documents required to be submitted.</strong></li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

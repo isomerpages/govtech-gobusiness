@@ -10,7 +10,7 @@ Urban Redevelopment Authority (URA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=40" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>If you want to change the use of a property (e.g. from a shop to a restaurant, or from a restaurant to a pub), you may need to apply for planning permission for Change of Use from URA.</p>
  <p>Before signing a tenancy or purchase agreement of the property, you should check if your intended use for that property can be allowed, and obtain Change of Use Approval if it is required.</p>

@@ -10,15 +10,15 @@ Infocomm Media Development Authority (IMDA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10066" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For the provision of a website/s with political or religious content.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Memorandum of Association / Constitution</strong></li>

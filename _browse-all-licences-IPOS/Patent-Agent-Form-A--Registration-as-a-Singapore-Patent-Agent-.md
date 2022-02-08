@@ -12,7 +12,7 @@ Intellectual Property Office of Singapore (IPOS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=270" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Application for Registration as a Singapore Patent Agent under rule 7(1) of the Patents (Patent Agents) Rules 2001.</p>
 <h3>FAQ</h3>
@@ -37,12 +37,12 @@ You may download the documents from IPOS website: <a href="http://www.ipos.gov.s
 <li><strong>Who can I contact for further details?</strong><br>
 You may email to <a href="mailto:ipos_pau@ipos.gov.sg">ipos_pau@ipos.gov.sg</a></li></ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
 New licence valid for 12 months - <strong>$400</strong> per year</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>University Degree Certificate and its transcript</strong><br />University Degree Certificate and its transcript/any other supporting documents for academic qualification (if applicable);

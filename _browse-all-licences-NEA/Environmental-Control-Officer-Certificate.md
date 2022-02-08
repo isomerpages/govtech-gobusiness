@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10079" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For the application of certificate of registration for:<br />a) Environmental Control Officer (Specified Construction Sites) [ECO(SCS)]<br />b) Environmental Control Officer (Specified Premises) [ECO(SP)]<br />c) Environmental Control Coordinator</p>
 <h3>FAQ</h3>
@@ -24,11 +24,11 @@ National Environment Agency (NEA)
 <li><strong>What should I do if my computer hangs while I am making payment?</strong><br />If your computer hangs before reaching the acknowledgement page, your payment is considered unsuccessful. You may verify that no deduction was made from your Bank Account through Internet Banking. Thereafter, please proceed to make payment again. You can contact NEA at <a href="mailto:NEA_VC_Licences@nea.gov.sg" target="_blank" rel="noopener">NEA_VC_Licences@nea.gov.sg</a> to confirm if your payment is successful.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees: $120</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Front and back copies of NRIC/Employment Pass/ S Pass / Work Permit</strong><br />Front and Back of identity card</li>

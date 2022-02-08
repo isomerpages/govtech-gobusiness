@@ -12,15 +12,15 @@ Infocomm Media Development Authority (IMDA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10076" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Application is for equipment suppliers to apply for Confirmation of Conformity (COFC) for telecommunication equipment under which no approval for sale is required (exempted equipment).</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>COFC Fee</strong><br />Self-Declaration: $100.00<br />Evaluated by IMDA: $350.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Product Brochure</strong></li>
@@ -32,7 +32,7 @@ Infocomm Media Development Authority (IMDA)
  <li><strong>Others</strong></li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

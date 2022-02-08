@@ -12,7 +12,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/33862e53-3d28-4ac2-a4cb-4168b2f5f591" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 Under the Guns, Explosives And Weapons Control Act, an Approval is required for a Company licensed to Conduct Blasting to Carry out a Blasting Project using explosives. 
 

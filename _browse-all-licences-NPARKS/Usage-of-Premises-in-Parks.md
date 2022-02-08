@@ -10,11 +10,11 @@ National Parks Board (NPARKS)
 
 {% include button.html text="Apply on NPARKS" src="https://www2.nparks.gov.sg/vbs/" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>To use any premises in the parks for an event, you need approval from NParks.</p>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Applicant must be ACRA registered company/ business</p>
 

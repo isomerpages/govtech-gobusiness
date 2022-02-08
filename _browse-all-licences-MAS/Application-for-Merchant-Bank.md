@@ -10,7 +10,7 @@ Monetary Authority of Singapore (MAS)
 
 {% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/regulation/Banking/Licensing-and-Authorisation-for-Banking-Business" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p><strong>Licensing and Authorisation for Banking Business</strong><br />Financial institutions (FIs) wishing to conduct banking business in Singapore must meet MAS' admission criteria and receive written authorisation from MAS to set up a wholesale bank or merchant bank in Singapore.</p>
  <p><strong>Admission Criteria</strong><br />MAS takes the following factors into consideration when assessing an FI's application to conduct banking business:</p>

@@ -12,7 +12,7 @@ Enterprise Singapore (ESG)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=39" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For dealing in, treating and storing of natural rubber.</p>
 <h3>FAQ</h3>

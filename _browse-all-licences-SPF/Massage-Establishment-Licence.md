@@ -12,7 +12,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=43" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Under the Massage Establishments (ME) Act, a ME licence is required if any premises is used or intended to be used for the receiption or treatment of persons seeking massage, unless otherwise exempted. Massage is defined as the act of rubbing, kneading, or manipulating the human body or any part of it, by any person (whether or not using any hand-held equipment), for the purpose of relaxing muscle tension, stimulating circulation, increasing suppleness or otherwise.</p>
 
@@ -76,7 +76,7 @@ Applicants will be required to pay any application fees payable for all resubmis
 
 </ol>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>ACRA Business Profile</strong><br />ACRA Business Profile with company details<br>
@@ -124,7 +124,7 @@ Maximum upload per application: 2 MB
 </li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Limited Liability Partnership</strong><br />Applicant must be having position:<br />* PARTNER cum MANAGER</p>
 <p><strong>Company</strong><br />Applicant must be having one of the following position:<br />* MANAGING DIRECTOR<br />* SECRETARY<br />* DIRECTOR<br />* CHIEF EXECUTIVE OFFICER</p>

@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=181" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>This licence is required for applicants intending to buy, purchase, keep, store or possess for use an ionising radiation irradiating apparatus.</p>
 <h3>FAQ</h3>
@@ -52,11 +52,11 @@ National Environment Agency (NEA)
 </li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees: $155 per year.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Irradiating Apparatus Information</strong><br />Technical specifications, brochures etc.<br /><br /></li>
@@ -65,7 +65,7 @@ National Environment Agency (NEA)
 <li><strong>Other Supporting Documents</strong><br />Other relevant supporting documents.</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 <p><strong>Related licence(s)</strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=183" target="_blank" rel="noopener">L5 - Licence to use ionising irradiating apparatus (other than sale)</a></p>

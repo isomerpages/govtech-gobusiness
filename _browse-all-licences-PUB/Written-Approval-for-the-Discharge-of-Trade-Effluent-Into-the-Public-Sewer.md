@@ -12,7 +12,7 @@ Public Utilities Board (PUB)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=4" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For discharge of trade effluent (any liquid, including particles of matter and other substances in suspension in the liquid, which is the outflow from any trade, business or manufacture or of any works of engineering or building construction) into the public sewer.</p>
 
@@ -91,7 +91,7 @@ Please note that the Written Approval may be revoked or suspended if you fail to
 
 </ol>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Attach Supporting Documents</strong><br>
@@ -104,7 +104,7 @@ Maximum upload per application: 2 MB
 
 
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Applicant must be ACRA registered company/business</p>
 

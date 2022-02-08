@@ -10,7 +10,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=265" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For the application of Road Closure Permit, Event Organisers can request for a road and/or lane closure to conduct an event on the road. All requests for road closure will be assessed on a case-by-case basis.</p>
 
@@ -150,11 +150,11 @@ Email : tp_roadclosurepermit@spf.gov.sg
 </ol>
 
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Contact Details</strong><br>Member of public may contact Traffic Police at :<br />Tel : +65 6547 0000<br />Email : tp_roadclosurepermit@spf.gov.sg</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Event Data Sheet</strong></li>

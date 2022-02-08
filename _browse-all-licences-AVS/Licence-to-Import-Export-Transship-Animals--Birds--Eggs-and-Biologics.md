@@ -10,7 +10,7 @@ Animal & Veterinary Service (AVS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301030000131" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is required if you intend to import/export/tranship animals, birds or their products into/out from Singapore. In the case of veterinary biologics, a licence is required for their import/transshipment. Export of veterinary biologics does not require a licence.</p>
  <h3>FAQs</h3>
@@ -41,11 +41,11 @@ Animal & Veterinary Service (AVS)
  <li><strong>Supporting documents required for Licence to Import/Transship Antibodies, DNA/RNA?<br /></strong>1) Product Specifications<br />2) Certificate/Health Certificate<br />3) Letter of Undertaking<br />4) Others</li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee<br /></strong><span style="text-decoration: underline;">Commercial Birds<br /></span>Licence fees: $62.00<br />Express fees: $124.00<br /><span style="text-decoration: underline;">Biologics / Egg / Product<br /></span>Licence fees: $22.00    <br />Express fees: $44.00<br /><span style="text-decoration: underline;">Commercial (Non-Bird) Research & Development<br /></span>Licence fees: $87.00<br />Express fees: $174.00<br /><span style="text-decoration: underline;">Personal<br /></span>Licence fees: $50.00<br />Express fees: $100.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Valid rabies vaccination record/certificate, including details of animal and microchip number (applicable only for Import of Dogs & Cats from Category B)</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
@@ -68,7 +68,7 @@ Animal & Veterinary Service (AVS)
  <li><strong>Others</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

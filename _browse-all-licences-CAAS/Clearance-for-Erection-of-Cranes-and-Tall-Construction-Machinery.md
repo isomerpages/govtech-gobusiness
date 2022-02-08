@@ -10,7 +10,7 @@ Civil Aviation Authority of Singapore (CAAS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=289" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Development of buildings, use of tall construction machineries such as cranes can potentially affect safety of air navigation either due to the close proximity between the structure and an overflying aircraft, or the structure may cause an obstruction along the flight path. As such, prior clearance needs to be sought from CAAS before interests parties carry out the erection of cranes and tall construction machineries.</p>
  <h3>FAQ</h3>
@@ -21,12 +21,12 @@ Civil Aviation Authority of Singapore (CAAS)
  </li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
  N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Building Elevation Plan</strong><br>Details of Building Elevation Plan<br>

@@ -12,7 +12,7 @@ Animal & Veterinary Service (AVS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1705261400000006" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>A veterinary licence from AVS is required to practise veterinary medicine in Singapore.</p>
  <p>American Veterinary Medical Association (AVMA) or the Australasian Veterinary Boards Council (AVBC) accredited universities are generally acceptable for licensing in Singapore as well as RCVS-accredited veterinary schools in the UK. Veterinary degrees from the United Kingdom, Australia, New Zealand and veterinary degrees from US veterinary schools (AVMA-accredited) are generally recognisable. Membership to the Royal College of Veterinary Surgeons (MRCVS) obtained by virtue of EU Directive 2005/36/EC is not recognised.</p>
@@ -39,11 +39,11 @@ Animal & Veterinary Service (AVS)
  <li><strong>Where can I get the FAQ for Veterinary Surgeon?</strong><br />You can get the FAQ on this link: AVS FAQ website at <a href="https://www.avs.gov.sg/faq" target="_blank" rel="noopener">https://www.avs.gov.sg/faq</a></li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee:</strong><br />Licence Fee:$80.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Passport</strong><br />Scanned copy of applicant's Passport<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
@@ -58,7 +58,7 @@ Animal & Veterinary Service (AVS)
  <li><strong>Others</strong><br />Scanned copy of other Miscellaneous documents<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 N.A.
 

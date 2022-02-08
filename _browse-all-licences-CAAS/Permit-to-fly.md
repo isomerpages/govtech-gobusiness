@@ -10,7 +10,7 @@ Civil Aviation Authority of Singapore (CAAS)
 
 {% include button.html text="Apply on CAAS" src="https://www.caas.gov.sg/operations-safety/aircraft/permit-to-fly" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>A permit to fly may be issued for the purpose of:</p>
  <ul>

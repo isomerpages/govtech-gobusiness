@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=57" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For collecting general waste/refuse from private residential, industrial and commercial premises.</p>
 <h3>FAQ</h3>
@@ -28,18 +28,18 @@ National Environment Agency (NEA)
 <li><strong>How long does it take to complete the online application?</strong><br />It may take you 30 minutes to complete the online application.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees: $195 per year</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li>Vehicle Log Card(s)</li>
 <li>Photographs of Equipment and Vehicles</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Related licences to apply at External Agency</strong></p>
 <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

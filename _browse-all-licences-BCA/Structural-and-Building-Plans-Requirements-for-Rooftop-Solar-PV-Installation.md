@@ -10,7 +10,7 @@ Building and Construction Authority (BCA)
 
 {% include button.html text="Apply on BCA" src="https://corenet.gov.sg/general/e-info.aspx" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Your Qualified Person (QP) has to apply for approval of structural and building plans to BCA through CORENET if the proposed works involve any of the following:</p>
  <ol style="list-style-type: lower-alpha;">

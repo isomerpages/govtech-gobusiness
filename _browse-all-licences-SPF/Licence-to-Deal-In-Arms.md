@@ -12,11 +12,11 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=246" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>A licence for company to deal in arms. "Deal in" includes repair, sell, keep or expose for sale.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
 Fees: $550 for 2 years or part thereof</p>
@@ -24,7 +24,7 @@ Fees: $550 for 2 years or part thereof</p>
 <p><strong>Contact details</strong><br>Police Licensing and Regulatory Department, Tel No. 6835 0000 or email spf_licensing_feedback@spf.gov.sg</p>
 
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <p>Supporting documents to be submitted include, but not limited to:</p>
 <ol>
@@ -32,7 +32,7 @@ Fees: $550 for 2 years or part thereof</p>
 <li>Details of how transactions will be carried out</li>
 </ol>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>The applicant must be;<br>
 a) a Singaporean or Permanent Resident of Singapore<br>

@@ -10,7 +10,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=47" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Under the Liquor Control (Supply and Consumption) Act 2015, any supply of liquor in Singapore will require a liquor licence issued by the Licensing Officer. "Liquor" is defined as a beverage and or substance, containing more than 0.5% ethanol by mass or volume.</p>
 
@@ -62,7 +62,7 @@ Applicant must be having one of the following position:<br>
 </ol>
 
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Hawker Licence</strong><br />Only required for Class 2B Licence applications.<br>
@@ -87,7 +87,7 @@ Maximum upload per application: 2 MB
 
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Limited Liability Partnership</strong><br />Applicant must be having position:<br />* PARTNER</p>
 <p><strong>Company</strong><br />Applicant must be having one of the following position:<br />* MANAGING DIRECTOR<br />* SECRETARY<br />* DIRECTOR<br />* CHIEF EXECUTIVE OFFICER</p>

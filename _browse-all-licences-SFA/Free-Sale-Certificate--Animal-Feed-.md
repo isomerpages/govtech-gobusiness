@@ -12,7 +12,7 @@ Singapore Food Agency (SFA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000327" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Free Sale Certificate for Animal Feed may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This certificate allows exporters to get endorsement for this animal feed products intended for export.</p>
  <h3>FAQs</h3>
@@ -20,11 +20,11 @@ Singapore Food Agency (SFA)
  <li><strong>Where can I get the FAQ for Free Sale Certificate for Animal Feed?</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee<br /></strong>Licence Fee: $21.00<br />Express Fee (Category Based): $21.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Product Details</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File format: BMP,DOCX,GIF,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
@@ -33,7 +33,7 @@ Singapore Food Agency (SFA)
  <li><strong>Others</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File format: BMP,DOCX,GIF,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

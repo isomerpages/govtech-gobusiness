@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=176" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Approval to transport toxic industrial waste in an amount exceeding quantities prescribed in the Environmental Public Health (Toxic Industrial Waste) Regulations</p>
 <h3>FAQ</h3>
@@ -40,11 +40,11 @@ National Environment Agency (NEA)
 <li><strong>Can a holder of a General Waste Collector's(GWC) Licence be allowed to transport toxic industrial waste for Generator(s)?</strong><br />Only generators holding Landfill Approval issued by PCD are allowed to engage a GWC for transportation of compliant/treated toxic industrial waste that are rendered harmless and safe for direct landfilling.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Declaration Form</strong><br />Download the <a href="http://www.nea.gov.sg/docs/default-source/anti-pollution-radiation-protection/chemical-pollution/application-form-for-ta-under-reg-24(1)-8-2-11.pdf" target="_blank" rel="noopener">declaration form</a> and upload the completed form detailing the safety requirements and emergency action plans<br /><br /></li>
@@ -54,7 +54,7 @@ National Environment Agency (NEA)
 <li><strong>Hazmat Transport Driver Permit (HTDP)</strong><br />To submit driver's HTDP for transporting TIW</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a target="" rel="">Registration for Companies / Business</a></p>
 <p><strong>Related licence(s)<br /></strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=172" target="_blank" rel="noopener">Hazardous Substances (HS) Licence</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=173" target="_blank" rel="noopener">Hazardous Substances (HS) Permit</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=174" target="_blank" rel="noopener">Hazardous Substances (HS) Transport Approval</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=175" target="_blank" rel="noopener">Toxic Industrial Waste (TIW) Collector's Licence</a></p>

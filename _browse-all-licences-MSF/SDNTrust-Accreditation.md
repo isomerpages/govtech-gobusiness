@@ -12,7 +12,7 @@ Ministry of Social and Family Development (MSF)
 
 {% include button.html text="Apply on MSF" src="https://www.sdn.sg/fordatingindustry/Pages/SDNTrustAccreditationFramework.aspx" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For dating agencies providing dating services.</p>
 

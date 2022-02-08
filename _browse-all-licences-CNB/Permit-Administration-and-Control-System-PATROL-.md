@@ -12,7 +12,7 @@ Central Narcotics Bureau (CNB)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=271" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>PATROL is to provide a One-Stop e-Service to allow Traders to perform all transactions pertaining to permit declarations and to align to Government's direction to move towards Electronic Services.</p>
 <h3>FAQ</h3>
@@ -22,11 +22,11 @@ Central Narcotics Bureau (CNB)
 <li><strong>What is the validity of the permit?</strong><br />It is on a per consignment basis.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Invoice</strong></li>
@@ -34,7 +34,7 @@ Central Narcotics Bureau (CNB)
 <li><strong>Licence Document</strong> <br />This document is mandatory if you select "Licence from Importing Country/Region ?" is Yes.</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Related licences to apply at External Agency</strong></p>
 <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

@@ -12,7 +12,7 @@ Ministry of Law (MINLAW)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10055" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For entities which lend money to borrowers for specific purposes.</p>
 <H3>FAQ</H3>
@@ -23,12 +23,12 @@ Ministry of Law (MINLAW)
 You may refer to our website through the following weblink: <a href="https://rom.mlaw.gov.sg/information-for-moneylenders/" target="_blank" rel="noopener">https://rom.mlaw.gov.sg/information-for-moneylenders/</a>.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
  To be determined upon approval.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>ACRA Instant Information Service / ACRA business profile</strong><br>
@@ -42,7 +42,7 @@ You may refer to our website through the following weblink: <a href="https://rom
  Maximum upload per application: 2 MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Applicant must be ACRA-registered business entity.</p>
 

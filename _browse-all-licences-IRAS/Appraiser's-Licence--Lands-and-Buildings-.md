@@ -12,7 +12,7 @@ Inland Revenue Authority of Singapore (IRAS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=230" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>This application allows you to apply for new licence to appraise lands and buildings in Singapore.</p>
 <h3>FAQ</h3>
@@ -39,12 +39,12 @@ a) Applicant must hold a degree in Real Estate from NUS or its equivalent and ha
 <li><strong>Where can I search for a list of valid licensed appraisers?</strong><br />Yes. Please click <a href="https://licence1.business.gov.sg/feportal/web/frontier/appraisers-enquiry-search" target="_blank" rel="noopener">here</a>.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br />
  The Appraiser's Licence for Lands and Buildings costs S$125 and is valid till and will expire on 31 Dec of each year.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Copy of NRIC / FIN (front and back)</strong><br>
@@ -69,7 +69,7 @@ a) Applicant must hold a degree in Real Estate from NUS or its equivalent and ha
  Maximum upload per application: 2 MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <ul>
  <li>Applicant must hold a degree in Real Estate from NUS or its equivalent and have at least 2 years of relevant practical experience under the supervision of a licensed appraiser.</li>

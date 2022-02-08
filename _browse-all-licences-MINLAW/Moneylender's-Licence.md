@@ -12,7 +12,7 @@ Ministry of Law (MINLAW)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=18" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p><strong>Update:</strong><br>
 The Registry of Moneylenders has temporarily suspended the grant of any new moneylending licences. For more details, please refer to the webpage: <a href="https://rom.mlaw.gov.sg/information-for-moneylenders" target="_blank" rel="noopener">https://rom.mlaw.gov.sg/information-for-moneylenders</a>.</p>
@@ -28,14 +28,14 @@ The Registry of Moneylenders has temporarily suspended the grant of any new mone
  You may refer to the webpage at <a href="https://rom.mlaw.gov.sg/information-for-moneylenders/" target="_blank" rel="noopener">https://rom.mlaw.gov.sg/information-for-moneylenders/</a>for more information.</li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong></p>
  <p>Application Fee: $600<br>
  Licence Fee: $1500<br>
  Security Deposit: $20000</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Documentary Evidence of Funds</strong><br>

@@ -10,7 +10,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on SPF" src="https://www.police.gov.sg/Advisories/Donation-Draw-and-Lucky-Draw" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For conducting donation/lucky draw.</p>
 

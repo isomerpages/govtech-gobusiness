@@ -12,7 +12,7 @@ Animal & Veterinary Service (AVS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000158" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Licence for Pet Shop is issued by Animal & Veterinary Service to use a premise to keep or display pets for sale.</p>
  <h3>FAQs</h3>
@@ -20,11 +20,11 @@ Animal & Veterinary Service (AVS)
  <li><strong>Where can I get the FAQ for Licence for Pet Shop?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.avs.gov.sg/faq" target="_blank" rel="noopener">https://www.avs.gov.sg/faq</a></li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee:</strong><br>Admin Fee: $94.50<br>Licence Fee:$126.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>NRIC</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
@@ -35,7 +35,7 @@ Animal & Veterinary Service (AVS)
  <li><strong>Others</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

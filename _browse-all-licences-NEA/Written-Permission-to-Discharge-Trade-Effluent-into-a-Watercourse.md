@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on NEA" src="https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For factories to apply for a written permission to discharge trade effluent into a watercourse.</p>
 

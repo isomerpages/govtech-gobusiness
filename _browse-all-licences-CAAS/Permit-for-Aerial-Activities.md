@@ -10,7 +10,7 @@ Civil Aviation Authority of Singapore (CAAS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=287" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Some aerial activities can potentially pose a hazard to air navigation, either due to the close proximity between an object in the air and an overflying aircraft, or an object may cause an obstruction along the flight path. As such, prior clearance needs to be sought from CAAS before interested parties carry out such activities. By accessing this page, applicants would be able to apply for the following aerial activities:</p>
  <ul>
@@ -31,12 +31,12 @@ Civil Aviation Authority of Singapore (CAAS)
  It is an offence to conduct an aerial activity without obtaining the required permit. Anyone convicted of such an offence may be fined up to $20,000. Repeat offenders may be fined up to $40,000, and/or imprisoned for up to 15 months.</li>
  </ul>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
  N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Any other supporting documents</strong><br>Any additional details of activity to be conducted<br>

@@ -10,15 +10,15 @@ Infocomm Media Development Authority (IMDA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=13" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For publishing or printing a local periodical; selling or distributing a Malaysian periodical; and selling or distributing an offshore newspaper (300 copies or more).</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Bank Guarantee and Special Conditions</strong></li>

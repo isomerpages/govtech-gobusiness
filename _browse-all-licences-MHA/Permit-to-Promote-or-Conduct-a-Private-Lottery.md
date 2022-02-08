@@ -12,7 +12,7 @@ Ministry of Home Affairs (MHA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=279" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Under the <a href="https://sso.agc.gov.sg/Act/PLA2011" target="_blank" rel="noopener">Private Lotteries Act</a>, a Private Lottery Permit is required for the promotion or conduct of any private lottery, which includes fruit machines, lucky draw and tombola.</p>
 <h3>FAQ</h3>
@@ -20,12 +20,12 @@ Ministry of Home Affairs (MHA)
 <li><strong>For more information and FAQs, please visit <a href="http://www.mha.gov.sg/private-lotteries" target="_blank" rel="noopener">http://www.mha.gov.sg/private-lotteries</a></strong></li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Operate Fruit Machines</strong><br />Licence Fees: $195</p>
 <p><strong>Conduct Tombola or Lucky Draw</strong><br />Licence Fees: $33</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Authorisation Letter to Apply for A Private Lottery Permit</strong> <br />An authorisation letter endorsed by the President or Chairperson of the Society to apply for a private lottery permit.</li>
@@ -42,7 +42,7 @@ Ministry of Home Affairs (MHA)
 <li><strong>Other Documents</strong><br />To upload other related supporting document if any</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Related licences to apply at External Agency</strong></p>
 <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

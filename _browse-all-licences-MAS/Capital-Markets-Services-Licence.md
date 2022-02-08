@@ -10,7 +10,7 @@ Monetary Authority of Singapore (MAS)
 
 {% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Funds-Management.aspx" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Capital Markets Intermediaries are licensed under section 82 of the Securities and Futures Act (Cap. 289) to carry out any or all of the regulated activities specified in the Second Schedule to the Securities and Futures Act. The regulated activities are:</p>
  <p>(a) dealing in securities;</p>

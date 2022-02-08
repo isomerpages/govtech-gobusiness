@@ -12,15 +12,15 @@ Infocomm Media Development Authority (IMDA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=29" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For leasing telecommunication network elements from any Facilities-Based Operator (FBO) licensed by the Info-communications Media Development Authority(IMDA) so as to provide their own telecommunication services or to resell the telecommunication services of FBOs or Services-Based Operators (SBOs) to third parties.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br />Licence Fee: To be determined</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Description of each service (Including scope and type)</strong></li>
@@ -28,7 +28,7 @@ Infocomm Media Development Authority (IMDA)
  <li><strong>System/Network Configuration Diagram</strong></li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

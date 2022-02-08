@@ -12,7 +12,7 @@ Singapore Food Agency (SFA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000333" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>In Singapore, all food storage warehouse must be licensed by the Singapore Food Agency before they are permitted to carry out any storage for wholesale distribution.</p>
  <h3>FAQs</h3>
@@ -20,15 +20,15 @@ Singapore Food Agency (SFA)
  <li><strong>Where can I get the FAQ for Registration for Food Storage Warehouse?</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 N.A.
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 N.A.
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

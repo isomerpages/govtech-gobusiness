@@ -12,7 +12,7 @@ Energy Market Authority (EMA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=282" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Required for trading in wholesale electricity market through electricity generated or load reduction</p>
 <p><u>Wholesaler Generation</u></p>
@@ -46,12 +46,12 @@ will have to apply for an Electricity Wholesaler Licence unless he already holds
 Besides applying for the above electricity licence(s), he will also need to register with the Energy Market Company (EMC) under the Market Rules.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p>The annual licence fee is payable each April for the Financial Year starting 1 April. The initial licence fee payable upon issuance of the licence is pro-rated based on the number of days remaining in the current Financial Year.</p>
 <p>You may contact EMA directly if you require further details on the fees for each licence class.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Audited statements, balance sheets, cash flow statements and credit statement</strong><br />Audited past profit and loss statements, balance sheets and cash flow statements of the Applicant or the significant shareholders for the last 2 full financial years or since incorporation if less than 2 years and credit statement or credit rating, including any history of bankruptcy or financial distress
@@ -77,7 +77,7 @@ Besides applying for the above electricity licence(s), he will also need to regi
 <br>Maximum upload per application: 10 MB</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

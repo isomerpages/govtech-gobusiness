@@ -10,7 +10,7 @@ Land Transport Authority (LTA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=103" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>A Bus Driver's Vocational Licence (BDVL) is needed before a person can drive a bus and a Bus Attendant's Vocational Licence (BAVL) is needed before a person can be a bus attendant on a school bus.</p>
  <p>Vocational licences granted by the LTA ensure that drivers are properly trained. They also bring an improved professional image to the different professions.</p>
@@ -120,11 +120,11 @@ Land Transport Authority (LTA)
 
 
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee<br /></strong>A non-refundable application fee of $40 is payable upon submission of all documents.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>NRIC / Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation and Company Name - Front and Back</strong><br>

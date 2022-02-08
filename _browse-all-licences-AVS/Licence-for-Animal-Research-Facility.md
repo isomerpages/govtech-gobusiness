@@ -12,7 +12,7 @@ Animal & Veterinary Service (AVS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1706211300000021" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Research facilities that intends to use animals for scientific purposes to apply for and obtain a licence from AVS before commencement of work on animals.</p>
  <h3>FAQs</h3>
@@ -22,11 +22,11 @@ Animal & Veterinary Service (AVS)
  <li><strong>Where can I get the FAQ for Animal Research Facility?</strong><br />You can get the FAQ on this link: AVS FAQ website at <a href="https://www.avs.gov.sg/faq" target="_blank" rel="noopener">https://www.avs.gov.sg/faq</a></li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee:</strong><br>Application Fee: $462<br>Licence Fee:$300</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Floor plan/layout of facility</strong><br />Layout of the area used for keeping and use of animals<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
@@ -37,7 +37,7 @@ Animal & Veterinary Service (AVS)
  <li><strong>Others</strong><br />Scanned copy of other miscellaneous documents<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

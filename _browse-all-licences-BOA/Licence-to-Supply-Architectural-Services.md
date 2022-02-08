@@ -10,7 +10,7 @@ Board of Architects (BOA)
 
 {% include button.html text="Apply on BOA" src="https://www.boa.gov.sg/register/application-forms/" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For providing architectural services that require submission of plans and certificates to authorities regulating buildings.</p>
  <h3>FAQ</h3>

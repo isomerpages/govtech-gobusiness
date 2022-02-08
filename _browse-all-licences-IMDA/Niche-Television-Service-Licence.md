@@ -12,15 +12,15 @@ Infocomm Media Development Authority (IMDA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10065" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Niche Television Service Licence is for service providers targeting specific niche market segments.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br />Licence Fee: To be determined</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Business Profile Report</strong></li>
@@ -28,7 +28,7 @@ Infocomm Media Development Authority (IMDA)
  <li><strong>CV of Key Management Personnel</strong></li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

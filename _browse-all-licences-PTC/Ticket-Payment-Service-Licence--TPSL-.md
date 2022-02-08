@@ -12,7 +12,7 @@ Public Transport Council (PTC)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=267" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For the provision of the ticket payment services in the transit area</p>
  <H3>FAQ</H3>
@@ -25,12 +25,12 @@ Public Transport Council (PTC)
  For general licensing enquiries, please contact the Public Transport Council at Tel: (65) 6354 9020. For further assistance, please email us at <a href="mailto:ptc_office@ptc.gov.sg">ptc_office@ptc.gov.sg</a>.</li>
  </ul>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
  This is prescribed in the PTC Ticket Payment Service Regulations.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Proposal for licence</strong></li>
@@ -38,7 +38,7 @@ Public Transport Council (PTC)
  <p><Strong>File format</Strong>: doc, docx, pdf, xls, xlsx<br>
  <Strong>Maximum upload per application</Strong>: 10 MB</ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Applicant must be ACRA-registered business entity.</p>
 

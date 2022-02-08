@@ -12,7 +12,7 @@ Animal & Veterinary Service (AVS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1708181600000042" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>A veterinary centre licence from AVS is required to operate and maintain a premise as a veterinary clinic or hospital.</p>
  <p>It is the licensee's responsibility to: ? adhere to the vet centre licensing conditions, ? keep informed of and to observe all relevant statutory requirements, and ? ensure that the veterinary surgeons under his employ are licensed by AVS and comply with the conditions of licensing or any directives that may be issued by the Director-General from time to time.</p>
@@ -25,11 +25,11 @@ Animal & Veterinary Service (AVS)
  <li><strong>Who could be the Emergency Contact Person?</strong><br />The emergency contact person should be familiar with the clinic operations, preferably the Veterinary Manager.</li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee:</strong><br />Licence Fee:$350.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Layout plan</strong><br />Scanned copy of clinic approved floor plan<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
@@ -40,7 +40,7 @@ Animal & Veterinary Service (AVS)
  <li><strong>Others</strong><br />Scanned copy of other Miscellaneous documents<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

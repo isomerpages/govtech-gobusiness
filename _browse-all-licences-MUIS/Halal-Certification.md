@@ -10,7 +10,7 @@ Majlis Ugama Islam Singapura (MUIS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=239" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>This application allows you to make a new Halal certification application for your business.</p>
 <h3>FAQ</h3>
@@ -23,11 +23,11 @@ Majlis Ugama Islam Singapura (MUIS)
 <li><strong>Who can I contact for further details?</strong> <br />For general Halal certification enquiries, please contact us at: <br />i. Tel - (65) 6011 0037<br />ii. Email - info@muis.gov.sg</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Please refer to this <a href="https://www.muis.gov.sg/Halal/Halal-Certification/Application-Fees" target="_blank" rel="noopener">list of fees schedule</a>.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Halal Questionnaire</strong><br />Please click here to download the Halal Questionnaire template. Halal Questionnaire is applicable to Medium - Low or Medium - High risk ingredients (raw materials / processing aides / additives).<br />File format: pdf<br />Maximum upload per application: 2MB</li>
@@ -95,7 +95,7 @@ Majlis Ugama Islam Singapura (MUIS)
 <li><strong>Other document<br /></strong>File format: pdf,xls,xlsx<br />Maximum upload per application: 2MB<strong><br /></strong></li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Related licences to apply at External Agency</strong><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305310000330">Licence to Operate a Coldstore</a><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000332">Licence to Operate Slaughter-house</a><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000331">Licence to Operate a Food Processing Establishment</a></p>
 

@@ -12,7 +12,7 @@ Majlis Ugama Islam Singapura (MUIS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=235" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For religious teacher/asatizah conducting religious classes or Quranic classes.</p>
 <h3>FAQ</h3>
@@ -29,12 +29,12 @@ Majlis Ugama Islam Singapura (MUIS)
 <li><strong>How long is the application process?</strong><br />Asatizah Recognition Board (ARB) will assess every complete application. This may take up to 2 months before the outcome of the application is conveyed to the applicant.<br />Applicants may be called for an interview by ARB where necessary to complete the assessment process.<br />Applicants who have been successfully registered will receive an ARS Certificate. Other outcomes of assessment including a provisional recognition will be communicated to the applicant officially.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br/>
 Kindly take note that the $10.00 application fee is waived until further notice.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul><li><strong>NRIC/PASSPORT/EMPLOYMENT PASS/WORK PERMIT</strong> <br />NRIC<br />File format: jpg, png, pdf, doc, docx<br />Maximum upload per application: 2MB</li><li><strong>Education Transcripts and Certificates</strong> <br />Please scan the documents. Documents taken as photos will not be accepted.<br />File format: pdf<br />Maximum upload per application: 2MB</li><li><strong>Passport-sized Photo </strong><br />1. Taken within the last 3 months <br />2. Clear and in focus, 35mm wide by 45mm high, without any borders <br />3. In colour taken against a plain white background without shadows <br />4. Avoid white headgear and plain white clothing (headgear worn in accordance with religious or racial customs is acceptable but must not hide any facial features) <br />5. Full face with the upper shoulders visible, facing forward with eyes open <br />6. Hair must not cover the eyebrows or the eyes <br />7. Even exposure (must not be taken under direct lighting) <br />8. Spectacle frames must not cover part of the eyes <br />9. Spectacle lenses must not reflect or glare <br />10. You must look at the camera with a neutral expression and with mouth closed.<br />File format: jpg<br />Maximum upload per application: 2MB</li><li><strong>Testimonial, Education Transcripts and Certificates</strong> <br />Please scan the documents. Documents taken as photos will not be accepted.<br />File format: pdf<br />Maximum upload per application: 2MB</li></ul>
 
@@ -42,7 +42,7 @@ Kindly take note that the $10.00 application fee is waived until further notice.
 
 
 
-### Requirements
+<H3>Requirements</H3>
 
 N.A.
 

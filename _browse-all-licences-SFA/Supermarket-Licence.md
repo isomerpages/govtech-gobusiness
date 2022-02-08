@@ -10,7 +10,7 @@ Singapore Food Agency (SFA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For the operation of a supermarket with the sale/preparation of raw food. You will need to apply for a Supermarket Licence if you intend to operate a supermarket with the sale/preparation of raw food. It is a requirement under the Environmental Public Health Act. The purpose of licensing is to ensure cleanliness and food safety in supermarkets and to prevent food-borne diseases.<br />You may refer below on the steps for application of Supermarket Licence.</p>
 <p><strong>Step 1: Submit complete application in GoBusiness</strong></p>
@@ -60,11 +60,11 @@ Singapore Food Agency (SFA)
 <li><strong>Do I need to apply for a food shop licence if I were to prepare and cook food from my home for sale to the public?<br /></strong>Please be informed that under the current regulations, it is an offence to sell home cooked food to the public.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br />For supermarket with area less than 200 square metres: $250.00<br />For supermarket with area more than 200 square metres: $500.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Planning Permission/Change of Use approval</strong><br />Approval from URA/HDB for the use of the premises<br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
@@ -80,7 +80,7 @@ Singapore Food Agency (SFA)
  <li><strong>Others</strong><br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 5MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

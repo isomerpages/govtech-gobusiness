@@ -10,7 +10,7 @@ Urban Redevelopment Authority (URA)
 
 {% include button.html text="Apply on URA" src="https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>You will need approval from Urban Redevelopment Authority if you wish to install business signs on your conserved building.</p>
  <h3>FAQ</h3>

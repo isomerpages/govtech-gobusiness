@@ -10,7 +10,7 @@ Urban Redevelopment Authority (URA)
 
 {% include button.html text="Apply on URA" src="https://www.corenet-ess.gov.sg/ess/" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Your Qualified Person has to apply to URA for planning permission through CORENET if your application falls within any of the following scenarios:</p>
  <ol>

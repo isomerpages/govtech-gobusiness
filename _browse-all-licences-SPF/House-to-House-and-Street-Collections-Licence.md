@@ -12,7 +12,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=217" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>A House to House and Street Collections licence(HHSC) is required if one promotes a collection by way of appealing to the public, made by means of visits from house to house or of soliciting in streets or other places or by both such means, for money or other property</p>
 
@@ -200,7 +200,7 @@ A police report is only required if the donation card is suspected to be stolen.
 
 
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Memorandum of Agreement (MOA)</strong><br>
@@ -221,7 +221,7 @@ Maximum upload per application: 2 MB
 </li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>The applicant must represent a registered business, company, society or organisation that is promoting the collection.</p>
 <p>To be granted a House to House and Street Collections licence, the application must fulfil the following criteria:</p>

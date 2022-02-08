@@ -12,7 +12,7 @@ Ministry of Culture, Community and Youth (MCCY)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=232" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Any person who wishes to conduct any fund-raising appeal for foreign charitable purposes, must apply for a permit from the Office of the Commissioner of Charities.</p>
  <p>To apply for the permit, the fund-raiser (i.e. an incorporated or unincorporated organisation in Singapore must submit the application at least 30 days before the commencement of the fundraising appeal. You will be asked to submit the following documents during application:</p>
@@ -87,12 +87,12 @@ The Statement of Accounts (SOA) of the fund-raising appeal must be audited by a 
 
 
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
  N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Proof that the beneficiary is a Bona Fide organisation in its Country/Region</strong><br>
@@ -104,7 +104,7 @@ Maximum upload per application: 2 MB</li>
 Maximum upload per application: 2 MB</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>To apply for the permit, the fund-raiser (i.e. an incorporated or unincorporated organisation in Singapore must submit the application at least 30 days before the commencement of the fundraising appeal.</p>
 

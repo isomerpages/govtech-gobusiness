@@ -12,7 +12,7 @@ Energy Market Authority (EMA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=284" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Required for electricity generation (>-10 MW) and for trading in wholesale electricity market</p>
 <p>This licence is required for applicants intending to generate electricity from generating unit(s) and to trade in wholesale electricity market operated by the Market Company.</p>
@@ -32,11 +32,11 @@ The Applicant is required to first consult the Transmission Licensee for an elec
 If the Applicant intends to use gas as a fuel for the generating units , the Applicant is also required to consult the Gas Transporter Licensee for a gas connection scheme and the Gas Transporter Licensee will advise the Applicant on the proposed gas connection scheme accordingly. The Applicant is required to submit evidence of the acceptance of the Gas Transporter Licensee's proposed gas connection scheme as part of this application.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p>The annual licence fee is payable each April for the Financial Year starting 1 April. The initial licence fee payable upon issuance of the licence is pro-rated based on the number of days remaining in the current Financial Year.<br>You may contact EMA directly if you require further details on the fees for each licence class.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Audited statements, balance sheets, cash flow statements and credit statement</strong><br />Audited past profit and loss statements, balance sheets and cash flow statements of the Applicant or the significant shareholders for the last 2 full financial years or since incorporation if less than 2 years and credit statement or credit rating, including any history of bankruptcy or financial distress.
@@ -65,7 +65,7 @@ If the Applicant intends to use gas as a fuel for the generating units , the App
 </li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

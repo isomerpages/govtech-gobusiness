@@ -10,7 +10,7 @@ National Parks Board (NPARKS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000173" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The CITES Permit allows importers, exporters and re-exporters to get National Parks Board approval for CITES specimens intended for import, export and re-export. This permit is required for both commercial consignments and personal effects.</p>
  <h3>FAQs</h3>
@@ -21,12 +21,12 @@ National Parks Board (NPARKS)
  <li><strong>Where can I get the FAQ for Non-CITES Certificate?</strong><br />You can get the FAQ on this link: NParks FAQ website at <a href="http://www.ifaq.gov.sg/NPARKS/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">http://www.ifaq.gov.sg/NPARKS/apps/fcd_faqmain.aspx</a></li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br /><span style="text-decoration: underline;">CITES Permit:<br /></span>Licence Fees: $60 for first 5 species, $12 for each additional species<br />Express Fees: $120 for first five species, $24 for each additional species<br />Taglist Fees: $9.45 per application</p>
  <p><span style="text-decoration: underline;">CITES Permit (CO/CM):<br /></span>Licence Fees: $29.40<br />Express Fees: $58.80</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li>
@@ -37,7 +37,7 @@ National Parks Board (NPARKS)
  </li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

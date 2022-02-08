@@ -12,17 +12,17 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=255" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Licence to Deal in Explosive Precursors - Includes sell, keep or expose for sales.<br>Licence to Manufacture Explosive Precursors - Any process of producing the explosive precursors and includes the refining or remaking of any substance to become an explosive precursor.<br>Licence to Possess / Control Explosive Precursors - To control or use Explosive Precursors.<br>Licence to Store Explosive Precursors - For a premises to store Explosive Precursors storage.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
 Fees: (a) To possess or control any explosive precursor: $44<br />(b) To manufacture any explosive precursor: $140<br />(c) To deal in any explosive precursor: $285<br />(d) Licence in respect of premises for storing or keeping any explosive precursor: $130<br />or part thereof
 </p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <p>Supporting documents to be submitted include, but not limited to:</p>
 <ol>
@@ -32,7 +32,7 @@ Fees: (a) To possess or control any explosive precursor: $44<br />(b) To manufac
 <li>write up on the actual processes where explosive precursors are used</li>
 </ol>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>The applicant must be;</p>
 <p>a) a Singaporean or Permanent Resident of Singapore</p>

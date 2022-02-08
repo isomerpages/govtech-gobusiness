@@ -10,7 +10,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=242" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Under the Public Order Act, a Police Permit is required for an assembly, procession or public talk that is held by one or more persons in a public place, if the intention is to:<br>(a) Demonstrate support for or opposition to the views or actions of any person, group of persons or any government;<br>(b) Publicise a cause or campaign; or<br>(c) Mark or commemorate any event.</p>
 
@@ -77,12 +77,12 @@ For events that involves lane/ road closure, a road closure permit is required f
 </ol>
 
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
 Fees: $22 for 1 day; and<br />$44 for 7 days held within 3 months</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Floor plan</strong><br>

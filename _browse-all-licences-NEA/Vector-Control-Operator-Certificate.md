@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=237" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For the application and registration of Vector Control Operator Certificate.</p>
 <h3>FAQ</h3>
@@ -40,17 +40,17 @@ National Environment Agency (NEA)
 </li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees: $90</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Supporting Documents</strong><br />Upload any supporting documents if required</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a target="" rel="">Registration for Companies / Business</a></p>
 <p><strong>Related licence(s)<br /></strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=162" target="_blank" rel="noopener">Vector Control Technician Licence</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=164" target="_blank" rel="noopener">Vector Control Worker Certificate</a></p>

@@ -12,7 +12,7 @@ Ministry of Law (MINLAW)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=274" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Application to hold an insolvency practitioner's licence (new) to undertake insolvency or debt restructuring work in Singapore.</p>
  <H3>FAQ</H3>
@@ -45,12 +45,12 @@ Ministry of Law (MINLAW)
  c. Mail to 45 Maxwell Road, #07-11. The URA Centre (East Wing), Singapore 069118</li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong></p>
  <p>Application fee <u><em>(strictly non-refundable)</em></u> of $650.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Curriculum Vitae</strong><br>

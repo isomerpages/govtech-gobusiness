@@ -12,20 +12,20 @@ Inland Revenue Authority of Singapore (IRAS)
 
 {% include button.html text="Apply on IRAS" src="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>GST is a broad-based consumption tax levied on the import of goods (collected by Singapore Customs), as well as nearly all supplies of goods and services in Singapore.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
  N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <p>Click <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" target="_blank" rel="noopener">here</a> for more details.</p>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Click <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" target="_blank" rel="noopener">here</a> for more details.</p>
 

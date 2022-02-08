@@ -10,7 +10,7 @@ Ministry of Social and Family Development (MSF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10063" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Operating a residential care facility for children and young persons under 16 years of age or ambulant/semi-ambulant persons aged 60 years and above.</p>
 
@@ -113,7 +113,7 @@ Please email to <a href="mailto:MSF_RHL@msf.gov.sg">MSF_RHL@msf.gov.sg</a> at le
 
 
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
 Licence fee to operate a Children and Young Persons Home - S$24 (Twenty-Four Dollars) and is valid for up to 2 years.<br>
@@ -121,7 +121,7 @@ Licence fee to operate a Home for the Aged - S$12 (Twelve Dollars) and is valid 
 </p>
 
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Certificate of Registration from Accounting & Corporate Regulatory Authority (ACRA) or Certificate of Registration from Registrar of Societies.</strong>><br>

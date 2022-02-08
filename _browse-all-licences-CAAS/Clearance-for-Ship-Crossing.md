@@ -10,7 +10,7 @@ Civil Aviation Authority of Singapore (CAAS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=286" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The conduct of ship crossing can potentially affect safety of air navigation either due to the close proximity between the vessel and an overflying aircraft, or the vessel may cause an obstruction along the flight path. As such, prior clearance needs to be sought from CAAS before interests parties carry any ship crossings to the North and South of Changi Airport.</p>
  <h3>FAQ</h3>
@@ -19,12 +19,12 @@ Civil Aviation Authority of Singapore (CAAS)
  The submission of application for a clearance is free of charge, and can be done through our online form. Please allow for 7 working days for our processing of your application.</li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
  N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Intended Route</strong><br>Details of Intended Route<br>

@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=189" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>This licence is required for applicants intending to perform or carry out work involving the use of laser apparatus.</p>
 <h3>FAQ</h3>
@@ -39,11 +39,11 @@ National Environment Agency (NEA)
 <li><strong>Which clinic should I go to get the medical check-up done?<br /></strong>Please bring the medical certificate form to a local medical clinic. The clinic will arrange for a blood test to be conducted. It will take a few days before the results are known. The doctor will follow up on your case, and complete the form before returning it to you. Please ensure that the doctor has indicated whether or not you are fit to engage in radiation work before you leave the clinic. You are advised to keep a copy of the medical form for your own reference. Please note that L5, L6 licences and R1 certificate holders in the NDT industry will need to undertake a blood test annually, and submit the test results to NEA during the renewal of the licences. This annual test is generally not compulsory for workers who are not in the NDT industry.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees: $105 per year</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Medical eye-examination certificate for laser user licence applicant<br /></strong>Completed medical examination form<br /><strong><br /></strong></li>
@@ -52,7 +52,7 @@ National Environment Agency (NEA)
 <li><strong>Other Supporting Documents</strong><br />Other relevant supporting documents</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 <p><strong>Related licence(s)</strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=188" target="_blank" rel="noopener">N2 - Licence to keep or possess for use non-ionising irradiating apparatus</a></p>

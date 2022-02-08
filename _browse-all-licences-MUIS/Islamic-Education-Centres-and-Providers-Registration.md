@@ -10,7 +10,7 @@ Majlis Ugama Islam Singapura (MUIS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=234" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Anyone or any entity who wishes to conduct an Islamic education centre or be an Islamic education provider.</p>
 <h3>FAQ</h3>
@@ -23,16 +23,16 @@ Majlis Ugama Islam Singapura (MUIS)
 <li><strong>How long is the application process?</strong> <br />All approval of registration will be made within 2 months if no additional information is required. Existing IECPs (established before 1 January 2017) may continue to run their centres while registration is being processed. New IECPs will need to seek Muis' approval before publicising their courses and taking in students. The period of registration validity is 3 years.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong></p>
 <p>N.A.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <p>No supporting document required for online application submission. Agencies may contact applicant if any supporting documents are needed subsequently.</p>
 
-### Requirements
+<H3>Requirements</H3>
 
 N.A.
 

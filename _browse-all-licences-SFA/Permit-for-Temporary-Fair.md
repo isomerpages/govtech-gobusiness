@@ -10,7 +10,7 @@ Singapore Food Agency (SFA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000341" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>A temporary set up with makeshift stalls to sell food and or goods.</p>
  <h3>FAQs</h3>
@@ -57,11 +57,11 @@ Singapore Food Agency (SFA)
  </li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br>Permit Fee:$60.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Site owner</strong><br />A copy of the site owner's approval letter.<br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
@@ -87,7 +87,7 @@ Singapore Food Agency (SFA)
  <li><strong>Others</strong><br />Any supporting document for amendment<br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 5MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

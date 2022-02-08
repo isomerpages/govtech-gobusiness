@@ -10,7 +10,7 @@ Singapore Civil Defence Force (SCDF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=17" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Fire Safety Act (FSA) regulates the transportation of petroleum and flammable materials . The petroleum and flammable materials transportation licence is to ensure that the transportation is carried out in a safe manner and that proper fire safety measures / procedures are undertaken by the licensee to ensure safety environment. In general, the FSA requires the transportation vehicle used to be certified, the transportation emergency response plan been approved and the drivers of road vehicles transporting any class of petroleum and flammable materials to hold a valid Hazardous Material Transportation Driver Permit (HTDP) to drive the vehicle. However, you will be exempted from applying a transportation licence if you are transporting petroleum less than: <br>
 (1) Total of 130kg(gross weight) in not more than 2 cylinders; <br>
@@ -89,7 +89,43 @@ Alternatively, you may choose to make off-line payment at HQ SCDF's counter via 
 
 <li>
 <strong>Who can I contact for further details?</strong><br>
+For further clarification, you may contact Licensing Officers at the following contact nos. :<br>
+Email: <a href="Md_Zali_Ahmad@scdf.gov.sg">Md_Zali_Ahmad@scdf.gov.sg</a><br>
+Name: Mohamed Zali Bin Ahmad<br>
+Designation: Import & Transport Licensing Specialist<br>
+Contact: <a href="tel:+6568481465">68481465</a><br><br>
 
+Email: <a href="mailto:Muhammad_Nasir_Hashim@scdf.gov.sg">Muhammad_Nasir_Hashim@scdf.gov.sg</a><br>
+Name: Muhammd Nasir Bin Hashim<br>
+Designation: Import & Transport Licensing Specialist<br>
+Contact: <a href="tel:+6568481468">68481468</a><br><br>
+
+Email: <a href="mailto:K_Mahaintharan@scdf.gov.sg">K_Mahaintharan@scdf.gov.sg</a><br>
+Name: Mr K Mahaintharan<br>
+Designation: Asst Team Leader Import and Transport<br>
+Contact: <a href="tel:+6568481429">68481429</a><br><br>
+
+Email: <a href="mailto:Md_Faizal_MAZLAN@scdf.gov.sg">Md_Faizal_MAZLAN@scdf.gov.sg</a><br>
+Name: Md Faizal Mazlan<br>
+Designation: Assistant Team Leader Storage<br>
+Contact: <a href="tel:+6568481495">68481495</a><br><br>
+
+Email: <a href="mailto:Alice_Seto@scdf.gov.sg">Alice_Seto@scdf.gov.sg</a><br>
+Name: Alice Seto<br>
+Designation: Team Leader Import and Transport<br>
+Contact: <a href="tel:+6568481485">68481485</a><br><br>
+
+Email: <a href="mailto:Muhathir_Mohamad@scdf.gov.sg">Muhathir_Mohamad@scdf.gov.sg</a><br>
+Name: Muhathir Mohamad<br>
+Designation: Senior Licensing Officer<br>
+Contact: <a href="tel:+6568481442">68481442</a><br><br>
+
+Email: <a href="mailto:Heng_Keng_Liang@scdf.gov.sg">Heng_Keng_Liang@scdf.gov.sg</a><br>
+Name: Heng Keng Liang<br>
+Designation: Team Leader Storage<br>
+Contact: <a href="tel:+6568481428">68481428</a><br><br>
+
+Central Tel line: <a href="tel:+6568481472">68481472</a><br>
 Fax:  68481494
 </li>
 
@@ -100,14 +136,14 @@ You can submit the application form and the supporting documents, if required, v
 </ol>
 
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
 The fee will be determined by agency.
 </p>
 
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>LTA Test Certificate/ Malaysia Puspakom</strong><br />Test certificate issued by Land Transport Authority/ Malaysia Puspakom on the roadworthiness of the vehicle (in certified true copy)<br>

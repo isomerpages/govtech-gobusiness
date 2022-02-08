@@ -12,7 +12,7 @@ Economic Development Board (EDB)
 
 {% include button.html text="Apply on EDB" src="https://sso.agc.gov.sg/Act/MODA2004" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Manufacture of Optical Discs Act serves to enhance our regulatory system for the manufacture of optical discs by introducing further safeguards to protect rights of intellectual property rights holders. Any person that intends to manufacture optical discs as defined under the Manufacture of Optical Discs Act "MODA" in Singapore, for sale or other commercial purpose, must first obtain a valid MODA license from the Registrar of Optical Discs.</p>
  <p>The 5-year renewable MODA license is location specific, which means that the manufacturer may only manufacture optical discs in the premises stated in the license. Upon the Registrar's approval of the MODA application, the successful applicant would have to pay a fee of $10/- for the issuance of the MODA license. No fee will be charged for renewal of MODA licenses.</p>

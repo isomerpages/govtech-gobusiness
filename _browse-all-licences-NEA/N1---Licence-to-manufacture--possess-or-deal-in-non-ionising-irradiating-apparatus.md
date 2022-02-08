@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=187" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>This licence is required for applicants intending to manufacture, possess for sale, sell, supply, distribute or deal with a non-ionising radiation irradiating apparatus.</p>
 <h3>FAQ</h3>
@@ -43,11 +43,11 @@ National Environment Agency (NEA)
 <li><strong>What other things do I need to know about radiation licences?</strong><br />i. There are special requirements and conditions for the use of laser for medical, aesthetics and cosmetic purposes. In particular, class 4 lasers for application on human beings can only be used by registered medical practitioners.<br />ii. Application for the N2 licence for an MRI facility will need to be accompanied by the 5-G line diagram and information on the quenching outlet.<br />iii. For laser equipment used in cutting or marking of materials, take note that some of these materials (e.g. PMMA) may undergo thermal breakdown, releasing hazardous chemical controlled under the legislations administered by various Government agencies. Please ensure that the requirements stipulated under these legislations are complied with.<br />iv. Ultrasound equipment for application on human beings is subject to licensing controlled under the Radiation Protection Act and its Regulations, because of possible misused and potential adverse health effect.<br />v. All ultrasound equipment above 3 W/cm2 must be separately approved by RPNSD before it can be used on any human beings. In particular, High Intensity Focus Ultrasound Equipment cannot be used at any beauty salon.<br />vi. Laser marking machine and laser engraving machine shall not be used at home<br />vii. If Laser/Ultrasound equipment are showcased, displayed or exhibited in an exhibition/conference outside the premises of an authorised N1 holder, then the exhibition/conference organiser shall apply for N1 licence. In particular, note that laser shall not be energised unless additional authorisation have been obtained from the Radiation Protection and Nuclear Science Department.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees: $210 per year</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Apparatus information</strong><br />Equipment Brochure / Catalogue / Technical specifications of the equipment to be licensed<br /><br /></li>
@@ -57,7 +57,7 @@ National Environment Agency (NEA)
 <li><strong>Others</strong><br />Other relevant supporting documents</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 <p><strong>Related licence(s)</strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=188" target="_blank" rel="noopener">N2 - Licence to keep or possess for use non-ionising irradiating apparatus</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=189" target="_blank" rel="noopener">N3 - Licence to use lasers</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=190" target="_blank" rel="noopener">N4A/B - Licence to import or export a consignment of non-ionising irradiating apparatus</a></p>

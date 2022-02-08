@@ -10,7 +10,7 @@ Urban Redevelopment Authority (URA)
 
 {% include button.html text="Apply on URA" src="https://www.ura.gov.sg/cmrWeb/" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Apply for Category 3 Works for Conserved Buildings if you are installing solar panels without any additional works within Conserved Buildings. Applications for such Category 3 works can be made by owners and contractors.</p>
  <p>You may visit <a href="https://www.ura.gov.sg/maps" target="_blank" rel="noopener">URA SPACE</a> to find out if your development is located in these areas by referring to Control Plans layer, and clicking "Conservation Area and Monument" under the Filter Bar and keying in the address of your building.</p>

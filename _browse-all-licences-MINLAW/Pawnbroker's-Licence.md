@@ -12,7 +12,7 @@ Ministry of Law (MINLAW)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=24" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For institutions who are interested to engage in pawnbroking business.</p>
  <p><Strong>Before applying:</Strong><br>
@@ -25,14 +25,14 @@ Ministry of Law (MINLAW)
  Please refer to weblink: <a href="http://www.mlaw.gov.sg/rop" target="_blank" rel="noopener">http://www.mlaw.gov.sg/rop</a>.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong></p>
 <p>Application Fee: $800/- (Stage 1 payment - payable upfront and non-refundable)</p>
 <p>Licence Fee: $3,000/- per year; $6,000/- for 2 years; and $9,000/- for 3 years (Stage 2 payment -fee payable depends on the selected option)</p>
 <p>Security Deposit: $100,000/- in the form of Banker's Guarantee/Insurance Guarantee. The Banker's Guarantee/Insurance Guarantee, which should be made payable to "Accountant-General, Singapore", is to be furnished separately to the Registry of Pawnbrokers ("ROP") whilst the application is at Stage 2 - Payment. For format of the Banker's Guarantee/Insurance Guarantee, please refer to ROP's website.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Letter of Authorisation for 3rd Party filing</strong><br>
@@ -41,7 +41,7 @@ File format: doc, docx, jpg, pdf, gif<br>
 Maximum upload per application: 2 MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Applicant must be ACRA-registered business entity.</p>
 

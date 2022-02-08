@@ -12,7 +12,7 @@ Energy Market Authority (EMA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=283" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Required for the importation, transportation or retailing of natural gas via gas pipeline network</p>
 <p>A licence is required for parties intending to import natural gas into Singapore, or who plan to ship or retail natural gasand town gas.</p>
@@ -39,13 +39,13 @@ c) Gas Metering Code;</br>
 d) Gas Retailer Code of Conduct; and/or</br>
 e) any other relevant codes of practice under Section 62 of the Gas Act.</li>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
 The annual licence fee is payable each April for the Financial Year starting 1 April. The initial licence fee payable upon issuance of the licence is pro-rated based on the number of days remaining in the current Financial Year.<br>
 You may contact EMA directly if you require further details on the fees for each licence class.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Audited statements, balance sheets, cash flow statements and credit statement</strong></br>
@@ -80,7 +80,7 @@ Audited past profit and loss statements, balance sheets and cash flow statements
 <li><strong>Other supporting documents (if any)</strong></li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

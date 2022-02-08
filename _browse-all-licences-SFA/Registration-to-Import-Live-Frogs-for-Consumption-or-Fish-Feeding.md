@@ -12,21 +12,21 @@ Singapore Food Agency (SFA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1309261101000025" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Registration to Import Live Frogs for Human Consumption or Ornamental Fish Feeding may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This registration is issued to importers to import live frogs.</p>
  <h3>FAQs</h3>
  <p>Not available!</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 N.A.
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 N.A.
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

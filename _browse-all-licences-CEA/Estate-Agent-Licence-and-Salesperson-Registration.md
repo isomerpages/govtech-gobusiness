@@ -10,7 +10,7 @@ Council for Estate Agencies (CEA)
 
 {% include button.html text="Apply on CEA" src="http://www.cea.gov.sg/" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>To conduct estate agency work such as marketing, buying, selling and/or leasing properties for third parties.</p>
  <h3>FAQ</h3>

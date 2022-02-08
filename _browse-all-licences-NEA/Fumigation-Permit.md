@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=157" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Companies who have fumigators licensed by NEA to carry out fumigation by means of Hydrogen Cyanide, Methyl Bromide and/or Hydrogen Phosphide.</p>
 <h3>FAQ</h3>
@@ -31,11 +31,11 @@ National Environment Agency (NEA)
 <li><strong>Will there be a refund for cancelled permit?</strong><br />No refund will be made.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees: $45</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Fumigation Supporting Doc (If Applicable)</strong><br />Supporting document for out of the norm fumigation. i.e. Less than 24h holding time for MB fumigation.</li>

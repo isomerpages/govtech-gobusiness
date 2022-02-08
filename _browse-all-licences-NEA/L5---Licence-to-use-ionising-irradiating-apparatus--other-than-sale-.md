@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=183" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>This licence is required for applicants intending to use, operate, energise or supervise the use of ionising radiation irradiating apparatus.</p>
 <h3>FAQ</h3>
@@ -55,11 +55,11 @@ National Environment Agency (NEA)
 </li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees: $145 per year.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Medical Certificate Form</strong><br />Completed medical examination form.<br /><br /></li>

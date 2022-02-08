@@ -12,7 +12,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=44" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Under the Massage Establishments (ME) Act, the licensee of a licensed ME(Cat I, Cat II and Provisional Cat I) is required to seek the prior approval of the Licensing Officer before the employee is allowed to work in the Massage Establishment.</p>
 
@@ -82,7 +82,7 @@ Applicants will be required to pay any application fees payable for all resubmis
 
 </ol>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>A copy of the employee's work pass</strong><br />If the employee is not a Singapore Citizen or Singapore Permanent Resident, a copy of the employee's work pass must be submitted together with the application via GoBusiness Licensing.
@@ -91,7 +91,7 @@ Applicants will be required to pay any application fees payable for all resubmis
 </li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Limited Liability Partnership</strong><br />Applicant must be having position:<br />* PARTNER cum MANAGER</p>
 <p><strong>Company</strong><br />Applicant must be having one of the following position:<br />* MANAGING DIRECTOR<br />* SECRETARY<br />* DIRECTOR<br />* CHIEF EXECUTIVE OFFICER</p>

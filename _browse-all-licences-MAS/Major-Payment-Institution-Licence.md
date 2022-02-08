@@ -10,7 +10,7 @@ Monetary Authority of Singapore (MAS)
 
 {% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/regulation/payments/major-payment-institution-licence" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Major payment institutions are licensed and regulated under the Payment Services Act ("PS Act") to provide payment services without being subject to the specified thresholds.</p>
  <p>The thresholds are set out in section 6(5) of the PS Act. In summary, these are:</p>

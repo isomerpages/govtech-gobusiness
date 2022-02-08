@@ -10,11 +10,11 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on SPF" src="" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>To operate a shooting range with an armoury onsite, you will need to be licensed under the Guns, Explosives and Weapons Control Act.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Letter of no objection from venue owner</strong></li>

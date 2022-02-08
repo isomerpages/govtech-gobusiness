@@ -10,16 +10,16 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=258" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>A licence for Export of Explosives or for a company or individual to Import Explosives.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br> Fee: $22 for a period of not more than 30 days / per consignment</p> <p><strong>Contact details</strong><br>Police Licensing and Regulatory Department, Tel No. <a href="tel:6835 0000">6835 0000</a> or email: <a href="mailto:spf_licensing_feedback@spf.gov.sg">spf_licensing_feedback@spf.gov.sg</a></p>
 
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <p>For Export:<br />The applicant is required to submit the following documents to the Licensing Officer within 5 working days from the date of submission of the application:</p>
 <ul>
@@ -39,7 +39,7 @@ Singapore Police Force (SPF)
 <li>Invoice from the supplier.</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>The applicant must hold a Licence to Deal in Explosives before he can apply for a Licence to Import or Export Explosives.</p>
 

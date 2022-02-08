@@ -12,7 +12,7 @@ Economic Development Board (EDB)
 
 {% include button.html text="Apply on EDB" src="https://sso.agc.gov.sg/Act/CMA1959" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>In Singapore, the manufacture of certain goods is regulated by the Control of Manufacture Act.</p>
  <p>Any person that intends to manufacture COMA-scheduled goods or their parts thereof would need to apply to be registered under the COMA.</p>

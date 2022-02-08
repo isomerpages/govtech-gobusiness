@@ -12,7 +12,7 @@ Ministry of Health (MOH)
 
 {% include button.html text="Apply on MOH" src="https://elis.moh.gov.sg/elis/index.do?task=home" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Hospitals and medical clinics that intend to provide services for TOP are required to apply for status as an approved institution for TOP.</p>
 

@@ -12,7 +12,7 @@ Intellectual Property Office of Singapore (IPOS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=269" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Application for a Practising Certificate under rule 9(1) of the Patents (Patent Agents) Rules 2001.</p>
 <h3>FAQ</h3>
@@ -23,12 +23,12 @@ The Professional Indemnity insurance is needed for patent agents to provide prot
 You may email to <a href="mailto:ipos_pau@ipos.gov.sg">ipos_pau@ipos.gov.sg</a></li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
 New licence valid for 12 months - <strong>$400</strong> per year</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Professional Indemnity Insurance</strong></li>

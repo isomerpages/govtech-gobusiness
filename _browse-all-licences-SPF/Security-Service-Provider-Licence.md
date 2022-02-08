@@ -12,7 +12,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=53" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Only Companies with Security Service Provider (SSP) licence can provide security services or equipment.<br>The types of security services are defined in Section 18 of the Private Security Industry Act (PSI) Cap 250A. This includes installing, maintaining repairing, servicing, designing, selling, importing or exporting of any security equipment as spelt out in the PSI's schedule.</p>
 
@@ -61,12 +61,12 @@ Applicant must be having one of the following position:<br>
 </ol>
 
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
 Fees: $50</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Business Profile Documents<br />Company Documents Latest Business Profile (within 7 Days from the date of generation and date of application submission)</strong>
@@ -83,7 +83,7 @@ Fees: $50</p>
 </li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Limited Liability Partnership</strong><br />Applicant must be having position:<br />* PARTNER cum MANAGER</p>
 <p><strong>Company</strong><br />Applicant must be having one of the following position:<br />* MANAGING DIRECTOR<br />* DIRECTOR<br />* CHIEF EXECUTIVE OFFICER</p>

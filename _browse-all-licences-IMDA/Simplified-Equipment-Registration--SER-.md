@@ -12,15 +12,15 @@ Infocomm Media Development Authority (IMDA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10078" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Equipment registration under the Simplified Equipment Registration (SER) Scheme is for equipment suppliers who wish to register Mobile Terminals (LTE/3G/GMPCS) or Broadband Access Equipment (ADSL, Cable Modem and CCHN).</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Family Series Fee</strong><br />$100.00 or $50.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Product Brochure</strong></li>
@@ -33,7 +33,7 @@ Infocomm Media Development Authority (IMDA)
  
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

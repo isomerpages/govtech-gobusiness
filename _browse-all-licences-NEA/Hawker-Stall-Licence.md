@@ -10,7 +10,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on NEA" src="https://www.nea.gov.sg/our-services/hawker-management/overview" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>This application allows you to apply for new licence to appraise lands and buildings in Singapore.</p>
 <h3>FAQ</h3>
@@ -36,11 +36,11 @@ National Environment Agency (NEA)
 <li><strong>Where can I search for a list of valid licensed appraisers?</strong><br />Yes. Please click <a href="https://licence1.business.gov.sg/feportal/web/frontier/appraisers-enquiry-search" target="_blank" rel="noopener">here</a>.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />N/A</p>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

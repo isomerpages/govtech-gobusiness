@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=175" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Licence to collect, treat, and/or dispose of toxic industrial waste controlled under the Environmental Public Health (Toxic Industrial Waste) Regulations</p>
 <h3>FAQ</h3>
@@ -37,11 +37,11 @@ National Environment Agency (NEA)
 </li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees: $285, valid for one year.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Industrial Allocation Approval</strong><br />To submit the Industrial Allocation approval issued by Central Building Plan Department<br /><br /></li>
@@ -49,7 +49,7 @@ National Environment Agency (NEA)
 <li><strong>Technical Information on treatment facility and pollution control equipment</strong><br />To submit technical information about toxic industrial waste types and treatment processes</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 <p><strong>Related licence(s)<br /></strong>NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=188" target="_blank" rel="noopener">N2 - Licence to keep or possess for use non-ionising irradiating apparatus Info</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=57" target="_blank" rel="noopener">General Waste Collector Licence</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=172" target="_blank" rel="noopener">Hazardous Substances (HS) Licence</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=173" target="_blank" rel="noopener">Hazardous Substances (HS) Permit</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=174" target="_blank" rel="noopener">Hazardous Substances (HS) Transport Approval</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=176" target="_blank" rel="noopener">Toxic Industrial Waste (TIW) Transport Approval</a></p>

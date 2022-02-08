@@ -12,7 +12,7 @@ Housing & Development Board (HDB)
 
 {% include button.html text="Apply on HDB" src="https://services2.hdb.gov.sg/webapp/AA15NOTI/AA15NOTIPPostalCheck" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Applicable to tenants who change their company's name without change of :</p>
 <ol style="list-style-type: lower-alpha;">

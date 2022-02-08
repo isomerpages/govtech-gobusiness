@@ -10,7 +10,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=61" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For operating a public aquatic facility.</p>
 <h3>FAQ</h3>
@@ -36,11 +36,11 @@ National Environment Agency (NEA)
 <li><strong>I have taken over an existing aquatic facility and wish to apply for a licence to operate the premises. I am unable to contact the previous licensee to cancel his licence for the same premises. How do I apply for the licence in this instance?</strong> <br />You can still submit your application together with all the supporting documents to us. However, for such cases, we will need to write to the previous licensee to confirm whether he is still operating the business at the said premises. If the previous licensee indicates that he is no longer operating the said premises or did not response, then we can proceed to process your application.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees: $200, valid for one year</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>BCA Temporary Occupation Permit (TOP) and/or Approval for Addition and Alteration Work<br /></strong>Temporary Occupation Permit (TOP) and/or approval for addition and alteration work to be carried out<strong><br /></strong></li>

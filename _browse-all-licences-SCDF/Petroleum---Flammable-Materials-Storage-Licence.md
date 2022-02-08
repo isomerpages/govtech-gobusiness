@@ -12,7 +12,7 @@ Singapore Civil Defence Force (SCDF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=22" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Fire Safety Act (FSA) regulates the storage of petroleum and flammable materials. A licence is required for storage of highly flammable petroleum and flammable materials products with a flash point below 93 degree celsius. The regulatory control will ensure that proper fire safety measures and procedures are undertaken by the licencee for the storage of petroleum and flammable materials in the premises and within the compound to ensure safe environment. A storage licence is not required if the storage is within the exemption quantity. Please see Frequently Asked Questions Section for details. 
 <br><br>
@@ -274,14 +274,14 @@ You could come to SCDF for a walk-in consultation to clarify issue pertaining to
 
 
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
 The fee will be determined by agency.
 </p>
 
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Approved plan (Mandatory)</strong><br />One certified true copy (or original approved plan) showing the location of the premises and proposed storage area<br>
@@ -334,7 +334,7 @@ Maximum upload per application: 2 MB
 </li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Applicant must be ACRA registered company/business</p>
 

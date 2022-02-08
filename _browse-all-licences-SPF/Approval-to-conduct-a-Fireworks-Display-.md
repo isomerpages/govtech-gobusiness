@@ -12,13 +12,13 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/3b84dd7a-85e1-4524-a8a6-3b2a0558e89b" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>To execute a fireworks display, you need to be licensed under the Guns, Explosives and Weapons Control Act. </p>
 
 <p>For each fireworks display event, you will need to apply for the approval from the Licensing Officer. </p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Engagement Letter from the Organiser of the Event</strong></li>

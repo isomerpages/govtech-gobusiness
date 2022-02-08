@@ -12,7 +12,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=45" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Under the Massage Establishment Act Cap 173, a massage establishment licence is required if any premises is used or intended to be used for the reception or treatment of persons requiring massage, manicure, chiropody, light, electric, vapour or other baths or other similar treatment, unless otherwise exempted.</p>
 
@@ -71,7 +71,7 @@ No, all applications submitted with incomplete or incorrect supporting documents
 </ol>
 
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Limited Liability Partnership</strong><br />Applicant must be having position:<br />* PARTNER cum MANAGER</p>
 <p><strong>Company</strong><br />Applicant must be having one of the following position:<br />* MANAGING DIRECTOR<br />* SECRETARY<br />* DIRECTOR<br />* CHIEF EXECUTIVE OFFICER</p>

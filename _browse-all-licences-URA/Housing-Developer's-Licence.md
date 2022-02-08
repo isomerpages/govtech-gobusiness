@@ -12,7 +12,7 @@ Urban Redevelopment Authority (URA)
 
 {% include button.html text="Apply on URA" src="https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Developers undertaking a housing project with more than four units are required to obtain a housing developer's licence from the Controller of Housing before commencing construction works.</p>
  <h3>FAQ</h3>

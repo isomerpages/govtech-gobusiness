@@ -12,7 +12,7 @@ Early Childhood Development Agency (ECDA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=266" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Early Childhood Development Agency (ECDA) was established on 1 April 2013 to oversee key aspects of children's development below the age of 7, across both kindergartens and child care centres. ECDA serves as the regulatory and developmental authority for all Early Childhood Development Centres (ECDCs) in Singapore, which provide care and/or education to children below 7 years of age.</p>
 <p>All ECDCs are required to obtain a licence under the Early Childhood Development Centres Act and Regulations.</p>
@@ -60,12 +60,12 @@ Centres which choose to provide infant services is required to recruit staff who
 </ol>
 
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
 Application Fee: $400<br />Licence Fee: $100</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>ACRA / ROS / Proof of legal entity</strong><br>
@@ -109,7 +109,7 @@ The layout of the drawn-to-scale floor plan must match the actual physical premi
 <br>Maximum upload per application: 2 MB</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

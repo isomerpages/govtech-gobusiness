@@ -12,7 +12,7 @@ Ministry of Health (MOH)
 
 {% include button.html text="Apply on MOH" src="https://elis.moh.gov.sg/elis/index.do?task=home" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For using the premises by a dentist or any other person</p>
  <ol>

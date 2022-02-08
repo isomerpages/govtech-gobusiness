@@ -12,11 +12,11 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=250" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>A licence for company to Deal in Explosives. "Deal in" includes repair, sell, keep or expose for sale.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
 Fees: Non-blasting: $405 for 2 years or part thereof<br />Blasting: $1850 for 2 years or part thereof "blasting explosive" means an explosive substance allocated, on classification under Part II, the UN Number 0081, 0082, 0083, 0084, 0241, 0331, or 0332.</p>
@@ -24,7 +24,7 @@ Fees: Non-blasting: $405 for 2 years or part thereof<br />Blasting: $1850 for 2 
 <p><strong>Contact details</strong><br>Police Licensing and Regulatory Department, Tel No. 6835 0000 or email spf_licensing_feedback@spf.gov.sg</p>
 
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <p>Supporting documents to be submitted include, but not limited to:</p>
 <ol>
@@ -34,7 +34,7 @@ Fees: Non-blasting: $405 for 2 years or part thereof<br />Blasting: $1850 for 2 
 </ol>
 
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>The applicant must be;</p>
 <p>a) a Singaporean or Permanent Resident of Singapore</p>

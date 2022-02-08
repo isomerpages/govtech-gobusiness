@@ -10,7 +10,7 @@ Singapore Tourism Board (STB)
 
 {% include button.html text="Apply on STB" src="https://trust.stb.gov.sg/public/public/ta-application-preamble" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>There are 2 types of travel agent licences:</p>
 <ul>

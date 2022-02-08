@@ -12,7 +12,7 @@ Maritime and Port Authority (MPA)
 
 {% include button.html text="Apply on MPA" src="http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/launching-laying-up-breaking-up-of-vessel/breaking-up-of-a-vessel-in-a-port" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Vessels that need to be broken up in port require written permission from the Port Master.</p>
 

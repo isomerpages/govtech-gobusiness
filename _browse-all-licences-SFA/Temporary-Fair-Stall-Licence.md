@@ -10,15 +10,15 @@ Singapore Food Agency (SFA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000340" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Makeshift stall in a temporary fair.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 N.A.
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Planning Permission/Change of Use approval</strong><br />Approval from URA/HDB for the use of the premises<br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
@@ -30,7 +30,7 @@ N.A.
  <li><strong>Others</strong><br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 5MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

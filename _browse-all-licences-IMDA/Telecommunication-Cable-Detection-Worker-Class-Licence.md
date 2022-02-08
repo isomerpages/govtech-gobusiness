@@ -12,15 +12,15 @@ Infocomm Media Development Authority (IMDA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10017" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For providing services of detecting telecommunication cables before conducting any earthwork.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br />Licence Fee: $30.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>A copy of the certificate showing that you are qualified to conduct cable detection.</strong></li>

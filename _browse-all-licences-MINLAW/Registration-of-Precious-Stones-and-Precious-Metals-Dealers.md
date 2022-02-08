@@ -12,7 +12,7 @@ Ministry of Law (MINLAW)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=273" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For businesses that conduct regulated dealing (in precious stones, precious metals, precious products or asset-backed tokens) or as an intermediary for regulated dealing.</p>
  <p>Before applying: Please ensure that you have the requsite information/ documents. More information on requsite information/ documents are available at <a href="https://acd.mlaw.gov.sg/" target="_blank" rel="noopener">https://acd.mlaw.gov.sg</a>.</p>
@@ -37,14 +37,14 @@ Ministry of Law (MINLAW)
  You can get more information on regulated dealers on Minlaw website at <a href="https://acd.mlaw.gov.sg/" target="_blank" rel="noopener">https://acd.mlaw.gov.sg</a>.</li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Application Fee</strong><br>
 Applicants must pay an application fee of <strong>$120</strong>, payable upfront upon submission of new application. The application fee is non-refundable.</p>
 <p><strong>Registration Fee</strong><br>
 Registration Fee - Registration fees for new applicants and renewal applications where the <u>net price</u> of every precious stone, precious metal, precious product or asset-backed token that is <u>or is to be</u> sold by the registered dealer is less than $2,000 apiece, will be $250 per outlet per year. Otherwise, it will be $350 per outlet per year.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>NRIC/FIN/Passport</strong><br>
@@ -72,7 +72,7 @@ File format: pdf, jpg, png<br>
  Maximum upload per application: 2 MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Applicant must be ACRA-registered business entity.</p>
 

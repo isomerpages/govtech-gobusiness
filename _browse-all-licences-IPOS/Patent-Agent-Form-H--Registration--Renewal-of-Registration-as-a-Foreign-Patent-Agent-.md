@@ -12,7 +12,7 @@ Intellectual Property Office of Singapore (IPOS)
 
 {% include button.html text="Apply on IPOS" src="https://www.ipos.gov.sg/docs/default-source/resources-library/patents/patent-agent-forms-and-fees/form-h.docx" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Application for Registration as a Foreign Patent Agent under rule 10B or for Renewal of Registration as a Foreign Patent Agent under Rule 10C of the Patents (Patent Agents) Rules 2001.</p>
 <h3>FAQ</h3>

@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=225" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <h3>FAQ</h3>
 <ol>
@@ -33,11 +33,11 @@ National Environment Agency (NEA)
 <li><strong>Who can I contact for further details?</strong><br />For further enquiries, please contact the National Environment Agency through <a href="http://www.nea.gov.sg/corporate-functions/feedback" target="_blank" rel="noopener">NEA's online feedback form</a>. You can also write to us at:<br />Waste Regulation Department<br />Waste Management Division<br /><br />National Environment Agency<br />40 Scotts Road #20-00 ENV Building<br />Singapore 228231</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees (New/ Renew): $300, valid for two years.<br />Licence Fees (Amend): $70.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Process Flow Diagram with description</strong><br />Process flow diagram and a description of the overall process/operation of the general waste disposal facility<br /><br /></li>
@@ -47,7 +47,7 @@ National Environment Agency (NEA)
 <li><strong>Others</strong></li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

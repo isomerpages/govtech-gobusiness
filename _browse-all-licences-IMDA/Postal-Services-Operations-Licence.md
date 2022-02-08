@@ -12,15 +12,15 @@ Infocomm Media Development Authority (IMDA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10019" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Applicants intending to provide the conveyance of letters weighing 500g and below, including the incidental services of receiving, collecting, sorting, sending, despatching and delivering letters.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>PSO designated as PPL<br /></strong>Initial Fee: $0.00<br />Annual Fee: 0.4% AGTO, subject to a minimum of S$150,000.00 per year<strong><br /><br />PSO<br /></strong>Initial Fee: $0.00<br />Annual Fee: 0.4% AGTO, subject to minimum, of S$4,000.00 per year<strong><br /></strong></p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Organisational structure/financial capability and strength</strong></li>
@@ -29,7 +29,7 @@ Infocomm Media Development Authority (IMDA)
  <li><strong>Any other relevant information</strong></li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

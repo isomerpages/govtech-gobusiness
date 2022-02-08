@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=164" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For the application of Vector Control Worker certificate.</p>
 <h3>FAQ</h3>
@@ -41,11 +41,11 @@ National Environment Agency (NEA)
 <li><strong>What if I have to replace my licence?</strong><br />Please email the following items to <a href="mailto:NEA_VC_Licences@nea.gov.sg" target="_blank" rel="noopener">NEA_VC_Licences@nea.gov.sg</a>.<br />i. Letter stating the reason for replacement. If you have lost your licence, it is recommended to make a police report.<br />ii. Copy of NRIC/Employment Pass/Work Permit/S-Pass/Dependent pass. For Employment Pass/Work Permit/S-Pass/Dependent pass holders, please submit the QR code details in the stipulated format using the new SGWorkPass app. More information on the QR code details and the new SGWorkPass app is available at <a href="http://www.mom.gov.sg/sgworkpass" target="_blank" rel="noopener">MOM's website</a>.<br />iii. A recent digital coloured passport size photo (with white background).<br /><br />A replacement fee of $20 will be required upon approval.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees (Full Worker):  $22<br />Licence Fees (Provisional):  $13</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Joint ITE-NEA Pest Control Course<br /></strong>Mandatory to upload this document if applying for Full Vector Control Worker Certificate<br /><br /></li>
@@ -53,7 +53,7 @@ National Environment Agency (NEA)
 <li><strong>Highest Educational Qualifications</strong></li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Related licence(s)</strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=237" target="_blank" rel="noopener">Vector Control Operator Certificate</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=162" target="_blank" rel="noopener">Vector Control Technician Licence</a></p>
 

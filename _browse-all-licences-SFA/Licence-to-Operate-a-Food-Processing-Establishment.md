@@ -12,7 +12,7 @@ Singapore Food Agency (SFA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000331" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>In Singapore, all food processing establishments must be licensed by Singapore Food Agency before they are permitted to carry out any food processing for wholesale distribution.</p>
  <h3>FAQs</h3>
@@ -20,11 +20,11 @@ Singapore Food Agency (SFA)
  <li><strong>Where can I get the FAQ for Licence to Operate a Food Processing Establishment?</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br />Meat/Fish: $260.00<br />Canning: $840.00<br />Other Processed Food Small (total floor area < 200 square meter): $180.00<br />Other Processed Food Medium (total floor area >= 200 square meter and 750 square meter): $360.00<br />Other Processed Food Large (total floor area >= 750 square meter): $600.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Architectural Layout Plan<br /></strong>The layout plan of the premises<br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
@@ -35,7 +35,7 @@ Singapore Food Agency (SFA)
  <li><strong>Others</strong><br />Additional Supporting Documents.<br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

@@ -12,7 +12,7 @@ Energy Market Authority (EMA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=281" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Required for the retail of electricity to contestable customers</p>
 <p>Retail electricity licensees (electricity retailers) are entities authorised by the Energy Market Authority (EMA) to retail electricity to contestable customers.</p>
@@ -35,14 +35,14 @@ Retailers who only meet Requirement 1 (i.e., passed the Market Trial conducted b
 <br><br>
 Retailers must meet both requirements before they can start retailing electricity to (i) business consumers with an average monthly consumption of less than 2MWh, and (ii) all residential consumers.</li></ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
 The annual licence fee is payable each April for the Financial Year starting 1 April. The initial licence fee payable upon issuance of the licence is pro-rated based on the number of days remaining in the current Financial Year.</p>
 <p><strong>Contact Details</strong><br>
 You may contact EMA directly if you require further details on the fees for each licence class.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Retailer Licence Application Checklist</strong><br />Please download and complete the application checklist <a href="https://licence1.business.gov.sg/feportal/documents/13101/0/EMA_ER_CHECK_LIST_APPLY/23bfa47c-f8aa-4519-8dc2-5312c4684c2c">here</a> and upload as a supporting document.
@@ -87,7 +87,7 @@ You may contact EMA directly if you require further details on the fees for each
 <br>Maximum upload per application: 10 MB</li></ul>
 
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

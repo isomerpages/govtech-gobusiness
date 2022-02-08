@@ -10,7 +10,7 @@ Land Transport Authority (LTA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=104" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For the operation of a fare-charging scheduled bus service</p>
  <H3>FAQ</H3>
@@ -44,7 +44,7 @@ Land Transport Authority (LTA)
  For general licensing enquiries, please contact LTA at Tel : 1800 - CALL LTA (1800 - 2255 582) or email to <a href="https://www.lta.gov.sg/feedback/" target="_blank" rel="noopener">https://www.lta.gov.sg/feedback/</a></li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong></p>
  <p>Application Fee: An application fee of $40 is applicable for every successful application for new BSL, renewal of BSL, Amendment of route/operating details and Cancellation (or termination) of BSL.</p>
@@ -55,7 +55,7 @@ Land Transport Authority (LTA)
  <p>Amend - Non Fare Amendments: Amendment fee of $10</p>
  <p>Security Deposit: $500 for new Bus Service Licence</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Route Map</strong><br>

@@ -12,7 +12,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=46" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Companies are required to have Security Agency (SA) Licence if they are providing security officers to their clients as defined in Section 13 of the Private Security Industry Act Cap 250A. Only Companies with Security Agency (SA) licence can accept assignments from clients.</p>
 
@@ -61,12 +61,12 @@ Applicant must be having one of the following position:<br>
 </ol>
 
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
 Fees: $400</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Business Profile Documents</strong><br />Company Documents (Business Plan, Latest Business Profile , Confirmation Letter for Business Name Search) Latest Business Profile (within 7 Days from the date of generation and date of application submission)
@@ -86,7 +86,7 @@ Maximum upload per application: 2 MB
 </li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Limited Liability Partnership</strong><br />Applicant must be having position:<br />* PARTNER cum MANAGER</p>
 <p><strong>Company</strong><br />Applicant must be having one of the following position:<br />* MANAGING DIRECTOR<br />* DIRECTOR<br />* CHIEF EXECUTIVE OFFICER</p>

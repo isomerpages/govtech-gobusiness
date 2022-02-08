@@ -12,7 +12,7 @@ Maritime and Port Authority (MPA)
 
 {% include button.html text="Apply on MPA" src="http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/arrival-and-departure-formalities/applying-for-a-bunker-convention-certificate" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>With effect from 21 Nov 08, any ship having a gross tonnage greater than 1,000 that enters or leaves the port of Singapore is required to carry on board a Bunker Convention Certificate (BCC), to attest that insurance or other financial security to cover liability for bunker oil pollution damage is in place.</p>
  <p>An oil tanker having a gross tonnage greater than 1,000, whether actually carrying oil in bulk (i.e. when laden) or with oil residues onboard during the voyage following carriage of oil (i.e. on ballast voyage) would already be covered by the Convention on Civil Liability for Oil Pollution Damage 1992 (CLC 92) and need not carry a BCC when entering or leaving the port of Singapore.</p>

@@ -12,7 +12,7 @@ Ministry of Education (MOE)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Schools in the following categories should NOT use this system to apply to register a new school.</p>
  <ol>
@@ -49,16 +49,16 @@ Ministry of Education (MOE)
  Singapore 138675</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong></p>
  <p>$420 (inclusive of GST)</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <P>You need not submit any documents on-line through this website. However, you are required to submit supporting documents in hardcopy to MOE Private Schools Section (by mail/ hand-deliver to MOE mailroom) after the online application in GoBusiness Licensing. More information on the required documents can be found at <a href="https://www.moe.gov.sg/private-education" target="_blank" rel="noopener">https://www.moe.gov.sg/private-education/</a>.</P>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Applicant must be ACRA-registered business entity.</p>
 

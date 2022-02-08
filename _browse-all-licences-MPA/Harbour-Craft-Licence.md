@@ -10,7 +10,7 @@ Maritime and Port Authority (MPA)
 
 {% include button.html text="Apply on MPA" src="http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-harbour-craft/licensing-a-harbour-craft" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Any vessel operating in port must possess a valid harbour craft licence.</p>
  <h3>FAQ</h3>

@@ -12,7 +12,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on SPF" src="" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 Under the Guns, Explosives And Weapons Control Act, an approval is required for any employee employed by a Licensed company to handle any Guns or  Explosives. 
 

@@ -10,7 +10,7 @@ Housing & Development Board (HDB)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>HDB commercial premises can now lodge / or apply for their resale / transfer depending on the nature of each request.</p>
 <h3><strong>FAQ</strong></h3>
@@ -31,7 +31,7 @@ Housing & Development Board (HDB)
 <li><strong>If I submitted an application wrongly or the application is subsequently aborted, can I request for a refund of the admin fee?</strong><br />No, all admin fees paid are not refundable.</li>
 </ol>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <p><strong>For Lodgement</strong></p>
  <ul>

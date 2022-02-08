@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=192" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Businesses offering general cleaning services at premises or any public places will need to be licensed.</p>
 <h3>FAQ</h3>
@@ -20,11 +20,11 @@ National Environment Agency (NEA)
 <li><strong>Where can I get more information about this licence?</strong><br />For more details, please refer to <a href="https://www.nea.gov.sg/our-services/public-cleanliness/cleaning-industry/cleaning-business-licence/cleaning-business-licence-faq" target="_blank" rel="noopener">NEA Cleaning Business Licence FAQ</a>.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees: $130</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Cleaners' Training Records (LOA)<br /></strong>Please upload the Letter of Attainment (LOA) or Statement of Attainment (SOA) issued by the Approved Training Organisation of cleaners who were recently trained in the last one month or the supervisor who is trained in the 2 supervisory modules.</li>
@@ -35,7 +35,7 @@ National Environment Agency (NEA)
 <li><strong>Other Supporting Document(s)</strong></li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p><strong>Related licences to apply at External Agency</strong></p>
 <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

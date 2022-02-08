@@ -10,15 +10,15 @@ Infocomm Media Development Authority (IMDA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=6" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For carrying out any form of public entertainment concerning the arts, viz. plays, musical performances, dance performances, exhibitions, variety shows and pop/ rock concerts. The Arts Entertainment Licence has to be collected from IMDA before the start of the the performance or event.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br />Licence Fee: To be determined</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Art Exhibitions</strong></li>

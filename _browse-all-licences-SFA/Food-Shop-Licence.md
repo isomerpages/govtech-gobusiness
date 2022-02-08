@@ -10,7 +10,7 @@ Singapore Food Agency (SFA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000440" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For the operation of a food shop where there is retail sale of food and/or beverage. You will need to apply for a Food Shop Licence if you intend to operate a retail food outlet where food and/or drink are sold wholly by retail. This is a requirement under the Environmental Public Health Act. The purpose of licensing is to ensure cleanliness and food safety in food retail outlets and to prevent food-borne diseases.<br />You may refer below on the steps for application of Food Shop Licence.</p>
 <p><strong>Step 1: Submit complete application in GoBusiness</strong></p>
@@ -61,12 +61,12 @@ Singapore Food Agency (SFA)
 <li><strong>What are the challenges of operating a F & B business?<br /></strong>Please refer to the <a>"Turning Passion into Profit" guide</a> to understand the challenges faced by the F & B industry and managing your business.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong></p>
  <p>The Food Shop Licence including entertainment outlets (pub, bar, discotheque, night club etc.) costs S$195.00 and is valid for one year.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Planning Permission/Change of Use approval</strong><br />Approval from URA/HDB for the use of the premises<br />File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
@@ -112,7 +112,7 @@ Singapore Food Agency (SFA)
  </ul>
  </div>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

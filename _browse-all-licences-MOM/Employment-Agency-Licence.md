@@ -12,7 +12,7 @@ Ministry of Manpower (MOM)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Note: Before you apply for this licence, please ensure that you have registered your business or company with ACRA.</p>
  <p>You must have at least one of the following business activities in your company's ACRA profile:<br>
@@ -77,12 +77,12 @@ Ministry of Manpower (MOM)
  Alternatively, you may also visit the MOM website at<a href="https://www.mom.gov.sg/employment-agencies" target="_blank" rel="noopener">https://www.mom.gov.sg/employment-agencies</a>for more information.</p></li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong></p>
  <p>There is a <strong>S$400</strong> upfront payment for licence application. Once your application is approved, you will need to make an additional payment of <strong>S$100</strong> for licence issuance.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>ACRA Business Profile</strong><br>
@@ -99,7 +99,7 @@ Maximum upload per application: 1.5 MB</li>
 Maximum upload per application: 1.5 MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Applicant must be ACRA-registered business entity.</p>
 

@@ -12,7 +12,7 @@ Singapore Land Authority (SLA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=277" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>If you wish to purchase Company's Insolvency report, send legal requisitions to relevant government agencies and request for Property Information of to speed up the process of conveyancing transactions.</p>
  <h3>FAQ</h3>

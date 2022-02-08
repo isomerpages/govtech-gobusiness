@@ -12,19 +12,19 @@ Ministry of Manpower (MOM)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Occupier (e.g. factory owner) of premises defined as factories is required to either notify or register their premises with MOM before operations, to facilitate the management of workplace risk and the implementation of Safety and Health Management Systems. If the factory falls under the definition of a Major Hazard Installation (MHI), the Occupier is required to register the premises as an MHI with MOM, at least 6 months before operations.</p>
  <H3>FAQ</H3>
  <p>Note: From 1 April 2019, construction worksites will no longer be required to be registered with MOM. Please refer to <a href="https://www.mom.gov.sg/workplace-safety-and-health/factory-notification-and-registration/requirements-for-factories" target="_blank" rel="noopener">MOM website</a> for information.<br>
  For more information on MHI, Please refer to <a href="https://www.mom.gov.sg/workplace-safety-and-health/major-hazard-installations/mhi-assessment" target="_blank" rel="noopener">https://www.mom.gov.sg/workplace-safety-and-health/major-hazard-installations/mhi-assessment</a>.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
  N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Process Hazard Analysis</strong><br>
@@ -45,7 +45,7 @@ Ministry of Manpower (MOM)
  Maximum upload per application: 1.5 MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Applicant must be ACRA-registered business entity.</p>
 

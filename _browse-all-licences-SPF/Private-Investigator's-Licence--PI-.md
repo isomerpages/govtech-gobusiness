@@ -12,7 +12,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=243" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>A "private investigator" means any individual who, for reward, carries out any of the following functions:<br>(a) obtaining and giving information about any person;<br>(b) searching for missing persons;<br>(c) obtaining and giving information as to the cause and origin of or responsibility for any fire, libel, loss or accident or any damage to real or personal property;<br>(d) obtaining and giving information as to the location or recovery of lost or stolen property; or<br>(e) Obtaining evidence to be used in any civil or criminal proceedings.</p>
 
@@ -27,12 +27,12 @@ More information can be found at the
   </li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
 Fees: $16</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Training Results</strong><br />Scanned copy of the Training Results

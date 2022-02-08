@@ -12,7 +12,7 @@ Land Transport Authority (LTA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=101" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>A Taxi Driver's Vocational Licence (TDVL) is needed before a person can drive a taxi and a Private Hire Car Driver's Vocational Licence (PDVL) is needed before a person can drive a private hire car.</p>
  <p>Vocational licences granted by the LTA ensure that drivers are properly trained. They also bring an improved professional image to the different professions.</p>
@@ -129,11 +129,11 @@ Land Transport Authority (LTA)
  The Temporary TDVL/ PDVL allows you to provide chauffeured or taxi services using a taxi/ PHC immediately. Taxi/ PHC drivers will subsequently receive their Vocational Licence Card via registered mail.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee<br /></strong>A non-refundable application fee of $40 is payable upon submission of all documents.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>NRIC</strong><br>

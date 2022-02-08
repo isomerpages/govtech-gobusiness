@@ -12,7 +12,7 @@ Singapore Food Agency (SFA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1705221400000001" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Licence to Manufacture and Process of Animal Feed may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is issued for the manufacture and processing of animal feed in Singapore including pet treats like dog biscuits, pastries or confectionary items for sale at retail outlets.</p>
  <h3>FAQs</h3>
@@ -33,12 +33,12 @@ Singapore Food Agency (SFA)
  <li><strong>Where can I get the FAQ for Manufacture and Prosses of Animal Feed?<br /></strong>You can get the FAQ on this link: SFA FAQ website at <a href="https://www.sfa.gov.sg">https://www.sfa.gov.sg</a></li>
  </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br>
  Licence Fees: $240.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>Approval document for use of Premises and waste disposal (URA, HDB / JTC, NEA)</strong><br />Approvals from other relevant authorities (if applicable for use of premises and waste disposal). (a) URA (b) HDB / JTC (c) NEA<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
@@ -49,7 +49,7 @@ Singapore Food Agency (SFA)
  <li><strong>Others</strong><br />Scanned copy of Other Miscellaneous documents<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB</li>
  </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>

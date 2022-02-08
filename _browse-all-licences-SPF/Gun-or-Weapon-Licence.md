@@ -10,7 +10,7 @@ Singapore Police Force (SPF)
 
 {% include button.html text="Apply on SPF" src="" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>To cancel a Gun or Weapon Licence issued under the Guns, Explosives And Weapons Control Act</p>
 

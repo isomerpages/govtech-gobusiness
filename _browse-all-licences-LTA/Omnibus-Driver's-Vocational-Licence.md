@@ -12,7 +12,7 @@ Land Transport Authority (LTA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=100" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Apply for this licence to be an omnibus driver. The licence is valid only while the holder is an omnibus driver with a public transport operator.</p>
  <H3>FAQ</H3>
@@ -117,11 +117,11 @@ In general, those who have committed serious offences will be barred for life. F
 Please approach the Reception Counter at Level 1 for assistance. You will need to make a payment of $10 (excluding GST) for the replacement of the licence.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee<br /></strong>A non-refundable application fee of $40 is payable upon submission of all documents.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>NRIC - Front and Back</strong><br>
@@ -156,7 +156,7 @@ File format: pdf, jpg, jpeg, gif, png, bmp<BR>
 Maximum upload per application: 2 MB</li>
 </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Only Public Transport Operators (PTOs) can submit ODVL application on behalf of applicant.</p>
 

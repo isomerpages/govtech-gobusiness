@@ -12,7 +12,7 @@ Public Utilities Board (PUB)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=268" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Application to be a Licensed Plumber to carry out water service and sanitary plumbing works.</p>
 
@@ -83,14 +83,14 @@ You will be required to attend a 3 days course which will be conducted by PUB. U
 </ol>
 
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
 The licence fee is $90 and is valid for life.
 </p>
 
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>NRIC/Employment Pass/S Pass/ Work Permit</strong><br>

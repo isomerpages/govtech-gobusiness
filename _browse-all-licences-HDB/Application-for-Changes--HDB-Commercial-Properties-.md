@@ -10,7 +10,7 @@ Housing & Development Board (HDB)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=7" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>HDB Commercial Tenants may apply for change in trade/partner(s)/business mode, transfer, assignment or renting out their properties. HDB Commercial Owners may apply for renting out their living quarters.</p>
  <h3>FAQ</h3>
@@ -26,7 +26,7 @@ Housing & Development Board (HDB)
  <li><strong>If I rent (i.e HDB tenant) or own (i.e HDB owner) of a HDB shop with living quarters, do I need to apply to HDB to rent out my living quarters?</strong><br />If you are a tenant who rents a HDB shop from HDB or owner of a HDB shop, you are required to submit an online application to rent out your living quarters. From 1 May 2018, the occupancy cap for 3-room and larger living quarters being rented out is six persons. The cap for 2-room and smaller living quarters is 4 persons.</li>
  </ol>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <p><strong>All types of applications</strong></p>
  <ul>

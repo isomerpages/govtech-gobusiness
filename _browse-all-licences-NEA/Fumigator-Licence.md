@@ -12,7 +12,7 @@ National Environment Agency (NEA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=156" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For individuals wishing to become licensed fumigators.</p>
 <h3>FAQ</h3>
@@ -26,11 +26,11 @@ National Environment Agency (NEA)
 <li><strong>When can I make payment?</strong><br />You may make payment after the application is approved.</li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />Licence Fees: $170 per fumigant</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Medical Report</strong><br />Medical Report showing that applicant of Fumigator Licence is fit to carry out fumigation activities using BR/PH/CY</li>

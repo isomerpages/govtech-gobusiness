@@ -10,7 +10,7 @@ Singapore Food Agency (SFA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000441" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For the operation of a foodstall where there is retail sale of food and/or beverage in a foodshop such as private eating houses, coffeeshops, food courts, canteens and private markets.<br />If you are interested in operating a hawker stall in a NEA managed food centre/market, you need to first bid for a food stall in NEA's tender. Once you have secured a food stall in a successful bid and signed the tenancy agreement with NEA, a hawker stall licence will then be issued to you by the Singapore Food Agency (SFA).</p>
 <p><strong>Step 1: Submit complete application in GoBusiness</strong></p>
@@ -82,13 +82,13 @@ Singapore Food Agency (SFA)
 </li>
 </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
 <p><strong>Fee</strong></p>
  <p>The Food Stall Licence costs S$32.00 and is valid for one year except for those food stalls in primary, secondary and junior college school canteens. Licensees are given the option to pay $64.00 for a food stall licence that is valid for two years.</p>
  <p>For those food stalls in primary, secondary and junior college school canteens, the licence fee cost $13.00 and it is valid for one year. Licensees are given the option to pay $26.00 for a food stall licence that is valid for two years.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <ul>
  <li><strong>A copy of Applicant's NRIC<br /></strong>A copy of applicant NRIC if application is submitted by a filer<strong><br /></strong>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
@@ -128,7 +128,7 @@ Singapore Food Agency (SFA)
  </ul>
  </div>
 
-### Requirements
+<H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
  <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
