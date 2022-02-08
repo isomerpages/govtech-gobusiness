@@ -70,19 +70,19 @@ Land Transport Authority (LTA)
  <li><strong>I would like to register for the BDVL/ BAVL Course. Where should I go?</Strong><br>
  CDC/ ComfortDelgro Bus/ BBDC/ SSDC are able to conduct training for the BDVL/ BAVL Course. Those who wish to find out more about the BDVL/ BAVL Course can contact CDC at 6841 8900 (<a target="" rel="">http://www.cdc.com.sg/</a>) or ComfortDelgro Bus at 6553 3838 (<a target="" rel="">http://www.comfortdelgrobus.com.sg</a>) or BBDC at 6561 1233 (<a target="" rel="">http://www.bbdc.sg/</a>) or SSDC at 6482 6060 (<a target="" rel="">http://www.ssdcl.com.sg</a>). <strong>Please note that BAVL course is no longer available at ComfortDelgro Bus</strong>.<br>
  Details of the training providers below:<br>
- <Strong><u>ComfortDelgro Driving Centre (CDC)</Strong></u><br>
+ <Strong><u>ComfortDelgro Driving Centre (CDC)</u></Strong><br>
  205 Ubi Avenue 4<br>
  Singapore 408805<br>
  Tel: 6841 8900<br>
-<Strong><u>Bukit Batok Driving Centre (BBDC)</Strong></u><br>
+<Strong><u>Bukit Batok Driving Centre (BBDC)</u></Strong><br>
  815 Bukit Batok West Avenue 5<br>
  Singapore 659085<br>
  Tel: 6561 1233<br>
- <Strong><u>ComfortDelgro Bus Pte Ltd (ComfortDelgro Bus)</Strong></u><br>
+ <Strong><u>ComfortDelgro Bus Pte Ltd (ComfortDelgro Bus)</u></Strong><br>
  205 Braddell Road<br>
  Singapore 579701<br>
  Tel: 6553 3838<br>
- <Strong><u>Singapore Safety Driving Centre Ltd (SSDC)</Strong></u><br>
+ <Strong><u>Singapore Safety Driving Centre Ltd (SSDC)</u></Strong><br>
  2 Woodlands Industrial Park E4<br>
  Singapore 757387<br>
  Tel: 6482 6060</br>
@@ -114,6 +114,9 @@ Land Transport Authority (LTA)
  - Original police report stating the loss of the BDVL/ BAVL licence<br>
   Please approach the Reception Counter at Level 1 for assistance. You will need to make a payment of $10 (excluding GST) for the replacement of the licence.</li>
  </ol>
+
+
+
 
 
 

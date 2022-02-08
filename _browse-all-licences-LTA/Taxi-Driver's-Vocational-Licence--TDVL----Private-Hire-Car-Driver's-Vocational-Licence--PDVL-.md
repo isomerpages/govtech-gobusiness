@@ -16,7 +16,7 @@ Land Transport Authority (LTA)
 
 <p>A Taxi Driver's Vocational Licence (TDVL) is needed before a person can drive a taxi and a Private Hire Car Driver's Vocational Licence (PDVL) is needed before a person can drive a private hire car.</p>
  <p>Vocational licences granted by the LTA ensure that drivers are properly trained. They also bring an improved professional image to the different professions.</p>
- <p><H3>FAQ</H3>
+<H3>FAQ</H3>
  <ol>
  <p><u><strong>TDVL/ PDVL APPLICATION</strong></u></p>
  <li><strong>What are the criteria for me to apply for a TDVL/ PDVL?</strong><br>
@@ -69,12 +69,12 @@ Land Transport Authority (LTA)
  <li><strong>I would like to register for the TDVL/ PDVL Course. Where should I go?</strong><br>
  CDG and LHUB have been appointed to conduct training for the TDVL/ PDVL Course. To find out more about the TDVL/ PDVL Course, please contact CDG at 6550 8681 (<a href="http://www.cdgtaxi.com.sg/" target="_blank" rel="noopener">http://www.cdgtaxi.com.sg/</a>), or LHUB at 6336 5482 (<a href="http://www.ntuclearninghub.com/contact-us/locate-us/" target="_blank" rel="noopener">www.ntuclearninghub.com/contact-us/locate-us/</a>).</BR>
  <p>Details of the training providers below:</p>
-<Strong><u>ComfortDelgro Taxi (CDG)</Strong></u><br>
+<Strong><u>ComfortDelgro Taxi (CDG)</u></Strong><br>
  Citycab Building<br>
  600 Sin Ming Avenue, Level 1<br>
  Singapore 575733<br>
  Tel: 6550 8681<br>
-<Strong><u>NTUC Learning Hub (LHUB)</Strong></u><br>
+<Strong><u>NTUC Learning Hub (LHUB)</u></Strong><br>
  NTUC Trade Union House<br>
  73 Bras Basah Road, #02-01<br>
  Singapore 189556<br>
@@ -122,7 +122,7 @@ Land Transport Authority (LTA)
  Applicants who completed the TDVL/ PDVL course will be issued a TemporaryTaxi Driver's Vocational Licence (TDVL)/ Private Hire Car Driver's Vocational Licence (PDVL) by the test centre. Applicants will subsequently receive their Vocational Licence Card via registered mail, within 6 months from the issuance of the Temporary TDVL/PDVL.</li>
  <li><strong>What must I do if my TDVL/ PDVL card is lost or damaged?</strong><br>
  You are required to make a police report immediately and apply for a duplicate licence online at <a href="https://www.gobusiness.gov.sg/licences/find-licence-by-agency/" target="_blank" rel="noopener">GoBusiness Licensing</a>. You will need to upload the police report and follow the instructions online. You will also need to pay $10.70 for a duplicate licence.</li>
- <p><Strong><u>TDVL/ PDVL GENERAL QUERIES</Strong></u></p>
+ <p><Strong><u>TDVL/ PDVL GENERAL QUERIES</u></Strong></p>
  <li><strong>How do LTA enforcement officers recognise drivers who have passed the competency test to drive?</strong><br>
  SP will issue the Temporary TDVL/ PDVL to taxi/ PHC drivers who have passed the competency test but have yet to collect the Vocational Licence Card. These taxi/ PHC drivers may show the enforcement officers their Temp TDVL/ PDVL.</li>
  <li><strong>Why am I issued a temp TDVL/ PDVL and not a card licence?</strong><br>
@@ -137,10 +137,10 @@ Land Transport Authority (LTA)
 
 <ul>
  <li><strong>NRIC</strong><br>
- For Singaporean : NRIC<br />
+ For Singaporean : NRIC<br>
  Mandatory to upload upon application for all type of vocational licences. <br>
  File format:pdf, jpg, jpeg, gif, png, bmp<br>
-Maximum upload per application: 2 MB</li></li>
+Maximum upload per application: 2 MB</li>
  <li><strong>Passport size photo</strong><br>
  Please provide a recent passport size photograph (400 by 514 pixels (35mm by 45mm)). Photo must be recent with full face, front view with eyes open, ensure the full head from top of hair to the bottom of chin and head must be at the centre, wears a collared shirt, and on white background. Headgear worn in accordance with religious or racial custom is acceptable as long as it does not hide the facial features. Photo in any uniform group is not allowed.<br>
  Mandatory to upload upon application for all type of vocational licences.<br>

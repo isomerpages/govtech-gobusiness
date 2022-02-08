@@ -47,6 +47,7 @@ Ministry of Education (MOE)
  1, North Buona Vista Drive,<br>
  Level 15, MOE Building<br>
  Singapore 138675</li>
+</ol>
 
 **Additional Information**
 

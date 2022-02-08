@@ -84,8 +84,12 @@ Applicants will be required to pay any application fees payable for all resubmis
 
 ### Documents Needed
 
-<p>If the employee is not a Singapore Citizen or Singapore Permanent Resident, a copy of the employee's work pass must be submitted together with the application via GoBusiness Licensing.</p>
-<p>If the employee is applying to be a qualified masseuse/therapist, a copy of the relevant recognised certification must be submitted together with the application via GoBusiness Licensing.</p>
+<ul>
+<li><strong>A copy of the employee's work pass</strong><br />If the employee is not a Singapore Citizen or Singapore Permanent Resident, a copy of the employee's work pass must be submitted together with the application via GoBusiness Licensing.
+</li>
+<li><strong>A copy of the relevant recognised certification</strong><br />If the employee is applying to be a qualified masseuse/therapist, a copy of the relevant recognised certification must be submitted together with the application via GoBusiness Licensing.
+</li>
+</ul>
 
 ### Requirements
 

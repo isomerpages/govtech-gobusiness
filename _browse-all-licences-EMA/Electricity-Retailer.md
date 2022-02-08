@@ -37,8 +37,10 @@ Retailers must meet both requirements before they can start retailing electricit
 
 **Additional Information**
 
-<p>The annual licence fee is payable each April for the Financial Year starting 1 April. The initial licence fee payable upon issuance of the licence is pro-rated based on the number of days remaining in the current Financial Year.</p>
-<p>You may contact EMA directly if you require further details on the fees for each licence class.</p>
+<p><strong>Fees</strong><br>
+The annual licence fee is payable each April for the Financial Year starting 1 April. The initial licence fee payable upon issuance of the licence is pro-rated based on the number of days remaining in the current Financial Year.</p>
+<p><strong>Contact Details</strong><br>
+You may contact EMA directly if you require further details on the fees for each licence class.</p>
 
 ### Documents Needed
 

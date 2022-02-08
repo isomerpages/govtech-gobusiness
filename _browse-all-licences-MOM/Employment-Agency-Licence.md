@@ -64,7 +64,7 @@ Ministry of Manpower (MOM)
  <li><Strong>How do I amend previously declared affiliation?</Strong><br>
  You can amend your previously declared family affiliation by submitting an amendment via GoBusiness Licensing Amend Licence Profile Application.</li>
  <li><Strong>Who can I contact for further details?</Strong><br>
- For further assistance, please contact us at the following details,<br>
+ For further assistance, please contact us at the following details:<br>
  Employment Agency Licensing Branch<br>
  1500 Bendemeer Road, #02-01<br>
  MOM Services Centre<br>
@@ -74,7 +74,7 @@ Ministry of Manpower (MOM)
  Email:<a href="mailto:mom_fmmd@mom.gov.sg">mom_fmmd@mom.gov.sg</a></li>
  <p>Our Operating Hours<br>
  (Mon to Fri except public holidays)- 8:00am to 5:30pm<br>
- Alternatively, you may also visit the MOM website at<a href="https://www.mom.gov.sg/employment-agencies" target="_blank" rel="noopener">https://www.mom.gov.sg/employment-agencies</a>for more information.</li>
+ Alternatively, you may also visit the MOM website at<a href="https://www.mom.gov.sg/employment-agencies" target="_blank" rel="noopener">https://www.mom.gov.sg/employment-agencies</a>for more information.</p></li>
  </ol>
 
 **Additional Information**

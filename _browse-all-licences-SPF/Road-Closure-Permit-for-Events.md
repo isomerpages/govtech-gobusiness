@@ -152,11 +152,10 @@ Email : tp_roadclosurepermit@spf.gov.sg
 
 **Additional Information**
 
-<p>Member of public may contact Traffic Police at :<br />Tel : +65 6547 0000<br />Email : tp_roadclosurepermit@spf.gov.sg</p>
+<p><strong>Contact Details</strong><br>Member of public may contact Traffic Police at :<br />Tel : +65 6547 0000<br />Email : tp_roadclosurepermit@spf.gov.sg</p>
 
 ### Documents Needed
 
-<p>Applicant is required to submit the following documents when submitting the applications:</p>
 <ul>
 <li><strong>Event Data Sheet</strong></li>
 <li><strong>Stakeholders Engagement List</strong></li>

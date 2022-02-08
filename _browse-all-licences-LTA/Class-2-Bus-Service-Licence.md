@@ -13,7 +13,7 @@ Land Transport Authority (LTA)
 ### Application Details
 
 <p>For the operation of a fare-charging scheduled bus service</p>
- <p><H3>FAQ</H3>
+ <H3>FAQ</H3>
  <p><strong><u>BSL APPLICATION - NEW</u></strong></p>
  <ol>
  <li><Strong>Do I need to apply for this licence?</Strong><BR>

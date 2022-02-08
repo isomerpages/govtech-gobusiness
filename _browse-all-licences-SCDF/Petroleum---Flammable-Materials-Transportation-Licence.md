@@ -109,7 +109,7 @@ Email: K_Mahaintharan@scdf.gov.sg
 <br>
 Name: Mr K Mahaintharan
 <br>
-Designation: 	
+Designation:         
 Asst Team Leader Import and Transport
 <br>
 Contact: 68481429
@@ -161,7 +161,6 @@ Fax:  68481494
 You can submit the application form and the supporting documents, if required, via the GoBusiness Licensing. As the applicant, you can either file personally or authorise a representative to apply on your behalf. For offline submission, please indicate the case ID number on your supporting documents before sending to SCDF/CED.
 <li>
 </ol>
-
 
 
 **Additional Information**

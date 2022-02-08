@@ -81,7 +81,7 @@ j) Licensees shall inform the Authority on any changes in the particulars pertai
 **Additional Information**
 
 <p><strong>Fees</strong><br />
-New licence valid for 12 months - <strong>$400</strong> per year</p>
+New licence valid for 12 months - $400 per year</p>
 
 ### Documents Needed
 

@@ -69,21 +69,25 @@ We will assess the information you have submitted. If your application is in ord
 </li> 
  
 <li>
-<strong>Other frequently asked questions?</strong><br>
-8a) What should I do if my company/ factory ceases its operation?<br>
-Please inform PUB in writing (to the emails stated in Q6 above). Your Written Approval will be revoked and any deposit paid (applicable to those paying monthly trade effluent fees) will be refunded after the deduction of any outstanding bills.<br><br>
+<strong>What should I do if my company/ factory ceases its operation?</strong><br>
+Please inform PUB in writing (to the emails stated in Q6 above). Your Written Approval will be revoked and any deposit paid (applicable to those paying monthly trade effluent fees) will be refunded after the deduction of any outstanding bills.
+</li>
 
-8b What should I do if my company/ factory has shifted to the new location or has changed its status (like change from Partnership/ sole-proprietor ship to limited private company)?<br>
-Please inform PUB in writing (to the emails stated in Q6 above) together with an updated business registration certificate from the Accounting & Corporate Regulatory Authority (ACRA). You will need to apply for a new Written Approval for the new premises.<br><br>
+<li>
+<strong>What should I do if my company/ factory has shifted to the new location or has changed its status (like change from Partnership/ sole-proprietor ship to limited private company)?</strong><br>
+Please inform PUB in writing (to the emails stated in Q6 above) together with an updated business registration certificate from the Accounting & Corporate Regulatory Authority (ACRA). You will need to apply for a new Written Approval for the new premises.
+</li>
 
-8c What should I do if my company/ factory has changed its name?<br>
-Please inform PUB in writing (to the email stated in Q6 above) together with an updated business registration certificate from ACRA. We will inform you of the change of your company's name in the Written Approval. A new Written Approval is not necessary.<br><br>
+<li>
+<strong>What should I do if my company/ factory has changed its name?</strong><br>
+Please inform PUB in writing (to the email stated in Q6 above) together with an updated business registration certificate from ACRA. We will inform you of the change of your company's name in the Written Approval. A new Written Approval is not necessary.
+</li>
 
-8d Any other matters I should take note or notify PUB?<br>
+<li>
+<strong>Any other matters I should take note or notify PUB?</strong><br>
 Please notify PUB of any changes to the company/factory activities or increase in the volume of trade effluent discharge.<br><br>
 Please note that the Written Approval may be revoked or suspended if you fail to comply with any provision of the Sewerage and Drainage (Trade Effluent) Regulations or any conditions imposed on the Written Approval.
-</li> 
- 
+</li>
 
 </ol>
 

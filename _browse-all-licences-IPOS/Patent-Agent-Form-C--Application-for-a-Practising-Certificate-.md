@@ -15,7 +15,7 @@ Intellectual Property Office of Singapore (IPOS)
 ### Application Details
 
 <p>Application for a Practising Certificate under rule 9(1) of the Patents (Patent Agents) Rules 2001.</p>
-<h3>FAQ</strong></h3>
+<h3>FAQ</h3>
 <ol>
 <li><strong>Why is the Professional Indemnity Insurance required?</strong><br>
 The Professional Indemnity insurance is needed for patent agents to provide protection against liability or gives liability coverage in any case of misjudgement.</li>

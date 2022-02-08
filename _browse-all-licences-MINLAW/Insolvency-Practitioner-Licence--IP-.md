@@ -15,7 +15,7 @@ Ministry of Law (MINLAW)
 ### Application Details
 
 <p>Application to hold an insolvency practitioner's licence (new) to undertake insolvency or debt restructuring work in Singapore.</p>
- <p><H3>FAQ</H3>
+ <H3>FAQ</H3>
  <ol>
  <li><strong>What are the criteria to hold an insolvency practitioner's licence?</strong><br>
  In order to be eligible to apply for an insolvency practitioner's licence, you are first required to be any of the following:<br>
@@ -26,7 +26,7 @@ Ministry of Law (MINLAW)
  <p>Note:<br>
  *"Solicitor" means an advocate and solicitor of the Supreme Court.<br>
  **"Public accountant" means a person who is registered or deemed to be registered in accordance with the Accountants Act (Cap. 2) as a public accountant.<br>
- ***"Chartered accountant" means a person who is registered or deemed to be registered as a Chartered Accountant of Singapore under the Singapore Accountancy Commission Act (Cap. 294B).</li>
+ ***"Chartered accountant" means a person who is registered or deemed to be registered as a Chartered Accountant of Singapore under the Singapore Accountancy Commission Act (Cap. 294B).</p></li>
  <li><strong>What supporting documents do I need to submit?</strong><br>
  The following documents are required for your application:<br>
  a. Curriculum Vitae;<br>

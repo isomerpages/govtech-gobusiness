@@ -20,10 +20,10 @@ SkillsFuture Singapore (SSG)
  <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme" target="_blank" rel="noopener">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme</a></p>
  <H3>FAQ</H3>
  For more information, please refer to the following website:<br>
- <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme" target="_blank" rel="noopener">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme</a>.</p>
+ <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme" target="_blank" rel="noopener">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme</a>.<br>
  <p><strong>Contact Information</strong></p>
  For more information, please refer to the following website:<br>
- <a href="http://www.ssg-wsg.gov.sg/about/contact-us.html" target="_blank" rel="noopener">http://www.ssg-wsg.gov.sg/about/contact-us.html</a></p>
+ <a href="http://www.ssg-wsg.gov.sg/about/contact-us.html" target="_blank" rel="noopener">http://www.ssg-wsg.gov.sg/about/contact-us.html</a><br>
 
 **Additional Information**
 

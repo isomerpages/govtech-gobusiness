@@ -16,7 +16,7 @@ Public Utilities Board (PUB)
 
 <p>Application to be a Licensed Plumber to carry out water service and sanitary plumbing works.</p>
 
-<h3>FAQ</h3
+<h3>FAQ</h3>
 
 <ol>
 <li>

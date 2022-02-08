@@ -15,12 +15,12 @@ Ministry of Law (MINLAW)
 ### Application Details
 
 <p>For entities which lend money to borrowers for specific purposes.</p>
- <p><H3>FAQ</H3>
+<H3>FAQ</H3>
  <ol>
  <li><Strong>Is an exempt moneylender exempted from the Moneylenders Act (Cap.188) and all of its subsidiary legislation?</Strong><br>
  In general, an exemption does not extend to the Moneylenders (Prevention of Money Laundering And Financing of Terrorism) Rules 2009, the Unsecured Credit Rules under Part III of the Moneylenders Rules 2009 and Sections 25 to 27 of the Moneylenders Act.</li>
  <li><Strong>Where do I look for more information pertaining an application for a certificate of exemption?</Strong><br>
- You may refer to our website through the following weblink: <a href="https://rom.mlaw.gov.sg/information-for-moneylenders/" target="_blank" rel="noopener">https://rom.mlaw.gov.sg/information-for-moneylenders/</a>.</li>
+You may refer to our website through the following weblink: <a href="https://rom.mlaw.gov.sg/information-for-moneylenders/" target="_blank" rel="noopener">https://rom.mlaw.gov.sg/information-for-moneylenders/</a>.</li>
 </ol>
 
 **Additional Information**
