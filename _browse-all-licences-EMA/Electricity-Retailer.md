@@ -10,7 +10,7 @@ Energy Market Authority (EMA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=281" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=281" type="primary" %}
 
 ### Application Details
 
@@ -84,7 +84,7 @@ You may contact EMA directly if you require further details on the fees for each
 <br>Maximum upload per application: 5 MB</li>
 <li><strong>Other supporting documents (if any)</strong>
 <br>File format: pdf, xls, xlsx, doc, docx
-<br>Maximum upload per application: 10 MB</li>
+<br>Maximum upload per application: 10 MB</li></ul>
 
 
 ### Requirements

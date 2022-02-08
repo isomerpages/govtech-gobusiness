@@ -10,7 +10,7 @@ National Environment Agency (NEA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=179" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=179" type="primary" %}
 
 ### Application Details
 
@@ -70,5 +70,5 @@ National Environment Agency (NEA)
 ### Requirements
 
 <p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
-<p><strong>Related licence(s)</strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=183" target="_blank" rel="noopener">L5 - Licence to use ionising irradiating apparatus (other than sale)</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=185" target="_blank" rel="noopener">L7A/B - Licence to import or export a consignment of ionising irradiating apparatus</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=191" target="_blank" rel="noopener">R1- Registration as a radiation worker</a></p>
+<p><strong>Related licence(s)</strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=183" target="_blank" rel="noopener">L5 - Licence to use ionising irradiating apparatus (other than sale)</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=185" target="_blank" rel="noopener">L7A/B - Licence to import or export a consignment of ionising irradiating apparatus</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=191" target="_blank" rel="noopener">R1- Registration as a radiation worker</a></p>
 

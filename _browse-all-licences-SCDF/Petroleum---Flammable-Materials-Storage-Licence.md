@@ -10,7 +10,7 @@ Singapore Civil Defence Force (SCDF)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=22" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=22" type="primary" %}
 
 ### Application Details
 
@@ -68,7 +68,7 @@ The licensee shall ensure that licensed premises and fire safety systems are wel
  
 <li>
 <strong>What supporting documents do I need to submit?</strong><br>
-One copy of approved plan or certified true copy of the approved plan showing the location of the premises and proposed storage area.<br>
+One copy of approved plan or certified True copy of the approved plan showing the location of the premises and proposed storage area.<br>
 A copy of Temporary Fire Permit or Fire Safety Certificate of the premises if it is issued by JTC or HDB or LTA. However, if it is issued by SCDF, the applicant is required to fill in the BP Plan number only for on-line submission.<br>
 A copy of Emergency Response plan.<br>
 For bulk tanks and major piped installation, additional documents such as Manufacturer's reports and all the relevant test reports duly endorsed by a Professional Engineer are to be submitted.<br>
@@ -196,7 +196,7 @@ The licensee shall ensure that licensed premises and fire safety systems are wel
  
 <li>
 <strong>What supporting documents do I need to submit?</strong><br>
-One copy of approved plan or certified true copy of the approved plan showing the location of the premises and proposed storage area.<br>
+One copy of approved plan or certified True copy of the approved plan showing the location of the premises and proposed storage area.<br>
 A copy of Temporary Fire Permit or Fire Safety Certificate of the premises if it is issued by JTC or HDB or LTA. However, if it is issued by SCDF, the applicant is required to fill in the BP Plan number only for on-line submission.<br>
 A copy of Emergency Response plan.<br>
 For bulk tanks and major piped installation, additional documents such as Manufacturer's reports and all the relevant test reports duly endorsed by a Professional Engineer are to be submitted.<br>
@@ -284,11 +284,11 @@ The fee will be determined by agency.
 ### Documents Needed
 
 <ul>
-<li><strong>Approved plan (Mandatory)</strong><br />One certified true copy (or original approved plan) showing the location of the premises and proposed storage area<br>
+<li><strong>Approved plan (Mandatory)</strong><br />One certified True copy (or original approved plan) showing the location of the premises and proposed storage area<br>
 File format: doc,docx,pdf,jpg,rtf,htm,bmp,xls,xlsx,dwg<br>
 Maximum upload per application: 2 MB
 </li>
-<li><strong>Temporary Fire Permit / Fire Safety Certificate issued by other government agency</strong><br />One certified true (or original) copy of Temporary Fire Permit or Fire Safety Certificate of the premise if it is issued by other government agencies (e.g. JTC, HDB or LTA)<br>
+<li><strong>Temporary Fire Permit / Fire Safety Certificate issued by other government agency</strong><br />One certified True (or original) copy of Temporary Fire Permit or Fire Safety Certificate of the premise if it is issued by other government agencies (e.g. JTC, HDB or LTA)<br>
 Click for sample<a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF+FMS+FSC.pdf" target="_blank" rel="noopener">Fire Safety Certificate</a><br>
 File format: doc,docx, pdf, jpg, rtf, htm, bmp, xls,xlsx<br>
 Maximum upload per application: 2 MB
@@ -309,7 +309,7 @@ Click for sample<a href="https://licence1.business.gov.sg/feportal/documents/131
 File format: doc,docx, pdf, jpg, rtf, htm, bmp, xls,xlsx<br>
 Maximum upload per application: 2 MB
 </li>
-<li><strong>LPG Check List</strong><br />One certified true (or original) copy of LPG Checklist.<br>
+<li><strong>LPG Check List</strong><br />One certified True (or original) copy of LPG Checklist.<br>
 Click for sample<a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF+FMS+CHECKLIST.pdf" target="_blank" rel="noopener">LPG Checklist</a><br>
 File format: doc,docx, pdf, jpg, rtf, htm, bmp, xls,xlsx<br>
 Maximum upload per application: 2 MB

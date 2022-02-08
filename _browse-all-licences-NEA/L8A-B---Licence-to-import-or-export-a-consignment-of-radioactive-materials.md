@@ -10,7 +10,7 @@ National Environment Agency (NEA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=186" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=186" type="primary" %}
 
 ### Application Details
 
@@ -63,5 +63,5 @@ National Environment Agency (NEA)
 ### Requirements
 
 <p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
-<p><strong>Related licence(s)</strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=180" target="_blank" rel="noopener">L2 - Licence to manufacture, possess for sale or deal in radioactive materials</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=182" target="_blank" rel="noopener">L4 - Licence to keep or possess radioactive materials for use (other than sale)</a></p>
+<p><strong>Related licence(s)</strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=180" target="_blank" rel="noopener">L2 - Licence to manufacture, possess for sale or deal in radioactive materials</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=182" target="_blank" rel="noopener">L4 - Licence to keep or possess radioactive materials for use (other than sale)</a></p>
 

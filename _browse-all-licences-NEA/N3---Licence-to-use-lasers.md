@@ -10,7 +10,7 @@ National Environment Agency (NEA)
 
 {% include spcp-text.html type="sp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=189" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=189" type="primary" %}
 
 ### Application Details
 
@@ -55,5 +55,5 @@ National Environment Agency (NEA)
 ### Requirements
 
 <p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
-<p><strong>Related licence(s)</strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=188" target="_blank" rel="noopener">N2 - Licence to keep or possess for use non-ionising irradiating apparatus</a></p>
+<p><strong>Related licence(s)</strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=188" target="_blank" rel="noopener">N2 - Licence to keep or possess for use non-ionising irradiating apparatus</a></p>
 

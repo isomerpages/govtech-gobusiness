@@ -10,7 +10,7 @@ Early Childhood Development Agency (ECDA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=266" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=266" type="primary" %}
 
 ### Application Details
 
@@ -22,11 +22,11 @@ Early Childhood Development Agency (ECDA)
 <ol>
 <li><strong>Do I need to apply for this licence?</strong><br>
 Early Childhood Development Centres (ECDCs) are governed by the Early Childhood Development Centres Act and Regulations. You are required to obtain an ECDC licence to operate a centre. It is an offence under Section 6(1) of the Early Childhood Development Centres Act 2017 to operate a centre without a licence.<br>
-<p>Section 6(3) states that a person who contravenes the above "shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; and in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction".</li>
+<p>Section 6(3) states that a person who contravenes the above "shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; and in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction".</p></li>
 
 
 <li><strong>What conditions do I need to fulfill?</strong><br>
-Individuals/organisations who wish to set up an early childhood development centre is advised to read the "Guide and Application To Set Up an Early Childhood Development Centre" before proceeding with the plan. He / She should also be familiar with the legislative requirements as the licensee is required to comply with all requirements. The Early Childhood Development Centres Act and Regulations can be purchased from Toppan LeeFung Pte Ltd at 1 Kim Seng Promenade #18-01, Great World City East Tower, Singapore 237994 (Tel:68269691).</li>
+Individuals/organisations who wish to set up an early childhood development centre is advised to read the "Guide and Application To Set Up an Early Childhood Development Centre" before proceeding with the plan. He / She should also be familiar with the legislative requirements as the licensee is required to comply with all requirements. The Early Childhood Development Centres Act and Regulations can be purchased from Toppan LeeFung Pte Ltd at 1 Kim Seng Promenade #18-01, Great World City East Tower, Singapore 237994 (Tel:<a href="tel:+6568269691">68269691</a>).</li>
 
 <li><strong>What supporting documents do I need to submit?</strong><br>
 You can find the document checklist and site visit checklist in the 'Guide and Application to Set Up An Early Childhood Development Centre'. Refer to the "Document Checklist" for the list of supporting documents to be submitted. Refer to "Site Visit Checklist" and conduct a self-assessment to ensure the premises meet the requirements of an ECDC prior to the Regulation Officer's visit.</li>
@@ -40,7 +40,7 @@ The initial licence is valid for 12 months. The new licence application fee is $
 
 
 <li><strong>Who can I contact for further details?</strong><br>
-For further assistance, please contact us at 6735-9213; e-mail us at contact@ecda.gov.sg; or visit the ECDA Website Address at:<br> http://www.ecda.gov.sg.<br> You could also write to us at:<br>
+For further assistance, please contact us at <a href="tel:+6567359213">6735-9213</a>; e-mail us at contact@ecda.gov.sg; or visit the ECDA Website Address at:<br> http://www.ecda.gov.sg.<br> You could also write to us at:<br>
 Early Childhood Development Agency (ECDA)<br>
 51 Cuppage Road<br>
 #08-01<br>

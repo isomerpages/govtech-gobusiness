@@ -10,7 +10,7 @@ Public Utilities Board (PUB)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=4" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=4" type="primary" %}
 
 ### Application Details
 
@@ -58,9 +58,9 @@ The Written Approval is valid for 5 years. However, changes to the licence will 
 <li>
 <strong>Who can I contact for further details?</strong><br>
 You may call:<br>
-Mr Damien Zhao Hong Kai at Tel: [65172201](tel:+6565172201)<br><br>
+Mr Damien Zhao Hong Kai at Tel: <a href="tel:+6565172201">65172201</a><br><br>
 You can also write to:<br>
-Mr Damien Zhao Hong Kai at [Damien_zhao@pub.gov.sg](mailto:Damien_zhao@pub.gov.sg]
+Mr Damien Zhao Hong Kai at <a href="mailto:Damien_zhao@pub.gov.sg">Damien_zhao@pub.gov.sg</a>
 </li> 
 
 <li>

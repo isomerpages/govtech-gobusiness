@@ -8,7 +8,7 @@ third_nav_title: Civil Aviation Authority of Singapore (CAAS)
 
 Civil Aviation Authority of Singapore (CAAS)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=286" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=286" type="primary" %}
 
 ### Application Details
 

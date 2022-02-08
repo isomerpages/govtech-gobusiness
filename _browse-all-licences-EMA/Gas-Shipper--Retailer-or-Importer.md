@@ -10,7 +10,7 @@ Energy Market Authority (EMA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=283" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=283" type="primary" %}
 
 ### Application Details
 
@@ -61,7 +61,7 @@ Audited past profit and loss statements, balance sheets and cash flow statements
 <br>File format: pdf, doc, docx, xls, xlsx
 <br>Maximum upload per application: 5 MB</li>
 
-<li><strong>Certified true copy of the applicant's gas sale agreements/gas contracts with its gas suppliers or other supporting documents, including but not limited to quantities of Piped Natural Gas or Liquefied Natural Gas available, or which are anticipated to be available, for import (For Importers Only)</strong>
+<li><strong>Certified True copy of the applicant's gas sale agreements/gas contracts with its gas suppliers or other supporting documents, including but not limited to quantities of Piped Natural Gas or Liquefied Natural Gas available, or which are anticipated to be available, for import (For Importers Only)</strong>
 <br>File format: pdf, doc, docx, xls, xlsx, jpg, png
 <br>Maximum upload per application: 10 MB</li>
 
