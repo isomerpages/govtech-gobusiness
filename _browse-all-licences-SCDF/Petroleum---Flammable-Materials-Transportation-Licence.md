@@ -87,7 +87,8 @@ Applicant can make on-line payment through the GoBusiness Licensing or to <a hre
 Alternatively, you may choose to make off-line payment at HQ SCDF's counter via NETS, Cash card or Credit Card (cash & cheque payment are unacceptable). For information on GIRO scheme or clarification on payment matters, you may wish to contact SCDF Finance Department at <a href="tel:+6568481623">68481623</a> / <a href="tel:+6568481618">68481618</a>.
 </li>
 
-<li><strong>Who can I contact for further details?</strong><br>
+<li>
+<strong>Who can I contact for further details?</strong><br>
 For further clarification, you may contact Licensing Officers at the following contact nos. :<br>
 Email: <a href="Md_Zali_Ahmad@scdf.gov.sg">Md_Zali_Ahmad@scdf.gov.sg/a><br>
 Name: Mohamed Zali Bin Ahmad<br>
@@ -125,8 +126,8 @@ Designation: Team Leader Storage<br>
 Contact: <a href="tel:+6568481428">68481428</a><br><br>
 
 Central Tel line: <a href="tel:+6568481472">68481472</a><br>
-Fax:  68481494</li>
-
+Fax:  68481494
+</li>
 
 <li>
 <strong>What is the application process like?</strong><br>

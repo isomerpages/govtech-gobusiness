@@ -40,7 +40,7 @@ The initial licence is valid for 12 months. The new licence application fee is $
 
 
 <li><strong>Who can I contact for further details?</strong><br>
-For further assistance, please contact us at <a href="tel:+6567359213">6735-9213</a>; e-mail us at <a href="mailto:contact@ecda.gov.sg">contact@ecda.gov.sg</a>; or visit the ECDA Website Address at:<br> http://www.ecda.gov.sg.<br> You could also write to us at:<br>
+For further assistance, please contact us at <a href="tel:+6567359213">6735-9213</a>; e-mail us at <a href="mailto:contact@ecda.gov.sg">contact@ecda.gov.sg</a>; or visit the ECDA Website Address at:<br> <a href="http://www.ecda.gov.sg" target="_blank" rel="noopener">http://www.ecda.gov.sg</a>.<br> You could also write to us at:<br>
 Early Childhood Development Agency (ECDA)<br>
 51 Cuppage Road<br>
 #08-01<br>

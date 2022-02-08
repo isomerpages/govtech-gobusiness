@@ -54,7 +54,7 @@ Flammable Materials<br>
 For information on the exemption quantity of individual flammable materials, please refer to the Second Schedule of the Fire Safety (Petroleum 7 Flammable Materials) Regulations 2013
 <br><br>
 
-<br>For further details and the definition of the terms used, you can visit the<a href="https://www.scdf.gov.sg/home/fire-safety/petroleum-and-flammable-material-licences/information-of-p-fm-storage-licence" target="_blank" rel="noopener">SCDF website</a>
+<br>For further details and the definition of the terms used, you can visit the <a href="https://www.scdf.gov.sg/home/fire-safety/petroleum-and-flammable-material-licences/information-of-p-fm-storage-licence" target="_blank" rel="noopener">SCDF website</a>
 </li>
 
 
@@ -100,7 +100,7 @@ Flammable Material (Gaseous)<br>
 not exceeding 50 kg: $212<br>
 exceeding 50 kg but not exceeding 5,000 kg: $276<br>
 for subsequent 5,000 kg or part thereof: $48<br><br>
-Applicant can make on-line payment through the GoBusiness Licensing or to<a href="https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=EPAYMENT" target="_blank" rel="noopener">SCDF Eservices</a>.<br>
+Applicant can make on-line payment through the GoBusiness Licensing or to <a href="https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=EPAYMENT" target="_blank" rel="noopener">SCDF Eservices</a>.<br>
 Alternatively, you may choose to make off-line payment at HQ SCDF's counter via NETS, Cash card or Credit Card (cash 7 cheque payment are unacceptable). For information on GIRO scheme or clarification on payment matters, you may wish to contact SCDF Finance Department at 68481623 / 68481618
 </li>
 
@@ -289,7 +289,7 @@ File format: doc,docx,pdf,jpg,rtf,htm,bmp,xls,xlsx,dwg<br>
 Maximum upload per application: 2 MB
 </li>
 <li><strong>Temporary Fire Permit / Fire Safety Certificate issued by other government agency</strong><br />One certified true (or original) copy of Temporary Fire Permit or Fire Safety Certificate of the premise if it is issued by other government agencies (e.g. JTC, HDB or LTA)<br>
-Click for sample<a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF+FMS+FSC.pdf" target="_blank" rel="noopener">Fire Safety Certificate</a><br>
+Click for sample <a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF+FMS+FSC.pdf" target="_blank" rel="noopener">Fire Safety Certificate</a><br>
 File format: doc,docx, pdf, jpg, rtf, htm, bmp, xls,xlsx<br>
 Maximum upload per application: 2 MB
 </li>
