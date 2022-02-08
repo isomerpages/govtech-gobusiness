@@ -8,7 +8,7 @@ third_nav_title: Singapore Police Force (SPF)
 
 Singapore Police Force (SPF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=265" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=265" type="primary" %}
 
 ### Application Details
 
@@ -115,7 +115,7 @@ If Unsuccessful : Event may be continued without any road or lane closure.<br>
 <br>        
 Step 7 :<br>        
 Put up signs along the affected road 2 weeks prior to the event.<br>        
-(please refer to the guidelines and template for the use of signs)
+(please refer to the guidelines and template for the use of signs)<br>  
 <br>        
 Step 8 :<br>        
 Execution of approved plans<br>        

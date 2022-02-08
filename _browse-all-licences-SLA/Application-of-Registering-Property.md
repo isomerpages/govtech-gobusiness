@@ -10,7 +10,7 @@ Singapore Land Authority (SLA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=277" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=277" type="primary" %}
 
 ### Application Details
 
@@ -32,7 +32,7 @@ Singapore Land Authority (SLA)
  </ol>
  <p><strong>Search for Property Information</strong></p>
  <ol>
- <li><strong>What is the purpose of conducting the PSS-INLIS property information search?<br /></strong>The buyer normally conducts a title search on the property to ascertain if the seller is the True owner.</li>
+ <li><strong>What is the purpose of conducting the PSS-INLIS property information search?<br /></strong>The buyer normally conducts a title search on the property to ascertain if the seller is the true owner.</li>
  <li><strong>What information is required when you want to conduct the PSS-INLIS property information search?<br /></strong>Please have the Property Full Address ready when submitting the application.<br />Note: Search by Owner Name or Identification Number to extract the property address(es) is not available.</li>
  <li><strong>What is the cost of conducting the PSS-INLIS property information search and the modes of payment?<br /></strong>A search fee varies from the types of selection you wish to purchase (see fee table below) is payable for each search request submitted and the payment is to be made by PayPal via GoBusiness Licensing portal only.<br />Item: Total<br />i. POI - Property Ownership Information: $5.25<br />ii. PTI - Property Title Information: $16.00<br />iii. PTIEI - Encumbrances Information: $11.00<br />Note: CrimsonLogic may revise the above search fee from time to time. Each time you use our service, you acknowledge and agree that our latest search fee shall apply to you.</li>
  <li><strong>What is the processing time to conduct the property information search?<br /></strong>Any search requests received before 3:00pm on weekdays and/ or 10:00am on Saturday during our working hours will be processed within the same day and we will email you with the search result.</li>

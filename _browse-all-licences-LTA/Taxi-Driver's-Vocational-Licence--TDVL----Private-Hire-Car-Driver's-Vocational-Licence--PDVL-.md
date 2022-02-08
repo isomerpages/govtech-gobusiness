@@ -10,7 +10,7 @@ Land Transport Authority (LTA)
 
 {% include spcp-text.html type="sp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=101" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=101" type="primary" %}
 
 ### Application Details
 
@@ -82,7 +82,7 @@ Land Transport Authority (LTA)
  <li><strong>What do I need to bring along to register for course?</strong><br>
  When registering for the training course, please bring your LTA approval letter, <strong>NRIC, Driving Licence</strong> and the following documents:<br>
 1. LTA's <strong>medical examination form</strong> duly completed and certified by a registered medical practitioner;<br>
-2. The original or certified True copy of your <strong>chest</strong> X-rayexamination result card signed by a radiologist; and<br>
+2. The original or certified true copy of your <strong>chest</strong> X-rayexamination result card signed by a radiologist; and<br>
 3. Original and copy of your <strong>GCE "O" or "N" Level certificate</strong>, with a pass (at least a D7 grade) in English OR the results for the <strong>WPL-CAT</strong> (at least a Level 3 pass in the Listening, Reading and Speaking modules).</li>
  <li><strong>I would like to apply for a TDVL/ PDVL but do not possess a GCE "O" or "N" Level pass (at least a D7 grade) in English. What can I do?</strong><br>
  TDVL/ PDVL applicants who do not possess a GCE "O" or "N" Level pass (at least a D7 grade) in English may sit for the Workplace Literacy Computer Adaptive Test (WPL-CAT) for Conversational English.</br>

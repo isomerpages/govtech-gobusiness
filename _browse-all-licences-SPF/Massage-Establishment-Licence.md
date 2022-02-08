@@ -10,7 +10,7 @@ Singapore Police Force (SPF)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=43" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=43" type="primary" %}
 
 ### Application Details
 
@@ -118,7 +118,7 @@ Maximum upload per application: 2 MB
 File format: pdf,jpg,gif,doc,docx<br>
 Maximum upload per application: 2 MB
 </li>
-<li><strong>TCM related documents<br>
+<li><strong>TCM related documents</strong><br>
 File format: pdf,jpg,gif,doc,docx<br>
 Maximum upload per application: 2 MB
 </li>

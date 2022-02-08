@@ -8,7 +8,7 @@ third_nav_title: Singapore Police Force (SPF)
 
 Singapore Police Force (SPF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=50" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=50" type="primary" %}
 
 ### Application Details
 
@@ -66,12 +66,12 @@ Applicant must be having one of the following position:<br>
 ### Documents Needed
 
 <ul>
-<li><strong>List of Crane/ Game Machines</strong><br />Documents showing list of crane/game machine<br>
+<li><strong>List of Crane/ Game Machines</strong><br>Documents showing list of crane/game machine<br>
 File format: pdf,jpg,gif,doc,docx<br>
-Maximum upload per application: 2 MB
-<li><strong>Others</strong><br />Additional Supporting Documents (eg. URA Land Use / HDB lodgement)<br>
+Maximum upload per application: 2 MB</li>
+<li><strong>Others</strong><br>Additional Supporting Documents (eg. URA Land Use / HDB lodgement)<br>
 File format: pdf,jpg,gif,doc,docx<br>
-Maximum upload per application: 2 MB
+Maximum upload per application: 2 MB</li>
 </ul>
 
 ### Requirements

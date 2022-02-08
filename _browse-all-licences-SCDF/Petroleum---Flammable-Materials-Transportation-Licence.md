@@ -8,7 +8,7 @@ third_nav_title: Singapore Civil Defence Force (SCDF)
 
 Singapore Civil Defence Force (SCDF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=17" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=17" type="primary" %}
 
 ### Application Details
 
@@ -87,8 +87,7 @@ Applicant can make on-line payment through the GoBusiness Licensing or to <a hre
 Alternatively, you may choose to make off-line payment at HQ SCDF's counter via NETS, Cash card or Credit Card (cash & cheque payment are unacceptable). For information on GIRO scheme or clarification on payment matters, you may wish to contact SCDF Finance Department at <a href="tel:+6568481623">68481623</a> / <a href="tel:+6568481618">68481618</a>.
 </li>
 
-<li>
-<strong>Who can I contact for further details?</strong><br>
+<li><strong>Who can I contact for further details?</strong><br>
 For further clarification, you may contact Licensing Officers at the following contact nos. :<br>
 Email: <a href="Md_Zali_Ahmad@scdf.gov.sg">Md_Zali_Ahmad@scdf.gov.sg/a><br>
 Name: Mohamed Zali Bin Ahmad<br>
@@ -126,8 +125,7 @@ Designation: Team Leader Storage<br>
 Contact: <a href="tel:+6568481428">68481428</a><br><br>
 
 Central Tel line: <a href="tel:+6568481472">68481472</a><br>
-Fax:  68481494
-</li>
+Fax:  68481494</li>
 
 
 <li>
@@ -147,15 +145,15 @@ The fee will be determined by agency.
 ### Documents Needed
 
 <ul>
-<li><strong>LTA Test Certificate/ Malaysia Puspakom</strong><br />Test certificate issued by Land Transport Authority/ Malaysia Puspakom on the roadworthiness of the vehicle (in certified True copy)<br>
+<li><strong>LTA Test Certificate/ Malaysia Puspakom</strong><br />Test certificate issued by Land Transport Authority/ Malaysia Puspakom on the roadworthiness of the vehicle (in certified true copy)<br>
 File format: doc, docx, pdf, jpg, rtf, htm, bmp, xls, xlsx,dwg<br>
 Maximum upload per application: 2 MB
 </li>
-<li><strong>Certificate of Vehicle Inspection (Mandatory)</strong><br />One certified True (or original) copy of the certificate of inspection in accordance to Regulation of the Fire Safety (Petroleum) Regulations duty endorsed by the supplier.<br>
+<li><strong>Certificate of Vehicle Inspection (Mandatory)</strong><br />One certified true (or original) copy of the certificate of inspection in accordance to Regulation of the Fire Safety (Petroleum) Regulations duty endorsed by the supplier.<br>
 File format: doc, docx, pdf, jpg, rtf, htm, bmp, xls, xlsx<br>
 Maximum upload per application: 10 MB
 </li>
-<li><strong>Hydrostatic and Radiographic or any equivalent Test Report endorsed by Professional Engineer (For Bulk Tank)</strong><br />One certified True (or original) copy of the following:<br />1. Hydrostatic or any equivalent Test Report<br />2. Radiographic or any equivalent Test Report<br>
+<li><strong>Hydrostatic and Radiographic or any equivalent Test Report endorsed by Professional Engineer (For Bulk Tank)</strong><br />One certified true (or original) copy of the following:<br />1. Hydrostatic or any equivalent Test Report<br />2. Radiographic or any equivalent Test Report<br>
 File format: doc, docx, pdf, jpg, rtf, htm, bmp, xls, xlsx<br>
 Maximum upload per application: 2 MB
 </li>
@@ -163,7 +161,7 @@ Maximum upload per application: 2 MB
 File format: doc, docx, pdf, jpg, rtf, htm, bmp, xls, xlsx<br>
 Maximum upload per application: 2 MB
 </li>
-<li><strong>Manufacturer's Report (For Bulk Tank)</strong><br />One certified True (or original) copy of Manufacturer's report (with tank design drawings) on the bulk tanker and bulk tank<br>
+<li><strong>Manufacturer's Report (For Bulk Tank)</strong><br />One certified true (or original) copy of Manufacturer's report (with tank design drawings) on the bulk tanker and bulk tank<br>
 File format: doc, docx, pdf, jpg, rtf, htm, bmp, xls, xlsx<br>
 Maximum upload per application: 2 MB
 </li>
@@ -171,7 +169,7 @@ Maximum upload per application: 2 MB
 File format: doc, docx, pdf, jpg, rtf, htm, bmp, xls, xlsx<br>
 Maximum upload per application: 2 MB
 </li>
-<li><strong>Vehicle Registration Card</strong><br />One certified True copy of the vehicle registration card.<br>
+<li><strong>Vehicle Registration Card</strong><br />One certified true copy of the vehicle registration card.<br>
 File format: doc, docx, pdf, jpg, rtf, htm, bmp, xls, xlsx<br>
 Maximum upload per application: 2 MB
 </li>
@@ -183,7 +181,7 @@ Maximum upload per application: 2 MB
 File format: doc, docx, pdf, jpg, rtf, htm, bmp, xls, xlsx<br>
 Maximum upload per application: 2 MB
 </li>
-<li><strong>Hazardous Transportation Driver's Permit.</strong><br />One certified True copy of valid Hazardous Transportation Driver's Permit<br>
+<li><strong>Hazardous Transportation Driver's Permit.</strong><br />One certified true copy of valid Hazardous Transportation Driver's Permit<br>
 File format: doc, docx, pdf, jpg, rtf, htm, bmp, xls, xlsx<br>
 Maximum upload per application: 2 MB
 </li>

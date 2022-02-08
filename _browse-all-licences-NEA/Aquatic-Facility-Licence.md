@@ -8,7 +8,7 @@ third_nav_title: National Environment Agency (NEA)
 
 National Environment Agency (NEA)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=61" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=61" type="primary" %}
 
 ### Application Details
 

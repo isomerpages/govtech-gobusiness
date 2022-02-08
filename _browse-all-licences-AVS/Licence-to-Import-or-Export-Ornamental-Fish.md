@@ -10,7 +10,7 @@ Animal & Veterinary Service (AVS)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=True&selectedLicenceIds=201301040000140" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000140" type="primary" %}
 
 ### Application Details
 
@@ -34,5 +34,5 @@ Animal & Veterinary Service (AVS)
 ### Requirements
 
 <p>Prerequisite Licence(s)</p>
- <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=True&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
+ <p>ACRA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

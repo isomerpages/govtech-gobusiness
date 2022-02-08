@@ -10,7 +10,7 @@ Animal & Veterinary Service (AVS)
 
 {% include spcp-text.html type="sp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=True&selectedLicenceIds=1705261400000006" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1705261400000006" type="primary" %}
 
 ### Application Details
 
@@ -24,8 +24,8 @@ Animal & Veterinary Service (AVS)
  <li><strong>Supporting documents required for submission?</strong><br />The following documents are required for the submission:
  <ol style="list-style-type: lower-alpha;">
  <li>Passport (if applicable)</li>
- <li>Veterinary Degree Certificate (certified True copy)</li>
- <li>Other Veterinary Qualification Certificates and memberships (certified True copy)</li>
+ <li>Veterinary Degree Certificate (certified true copy)</li>
+ <li>Other Veterinary Qualification Certificates and memberships (certified true copy)</li>
  <li>Letter of Good Standing from Vet Licensing Authority</li>
  <li>Curriculum Vitae</li>
  <li>MOM employment pass/ approval letter (if applicable)</li>
@@ -47,8 +47,8 @@ Animal & Veterinary Service (AVS)
 
 <ul>
  <li><strong>Passport</strong><br />Scanned copy of applicant's Passport<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
- <li><strong>Veterinary Degree Certificate</strong><br />Scanned copy of applicant's veterinary degree certificate (certified True copy)<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
- <li><strong>Other Veterinary Qualification Certificates & memberships</strong><br />Scanned copy of applicant's veterinary qualification certificates (certified True copy)<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Veterinary Degree Certificate</strong><br />Scanned copy of applicant's veterinary degree certificate (certified true copy)<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Other Veterinary Qualification Certificates & memberships</strong><br />Scanned copy of applicant's veterinary qualification certificates (certified true copy)<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
  <li><strong>Letter of Good Standing from Vet Licensing Authority</strong><br />Scanned copy of letter of good standing from Veterinary Authority in the applicant's last country/region of residence/ practice. Fresh graduates are exempted.<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
  <li><strong>Curriculum Vitae</strong><br />Scanned copy of curriculum vitae (including photo ID, personal particulars and history of past employment<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
  <li><strong>MOM employment pass/ approval letter</strong><br />Scanned copy of employment pass/ approval letter<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>

@@ -8,7 +8,7 @@ third_nav_title: Land Transport Authority (LTA)
 
 Land Transport Authority (LTA)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=104" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=104" type="primary" %}
 
 ### Application Details
 

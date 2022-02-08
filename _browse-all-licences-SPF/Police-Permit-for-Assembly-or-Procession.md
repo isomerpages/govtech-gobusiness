@@ -10,7 +10,7 @@ Singapore Police Force (SPF)
 
 {% include spcp-text.html type="sp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=241" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=241" type="primary" %}
 
 ### Application Details
 
@@ -22,7 +22,7 @@ Singapore Police Force (SPF)
 
 <ol>
   <li>
-    <strong>Where can I get more information about the Police Permit for Public Talk?</strong><br>	
+    <strong>Where can I get more information about the Police Permit for Public Talk?</strong><br>        
 More information can be found at the 
 <a href="www.police.gov.sg/e-services" target="_blank" rel="noopener">SPF website</a>
   </li>
@@ -30,19 +30,19 @@ More information can be found at the
 
   <li>
     <strong>When should I submit the public talk application?
-</strong><br>	
+</strong><br>        
 Permit application with sufficient information shall be submitted at least 14 working days before the date of the event.  
 </li>
 
   <li>
     <strong>What is a "public place", "public assembly" and "public procession"?
-</strong><br>	
+</strong><br>        
 Public place refers to any place (whether open-air or enclosed) to which members of public have access.
 </li>
 
   <li>
     <strong>What is a "public place", "public assembly" and "public procession"?
-</strong><br>	
+</strong><br>        
 Public place refers to any place (whether open-air or enclosed) to which members of public have access.<br><br>
 Public assembly refers to an assembly held in a public place or to which members of the public in general are invited, induced or permitted to attend.<br><br>
 A public procession refers to a march, parade or other procession (whether or not involving the use of vehicles or other conveyances) in, to or from a public place.
@@ -50,7 +50,7 @@ A public procession refers to a march, parade or other procession (whether or no
 
   <li>
     <strong>What is the penalty for conducting or participating in an illegal assembly or procession?
-</strong><br>	
+</strong><br>        
 Unless exempted, a Police Permit is required under the Public Order Act 2009 for holding a public assembly, procession or talk. For conducting an illegal assembly or procession, the organiser is liable to:<br>
 - A fine not exceeding $5,000 for organising an assembly or procession without a Police Permit; and<br>
 - For repeat offenders, fine not exceeding $10,000 or imprisonment for a term not exceeding six months or both.<br><br>
@@ -62,7 +62,7 @@ For participating in an illegal assembly or procession, the participant is liabl
 
 <li>
     <strong>What are the events that do not require a Police Permit?
-</strong><br>	
+</strong><br>        
 A Police Permit is not required if the exemption requirements under the Public Order (Exempt Assemblies and Processions) 2009 are satisfied.
 <br><br>
 Please refer to the Public Order (Exempt Assemblies and Processions) Order 2009 for the full list of exemption requirements.
@@ -71,13 +71,13 @@ Please refer to the Public Order (Exempt Assemblies and Processions) Order 2009 
 
 <li>
     <strong>How soon can the application be processed?
-</strong><br>	
+</strong><br>        
 The normal processing time is about 14 working days from the receipt of the application and the necessary supporting documents.
 <br><br>
 For events that involves lane/ road closure, a road closure permit is required from the Traffic Police. You need to submit the road closure application at least 21 days before the date of event to the Traffic Police.
 </li>
 
-<ol>
+</ol>
 
 
 **Additional Information**

@@ -8,7 +8,7 @@ third_nav_title: Majlis Ugama Islam Singapura (MUIS)
 
 Majlis Ugama Islam Singapura (MUIS)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=True&selectedLicenceIds=239" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=239" type="primary" %}
 
 ### Application Details
 
@@ -97,5 +97,5 @@ Majlis Ugama Islam Singapura (MUIS)
 
 ### Requirements
 
-<p><strong>Related licences to apply at External Agency</strong><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=True&selectedLicenceIds=201305310000330">Licence to Operate a Coldstore</a><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=True&selectedLicenceIds=201306030000332">Licence to Operate Slaughter-house</a><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=True&selectedLicenceIds=201306030000331">Licence to Operate a Food Processing Establishment</a></p>
+<p><strong>Related licences to apply at External Agency</strong><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305310000330">Licence to Operate a Coldstore</a><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000332">Licence to Operate Slaughter-house</a><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000331">Licence to Operate a Food Processing Establishment</a></p>
 
