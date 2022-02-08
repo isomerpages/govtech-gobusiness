@@ -30,7 +30,7 @@ Gaming Arcades; or<br>
 Institutions under Ministry of Education (MOE) or Ministry of Social and Family Development (MSF) such as Child Care Centres, Pre-schools, Kindergartens, Rehabilitative Homes, Schools, Institute of Technical Education (ITEs), Polytechnics, Universities.<br>
 f. Paragraphs 1 to 5 apply to an applicant that is not an individual as if the references in these paragraphs refer to the applicant and every director and similar officer of the applicant.<br>
 For Foodshop/Foodstall SFA licensees operating as Food Establishments, please apply under the Business Category "Food Establishments" if you have a company registration with ACRA via CorpPass.<br>
-However, if you do<strong><u>not</u></strong>have a company registration with ACRA such as NEA Hawker licence, please select the Business Category "Food Establishments" via SingPass.<br>
+However, if you do <strong><u>not</u></strong> have a company registration with ACRA such as NEA Hawker licence, please select the Business Category "Food Establishments" via SingPass.<br>
 If you are unsure of your business category, please contact the Tobacco Regulation Branch for advice before submitting the application to us.</li>
 <li><strong>How soon can my application be processed?</strong><br />The application will be processed upon receipt of a complete application with all the relevant supporting documents submitted to the Authority, with the initial application payment collected.<br>
 Please ensure that all details are correctly filled up. The application will not be processed if there are any missing or incomplete documents or lack of payment.<br />Do take note that the Authority may ask for additional documents to support the licence application.<br>
@@ -76,7 +76,7 @@ Licensees must ensure that all tobacco products carry the mandatory health-warni
 h) Tobacco Products for Sale<br>
 The licensee (with exception of duty-free and specialist tobacconist businesses) must ensure that only one packet of each pack size of each cigarette brand is allowed to be displayed in the tobacco storage unit whenever exposed to customers or members of the public during re-stocking or tobacco sales transactions.<br>
 i) The tobacco licence is non-transferable.<br>
-j) Licensees shall inform the Authority on any changes in the particulars pertaining to the licence not later than 3 days after changes have been effected.</li>
+j) Licensees shall inform the Authority on any changes in the particulars pertaining to the licence not later than 3 days after changes have been effected.</li></ol>
 
 **Additional Information**
 

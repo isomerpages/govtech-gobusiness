@@ -74,7 +74,7 @@ The normal processing time is about 14 working days from the receipt of the appl
 For events that involves lane/ road closure, a road closure permit is required from the Traffic Police. You need to submit the road closure application at least 21 days before the date of event to the Traffic Police.
 </li>
 
-<ol>
+</ol>
 
 
 **Additional Information**

@@ -71,7 +71,7 @@ Ministry of Manpower (MOM)
  Singapore 339946<br>
  MOM Contact Centre: (65) 6438 5122<br>
  Fax: (65) 6692 5490<br>
- Email:<a href="mailto:mom_fmmd@mom.gov.sg">mom_fmmd@mom.gov.sg</a></li>
+ Email:<a href="mailto:mom_fmmd@mom.gov.sg">mom_fmmd@mom.gov.sg</a>
  <p>Our Operating Hours<br>
  (Mon to Fri except public holidays)- 8:00am to 5:30pm<br>
  Alternatively, you may also visit the MOM website at<a href="https://www.mom.gov.sg/employment-agencies" target="_blank" rel="noopener">https://www.mom.gov.sg/employment-agencies</a>for more information.</p></li>

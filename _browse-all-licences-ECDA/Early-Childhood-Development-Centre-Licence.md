@@ -48,10 +48,7 @@ Singapore 229469</li>
 
 <li><strong>What is the application process like?</strong><br>
 You can submit the application form via GoBusiness Licensing. A licensing officer will be assigned to you once we have received the application for a new ECDC licence. A temporary account will be created for you to update staff particulars in ONE@ECDA. A licence will be issued to the licensee when the centre has met all of ECDA's regulatory requirements for a new licence.</li>
-</ol>
 
-<strong>Other frequently asked questions?</strong><br>
-<ol>
 <li><strong>What are the clearances from relevant authorities required before I could commence operation?</strong><br>
 You need to obtain clearances from relevant authorities such as Urban Redevelopment Authority (URA), Fire Safety & Shelter Department (FSSD), Building and Construction Authority (BCA) and Public Utility Board (PUB) for your site when necessary. In addition, the National Environment Agency (NEA)'s advice should be sought for premises located in industrial buildings. The licence to operate an ECDC would only be issued upon obtaining clearances from the relevant authorities.</li>
 
@@ -60,6 +57,8 @@ No, you do not have to apply Government Child Care Subsidy separately. Upon lice
 
 <li><strong>Is the staffing requirement for centres providing infant services similar to that of child care?</strong><br>
 Centres which choose to provide infant services is required to recruit staff who are trained in taking care of the infants only. Please refer to the staffing requirements stated in the "Guide and Application to Set Up an Early Childhood Development Centre".</li>
+</ol>
+
 
 **Additional Information**
 

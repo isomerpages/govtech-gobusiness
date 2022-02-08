@@ -15,7 +15,7 @@ Intellectual Property Office of Singapore (IPOS)
 ### Application Details
 
 <p>Application for Registration as a Singapore Patent Agent under rule 7(1) of the Patents (Patent Agents) Rules 2001.</p>
-<h3>FAQ</strong></h3>
+<h3>FAQ</h3>
 <ol>
 <li><strong>What requirements do I need to fulfil to be registered as a Patent Agent?</strong><br>
 To be registered as a patent agent, you would need to fulfil the requirements stipulated in the Patents (Patent Agents) Rules 2001.<br>
@@ -35,7 +35,7 @@ For full details on how to register for (ii) and (iii), please refer to www.suss
 <li><strong>Where can I download the Certificate of Good Character (From B) and/or Certificate of Good Performance (Form I) templates?</strong><br>
 You may download the documents from IPOS website: <a href="http://www.ipos.gov.sg/resources/patent-agent" target="_blank" rel="noopener">www.ipos.gov.sg/resources/patent-agent</a></li>
 <li><strong>Who can I contact for further details?</strong><br>
-You may email to <a href="mailto:ipos_pau@ipos.gov.sg">ipos_pau@ipos.gov.sg</a></li>
+You may email to <a href="mailto:ipos_pau@ipos.gov.sg">ipos_pau@ipos.gov.sg</a></li></ol>
 
 **Additional Information**
 

@@ -21,7 +21,7 @@ Singapore Police Force (SPF)
 
 <ol>
   <li>
-    <strong>Where can I get more information for Massage Establishment Licence?</strong><br>	
+    <strong>Where can I get more information for Massage Establishment Licence?</strong><br>        
 More information can be found at the 
 <a href="http://www.police.gov.sg/e-services/apply/licenses-and-permits" target="_blank" rel="noopener">SPF website</a>
   </li>
@@ -33,7 +33,7 @@ If you have just updated ACRA for any changes related to your Company's name or 
 Limited Liability Partnership<br>
 <strong>Eligibility Criteria:</strong><br>
 Applicant must be having position:<br> 
-* PARTNER cum MANAGER<br>	
+* PARTNER cum MANAGER<br>        
 <br>
 
 <strong>Entity Type:</strong> <br>
@@ -44,7 +44,7 @@ Applicant must be having one of the following position:<br>
 * SECRETARY<br>
 * DIRECTOR<br>
 * CHIEF EXECUTIVE OFFICER<br>
-<br>	
+<br>        
 
 <strong>Entity Type:</strong> <br>
 Business (Sole Proprietor/Partnership)<br>
@@ -64,17 +64,17 @@ Applicant must be having one of the following position:<br>
 
   <li>
     <strong>Can I submit my application if I do not have all the required supporting documents at the point of application?
-</strong><br>	
+</strong><br>        
 No, all applications submitted with incomplete or incorrect supporting documents will be rejected immediately.
   </li>
 
   <li>
     <strong>Do I have to pay the application fees again for the resubmission of the application if my application is rejected?
-</strong><br>	
+</strong><br>        
 Applicants will be required to pay any application fees payable for all resubmission of applications.
   </li>
 
-<ol>
+</ol>
 
 ### Documents Needed
 

@@ -14,14 +14,6 @@ National Parks Board (NPARKS)
 
 <p>To use any premises in the parks for an event, you need approval from NParks.</p>
 
-**Additional Information**
-
-N.A.
-
-### Documents Needed
-
-N.A.
-
 ### Requirements
 
 <p>Applicant must be ACRA registered company/ business</p>

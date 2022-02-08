@@ -49,7 +49,7 @@ for use in a factory (bulk or package) - not more than 1,000 litres per factory
 Class III<br>
 for private use in a dwelling house or for use in any business other than in a factory - not more than 200 litres<br>
 for use in a factory (bulk or package) - not more than 1,500 litres per factory<br>
-<<br><br>
+<br><br>
 Flammable Materials<br>
 For information on the exemption quantity of individual flammable materials, please refer to the Second Schedule of the Fire Safety (Petroleum 7 Flammable Materials) Regulations 2013
 <br><br>
@@ -261,9 +261,9 @@ Fax:  68481494
 <li>
 <strong>What is the application process like?</strong><br>
 You can submit the application form and the supporting documents, if required, via GoBusiness Licensing. As the applicant, you can either file personally or authorise a representative to apply on your behalf. For offline submission, please indicate the case ID number on your supporting documents before sending to SCDF/CED.
-<li>
+</li>
 
-<strong>Other frequently asked questions</strong><br>
+<li><strong>Other frequently asked questions</strong><br>
 What are the fire safety works to be incorporated during building plan stage, pertaining to storage/keeping of flammable materials?<br><br>
 In general, all buildings are to comply with the Fire Code. In addition, SCDF adopts CP 40 (SS532) for storage of flammable liquids, NFPA 55 for storage of compressed gas, NFPA 45 for lab-based chemical usage as basic design guidelines. The project QP (Qualified Person) shall preferably discuss with SCDF on the project details. This is to ensure that concerns are being addressed during the early phase of building design stage.<br><br>
 You may wish to refer to SS532 if you do not store flammable materials in larger quantity such as in tank or drums. For storage quantity below the `Minor Storage' and meeting the requirements specified in SS532, You could proceed straight to apply for storage licence without plan approval. That is you do not need to appoint QP to do plan submission and RI to conduct inspection.<br><br>

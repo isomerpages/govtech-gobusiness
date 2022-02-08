@@ -22,25 +22,25 @@ Singapore Police Force (SPF)
 
 <ol>
   <li>
-    <strong>Where can I get more information about the Consumption Permit?</strong><br>	
+    <strong>Where can I get more information about the Consumption Permit?</strong><br>        
 More information can be found at the 
 <a href="www.police.gov.sg/e-services" target="_blank" rel="noopener">SPF website</a>
   </li>
 
   <li>
-    <strong>When should I submit the consumption application?</strong><br>	
+    <strong>When should I submit the consumption application?</strong><br>        
 Permit application with sufficient information shall be submitted at least 4 working days before the date of the event.
   </li>
 
   <li>
     <strong>What is a "public place"?
-</strong><br>	
+</strong><br>        
 "Public place" refers to any place (whether open-air or enclosed) to which members of public have access.
   </li>
 
   <li>
     <strong>What are the events that are exempted from a Consumption Permit?
-</strong><br>	
+</strong><br>        
 The consumption of liquor in public places during restricted hours is exempted from a Consumption Permit for the following:<br>
 <br>
 (a) Consumption of liquor during events organised by the Government;<br>
@@ -55,7 +55,7 @@ ii. A registered society defined in the Society's Act;<br>
 
  <li>
     <strong>What is the penalty for the consumption of liquor at an event without a Consumption Permit?
-</strong><br>	
+</strong><br>        
 The penalty for an offence of unlawful consumption of liquor in a public place under the Liquor Control Act is liable to:<br>
 - A fine not exceeding $1,000; and<br>
 - For repeat offenders, a fine not less not exceeding $2,000 or imprisonment not exceeding three months, or both.
@@ -64,11 +64,11 @@ The penalty for an offence of unlawful consumption of liquor in a public place u
  <li>
     <strong>
 How soon can the application be processed?
-</strong><br>	
+</strong><br>        
 The normal processing time is about 4 working days from the receipt of the application and the necessary supporting documents.
   </li>
 
-<ol>
+</ol>
 
 
 ### Documents Needed

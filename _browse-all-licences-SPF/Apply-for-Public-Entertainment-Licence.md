@@ -19,7 +19,7 @@ Singapore Police Force (SPF)
 
 <ol>
   <li>
-    <strong>Where can I get more information for Public Entertainment Licence?</strong><br>	
+    <strong>Where can I get more information for Public Entertainment Licence?</strong><br>        
 More information can be found at the 
 <a href="http://www.police.gov.sg/e-services/apply/licenses-and-permits" target="_blank" rel="noopener">SPF website</a>
   </li>
@@ -31,7 +31,7 @@ If you have just updated ACRA for any changes related to your Company's name or 
 Limited Liability Partnership<br>
 <strong>Eligibility Criteria:</strong><br>
 Applicant must be having position:<br> 
-* PARTNER cum MANAGER<br>	
+* PARTNER cum MANAGER<br>        
 <br>
 
 <strong>Entity Type:</strong> <br>
@@ -42,7 +42,7 @@ Applicant must be having one of the following position:<br>
 * SECRETARY<br>
 * DIRECTOR<br>
 * CHIEF EXECUTIVE OFFICER<br>
-<br>	
+<br>        
 
 <strong>Entity Type:</strong> <br>
 Business (Sole Proprietor/Partnership)<br>
@@ -60,7 +60,7 @@ Applicant must be having one of the following position:<br>
 * LIMITED PARTNER
   </li>
 
-<ol>
+</ol>
 
 
 ### Documents Needed

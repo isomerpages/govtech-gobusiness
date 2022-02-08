@@ -59,7 +59,7 @@ Applicant must be having one of the following position:<br>
 * GENERAL PARTNER<br>
 * LIMITED PARTNER<br>
   </li>
-<ol>
+</ol>
 
 
 ### Documents Needed

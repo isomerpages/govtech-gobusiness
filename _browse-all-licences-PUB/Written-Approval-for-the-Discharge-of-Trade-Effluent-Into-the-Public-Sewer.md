@@ -58,9 +58,9 @@ The Written Approval is valid for 5 years. However, changes to the licence will 
 <li>
 <strong>Who can I contact for further details?</strong><br>
 You may call:<br>
-Mr Damien Zhao Hong Kai at Tel: 65172201<br><br>
+Mr Damien Zhao Hong Kai at Tel: [65172201](tel:+6565172201)<br><br>
 You can also write to:<br>
-Mr Damien Zhao Hong Kai at Damien_zhao@pub.gov.sg
+Mr Damien Zhao Hong Kai at [Damien_zhao@pub.gov.sg](mailto:Damien_zhao@pub.gov.sg]
 </li> 
 
 <li>

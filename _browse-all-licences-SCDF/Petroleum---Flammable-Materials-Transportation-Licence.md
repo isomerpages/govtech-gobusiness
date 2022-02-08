@@ -40,7 +40,7 @@ Solid Flammable Material- 10 kg. <br>
 Liquid Flammable Material- 20 litres. <br>
 Gaseous Flammable Material- a total of 130 kilograms by weight of gas in not more than 2 cylinders<br>
 
-<br>For further details and the definition of the terms used, you can visit the<a href="https://www.scdf.gov.sg/home/fire-safety/petroleum-and-flammable-material-licences/information-of-p-fm-transport-licence" target="_blank" rel="noopener">SCDF website</a>
+<br>For further details and the definition of the terms used, you can visit the <a href="https://www.scdf.gov.sg/home/fire-safety/petroleum-and-flammable-material-licences/information-of-p-fm-transport-licence" target="_blank" rel="noopener">SCDF website</a>
 </li>
 
 
@@ -83,75 +83,49 @@ Your application will be processed within 3 working days if documents submitted 
 <li>
 <strong>How much does this licence cost and how long is it valid?</strong><br>
 The Petroleum / Flammable Materials transportation licence fee is $105/- and is valid for 12 months (or $210/- for 24 months).<br>
-Applicant can make on-line payment through the GoBusiness Licensing or to<a href="https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=EPAYMENT" target="_blank" rel="noopener">SCDF Eservices</a>.<br>
-Alternatively, you may choose to make off-line payment at HQ SCDF's counter via NETS, Cash card or Credit Card (cash & cheque payment are unacceptable). For information on GIRO scheme or clarification on payment matters, you may wish to contact SCDF Finance Department at 68481623 / 68481618.
+Applicant can make on-line payment through the GoBusiness Licensing or to <a href="https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=EPAYMENT" target="_blank" rel="noopener">SCDF Eservices</a>.<br>
+Alternatively, you may choose to make off-line payment at HQ SCDF's counter via NETS, Cash card or Credit Card (cash & cheque payment are unacceptable). For information on GIRO scheme or clarification on payment matters, you may wish to contact SCDF Finance Department at [68481623](tel:+6568481623) / [68481618](tel:+6568481618).
 </li>
 
 <li>
 <strong>Who can I contact for further details?</strong><br>
 For further clarification, you may contact Licensing Officers at the following contact nos. :<br>
-Email: Md_Zali_Ahmad@scdf.gov.sg<br>
-Name: Mohamed Zali Bin Ahmad
-<br>
-Designation: Import & Transport Licensing Specialist
-<br>
-Contact: 68481465<br><br>
+Email: [Md_Zali_Ahmad@scdf.gov.sg](mailto:Md_Zali_Ahmad@scdf.gov.sg)<br>
+Name: Mohamed Zali Bin Ahmad<br>
+Designation: Import & Transport Licensing Specialist<br>
+Contact: [68481465](tel:+6568481465)<br><br>
 
-Email: Muhammad_Nasir_Hashim@scdf.gov.sg<br>
-Name: Muhammd Nasir Bin Hashim
-<br>
-Designation: Import & Transport Licensing Specialist
-<br>
-Contact: 68481468
-<br><br>
+Email: [Muhammad_Nasir_Hashim@scdf.gov.sg](mailto:Muhammad_Nasir_Hashim@scdf.gov.sg)<br>
+Name: Muhammd Nasir Bin Hashim<br>
+Designation: Import & Transport Licensing Specialist<br>
+Contact: [68481468](tel:+6568481468)<br><br>
 
-Email: K_Mahaintharan@scdf.gov.sg
-<br>
-Name: Mr K Mahaintharan
-<br>
-Designation:         
-Asst Team Leader Import and Transport
-<br>
-Contact: 68481429
-<br><br>
+Email: [K_Mahaintharan@scdf.gov.sg](mailto:K_Mahaintharan@scdf.gov.sg)<br>
+Name: Mr K Mahaintharan<br>
+Designation: Asst Team Leader Import and Transport<br>
+Contact: [68481429](tel:+6568481429)<br><br>
 
-Email: Md_Faizal_MAZLAN@scdf.gov.sg
-<br>
-Name: Md Faizal Mazlan
-<br>
-Designation: Assistant Team Leader Storage
-<br>
-Contact: 68481495
-<br><br>
+Email: [Md_Faizal_MAZLAN@scdf.gov.sg](mailto:Md_Faizal_MAZLAN@scdf.gov.sg)<br>
+Name: Md Faizal Mazlan<br>
+Designation: Assistant Team Leader Storage<br>
+Contact: ]68481495](tel:+6568481495)<br><br>
 
-Email: Alice_Seto@scdf.gov.sg
-<br>
-Name: Alice Seto
-<br>
-Designation: Team Leader Import and Transport
-<br>
-Contact: 68481485
-<br><br>
+Email: [Alice_Seto@scdf.gov.sg](mailto:Alice_Seto@scdf.gov.sg)<br>
+Name: Alice Seto<br>
+Designation: Team Leader Import and Transport<br>
+Contact: [68481485](tel:+6568481485)<br><br>
 
-Email: Muhathir_Mohamad@scdf.gov.sg
-<br>
-Name: Muhathir Mohamad
-<br>
-Designation: Senior Licensing Officer
-<br>
-Contact: 68481442
-<br><br>
+Email: [Muhathir_Mohamad@scdf.gov.sg](mailto:Muhathir_Mohamad@scdf.gov.sg)<br>
+Name: Muhathir Mohamad<br>
+Designation: Senior Licensing Officer<br>
+Contact: [68481442](tel:+6568481442)<br><br>
 
-Email: Heng_Keng_Liang@scdf.gov.sg
-<br>
+Email: [Heng_Keng_Liang@scdf.gov.sg](mailto:Heng_Keng_Liang@scdf.gov.sg)<br>
 Name: Heng Keng Liang<br>
-Designation: Team Leader Storage
-<br>
-Contact: 68481428
-<br><br>
+Designation: Team Leader Storage<br>
+Contact: [68481428](tel:+6568481428)<br><br>
 
-Central Tel line: 68481472
-<br>
+Central Tel line: [68481472](tel:+6568481472)<br>
 Fax:  68481494
 </li>
 
@@ -159,7 +133,7 @@ Fax:  68481494
 <li>
 <strong>What is the application process like?</strong><br>
 You can submit the application form and the supporting documents, if required, via the GoBusiness Licensing. As the applicant, you can either file personally or authorise a representative to apply on your behalf. For offline submission, please indicate the case ID number on your supporting documents before sending to SCDF/CED.
-<li>
+</li>
 </ol>
 
 

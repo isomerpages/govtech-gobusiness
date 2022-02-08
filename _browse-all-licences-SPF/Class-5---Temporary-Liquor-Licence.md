@@ -18,7 +18,7 @@ Singapore Police Force (SPF)
 
 <ol>
   <li>
-    <strong>Where can I get more information for Liquor Licence (Class 1A, 1B, 2A, 2B, 3A, 3B, 4) and Class 5 - Temporary Liquor Licence?</strong><br>	
+    <strong>Where can I get more information for Liquor Licence (Class 1A, 1B, 2A, 2B, 3A, 3B, 4) and Class 5 - Temporary Liquor Licence?</strong><br>        
 More information can be found at the 
 <a href="https://www.police.gov.sg/e-Services/Police-Licences/Liquor-Licence" target="_blank" rel="noopener">SPF website</a>
   </li>
@@ -30,7 +30,7 @@ If you have just updated ACRA for any changes related to your Company's name or 
 Limited Liability Partnership<br>
 <strong>Eligibility Criteria:</strong><br>
 Applicant must be having position:<br> 
-* PARTNER<br>	
+* PARTNER<br>        
 <br>
 
 <strong>Entity Type:</strong> <br>
@@ -41,7 +41,7 @@ Applicant must be having one of the following position:<br>
 * SECRETARY<br>
 * DIRECTOR<br>
 * CHIEF EXECUTIVE OFFICER<br>
-<br>	
+<br>        
 
 <strong>Entity Type:</strong> <br>
 Business (Sole Proprietor/Partnership)<br>
@@ -58,7 +58,7 @@ Applicant must be having one of the following position:<br>
 * GENERAL PARTNER<br>
 * LIMITED PARTNER<br>
   </li>
-<ol>
+</ol>
 
 
 ### Documents Needed

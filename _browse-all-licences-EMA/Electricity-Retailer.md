@@ -33,7 +33,7 @@ Please note the following two requirements to be met by each retailer after bein
 <br><br>
 Retailers who only meet Requirement 1 (i.e., passed the Market Trial conducted by SP Group) can only retail electricity to business consumers with an average monthly consumption of at least 2MWh.
 <br><br>
-Retailers must meet both requirements before they can start retailing electricity to (i) business consumers with an average monthly consumption of less than 2MWh, and (ii) all residential consumers.</li>
+Retailers must meet both requirements before they can start retailing electricity to (i) business consumers with an average monthly consumption of less than 2MWh, and (ii) all residential consumers.</li></ol>
 
 **Additional Information**
 

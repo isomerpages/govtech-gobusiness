@@ -86,7 +86,7 @@ You may refer to <a href="https://www.hlb.gov.sg/" target="_blank" rel="noopener
 <li><strong>15) Where can I report any wrong-doings, unlawful conduct or malpractices?</strong><br>
 STB provides the Applicant with a platform to report any wrong-doings, unlawful conduct or malpractices of STB staff that are against the public interest. The details of STB's whistleblowing framework is set out at<br>
 <a href="https://www.stb.gov.sg/content/stb/en/about-stb/corporate-governance.html" target="_blank" rel="noopener">https://www.stb.gov.sg/content/stb/en/about-stb/corporate-governance.html</a>.</li>
-<ol>
+</ol>
 
 **Additional Information**
 
