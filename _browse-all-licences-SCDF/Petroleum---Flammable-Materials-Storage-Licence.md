@@ -49,7 +49,7 @@ for use in a factory (bulk or package) - not more than 1,000 litres per factory
 Class III<br>
 for private use in a dwelling house or for use in any business other than in a factory - not more than 200 litres<br>
 for use in a factory (bulk or package) - not more than 1,500 litres per factory<br>
-<<br><br>
+<br><br>
 Flammable Materials<br>
 For information on the exemption quantity of individual flammable materials, please refer to the Second Schedule of the Fire Safety (Petroleum 7 Flammable Materials) Regulations 2013
 <br><br>
