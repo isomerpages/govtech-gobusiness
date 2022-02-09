@@ -27,6 +27,7 @@ Anybody who intends to carry out any activity for profit on an ongoing basis mus
 
 Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions from registration and the full list can be found in the [Business Names Registration Act](https://sso.agc.gov.sg/Act/BNRA2014?ProvIds=pr4-#pr4-){:target="_blank"}{:rel="noopener"}.
 
+<hr>
 <a name="2s-anchor"></a>
 ### Benefits of registering a business
 
@@ -41,6 +42,7 @@ There are several benefits of registering a business with ACRA. Here are some of
 
 In addition, if you incorporate a company or set up a limited liability partnership (instead of registering a sole proprietorship or partnership), your personal and business finances are kept separate. This means that in the event that your business is sued, your personal liabilities are limited and you do not risk losing your personal assets.
 
+<hr>
 <a name="3-anchor"></a>
 ### Key steps to start
 
@@ -50,6 +52,7 @@ Now that you know whether to register the business, here are 6 key steps to guid
 
 After you've taken these steps, find out what you can do next to continue running and growing your business [here](/start-a-business/hire-employees/).
 
+<hr>
 <a name="4-anchor"></a>
 ### Setup cost calculator
 
