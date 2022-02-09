@@ -26,9 +26,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 ### Renew or amend licence
 
-Already have a licence? Log in directly to the GoBusiness Dashboard to manage your licences.
-
-{% include button.html text="Login to GoBusiness Dashboard" src="https://www.figma.com/proto/06jRSeGhv8uWhaCewiAYRd/DB-UT-Prototype-(2021-May)?page-id=1623%3A47705&node-id=1674%3A57680&viewport=348%2C48%2C0.13&scaling=min-zoom&starting-point-node-id=1674%3A57680&show-proto-sidebar=1&hotspot-hints=0&hide-ui=1" type="primary" %}
+{% include panels-featurelink.html panels=site.data.rgp003_licences-ar %}
 
 ### About GoBusiness Dashboard
 
