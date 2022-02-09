@@ -26,7 +26,7 @@ Estimated Respond Time if applied online here: 7 working days </p>
 <strong>
 Do I need to apply for this licence?</strong><br>
 You will need to apply for this licence from the Singapore Civil Defence Force (SCDF) for the storage of petroleum & flammable materials including LPG.<br><br>
-However, you will be exempted from applying for a storage licence if the Petroleum & Flammable Materials stored in a premise does not exceed the following quantities:-><br>
+However, you will be exempted from applying for a storage licence if the Petroleum & Flammable Materials stored in a premise does not exceed the following quantities:<br>
 
 <br><br>
 Petroleum<br><br>
