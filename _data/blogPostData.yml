@@ -6,13 +6,40 @@
   image: /images/blog/Stuntman 1.jpg
   alt: Peps Goh sandbox training ground
   date: 2022-02-14
-- index: 4
+- index: 2
   tag: Business Tips & Tricks
   title: Three steps to creating a digital presence
   body: A beginner's guide to help you create a digital presence for your business.
   link: /gobusiness-blog/three-steps-to-digital-presence
   image: /images/blog/DigiPresence Feature.jpg
   alt: business create digital presence
+  date: 2022-02-14
+- index: 3
+  tag: Business Tips & Tricks
+  title: Four ways to boost productivity and get closer to your team
+  body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+  link: /gobusiness-blog/sing-swee-kee-chicken-rice
+  image: /images/two-ladies-shop.svg
+  alt: two ladies shop
+  date: 2022-02-14
+- index: 4
+  tag: GoBusiness How-To
+  title: All you need to get started with GoBusiness 
+  body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+  link: /gobusiness-blog/sing-swee-kee-chicken-rice
+  image: /images/two-ladies-shop.svg
+  alt: two ladies shop
+  date: 2022-02-14
+- index: 1
+  tag: GoBusiness How-To
+  title: 'Stitched Custom: an entrepreneur's journey to stitching a new business together with GoBusiness'
+  body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+  link: /gobusiness-blog/sing-swee-kee-chicken-rice
+  image: /images/two-ladies-shop.svg
+  alt: two ladies shop
   date: 2022-02-14
 - index: 2
   tag: GoBusiness How-To 
@@ -24,11 +51,38 @@
   date: 2022-02-14
 - index: 3
   tag: Behind the Business
+  title: 'The Florte: Planting the seeds for a successful venture with GoBusiness'
+  body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+  link: /gobusiness-blog/sing-swee-kee-chicken-rice
+  image: /images/two-ladies-shop.svg
+  alt: two ladies shop
+  date: 2022-02-14
+- index: 4
+  tag: Business Tips & Tricks
   title: 'Behind Puffs and Peaks: A childhood love for baking turned career'
   body: Bakery owner Ong Jing Teng Kalyang shares about her journey of starting Puffs and Peaks.
   link: /gobusiness-blog/puffs-and-peaks
   image: /images/blog/PuffsPeaks Feature.jpg
   alt: puffs and peaks founders
+  date: 2022-02-14
+- index: 1
+  tag: Business Tips & Tricks
+  title: 5 ways to bring out the creative advertiser in you 
+  body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+  link: /gobusiness-blog/sing-swee-kee-chicken-rice
+  image: /images/two-ladies-shop.svg
+  alt: two ladies shop
+  date: 2022-02-14
+- index: 2
+  tag: Business Tips & Tricks
+  title: Digital IC for businesses
+  body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+  link: /gobusiness-blog/sing-swee-kee-chicken-rice
+  image: /images/two-ladies-shop.svg
+  alt: two ladies shop
   date: 2022-02-14
 
 
