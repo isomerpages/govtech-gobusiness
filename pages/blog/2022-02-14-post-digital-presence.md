@@ -54,11 +54,11 @@ Each social media platform has their own characteristics and caters to different
 
 Here are some points of consideration for creating your social media strategy:
 
-    1. Who is your target audience? <br>Each social media platform has its own demographic, which should influence your decision on which platform to be on. If you’re targeting working professionals, LinkedIn would be more suitable. However, if your target audience is young adults, you may want to consider going for Instagram or Twitter instead. 
+1. Who is your target audience? <br>Each social media platform has its own demographic, which should influence your decision on which platform to be on. If you’re targeting working professionals, LinkedIn would be more suitable. However, if your target audience is young adults, you may want to consider going for Instagram or Twitter instead. 
     
-    2. What kind of service or product are you providing? <br>Given each platform’s different characteristics, some products or services might be better featured on one platform over another. For example, Instagram focuses primarily on photos, which works well for businesses with visual elements such as fashion, food, or crafts.
+2. What kind of service or product are you providing? <br>Given each platform’s different characteristics, some products or services might be better featured on one platform over another. For example, Instagram focuses primarily on photos, which works well for businesses with visual elements such as fashion, food, or crafts.
     
-    3. What is your branding and tone of voice? <br>Platforms like TikTok, Instagram and Twitter lend themselves to a more personable and casual tone. Meanwhile, those who wish to maintain a more professional front may opt to go with Facebook or LinkedIn instead. 
+3. What is your branding and tone of voice? <br>Platforms like TikTok, Instagram and Twitter lend themselves to a more personable and casual tone. Meanwhile, those who wish to maintain a more professional front may opt to go with Facebook or LinkedIn instead. 
 
 It’s important to note that none of these platforms need to be used in isolation. You can have accounts over different platforms to reach multiple demographics, but be sure to cater your content accordingly for optimal results. 
 
