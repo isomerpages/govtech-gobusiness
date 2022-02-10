@@ -9,7 +9,7 @@ description: Popular local bakery Puffs and Peaks first started as a home busine
 ---
 
 ![puffs and peaks founders](/images/blog/PuffsPeaks Feature.jpg)
-<em>Mother-daughter duo Mdm Sng (left) and Ong Jing Teng Kalyang founded Puffs and Peaks together in 2020, amid the pandemic. .</em>
+<em>Mother-daughter duo Mdm Sng (left) and Ong Jing Teng Kalyang founded Puffs and Peaks together in 2020, amid the pandemic.</em>
 
 On the second level of Tampines Central Community Complex sits a quaint bakery bathed in the glow of warm lights. Within, the intoxicating fragrance of baked goods permeates the air. In the display case sits rows upon rows of stuffed, decadent donuts – a signature item of the bakery. 
 
