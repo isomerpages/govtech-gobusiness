@@ -14,9 +14,9 @@ Singapore Police Force (SPF)
 
 <H3>Application Details</H3>
 
-<p>To execute a fireworks display, you need to be licensed under the Guns, Explosives and Weapons Control Act. </p>
+<p>Under the Dangerous Fireworks (Exemption Notification) 2018 of the Dangerous Fireworks Act, an exempt company An exempt company must notify the authorised officer in writing of any fireworks event it intends to execute not less than 14 working days before the date of the fireworks event, or at such later date as the authorised officer may determine (but before the date of the fireworks event)</p>
 
-<p>For each fireworks display event, you will need to apply for the approval from the Licensing Officer. </p>
+<p>This application is for the exempt company to submit the notification of the fireworks event to the Authorised Officer.</p>
 
 <H3>Documents Needed</H3>
 

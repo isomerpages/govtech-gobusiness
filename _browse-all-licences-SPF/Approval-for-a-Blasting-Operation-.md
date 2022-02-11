@@ -14,5 +14,18 @@ Singapore Police Force (SPF)
 
 <H3>Application Details</H3>
 
-Under the Guns, Explosives And Weapons Control Act, an Approval is required for a Company licensed to Conduct Blasting to Carry out a Blasting Project using explosives. 
+<p>Under the Arms and Explosives Act, any person licensed to conduct blasting operations shall obtain the approval of the Licensing Officer for a particular blasting
+operation to take place before commencing the blasting operation</p>
+
+
+<H3>Documents Needed</H3>
+
+<ul>
+<li><strong>Blasting Proposal</strong></li>
+<li><strong>Letter of Appointment from main Contractor / Sub-Contractor</strong></li>
+<li><strong>Site Map / Plan showing exact location of the site</strong></li>
+<li><strong>List of Buildings, Structures and Services located within proximity of the Site and the estimated PPV</strong></li>
+<li><strong>Any other relevent documents to support the application</strong></li>
+</ul>
+
 
