@@ -12,7 +12,7 @@
   body: A beginner's guide to help you create a digital presence for your business.
   link: /gobusiness-blog/three-steps-to-digital-presence
   image: /images/blog/DigiPresence Feature.jpg
-  alt: business create digital presence
+  alt: Business create digital presence
   date: 2022-02-16
 - index: 3
   tag: GoBusiness How-To 
@@ -20,7 +20,7 @@
   body: Managing Director of ZYRUP Media, Joel Lim, shares how GoBusiness helped him start his business. 
   link: /gobusiness-blog/zyrup
   image: /images/blog/Zyrup Feature.jpg
-  alt: woman with ipad
+  alt: Zyrup media Joel Lim
   date: 2022-02-16
 - index: 4
   tag: Behind the Business
@@ -36,7 +36,7 @@
   body: Feeling distant and unproductive while telecommuting? Find out how you can boost efficiency and stay connected! 
   link: /gobusiness-blog/beat-wfh-woes
   image: /images/blog/WFH Feature.svg
-  alt: two ladies shop
+  alt: Work from home increase efficiency
   date: 2021-02-16
 - index: 2
   tag: GoBusiness How-To
@@ -44,7 +44,15 @@
   body: Learn how GoBusiness can support your business with this step-by-step guide on navigating the platform   
   link: /gobusiness-blog/get-started
   image: /images/blog/GetStarted Feature.jpg
-  alt: two ladies shop
+  alt: Get started with GoBusiness
+  date: 2021-02-16
+- index: 3
+  tag: Behind the Business
+  title: Planting the seeds of success for a homegrown floral business
+  body: Founder of The Florte Angeline Pang shares her entrepreneur journey, and her venture into floristry 
+  link: /gobusiness-blog/Florte
+  image: /images/blog/Florte Feature.jpg
+  alt: Founder of The Florte Angeline Pang
   date: 2021-02-16
 
 
