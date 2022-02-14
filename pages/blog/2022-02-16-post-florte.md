@@ -28,7 +28,7 @@ Her efforts came to fruition with her labour of love, a homegrown floral studio 
 ### Challenges faced within the floristry sector
 
 ![The Florte Angeline Pang styling floral arrangement](/images/blog/Florte 1.jpg)
-<em>Creating these pretty blooms is a time sensitive and time consuming affair due to the delicate nature of flowers (Photo by Raymond Yee, courtesy of Angeline Pang) </em>
+<caption>Creating these pretty blooms is a time sensitive and time consuming affair due to the delicate nature of flowers (Photo by Raymond Yee, courtesy of Angeline Pang) </caption>
 
 But the floristry industry has faced its fair share of obstacles. Due to the delicate nature of flowers, creating and delivering floral arrangements is a time-sensitive affair. Arrangements cannot be created too far in advance of the delivery date in order to maintain the condition of the blooms. 
 
@@ -47,7 +47,7 @@ With events such as weddings and solemnisations being impacted by the pandemic, 
 Due to the pandemic, the price of flowers also increased which led to the challenge of striking a balance between raising the prices of floral arrangements and mitigating the impact on their sales.
 
 ![The Florte Angeline Pang styling floral arrangement](/images/blog/Florte 1.jpg)
-<em>Creating these pretty blooms is a time sensitive and time consuming affair due to the delicate nature of flowers (Photo by Raymond Yee, courtesy of Angeline Pang) </em>
+<caption>Creating these pretty blooms is a time sensitive and time consuming affair due to the delicate nature of flowers (Photo by Raymond Yee, courtesy of Angeline Pang) </caption>
 
 For her business to continue operating amid the disruptions, Angeline looked up on the safe management requirements for her sector, as well as government support schemes that her company could be eligible for. 
 

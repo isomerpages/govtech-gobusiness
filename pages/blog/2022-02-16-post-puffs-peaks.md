@@ -45,7 +45,7 @@ That, she says, was the highlight of her entrepreneurial journey thus far.
 ### The peaks of her journey 
 
 ![filled brioche donuts](/images/blog/PuffsPeaks 2.jpg)
-<em>Puffs and Peaks is well known for its filled brioche donuts, which often sells out before closing</em>
+<caption>Puffs and Peaks is well known for its filled brioche donuts, which often sells out before closing</caption>
 
 She recounts from the time when the store was first launched: “I had my mum in the shop, and my dad was sometimes in also… It’s not just being in the office, like they’ve done for the past 20 years. I’m most happy to see that every single day, they’re happy, they’re satisfied, and fulfilled.”
 
@@ -58,7 +58,7 @@ With the immense success of Puffs and Peaks also comes its own set of challenges
 It’s a constant learning journey, she says. To better serve her customers, she took to updating the store’s Instagram Stories regularly of the quantity of bakes remaining. The team also placed a signboard outside the store that they could update, to keep queuing customers updated. 
 
 ![baker entrepreneur](/images/blog/PuffsPeaks 3.jpg)
-<em>While Ong experienced her fair share of challenges while pursuing her passion, she has no regrets choosing the path of a baker and an entrepreneur</em>
+<caption>While Ong experienced her fair share of challenges while pursuing her passion, she has no regrets choosing the path of a baker and an entrepreneur</caption>
 
 “The journey was not easy…It’s a very steep learning curve, but very fulfilling,” she says. 
 

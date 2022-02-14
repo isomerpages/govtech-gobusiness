@@ -24,7 +24,7 @@ Walk through this guide to find out how you can enjoy the best that GoBusiness h
 ### 1. Start A Business
 
 ![GoBusiness Startup Guide](/images/blog/GetStarted 2.jpg)
-<em>The Start-up Guide helps you navigate the process as a first-time business owner, from providing resources to guiding you on the steps to take to start a new venture</em>
+<caption>The Start-up Guide helps you navigate the process as a first-time business owner, from providing resources to guiding you on the steps to take to start a new venture</caption>
 
 Feeling a little lost at the thought of launching a new business? The [Start-up Guide](/start-a-business/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} is here to help! 
 
@@ -39,7 +39,7 @@ Got a question you can’t find an answer to? Visit our [helpdesk](/contact-us/?
 ### 2. Run And Grow A Business 
 
 ![GoBusiness Run and Grow Overview](/images/blog/GetStarted 4.jpg)
-<em>Take the next step to further your business through licences, government assistance schemes, and more</em>
+<caption>Take the next step to further your business through licences, government assistance schemes, and more</caption>
 
 So you’ve laid the foundation for your business. What’s next? 
 
@@ -49,7 +49,7 @@ Once you’ve mastered the fundamentals, go one step further by checking out the
 ### 3. Keep Up With COVID-19 Regulations 
 
 ![GoBusiness COVID Overview](/images/blog/GetStarted 4.jpg)
-<em>Stay abreast of the latest regulations, and find resources on COVID-19 support</em>
+<caption>Stay abreast of the latest regulations, and find resources on COVID-19 support</caption>
 
 With COVID-19’s arrival having upturned business operations, adapting and adjusting business operations is key. These include:
 
@@ -67,7 +67,7 @@ With COVID-19’s arrival having upturned business operations, adapting and adju
 ### 4. Get Help With e-Advisers
 
 ![GoBusiness e-Services Navigator](/images/blog/GetStarted 5.jpg)
-<em>With e-Advisers, you can find helpful business recommendations such as event regulatory requirements and grants tailored to your needs</em>
+<caption>With e-Advisers, you can find helpful business recommendations such as event regulatory requirements and grants tailored to your needs</caption>
 
 Still unsure of what works for your business? Say hello to fuss-free assistance with the e-Advisers available!
 
