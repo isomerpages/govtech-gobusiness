@@ -43,9 +43,9 @@ Factoring in adequate time for employees to get oriented should not be overlooke
 ![Remote work team video meeting](/images/blog/WFH 3.jpg)
 <em>Maximise efficiency by keeping meetings productive (Source: Canva)</em>
 
-Virtual meetings have become a mainstay in the workplace. While it may be tempting to increase screen time, keeping meetings short and sweet may actually be more efficient for your employees, as [employees’ perception of effectiveness in meetings has been observed to influence overall workplace satisfaction](https://hbr.org/2017/07/stop-the-meeting-madness){:target="_blank"}{:rel="noopener"}. 
+Virtual meetings have become a mainstay in the workplace. While it may be tempting to increase screen time, keeping meetings short and sweet may actually be more efficient for your employees, as [employees’ perception of effectiveness in meetings has been observed to influence overall workplace satisfaction](https://hbr.org/2017/07/stop-the-meeting-madness?src=gobiz_blog){:target="_blank"}{:rel="noopener"}. 
 
-Meeting duration has also been linked to productivity: a [recent survey](https://blog.otter.ai/meeting-statistics/){:target="_blank"}{:rel="noopener"} conducted by Otter.ai suggested that managers and professionals indicated having lost 30% of their time which could have been allocated to other productive tasks.  
+Meeting duration has also been linked to productivity: a [recent survey](https://blog.otter.ai/meeting-statistics/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} conducted by Otter.ai suggested that managers and professionals indicated having lost 30% of their time which could have been allocated to other productive tasks.  
 
 There are always other ways to forge stronger bonds within the workplace.
 
@@ -54,7 +54,7 @@ There are always other ways to forge stronger bonds within the workplace.
 ![Care package team bonding employee](/images/blog/WFH 4.jpg)
 <em>Care packages are a great way to maintain a closer relationship with your team (Source: Canva)</em>
 
-Got a co-worker’s birthday coming up? Bolster team morale by organising virtual hangout sessions! The rise of the pandemic has seen the need for new ways to bond. What better way to do so than with online group games? Bring retro back with sites such as [skribbl io](https://skribbl.io/){:target="_blank"}{:rel="noopener"}, a drawing and guessing multiplayer game similar to Pictionary. 
+Got a co-worker’s birthday coming up? Bolster team morale by organising virtual hangout sessions! The rise of the pandemic has seen the need for new ways to bond. What better way to do so than with online group games? Bring retro back with sites such as [skribbl io](https://skribbl.io/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, a drawing and guessing multiplayer game similar to Pictionary. 
 
 Care packages are yet another way to show appreciation for your team - think fresh bakes, snack boxes, and wellness products such as tea, candles and essential oils. It’s a great mood booster to beat the Monday blues, while reminding your team that you’re there in spirit, even if you’re working from home! 
 

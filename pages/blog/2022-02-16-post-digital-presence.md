@@ -13,7 +13,7 @@ description: A beginner’s guide to help business owners kickstart their digita
 
 When it comes to running a business these days, going digital is the name of the game. The Covid-19 pandemic has only emphasised the importance of having a digital presence in running a successful business. 
 
-Even elderly hawkers are moving online, with initiatives like [Hawkers Go Digital](https://www.imda.gov.sg/hawkersgodigital){:target="_blank"}{:rel="noopener"} designed to help them establish an e-commerce presence. 
+Even elderly hawkers are moving online, with initiatives like [Hawkers Go Digital](https://www.imda.gov.sg/hawkersgodigital/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} designed to help them establish an e-commerce presence. 
 
 But the digital world is as wide as it is deep, and venturing into it without any prior knowledge can be daunting. For the unfamiliar, here are three steps you need to take to create an online presence: 
 
@@ -24,7 +24,7 @@ But the digital world is as wide as it is deep, and venturing into it without an
 
 When customers are looking for a product or service, there is one platform that can always be relied on to deliver: Google. In fact, nearly [70 per cent of all online searches](https://www.netmarketshare.com/search-engine-market-share.aspx?options=%7B%22filter%22%3A%7B%22%24and%22%3A%5B%7B%22deviceType%22%3A%7B%22%24in%22%3A%5B%22Desktop%2Flaptop%22%5D%7D%7D%5D%7D%2C%22dateLabel%22%3A%22Trend%22%2C%22attributes%22%3A%22share%22%2C%22group%22%3A%22searchEngine%22%2C%22sort%22%3A%7B%22share%22%3A-1%7D%2C%22id%22%3A%22searchEnginesDesktop%22%2C%22dateInterval%22%3A%22Monthly%22%2C%22dateStart%22%3A%222019-11%22%2C%22dateEnd%22%3A%222020-10%22%2C%22segments%22%3A%22-1000%22%7D){:target="_blank"}{:rel="noopener"} start on Google. 
 
-This is why it’s an absolute must for any business to ensure they can be found on Google search. Google has made this process easy for business owners through their [Google My Business](https://www.google.com/intl/en_sg/business/){:target="_blank"}{:rel="noopener"} page. 
+This is why it’s an absolute must for any business to ensure they can be found on Google search. Google has made this process easy for business owners through their [Google My Business](https://www.google.com/intl/en_sg/business/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} page. 
 
 All you need to do is sign up for a free account; follow the provided instructions to verify your business; register your phone number, website, and opening hours; and you’re good to go! Your business will now be searchable on Google Search and Google Maps. 
 
@@ -41,7 +41,7 @@ To come out on top of search engine results, you will need to rely on search eng
 
 SEO is pivotal in helping new customers discover your business. Imagine being the proud owner of a brand new restaurant within a mall. When potential customers are looking for what they can eat in the area, they will naturally turn to search engines. If your restaurant appears first in their search, they’re more likely to know about you, and visit your restaurant. 
 
-While becoming a master in SEO is a tall order, there are plenty of [free resources](https://moz.com/beginners-guide-to-seo){:target="_blank"}{:rel="noopener"} available to help you kickstart your journey. Alternatively, [courses on SEO](https://www.equinetacademy.com/seo-training-course-singapore/){:target="_blank"}{:rel="noopener"} are also available with SkillsFuture credits. 
+While becoming a master in SEO is a tall order, there are plenty of [free resources](https://moz.com/beginners-guide-to-seo/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} available to help you kickstart your journey. Alternatively, [courses on SEO](https://www.equinetacademy.com/seo-training-course-singapore/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} are also available with SkillsFuture credits. 
 
 ### 3. Establishing a social media presence
 
@@ -69,17 +69,17 @@ Once you have an idea of what kind of content does well on different platforms, 
 To help you kickstart your social media journey, here’s a list of free content creation tools: 
 
 **Design**
-- [Canva](https://www.canva.com/){:target="_blank"}{:rel="noopener"}
-- [Figma](https://www.figma.com/){:target="_blank"}{:rel="noopener"}
-- [Piktochart](https://piktochart.com/){:target="_blank"}{:rel="noopener"}
+- [Canva](https://www.canva.com/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
+- [Figma](https://www.figma.com/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
+- [Piktochart](https://piktochart.com/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
 
 **Video editing**
-- [Headliner](https://www.headliner.app/){:target="_blank"}{:rel="noopener"}
-- [Typito](https://typito.com/){:target="_blank"}{:rel="noopener"}
-- [Biteable](https://biteable.com/){:target="_blank"}{:rel="noopener"}
+- [Headliner](https://www.headliner.app/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
+- [Typito](https://typito.com/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
+- [Biteable](https://biteable.com/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
 
 **Photo editing**
-- [GIMP](https://www.gimp.org/){:target="_blank"}{:rel="noopener"}
-- [Pixlr X](https://pixlr.com/x/){:target="_blank"}{:rel="noopener"}
-- [Photoscape X](http://x.photoscape.org/){:target="_blank"}{:rel="noopener"}
+- [GIMP](https://www.gimp.org/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
+- [Pixlr X](https://pixlr.com/x/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
+- [Photoscape X](http://x.photoscape.org/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
 

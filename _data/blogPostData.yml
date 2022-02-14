@@ -35,10 +35,17 @@
   title: 'Beat WFH woes: staying productive and connected with your team'
   body: Feeling distant and unproductive while telecommuting? Find out how you can boost efficiency and stay connected! 
   link: /gobusiness-blog/beat-wfh-woes
-  image: /images/two-ladies-shop.svg
+  image: /images/blog/WFH Feature.svg
   alt: two ladies shop
   date: 2021-02-16
-
+- index: 2
+  tag: GoBusiness How-To
+  title: All you need to get started with GoBusiness 
+  body: Learn how GoBusiness can support your business with this step-by-step guide on navigating the platform   
+  link: /gobusiness-blog/get-started
+  image: /images/blog/GetStarted Feature.jpg
+  alt: two ladies shop
+  date: 2021-02-16
 
 
 
