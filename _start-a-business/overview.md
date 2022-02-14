@@ -15,6 +15,8 @@ GoBusiness Startup Guide will walk you through the questions above and more.
 
 {% include panels-overview.html spanels=site.data.ov001-start %}
 
+---
+
 <a name="1-anchor"></a>
 ![Start Overview](/images/start/StartSJ_Overview_Main.jpg)
 
@@ -50,10 +52,10 @@ Now that you know whether to register the business, here are 6 key steps to guid
 
 {% include panels.html panels=site.data.startbiz_links %}
 
-After you've taken these steps, find out what you can do next to continue running and growing your business [here](/start-a-business/hire-employees/).
+After you've taken these steps, find out what you can do next to continue running and growing your business [here](/start-a-business/hire-employees/?src=startup_guide).
 
 <hr>
 <a name="4-anchor"></a>
 ### Setup cost calculator
 
-Get an estimate of how much it costs to start and run a business in Singapore with our [Setup Cost Calculator](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html){:target="_blank"}{:rel="noopener"}.
+Get an estimate of how much it costs to start and run a business in Singapore with our [Setup Cost Calculator](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html?src=startup_guide){:target="_blank"}{:rel="noopener"}.
