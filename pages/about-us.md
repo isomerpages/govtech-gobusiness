@@ -17,7 +17,7 @@ We are continuing to upgrade GoBusiness with more services to better support you
 
 ### Helping businesses GoFurther
 
-In addition to government e-services, we also publish product tips and interviews with innovation businesses on the GoBusiness Blog
+In addition to government e-services, we also publish product tips and interviews with innovation businesses on the [GoBusiness Blog](/gobusiness-blog/).
 
 Watch this video to learn how GoBusiness helped three local SMEs with their government related transactions:
 
