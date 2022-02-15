@@ -68,3 +68,6 @@ Today, the humble bakery constantly sells out of their bakes and receives rave r
 <br>– 
 
 Looking for guidance on how to set up your first F&B establishment? Check out GoBusiness’ [guide on starting a food service business](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=gobiz_blog){:target="_blank"}{:rel="noopener"}. 
+
+
+###### This article is accurate as at 16 Feb 2022
