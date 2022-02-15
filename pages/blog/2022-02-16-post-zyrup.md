@@ -9,7 +9,7 @@ description: How Managing Director of ZYRUP Media Joel Lim, used GoBusiness to h
 ---
 
 ![zyrup media joel lim](/images/blog/zyrup Feature.jpg)
-<caption>Joel Lim, Co-founder and Managing Director of ZYRUP Media, speaks on how GoBusiness helped him establish his business structure</caption>
+###### Joel Lim, Co-founder and Managing Director of ZYRUP Media, speaks on how GoBusiness helped him establish his business structure
 
 When Joel Lim and his two business partners first decided to convert his digital magazine venture into a full-fledged business with his two business partners, he had no idea where to begin. 
 
@@ -26,7 +26,7 @@ Based on the guide, one of the first decisions Joel and his partners had to make
 Speaking to friends and peers didn’t help them in making a decision either, as they received varied recommendations from different people. But the decision really depends on the needs, concerns, and wants of the people who want to start a business together, highlights Joel. 
 
 ![GoBusiness start-up guide](/images/blog/zyrup 1.jpg)
-<caption>The GoBusiness Start-up Guide details six steps which new business owners can follow when starting out, the first being choosing a business structure</caption>
+###### The GoBusiness Start-up Guide details six steps which new business owners can follow when starting out, the first being choosing a business structure
 
 The GoBusiness Start-up Guide provided them with the information they needed to make a decision, says Joel. 
 
@@ -39,7 +39,7 @@ With the different explanations provided by GoBusiness, Joel and his partners we
 Eventually, the trio decided on the business structure of a Local Company, where the company and business owners are viewed as separate entities. The structure of a Local Company also allowed them to have multiple owners and directors on board, which suited their needs. 
 
 ![GoBusiness e-Adviser for business structure](/images/blog/zyrup 2.jpg)
-<caption>The e-Adviser for Business Structure helps new business owners ask the right questions to determine a structure best suited for their needs and preferences</caption>
+###### The e-Adviser for Business Structure helps new business owners ask the right questions to determine a structure best suited for their needs and preferences
 
 Additionally, the GoBusiness platform also recommended what kind of questions business owners should ask before deciding on their business structure, says Joel. Answering these questions helped reassure him and his partners that the business structure of a Local Company is the right decision for them, he says. 
 
@@ -50,7 +50,7 @@ Having GoBusiness’ guidance on the beginning stages of starting their business
 “[There’s a] fear of messing up the entire process because you’ve never done it before,” he shares. “It's having the confidence that our foundations are strong in that we have set up all the administrative portions of our work that allows us to be confident in the work that we do.” 
 
 ![founders of Zyrup Media](/images/blog/zyrup 3.jpg)
-<caption>Joel (left) believes that GoBusiness was instrumental in helping him and his business partners, Clamus Pang (centre) and Ng Yi Yang (right), start their business off on the right foot </caption>
+###### Joel (left) believes that GoBusiness was instrumental in helping him and his business partners, Clamus Pang (centre) and Ng Yi Yang (right), start their business off on the right foot
 
 Following the GoBusiness guide also helped Joel save time. He explains, “There are a lot of hidden things you have to do that people normally wouldn’t think about. For example, starting a corporate bank account, or learning how to put together a shareholder agreement.” 
 
@@ -61,4 +61,6 @@ With this information laid out in the guide, Joel did not need to spend addition
 ZYRUP Media is growing at a steady pace today, reveals Joel. As they grow, Joel is “keeping GoBusiness in the back pocket.” 
 
 “Right now, we finished the six steps of starting a business, so we are getting things going. As we continue doing that, we want to look at different types of grants moving forward. That is the next thing that we'll use GoBusiness for.”
+
+###### This article is accurate as at 16 Feb 2022
 

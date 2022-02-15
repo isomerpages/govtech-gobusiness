@@ -28,7 +28,7 @@ Behind the successful bakery today were months of stress and complications as th
 “Nobody tells you where the floor trap should be, or that the pipe has to be slanted so it doesn’t clog up after a year,” she shares. The Covid-19 pandemic threw an additional wrench into her plans, with restrictions causing delays due to manpower shortages. 
 
 ![bakery renovations](/images/blog/PuffsPeaks 1.jpg)
-<em>Ong and her mother faced manpower challenges when setting up a physical storefront, but managed to overcome them with the help of their loved ones</em>
+###### Ong and her mother faced manpower challenges when setting up a physical storefront, but managed to overcome them with the help of their loved ones
 
 “We ended up having to pay a one-month rental without having anything done in the shop because there was nobody there to do the renovations yet,” she says.
 
@@ -45,7 +45,7 @@ That, she says, was the highlight of her entrepreneurial journey thus far.
 ### The peaks of her journey 
 
 ![filled brioche donuts](/images/blog/PuffsPeaks 2.jpg)
-<caption>Puffs and Peaks is well known for its filled brioche donuts, which often sells out before closing</caption>
+###### Puffs and Peaks is well known for its filled brioche donuts, which often sells out before closing
 
 She recounts from the time when the store was first launched: “I had my mum in the shop, and my dad was sometimes in also… It’s not just being in the office, like they’ve done for the past 20 years. I’m most happy to see that every single day, they’re happy, they’re satisfied, and fulfilled.”
 
@@ -58,7 +58,7 @@ With the immense success of Puffs and Peaks also comes its own set of challenges
 It’s a constant learning journey, she says. To better serve her customers, she took to updating the store’s Instagram Stories regularly of the quantity of bakes remaining. The team also placed a signboard outside the store that they could update, to keep queuing customers updated. 
 
 ![baker entrepreneur](/images/blog/PuffsPeaks 3.jpg)
-<caption>While Ong experienced her fair share of challenges while pursuing her passion, she has no regrets choosing the path of a baker and an entrepreneur</caption>
+###### While Ong experienced her fair share of challenges while pursuing her passion, she has no regrets choosing the path of a baker and an entrepreneur
 
 “The journey was not easy…It’s a very steep learning curve, but very fulfilling,” she says. 
 
