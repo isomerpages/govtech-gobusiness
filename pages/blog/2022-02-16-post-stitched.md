@@ -8,7 +8,7 @@ crumbs: gobusiness-how-to
 description: Learn how GoBusiness helped Sim Joe Yee, owner of local businesses Stitched Custom and Seoul Shiok, weave a story of success.  
 ---
 
-![Co-founder of Stitched Custom Sim Joe Yee](/images/blog/Stitched Feature.jpg)
+![Co-founder of Stitched Custom Sim Joe Yee](/images/blog/content/Stitched Feature.jpg)
 ###### Co-founder of Stitched Custom Sim Joe Yee, 35, left the finance sector to join the world of bespoke fashion in 2016 
 
 Sim Joe Yee’s journey into entrepreneurship began unexpectedly – with a departure from the world of finance. The then 30-year-old left the banking sector to join a friend who wanted to embark on a tailoring business, leading to the birth of Stitched Custom in 2016. A bespoke tailoring service that provides  made-to-measure suits with customisable details, Stitched Custom also offers suit rentals and accompanying accessories such as ties and cufflinks. 
@@ -29,14 +29,14 @@ But the licence application process was efficient with the GoBusiness platform. 
 
 “In the past, licence applications were rather tedious – we had to be at the government agency physically to apply,” he muses as he recounts his attempt to set up a cafe back in 2014. “We had to bring the whole plan down to the agency’s office for assessment, and even make a couple of trips. With GoBusiness, it is now much easier and we can save a lot of time.”
 
-![Customisable suit Stitched Custom](/images/blog/Stitched 1.jpg)
+![Customisable suit Stitched Custom](/images/blog/content/Stitched 1.jpg)
 ###### GoBusiness provides step-by-step guidance to help F&B businesses apply for the relevant licences in the correct order 
 
 Applying for government assistance via GoBusiness is also a straightforward process, says Joe Yee. 
 
 “We applied for [the] Productivity Solutions Grant for Stitched Custom. It's just like applying for any other stuff online. You click through it, upload your documents, and wait for the results. The process was a breeze,” he recalls. “The platform also shows us a lot of relevant grants for our businesses, which I think is quite helpful.”  
 
-![GoBusiness e-Adviser for Starting a Busines](/images/blog/Stitched 2.jpg)
+![GoBusiness e-Adviser for Starting a Busines](/images/blog/content/Stitched 2.jpg)
 ###### The e-Adviser for Government Assistance is a free online tool to provide businesses with recommendations on relevant assistance schemes based on their business needs
 
 ### Leveraging on a wealth of resources on GoBusiness
@@ -59,7 +59,7 @@ However, he believes that being able to access information for multiple business
 
 He adds that the [new GoBusiness dashboard](https://dashboard.gobusiness.gov.sg/login?src=gobiz_blog){:target="_blank"}{:rel="noopener"} is close to what he has envisioned. 
 
-![GoBusiness Dashboard](/images/blog/Stitched 3.jpg)
+![GoBusiness Dashboard](/images/blog/content/Stitched 3.jpg)
 ###### The newly launched GoBusiness dashboard allows businesses to apply and keep track of their licences in one place
 
 With the wide variety of functions available on GoBusiness, Joe Yee recommends the platform to aspiring business owners, and also advises them to have patience and remember the importance of differentiating their product in their quest for success. 
