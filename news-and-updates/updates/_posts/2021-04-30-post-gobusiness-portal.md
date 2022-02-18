@@ -3,7 +3,6 @@ layout: post
 title: Launch of GoBusiness
 permalink: /news-and-updates/updates/gobusiness-portal
 published: true
-image: /images/news/News_GoBiz Portal.jpg
 ---
 
 ## Launch of GoBusiness

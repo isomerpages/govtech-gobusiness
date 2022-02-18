@@ -3,12 +3,12 @@
   title: New Business Owners
   id: 1
   href_1: '/start-a-business/?src=home_quicklinks'
-  text_1: Steps to start a business
-  href_2: 'https://eadviser.gobusiness.gov.sg/startabusiness?src=start_reserve_bizname/?src=home_quicklinks'
+  text_1: How to start a business
+  href_2: 'https://eadviser.gobusiness.gov.sg/startabusiness/?src=home_quicklinks'
   target_2: _blank
-  text_2: Register a new business
-  href_3: 'https://eadviser.gobusiness.gov.sg/businessstructure?src=start_bizstructure/?src=home_quicklinks'
-  text_3: Pick a business structure
+  text_2: 'e-Adviser: Register new business'
+  href_3: 'https://eadviser.gobusiness.gov.sg/businessstructure/?src=home_quicklinks'
+  text_3: 'e-Adviser: Pick a business structure'
   target_3: _blank
   cta_href: '/start-a-business/?src=home_quicklinks'
   cta_text: View Start-up Guide
@@ -16,15 +16,15 @@
   alt: licences
   title: Licences and Permits
   id: 2
-  href_1: '/licences/#apply-new-licence-anchor/?src=home_quicklinks'
+  href_1: '/licences/#new-licence'
   text_1: Apply for new licence
-  href_2: '/licences/#renew-amend-licence-anchor/?src=home_quicklinks'
+  href_2: '/licences/#renew-amend-licence'
   text_2: Renew or amend licence
   href_3: '/licences/find-licence-by-sector/?src=home_quicklinks'
   text_3: Licence guides
   cta_href: '/licences/?src=home_quicklinks'
   cta_text: Licensing overview
-- icon: '/images/covid.png'
+- icon: '/images/Covid.svg'
   alt: covid
   title: Covid-19
   id: 3
@@ -41,8 +41,8 @@
   alt: govassist
   title: Government Assistance
   id: 4
-  href_1: 'https://eadviser.gobusiness.gov.sg/govassist/?src=about_govassist/?src=home_quicklinks'
-  text_1: Find eligible schemes for your business
+  href_1: 'https://eadviser.gobusiness.gov.sg/govassist/?src=home_quicklinks'
+  text_1: 'eAdviser: Find eligible schemes'
   target_1: _blank
   href_2: '/productivity-solutions-grant/?src=home_quicklinks'
   text_2: Productivity Solutions Grant

@@ -3,7 +3,6 @@ layout: post
 title: e-Adviser for Events
 permalink: /news-and-updates/updates/eAdviser-for-events
 published: true
-image: /images/news/News_Events eAdviser launch.jpg
 ---
 
 ## New GoBusiness feature: e-Adviser for Events
