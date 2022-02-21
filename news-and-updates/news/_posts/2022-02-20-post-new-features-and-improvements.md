@@ -16,7 +16,7 @@ Enjoy an even more integrated and seamless experience on GoBusiness with a brand
 
 ### An all-new GoBusiness Dashboard
 
-![PEP DB](/images/news/News_PEP_DB.jpg)
+![GoBusiness Dashboard Official Launch](/images/news/GoBusiness Dashboard Official Launch.jpg)
 
 The new GoBusiness Dashboard is now officially launched, and it is packed with features that enable users to:
 
@@ -30,7 +30,7 @@ With a refreshed layout, the dashboard is more user-friendly than ever. Organize
 
 Personalized guidance for new business owners
 
-![PEP DB](/images/news/News_PEP_DB.jpg)
+![Start a Business Guided Journey](/images/news/Start a Business Guided Journe.jpg)
 
 For users looking to start a new business, these features can help ensure a smooth transition:
 
@@ -54,6 +54,8 @@ After using the e-Adviser for Starting a Business, users can stay updated on the
 
 ### A more seamless way to government assistance
 
+![e-Adviser for Government Assistance](/images/news/e-Adviser for Government Assistance.jpg)
+
 It is now even easier to find and apply for the relevant government assistance schemes with these enhancements to the [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=news){:target="\_blank"}{:rel="noopener"} :
 
 **Improved recommendations**
@@ -67,7 +69,7 @@ Upon getting their e-Adviser results, any recommended BGP grant comes with a dir
 
 ### A fresh look and exciting new content
 
-![PEP DB](/images/news/News_PEP_DB.jpg)
+![GoBusiness New Layout](/images/news/GoBusiness New Layout.jpg)
 
 With an improved user-centric layout and a newly launched blog, users can now get easier access to what they need and more from the GoBusiness platform:
 
