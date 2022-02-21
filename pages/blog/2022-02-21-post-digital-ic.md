@@ -13,7 +13,7 @@ description: The Singpass Digital IC is a secure and convenient way to verify yo
 
 From garnering a wider reach through a digital presence, to maintaining productivity in an era of remote work – digitalisation has brought about many perks for businesses. 
 
-But when it comes to identity verification, many are still going old school. Customers come with their physical ICs or drivers’ licences in hand, and businesses deal with unexpected interruptions if customers forget their documents. 
+But when it comes to identity verification, many are still going old school. Customers come with their physical ICs or driving licences in hand, and businesses deal with unexpected interruptions if customers forget their documents. 
 
 Well, digitalisation might have a solution for this too! 
 
@@ -27,9 +27,9 @@ But is it really a better solution? Let’s find out!
 
 ### 1. Greater convenience for businesses and customers 
 
-The Digital IC can easily replace all the typical functions that otherwise necessitates a physical IC for face-to-face identity verification. For example, banks can use the Digital IC to verify an existing customer’s identity if they’re looking to set up an account, and telecommunications firms can do the same prior to the establishment of a phone line. Businesses may also use the Digital IC to register visitors or contractors who need to enter commercial buildings, as well as to verify prooff identity, such as at private gyms or for sales of age-restricted goods. 
+The Digital IC can easily replace all the typical functions that otherwise necessitates a physical IC for face-to-face identity verification. For example, banks can use the Digital IC to verify an existing customer’s identity if they’re looking to set up an account, and telecommunications firms can do the same prior to the establishment of a phone line. Businesses may also use the Digital IC to register visitors or contractors who need to enter commercial buildings, as well as to verify proof of identity, such as at private gyms or for sales of age-restricted goods. 
 
-This allows businessesto avoid futile appointments  where customers forget to bring identification along and are unable to proceed with a service. 
+This allows businesses to avoid futile appointments  where customers forget to bring identification along and are unable to proceed with a service. 
 
 Better yet, both Singaporeans and long-term pass holders can be verified with the Digital IC. The latter group will find additional details displayed, including their pass status, pass expiry date and where relevant, the employer and sector.
 
@@ -56,7 +56,7 @@ Unlike physical ICs where customers are required to hand over the physical docum
 
 Such information is accessible via the app’s front page. Meanwhile, further details such as date of birth, date of issue and the user’s residential address are only visible with user authentication. 
 
-It should be noted that the Digital IC, like other personal information, are under the purview of the Personal Data Protection Act (PDPA). 
+It should be noted that the Digital IC, like other personal information, is under the purview of the Personal Data Protection Act (PDPA). 
 
 This means that businesses should not download, print, or store recordings or screenshots of the Digital IC. However, business owners may record the particulars on their own systems after viewing the Digital IC if needed. 
 
@@ -67,10 +67,11 @@ For secure data collection, businesses may consider an API integration with Sing
 
 ### 4. Contactless identity verification for businesses
 
-With the Digital IC, there is no longer a need for physical contact when p. All businesses need to do is view their customers’ information on the device’s screen,keeping both employees and customers safe. 
+With the Digital IC, there is no longer a need for physical contact when verifying your customer's identity. All businesses need to do is view their customers’ information on the device’s screen,keeping both employees and customers safe. 
+
 Accepting the Digital IC can give businesses a more convenient, secure, and contactless way for identity verification. This helps to streamline business processes and makes identity verification more intuitive for customers as well – a win-win for both parties! 
 
-Ready to accept the Digital IC at your business? Download the “Singpass Digital IC Accepted Here”” wobbler  [here](https://api.singpass.gov.sg/library/digital-ic/introduction){:target="_blank"}{:rel="noopener"}, showing your customers that they can present their Digital IC as proof of identity.
+Ready to accept the Digital IC at your business? Download the “Singpass Digital IC Accepted Here” wobbler [here](https://api.singpass.gov.sg/library/digital-ic/introduction){:target="_blank"}{:rel="noopener"}, showing your customers that they can present their Digital IC as proof of identity.
  
 
 ###### This article is accurate as at 21 Feb 2022
