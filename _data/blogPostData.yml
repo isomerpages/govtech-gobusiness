@@ -30,7 +30,7 @@
   image: /images/blog/PuffsPeaks Thumbnail.jpg
   alt: puffs and peaks founders
   date: 2022-02-16
-- index: 1
+- index: 5
   tag: Business Tips & Tricks
   title: 'Beat WFH woes: staying productive and connected with your team'
   body: Feeling distant and unproductive while telecommuting? Find out how you can boost efficiency and stay connected! 
@@ -38,7 +38,7 @@
   image: /images/blog/WFH Thumbnail.jpg
   alt: Work from home increase efficiency
   date: 2021-02-16
-- index: 2
+- index: 6
   tag: GoBusiness How-To
   title: All you need to get started with GoBusiness 
   body: Learn how GoBusiness can support your business with this step-by-step guide on navigating the platform.   
@@ -46,7 +46,7 @@
   image: /images/blog/GetStarted Thumbnail.jpg
   alt: Get started with GoBusiness
   date: 2021-02-16
-- index: 3
+- index: 7
   tag: Behind the Business
   title: Planting the seeds of success for a homegrown floral business
   body: Founder of The Florte Angeline Pang shares her entrepreneur journey, and her venture into floristry. 
@@ -54,7 +54,7 @@
   image: /images/blog/Florte Thumbnail.jpg
   alt: Founder of The Florte Angeline Pang
   date: 2021-02-16
-- index: 4
+- index: 8
   tag: GoBusiness How-To 
   title: Stitching businesses together with GoBusiness
   body: Learn how GoBusiness helps multi-business entrepreneur Sim Joe Yee manage his business processes. 
@@ -62,7 +62,7 @@
   image: /images/blog/Stitched Thumbnail.jpg
   alt: Co-founder of Stitched Custom Sim Joe Yee
   date: 2021-02-16
-- index: 1
+- index: 9
   tag: Business Tips & Tricks
   title: 'Digital IC: An easy, secure way to verify customers’ identity'
   body: Tired of handling physical identity documents? Learn how the Singpass Digital IC can benefit businesses!
