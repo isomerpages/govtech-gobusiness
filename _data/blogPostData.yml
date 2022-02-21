@@ -62,6 +62,14 @@
   image: /images/blog/Stitched Thumbnail.jpg
   alt: Co-founder of Stitched Custom Sim Joe Yee
   date: 2021-02-16
+- index: 1
+  tag: Business Tips & Tricks
+  title: 'Digital IC: An easy, secure way to verify customers’ identity'
+  body: Tired of handling physical identity documents? Learn how the Singpass Digital IC can benefit businesses!
+  link: /gobusiness-blog/digitalic
+  image: /images/blog/DigitalIC Thumbnail.jpg
+  alt: Sigpass Digital IC
+  date: 2021-02-21
 
 
 
