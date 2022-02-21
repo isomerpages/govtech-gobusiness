@@ -15,17 +15,6 @@ Here's what you can do with GoBusiness:
 
 We are continuing to upgrade GoBusiness with more services to better support your business.
 
-### Helping businesses GoFurther
-
-In addition to government e-services, we also publish product tips and interviews with innovation businesses on the [GoBusiness Blog](/gobusiness-blog/).
-
-Watch this video to learn how GoBusiness helped three local SMEs with their government related transactions:
-
-<div class="bp-youtube">
-  <iframe src="https://www.youtube.com/embed/wmd7JDBS2cs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
-</div>
-
-
 ### Partnerships and collaborations
 
 For organisations interested in working with GoBusiness to help businesses set up and operate, please [contact us](https://go.gov.sg/gobizcollab){:target="_blank"}{:rel="noopener"} with your proposal.
