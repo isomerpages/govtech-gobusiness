@@ -30,7 +30,7 @@ With a refreshed layout, the dashboard is more user-friendly than ever. Organize
 
 Personalized guidance for new business owners
 
-![Start a Business Guided Journey](/images/news/Start a Business Guided Journe.jpg)
+![Start a Business Guided Journey](/images/news/Start a Business Guided Journey.jpg)
 
 For users looking to start a new business, these features can help ensure a smooth transition:
 
