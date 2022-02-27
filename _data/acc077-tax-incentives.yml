@@ -1,7 +1,7 @@
 - accordion:
   letter: a
   data:
-      - title: Bring My Business Overseas
+    - title: Bring My Business Overseas
       content: |
         **Double Tax Deduction for Internationalisation (DTDi)**
         <br>Companies planning to expand overseas can benefit from the DTDi, with a 200% tax deduction on eligible expenses for international market expansion and investment development activities.
@@ -52,7 +52,7 @@
 - accordion:
   letter: b
   data:
-      - title: Aerospace
+    - title: Aerospace
       content: |
         **Approved Import GST Suspension Scheme**
         <br>Under AISS, GST-registered businesses in the aerospace industry enjoy added import GST suspension benefits for qualifying aircraft parts.
