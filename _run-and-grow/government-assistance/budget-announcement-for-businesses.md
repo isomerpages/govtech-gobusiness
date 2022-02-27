@@ -19,6 +19,20 @@ Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopene
 
 <b>Stay Tuned: More information related to Budget 2022 for Businesses will be updated here progressively.</b>
 
+#### List of Government Assistance related schemes:
+
+#### Grants
+
+{% include letter-accordion.html accordions=site.data.acc074-budget-2022 letter="a" %}
+
+#### Loans
+
+{% include letter-accordion.html accordions=site.data.acc074-budget-2022 letter="b" %}
+
+#### Toolkits / Programmes
+
+{% include letter-accordion.html accordions=site.data.acc074-budget-2022 letter="c" %}
+
 ### Want to be notified when this page is updated?
 
 Subscribe to our mailing list to get emails on the latest content, new features, important announcements and more. 
