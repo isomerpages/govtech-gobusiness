@@ -67,11 +67,11 @@ For secure data collection, businesses may consider an API integration with Sing
 
 ### 4. Contactless identity verification for businesses
 
-With the Digital IC, there is no longer a need for physical contact when verifying your customer's identity. All businesses need to do is view their customers’ information on the device’s screen,keeping both employees and customers safe. 
+With the Digital IC, there is no longer a need for physical contact when verifying your customer's identity. All businesses need to do is view their customers’ information on the device’s screen, keeping both employees and customers safe. 
 
 Accepting the Digital IC can give businesses a more convenient, secure, and contactless way for identity verification. This helps to streamline business processes and makes identity verification more intuitive for customers as well – a win-win for both parties! 
 
-Ready to accept the Digital IC at your business? Download the “Singpass Digital IC Accepted Here” wobbler [here](https://api.singpass.gov.sg/library/digital-ic/introduction){:target="_blank"}{:rel="noopener"}, and let your customers know they can present their Digital IC as proof of identity.
+**Ready to accept the Digital IC at your business? Download the “Singpass Digital IC Accepted Here” wobbler [here](https://api.singpass.gov.sg/library/digital-ic/introduction){:target="_blank"}{:rel="noopener"}, and let your customers know they can present their Digital IC as proof of identity.**
 
 
 ###### This article is accurate as at 10 Mar 2022
