@@ -40,11 +40,11 @@ For users looking to start a new business, these features can help ensure a smoo
 
 They can also use the [e-Adviser for Premise Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=start_using_commercial_space/?src=news){:target="\_blank"}{:rel="noopener"} to check if their premises are currently approved for the intended use, or even find out which licences to apply for with this directory of [e-Advisers for Licences](/licences/find-licence-by-sector/?src=news){:target="\_blank"}{:rel="noopener"}.
 
-<sup>*</sup>This currently applies only to sole proprietorships and partnerships.
+###### <sup>*</sup>This currently applies only to sole proprietorships and partnerships.
 
 **Full integration with the GoBusiness Dashboard**After using the e-Adviser for Starting a Business, users can stay updated on the status of their business registration<sup>*</sup> and follow up on the next steps via the GoBusiness dashboard.
 
-<sup>*</sup>This currently applies only to sole proprietorships and partnerships.
+###### <sup>*</sup>This currently applies only to sole proprietorships and partnerships.
 
 ### Seamless access to government assistance
 
