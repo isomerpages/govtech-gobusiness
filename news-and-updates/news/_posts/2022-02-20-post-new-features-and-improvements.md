@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New features launched on GoBusiness'
-permalink: /news-and-updates/news/2022Feb-new-features
+permalink: /news-and-updates/news/2022Q1-new-features
 published: true
 preview: |
   Enjoy an even more integrated and seamless experience on GoBusiness with a brand new GoBusiness Dashboard, new and improved e-Advisers, and more! Here's what you can expect.
