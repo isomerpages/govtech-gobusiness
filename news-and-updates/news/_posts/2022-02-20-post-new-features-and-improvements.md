@@ -20,9 +20,9 @@ Enjoy an even more integrated and seamless experience on GoBusiness with a brand
 
 The new GoBusiness Dashboard is now available, and it is packed with features that enable users to:
 
-**Find everything in one place** Users can now apply for, renew and cancel business licences, all from the GoBusiness Dashboard.
+**Find everything in one place** Users can now apply for, renew and cancel business licences, all on the GoBusiness Dashboard.
 
-**Get a bird's eye view of all the business transactions** The dashboard is neatly organised into simple categories such as "My Licences" and "My Tasks" so users can easily obtain an overview of all their ongoing applications and transactions at a glance.
+**Get a bird's eye view of all business transactions** The dashboard is neatly organised into simple categories such as "My Licences" and "My Tasks" so users can easily obtain an overview of all their ongoing applications and transactions at a glance.
 
 [Log in to GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login?src=news){:target="\_blank"}{:rel="noopener"} now to try it out!
 
@@ -36,13 +36,13 @@ For users looking to start a new business, these features can help ensure a smoo
 
 **Brand name availability** The e-Adviser for Starting a Business allows users to see whether their brand name is available as a trademark, social media handles, and more.
 
-**Wide range of e-Advisers available** GoBusiness has an e-Adviser to guide new business owners at every step of the way. Users can start out by finding out the most suitable business structure for their business using the[e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure/?src=news){:target="\_blank"}{:rel="noopener"} before embarking on the business registration process using the [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness/?src=news){:target="\_blank"}{:rel="noopener"}<sup>*</sup>.
+**Wide range of e-Advisers available** GoBusiness has an e-Adviser to guide new business owners at every step of the way. Users can start out by finding out the most suitable business structure for their business using the [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure/?src=news){:target="\_blank"}{:rel="noopener"} before embarking on the business registration process using the [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness/?src=news){:target="\_blank"}{:rel="noopener"}<sup>*</sup>.
 
 They can also use the [e-Adviser for Premise Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=start_using_commercial_space/?src=news){:target="\_blank"}{:rel="noopener"} to check if their premises are currently approved for the intended use, or even find out which licences to apply for with this directory of [e-Advisers for Licences](/licences/find-licence-by-sector/?src=news){:target="\_blank"}{:rel="noopener"}.
 
 ###### <sup>*</sup>This currently applies only to sole proprietorships and partnerships.
 
-**Full integration with the GoBusiness Dashboard**After using the e-Adviser for Starting a Business, users can stay updated on the status of their business registration<sup>*</sup> and follow up on the next steps via the GoBusiness dashboard.
+**Full integration with the GoBusiness Dashboard** After using the e-Adviser for Starting a Business, users can stay updated on the status of their business registration<sup>*</sup> and follow up on the next steps via the GoBusiness dashboard.
 
 ###### <sup>*</sup>This currently applies only to sole proprietorships and partnerships.
 
@@ -50,11 +50,11 @@ They can also use the [e-Adviser for Premise Use](https://eadviser.gobusiness.go
 
 ![e-Adviser for Government Assistance](/images/news/e-Adviser for Government Assistance.jpg)
 
-It is now even easier to find and apply for the relevant government assistance schemes with these enhancements to the [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=news){:target="\_blank"}{:rel="noopener"} :
+It is now even easier to find and apply for the relevant government assistance schemes with these enhancements to the [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=news){:target="\_blank"}{:rel="noopener"}:
 
-**Improved recommendations** Thanks to an enhanced interface, users will find the e-Adviser for Government Assistance easier to use and more helpful than ever. They can now also select sub-sectors for more specific and relevant recommendations.
+**Improved recommendations** With an enhanced interface, it is now easier to navigate the e-Adviser for Government Assistance. Users can also select sub-sectors for more specific and relevant recommendations.
 
-**Auto-filled forms** With just one simple login via Singpass, application forms can be auto-filled with users’ company information from their Unique Entity Number (UEN) profiles, for a faster and smoother application process.
+**Auto-filled forms** With just one simple login via Singpass, application forms can be auto-filled with the user company information obtained from the UEN profile, for a faster and smoother application process.
 
 **Seamless integration with Business Grants Portal (BGP)** Upon getting their e-Adviser results, any recommended BGP grant comes with a direct link to the relevant page on BGP to apply, without requiring users to log in again. Users can now cut down on time spent  navigating different websites.
 
