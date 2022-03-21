@@ -37,10 +37,26 @@
 
   .sisterbrand__left-bottom {
     grid-area: content-3;
+    display: grid;
+    background: #ffffff;
+    box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
+      0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+    border-radius: 5px;
+    row-gap: 8px;
+    grid-template-rows: 80px auto auto auto 64px;
+    height: 100%;
   }
 
   .sisterbrand__right-bottom {
     grid-area: content-4;
+    display: grid;
+    background: #ffffff;
+    box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
+      0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+    border-radius: 5px;
+    row-gap: 8px;
+    grid-template-rows: 80px auto auto auto 64px;
+    height: 100%;
   }
 
   .sisterbrand__bold {
@@ -67,25 +83,6 @@
     height: 48px;
   }
 
-  .sisterbrand__card {
-    display: grid;
-    background: #ffffff;
-    box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
-      0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
-    border-radius: 5px;
-    row-gap: 8px;
-    grid-template-rows: 80px auto auto auto 64px;
-    height: 100%;
-  }
-
-  .sisterbrand__card--title {
-    font-family: hknova-semibold;
-    font-size: 18px;
-    line-height: 22px;
-    color: #313840;
-    padding: 0 24px;
-  }
-
   .sisterbrand__card--body {
     font-size: 16px;
     line-height: 24px;
@@ -110,7 +107,6 @@
     .sisterbrand__contents {
       display: grid;
       grid-template-areas:
-        "content-1 content-2"
         "content-3 content-4";
       row-gap: 25px;
       max-width: 1140px;
@@ -128,25 +124,19 @@
   <div class="sisterbrand__header">
     <div class="sisterbrand__contents">
       <div class="sisterbrand__left-bottom">
-        <div class="sisterbrand__card">
-          <div class="sisterbrand__card--title">Partner with GoBusiness</div>
           <div class="sisterbrand__card--body">
             Looking for Government e-services for <b>citizens</b>?
           </div>
-        </div>
       </div>
       <div class="sisterbrand__right-bottom">
-        <div class="sisterbrand__card">
           <div class="sisterbrand__logoWrapper">
             <img class="sisterbrand__logo" src="/images/rocket.png" alt="logo" />
           </div>
-          <div class="sisterbrand__card--title">Help GoBusiness Improve</div>
           <div class="sisterbrand__card--body">
             To access Government e-Services and resources for
             individuals and families
             <a href="https://www.life.gov.sg/" target="_blank" rel="noopener">Visit LifeSG</a>
           </div>
-        </div>
       </div>
     </div>
   </div>
