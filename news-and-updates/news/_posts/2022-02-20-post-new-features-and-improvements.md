@@ -12,7 +12,7 @@ image: /images/news/GoBusiness Dashboard Official Launch.jpg
 
 ## An enhanced GoBusiness experience
 
-Enjoy an even more integrated and seamless experience on GoBusiness with a brand new GoBusiness Dashboard, new and improved e-Advisers, and more! Here's what you can expect:
+Enjoy an even more integrated and seamless experience on GoBusiness with a brand new GoBusiness Dashboard, new and improved e-Advisers, and more! These are what you can expect:
 
 ### An all-new GoBusiness Dashboard
 
@@ -54,7 +54,7 @@ It is now even easier to find and apply for the relevant government assistance s
 
 **Improved recommendations** With an enhanced interface, it is now easier to navigate the e-Adviser for Government Assistance. Users can also select sub-sectors for more specific and relevant recommendations.
 
-**Auto-filled forms** With just one simple login via Singpass, application forms can be auto-filled with the user company information obtained from the UEN profile, for a faster and smoother application process.
+**Auto-filled forms** With just one simple login via Singpass, application forms can be auto-filled with the user company information obtained from the Unique Entity Number (UEN) profile, for a faster and smoother application process.
 
 **Seamless integration with Business Grants Portal (BGP)** Upon getting their e-Adviser results, any recommended BGP grant comes with a direct link to the relevant page on BGP to apply, without requiring users to log in again. Users can now cut down on time spent  navigating different websites.
 
