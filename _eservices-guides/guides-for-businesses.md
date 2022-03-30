@@ -22,7 +22,7 @@ Navigate the process of starting, running and growing a business with our handy 
       display: inline-block;
       vertical-align: middle;
       margin-left: 8px;">
-  New!
+  NEW!
   </span>
   <br>For event organisers to find out the licences and permits needed to organise a physical event.
 - [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=eservices_guidesforbiz){:target="_blank"}
