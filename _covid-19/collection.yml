@@ -19,6 +19,5 @@ collections:
       - sector-specific-support/.keep
       - sector-specific-support/food-beverage.md
       - sector-specific-support/hospitality-tourism.md
-      - sector-specific-support/marine-process.md
       - sector-specific-support/maritime.md
       - faqs.md
