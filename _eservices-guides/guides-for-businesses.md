@@ -15,7 +15,7 @@ Navigate the process of starting, running and growing a business with our handy 
       width: 49px;
       height: 22px;
       padding: 2px 8px;
-      font-family: hknova-regular;
+      font-family: hknova-bold;
       font-size: 12px;
       line-height: 18px;
       color: #02737D;
