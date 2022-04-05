@@ -1,6 +1,6 @@
 ---
 title: Maritime
-permalink: /supportschemes/martimesupport/
+permalink: /supportschemes/maritimesupport/
 third_nav_title: Sector-Specific Support
 ---
 
