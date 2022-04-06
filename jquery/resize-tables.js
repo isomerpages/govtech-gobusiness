@@ -1,6 +1,6 @@
 const customTables = [
   {
-    path: "/start-a-business/open-a-corporate-bank-account/",
+    path: "/start-a-business/open-a-corporate-bank-account-a/",
     columns: ["32%", "auto"],
   },
   {
@@ -8,15 +8,15 @@ const customTables = [
     columns: ["32%", "auto"],
   }, 
   {
-    path: "/timelimitedrrt/",
-    columns: ["32%", "auto"],
-  }, 
-  {
-    path: "/covid-19-faqs/time-limited-rrt-for-workplaces",
+    path: "/start-a-business/open-a-corporate-bank-account-b/",
     columns: ["32%", "auto"],
   },
   {
-    path: "/covid-19-faqs/workplace-safe-management-measures",
+    path: "/timelimitedrrt/",
+    columns: ["32%", "auto"],
+  },
+  {
+    path: "/covid-faqs/workplace-safe-management-measures",
     columns: ["32%", "auto"],
   },
   {
@@ -32,9 +32,9 @@ const customTables = [
     columns: ["12%", "70%", "auto"],
   },
   {
-    path: "/covid-19-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions",
-    columns: ["50%", "50%"],
-  },
+    path: "/productivity-solutions-grant/",
+    columns: ["20%", "auto"]
+  }
 ];
 
 $(document).ready(function () {

@@ -33,6 +33,6 @@
   }
 </style>
 
-<a class="content-btn" href="{{ include.src }}" target="_blank" rel="noopener">
+<a class="content-btn" href="{{ include.src }}" target="{% if {{include.target}} %}{{include.target}}{% else %}_blank{% endif %}">
   {{ include.text }}
 </a>
