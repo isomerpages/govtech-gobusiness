@@ -1,5 +1,5 @@
 ---
 title: E-Freight Management
-permalink: /browser-all-solutions/E-Freight-Management
+permalink: /browse-all-solutions/E-Freight-Management
 ---
 

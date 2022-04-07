@@ -1,5 +1,5 @@
 ---
 title: Transport Management
-permalink: /browser-all-solutions/Transport-Management
+permalink: /browse-all-solutions/Transport-Management
 ---
 

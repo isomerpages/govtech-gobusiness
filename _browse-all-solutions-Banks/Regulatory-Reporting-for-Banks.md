@@ -1,5 +1,5 @@
 ---
 title: Regulatory Reporting for Banks
-permalink: /browser-all-solutions/Regulatory-Reporting-for-Banks
+permalink: /browse-all-solutions/Regulatory-Reporting-for-Banks
 ---
 

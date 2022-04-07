@@ -1,5 +1,5 @@
 ---
 title: Unified Threat Management
-permalink: /browser-all-solutions/Unified-Threat-Management
+permalink: /browse-all-solutions/Unified-Threat-Management
 ---
 

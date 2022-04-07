@@ -1,5 +1,5 @@
 ---
 title: Automated Reservation
-permalink: /browser-all-solutions/Automated-Reservation
+permalink: /browse-all-solutions/Automated-Reservation
 ---
 

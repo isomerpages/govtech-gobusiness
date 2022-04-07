@@ -1,5 +1,5 @@
 ---
 title: Workforce Optimiser
-permalink: /browser-all-solutions/Workforce-Optimiser
+permalink: /browse-all-solutions/Workforce-Optimiser
 ---
 

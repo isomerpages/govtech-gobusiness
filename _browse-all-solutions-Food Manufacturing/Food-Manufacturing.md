@@ -1,5 +1,5 @@
 ---
 title: Food Manufacturing
-permalink: /browser-all-solutions/Food-Manufacturing
+permalink: /browse-all-solutions/Food-Manufacturing
 ---
 

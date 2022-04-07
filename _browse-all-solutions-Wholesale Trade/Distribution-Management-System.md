@@ -1,5 +1,5 @@
 ---
 title: Distribution Management System
-permalink: /browser-all-solutions/Distribution-Management-System
+permalink: /browse-all-solutions/Distribution-Management-System
 ---
 

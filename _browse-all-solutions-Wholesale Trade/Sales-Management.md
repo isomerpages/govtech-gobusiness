@@ -1,5 +1,5 @@
 ---
 title: Sales Management
-permalink: /browser-all-solutions/Sales-Management
+permalink: /browse-all-solutions/Sales-Management
 ---
 

@@ -1,5 +1,5 @@
 ---
 title: Workforce Management
-permalink: /browser-all-solutions/Workforce-Management
+permalink: /browse-all-solutions/Workforce-Management
 ---
 

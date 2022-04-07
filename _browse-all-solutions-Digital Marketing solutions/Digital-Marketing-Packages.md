@@ -1,5 +1,5 @@
 ---
 title: Digital Marketing Packages
-permalink: /browser-all-solutions/Digital-Marketing-Packages
+permalink: /browse-all-solutions/Digital-Marketing-Packages
 ---
 

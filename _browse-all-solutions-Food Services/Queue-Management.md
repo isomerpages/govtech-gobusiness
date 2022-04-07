@@ -1,5 +1,5 @@
 ---
 title: Queue Management
-permalink: /browser-all-solutions/Queue-Management
+permalink: /browse-all-solutions/Queue-Management
 ---
 

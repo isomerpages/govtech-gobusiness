@@ -1,5 +1,5 @@
 ---
 title: Food
-permalink: /browser-all-solutions/Food
+permalink: /browse-all-solutions/Food
 ---
 

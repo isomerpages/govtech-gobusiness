@@ -1,5 +1,5 @@
 ---
 title: Fleet Management System
-permalink: /browser-all-solutions/Fleet-Management-System
+permalink: /browse-all-solutions/Fleet-Management-System
 ---
 

@@ -206,18 +206,74 @@
         **Enterprise Resource Planning (ERP)**
         Note:<br>
         Please note that each business entity may not only be supported for one application for the Enterprise Resource Planning (ERP) System solution category.<br>
-        <table><tr><td><b>Sales Management System</b></td><td><b>Accounting Management</b></td><td><b>Inventory Management</b></td><td><b>Customer Relationship Management</b></td><td><b>Solutions</b></td></tr>
-        <tr><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td><a href="/productivity-solutions-grant/business-software-solutions/sms-am-im-crm">View</a>/td></tr>
-        <tr><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td></td><td><a href="/productivity-solutions-grant/business-software-solutions/sms-am-im">View</a></td></tr>
-        <tr><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td></td><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td><a href="/productivity-solutions-grant/business-software-solutions/sms-am-crm">View</a></td></tr>
-        <tr><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td></td><td></td><td><a href="/productivity-solutions-grant/business-software-solutions/sms-am">View</a></td></tr>
-        <tr><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td></td><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td></td><td><a href="/productivity-solutions-grant/business-software-solutions/sms-im">View</a></td></tr>
-        <tr><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td></td><td></td><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td><td><a href="/productivity-solutions-grant/business-software-solutions/sms-crm">View</a></td></tr></table>
+        <table>
+        <tr>
+        <td><b>Sales Management System</b></td>
+        <td><b>Accounting Management</b></td>
+        <td><b>Inventory Management</b></td>
+        <td><b>Customer Relationship Management</b></td>
+        <td><b>Solutions</b></td>
+        </tr>
+        <tr>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td><a href="/productivity-solutions-grant/business-software-solutions/sms-am-im-crm">View</a>/td>
+        </tr>
+        <tr>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td></td><td><a href="/productivity-solutions-grant/business-software-solutions/sms-am-im">View</a></td>
+        </tr>
+        <tr>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td></td><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td><a href="/productivity-solutions-grant/business-software-solutions/sms-am-crm">View</a></td>
+        </tr>
+        <tr>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td></td><td></td><td><a href="/productivity-solutions-grant/business-software-solutions/sms-am">View</a></td>
+        </tr>
+        <tr>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td></td><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td></td><td><a href="/productivity-solutions-grant/business-software-solutions/sms-im">View</a></td>
+        </tr>
+        <tr>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td></td><td></td><td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td><a href="/productivity-solutions-grant/business-software-solutions/sms-crm">View</a></td>
+        </tr>
+        </table>
         <br>
         **Standalone Solutions**
-        |**Sales Management System**|**Accounting Management**|**Inventory Management**|**Customer Relationship Management**|**Solutions**|
-        |   |   |   | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> |[View](/productivity-solutions-grant/business-software-solutions/crm)|
-        |   |   | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> |   |[View](/productivity-solutions-grant/business-software-solutions/im)|
+        <table>
+        <tr>
+        <td><b>Sales Management System</b></td>
+        <td><b>Accounting Management</b></td>
+        <td><b>Inventory Management</b></td>
+        <td><b>Customer Relationship Management</b></td>
+        <td><b>Solutions</b></td>
+        </tr>
+        <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td><a href="/productivity-solutions-grant/business-software-solutions/crm">View</a></td>
+        </tr>
+        <tr>
+        <td></td>
+        <td></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td></td>
+        <td><a href="/productivity-solutions-grant/business-software-solutions/im">View</a></td>
+        </tr>
+        </table>
         <br>
         **Note:**<br>
         The following list of solution categories have been re-grouped to the new solution category 'Enterprise Resource Planning (ERP) System':

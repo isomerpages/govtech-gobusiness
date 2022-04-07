@@ -1,5 +1,5 @@
 ---
 title: EndPoint Protection Platform
-permalink: /browser-all-solutions/EndPoint-Protection-Platform
+permalink: /browse-all-solutions/EndPoint-Protection-Platform
 ---
 
