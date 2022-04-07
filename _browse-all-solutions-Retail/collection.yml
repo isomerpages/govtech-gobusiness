@@ -1,0 +1,10 @@
+collections:
+  browse-all-solutions-Retail:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Enhanced-Retail-Management-System-(Part-1).md
+      - Enhanced-Retail-Management-System-(Part-2).md
+      - Enhanced-Retail-Management-and-Inventory-Management.md
+      - Commercial-Anti-Money-Laundering-(ML)Countering-the-Financing-of-Terrorism-(TF)-Screening.md
+      - Retail-Analytics.md

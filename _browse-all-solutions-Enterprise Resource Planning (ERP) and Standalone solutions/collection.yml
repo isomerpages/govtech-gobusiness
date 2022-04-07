@@ -1,0 +1,5 @@
+collections:
+  browse-all-solutions-Enterprise Resource Planning (ERP) and Standalone solutions:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
