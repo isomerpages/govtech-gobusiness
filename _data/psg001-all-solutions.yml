@@ -203,7 +203,7 @@
         - Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS
     - title: Enterprise Resource Planning (ERP) and Standalone solutions
       content: |
-        **Enterprise Resource Planning (ERP)**
+        <b>Enterprise Resource Planning (ERP)</b><br>
         Note:<br>
         Please note that each business entity may not only be supported for one application for the Enterprise Resource Planning (ERP) System solution category.<br>
         <table>
@@ -250,7 +250,7 @@
         </tr>
         </table>
         <br>
-        **Standalone Solutions**
+        <b>Standalone Solutions</b><br>
         <table>
         <tr>
         <td><b>Sales Management System</b></td>
@@ -275,14 +275,14 @@
         </tr>
         </table>
         <br>
-        **Note:**<br>
-        The following list of solution categories have been re-grouped to the new solution category 'Enterprise Resource Planning (ERP) System':
-        - Accounting Management and Sales Management System
-        - Accounting Management, Customer Relationship Management (CRM) and Sales Management System
-        - Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
-        - Accounting Management, Inventory Management and Sales Management System
-        - Customer Relationship Management (CRM) and Sales Management System
-        - Inventory Management and Sales Management System
+        <b>Note:</b><br>
+        The following list of solution categories have been re-grouped to the new solution category 'Enterprise Resource Planning (ERP) System':<br>
+        - Accounting Management and Sales Management System<br>
+        - Accounting Management, Customer Relationship Management (CRM) and Sales Management System<br>
+        - Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System<br>
+        - Accounting Management, Inventory Management and Sales Management System<br>
+        - Customer Relationship Management (CRM) and Sales Management System<br>
+        - Inventory Management and Sales Management System<br>
     - title: Fleet Safety and Fleet Management System
       content: |
         
