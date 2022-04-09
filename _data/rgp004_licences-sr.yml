@@ -1,0 +1,8 @@
+- banner: <img src="/images/grow/renew-licence-icon.png">
+  title: Submit returns
+  is_new: false
+  description: Returns can be submitted by logging in to GoBusiness Licensing.
+  url: https://dashboard.gobusiness.gov.sg/login?src=run&grow_licences_fs
+  url-new-tab: true
+  text: Log In to GoBusiness Licensing
+

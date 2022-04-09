@@ -19,10 +19,12 @@
   id: 2
   href_1: '/licences/#new-licence'
   text_1: Apply for new licence
-  href_2: '/licences/#renew-amend-licence'
+  href_2: '/licences/renew-amend-licence/?src=home_quicklinks'
   text_2: Renew or amend licence
-  href_3: '/licences/find-licence-by-sector/?src=home_quicklinks'
-  text_3: Licence guides
+  href_3: '/licences/submit-returns/?src=home_quicklinks'
+  text_3: Submit returns
+  href_4: '/licences/find-licence-by-sector/?src=home_quicklinks'
+  text_4: Licence guides
   cta_href: '/licences/?src=home_quicklinks'
   cta_text: Licensing overview
 - icon: '/images/Covid.svg'

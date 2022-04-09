@@ -12,7 +12,7 @@ Navigate the process of starting, running and growing a business with our handy 
 ### e-Services
 - [e-Adviser for Events](https://eadviser.gobusiness.gov.sg/events?src=eservices_guidesforbiz){:target="_blank"} <span style="background: #E6F2F3;
       border-radius: 3px;
-      width: 49px;
+      width: 53px;
       height: 22px;
       padding: 2px 8px;
       font-family: hknova-bold;
