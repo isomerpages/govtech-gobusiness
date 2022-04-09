@@ -1,6 +1,6 @@
 ---
 title: Renew or amend licence
-permalink: /licences/renew-amend-licences/
+permalink: /licences/renew-amend-licence/
 third_nav_title: Licences and Permits
 ---
 
