@@ -1,5 +1,5 @@
 collections:
-  browse-all-solutions-Wholesale Trade:
+  browse-all-solutions-Wholesale-Trade:
     output: true
     order:
       - back-to-all-psg-solutions.md

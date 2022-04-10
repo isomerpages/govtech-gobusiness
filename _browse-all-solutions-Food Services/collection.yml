@@ -1,5 +1,5 @@
 collections:
-  browse-all-solutions-Food Services:
+  browse-all-solutions-Food-Services:
     output: true
     order:
       - back-to-all-psg-solutions.md

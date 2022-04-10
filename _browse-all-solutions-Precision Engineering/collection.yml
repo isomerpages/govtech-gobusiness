@@ -1,5 +1,5 @@
 collections:
-  browse-all-solutions-Precision Engineering:
+  browse-all-solutions-Precision-Engineering:
     output: true
     order:
       - back-to-all-psg-solutions.md

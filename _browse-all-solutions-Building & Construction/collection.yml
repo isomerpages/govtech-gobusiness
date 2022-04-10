@@ -1,5 +1,5 @@
 collections:
-  browse-all-solutions-Building & Construction:
+  browse-all-solutions-Building-Construction:
     output: true
     order:
       - back-to-all-psg-solutions.md

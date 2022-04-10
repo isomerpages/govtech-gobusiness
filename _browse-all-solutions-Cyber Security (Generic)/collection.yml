@@ -1,5 +1,5 @@
 collections:
-  browse-all-solutions-Cyber Security (Generic):
+  browse-all-solutions-Cyber-Security--Generic-:
     output: true
     order:
       - back-to-all-psg-solutions.md

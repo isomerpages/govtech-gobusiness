@@ -1,5 +1,5 @@
 collections:
-  browse-all-solutions-Food Manufacturing:
+  browse-all-solutions-Food-Manufacturing:
     output: true
     order:
       - back-to-all-psg-solutions.md

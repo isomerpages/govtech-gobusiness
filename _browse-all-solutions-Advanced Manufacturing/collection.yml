@@ -1,5 +1,5 @@
 collections:
-  browse-all-solutions-Advanced Manufacturing:
+  browse-all-solutions-Advanced-Manufacturing:
     output: true
     order:
       - back-to-all-psg-solutions.md

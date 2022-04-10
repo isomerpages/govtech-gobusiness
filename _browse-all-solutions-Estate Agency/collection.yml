@@ -1,5 +1,5 @@
 collections:
-  browse-all-solutions-Estate Agency:
+  browse-all-solutions-Estate-Agency:
     output: true
     order:
       - back-to-all-psg-solutions.md

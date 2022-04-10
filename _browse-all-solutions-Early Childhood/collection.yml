@@ -1,5 +1,5 @@
 collections:
-  browse-all-solutions-Early Childhood:
+  browse-all-solutions-Early-Childhood:
     output: true
     order:
       - back-to-all-psg-solutions.md
