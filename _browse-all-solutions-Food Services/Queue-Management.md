@@ -1,6 +1,6 @@
 ---
 title: Queue Management
-permalink: /browse-all-solutions/Queue-Management
+permalink: /browse-all-solutions/Queue-Management/
 ---
 
 
