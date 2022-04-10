@@ -1,5 +1,5 @@
 ---
 title: Teleconsultation(Video)
-permalink: /browse-all-solutions/Teleconsultation(Video)
+permalink: /browse-all-solutions-Healthcare/Teleconsultation(Video)
 ---
 

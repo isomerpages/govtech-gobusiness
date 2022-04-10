@@ -1,5 +1,5 @@
 ---
 title: Workforce Optimiser
-permalink: /browse-all-solutions/Workforce-Optimiser
+permalink: /browse-all-solutions-Marine & Offshore/Workforce-Optimiser
 ---
 

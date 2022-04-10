@@ -1,5 +1,5 @@
 ---
 title: Retail Analytics
-permalink: /browse-all-solutions/Retail-Analytics
+permalink: /browse-all-solutions-Retail/Retail-Analytics
 ---
 

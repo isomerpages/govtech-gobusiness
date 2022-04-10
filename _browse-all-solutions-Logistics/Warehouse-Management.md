@@ -1,5 +1,5 @@
 ---
 title: Warehouse Management
-permalink: /browse-all-solutions/Warehouse-Management
+permalink: /browse-all-solutions-Logistics/Warehouse-Management
 ---
 
