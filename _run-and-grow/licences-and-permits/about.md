@@ -44,7 +44,7 @@ Returns are additional information you may need to submit for certain licences. 
 
 After you apply, the relevant government agencies will advise you on submitting returns. For enquires, you can contact the licensing agency directly.
 
-{% include panels-featurelink.html panels=site.data.rgp003_licences-ar %}
+{% include panels-featurelink.html panels=site.data.rgp004_licences-sr %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
