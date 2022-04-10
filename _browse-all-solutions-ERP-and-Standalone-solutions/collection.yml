@@ -1,0 +1,12 @@
+collections:
+  browse-all-solutions-ERP-and-Standalone-solutions:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Accounting-Management-and-Sales-Management-System.md
+      - Accounting-Management--Inventory-Management-and-Sales-Management-System.md
+      - Customer-Relationship-Management--CRM-.md
+      - Accounting-Management--Customer-Relationship-Management--CRM---Inventory-Management-and-Sales-Management-System.md
+      - Customer-Relationship-Management--CRM--and-Sales-Management-System.md
+      - Accounting-Management--Customer-Relationship-Management--CRM--and-Sales-Management-System.md
+      - Inventory-Management-System.md
