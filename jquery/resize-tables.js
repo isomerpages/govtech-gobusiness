@@ -34,7 +34,7 @@ const customTables = [
   {
     path: "/productivity-solutions-grant/",
     columns: ["20%", "auto"]
-  }
+  },
   {
     path: "/licences/renew-amend-licence/",
     columns: ["68%", "32%"]
