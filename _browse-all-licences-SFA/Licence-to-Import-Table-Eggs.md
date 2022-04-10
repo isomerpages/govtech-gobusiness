@@ -4,13 +4,13 @@ permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Ta
 third_nav_title: Singapore Food Agency (SFA)
 ---
 
-## Apply for Licence to Import Table Eggs (to be merged into Food and Feed Trading Licence)
+## Apply for Licence to Import Table Eggs
 
 Singapore Food Agency (SFA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000325" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000325" type="primary" %}
 
 <H3>Application Details</H3>
 

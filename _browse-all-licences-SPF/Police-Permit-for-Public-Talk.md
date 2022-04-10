@@ -8,7 +8,7 @@ third_nav_title: Singapore Police Force (SPF)
 
 Singapore Police Force (SPF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=242" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=242" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -21,7 +21,7 @@ Singapore Police Force (SPF)
   <li>
     <strong>Where can I get more information about the Police Permit for Public Talk?</strong><br>        
 More information can be found at the 
-<a href="www.police.gov.sg/e-services" target="_blank" rel="noopener">SPF website</a>
+<a href="https://www.police.gov.sg/e-Services/Police-Permit" target="_blank" rel="noopener">SPF website</a>
   </li>
 
 

@@ -4,13 +4,13 @@ permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Impo
 third_nav_title: Singapore Food Agency (SFA)
 ---
 
-## Apply for Registration to Import Processed Food Products and Food Appliances (to be merged into Food and Feed Trading Licence)
+## Apply for Registration to Import Processed Food Products and Food Appliances
 
 Singapore Food Agency (SFA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000146" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000146" type="primary" %}
 
 <H3>Application Details</H3>
 

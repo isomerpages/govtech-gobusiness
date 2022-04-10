@@ -8,7 +8,7 @@ third_nav_title: Singapore Police Force (SPF)
 
 Singapore Police Force (SPF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=231" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=231" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -19,14 +19,14 @@ Singapore Police Force (SPF)
 <ol>
   <li>
     <strong>Where can I get more information about the Notice of Intention to Organise an Event?
-</strong><br>	
+</strong><br>        
 More information can be found at the 
-<a href="http://www.police.gov.sg/e-services/apply" target="_blank" rel="noopener">SPF website</a>
+<a href="https://www.police.gov.sg/e-services/" target="_blank" rel="noopener">SPF website</a>
   </li>
 
   <li>
     <strong>When should I submit the Notice of Intent to Organise an Event?
-</strong><br>	
+</strong><br>        
 You should submit the notice no less than 28 days before the proposed date of the event.
   </li>
 

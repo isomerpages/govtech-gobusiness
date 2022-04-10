@@ -8,7 +8,7 @@ third_nav_title: Singapore Police Force (SPF)
 
 Singapore Police Force (SPF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=52" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=52" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -20,7 +20,7 @@ Singapore Police Force (SPF)
   <li>
     <strong>Where can I get more information for Notification to Police Of Exempted Public Entertainments or Arts Entertainment?</strong><br>        
 More information can be found at the 
-<a href="http://www.police.gov.sg/e-services/apply/licenses-and-permits" target="_blank" rel="noopener">SPF website</a>
+<a href="https://www.police.gov.sg/e-services/" target="_blank" rel="noopener">SPF website</a>
   </li>
   <li>
     <strong>Who can be an applicant?</strong><br>

@@ -10,7 +10,7 @@ Singapore Police Force (SPF)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=44" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=44" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -22,7 +22,7 @@ Singapore Police Force (SPF)
   <li>
     <strong>Where can I get more information for Massage Establishment Licence - Employee Registration?</strong><br>        
 More information can be found at the 
-<a href="http://www.police.gov.sg/e-services/apply/licenses-and-permits" target="_blank" rel="noopener">SPF website</a>
+<a href="https://www.police.gov.sg/e-Services/Police-Licences/Massage-Establishments-Licence" target="_blank" rel="noopener">SPF website</a>
   </li>
   <li>
     <strong>Who can be an applicant?</strong><br>
