@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Accounting-Management-and-Sales-Management-System.md
-      - Accounting-Management--Inventory-Management-and-Sales-Management-System.md
-      - Customer-Relationship-Management--CRM-.md
-      - Accounting-Management--Customer-Relationship-Management--CRM---Inventory-Management-and-Sales-Management-System.md
-      - Customer-Relationship-Management--CRM--and-Sales-Management-System.md
-      - Accounting-Management--Customer-Relationship-Management--CRM--and-Sales-Management-System.md
-      - Inventory-Management-System.md
+      - Accting-Mgmt-and-Sales-Mgmt-System.md
+      - Accting-Mgmt--Inventory-Mgmt-and-Sales-Mgmt-System.md
+      - CRM.md
+      - Accting-Mgmt--CRM--Inventory-Mgmt-and-Sales-Mgmt-System.md
+      - CRM-and-Sales-Mgmt-System.md
+      - Accting-Mgmt--CRM-and-Sales-Mgmt-System.md
+      - Inventory-Mgmt-System.md
