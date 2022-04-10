@@ -22,36 +22,36 @@
     - title: Building and Construction Authority
       content: |
         | **Licence Name** | **Log In To** |
-        |Advertising Sign/ Signboard Licence|[BCA](https://eservices.bca.gov.sg/advertisementlicence)(: target="_blank"}{:rel="noopener"}|
-        |Amusement Rides Permit|[BCA](https://www1.bca.gov.sg/regulatory-info/amusement-rides/amusement-rides-legislation)(: target="_blank"}{:rel="noopener"}|
-        |Permit to Erect Temporary Building|[BCA](https://www1.bca.gov.sg/regulatory-info/temporary-buildings-application/application-for-a-permit-to-erect-temporary-building)(: target="_blank"}{:rel="noopener"}|
-        |Structural and Building Plans Requirements for Rooftop Solar PV Installation|[BCA](https://corenet.gov.sg/general/e-info.aspx)(: target="_blank"}{:rel="noopener"}|
+        |Advertising Sign/ Signboard Licence|[BCA](https://eservices.bca.gov.sg/advertisementlicence){:target="_blank"}{:rel="noopener"}|
+        |Amusement Rides Permit|[BCA](https://www1.bca.gov.sg/regulatory-info/amusement-rides/amusement-rides-legislation){:target="_blank"}{:rel="noopener"}|
+        |Permit to Erect Temporary Building|[BCA](https://www1.bca.gov.sg/regulatory-info/temporary-buildings-application/application-for-a-permit-to-erect-temporary-building){:target="_blank"}{:rel="noopener"}|
+        |Structural and Building Plans Requirements for Rooftop Solar PV Installation|[BCA](https://corenet.gov.sg/general/e-info.aspx){:target="_blank"}{:rel="noopener"}|
     - title: Board of Architects
       content: |
         | **Licence Name** | **Log In To** |
-        |Licence to Supply Architectural Services|[BOA](https://www.boa.gov.sg/register/application-forms/)(: target="_blank"}{:rel="noopener"}|
+        |Licence to Supply Architectural Services|[BOA](https://www.boa.gov.sg/register/application-forms/){:target="_blank"}{:rel="noopener"}|
 - accordion:
   letter: c
   data:
     - title: Civil Aviation Authority of Singapore
       content: |
         | **Licence Name** | **Log In To** |
-        |Air Operator Certificate|[CAAS](https://www.caas.gov.sg/operations-safety/air-operations/singapore-air-operators/air-operator-certificate)(: target="_blank"}{:rel="noopener"}|
-        |Air Traffic Controller Licence|[CAAS](https://www.caas.gov.sg/personnel-licences-training/air-traffic-controller)(: target="_blank"}{:rel="noopener"}|
-        |Aircraft Maintenance Engineer|[CAAS](https://www.caas.gov.sg/personnel-licences-training/aircraft-maintenance-engineer)(: target="_blank"}{:rel="noopener"}|
-        |Aircraft Maintenance Organisation|[CAAS](https://www.caas.gov.sg/operations-safety/aircraft/maintenance-repair-overhaul)(: target="_blank"}{:rel="noopener"}|
+        |Air Operator Certificate|[CAAS](https://www.caas.gov.sg/operations-safety/air-operations/singapore-air-operators/air-operator-certificate){:target="_blank"}{:rel="noopener"}|
+        |Air Traffic Controller Licence|[CAAS](https://www.caas.gov.sg/personnel-licences-training/air-traffic-controller){:target="_blank"}{:rel="noopener"}|
+        |Aircraft Maintenance Engineer|[CAAS](https://www.caas.gov.sg/personnel-licences-training/aircraft-maintenance-engineer){:target="_blank"}{:rel="noopener"}|
+        |Aircraft Maintenance Organisation|[CAAS](https://www.caas.gov.sg/operations-safety/aircraft/maintenance-repair-overhaul){:target="_blank"}{:rel="noopener"}|
         |Clearance for Aerial Photography/Videography|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Clearance for Erection of Cranes and Tall Construction Machinery|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Clearance for Ship Crossing|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Flight Crew Licence|[CAAS](https://www.caas.gov.sg/personnel-licences-training/flight-crew)(: target="_blank"}{:rel="noopener"}|
+        |Flight Crew Licence|[CAAS](https://www.caas.gov.sg/personnel-licences-training/flight-crew){:target="_blank"}{:rel="noopener"}|
         |Glare and/or Height Control Requirements for Rooftop Solar PV Installation|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Permit for Aerial Activities|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Permit to fly|[CAAS](https://www.caas.gov.sg/operations-safety/aircraft/permit-to-fly)(: target="_blank"}{:rel="noopener"}|
-        |Permits for Carriage of Dangerous Goods|[CAAS](https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/air-operators/dangerous-goods-permit)(: target="_blank"}{:rel="noopener"}|
+        |Permit to fly|[CAAS](https://www.caas.gov.sg/operations-safety/aircraft/permit-to-fly){:target="_blank"}{:rel="noopener"}|
+        |Permits for Carriage of Dangerous Goods|[CAAS](https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/air-operators/dangerous-goods-permit){:target="_blank"}{:rel="noopener"}|
     - title: Council for Estate Agencies
       content: |
         | **Licence Name** | **Log In To** |
-        |Estate Agent Licence and Salesperson Registration|[CEA](http://www.cea.gov.sg/)(: target="_blank"}{:rel="noopener"}|
+        |Estate Agent Licence and Salesperson Registration|[CEA](http://www.cea.gov.sg/){:target="_blank"}{:rel="noopener"}|
     - title: Central Narcotics Bureau
       content: |
         | **Licence Name** | **Log In To** |
@@ -87,7 +87,7 @@
         | **Licence Name** | **Log In To** |
         |Application for Changes (HDB Commercial Properties)|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Application for Resale/Transfer of HDB Commercial Properties|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Change of Company's Name for HDB Commercial Tenants|[HDB](https://services2.hdb.gov.sg/webapp/AA15NOTI/AA15NOTIPPostalCheck)(: target="_blank"}{:rel="noopener"}|
+        |Change of Company's Name for HDB Commercial Tenants|[HDB](https://services2.hdb.gov.sg/webapp/AA15NOTI/AA15NOTIPPostalCheck){:target="_blank"}{:rel="noopener"}|
         |Home Office Scheme (HDB)|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
     - title: Hotels Licensing Board
       content: |
@@ -158,7 +158,7 @@
         | **Licence Name** | **Log In To** |
         |Patent Agent Form A (Registration as a Singapore Patent Agent)|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Patent Agent Form C (Application for a Practising Certificate)|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Patent Agent Form H (Registration /Renewal of Registration as a Foreign Patent Agent)|[IPOS](https://www.ipos.gov.sg/docs/default-source/resources-library/patents/patent-agent-forms-and-fees/form-h.docx)(: target="_blank"}{:rel="noopener"}|
+        |Patent Agent Form H (Registration /Renewal of Registration as a Foreign Patent Agent)|[IPOS](https://www.ipos.gov.sg/docs/default-source/resources-library/patents/patent-agent-forms-and-fees/form-h.docx){:target="_blank"}{:rel="noopener"}|
     - title: Inland Revenue Authority of Singapore
       content: |
         | **Licence Name** | **Log In To** |
@@ -169,14 +169,14 @@
     - title: Land Transport Authority
       content: |
         | **Licence Name** | **Log In To** |
-        |Application for Change of Use and Parking Layout to Existing Developments|[LTA](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/vehicle-parking-proposals/codes_forms_and_epayment_services.html)(: target="_blank"}{:rel="noopener"}|
-        |Building Works & Restricted Activities in Railway Protection Zone|[LTA](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/building-works---restricted-activities-in-railway-protection-zon/Codes_of_practice_standards_specifications_guides_and_forms.html)(: target="_blank"}{:rel="noopener"}|
+        |Application for Change of Use and Parking Layout to Existing Developments|[LTA](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/vehicle-parking-proposals/codes_forms_and_epayment_services.html){:target="_blank"}{:rel="noopener"}|
+        |Building Works & Restricted Activities in Railway Protection Zone|[LTA](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/building-works---restricted-activities-in-railway-protection-zon/Codes_of_practice_standards_specifications_guides_and_forms.html){:target="_blank"}{:rel="noopener"}|
         |Bus Driver's Vocational Licence (BDVL) / Bus Attendant Vocational Licence (BAVL)|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Class 2 Bus Service Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Notification of Road Closure|[LTA](https://prompt.lta.gov.sg/WebUIPWAS/Login.aspx)(: target="_blank"}{:rel="noopener"}|
+        |Notification of Road Closure|[LTA](https://prompt.lta.gov.sg/WebUIPWAS/Login.aspx){:target="_blank"}{:rel="noopener"}|
         |Omnibus Driver's Vocational Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Permit for Vehicle Movement|[LTA](https://prompt.lta.gov.sg/WebUIPWAS/Login.aspx)(: target="_blank"}{:rel="noopener"}|
-        |Permit to Work on Public Streets|[LTA](https://prompt.lta.gov.sg/WebUIPWAS/Home/FaqInfo?faqType=Works)(: target="_blank"}{:rel="noopener"}|
+        |Permit for Vehicle Movement|[LTA](https://prompt.lta.gov.sg/WebUIPWAS/Login.aspx){:target="_blank"}{:rel="noopener"}|
+        |Permit to Work on Public Streets|[LTA](https://prompt.lta.gov.sg/WebUIPWAS/Home/FaqInfo?faqType=Works){:target="_blank"}{:rel="noopener"}|
         |Taxi Driver's Vocational Licence (TDVL) / Private Hire Car Driver's Vocational Licence (PDVL)|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
 - accordion:
   letter: m
@@ -184,30 +184,30 @@
     - title: Monetary Authority of Singapore
       content: |
         | **Licence Name** | **Log In To** |
-        |Application for Approved MAT Insurers|[MAS](https://www.mas.gov.sg/regulation/Insurance/Approved-MAT-Insurer-Apply-for-Approval)(: target="_blank"}{:rel="noopener"}|
-        |Application for Authorised Reinsurers|[MAS](https://www.mas.gov.sg/regulation/Insurance/Authorised-Reinsurer-Apply-for-Authorisation)(: target="_blank"}{:rel="noopener"}|
-        |Application for Bank Representative Office|[MAS](https://www.mas.gov.sg/regulation/Banking/set-up-bank-representative-office)(: target="_blank"}{:rel="noopener"}|
-        |Application for Insurance Brokers|[MAS](https://www.mas.gov.sg/regulation/forms-and-templates/application-for-registration-as-an-insurance-broker)(: target="_blank"}{:rel="noopener"}|
-        |Application for Insurance Representative Office|[MAS](https://www.mas.gov.sg/regulation/Insurance/For-Insurers-Setting-up-a-Representative-Office)(: target="_blank"}{:rel="noopener"}|
-        |Application for Merchant Bank|[MAS](https://www.mas.gov.sg/regulation/Banking/Licensing-and-Authorisation-for-Banking-Business)(: target="_blank"}{:rel="noopener"}|
-        |Capital Markets Services Licence|[MAS](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Funds-Management.aspx)(: target="_blank"}{:rel="noopener"}|
-        |Commercial Bank Licence|[MAS](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx)(: target="_blank"}{:rel="noopener"}|
-        |Financial Adviser's Licence|[MAS](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Financial-Advisers.aspx)(: target="_blank"}{:rel="noopener"}|
-        |Insurer Licence|[MAS](https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore)(: target="_blank"}{:rel="noopener"}|
-        |Major Payment Institution Licence|[MAS](https://www.mas.gov.sg/regulation/payments/major-payment-institution-licence)(: target="_blank"}{:rel="noopener"}|
-        |Money-Changer's Licence|[MAS](https://www.mas.gov.sg/regulation/payments/money-changing-licence)(: target="_blank"}{:rel="noopener"}|
-        |Standard Payment Institution Licence|[MAS](https://www.mas.gov.sg/regulation/payments/standard-payment-institution-licence)(: target="_blank"}{:rel="noopener"}|
-        |Trust Business Licence|[MAS](https://www.mas.gov.sg/regulation/capital-markets/Trust-Business-Licence)(: target="_blank"}{:rel="noopener"}|
+        |Application for Approved MAT Insurers|[MAS](https://www.mas.gov.sg/regulation/Insurance/Approved-MAT-Insurer-Apply-for-Approval){:target="_blank"}{:rel="noopener"}|
+        |Application for Authorised Reinsurers|[MAS](https://www.mas.gov.sg/regulation/Insurance/Authorised-Reinsurer-Apply-for-Authorisation){:target="_blank"}{:rel="noopener"}|
+        |Application for Bank Representative Office|[MAS](https://www.mas.gov.sg/regulation/Banking/set-up-bank-representative-office){:target="_blank"}{:rel="noopener"}|
+        |Application for Insurance Brokers|[MAS](https://www.mas.gov.sg/regulation/forms-and-templates/application-for-registration-as-an-insurance-broker){:target="_blank"}{:rel="noopener"}|
+        |Application for Insurance Representative Office|[MAS](https://www.mas.gov.sg/regulation/Insurance/For-Insurers-Setting-up-a-Representative-Office){:target="_blank"}{:rel="noopener"}|
+        |Application for Merchant Bank|[MAS](https://www.mas.gov.sg/regulation/Banking/Licensing-and-Authorisation-for-Banking-Business){:target="_blank"}{:rel="noopener"}|
+        |Capital Markets Services Licence|[MAS](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Funds-Management.aspx){:target="_blank"}{:rel="noopener"}|
+        |Commercial Bank Licence|[MAS](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx){:target="_blank"}{:rel="noopener"}|
+        |Financial Adviser's Licence|[MAS](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Financial-Advisers.aspx){:target="_blank"}{:rel="noopener"}|
+        |Insurer Licence|[MAS](https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore){:target="_blank"}{:rel="noopener"}|
+        |Major Payment Institution Licence|[MAS](https://www.mas.gov.sg/regulation/payments/major-payment-institution-licence){:target="_blank"}{:rel="noopener"}|
+        |Money-Changer's Licence|[MAS](https://www.mas.gov.sg/regulation/payments/money-changing-licence){:target="_blank"}{:rel="noopener"}|
+        |Standard Payment Institution Licence|[MAS](https://www.mas.gov.sg/regulation/payments/standard-payment-institution-licence){:target="_blank"}{:rel="noopener"}|
+        |Trust Business Licence|[MAS](https://www.mas.gov.sg/regulation/capital-markets/Trust-Business-Licence){:target="_blank"}{:rel="noopener"}|
     - title: Ministry of Culture, Community and Youth
       content: |
         | **Licence Name** | **Log In To** |
         |Application for Permit to conduct Fund-Raising Appeal for Foreign Charitable Purposes|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Registering A New Charity or IPC Status|[MCCY](https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Before-You-Begin.aspx#)(: target="_blank"}{:rel="noopener"}|
+        |Registering A New Charity or IPC Status|[MCCY](https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Before-You-Begin.aspx#){:target="_blank"}{:rel="noopener"}|
     - title: Ministry of Home Affairs
       content: |
         | **Licence Name** | **Log In To** |
         |Permit to Promote or Conduct a Private Lottery|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Registry of Societies|[MHA](https://www.ros.mha.gov.sg/)(: target="_blank"}{:rel="noopener"}|
+        |Registry of Societies|[MHA](https://www.ros.mha.gov.sg/){:target="_blank"}{:rel="noopener"}|
     - title: Ministry of Law
       content: |
         | **Licence Name** | **Log In To** |
@@ -222,40 +222,40 @@
     - title: Ministry of Health
       content: |
         | **Licence Name** | **Log In To** |
-        |Clinical Laboratory Licence|[MOH](https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories)(: target="_blank"}{:rel="noopener"}|
-        |Clinical X-Ray Laboratory Licence|[MOH](https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories)(: target="_blank"}{:rel="noopener"}|
-        |Community Health Centre|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home)(: target="_blank"}{:rel="noopener"}|
-        |Dental Clinic Licence|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home)(: target="_blank"}{:rel="noopener"}|
-        |Hospital Licence|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home)(: target="_blank"}{:rel="noopener"}|
-        |Medical Clinic Licence|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home)(: target="_blank"}{:rel="noopener"}|
-        |Nursing Home Licence|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home)(: target="_blank"}{:rel="noopener"}|
-        |Termination of Pregnancy (TOP)|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home)(: target="_blank"}{:rel="noopener"}|
+        |Clinical Laboratory Licence|[MOH](https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories){:target="_blank"}{:rel="noopener"}|
+        |Clinical X-Ray Laboratory Licence|[MOH](https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories){:target="_blank"}{:rel="noopener"}|
+        |Community Health Centre|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home){:target="_blank"}{:rel="noopener"}|
+        |Dental Clinic Licence|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home){:target="_blank"}{:rel="noopener"}|
+        |Hospital Licence|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home){:target="_blank"}{:rel="noopener"}|
+        |Medical Clinic Licence|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home){:target="_blank"}{:rel="noopener"}|
+        |Nursing Home Licence|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home){:target="_blank"}{:rel="noopener"}|
+        |Termination of Pregnancy (TOP)|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home){:target="_blank"}{:rel="noopener"}|
     - title: Ministry of Manpower
       content: |
         | **Licence Name** | **Log In To** |
         |Employment Agency Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Factory Notification and Registration|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Foreign employee dormitories|[MOM](http://www.mom.gov.sg/foreign-employee-dormitories)(: target="_blank"}{:rel="noopener"}|
-        |Work passes and permits|[MOM](http://www.mom.gov.sg/passes-and-permits)(: target="_blank"}{:rel="noopener"}|
+        |Foreign employee dormitories|[MOM](http://www.mom.gov.sg/foreign-employee-dormitories){:target="_blank"}{:rel="noopener"}|
+        |Work passes and permits|[MOM](http://www.mom.gov.sg/passes-and-permits){:target="_blank"}{:rel="noopener"}|
     - title: Maritime and Port Authority
       content: |
         | **Licence Name** | **Log In To** |
-        |Accreditation Scheme for Bunker Surveying Companies|[MPA](https://www.mpa.gov.sg/web/portal/home/port-of-singapore/services/bunkering/bunkering-licence-application-guidelines/licensing-of-bunker-surveying-companies)(: target="_blank"}{:rel="noopener"}|
-        |Advanced Powered Pleasure Craft Driving Licence|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-pleasure-craft/introduction-to-pleasure-craft-licensing)(: target="_blank"}{:rel="noopener"}|
-        |Bunker Convention Certificate|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/arrival-and-departure-formalities/applying-for-a-bunker-convention-certificate)(: target="_blank"}{:rel="noopener"}|
-        |Bunkering Licence (Bunker Supplier)|[MPA](https://www.mpa.gov.sg/web/portal/home/port-of-singapore/services/bunkering/bunkering-licence-application-guidelines/new-bunkering-licence-bunker-supplier)(: target="_blank"}{:rel="noopener"}|
-        |Harbour Craft Licence|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-harbour-craft/licensing-a-harbour-craft)(: target="_blank"}{:rel="noopener"}|
-        |Harbour Craft Manning Licence|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-harbour-craft/applying-or-renewing-the-port-limit-manning-licence)(: target="_blank"}{:rel="noopener"}|
-        |Permit to Break-up a Vessel in Port|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/launching-laying-up-breaking-up-of-vessel/breaking-up-of-a-vessel-in-a-port)(: target="_blank"}{:rel="noopener"}|
-        |Permit to Launch a New Vessel in Port|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/launching-laying-up-breaking-up-of-vessel/launching-of-a-new-vessel-in-port)(: target="_blank"}{:rel="noopener"}|
-        |Permit to Lay-Up a Vessel in Port|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/launching-laying-up-breaking-up-of-vessel/laying-up-of-a-vessel-in-port)(: target="_blank"}{:rel="noopener"}|
-        |Pleasure Craft|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-pleasure-craft/introduction-to-pleasure-craft-licensing)(: target="_blank"}{:rel="noopener"}|
-        |Pleasure Craft Driving licence|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-pleasure-craft/introduction-to-pleasure-craft-licensing)(: target="_blank"}{:rel="noopener"}|
+        |Accreditation Scheme for Bunker Surveying Companies|[MPA](https://www.mpa.gov.sg/web/portal/home/port-of-singapore/services/bunkering/bunkering-licence-application-guidelines/licensing-of-bunker-surveying-companies){:target="_blank"}{:rel="noopener"}|
+        |Advanced Powered Pleasure Craft Driving Licence|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-pleasure-craft/introduction-to-pleasure-craft-licensing){:target="_blank"}{:rel="noopener"}|
+        |Bunker Convention Certificate|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/arrival-and-departure-formalities/applying-for-a-bunker-convention-certificate){:target="_blank"}{:rel="noopener"}|
+        |Bunkering Licence (Bunker Supplier)|[MPA](https://www.mpa.gov.sg/web/portal/home/port-of-singapore/services/bunkering/bunkering-licence-application-guidelines/new-bunkering-licence-bunker-supplier){:target="_blank"}{:rel="noopener"}|
+        |Harbour Craft Licence|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-harbour-craft/licensing-a-harbour-craft){:target="_blank"}{:rel="noopener"}|
+        |Harbour Craft Manning Licence|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-harbour-craft/applying-or-renewing-the-port-limit-manning-licence){:target="_blank"}{:rel="noopener"}|
+        |Permit to Break-up a Vessel in Port|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/launching-laying-up-breaking-up-of-vessel/breaking-up-of-a-vessel-in-a-port){:target="_blank"}{:rel="noopener"}|
+        |Permit to Launch a New Vessel in Port|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/launching-laying-up-breaking-up-of-vessel/launching-of-a-new-vessel-in-port){:target="_blank"}{:rel="noopener"}|
+        |Permit to Lay-Up a Vessel in Port|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/launching-laying-up-breaking-up-of-vessel/laying-up-of-a-vessel-in-port){:target="_blank"}{:rel="noopener"}|
+        |Pleasure Craft|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-pleasure-craft/introduction-to-pleasure-craft-licensing){:target="_blank"}{:rel="noopener"}|
+        |Pleasure Craft Driving licence|[MPA](http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-pleasure-craft/introduction-to-pleasure-craft-licensing){:target="_blank"}{:rel="noopener"}|
     - title: Ministry of Social and Family Development
       content: |
         | **Licence Name** | **Log In To** |
         |Licence for Residential Care Facilities|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |SDNTrust Accreditation|[MSF](https://www.sdn.sg/fordatingindustry/Pages/SDNTrustAccreditationFramework.aspx)(: target="_blank"}{:rel="noopener"}|
+        |SDNTrust Accreditation|[MSF](https://www.sdn.sg/fordatingindustry/Pages/SDNTrustAccreditationFramework.aspx){:target="_blank"}{:rel="noopener"}|
     - title: Majlis Ugama Islam Singapura
       content: |
         | **Licence Name** | **Log In To** |
@@ -268,21 +268,21 @@
     - title: National Council of Social Service
       content: |
         | **Licence Name** | **Log In To** |
-        |Fund raising Permit|[NCSS](https://www.ncss.gov.sg/GatewayPages/Social-Service-Organisations/Funding,-Schemes-and-Common-Services/Benefit-Schemes/Fund-Raising-Permit)(: target="_blank"}{:rel="noopener"}|
+        |Fund raising Permit|[NCSS](https://www.ncss.gov.sg/GatewayPages/Social-Service-Organisations/Funding,-Schemes-and-Common-Services/Benefit-Schemes/Fund-Raising-Permit){:target="_blank"}{:rel="noopener"}|
     - title: National Environment Agency
       content: |
         | **Licence Name** | **Log In To** |
-        |Application for Registration of Public Health Pesticide & Repellents Against Vectors|[NEA](https://www.nea.gov.sg/our-services/pest-control/registration-of-control-of-public-health-pesticides-and-repellents-against-vectors)(: target="_blank"}{:rel="noopener"}|
+        |Application for Registration of Public Health Pesticide & Repellents Against Vectors|[NEA](https://www.nea.gov.sg/our-services/pest-control/registration-of-control-of-public-health-pesticides-and-repellents-against-vectors){:target="_blank"}{:rel="noopener"}|
         |Aquatic Facility Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Cleaning Business Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Enhanced Clean Mark Accreditation Scheme|[NEA](https://www.nea.gov.sg/programmes-grants/schemes/enhanced-clean-mark-accreditation)(: target="_blank"}{:rel="noopener"}|
+        |Enhanced Clean Mark Accreditation Scheme|[NEA](https://www.nea.gov.sg/programmes-grants/schemes/enhanced-clean-mark-accreditation){:target="_blank"}{:rel="noopener"}|
         |Environmental Control Officer Certificate|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Fumigation Permit|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Fumigator Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Funeral Parlour Licence|[NEA](https://www.nea.gov.sg/our-services/after-death/facilities-and-services)(: target="_blank"}{:rel="noopener"}|
+        |Funeral Parlour Licence|[NEA](https://www.nea.gov.sg/our-services/after-death/facilities-and-services){:target="_blank"}{:rel="noopener"}|
         |General Waste Collector Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |General Waste Disposal Facility Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Hawker Stall Licence|[NEA](https://www.nea.gov.sg/our-services/hawker-management/overview)(: target="_blank"}{:rel="noopener"}|
+        |Hawker Stall Licence|[NEA](https://www.nea.gov.sg/our-services/hawker-management/overview){:target="_blank"}{:rel="noopener"}|
         |Hazardous Substances (HS) Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Hazardous Substances (HS) Permit|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Hazardous Substances (HS) Transport Approval|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
@@ -305,7 +305,7 @@
         |Vector Control Operator Certificate|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Vector Control Technician Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Vector Control Worker Certificate|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Written Permission to Discharge Trade Effluent into a Watercourse|[NEA](https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse)(: target="_blank"}{:rel="noopener"}|
+        |Written Permission to Discharge Trade Effluent into a Watercourse|[NEA](https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse){:target="_blank"}{:rel="noopener"}|
     - title: National Parks Board
       content: |
         | **Licence Name** | **Log In To** |
@@ -314,14 +314,14 @@
         |Phytosanitary Certification|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Pre-signed CITES Permit|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Pre-signed non-CITES Certificate|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Usage of Premises in Parks|[NPARKS](https://www2.nparks.gov.sg/vbs/)(: target="_blank"}{:rel="noopener"}|
+        |Usage of Premises in Parks|[NPARKS](https://www2.nparks.gov.sg/vbs/){:target="_blank"}{:rel="noopener"}|
 - accordion:
   letter: p
   data:
     - title: Professional Engineers Board
       content: |
         | **Licence Name** | **Log In To** |
-        |Licence to Supply Professional Engineering Services|[PEB](https://www.peb.gov.sg/lc_commonqueries.aspx)(: target="_blank"}{:rel="noopener"}|
+        |Licence to Supply Professional Engineering Services|[PEB](https://www.peb.gov.sg/lc_commonqueries.aspx){:target="_blank"}{:rel="noopener"}|
     - title: Public Transport Council
       content: |
         | **Licence Name** | **Log In To** |
@@ -329,7 +329,7 @@
     - title: Public Utilities Board
       content: |
         | **Licence Name** | **Log In To** |
-        |Event Permit Application for Use of Reservoir|[PUB](https://www.pub.gov.sg/marinabarrage/Documents/Event_Permit_Application_Form.docx)(: target="_blank"}{:rel="noopener"}|
+        |Event Permit Application for Use of Reservoir|[PUB](https://www.pub.gov.sg/marinabarrage/Documents/Event_Permit_Application_Form.docx){:target="_blank"}{:rel="noopener"}|
         |Plumber Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Written Approval for the Discharge of Trade Effluent Into the Public Sewer|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
 - accordion:
@@ -338,15 +338,15 @@
     - title: Singapore Civil Defence Force
       content: |
         | **Licence Name** | **Log In To** |
-        |Application for Temporary Fire Permit / Fire Safety Certificate|[SCDF](https://www.scdf.gov.sg/home/fire-safety/permits-and-certifications/fire-safety-certificate-temporary-fire-permit)(: target="_blank"}{:rel="noopener"}|
-        |Fire Certificate|[SCDF](https://www.scdf.gov.sg/home/fire-safety/permits-and-certifications/fire-certificate)(: target="_blank"}{:rel="noopener"}|
-        |Lodgement of Minor Addition / Alteration Works (Minor A&A)|[SCDF](https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/minor-addition-alteration-works)(: target="_blank"}{:rel="noopener"}|
-        |Petroleum & Flammable Material Import Licence|[SCDF](https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMIBAPP)(: target="_blank"}{:rel="noopener"}|
-        |Petroleum & Flammable Material Pipeline Licence|[SCDF](https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMPBAPP)(: target="_blank"}{:rel="noopener"}|
+        |Application for Temporary Fire Permit / Fire Safety Certificate|[SCDF](https://www.scdf.gov.sg/home/fire-safety/permits-and-certifications/fire-safety-certificate-temporary-fire-permit){:target="_blank"}{:rel="noopener"}|
+        |Fire Certificate|[SCDF](https://www.scdf.gov.sg/home/fire-safety/permits-and-certifications/fire-certificate){:target="_blank"}{:rel="noopener"}|
+        |Lodgement of Minor Addition / Alteration Works (Minor A&A)|[SCDF](https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/minor-addition-alteration-works){:target="_blank"}{:rel="noopener"}|
+        |Petroleum & Flammable Material Import Licence|[SCDF](https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMIBAPP){:target="_blank"}{:rel="noopener"}|
+        |Petroleum & Flammable Material Pipeline Licence|[SCDF](https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMPBAPP){:target="_blank"}{:rel="noopener"}|
         |Petroleum / Flammable Materials Storage Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Petroleum / Flammable Materials Transportation Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Plan Approval for Fire Safety Works|[SCDF](https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/plan-approval)(: target="_blank"}{:rel="noopener"}|
-        |Submission Requirements to SCDF for Rooftop Solar PV Installation|[SCDF](https://corenet.gov.sg/general/e-info.aspx)(: target="_blank"}{:rel="noopener"}|
+        |Plan Approval for Fire Safety Works|[SCDF](https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/plan-approval){:target="_blank"}{:rel="noopener"}|
+        |Submission Requirements to SCDF for Rooftop Solar PV Installation|[SCDF](https://corenet.gov.sg/general/e-info.aspx){:target="_blank"}{:rel="noopener"}|
         |Temporary Change of Use Permit|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
     - title: Singapore Food Agency
       content: |
@@ -378,7 +378,7 @@
       content: |
         | **Licence Name** | **Log In To** |
         |Application of Registering Property|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Temporary Occupation Licences|[SLA](https://app1.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f)(: target="_blank"}{:rel="noopener"}|
+        |Temporary Occupation Licences|[SLA](https://app1.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f){:target="_blank"}{:rel="noopener"}|
     - title: Singapore Police Force
       content: |
         | **Licence Name** | **Log In To** |
@@ -410,7 +410,7 @@
         |Massage Establishment Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Massage Establishment Licence- Employee Registration|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Notice of Intention to Organise an Event|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Notification to conduct donation/lucky draw|[SPF](https://www.police.gov.sg/Advisories/Donation-Draw-and-Lucky-Draw)(: target="_blank"}{:rel="noopener"}|
+        |Notification to conduct donation/lucky draw|[SPF](https://www.police.gov.sg/Advisories/Donation-Draw-and-Lucky-Draw){:target="_blank"}{:rel="noopener"}|
         |Notification to Police of Exempted Massage Establishment|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Police Permit for Assembly or Procession|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Police Permit for Public Talk|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
@@ -419,7 +419,7 @@
         |Public Entertainment Licence - Notification to Police of Exempted Public Entertainments or Arts Entertainment|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Registration for In-House Employer (RIHE)|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Road Closure Permit for Events|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Secondhand Goods and Dealers Licence|[SPF](https://www.police.gov.sg/e-Services/Police-Licences/Secondhand-Goods-Dealers-Licence)(: target="_blank"}{:rel="noopener"}|
+        |Secondhand Goods and Dealers Licence|[SPF](https://www.police.gov.sg/e-Services/Police-Licences/Secondhand-Goods-Dealers-Licence){:target="_blank"}{:rel="noopener"}|
         |Security Agency Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Security Officer's Licence (SO)|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Security Service Provider Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
@@ -431,20 +431,20 @@
     - title: Singapore Tourism Board
       content: |
         | **Licence Name** | **Log In To** |
-        |Non-Renewable Temporary Occupation Licence (NRTOL)|[STB](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/non-renewable-temporary-occupation-licence.html)(: target="_blank"}{:rel="noopener"}|
-        |Safe Management Measures for MICE Event|[STB](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html)(: target="_blank"}{:rel="noopener"}|
-        |Tourist Guide Licence|[STB](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/tourist-guide-licence.html)(: target="_blank"}{:rel="noopener"}|
-        |Travel Agent Licence|[STB](https://trust.stb.gov.sg/public/public/ta-application-preamble)(: target="_blank"}{:rel="noopener"}|
+        |Non-Renewable Temporary Occupation Licence (NRTOL)|[STB](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/non-renewable-temporary-occupation-licence.html){:target="_blank"}{:rel="noopener"}|
+        |Safe Management Measures for MICE Event|[STB](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html){:target="_blank"}{:rel="noopener"}|
+        |Tourist Guide Licence|[STB](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/tourist-guide-licence.html){:target="_blank"}{:rel="noopener"}|
+        |Travel Agent Licence|[STB](https://trust.stb.gov.sg/public/public/ta-application-preamble){:target="_blank"}{:rel="noopener"}|
 - accordion:
   letter: u
   data:
     - title: Urban Redevelopment Authority
       content: |
         | **Licence Name** | **Log In To** |
-        |Approval for Additions & Alterations to a Conserved Building|[URA](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS)(: target="_blank"}{:rel="noopener"}|
-        |Category 3 Works for Conserved Buildings|[URA](https://www.ura.gov.sg/cmrWeb/)(: target="_blank"}{:rel="noopener"}|
+        |Approval for Additions & Alterations to a Conserved Building|[URA](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS){:target="_blank"}{:rel="noopener"}|
+        |Category 3 Works for Conserved Buildings|[URA](https://www.ura.gov.sg/cmrWeb/){:target="_blank"}{:rel="noopener"}|
         |Change of Use Approval|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Home Office Scheme (URA)|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
-        |Housing Developer's Licence|[URA](https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence)(: target="_blank"}{:rel="noopener"}|
-        |Planning Permission|[URA](https://www.corenet-ess.gov.sg/ess/)(: target="_blank"}{:rel="noopener"}|
-        |Signage Proposal for a Conserved Building|[URA](https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage)(: target="_blank"}{:rel="noopener"}|
+        |Housing Developer's Licence|[URA](https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence){:target="_blank"}{:rel="noopener"}|
+        |Planning Permission|[URA](https://www.corenet-ess.gov.sg/ess/){:target="_blank"}{:rel="noopener"}|
+        |Signage Proposal for a Conserved Building|[URA](https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage){:target="_blank"}{:rel="noopener"}|
