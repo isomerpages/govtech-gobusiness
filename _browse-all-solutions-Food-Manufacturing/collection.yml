@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Manufacturing.md
-      - Manufacturing-Equipment.md
+      - Food-Manufacturing.md
+      - General-Food-Manufacturing-Equipment.md
