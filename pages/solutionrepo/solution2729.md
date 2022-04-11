@@ -1,0 +1,42 @@
+---
+title: MetroERP Version 1.0
+permalink: 
+---
+
+## MetroERP Version 10
+
+## Description
+
+MetroERP is a cloud Inventory and Sales Management solution which makes it easier for SME’s to manage, track and report on all their sales, purchases, inventory movements and warehouse operations. It is highly customisable to the user and has powerful reporting features built-in. Accessible from any internet browser and designed with a mobile friendly interface.
+
+## Solution Packages Option(s)
+
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Solution Details</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying</b></td>
+</tr>
+<tr>
+<td>Option 1</td>
+<td>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (50 Users & PEPPOL-Included)</td>
+<td><a href='https://www.gobusiness.gov.sg/images/psg/Metro_ERP_20210373_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
+<td>18400</td>
+<td>12856</td>
+</tr>
+</table>
+
+## Mode and Schedule of Payment
+
+ - Direct Purchase
+
+## Vendor Information
+
+ Web URL: https://metrogroup.solutions 
+Contact Hotline: 87714911 
+Contact Email: info@metrogroup.solutions 
+
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

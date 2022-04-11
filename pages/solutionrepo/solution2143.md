@@ -1,0 +1,39 @@
+---
+title: Manure Treatment System
+permalink: 
+---
+
+## Manure Treatment System
+
+## Description
+
+A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
+
+## Solution Packages Option(s)
+
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Solution Details</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying</b></td>
+</tr>
+<tr>
+<td>Option 1</td>
+<td>Manure Treatment System</td>
+<td><a href=''>View Details</a></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## Mode and Schedule of Payment
+
+ - Direct Purchase
+
+## Vendor Information
+
+ 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

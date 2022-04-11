@@ -1,0 +1,43 @@
+---
+title: REACH MOIBOO Version 1.8
+permalink: 
+---
+
+## REACH MOIBOO Version 18
+
+## Description
+
+Moiboo is an automobile business software which helps auto workshops, auto dealers, auto rentals, auto spare parts business and Transporter to automate the entire business end to end
+
+## Solution Packages Option(s)
+
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Solution Details</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying</b></td>
+</tr>
+<tr>
+<td>Option 1</td>
+<td>REACH MOIBOO Version 1.8 - Plan C</td>
+<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_3.pdf'>View Details</a></td>
+<td>16200</td>
+<td>16200</td>
+</tr>
+</table>
+
+## Mode and Schedule of Payment
+
+ - Direct Purchase
+
+## Vendor Information
+
+ Company Name:REACH PROCESS OUTSOURCING PTE. LTD. 
+Web URL: www.moiboo.com 
+Contact Hotline: 98951817 
+Contact Email: babu@moiboo.com 
+
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

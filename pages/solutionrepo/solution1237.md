@@ -1,0 +1,43 @@
+---
+title: Globe3 ERP V5.6
+permalink: 
+---
+
+## Globe3 ERP V56
+
+## Description
+
+Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, multi-language integrated business management solution comprising of finance, supply chain, projects, CRM, service and production capabilities, that will improve an organization processes immediately with the enhancements and streamline of key business processes and reduction in informational and operational bottlenecks. Globe3 ERP is used for multiple countries such as Singapore, Malaysia, Vietnam, China and Hong Kong.
+
+## Solution Packages Option(s)
+
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Solution Details</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying</b></td>
+</tr>
+<tr>
+<td>Option 1</td>
+<td>Globe3 ERP V5.6 - Package (3 Users) (PEPPOL Ready)</td>
+<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTNOSystemsAnnex3CRwef12August2021-_Part_1.pdf'>View Details</a></td>
+<td>32800</td>
+<td>31200</td>
+</tr>
+</table>
+
+## Mode and Schedule of Payment
+
+ - Direct Purchase
+
+## Vendor Information
+
+ Company Name:TNO Systems Pte Ltd 
+Web URL: www.globe3.com 
+Contact Hotline: 67498823 
+Contact Email: sales@globe3.com 
+
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

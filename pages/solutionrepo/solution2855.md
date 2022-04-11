@@ -1,0 +1,42 @@
+---
+title: RFID Inventory Management System
+permalink: 
+---
+
+## RFID Inventory Management System
+
+## Description
+
+Many SMEs manage, track and stock take their inventory and assets manually. Long manual processing time repeatedly leads to inefficiency and errors that slows down the speed of operation and increases the cost of business. SATO’s RFID-based Inventory Management System(ITS) helps businesses to better manage, track and audit their inventory and assets. This will lead to improvement in productivity and traceability, and minimizing of errors in the operation.
+
+## Solution Packages Option(s)
+
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Solution Details</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying</b></td>
+</tr>
+<tr>
+<td>Option 1</td>
+<td>RFID Inventory Management System - STANDARD</td>
+<td><a href='https://www.gobusiness.gov.sg/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
+<td>24000</td>
+<td>13512.5</td>
+</tr>
+</table>
+
+## Mode and Schedule of Payment
+
+ - Direct Purchase
+
+## Vendor Information
+
+ Web URL: https://satoasiapacific.com/ 
+Contact Hotline: 62762722 
+Contact Email: salesorder-sap@sato-global.com 
+
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

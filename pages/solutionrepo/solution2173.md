@@ -1,0 +1,42 @@
+---
+title: Popcorn Point-of-sales System Version 1
+permalink: 
+---
+
+## Popcorn Point-of-sales System Version 1
+
+## Description
+
+Powerful & speedy cloud-based digital ordering system, accelerate your business with Popcorn that is specially designed for cafes and restaurants of all sizes. With powerful features to keep your business operations run flawlessly, we can help transform your business like never before!
+
+## Solution Packages Option(s)
+
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Solution Details</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying</b></td>
+</tr>
+<tr>
+<td>Option 1</td>
+<td>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (3 Waiters)</td>
+<td><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
+<td>5844</td>
+<td>5700</td>
+</tr>
+</table>
+
+## Mode and Schedule of Payment
+
+ - Subscription / Leasing
+
+## Vendor Information
+
+ Web URL: www.rockbell.sg 
+Contact Hotline: 64697720 
+Contact Email: sales@rockbell.com.sg 
+
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

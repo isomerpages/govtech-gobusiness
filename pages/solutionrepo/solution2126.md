@@ -1,0 +1,39 @@
+---
+title: Crate/ Tray washing machine
+permalink: 
+---
+
+## Crate/ Tray washing machine
+
+## Description
+
+A machine used to wash crates and trays used for farming.
+
+## Solution Packages Option(s)
+
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Solution Details</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying</b></td>
+</tr>
+<tr>
+<td>Option 1</td>
+<td>Crate/ Tray washing machine</td>
+<td><a href=''>View Details</a></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## Mode and Schedule of Payment
+
+ - Direct Purchase
+
+## Vendor Information
+
+ 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
