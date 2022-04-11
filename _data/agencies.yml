@@ -30,6 +30,10 @@
   url-new-tab: true
   protocol: https
 
+- title: Cybersecurity Services Regulation Office (CSRO)
+  description: 
+  email: contact@csro.gov.sg
+
 - title: Early Childhood Development Agency (ECDA)
   description: General Enquiries
   tel: +65 6735 9213
@@ -43,7 +47,7 @@
 - title: Enterprise Singapore
   description: Call Centre - Rice
   tel: +65 6898 1800
-  email: angela_liew@enterprisesg.gov.sg, hayati_taib@enterprisesg.gov.sg, safinah_samah@enterprisesg.gov.sg
+  email: rice@enterprisesg.gov.sg
 
 - title: Enterprise Singapore
   description: Call Centre - Rubber
