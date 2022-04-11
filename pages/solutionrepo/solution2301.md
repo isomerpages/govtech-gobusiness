@@ -1,6 +1,6 @@
 ---
 title: Athena E-store Solution
-permalink: 
+permalink: /productivity-solutions-grant/solution2301
 ---
 
 ## Athena E-store Solution

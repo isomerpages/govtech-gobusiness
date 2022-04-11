@@ -1,6 +1,6 @@
 ---
 title: Shopcada Ecommerce and POS
-permalink: 
+permalink: /productivity-solutions-grant/solution931
 ---
 
 ## Shopcada Ecommerce and POS

@@ -1,6 +1,6 @@
 ---
 title: CADStudio Version 0.1.3
-permalink: 
+permalink: /productivity-solutions-grant/solution324
 ---
 
 ## CADStudio Version 013

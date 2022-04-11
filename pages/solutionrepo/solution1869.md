@@ -1,6 +1,6 @@
 ---
 title: MSSP for CSA Asset Based Cyber Defence
-permalink: 
+permalink: /productivity-solutions-grant/solution1869
 ---
 
 ## MSSP for CSA Asset Based Cyber Defence

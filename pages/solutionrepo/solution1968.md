@@ -1,6 +1,6 @@
 ---
 title: One-Stop Document Access
-permalink: 
+permalink: /productivity-solutions-grant/solution1968
 ---
 
 ## One-Stop Document Access

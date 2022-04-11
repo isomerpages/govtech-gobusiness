@@ -1,6 +1,6 @@
 ---
 title: Magento and Woo Commerce Solutions for Retail
-permalink: 
+permalink: /productivity-solutions-grant/solution1243
 ---
 
 ## Magento and Woo Commerce Solutions for Retail

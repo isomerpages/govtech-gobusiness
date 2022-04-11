@@ -1,6 +1,6 @@
 ---
 title: Flange Facer
-permalink: 
+permalink: /productivity-solutions-grant/solution1470
 ---
 
 ## Flange Facer

@@ -1,6 +1,6 @@
 ---
 title: ACE e-commerce solution
-permalink: 
+permalink: /productivity-solutions-grant/solution1298
 ---
 
 ## ACE e-commerce solution

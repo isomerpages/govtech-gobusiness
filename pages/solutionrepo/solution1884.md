@@ -1,6 +1,6 @@
 ---
 title: GS BIM collaboration Platform Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution1884
 ---
 
 ## GS BIM collaboration Platform Version 1

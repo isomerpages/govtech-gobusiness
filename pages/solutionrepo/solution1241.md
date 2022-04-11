@@ -1,6 +1,6 @@
 ---
 title: Globe3 ERP V5.6
-permalink: 
+permalink: /productivity-solutions-grant/solution1241
 ---
 
 ## Globe3 ERP V56

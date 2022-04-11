@@ -1,6 +1,6 @@
 ---
 title: Trueblu CRM Version 3.2
-permalink: 
+permalink: /productivity-solutions-grant/solution1344
 ---
 
 ## Trueblu CRM Version 32

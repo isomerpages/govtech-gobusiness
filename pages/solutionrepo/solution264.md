@@ -1,6 +1,6 @@
 ---
 title: Augmented Reality Welding Training Solution
-permalink: 
+permalink: /productivity-solutions-grant/solution264
 ---
 
 ## Augmented Reality Welding Training Solution

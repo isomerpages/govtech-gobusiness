@@ -1,6 +1,6 @@
 ---
 title: Xero Cloud Accounting Version 10.5
-permalink: 
+permalink: /productivity-solutions-grant/solution2245
 ---
 
 ## Xero Cloud Accounting Version 105

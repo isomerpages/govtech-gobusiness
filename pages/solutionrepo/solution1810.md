@@ -1,6 +1,6 @@
 ---
 title: Fortigate UTP - 60F / Fortigate UTP - 100F
-permalink: 
+permalink: /productivity-solutions-grant/solution1810
 ---
 
 ## Fortigate UTP - 60F / Fortigate UTP - 100F

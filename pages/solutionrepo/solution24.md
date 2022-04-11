@@ -1,6 +1,6 @@
 ---
 title: Autonomous Material Transportation Robot
-permalink: 
+permalink: /productivity-solutions-grant/solution24
 ---
 
 ## Autonomous Material Transportation Robot

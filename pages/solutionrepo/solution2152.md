@@ -1,6 +1,6 @@
 ---
 title: Sterilizer Equipment
-permalink: 
+permalink: /productivity-solutions-grant/solution2152
 ---
 
 ## Sterilizer Equipment

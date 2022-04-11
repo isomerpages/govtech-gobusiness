@@ -1,6 +1,6 @@
 ---
 title: Getz F&B Integrated Instore and Online Transformation Version 2
-permalink: 
+permalink: /productivity-solutions-grant/solution430
 ---
 
 ## Getz F&B Integrated Instore and Online Transformation Version 2

@@ -1,6 +1,6 @@
 ---
 title: Shortcuts Version 8
-permalink: 
+permalink: /productivity-solutions-grant/solution1188
 ---
 
 ## Shortcuts Version 8

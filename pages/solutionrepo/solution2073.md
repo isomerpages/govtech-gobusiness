@@ -1,6 +1,6 @@
 ---
 title: High Pressure Rotating Head
-permalink: 
+permalink: /productivity-solutions-grant/solution2073
 ---
 
 ## High Pressure Rotating Head

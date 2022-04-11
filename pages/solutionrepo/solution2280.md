@@ -1,6 +1,6 @@
 ---
 title: Pepper Cloud CRM Version 14.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2280
 ---
 
 ## Pepper Cloud CRM Version 140

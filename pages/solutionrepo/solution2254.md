@@ -1,6 +1,6 @@
 ---
 title: SYNERGIX E1 Version TH7
-permalink: 
+permalink: /productivity-solutions-grant/solution2254
 ---
 
 ## SYNERGIX E1 Version TH7

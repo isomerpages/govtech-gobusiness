@@ -1,6 +1,6 @@
 ---
 title: Ecommerce Web Development (WooCommerce) Version 0.8
-permalink: 
+permalink: /productivity-solutions-grant/solution2109
 ---
 
 ## Ecommerce Web Development (WooCommerce) Version 08

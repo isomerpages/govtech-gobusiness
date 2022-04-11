@@ -1,6 +1,6 @@
 ---
 title: Quickbooks online solutions
-permalink: 
+permalink: /productivity-solutions-grant/solution2094
 ---
 
 ## Quickbooks online solutions

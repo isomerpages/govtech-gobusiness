@@ -1,6 +1,6 @@
 ---
 title: Salesforce Sales Cloud Professional Edition
-permalink: 
+permalink: /productivity-solutions-grant/solution1514
 ---
 
 ## Salesforce Sales Cloud Professional Edition

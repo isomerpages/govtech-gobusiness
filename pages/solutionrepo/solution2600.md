@@ -1,6 +1,6 @@
 ---
 title: Taidii Smart E-Form Solution
-permalink: 
+permalink: /productivity-solutions-grant/solution2600
 ---
 
 ## Taidii Smart E-Form Solution

@@ -1,6 +1,6 @@
 ---
 title: Blast Freezer
-permalink: 
+permalink: /productivity-solutions-grant/solution388
 ---
 
 ## Blast Freezer

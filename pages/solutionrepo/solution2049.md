@@ -1,6 +1,6 @@
 ---
 title: Adventus Managed EndPoint Protection
-permalink: 
+permalink: /productivity-solutions-grant/solution2049
 ---
 
 ## Adventus Managed EndPoint Protection

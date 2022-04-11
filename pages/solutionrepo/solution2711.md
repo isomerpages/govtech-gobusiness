@@ -1,6 +1,6 @@
 ---
 title: Redoc - Document Management & Transaction Records Version 1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2711
 ---
 
 ## Redoc - Document Management Transaction Records Version 10

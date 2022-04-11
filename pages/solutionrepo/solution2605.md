@@ -1,6 +1,6 @@
 ---
 title: Firewalla Gold Package
-permalink: 
+permalink: /productivity-solutions-grant/solution2605
 ---
 
 ## Firewalla Gold Package

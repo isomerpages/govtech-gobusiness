@@ -1,6 +1,6 @@
 ---
 title: Encrusting Machine
-permalink: 
+permalink: /productivity-solutions-grant/solution47
 ---
 
 ## Encrusting Machine

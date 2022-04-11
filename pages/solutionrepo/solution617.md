@@ -1,6 +1,6 @@
 ---
 title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution)
-permalink: 
+permalink: /productivity-solutions-grant/solution617
 ---
 
 ## Microsoft Dynamics 365 Business Central (ERP for Sales Distribution)

@@ -1,6 +1,6 @@
 ---
 title: Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution2516
 ---
 
 ## Sonicwall Firewall with 1 Year EPSS NSM and VPN Version 1

@@ -1,6 +1,6 @@
 ---
 title: Substrate Mixing and Packing Machine
-permalink: 
+permalink: /productivity-solutions-grant/solution2153
 ---
 
 ## Substrate Mixing and Packing Machine

@@ -1,6 +1,6 @@
 ---
 title: Torque Multiplier
-permalink: 
+permalink: /productivity-solutions-grant/solution1471
 ---
 
 ## Torque Multiplier

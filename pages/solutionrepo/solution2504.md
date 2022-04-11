@@ -1,6 +1,6 @@
 ---
 title: ABSS Premier Version 23
-permalink: 
+permalink: /productivity-solutions-grant/solution2504
 ---
 
 ## ABSS Premier Version 23

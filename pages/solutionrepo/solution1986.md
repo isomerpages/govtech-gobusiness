@@ -1,6 +1,6 @@
 ---
 title: Automatic Flow Wrap Packaging Machine
-permalink: 
+permalink: /productivity-solutions-grant/solution1986
 ---
 
 ## Automatic Flow Wrap Packaging Machine

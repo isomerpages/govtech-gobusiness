@@ -1,6 +1,6 @@
 ---
 title: Pest/ Disease Monitoring and Control Equipment/ System
-permalink: 
+permalink: /productivity-solutions-grant/solution2159
 ---
 
 ## Pest/ Disease Monitoring and Control Equipment/ System

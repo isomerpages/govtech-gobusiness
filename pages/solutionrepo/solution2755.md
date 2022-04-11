@@ -1,6 +1,6 @@
 ---
 title: EPOS Enhanced POS Version 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2755
 ---
 
 ## EPOS Enhanced POS Version 20

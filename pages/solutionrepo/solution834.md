@@ -1,6 +1,6 @@
 ---
 title: Synergix E1 Sales & Accounting
-permalink: 
+permalink: /productivity-solutions-grant/solution834
 ---
 
 ## Synergix E1 Sales Accounting

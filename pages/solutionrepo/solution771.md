@@ -1,6 +1,6 @@
 ---
 title: Sage 300
-permalink: 
+permalink: /productivity-solutions-grant/solution771
 ---
 
 ## Sage 300

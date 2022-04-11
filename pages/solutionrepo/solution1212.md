@@ -1,6 +1,6 @@
 ---
 title: BIMAGE - Autodesk AEC Collection
-permalink: 
+permalink: /productivity-solutions-grant/solution1212
 ---
 
 ## BIMAGE - Autodesk AEC Collection

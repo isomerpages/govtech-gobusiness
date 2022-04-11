@@ -1,6 +1,6 @@
 ---
 title: Blast Chiller
-permalink: 
+permalink: /productivity-solutions-grant/solution2519
 ---
 
 ## Blast Chiller

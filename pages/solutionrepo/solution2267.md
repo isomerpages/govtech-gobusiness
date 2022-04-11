@@ -1,6 +1,6 @@
 ---
 title: KADDRA Mobile App Commerce Solution Version 1.9
-permalink: 
+permalink: /productivity-solutions-grant/solution2267
 ---
 
 ## KADDRA Mobile App Commerce Solution Version 19

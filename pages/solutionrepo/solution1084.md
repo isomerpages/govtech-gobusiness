@@ -1,6 +1,6 @@
 ---
 title: BIZ POS Version 3.0
-permalink: 
+permalink: /productivity-solutions-grant/solution1084
 ---
 
 ## BIZ POS Version 30

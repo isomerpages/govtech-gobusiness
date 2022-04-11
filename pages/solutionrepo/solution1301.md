@@ -1,6 +1,6 @@
 ---
 title: Cartrack Fleet Management Version 2
-permalink: 
+permalink: /productivity-solutions-grant/solution1301
 ---
 
 ## Cartrack Fleet Management Version 2

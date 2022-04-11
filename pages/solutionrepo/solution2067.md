@@ -1,6 +1,6 @@
 ---
 title: CSG - Autodesk BIM Collaborate Pro
-permalink: 
+permalink: /productivity-solutions-grant/solution2067
 ---
 
 ## CSG - Autodesk BIM Collaborate Pro

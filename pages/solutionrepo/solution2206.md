@@ -1,6 +1,6 @@
 ---
 title: cuteOffice ERP Version 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2206
 ---
 
 ## cuteOffice ERP Version 20

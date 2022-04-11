@@ -1,6 +1,6 @@
 ---
 title: SAP2000 Ultimate Suite
-permalink: 
+permalink: /productivity-solutions-grant/solution2480
 ---
 
 ## SAP2000 Ultimate Suite

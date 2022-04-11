@@ -1,6 +1,6 @@
 ---
 title: GenicDocs - Document Management Software
-permalink: 
+permalink: /productivity-solutions-grant/solution1412
 ---
 
 ## GenicDocs - Document Management Software

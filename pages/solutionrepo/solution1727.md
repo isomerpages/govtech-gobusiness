@@ -1,6 +1,6 @@
 ---
 title: Qashier Smart Terminal
-permalink: 
+permalink: /productivity-solutions-grant/solution1727
 ---
 
 ## Qashier Smart Terminal

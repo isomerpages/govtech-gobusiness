@@ -1,6 +1,6 @@
 ---
 title: OOM_Ecommerce_Solution
-permalink: 
+permalink: /productivity-solutions-grant/solution2726
 ---
 
 ## OOM_Ecommerce_Solution

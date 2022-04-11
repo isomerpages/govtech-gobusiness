@@ -1,6 +1,6 @@
 ---
 title: SecureAPlus Version 6.x
-permalink: 
+permalink: /productivity-solutions-grant/solution766
 ---
 
 ## SecureAPlus Version 6x

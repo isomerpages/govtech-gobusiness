@@ -1,6 +1,6 @@
 ---
 title: SmartFM Version 1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution1734
 ---
 
 ## SmartFM Version 10

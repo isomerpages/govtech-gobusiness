@@ -1,6 +1,6 @@
 ---
 title: Equip Wholesale Solutions Version 3
-permalink: 
+permalink: /productivity-solutions-grant/solution1224
 ---
 
 ## Equip Wholesale Solutions Version 3

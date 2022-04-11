@@ -1,6 +1,6 @@
 ---
 title: Automatic case labelling machine
-permalink: 
+permalink: /productivity-solutions-grant/solution2118
 ---
 
 ## Automatic case labelling machine

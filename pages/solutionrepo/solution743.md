@@ -1,6 +1,6 @@
 ---
 title: WESS - Wellness Management Software Version 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution743
 ---
 
 ## WESS - Wellness Management Software Version 20

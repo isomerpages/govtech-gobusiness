@@ -1,6 +1,6 @@
 ---
 title: SmartWeb V3 Version V3
-permalink: 
+permalink: /productivity-solutions-grant/solution1193
 ---
 
 ## SmartWeb V3 Version V3

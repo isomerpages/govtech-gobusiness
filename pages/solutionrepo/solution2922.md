@@ -1,6 +1,6 @@
 ---
 title: SSJ-Related
-permalink: 
+permalink: /productivity-solutions-grant/solution2922
 ---
 
 ## SSJ-Related

@@ -1,6 +1,6 @@
 ---
 title: DM Accelerated Digital Marketing For SMEs
-permalink: 
+permalink: /productivity-solutions-grant/solution2470
 ---
 
 ## DM Accelerated Digital Marketing For SMEs

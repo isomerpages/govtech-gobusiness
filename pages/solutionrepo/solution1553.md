@@ -1,6 +1,6 @@
 ---
 title: IVMS (Intelligent Vehicle Monitoring System) Version 7
-permalink: 
+permalink: /productivity-solutions-grant/solution1553
 ---
 
 ## IVMS (Intelligent Vehicle Monitoring System) Version 7

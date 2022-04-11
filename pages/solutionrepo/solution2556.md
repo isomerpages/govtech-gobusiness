@@ -1,6 +1,6 @@
 ---
 title: AdeptForms Security Operational Management Version 2
-permalink: 
+permalink: /productivity-solutions-grant/solution2556
 ---
 
 ## AdeptForms Security Operational Management Version 2

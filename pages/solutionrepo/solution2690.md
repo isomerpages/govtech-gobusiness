@@ -1,6 +1,6 @@
 ---
 title: Gurusoft Logistics Management System Version 11
-permalink: 
+permalink: /productivity-solutions-grant/solution2690
 ---
 
 ## Gurusoft Logistics Management System Version 11

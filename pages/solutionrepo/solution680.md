@@ -1,6 +1,6 @@
 ---
 title: Moneyworks Version 9
-permalink: 
+permalink: /productivity-solutions-grant/solution680
 ---
 
 ## Moneyworks Version 9

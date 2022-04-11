@@ -1,6 +1,6 @@
 ---
 title: Sophos Endpoint
-permalink: 
+permalink: /productivity-solutions-grant/solution1962
 ---
 
 ## Sophos Endpoint

@@ -1,6 +1,6 @@
 ---
 title: Xero Cloud Accounting Software
-permalink: 
+permalink: /productivity-solutions-grant/solution2821
 ---
 
 ## Xero Cloud Accounting Software

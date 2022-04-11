@@ -1,6 +1,6 @@
 ---
 title: Advocado Cloud Loyalty CRM Software
-permalink: 
+permalink: /productivity-solutions-grant/solution113
 ---
 
 ## Advocado Cloud Loyalty CRM Software

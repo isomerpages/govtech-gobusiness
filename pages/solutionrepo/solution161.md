@@ -1,6 +1,6 @@
 ---
 title: Vertical Carousel
-permalink: 
+permalink: /productivity-solutions-grant/solution161
 ---
 
 ## Vertical Carousel

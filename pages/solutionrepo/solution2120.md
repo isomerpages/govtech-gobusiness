@@ -1,6 +1,6 @@
 ---
 title: Automatic Harvester
-permalink: 
+permalink: /productivity-solutions-grant/solution2120
 ---
 
 ## Automatic Harvester

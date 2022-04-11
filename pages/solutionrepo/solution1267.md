@@ -1,6 +1,6 @@
 ---
 title: MyRetailer Plus Version 4
-permalink: 
+permalink: /productivity-solutions-grant/solution1267
 ---
 
 ## MyRetailer Plus Version 4

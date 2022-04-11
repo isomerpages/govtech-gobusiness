@@ -1,6 +1,6 @@
 ---
 title: InSight QSE
-permalink: 
+permalink: /productivity-solutions-grant/solution276
 ---
 
 ## InSight QSE

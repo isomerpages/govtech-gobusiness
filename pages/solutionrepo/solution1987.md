@@ -1,6 +1,6 @@
 ---
 title: Automatic Shrink Wrap Packaging Machine
-permalink: 
+permalink: /productivity-solutions-grant/solution1987
 ---
 
 ## Automatic Shrink Wrap Packaging Machine

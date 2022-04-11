@@ -1,6 +1,6 @@
 ---
 title: Daisy XERO Accounting Software
-permalink: 
+permalink: /productivity-solutions-grant/solution2423
 ---
 
 ## Daisy XERO Accounting Software

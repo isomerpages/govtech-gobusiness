@@ -1,6 +1,6 @@
 ---
 title: Eset Protect Entry
-permalink: 
+permalink: /productivity-solutions-grant/solution2719
 ---
 
 ## Eset Protect Entry

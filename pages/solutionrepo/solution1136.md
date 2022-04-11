@@ -1,6 +1,6 @@
 ---
 title: Visual Optical Retail Management System Version 8
-permalink: 
+permalink: /productivity-solutions-grant/solution1136
 ---
 
 ## Visual Optical Retail Management System Version 8

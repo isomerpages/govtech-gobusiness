@@ -1,6 +1,6 @@
 ---
 title: Hubble Workforce Management System Version 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution457
 ---
 
 ## Hubble Workforce Management System Version 20

@@ -1,6 +1,6 @@
 ---
 title: MyRetailer Android POS
-permalink: 
+permalink: /productivity-solutions-grant/solution346
 ---
 
 ## MyRetailer Android POS

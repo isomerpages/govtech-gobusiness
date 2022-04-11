@@ -1,6 +1,6 @@
 ---
 title: Mobile Computer (Warehouse application)
-permalink: 
+permalink: /productivity-solutions-grant/solution72
 ---
 
 ## Mobile Computer (Warehouse application)

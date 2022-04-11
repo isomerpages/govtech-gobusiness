@@ -1,6 +1,6 @@
 ---
 title: Microsoft Dynamics 365 Business Central Version SAAS
-permalink: 
+permalink: /productivity-solutions-grant/solution1398
 ---
 
 ## Microsoft Dynamics 365 Business Central Version SAAS

@@ -1,6 +1,6 @@
 ---
 title: Adventus Managed Firewall - Fortinet 
-permalink: 
+permalink: /productivity-solutions-grant/solution1798
 ---
 
 ## Adventus Managed Firewall - Fortinet

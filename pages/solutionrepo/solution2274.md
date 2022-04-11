@@ -1,6 +1,6 @@
 ---
 title: Netpluz Managed Firewall 
-permalink: 
+permalink: /productivity-solutions-grant/solution2274
 ---
 
 ## Netpluz Managed Firewall

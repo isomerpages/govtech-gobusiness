@@ -1,6 +1,6 @@
 ---
 title: REACH MOIBOO Version 1.8
-permalink: 
+permalink: /productivity-solutions-grant/solution739
 ---
 
 ## REACH MOIBOO Version 18

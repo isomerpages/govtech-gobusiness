@@ -1,6 +1,6 @@
 ---
 title: Yumstone F&B Solutions Version 5.0
-permalink: 
+permalink: /productivity-solutions-grant/solution1833
 ---
 
 ## Yumstone F&B Solutions Version 50

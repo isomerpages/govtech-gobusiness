@@ -1,6 +1,6 @@
 ---
 title: DM OOm Digital Performance Marketing Package
-permalink: 
+permalink: /productivity-solutions-grant/solution2524
 ---
 
 ## DM OOm Digital Performance Marketing Package

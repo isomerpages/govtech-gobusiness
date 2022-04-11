@@ -1,6 +1,6 @@
 ---
 title: Laser Geometric Alignment System
-permalink: 
+permalink: /productivity-solutions-grant/solution1144
 ---
 
 ## Laser Geometric Alignment System

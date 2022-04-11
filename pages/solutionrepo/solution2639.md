@@ -1,6 +1,6 @@
 ---
 title: DM Firstcom Digital Marketing Programme
-permalink: 
+permalink: /productivity-solutions-grant/solution2639
 ---
 
 ## DM Firstcom Digital Marketing Programme

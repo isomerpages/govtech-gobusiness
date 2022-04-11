@@ -1,6 +1,6 @@
 ---
 title: ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23
-permalink: 
+permalink: /productivity-solutions-grant/solution2249
 ---
 
 ## ABSS(MYOB) Premier Accounting Management Inventory Management and Sales Management System Version 23

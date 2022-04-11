@@ -1,6 +1,6 @@
 ---
 title: Venue management software Version 2.0 - Regular
-permalink: 
+permalink: /productivity-solutions-grant/solution1285
 ---
 
 ## Venue management software Version 20 - Regular

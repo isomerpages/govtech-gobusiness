@@ -1,6 +1,6 @@
 ---
 title: Frontwave Cloud Version 8
-permalink: 
+permalink: /productivity-solutions-grant/solution1175
 ---
 
 ## Frontwave Cloud Version 8

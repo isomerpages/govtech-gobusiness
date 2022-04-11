@@ -1,6 +1,6 @@
 ---
 title: HRM Human Resource Management System
-permalink: 
+permalink: /productivity-solutions-grant/solution452
 ---
 
 ## HRM Human Resource Management System

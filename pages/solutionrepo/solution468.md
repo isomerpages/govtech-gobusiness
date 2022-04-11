@@ -1,6 +1,6 @@
 ---
 title: Advanced Ecommerce Solution by I Concept Version 1.0 
-permalink: 
+permalink: /productivity-solutions-grant/solution468
 ---
 
 ## Advanced Ecommerce Solution by I Concept Version 10

@@ -1,6 +1,6 @@
 ---
 title: Packing machine
-permalink: 
+permalink: /productivity-solutions-grant/solution2166
 ---
 
 ## Packing machine

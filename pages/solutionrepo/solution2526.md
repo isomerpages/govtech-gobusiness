@@ -1,6 +1,6 @@
 ---
 title: Wealthbridge - Xero
-permalink: 
+permalink: /productivity-solutions-grant/solution2526
 ---
 
 ## Wealthbridge - Xero

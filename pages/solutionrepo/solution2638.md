@@ -1,6 +1,6 @@
 ---
 title: LittleLives School Management System (Data Mining & Analytics)
-permalink: 
+permalink: /productivity-solutions-grant/solution2638
 ---
 
 ## LittleLives School Management System (Data Mining Analytics)

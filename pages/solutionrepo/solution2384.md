@@ -1,6 +1,6 @@
 ---
 title: Eminet Sophos XGS Firewall
-permalink: 
+permalink: /productivity-solutions-grant/solution2384
 ---
 
 ## Eminet Sophos XGS Firewall

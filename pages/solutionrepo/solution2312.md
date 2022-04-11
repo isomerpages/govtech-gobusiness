@@ -1,6 +1,6 @@
 ---
 title: XERO
-permalink: 
+permalink: /productivity-solutions-grant/solution2312
 ---
 
 ## XERO

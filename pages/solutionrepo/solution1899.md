@@ -1,6 +1,6 @@
 ---
 title: arc.lite and arc.ops - Process Configuration (arc.link Module)
-permalink: 
+permalink: /productivity-solutions-grant/solution1899
 ---
 
 ## arclite and arcops - Process Configuration (arclink Module)

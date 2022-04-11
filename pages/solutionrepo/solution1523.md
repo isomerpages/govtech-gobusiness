@@ -1,6 +1,6 @@
 ---
 title: SYSFREIGHT Version 8
-permalink: 
+permalink: /productivity-solutions-grant/solution1523
 ---
 
 ## SYSFREIGHT Version 8

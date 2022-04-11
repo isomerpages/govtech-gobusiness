@@ -1,6 +1,6 @@
 ---
 title: Xintesys Sales and Inventory Management Solution Version V30DC
-permalink: 
+permalink: /productivity-solutions-grant/solution963
 ---
 
 ## Xintesys Sales and Inventory Management Solution Version V30DC

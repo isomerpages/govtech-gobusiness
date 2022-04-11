@@ -1,6 +1,6 @@
 ---
 title: LED grow lights
-permalink: 
+permalink: /productivity-solutions-grant/solution2164
 ---
 
 ## LED grow lights

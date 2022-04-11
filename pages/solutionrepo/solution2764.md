@@ -1,6 +1,6 @@
 ---
 title: APM Smart Access System Version 1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2764
 ---
 
 ## APM Smart Access System Version 10

@@ -1,6 +1,6 @@
 ---
 title: iTrack Fleet Management Version 2.8.8
-permalink: 
+permalink: /productivity-solutions-grant/solution694
 ---
 
 ## iTrack Fleet Management Version 288

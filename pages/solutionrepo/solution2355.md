@@ -1,6 +1,6 @@
 ---
 title: i3 E-Commerce Store
-permalink: 
+permalink: /productivity-solutions-grant/solution2355
 ---
 
 ## i3 E-Commerce Store

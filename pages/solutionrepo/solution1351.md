@@ -1,6 +1,6 @@
 ---
 title: FingerBooth POS System Version 1 
-permalink: 
+permalink: /productivity-solutions-grant/solution1351
 ---
 
 ## FingerBooth POS System Version 1

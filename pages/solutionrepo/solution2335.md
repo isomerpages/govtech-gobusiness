@@ -1,6 +1,6 @@
 ---
 title: Synergix Process Construction and Maintenance
-permalink: 
+permalink: /productivity-solutions-grant/solution2335
 ---
 
 ## Synergix Process Construction and Maintenance

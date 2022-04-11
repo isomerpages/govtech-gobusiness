@@ -1,6 +1,6 @@
 ---
 title: A-Class Accounting & Sales Management by Sleek Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution1577
 ---
 
 ## A-Class Accounting Sales Management by Sleek Version 1

@@ -1,6 +1,6 @@
 ---
 title: Autodesk BIM 360
-permalink: 
+permalink: /productivity-solutions-grant/solution1027
 ---
 
 ## Autodesk BIM 360

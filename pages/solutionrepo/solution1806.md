@@ -1,6 +1,6 @@
 ---
 title: Xero
-permalink: 
+permalink: /productivity-solutions-grant/solution1806
 ---
 
 ## Xero

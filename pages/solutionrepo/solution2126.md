@@ -1,6 +1,6 @@
 ---
 title: Crate/ Tray washing machine
-permalink: 
+permalink: /productivity-solutions-grant/solution2126
 ---
 
 ## Crate/ Tray washing machine

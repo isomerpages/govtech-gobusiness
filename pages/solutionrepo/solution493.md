@@ -1,6 +1,6 @@
 ---
 title: SAP Business One 9.3 Package
-permalink: 
+permalink: /productivity-solutions-grant/solution493
 ---
 
 ## SAP Business One 93 Package

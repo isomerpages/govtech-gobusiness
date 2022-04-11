@@ -1,6 +1,6 @@
 ---
 title: Automatic Nut Splitter
-permalink: 
+permalink: /productivity-solutions-grant/solution2037
 ---
 
 ## Automatic Nut Splitter

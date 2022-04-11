@@ -1,6 +1,6 @@
 ---
 title: Autocount Accounting Software Version 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution1354
 ---
 
 ## Autocount Accounting Software Version 20

@@ -1,6 +1,6 @@
 ---
 title: Simplr Warehouse Management Version 6
-permalink: 
+permalink: /productivity-solutions-grant/solution2347
 ---
 
 ## Simplr Warehouse Management Version 6

@@ -1,6 +1,6 @@
 ---
 title: Million Accounting and Stock Control System Version 3
-permalink: 
+permalink: /productivity-solutions-grant/solution1148
 ---
 
 ## Million Accounting and Stock Control System Version 3

@@ -1,6 +1,6 @@
 ---
 title: Frontier e-HR Version 8
-permalink: 
+permalink: /productivity-solutions-grant/solution406
 ---
 
 ## Frontier e-HR Version 8

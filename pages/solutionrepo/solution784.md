@@ -1,6 +1,6 @@
 ---
 title: Ezyprocure Version 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution784
 ---
 
 ## Ezyprocure Version 20

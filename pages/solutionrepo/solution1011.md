@@ -1,6 +1,6 @@
 ---
 title: Quickbooks Online - QuickBooks Online Accounting Solution 
-permalink: 
+permalink: /productivity-solutions-grant/solution1011
 ---
 
 ## Quickbooks Online - QuickBooks Online Accounting Solution

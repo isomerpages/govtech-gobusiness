@@ -1,6 +1,6 @@
 ---
 title: SAGE 300Cloud Version 2021
-permalink: 
+permalink: /productivity-solutions-grant/solution67
 ---
 
 ## SAGE 300Cloud Version 2021

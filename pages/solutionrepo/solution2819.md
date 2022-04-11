@@ -1,6 +1,6 @@
 ---
 title: Payboy HRMS
-permalink: 
+permalink: /productivity-solutions-grant/solution2819
 ---
 
 ## Payboy HRMS

@@ -1,6 +1,6 @@
 ---
 title: arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection
-permalink: 
+permalink: /productivity-solutions-grant/solution1888
 ---
 
 ## arclite and arcops - Equipment Monitoring and Manufacturing Data Collection

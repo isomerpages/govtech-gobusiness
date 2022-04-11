@@ -1,6 +1,6 @@
 ---
 title: AUTOCOUNT ACCOUNTING VERSION Version 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution477
 ---
 
 ## AUTOCOUNT ACCOUNTING VERSION Version 20

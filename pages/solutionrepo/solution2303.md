@@ -1,6 +1,6 @@
 ---
 title: Fooyo Mini Shop Version 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2303
 ---
 
 ## Fooyo Mini Shop Version 20

@@ -1,6 +1,6 @@
 ---
 title: 3D Intraoral Scanner
-permalink: 
+permalink: /productivity-solutions-grant/solution2517
 ---
 
 ## 3D Intraoral Scanner

@@ -1,6 +1,6 @@
 ---
 title: Dynamics 365 Business Central with E-invoicing Version 15 
-permalink: 
+permalink: /productivity-solutions-grant/solution1101
 ---
 
 ## Dynamics 365 Business Central with E-invoicing Version 15

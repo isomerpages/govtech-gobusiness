@@ -1,6 +1,6 @@
 ---
 title: Climate & Environment Monitoring Control Equipment/ System
-permalink: 
+permalink: /productivity-solutions-grant/solution2160
 ---
 
 ## Climate Environment Monitoring Control Equipment/ System

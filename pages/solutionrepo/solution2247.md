@@ -1,6 +1,6 @@
 ---
 title: FacilityBot 
-permalink: 
+permalink: /productivity-solutions-grant/solution2247
 ---
 
 ## FacilityBot

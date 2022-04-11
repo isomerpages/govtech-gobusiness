@@ -1,6 +1,6 @@
 ---
 title: MIBC Ecommerce
-permalink: 
+permalink: /productivity-solutions-grant/solution2543
 ---
 
 ## MIBC Ecommerce

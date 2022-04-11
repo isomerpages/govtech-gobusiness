@@ -1,6 +1,6 @@
 ---
 title: Automated Rice Dispenser
-permalink: 
+permalink: /productivity-solutions-grant/solution19
 ---
 
 ## Automated Rice Dispenser

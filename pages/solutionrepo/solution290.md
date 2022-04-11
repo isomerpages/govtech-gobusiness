@@ -1,6 +1,6 @@
 ---
 title: CFOsg Xero Cloud Accounting
-permalink: 
+permalink: /productivity-solutions-grant/solution290
 ---
 
 ## CFOsg Xero Cloud Accounting

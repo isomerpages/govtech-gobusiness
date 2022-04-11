@@ -1,6 +1,6 @@
 ---
 title: A-Class Corporate Governance & Document Management by Sleek Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution1570
 ---
 
 ## A-Class Corporate Governance Document Management by Sleek Version 1

@@ -1,6 +1,6 @@
 ---
 title: XERO CLOUD APPLICATION
-permalink: 
+permalink: /productivity-solutions-grant/solution2487
 ---
 
 ## XERO CLOUD APPLICATION

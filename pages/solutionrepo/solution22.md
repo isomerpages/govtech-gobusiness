@@ -1,6 +1,6 @@
 ---
 title: Automated tools management system
-permalink: 
+permalink: /productivity-solutions-grant/solution22
 ---
 
 ## Automated tools management system

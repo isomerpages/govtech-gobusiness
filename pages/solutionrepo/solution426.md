@@ -1,6 +1,6 @@
 ---
 title: VEON@Experience Version 1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution426
 ---
 
 ## VEON@Experience Version 10

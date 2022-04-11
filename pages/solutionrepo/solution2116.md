@@ -1,6 +1,6 @@
 ---
 title: Automated Mixer/ Compacter for Growing Media
-permalink: 
+permalink: /productivity-solutions-grant/solution2116
 ---
 
 ## Automated Mixer/ Compacter for Growing Media

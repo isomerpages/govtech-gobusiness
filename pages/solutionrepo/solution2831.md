@@ -1,6 +1,6 @@
 ---
 title: Sophos Firewall
-permalink: 
+permalink: /productivity-solutions-grant/solution2831
 ---
 
 ## Sophos Firewall

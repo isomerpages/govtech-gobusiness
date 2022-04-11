@@ -1,6 +1,6 @@
 ---
 title: Zoho Workplace PSG Edition
-permalink: 
+permalink: /productivity-solutions-grant/solution2578
 ---
 
 ## Zoho Workplace PSG Edition

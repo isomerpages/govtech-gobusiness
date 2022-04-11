@@ -1,6 +1,6 @@
 ---
 title: NetSuite
-permalink: 
+permalink: /productivity-solutions-grant/solution1855
 ---
 
 ## NetSuite

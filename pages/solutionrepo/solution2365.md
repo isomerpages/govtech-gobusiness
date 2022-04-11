@@ -1,6 +1,6 @@
 ---
 title: BIPO Human Resource Management System
-permalink: 
+permalink: /productivity-solutions-grant/solution2365
 ---
 
 ## BIPO Human Resource Management System

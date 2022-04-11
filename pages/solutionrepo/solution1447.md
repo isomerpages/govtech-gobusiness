@@ -1,6 +1,6 @@
 ---
 title: Octopus Retail Solution
-permalink: 
+permalink: /productivity-solutions-grant/solution1447
 ---
 
 ## Octopus Retail Solution

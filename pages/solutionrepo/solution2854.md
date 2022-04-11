@@ -1,6 +1,6 @@
 ---
 title: RFID Inventory Management System
-permalink: 
+permalink: /productivity-solutions-grant/solution2854
 ---
 
 ## RFID Inventory Management System

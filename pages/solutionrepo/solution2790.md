@@ -1,6 +1,6 @@
 ---
 title: OpensoftHR Version 18
-permalink: 
+permalink: /productivity-solutions-grant/solution2790
 ---
 
 ## OpensoftHR Version 18

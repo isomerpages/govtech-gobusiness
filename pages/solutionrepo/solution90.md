@@ -1,6 +1,6 @@
 ---
 title: Power Jack for Steel Plates Adjustment (Perpendicular)
-permalink: 
+permalink: /productivity-solutions-grant/solution90
 ---
 
 ## Power Jack for Steel Plates Adjustment (Perpendicular)

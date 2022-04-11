@@ -1,6 +1,6 @@
 ---
 title: BridgED Version 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2436
 ---
 
 ## BridgED Version 20

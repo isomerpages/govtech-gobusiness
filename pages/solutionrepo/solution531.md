@@ -1,6 +1,6 @@
 ---
 title: (SaaS) JustLogin HR Cloud
-permalink: 
+permalink: /productivity-solutions-grant/solution531
 ---
 
 ## (SaaS) JustLogin HR Cloud

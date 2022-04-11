@@ -1,6 +1,6 @@
 ---
 title: Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
-permalink: 
+permalink: /productivity-solutions-grant/solution2161
 ---
 
 ## Environment/ Water/ Nutrient Sampling Monitoring Control Equipment/ System

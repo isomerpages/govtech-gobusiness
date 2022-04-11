@@ -1,6 +1,6 @@
 ---
 title: Really Platform for PMs and FMs Version 2.4
-permalink: 
+permalink: /productivity-solutions-grant/solution2298
 ---
 
 ## Really Platform for PMs and FMs Version 24

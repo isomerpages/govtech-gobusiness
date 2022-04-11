@@ -1,6 +1,6 @@
 ---
 title: FleetManager Version 5.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2054
 ---
 
 ## FleetManager Version 50

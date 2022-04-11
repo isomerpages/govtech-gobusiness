@@ -1,6 +1,6 @@
 ---
 title: Digital Welding Equipment 
-permalink: 
+permalink: /productivity-solutions-grant/solution1287
 ---
 
 ## Digital Welding Equipment

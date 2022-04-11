@@ -1,6 +1,6 @@
 ---
 title: NovaVision Remote Assist Version 1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2405
 ---
 
 ## NovaVision Remote Assist Version 10

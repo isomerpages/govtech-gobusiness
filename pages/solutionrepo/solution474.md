@@ -1,6 +1,6 @@
 ---
 title: SAP Business One, version for HANA Version 10
-permalink: 
+permalink: /productivity-solutions-grant/solution474
 ---
 
 ## SAP Business One version for HANA Version 10

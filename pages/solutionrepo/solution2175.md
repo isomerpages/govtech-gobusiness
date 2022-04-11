@@ -1,6 +1,6 @@
 ---
 title: Popcorn Point-of-sales System Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution2175
 ---
 
 ## Popcorn Point-of-sales System Version 1

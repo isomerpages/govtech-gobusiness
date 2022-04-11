@@ -1,6 +1,6 @@
 ---
 title: MyDoc Telemedicine Solution
-permalink: 
+permalink: /productivity-solutions-grant/solution1841
 ---
 
 ## MyDoc Telemedicine Solution

@@ -1,6 +1,6 @@
 ---
 title: Network Box Next Generation Managed Security Version 5.5
-permalink: 
+permalink: /productivity-solutions-grant/solution2546
 ---
 
 ## Network Box Next Generation Managed Security Version 55

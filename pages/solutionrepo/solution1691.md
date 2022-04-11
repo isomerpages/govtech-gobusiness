@@ -1,6 +1,6 @@
 ---
 title: ChopeQueues
-permalink: 
+permalink: /productivity-solutions-grant/solution1691
 ---
 
 ## ChopeQueues

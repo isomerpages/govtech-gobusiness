@@ -1,6 +1,6 @@
 ---
 title: AZ DIGITAL ORDERING SOLUTION Version 1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution983
 ---
 
 ## AZ DIGITAL ORDERING SOLUTION Version 10

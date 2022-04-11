@@ -1,6 +1,6 @@
 ---
 title: Xero - Full Transformation Packages for SMEs Version 2021
-permalink: 
+permalink: /productivity-solutions-grant/solution2420
 ---
 
 ## Xero - Full Transformation Packages for SMEs Version 2021

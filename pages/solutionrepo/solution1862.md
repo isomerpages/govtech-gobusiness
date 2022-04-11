@@ -1,6 +1,6 @@
 ---
 title: Second CRM Version 7.1
-permalink: 
+permalink: /productivity-solutions-grant/solution1862
 ---
 
 ## Second CRM Version 71

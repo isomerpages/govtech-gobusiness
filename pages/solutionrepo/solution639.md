@@ -1,6 +1,6 @@
 ---
 title: Netiquette Cloud Business Suite
-permalink: 
+permalink: /productivity-solutions-grant/solution639
 ---
 
 ## Netiquette Cloud Business Suite

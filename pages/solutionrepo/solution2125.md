@@ -1,6 +1,6 @@
 ---
 title: Conveyor System for transporting materials
-permalink: 
+permalink: /productivity-solutions-grant/solution2125
 ---
 
 ## Conveyor System for transporting materials

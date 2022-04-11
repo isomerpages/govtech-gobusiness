@@ -1,6 +1,6 @@
 ---
 title: ZettApps Finance & Order Processing Version 4.2
-permalink: 
+permalink: /productivity-solutions-grant/solution1875
 ---
 
 ## ZettApps Finance Order Processing Version 42

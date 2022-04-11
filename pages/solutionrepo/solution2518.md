@@ -1,6 +1,6 @@
 ---
 title: Automated Deep Fryer
-permalink: 
+permalink: /productivity-solutions-grant/solution2518
 ---
 
 ## Automated Deep Fryer

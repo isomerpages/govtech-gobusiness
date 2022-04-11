@@ -1,6 +1,6 @@
 ---
 title: Intuit Quickbooks Online Full Transformation Package
-permalink: 
+permalink: /productivity-solutions-grant/solution60
 ---
 
 ## Intuit Quickbooks Online Full Transformation Package

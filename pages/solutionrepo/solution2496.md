@@ -1,6 +1,6 @@
 ---
 title: Panda Adaptive Defense 360
-permalink: 
+permalink: /productivity-solutions-grant/solution2496
 ---
 
 ## Panda Adaptive Defense 360

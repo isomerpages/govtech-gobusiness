@@ -1,6 +1,6 @@
 ---
 title: EndPoint Protection Platform
-permalink: 
+permalink: /productivity-solutions-grant/solution515
 ---
 
 ## EndPoint Protection Platform

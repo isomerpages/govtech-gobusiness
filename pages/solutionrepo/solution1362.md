@@ -1,6 +1,6 @@
 ---
 title: EZ Accounting and Inventory Software
-permalink: 
+permalink: /productivity-solutions-grant/solution1362
 ---
 
 ## EZ Accounting and Inventory Software

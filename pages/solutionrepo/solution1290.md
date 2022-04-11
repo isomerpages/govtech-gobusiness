@@ -1,6 +1,6 @@
 ---
 title: PEOPLECENTRAL HRMS Version 11
-permalink: 
+permalink: /productivity-solutions-grant/solution1290
 ---
 
 ## PEOPLECENTRAL HRMS Version 11

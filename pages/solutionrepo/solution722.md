@@ -1,6 +1,6 @@
 ---
 title: Psoft Accounting Systems
-permalink: 
+permalink: /productivity-solutions-grant/solution722
 ---
 
 ## Psoft Accounting Systems

@@ -1,6 +1,6 @@
 ---
 title: aiCARE Shield Managed Security Version Ver1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2633
 ---
 
 ## aiCARE Shield Managed Security Version Ver10

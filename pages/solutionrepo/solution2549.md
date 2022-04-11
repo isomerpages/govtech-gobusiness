@@ -1,6 +1,6 @@
 ---
 title: Qanvast Leads Management System
-permalink: 
+permalink: /productivity-solutions-grant/solution2549
 ---
 
 ## Qanvast Leads Management System

@@ -1,6 +1,6 @@
 ---
 title: Lunchbox Smart Restaurant Solution Version 1.1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2509
 ---
 
 ## Lunchbox Smart Restaurant Solution Version 110

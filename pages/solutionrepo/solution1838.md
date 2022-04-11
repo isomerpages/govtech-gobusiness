@@ -1,6 +1,6 @@
 ---
 title: HeartVoice Telehealth Platform
-permalink: 
+permalink: /productivity-solutions-grant/solution1838
 ---
 
 ## HeartVoice Telehealth Platform

@@ -1,6 +1,6 @@
 ---
 title: Mobile Responsive E-Commerce Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution1525
 ---
 
 ## Mobile Responsive E-Commerce Version 1

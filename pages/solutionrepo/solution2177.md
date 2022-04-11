@@ -1,6 +1,6 @@
 ---
 title: EndPoint Standard
-permalink: 
+permalink: /productivity-solutions-grant/solution2177
 ---
 
 ## EndPoint Standard

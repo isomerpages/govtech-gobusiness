@@ -1,6 +1,6 @@
 ---
 title: Farm Washing System
-permalink: 
+permalink: /productivity-solutions-grant/solution2133
 ---
 
 ## Farm Washing System

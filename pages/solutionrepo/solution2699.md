@@ -1,6 +1,6 @@
 ---
 title: Q-DAS - Smart Quality Software
-permalink: 
+permalink: /productivity-solutions-grant/solution2699
 ---
 
 ## Q-DAS - Smart Quality Software

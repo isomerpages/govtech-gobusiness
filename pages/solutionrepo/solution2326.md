@@ -1,6 +1,6 @@
 ---
 title: SHOPLINE e-Commerce Solution
-permalink: 
+permalink: /productivity-solutions-grant/solution2326
 ---
 
 ## SHOPLINE e-Commerce Solution

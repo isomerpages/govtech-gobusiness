@@ -1,6 +1,6 @@
 ---
 title: AxiomSL MAS 610 SaaS version 4
-permalink: 
+permalink: /productivity-solutions-grant/solution1477
 ---
 
 ## AxiomSL MAS 610 SaaS version 4

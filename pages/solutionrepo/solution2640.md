@@ -1,6 +1,6 @@
 ---
 title: Flavor Customer Relationship Management System Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution2640
 ---
 
 ## Flavor Customer Relationship Management System Version 1

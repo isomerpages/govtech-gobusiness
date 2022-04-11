@@ -1,6 +1,6 @@
 ---
 title: Bristle Blaster / Cup Brush / Power Brush
-permalink: 
+permalink: /productivity-solutions-grant/solution1472
 ---
 
 ## Bristle Blaster / Cup Brush / Power Brush

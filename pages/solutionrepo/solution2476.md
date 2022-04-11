@@ -1,6 +1,6 @@
 ---
 title: Smart Glasses - InnoGlas
-permalink: 
+permalink: /productivity-solutions-grant/solution2476
 ---
 
 ## Smart Glasses - InnoGlas

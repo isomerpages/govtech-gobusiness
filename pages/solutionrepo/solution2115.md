@@ -1,6 +1,6 @@
 ---
 title: Automated Irrigation & Dosing System
-permalink: 
+permalink: /productivity-solutions-grant/solution2115
 ---
 
 ## Automated Irrigation Dosing System

@@ -1,6 +1,6 @@
 ---
 title: Circular Gas Cutter
-permalink: 
+permalink: /productivity-solutions-grant/solution38
 ---
 
 ## Circular Gas Cutter

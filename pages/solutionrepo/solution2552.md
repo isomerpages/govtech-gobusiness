@@ -1,6 +1,6 @@
 ---
 title: U Ventures XERO
-permalink: 
+permalink: /productivity-solutions-grant/solution2552
 ---
 
 ## U Ventures XERO

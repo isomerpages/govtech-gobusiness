@@ -1,6 +1,6 @@
 ---
 title: iCoreSpec
-permalink: 
+permalink: /productivity-solutions-grant/solution1755
 ---
 
 ## iCoreSpec

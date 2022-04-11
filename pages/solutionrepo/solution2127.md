@@ -1,6 +1,6 @@
 ---
 title: Culture Tank System with Monitoring and Control System
-permalink: 
+permalink: /productivity-solutions-grant/solution2127
 ---
 
 ## Culture Tank System with Monitoring and Control System

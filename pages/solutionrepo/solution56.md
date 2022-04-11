@@ -1,6 +1,6 @@
 ---
 title: High Speed Oven
-permalink: 
+permalink: /productivity-solutions-grant/solution56
 ---
 
 ## High Speed Oven

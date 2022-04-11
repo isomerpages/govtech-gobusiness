@@ -1,6 +1,6 @@
 ---
 title: Microsoft Dynamics 365 Business Central (NAV) Version 17
-permalink: 
+permalink: /productivity-solutions-grant/solution433
 ---
 
 ## Microsoft Dynamics 365 Business Central (NAV) Version 17

@@ -1,6 +1,6 @@
 ---
 title: NinjaOS
-permalink: 
+permalink: /productivity-solutions-grant/solution511
 ---
 
 ## NinjaOS

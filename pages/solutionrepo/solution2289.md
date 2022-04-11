@@ -1,6 +1,6 @@
 ---
 title: INNOCOM - ASSEMBLE
-permalink: 
+permalink: /productivity-solutions-grant/solution2289
 ---
 
 ## INNOCOM - ASSEMBLE

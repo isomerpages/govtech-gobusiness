@@ -1,6 +1,6 @@
 ---
 title: Cubicost Digital 5D BIM Cost Management Solution Version 3
-permalink: 
+permalink: /productivity-solutions-grant/solution440
 ---
 
 ## Cubicost Digital 5D BIM Cost Management Solution Version 3

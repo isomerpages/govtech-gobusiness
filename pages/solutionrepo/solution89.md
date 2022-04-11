@@ -1,6 +1,6 @@
 ---
 title: Portable Automatic Gas Cutting Machine
-permalink: 
+permalink: /productivity-solutions-grant/solution89
 ---
 
 ## Portable Automatic Gas Cutting Machine

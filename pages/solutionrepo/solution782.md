@@ -1,6 +1,6 @@
 ---
 title: Shopmatic
-permalink: 
+permalink: /productivity-solutions-grant/solution782
 ---
 
 ## Shopmatic

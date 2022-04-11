@@ -1,6 +1,6 @@
 ---
 title: Fortinet Fortigate (Next Generation Firewall)
-permalink: 
+permalink: /productivity-solutions-grant/solution1910
 ---
 
 ## Fortinet Fortigate (Next Generation Firewall)

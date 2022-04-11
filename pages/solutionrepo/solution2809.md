@@ -1,6 +1,6 @@
 ---
 title: Cybots AMDR
-permalink: 
+permalink: /productivity-solutions-grant/solution2809
 ---
 
 ## Cybots AMDR

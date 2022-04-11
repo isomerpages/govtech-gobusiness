@@ -1,6 +1,6 @@
 ---
 title: Autonomous Mobile Robot
-permalink: 
+permalink: /productivity-solutions-grant/solution27
 ---
 
 ## Autonomous Mobile Robot

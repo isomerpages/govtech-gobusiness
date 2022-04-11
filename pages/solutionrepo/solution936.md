@@ -1,6 +1,6 @@
 ---
 title: KYBIO Version 3.0.9.3
-permalink: 
+permalink: /productivity-solutions-grant/solution936
 ---
 
 ## KYBIO Version 3093

@@ -1,6 +1,6 @@
 ---
 title: Portable Automatic Pipe Gas Cutter
-permalink: 
+permalink: /productivity-solutions-grant/solution71
 ---
 
 ## Portable Automatic Pipe Gas Cutter

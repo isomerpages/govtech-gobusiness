@@ -1,6 +1,6 @@
 ---
 title: School Bus Management System Version SBMS.V2
-permalink: 
+permalink: /productivity-solutions-grant/solution2616
 ---
 
 ## School Bus Management System Version SBMSV2

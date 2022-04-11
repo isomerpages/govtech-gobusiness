@@ -1,6 +1,6 @@
 ---
 title: Automated Counter/ Biomass Estimation System
-permalink: 
+permalink: /productivity-solutions-grant/solution2112
 ---
 
 ## Automated Counter/ Biomass Estimation System

@@ -1,6 +1,6 @@
 ---
 title: WhyzeHR Version 12
-permalink: 
+permalink: /productivity-solutions-grant/solution2734
 ---
 
 ## WhyzeHR Version 12

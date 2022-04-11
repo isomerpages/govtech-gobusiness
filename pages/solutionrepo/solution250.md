@@ -1,6 +1,6 @@
 ---
 title: BonaForce
-permalink: 
+permalink: /productivity-solutions-grant/solution250
 ---
 
 ## BonaForce

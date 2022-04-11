@@ -1,6 +1,6 @@
 ---
 title: A-Class HRSS & Payroll Processing by Sleek Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution1683
 ---
 
 ## A-Class HRSS Payroll Processing by Sleek Version 1

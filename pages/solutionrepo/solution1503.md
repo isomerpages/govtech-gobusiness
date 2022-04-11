@@ -1,6 +1,6 @@
 ---
 title: SGDATAPOS Version 5.1
-permalink: 
+permalink: /productivity-solutions-grant/solution1503
 ---
 
 ## SGDATAPOS Version 51

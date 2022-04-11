@@ -1,6 +1,6 @@
 ---
 title: Alitec odooCRM and sales
-permalink: 
+permalink: /productivity-solutions-grant/solution2570
 ---
 
 ## Alitec odooCRM and sales

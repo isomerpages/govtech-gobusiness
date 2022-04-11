@@ -1,6 +1,6 @@
 ---
 title: BonaERP
-permalink: 
+permalink: /productivity-solutions-grant/solution247
 ---
 
 ## BonaERP

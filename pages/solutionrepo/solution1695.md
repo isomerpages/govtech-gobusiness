@@ -1,6 +1,6 @@
 ---
 title: Intuit QBO
-permalink: 
+permalink: /productivity-solutions-grant/solution1695
 ---
 
 ## Intuit QBO

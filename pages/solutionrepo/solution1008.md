@@ -1,6 +1,6 @@
 ---
 title: Quickbooks Online - Aba QuickBooks Online Accounting Solution
-permalink: 
+permalink: /productivity-solutions-grant/solution1008
 ---
 
 ## Quickbooks Online - Aba QuickBooks Online Accounting Solution

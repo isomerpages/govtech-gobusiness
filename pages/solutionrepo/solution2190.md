@@ -1,6 +1,6 @@
 ---
 title: Xero Accounting software
-permalink: 
+permalink: /productivity-solutions-grant/solution2190
 ---
 
 ## Xero Accounting software

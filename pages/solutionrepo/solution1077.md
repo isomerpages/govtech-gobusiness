@@ -1,6 +1,6 @@
 ---
 title: AGERE - Xero Cloud Accounting Software 
-permalink: 
+permalink: /productivity-solutions-grant/solution1077
 ---
 
 ## AGERE - Xero Cloud Accounting Software

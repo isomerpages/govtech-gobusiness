@@ -1,6 +1,6 @@
 ---
 title: Sage 300 Version 2021
-permalink: 
+permalink: /productivity-solutions-grant/solution871
 ---
 
 ## Sage 300 Version 2021

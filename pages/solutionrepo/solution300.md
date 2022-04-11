@@ -1,6 +1,6 @@
 ---
 title: Automated Tray Sealer
-permalink: 
+permalink: /productivity-solutions-grant/solution300
 ---
 
 ## Automated Tray Sealer

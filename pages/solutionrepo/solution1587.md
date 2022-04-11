@@ -1,6 +1,6 @@
 ---
 title: INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN )
-permalink: 
+permalink: /productivity-solutions-grant/solution1587
 ---
 
 ## INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN )

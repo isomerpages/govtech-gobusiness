@@ -1,6 +1,6 @@
 ---
 title: DST Inventory System Version 1.3
-permalink: 
+permalink: /productivity-solutions-grant/solution2840
 ---
 
 ## DST Inventory System Version 13

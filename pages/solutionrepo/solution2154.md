@@ -1,6 +1,6 @@
 ---
 title: Vacuum Cooler Equipment
-permalink: 
+permalink: /productivity-solutions-grant/solution2154
 ---
 
 ## Vacuum Cooler Equipment

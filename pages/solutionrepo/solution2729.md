@@ -1,6 +1,6 @@
 ---
 title: MetroERP Version 1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2729
 ---
 
 ## MetroERP Version 10

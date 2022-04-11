@@ -1,6 +1,6 @@
 ---
 title: Dining Butler system 
-permalink: 
+permalink: /productivity-solutions-grant/solution997
 ---
 
 ## Dining Butler system

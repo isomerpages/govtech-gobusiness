@@ -1,6 +1,6 @@
 ---
 title: Enhanzcom - FITPRISE Sales & Inventory System
-permalink: 
+permalink: /productivity-solutions-grant/solution2606
 ---
 
 ## Enhanzcom - FITPRISE Sales Inventory System

@@ -1,6 +1,6 @@
 ---
 title: Ecommflow Version 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2262
 ---
 
 ## Ecommflow Version 20

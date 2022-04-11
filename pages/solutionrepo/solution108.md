@@ -1,6 +1,6 @@
 ---
 title: Rotary Wok Fryer
-permalink: 
+permalink: /productivity-solutions-grant/solution108
 ---
 
 ## Rotary Wok Fryer

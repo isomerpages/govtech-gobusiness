@@ -1,6 +1,6 @@
 ---
 title: Auto Welding Carriage
-permalink: 
+permalink: /productivity-solutions-grant/solution1961
 ---
 
 ## Auto Welding Carriage

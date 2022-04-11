@@ -1,6 +1,6 @@
 ---
 title: SMARTHRMS Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution1348
 ---
 
 ## SMARTHRMS Version 1

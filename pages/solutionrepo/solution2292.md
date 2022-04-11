@@ -1,6 +1,6 @@
 ---
 title: eBIS Version V1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2292
 ---
 
 ## eBIS Version V10

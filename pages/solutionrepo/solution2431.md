@@ -1,6 +1,6 @@
 ---
 title: Qoqolo School Management System Version 4
-permalink: 
+permalink: /productivity-solutions-grant/solution2431
 ---
 
 ## Qoqolo School Management System Version 4

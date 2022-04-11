@@ -1,6 +1,6 @@
 ---
 title: Standalone Automated Industrial Utensil Washer
-permalink: 
+permalink: /productivity-solutions-grant/solution384
 ---
 
 ## Standalone Automated Industrial Utensil Washer

@@ -1,6 +1,6 @@
 ---
 title: Ear Tagging Machine
-permalink: 
+permalink: /productivity-solutions-grant/solution2129
 ---
 
 ## Ear Tagging Machine

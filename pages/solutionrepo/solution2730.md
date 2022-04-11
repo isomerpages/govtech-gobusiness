@@ -1,6 +1,6 @@
 ---
 title: BricsCAD A.I Design Technologies
-permalink: 
+permalink: /productivity-solutions-grant/solution2730
 ---
 
 ## BricsCAD AI Design Technologies

@@ -1,6 +1,6 @@
 ---
 title: Simplr Warehouse Management and Simplr Sales Management Version 6
-permalink: 
+permalink: /productivity-solutions-grant/solution1421
 ---
 
 ## Simplr Warehouse Management and Simplr Sales Management Version 6

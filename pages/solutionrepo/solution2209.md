@@ -1,6 +1,6 @@
 ---
 title: FITPRISE Job Inspection System
-permalink: 
+permalink: /productivity-solutions-grant/solution2209
 ---
 
 ## FITPRISE Job Inspection System

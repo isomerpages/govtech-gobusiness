@@ -1,6 +1,6 @@
 ---
 title: BonaEcom
-permalink: 
+permalink: /productivity-solutions-grant/solution249
 ---
 
 ## BonaEcom

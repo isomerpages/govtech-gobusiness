@@ -1,6 +1,6 @@
 ---
 title: AutoCount Accounting
-permalink: 
+permalink: /productivity-solutions-grant/solution189
 ---
 
 ## AutoCount Accounting

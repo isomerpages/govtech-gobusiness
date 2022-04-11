@@ -1,6 +1,6 @@
 ---
 title: Eurostop EPOS and E-retail Inventory Management Version 10
-permalink: 
+permalink: /productivity-solutions-grant/solution396
 ---
 
 ## Eurostop EPOS and E-retail Inventory Management Version 10

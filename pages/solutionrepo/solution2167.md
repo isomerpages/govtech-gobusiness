@@ -1,6 +1,6 @@
 ---
 title: Digital quality testing equipment
-permalink: 
+permalink: /productivity-solutions-grant/solution2167
 ---
 
 ## Digital quality testing equipment

@@ -1,6 +1,6 @@
 ---
 title: LFSUITE Version 6.0
-permalink: 
+permalink: /productivity-solutions-grant/solution1880
 ---
 
 ## LFSUITE Version 60

@@ -1,6 +1,6 @@
 ---
 title: Pre-school Management System + E-forms for Preschool Version BridgED 3.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2684
 ---
 
 ## Pre-school Management System + E-forms for Preschool Version BridgED 30

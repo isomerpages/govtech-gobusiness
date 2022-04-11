@@ -1,6 +1,6 @@
 ---
 title: Aptsys - Customer Mobile Self Ordering with Payment Version 1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution1133
 ---
 
 ## Aptsys - Customer Mobile Self Ordering with Payment Version 10

@@ -1,6 +1,6 @@
 ---
 title: Fleet Safety Management System Version 7
-permalink: 
+permalink: /productivity-solutions-grant/solution2592
 ---
 
 ## Fleet Safety Management System Version 7

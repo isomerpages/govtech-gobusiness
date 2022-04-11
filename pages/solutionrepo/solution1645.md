@@ -1,6 +1,6 @@
 ---
 title: Smart Estate Management System
-permalink: 
+permalink: /productivity-solutions-grant/solution1645
 ---
 
 ## Smart Estate Management System

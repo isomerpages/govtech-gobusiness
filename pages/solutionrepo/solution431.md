@@ -1,6 +1,6 @@
 ---
 title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2
-permalink: 
+permalink: /productivity-solutions-grant/solution431
 ---
 
 ## Getz F&B Contactless Dine-in Pickup and Islandwide Delivery Transformation Version 2

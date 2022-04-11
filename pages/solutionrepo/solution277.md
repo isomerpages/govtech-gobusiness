@@ -1,6 +1,6 @@
 ---
 title: Carbonate HR Version 1.0 
-permalink: 
+permalink: /productivity-solutions-grant/solution277
 ---
 
 ## Carbonate HR Version 10

@@ -1,6 +1,6 @@
 ---
 title: RetailNext In-Store Analytics Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution1674
 ---
 
 ## RetailNext In-Store Analytics Version 1

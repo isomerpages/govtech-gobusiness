@@ -1,6 +1,6 @@
 ---
 title: INNOCOM - AUTODESK AEC COLLECTION
-permalink: 
+permalink: /productivity-solutions-grant/solution1219
 ---
 
 ## INNOCOM - AUTODESK AEC COLLECTION

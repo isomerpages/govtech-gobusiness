@@ -1,6 +1,6 @@
 ---
 title: STUDIO MANAGER Version 7
-permalink: 
+permalink: /productivity-solutions-grant/solution164
 ---
 
 ## STUDIO MANAGER Version 7

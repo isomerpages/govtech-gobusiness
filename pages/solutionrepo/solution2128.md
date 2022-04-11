@@ -1,6 +1,6 @@
 ---
 title: Dehusking Machine/ Shaker
-permalink: 
+permalink: /productivity-solutions-grant/solution2128
 ---
 
 ## Dehusking Machine/ Shaker

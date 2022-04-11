@@ -1,6 +1,6 @@
 ---
 title: Kaspersky Endpoint Security Version 11.6.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2492
 ---
 
 ## Kaspersky Endpoint Security Version 1160

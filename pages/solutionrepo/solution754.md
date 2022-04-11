@@ -1,6 +1,6 @@
 ---
 title: Smart Cabinet
-permalink: 
+permalink: /productivity-solutions-grant/solution754
 ---
 
 ## Smart Cabinet

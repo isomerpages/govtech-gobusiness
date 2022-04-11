@@ -1,6 +1,6 @@
 ---
 title: Planetary or Spiral Mixer
-permalink: 
+permalink: /productivity-solutions-grant/solution386
 ---
 
 ## Planetary or Spiral Mixer

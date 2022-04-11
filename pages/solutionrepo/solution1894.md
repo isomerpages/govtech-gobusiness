@@ -1,6 +1,6 @@
 ---
 title: arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking
-permalink: 
+permalink: /productivity-solutions-grant/solution1894
 ---
 
 ## arclite and arcops - Real-time Production Scheduling and Job Tracking

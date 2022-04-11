@@ -1,6 +1,6 @@
 ---
 title: Taidii SMART IT Solution for Preschool
-permalink: 
+permalink: /productivity-solutions-grant/solution2447
 ---
 
 ## Taidii SMART IT Solution for Preschool

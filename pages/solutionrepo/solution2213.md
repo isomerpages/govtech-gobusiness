@@ -1,6 +1,6 @@
 ---
 title: Synergix
-permalink: 
+permalink: /productivity-solutions-grant/solution2213
 ---
 
 ## Synergix

@@ -1,6 +1,6 @@
 ---
 title: Accounts101 - Xero Cloud Accounting Software
-permalink: 
+permalink: /productivity-solutions-grant/solution2077
 ---
 
 ## Accounts101 - Xero Cloud Accounting Software

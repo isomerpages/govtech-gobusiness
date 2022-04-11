@@ -1,6 +1,6 @@
 ---
 title: Singtel Endpoint Security
-permalink: 
+permalink: /productivity-solutions-grant/solution2657
 ---
 
 ## Singtel Endpoint Security

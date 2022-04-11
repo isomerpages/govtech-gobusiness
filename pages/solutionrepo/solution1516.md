@@ -1,6 +1,6 @@
 ---
 title: Highnix ERP Plus 2 Version 4-3-30
-permalink: 
+permalink: /productivity-solutions-grant/solution1516
 ---
 
 ## Highnix ERP Plus 2 Version 4-3-30

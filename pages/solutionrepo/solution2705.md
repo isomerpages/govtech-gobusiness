@@ -1,6 +1,6 @@
 ---
 title: WEB360 Version 2.0.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2705
 ---
 
 ## WEB360 Version 200

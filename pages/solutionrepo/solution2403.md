@@ -1,6 +1,6 @@
 ---
 title: ETABS Ultimate Suite Version 19
-permalink: 
+permalink: /productivity-solutions-grant/solution2403
 ---
 
 ## ETABS Ultimate Suite Version 19

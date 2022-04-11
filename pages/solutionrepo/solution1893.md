@@ -1,6 +1,6 @@
 ---
 title: arc.ops - Manufacturing Quality Management
-permalink: 
+permalink: /productivity-solutions-grant/solution1893
 ---
 
 ## arcops - Manufacturing Quality Management

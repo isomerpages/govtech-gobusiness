@@ -1,6 +1,6 @@
 ---
 title: Multi-tier Cultivation System
-permalink: 
+permalink: /productivity-solutions-grant/solution2145
 ---
 
 ## Multi-tier Cultivation System

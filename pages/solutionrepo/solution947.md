@@ -1,6 +1,6 @@
 ---
 title: WhyzeHR Workforce Management System Version 12
-permalink: 
+permalink: /productivity-solutions-grant/solution947
 ---
 
 ## WhyzeHR Workforce Management System Version 12

@@ -1,6 +1,6 @@
 ---
 title: RealtyPromote - Document Management & Transaction Records Version 3.2TM
-permalink: 
+permalink: /productivity-solutions-grant/solution2624
 ---
 
 ## RealtyPromote - Document Management Transaction Records Version 32TM

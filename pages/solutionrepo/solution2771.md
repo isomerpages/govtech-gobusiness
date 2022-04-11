@@ -1,6 +1,6 @@
 ---
 title: Applivon - Odoo
-permalink: 
+permalink: /productivity-solutions-grant/solution2771
 ---
 
 ## Applivon - Odoo

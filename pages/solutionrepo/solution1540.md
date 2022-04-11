@@ -1,6 +1,6 @@
 ---
 title: D365 Business Central (Microsoft)
-permalink: 
+permalink: /productivity-solutions-grant/solution1540
 ---
 
 ## D365 Business Central (Microsoft)

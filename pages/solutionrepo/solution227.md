@@ -1,6 +1,6 @@
 ---
 title: Beautec Version 3 centralized version
-permalink: 
+permalink: /productivity-solutions-grant/solution227
 ---
 
 ## Beautec Version 3 centralized version

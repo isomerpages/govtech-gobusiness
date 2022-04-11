@@ -1,6 +1,6 @@
 ---
 title: Automated Rice Washer
-permalink: 
+permalink: /productivity-solutions-grant/solution20
 ---
 
 ## Automated Rice Washer

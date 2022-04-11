@@ -1,6 +1,6 @@
 ---
 title: TIMES SOFTWARE HRMS Version 18
-permalink: 
+permalink: /productivity-solutions-grant/solution2800
 ---
 
 ## TIMES SOFTWARE HRMS Version 18

@@ -1,6 +1,6 @@
 ---
 title: WhyzeHR eScheduling
-permalink: 
+permalink: /productivity-solutions-grant/solution2371
 ---
 
 ## WhyzeHR eScheduling

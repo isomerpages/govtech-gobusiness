@@ -1,6 +1,6 @@
 ---
 title: MuRho Inventory Management & Sales Management System
-permalink: 
+permalink: /productivity-solutions-grant/solution623
 ---
 
 ## MuRho Inventory Management Sales Management System

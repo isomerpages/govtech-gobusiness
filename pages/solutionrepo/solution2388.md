@@ -1,6 +1,6 @@
 ---
 title: QuickBooks Online Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution2388
 ---
 
 ## QuickBooks Online Version 1

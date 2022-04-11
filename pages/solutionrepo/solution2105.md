@@ -1,6 +1,6 @@
 ---
 title: Sophos Central EndPoint Protection
-permalink: 
+permalink: /productivity-solutions-grant/solution2105
 ---
 
 ## Sophos Central EndPoint Protection

@@ -1,6 +1,6 @@
 ---
 title: Ascent iSPOT Fleet Management System - 	iSPOT FMS Tracking and Workflow management 
-permalink: 
+permalink: /productivity-solutions-grant/solution1295
 ---
 
 ## Ascent iSPOT Fleet Management System - 	iSPOT FMS Tracking and Workflow management

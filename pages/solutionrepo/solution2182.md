@@ -1,6 +1,6 @@
 ---
 title: BlueMeg Console
-permalink: 
+permalink: /productivity-solutions-grant/solution2182
 ---
 
 ## BlueMeg Console

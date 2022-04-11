@@ -1,6 +1,6 @@
 ---
 title: SKIP QUEUE (F&B) - DIGITAL ORDERING
-permalink: 
+permalink: /productivity-solutions-grant/solution2198
 ---
 
 ## SKIP QUEUE (F&B) - DIGITAL ORDERING

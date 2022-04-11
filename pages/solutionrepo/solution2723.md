@@ -1,6 +1,6 @@
 ---
 title: BIZ FNB DIGITAL ORDERING
-permalink: 
+permalink: /productivity-solutions-grant/solution2723
 ---
 
 ## BIZ FNB DIGITAL ORDERING

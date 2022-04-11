@@ -1,6 +1,6 @@
 ---
 title: Sage 300 Advanced Edition
-permalink: 
+permalink: /productivity-solutions-grant/solution1015
 ---
 
 ## Sage 300 Advanced Edition

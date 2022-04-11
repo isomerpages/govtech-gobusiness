@@ -1,6 +1,6 @@
 ---
 title: BOTG Version 1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution1723
 ---
 
 ## BOTG Version 10

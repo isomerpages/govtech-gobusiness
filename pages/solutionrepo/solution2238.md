@@ -1,6 +1,6 @@
 ---
 title: HRSS & Payroll Processing with JustLogin
-permalink: 
+permalink: /productivity-solutions-grant/solution2238
 ---
 
 ## HRSS Payroll Processing with JustLogin

@@ -1,6 +1,6 @@
 ---
 title: RealtyPromote Version 3.2
-permalink: 
+permalink: /productivity-solutions-grant/solution2189
 ---
 
 ## RealtyPromote Version 32

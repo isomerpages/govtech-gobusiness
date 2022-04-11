@@ -1,6 +1,6 @@
 ---
 title: DM RHAD Digital Marketing Package Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution2793
 ---
 
 ## DM RHAD Digital Marketing Package Version 1

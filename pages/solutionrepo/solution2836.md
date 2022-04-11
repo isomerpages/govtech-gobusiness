@@ -1,6 +1,6 @@
 ---
 title: Creative Sales and Order
-permalink: 
+permalink: /productivity-solutions-grant/solution2836
 ---
 
 ## Creative Sales and Order

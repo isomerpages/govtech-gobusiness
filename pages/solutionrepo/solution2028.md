@@ -1,6 +1,6 @@
 ---
 title: WarelyPOS Version 1.1
-permalink: 
+permalink: /productivity-solutions-grant/solution2028
 ---
 
 ## WarelyPOS Version 11

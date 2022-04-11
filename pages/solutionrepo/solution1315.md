@@ -1,6 +1,6 @@
 ---
 title: WFH Email Security with Cyber Essentials Online Course Package Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution1315
 ---
 
 ## WFH Email Security with Cyber Essentials Online Course Package Version 1

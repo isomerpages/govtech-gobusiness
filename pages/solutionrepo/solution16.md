@@ -1,6 +1,6 @@
 ---
 title: Automated Dishwasher
-permalink: 
+permalink: /productivity-solutions-grant/solution16
 ---
 
 ## Automated Dishwasher

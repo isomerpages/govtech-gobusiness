@@ -1,6 +1,6 @@
 ---
 title: High pressure industrial vacuum cleaner
-permalink: 
+permalink: /productivity-solutions-grant/solution2072
 ---
 
 ## High pressure industrial vacuum cleaner

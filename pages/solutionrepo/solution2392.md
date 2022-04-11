@@ -1,6 +1,6 @@
 ---
 title: SmartCursors Human Resource Management System (HRMS)
-permalink: 
+permalink: /productivity-solutions-grant/solution2392
 ---
 
 ## SmartCursors Human Resource Management System (HRMS)

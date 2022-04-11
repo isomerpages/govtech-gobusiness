@@ -1,6 +1,6 @@
 ---
 title: Automated Sushi Making Machine
-permalink: 
+permalink: /productivity-solutions-grant/solution21
 ---
 
 ## Automated Sushi Making Machine

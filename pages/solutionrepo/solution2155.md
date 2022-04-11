@@ -1,6 +1,6 @@
 ---
 title: Farm Produce Washing Machine
-permalink: 
+permalink: /productivity-solutions-grant/solution2155
 ---
 
 ## Farm Produce Washing Machine

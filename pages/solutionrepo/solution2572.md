@@ -1,6 +1,6 @@
 ---
 title: Profectant Xero
-permalink: 
+permalink: /productivity-solutions-grant/solution2572
 ---
 
 ## Profectant Xero

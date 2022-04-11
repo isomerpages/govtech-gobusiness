@@ -1,6 +1,6 @@
 ---
 title: Battery-Powered Rope Ascender
-permalink: 
+permalink: /productivity-solutions-grant/solution1143
 ---
 
 ## Battery-Powered Rope Ascender

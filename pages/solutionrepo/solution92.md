@@ -1,6 +1,6 @@
 ---
 title: Probing System
-permalink: 
+permalink: /productivity-solutions-grant/solution92
 ---
 
 ## Probing System

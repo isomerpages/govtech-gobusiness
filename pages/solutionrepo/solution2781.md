@@ -1,6 +1,6 @@
 ---
 title: Xero Accounting System
-permalink: 
+permalink: /productivity-solutions-grant/solution2781
 ---
 
 ## Xero Accounting System

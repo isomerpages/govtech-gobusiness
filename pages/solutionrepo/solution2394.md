@@ -1,6 +1,6 @@
 ---
 title: HubSpot
-permalink: 
+permalink: /productivity-solutions-grant/solution2394
 ---
 
 ## HubSpot

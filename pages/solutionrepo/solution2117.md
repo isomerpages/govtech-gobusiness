@@ -1,6 +1,6 @@
 ---
 title: Automated Slaughtering Equipment
-permalink: 
+permalink: /productivity-solutions-grant/solution2117
 ---
 
 ## Automated Slaughtering Equipment

@@ -1,6 +1,6 @@
 ---
 title: Haulio Community System Version 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution1429
 ---
 
 ## Haulio Community System Version 20

@@ -1,6 +1,6 @@
 ---
 title: Go EBOS - SMECEN Dashbod Accounting Version 1.35.4
-permalink: 
+permalink: /productivity-solutions-grant/solution2842
 ---
 
 ## Go EBOS - SMECEN Dashbod Accounting Version 1354

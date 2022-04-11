@@ -1,6 +1,6 @@
 ---
 title: Vacuum Packing and Sealing Machine
-permalink: 
+permalink: /productivity-solutions-grant/solution303
 ---
 
 ## Vacuum Packing and Sealing Machine

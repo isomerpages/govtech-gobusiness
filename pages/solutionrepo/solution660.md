@@ -1,6 +1,6 @@
 ---
 title: OCi Sales & Accounting Management System (SAM) Version 11 
-permalink: 
+permalink: /productivity-solutions-grant/solution660
 ---
 
 ## OCi Sales Accounting Management System (SAM) Version 11

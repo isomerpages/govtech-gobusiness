@@ -1,6 +1,6 @@
 ---
 title: Electric Pedestrian Pallet Truck
-permalink: 
+permalink: /productivity-solutions-grant/solution1409
 ---
 
 ## Electric Pedestrian Pallet Truck

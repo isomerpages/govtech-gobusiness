@@ -1,6 +1,6 @@
 ---
 title: Zoho One
-permalink: 
+permalink: /productivity-solutions-grant/solution1528
 ---
 
 ## Zoho One

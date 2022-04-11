@@ -1,6 +1,6 @@
 ---
 title: EasyBus Version 2.2
-permalink: 
+permalink: /productivity-solutions-grant/solution1020
 ---
 
 ## EasyBus Version 22

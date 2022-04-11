@@ -1,6 +1,6 @@
 ---
 title: Automatic Seed Sowing Machine
-permalink: 
+permalink: /productivity-solutions-grant/solution2122
 ---
 
 ## Automatic Seed Sowing Machine

@@ -1,6 +1,6 @@
 ---
 title: Beaufort-Xero Digital Solutions
-permalink: 
+permalink: /productivity-solutions-grant/solution2776
 ---
 
 ## Beaufort-Xero Digital Solutions

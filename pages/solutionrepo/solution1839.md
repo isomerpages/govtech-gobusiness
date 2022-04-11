@@ -1,6 +1,6 @@
 ---
 title: Doctor Anywhere Platform
-permalink: 
+permalink: /productivity-solutions-grant/solution1839
 ---
 
 ## Doctor Anywhere Platform

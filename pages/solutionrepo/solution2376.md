@@ -1,6 +1,6 @@
 ---
 title: HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero)
-permalink: 
+permalink: /productivity-solutions-grant/solution2376
 ---
 
 ## HRSS Payroll Processing with QuickHR (with seamless integration to QBO and Xero)

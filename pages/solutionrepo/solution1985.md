@@ -1,6 +1,6 @@
 ---
 title: I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS)
-permalink: 
+permalink: /productivity-solutions-grant/solution1985
 ---
 
 ## I-Man Facility Sprinter (IFS) Integrated Guarding Services Solution (IGSS)

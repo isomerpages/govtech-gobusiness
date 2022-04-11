@@ -1,6 +1,6 @@
 ---
 title: (eScheduling) QuickHR
-permalink: 
+permalink: /productivity-solutions-grant/solution1170
 ---
 
 ## (eScheduling) QuickHR

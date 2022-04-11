@@ -1,6 +1,6 @@
 ---
 title: AgileREPORTER Version 19.3
-permalink: 
+permalink: /productivity-solutions-grant/solution1831
 ---
 
 ## AgileREPORTER Version 193

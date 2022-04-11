@@ -1,6 +1,6 @@
 ---
 title: Auk Edge IoT Device and Auk Industrial IoT Analytics Platform
-permalink: 
+permalink: /productivity-solutions-grant/solution1904
 ---
 
 ## Auk Edge IoT Device and Auk Industrial IoT Analytics Platform

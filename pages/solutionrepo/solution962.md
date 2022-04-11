@@ -1,6 +1,6 @@
 ---
 title: Microsoft Dynamics 365 Business Central for Wholesale
-permalink: 
+permalink: /productivity-solutions-grant/solution962
 ---
 
 ## Microsoft Dynamics 365 Business Central for Wholesale

@@ -1,6 +1,6 @@
 ---
 title: KEEPITAL Sales Management Business Solution Version 3
-permalink: 
+permalink: /productivity-solutions-grant/solution538
 ---
 
 ## KEEPITAL Sales Management Business Solution Version 3

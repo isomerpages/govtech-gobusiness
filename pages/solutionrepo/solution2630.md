@@ -1,6 +1,6 @@
 ---
 title: A2000ERP SOLUTION Version 12.X
-permalink: 
+permalink: /productivity-solutions-grant/solution2630
 ---
 
 ## A2000ERP SOLUTION Version 12X

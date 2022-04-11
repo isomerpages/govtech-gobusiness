@@ -1,6 +1,6 @@
 ---
 title: Xero by Book&Entries
-permalink: 
+permalink: /productivity-solutions-grant/solution2586
 ---
 
 ## Xero by Book&Entries

@@ -1,6 +1,6 @@
 ---
 title: Madsoft Solutions IAF Version 320
-permalink: 
+permalink: /productivity-solutions-grant/solution1178
 ---
 
 ## Madsoft Solutions IAF Version 320

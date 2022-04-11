@@ -1,6 +1,6 @@
 ---
 title: SAP Business One Version 10
-permalink: 
+permalink: /productivity-solutions-grant/solution1993
 ---
 
 ## SAP Business One Version 10

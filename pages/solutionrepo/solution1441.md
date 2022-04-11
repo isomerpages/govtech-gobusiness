@@ -1,6 +1,6 @@
 ---
 title: EISOL F&B (Eats365) Version 1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution1441
 ---
 
 ## EISOL F&B (Eats365) Version 10

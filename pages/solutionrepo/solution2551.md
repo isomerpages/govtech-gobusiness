@@ -1,6 +1,6 @@
 ---
 title: E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM
-permalink: 
+permalink: /productivity-solutions-grant/solution2551
 ---
 
 ## E-COMMERCE MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM

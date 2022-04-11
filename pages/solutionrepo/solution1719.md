@@ -1,6 +1,6 @@
 ---
 title: Intelli-Signage Version 3.1.4
-permalink: 
+permalink: /productivity-solutions-grant/solution1719
 ---
 
 ## Intelli-Signage Version 314

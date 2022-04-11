@@ -1,6 +1,6 @@
 ---
 title: iCHEF Integrated Digital Ordering POS Version V 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution993
 ---
 
 ## iCHEF Integrated Digital Ordering POS Version V 20

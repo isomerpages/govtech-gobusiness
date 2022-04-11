@@ -1,6 +1,6 @@
 ---
 title: Automated Noodle Boiler
-permalink: 
+permalink: /productivity-solutions-grant/solution17
 ---
 
 ## Automated Noodle Boiler

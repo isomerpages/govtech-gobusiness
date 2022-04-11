@@ -1,6 +1,6 @@
 ---
 title: Microsoft Dynamics 365 Business Central
-permalink: 
+permalink: /productivity-solutions-grant/solution1543
 ---
 
 ## Microsoft Dynamics 365 Business Central

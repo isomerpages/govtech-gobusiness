@@ -1,6 +1,6 @@
 ---
 title: Commercial Inkjet Printer
-permalink: 
+permalink: /productivity-solutions-grant/solution302
 ---
 
 ## Commercial Inkjet Printer

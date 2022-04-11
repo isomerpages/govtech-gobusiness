@@ -1,6 +1,6 @@
 ---
 title: Qornerstone Estate Management System
-permalink: 
+permalink: /productivity-solutions-grant/solution469
 ---
 
 ## Qornerstone Estate Management System

@@ -1,6 +1,6 @@
 ---
 title: XERO CLOUD ACCOUNTING SOFTWARE
-permalink: 
+permalink: /productivity-solutions-grant/solution926
 ---
 
 ## XERO CLOUD ACCOUNTING SOFTWARE

@@ -1,6 +1,6 @@
 ---
 title: Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution2063
 ---
 
 ## Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1

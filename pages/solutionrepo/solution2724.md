@@ -1,6 +1,6 @@
 ---
 title: InfoMaster ERP Software - Asset Monitoring and Management
-permalink: 
+permalink: /productivity-solutions-grant/solution2724
 ---
 
 ## InfoMaster ERP Software - Asset Monitoring and Management

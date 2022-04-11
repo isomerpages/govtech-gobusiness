@@ -1,6 +1,6 @@
 ---
 title: Tekla Solutions
-permalink: 
+permalink: /productivity-solutions-grant/solution1536
 ---
 
 ## Tekla Solutions

@@ -1,6 +1,6 @@
 ---
 title: SAP Business One Version Cloud
-permalink: 
+permalink: /productivity-solutions-grant/solution123
 ---
 
 ## SAP Business One Version Cloud

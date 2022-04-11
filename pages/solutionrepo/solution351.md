@@ -1,6 +1,6 @@
 ---
 title: Deskera People Version 10.0
-permalink: 
+permalink: /productivity-solutions-grant/solution351
 ---
 
 ## Deskera People Version 100

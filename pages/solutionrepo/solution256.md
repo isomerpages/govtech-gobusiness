@@ -1,6 +1,6 @@
 ---
 title: CalendarOne CRM Solution Ver 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution256
 ---
 
 ## CalendarOne CRM Solution Ver 20

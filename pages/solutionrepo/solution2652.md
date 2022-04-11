@@ -1,6 +1,6 @@
 ---
 title: Singtel-Fortinet Unified Threat Management Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution2652
 ---
 
 ## Singtel-Fortinet Unified Threat Management Version 1

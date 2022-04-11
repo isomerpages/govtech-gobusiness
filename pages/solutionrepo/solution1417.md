@@ -1,6 +1,6 @@
 ---
 title: Freight Master Version 8.1
-permalink: 
+permalink: /productivity-solutions-grant/solution1417
 ---
 
 ## Freight Master Version 81

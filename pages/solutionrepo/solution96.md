@@ -1,6 +1,6 @@
 ---
 title: Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9
-permalink: 
+permalink: /productivity-solutions-grant/solution96
 ---
 
 ## Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9

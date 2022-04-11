@@ -1,6 +1,6 @@
 ---
 title: ONE LOGON - ONE LOGistics Online
-permalink: 
+permalink: /productivity-solutions-grant/solution544
 ---
 
 ## ONE LOGON - ONE LOGistics Online

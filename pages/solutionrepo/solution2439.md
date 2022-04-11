@@ -1,6 +1,6 @@
 ---
 title: HAVENCE Version 4
-permalink: 
+permalink: /productivity-solutions-grant/solution2439
 ---
 
 ## HAVENCE Version 4

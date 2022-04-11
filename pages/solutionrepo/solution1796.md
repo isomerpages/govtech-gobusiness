@@ -1,6 +1,6 @@
 ---
 title: Revel Systems POS Version 2
-permalink: 
+permalink: /productivity-solutions-grant/solution1796
 ---
 
 ## Revel Systems POS Version 2

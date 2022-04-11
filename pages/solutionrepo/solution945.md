@@ -1,6 +1,6 @@
 ---
 title: VersaFleet Version 6-W
-permalink: 
+permalink: /productivity-solutions-grant/solution945
 ---
 
 ## VersaFleet Version 6-W

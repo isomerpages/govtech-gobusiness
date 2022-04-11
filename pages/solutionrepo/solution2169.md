@@ -1,6 +1,6 @@
 ---
 title: Temperature montoring/ labelling device
-permalink: 
+permalink: /productivity-solutions-grant/solution2169
 ---
 
 ## Temperature montoring/ labelling device

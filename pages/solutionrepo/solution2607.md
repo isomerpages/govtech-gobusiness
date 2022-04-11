@@ -1,6 +1,6 @@
 ---
 title: MMS - Xero Accounting Solution
-permalink: 
+permalink: /productivity-solutions-grant/solution2607
 ---
 
 ## MMS - Xero Accounting Solution

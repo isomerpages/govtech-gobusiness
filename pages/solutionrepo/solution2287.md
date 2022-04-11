@@ -1,6 +1,6 @@
 ---
 title: KEGMIL FSM
-permalink: 
+permalink: /productivity-solutions-grant/solution2287
 ---
 
 ## KEGMIL FSM

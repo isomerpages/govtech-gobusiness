@@ -1,6 +1,6 @@
 ---
 title: SUNTOYO POS SOLUTION Version 8.1
-permalink: 
+permalink: /productivity-solutions-grant/solution1119
 ---
 
 ## SUNTOYO POS SOLUTION Version 81

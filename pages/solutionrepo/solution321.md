@@ -1,6 +1,6 @@
 ---
 title: Creative Sales & Order Management
-permalink: 
+permalink: /productivity-solutions-grant/solution321
 ---
 
 ## Creative Sales Order Management

@@ -1,6 +1,6 @@
 ---
 title: EquipPOS Retail Solutions Version 3
-permalink: 
+permalink: /productivity-solutions-grant/solution371
 ---
 
 ## EquipPOS Retail Solutions Version 3

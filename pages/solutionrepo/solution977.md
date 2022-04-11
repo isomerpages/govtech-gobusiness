@@ -1,6 +1,6 @@
 ---
 title: Kiosk  & BYOD
-permalink: 
+permalink: /productivity-solutions-grant/solution977
 ---
 
 ## Kiosk  BYOD

@@ -1,6 +1,6 @@
 ---
 title: Stendard Solution  Version 1.6.1
-permalink: 
+permalink: /productivity-solutions-grant/solution1003
 ---
 
 ## Stendard Solution  Version 161

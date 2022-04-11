@@ -1,6 +1,6 @@
 ---
 title: Automated Labelling Machine 
-permalink: 
+permalink: /productivity-solutions-grant/solution2070
 ---
 
 ## Automated Labelling Machine

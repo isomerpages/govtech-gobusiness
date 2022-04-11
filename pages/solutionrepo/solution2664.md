@@ -1,6 +1,6 @@
 ---
 title: Simplify Version 1
-permalink: 
+permalink: /productivity-solutions-grant/solution2664
 ---
 
 ## Simplify Version 1

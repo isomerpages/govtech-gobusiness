@@ -1,6 +1,6 @@
 ---
 title: Automatic Flange Spreader
-permalink: 
+permalink: /productivity-solutions-grant/solution1473
 ---
 
 ## Automatic Flange Spreader

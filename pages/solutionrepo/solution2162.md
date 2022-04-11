@@ -1,6 +1,6 @@
 ---
 title: Automated Irrigation Equipment/ System
-permalink: 
+permalink: /productivity-solutions-grant/solution2162
 ---
 
 ## Automated Irrigation Equipment/ System

@@ -1,6 +1,6 @@
 ---
 title: Sophos EndPoint Protection
-permalink: 
+permalink: /productivity-solutions-grant/solution1550
 ---
 
 ## Sophos EndPoint Protection

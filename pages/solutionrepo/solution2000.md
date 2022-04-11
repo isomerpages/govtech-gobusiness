@@ -1,6 +1,6 @@
 ---
 title: Armfort Security Visitor Management System Version 1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2000
 ---
 
 ## Armfort Security Visitor Management System Version 10

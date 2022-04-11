@@ -1,6 +1,6 @@
 ---
 title: Teamcenter Version 13
-permalink: 
+permalink: /productivity-solutions-grant/solution2700
 ---
 
 ## Teamcenter Version 13

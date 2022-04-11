@@ -1,6 +1,6 @@
 ---
 title: 2020 QuickHR Version 9 - Cloud HRMS
-permalink: 
+permalink: /productivity-solutions-grant/solution380
 ---
 
 ## 2020 QuickHR Version 9 - Cloud HRMS

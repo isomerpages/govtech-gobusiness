@@ -1,6 +1,6 @@
 ---
 title: AirGo 360- Virtual Sites platform
-permalink: 
+permalink: /productivity-solutions-grant/solution2620
 ---
 
 ## AirGo 360- Virtual Sites platform

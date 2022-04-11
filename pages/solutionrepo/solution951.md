@@ -1,6 +1,6 @@
 ---
 title: EZYSALESORDER Version 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution951
 ---
 
 ## EZYSALESORDER Version 20

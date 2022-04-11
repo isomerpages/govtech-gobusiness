@@ -1,6 +1,6 @@
 ---
 title: Automated Sorter/ Grader
-permalink: 
+permalink: /productivity-solutions-grant/solution2113
 ---
 
 ## Automated Sorter/ Grader

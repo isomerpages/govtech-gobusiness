@@ -1,6 +1,6 @@
 ---
 title: Secure Locking System for Access Control
-permalink: 
+permalink: /productivity-solutions-grant/solution119
 ---
 
 ## Secure Locking System for Access Control

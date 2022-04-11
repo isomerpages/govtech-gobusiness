@@ -1,6 +1,6 @@
 ---
 title: Carddio Version 1 
-permalink: 
+permalink: /productivity-solutions-grant/solution1169
 ---
 
 ## Carddio Version 1

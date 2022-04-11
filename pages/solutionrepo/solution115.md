@@ -1,6 +1,6 @@
 ---
 title: Microsoft Dynamics 365 Business Central Version Cloud
-permalink: 
+permalink: /productivity-solutions-grant/solution115
 ---
 
 ## Microsoft Dynamics 365 Business Central Version Cloud

@@ -1,6 +1,6 @@
 ---
 title: EQUIP Version 10
-permalink: 
+permalink: /productivity-solutions-grant/solution2042
 ---
 
 ## EQUIP Version 10

@@ -1,6 +1,6 @@
 ---
 title: ChopeBook
-permalink: 
+permalink: /productivity-solutions-grant/solution1557
 ---
 
 ## ChopeBook

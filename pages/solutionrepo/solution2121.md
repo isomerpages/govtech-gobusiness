@@ -1,6 +1,6 @@
 ---
 title: Automatic Seed Plug Transplanter
-permalink: 
+permalink: /productivity-solutions-grant/solution2121
 ---
 
 ## Automatic Seed Plug Transplanter

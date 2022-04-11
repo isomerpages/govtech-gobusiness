@@ -1,6 +1,6 @@
 ---
 title: SoloTracking Version 2
-permalink: 
+permalink: /productivity-solutions-grant/solution1685
 ---
 
 ## SoloTracking Version 2

@@ -1,6 +1,6 @@
 ---
 title: JustLogin HR E-Scheduling
-permalink: 
+permalink: /productivity-solutions-grant/solution2674
 ---
 
 ## JustLogin HR E-Scheduling

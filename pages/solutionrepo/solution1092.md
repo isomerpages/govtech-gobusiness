@@ -1,6 +1,6 @@
 ---
 title: (A.I.) INFO-TECH Cloud HRMS Version 8.0
-permalink: 
+permalink: /productivity-solutions-grant/solution1092
 ---
 
 ## (AI) INFO-TECH Cloud HRMS Version 80

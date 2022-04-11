@@ -1,6 +1,6 @@
 ---
 title: Octopus Food Solution Version 7
-permalink: 
+permalink: /productivity-solutions-grant/solution667
 ---
 
 ## Octopus Food Solution Version 7

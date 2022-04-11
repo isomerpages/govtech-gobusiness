@@ -1,6 +1,6 @@
 ---
 title: Novade
-permalink: 
+permalink: /productivity-solutions-grant/solution1152
 ---
 
 ## Novade

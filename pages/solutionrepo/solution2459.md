@@ -1,6 +1,6 @@
 ---
 title: AIO CRM
-permalink: 
+permalink: /productivity-solutions-grant/solution2459
 ---
 
 ## AIO CRM

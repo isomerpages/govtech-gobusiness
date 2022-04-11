@@ -1,6 +1,6 @@
 ---
 title: Ellie Integrated System Version 2
-permalink: 
+permalink: /productivity-solutions-grant/solution829
 ---
 
 ## Ellie Integrated System Version 2

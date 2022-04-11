@@ -1,6 +1,6 @@
 ---
 title: SAP Business One SQL & HANA Version 9.3 PL6/10.0
-permalink: 
+permalink: /productivity-solutions-grant/solution613
 ---
 
 ## SAP Business One SQL HANA Version 93 PL6/100

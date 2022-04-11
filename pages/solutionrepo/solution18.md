@@ -1,6 +1,6 @@
 ---
 title: Automated Noodle Maker
-permalink: 
+permalink: /productivity-solutions-grant/solution18
 ---
 
 ## Automated Noodle Maker

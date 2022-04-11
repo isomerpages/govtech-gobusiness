@@ -1,6 +1,6 @@
 ---
 title: PayAdvisorMobile@HRM Version 3
-permalink: 
+permalink: /productivity-solutions-grant/solution259
 ---
 
 ## PayAdvisorMobile@HRM Version 3

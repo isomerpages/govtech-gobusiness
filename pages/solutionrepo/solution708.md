@@ -1,6 +1,6 @@
 ---
 title: PixelCommerce Version 5.2.5
-permalink: 
+permalink: /productivity-solutions-grant/solution708
 ---
 
 ## PixelCommerce Version 525

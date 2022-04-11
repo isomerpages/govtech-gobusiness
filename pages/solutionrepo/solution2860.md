@@ -1,6 +1,6 @@
 ---
 title: Robotic arms
-permalink: 
+permalink: /productivity-solutions-grant/solution2860
 ---
 
 ## Robotic arms

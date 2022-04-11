@@ -1,6 +1,6 @@
 ---
 title: Redoc Version 1.0
-permalink: 
+permalink: /productivity-solutions-grant/solution1817
 ---
 
 ## Redoc Version 10

@@ -1,6 +1,6 @@
 ---
 title: cuteOffice ERP for PCM Version 2.0
-permalink: 
+permalink: /productivity-solutions-grant/solution2328
 ---
 
 ## cuteOffice ERP for PCM Version 20

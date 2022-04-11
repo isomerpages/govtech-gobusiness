@@ -1,6 +1,6 @@
 ---
 title: WarelyEcom Version 1.3
-permalink: 
+permalink: /productivity-solutions-grant/solution2196
 ---
 
 ## WarelyEcom Version 13

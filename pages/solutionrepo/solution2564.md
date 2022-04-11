@@ -1,6 +1,6 @@
 ---
 title: Sugati Travel CRM Version 1.1037
-permalink: 
+permalink: /productivity-solutions-grant/solution2564
 ---
 
 ## Sugati Travel CRM Version 11037

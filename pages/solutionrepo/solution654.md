@@ -1,6 +1,6 @@
 ---
 title: RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE
-permalink: 
+permalink: /productivity-solutions-grant/solution654
 ---
 
 ## RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE

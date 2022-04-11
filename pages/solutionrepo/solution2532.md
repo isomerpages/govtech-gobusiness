@@ -1,6 +1,6 @@
 ---
 title: Aggregate Cloud Accounting Software (Xero)
-permalink: 
+permalink: /productivity-solutions-grant/solution2532
 ---
 
 ## Aggregate Cloud Accounting Software (Xero)

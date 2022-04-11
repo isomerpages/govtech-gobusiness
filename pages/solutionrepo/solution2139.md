@@ -1,6 +1,6 @@
 ---
 title: Hi-jack Cleaning Machinery
-permalink: 
+permalink: /productivity-solutions-grant/solution2139
 ---
 
 ## Hi-jack Cleaning Machinery

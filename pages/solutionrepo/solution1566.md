@@ -1,6 +1,6 @@
 ---
 title: iMakan
-permalink: 
+permalink: /productivity-solutions-grant/solution1566
 ---
 
 ## iMakan

@@ -1,6 +1,6 @@
 ---
 title: Vodich- Xero Cloud Accounting
-permalink: 
+permalink: /productivity-solutions-grant/solution1981
 ---
 
 ## Vodich- Xero Cloud Accounting

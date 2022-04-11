@@ -1,6 +1,6 @@
 ---
 title: Automated Vaccination
-permalink: 
+permalink: /productivity-solutions-grant/solution2114
 ---
 
 ## Automated Vaccination

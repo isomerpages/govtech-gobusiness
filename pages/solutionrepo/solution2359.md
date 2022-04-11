@@ -1,6 +1,6 @@
 ---
 title: Swipetask PRO
-permalink: 
+permalink: /productivity-solutions-grant/solution2359
 ---
 
 ## Swipetask PRO

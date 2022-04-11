@@ -1,6 +1,6 @@
 ---
 title: OdooCRM 
-permalink: 
+permalink: /productivity-solutions-grant/solution1079
 ---
 
 ## OdooCRM

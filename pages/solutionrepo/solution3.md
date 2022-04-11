@@ -1,6 +1,6 @@
 ---
 title: ABSS Premier - Accounting and Sales Management System Version 23
-permalink: 
+permalink: /productivity-solutions-grant/solution3
 ---
 
 ## ABSS Premier - Accounting and Sales Management System Version 23
