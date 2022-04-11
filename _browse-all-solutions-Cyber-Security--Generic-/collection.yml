@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - .md
-      - .md
+      - EndPoint-Protection-Platform.md
+      - Managed-Detection-and-Response.md
