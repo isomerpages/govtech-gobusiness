@@ -1,6 +1,6 @@
 ---
 title: Frontwave Cloud Version 8
-permalink: /productivity-solutions-grant/solution1176
+permalink: /productivity-solutions-grant/solutionrepo/solution1176
 ---
 
 ## Frontwave Cloud Version 8
@@ -41,3 +41,4 @@ Contact Email: info@frontwave.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

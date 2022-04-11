@@ -1,6 +1,6 @@
 ---
 title: E-Commerce Portal Development (WooCommerce)
-permalink: /productivity-solutions-grant/solution2102
+permalink: /productivity-solutions-grant/solutionrepo/solution2102
 ---
 
 ## E-Commerce Portal Development (WooCommerce)
@@ -42,3 +42,4 @@ Contact Email: admin@iprodezign.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

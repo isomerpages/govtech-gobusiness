@@ -1,6 +1,6 @@
 ---
 title: Ozonised Air + Surface Sterilization System
-permalink: /productivity-solutions-grant/solution82
+permalink: /productivity-solutions-grant/solutionrepo/solution82
 ---
 
 ## Ozonised Air + Surface Sterilization System
@@ -39,3 +39,4 @@ Cost of equipment capped at $10,000 per unit
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

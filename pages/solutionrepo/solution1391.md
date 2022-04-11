@@ -1,6 +1,6 @@
 ---
 title: 3D Omni Commerce Version 1.03
-permalink: /productivity-solutions-grant/solution1391
+permalink: /productivity-solutions-grant/solutionrepo/solution1391
 ---
 
 ## 3D Omni Commerce Version 103
@@ -39,3 +39,4 @@ Contact Hotline: 8881 2881
 Contact Email: hello@3dbrandagency.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

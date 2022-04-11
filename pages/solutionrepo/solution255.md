@@ -1,6 +1,6 @@
 ---
 title: CalendarOne CRM Solution Ver 2.0
-permalink: /productivity-solutions-grant/solution255
+permalink: /productivity-solutions-grant/solutionrepo/solution255
 ---
 
 ## CalendarOne CRM Solution Ver 20
@@ -41,3 +41,4 @@ Contact Email:francis@calendarone.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

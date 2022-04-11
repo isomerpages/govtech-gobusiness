@@ -1,6 +1,6 @@
 ---
 title: Beautec Version 3 centralized version
-permalink: /productivity-solutions-grant/solution226
+permalink: /productivity-solutions-grant/solutionrepo/solution226
 ---
 
 ## Beautec Version 3 centralized version
@@ -40,3 +40,4 @@ Contact Hotline: 67772703 ext 202
 Contact Email: sales@beau-tec.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

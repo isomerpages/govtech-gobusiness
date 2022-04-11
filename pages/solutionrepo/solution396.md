@@ -1,6 +1,6 @@
 ---
 title: Eurostop EPOS and E-retail Inventory Management Version 10
-permalink: /productivity-solutions-grant/solution396
+permalink: /productivity-solutions-grant/solutionrepo/solution396
 ---
 
 ## Eurostop EPOS and E-retail Inventory Management Version 10
@@ -40,3 +40,4 @@ Email: sgsales@eurostop.com
 Tel: +65 6561 1411
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

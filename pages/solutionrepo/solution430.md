@@ -1,6 +1,6 @@
 ---
 title: Getz F&B Integrated Instore and Online Transformation Version 2
-permalink: /productivity-solutions-grant/solution430
+permalink: /productivity-solutions-grant/solutionrepo/solution430
 ---
 
 ## Getz F&B Integrated Instore and Online Transformation Version 2
@@ -49,3 +49,4 @@ Contact Email:hello@getz.co
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

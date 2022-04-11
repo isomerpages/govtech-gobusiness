@@ -1,6 +1,6 @@
 ---
 title: Sage 300
-permalink: /productivity-solutions-grant/solution767
+permalink: /productivity-solutions-grant/solutionrepo/solution767
 ---
 
 ## Sage 300
@@ -40,3 +40,4 @@ Email: sales@segit.com.sg
 Tel: +65 6483 0950
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

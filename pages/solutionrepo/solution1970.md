@@ -1,6 +1,6 @@
 ---
 title: Microsoft Dynamics 365 Business Central
-permalink: /productivity-solutions-grant/solution1970
+permalink: /productivity-solutions-grant/solutionrepo/solution1970
 ---
 
 ## Microsoft Dynamics 365 Business Central
@@ -41,3 +41,4 @@ Contact Email: SALES@IBIZCS.COM
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

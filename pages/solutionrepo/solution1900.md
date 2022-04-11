@@ -1,6 +1,6 @@
 ---
 title: arc.lite and arc.ops - Process Configuration (arc.link Module)
-permalink: /productivity-solutions-grant/solution1900
+permalink: /productivity-solutions-grant/solutionrepo/solution1900
 ---
 
 ## arclite and arcops - Process Configuration (arclink Module)
@@ -40,3 +40,4 @@ Contact Email: contact@arcstone.co
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

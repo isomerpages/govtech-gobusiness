@@ -1,6 +1,6 @@
 ---
 title: ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23
-permalink: /productivity-solutions-grant/solution2248
+permalink: /productivity-solutions-grant/solutionrepo/solution2248
 ---
 
 ## ABSS(MYOB) Premier Accounting Management Inventory Management and Sales Management System Version 23
@@ -41,3 +41,4 @@ Contact Email:evelyn@e-clicksolutions.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

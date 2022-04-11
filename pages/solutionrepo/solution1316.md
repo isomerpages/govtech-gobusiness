@@ -1,6 +1,6 @@
 ---
 title: WFH Email Security with Cyber Essentials Online Course Package Version 1
-permalink: /productivity-solutions-grant/solution1316
+permalink: /productivity-solutions-grant/solutionrepo/solution1316
 ---
 
 ## WFH Email Security with Cyber Essentials Online Course Package Version 1
@@ -41,3 +41,4 @@ Contact Email: contact@nucleoconsulting.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

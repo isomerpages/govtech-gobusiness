@@ -1,6 +1,6 @@
 ---
 title: Fortigate UTP - 60F / Fortigate UTP - 100F
-permalink: /productivity-solutions-grant/solution1808
+permalink: /productivity-solutions-grant/solutionrepo/solution1808
 ---
 
 ## Fortigate UTP - 60F / Fortigate UTP - 100F
@@ -40,3 +40,4 @@ Contact Email: SALES@D-CONNECT.NET
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

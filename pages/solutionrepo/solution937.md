@@ -1,6 +1,6 @@
 ---
 title: KYBIO Version 3.0.9.3
-permalink: /productivity-solutions-grant/solution937
+permalink: /productivity-solutions-grant/solutionrepo/solution937
 ---
 
 ## KYBIO Version 3093
@@ -41,3 +41,4 @@ Contact Email: admin@weebo.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

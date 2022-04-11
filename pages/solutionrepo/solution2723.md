@@ -1,6 +1,6 @@
 ---
 title: BIZ FNB DIGITAL ORDERING
-permalink: /productivity-solutions-grant/solution2723
+permalink: /productivity-solutions-grant/solutionrepo/solution2723
 ---
 
 ## BIZ FNB DIGITAL ORDERING
@@ -40,3 +40,4 @@ Contact Email: admin@COOBIZIT.COM
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

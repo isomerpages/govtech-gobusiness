@@ -1,6 +1,6 @@
 ---
 title: Sugati Travel CRM Version 1.1037
-permalink: /productivity-solutions-grant/solution2564
+permalink: /productivity-solutions-grant/solutionrepo/solution2564
 ---
 
 ## Sugati Travel CRM Version 11037
@@ -40,3 +40,4 @@ Contact Email: hello@sugatitravel.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

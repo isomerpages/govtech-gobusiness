@@ -1,6 +1,6 @@
 ---
 title: Robotic arms
-permalink: /productivity-solutions-grant/solution2860
+permalink: /productivity-solutions-grant/solutionrepo/solution2860
 ---
 
 ## Robotic arms
@@ -42,3 +42,4 @@ Cost of equipment capped at $37,500 per unit
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

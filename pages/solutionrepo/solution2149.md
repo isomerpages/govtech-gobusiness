@@ -1,6 +1,6 @@
 ---
 title: Recirculating Aquaculture System
-permalink: /productivity-solutions-grant/solution2149
+permalink: /productivity-solutions-grant/solutionrepo/solution2149
 ---
 
 ## Recirculating Aquaculture System
@@ -37,3 +37,4 @@ A production system with reduced water exchange and use of biofiltration / envir
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

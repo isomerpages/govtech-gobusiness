@@ -1,6 +1,6 @@
 ---
 title: Conveyor System for transporting materials
-permalink: /productivity-solutions-grant/solution2125
+permalink: /productivity-solutions-grant/solutionrepo/solution2125
 ---
 
 ## Conveyor System for transporting materials
@@ -37,3 +37,4 @@ A conveyor system that automates farming processes such as production, feeding, 
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

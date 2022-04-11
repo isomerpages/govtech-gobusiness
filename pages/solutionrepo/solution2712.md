@@ -1,6 +1,6 @@
 ---
 title: Redoc - Document Management & Transaction Records Version 1.0
-permalink: /productivity-solutions-grant/solution2712
+permalink: /productivity-solutions-grant/solutionrepo/solution2712
 ---
 
 ## Redoc - Document Management Transaction Records Version 10
@@ -42,3 +42,4 @@ Contact Email: admin@realestatedoc.co
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

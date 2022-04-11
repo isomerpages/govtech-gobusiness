@@ -1,6 +1,6 @@
 ---
 title: WESS - Wellness Management Software Version 2.0
-permalink: /productivity-solutions-grant/solution742
+permalink: /productivity-solutions-grant/solutionrepo/solution742
 ---
 
 ## WESS - Wellness Management Software Version 20
@@ -41,3 +41,4 @@ Contact Email: contactus@wessconnect.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

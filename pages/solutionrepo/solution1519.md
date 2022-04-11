@@ -1,6 +1,6 @@
 ---
 title: Highnix ERP Plus 2 Version 4-3-30
-permalink: /productivity-solutions-grant/solution1519
+permalink: /productivity-solutions-grant/solutionrepo/solution1519
 ---
 
 ## Highnix ERP Plus 2 Version 4-3-30
@@ -41,3 +41,4 @@ Contact Email: sales@highnix.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

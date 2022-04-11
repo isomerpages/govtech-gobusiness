@@ -1,6 +1,6 @@
 ---
 title: ONE LOGON - ONE LOGistics Online
-permalink: /productivity-solutions-grant/solution546
+permalink: /productivity-solutions-grant/solutionrepo/solution546
 ---
 
 ## ONE LOGON - ONE LOGistics Online
@@ -41,3 +41,4 @@ Email: kenny@keyfields.com
 Tel: +65 6842 7886
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

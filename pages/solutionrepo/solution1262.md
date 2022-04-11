@@ -1,6 +1,6 @@
 ---
 title: Aptsys Customer Relation Management System (CRM/Loyalty Programme)
-permalink: /productivity-solutions-grant/solution1262
+permalink: /productivity-solutions-grant/solutionrepo/solution1262
 ---
 
 ## Aptsys Customer Relation Management System (CRM/Loyalty Programme)
@@ -41,3 +41,4 @@ Contact Email: sales.demo@aptsys.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

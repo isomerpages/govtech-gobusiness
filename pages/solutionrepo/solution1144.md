@@ -1,6 +1,6 @@
 ---
 title: Laser Geometric Alignment System
-permalink: /productivity-solutions-grant/solution1144
+permalink: /productivity-solutions-grant/solutionrepo/solution1144
 ---
 
 ## Laser Geometric Alignment System
@@ -39,3 +39,4 @@ Cost of equipment capped at $37,500 per unit
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,6 +1,6 @@
 ---
 title: Climate & Environment Monitoring Control Equipment/ System
-permalink: /productivity-solutions-grant/solution2160
+permalink: /productivity-solutions-grant/solutionrepo/solution2160
 ---
 
 ## Climate Environment Monitoring Control Equipment/ System
@@ -37,3 +37,4 @@ Climate control system (smart roof ventilator/ vents, smart misting, sustainable
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

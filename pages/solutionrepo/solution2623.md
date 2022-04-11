@@ -1,6 +1,6 @@
 ---
 title: RealtyPromote - Document Management & Transaction Records Version 3.2TM
-permalink: /productivity-solutions-grant/solution2623
+permalink: /productivity-solutions-grant/solutionrepo/solution2623
 ---
 
 ## RealtyPromote - Document Management Transaction Records Version 32TM
@@ -40,3 +40,4 @@ Contact Email: cpsales@commercepromote.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

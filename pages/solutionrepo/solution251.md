@@ -1,6 +1,6 @@
 ---
 title: BonaForce
-permalink: /productivity-solutions-grant/solution251
+permalink: /productivity-solutions-grant/solutionrepo/solution251
 ---
 
 ## BonaForce
@@ -45,3 +45,4 @@ Contact Email: it@bona.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

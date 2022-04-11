@@ -1,6 +1,6 @@
 ---
 title: Vehicle Support System
-permalink: /productivity-solutions-grant/solution1307
+permalink: /productivity-solutions-grant/solutionrepo/solution1307
 ---
 
 ## Vehicle Support System
@@ -41,3 +41,4 @@ Contact Email: enquiry@gridplus.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

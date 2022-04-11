@@ -1,6 +1,6 @@
 ---
 title: Automated Rice Washer
-permalink: /productivity-solutions-grant/solution20
+permalink: /productivity-solutions-grant/solutionrepo/solution20
 ---
 
 ## Automated Rice Washer
@@ -41,3 +41,4 @@ Cost of equipment capped at $20,000 per unit
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

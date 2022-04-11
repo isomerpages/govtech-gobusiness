@@ -1,6 +1,6 @@
 ---
 title: DST Inventory System Version 1.3
-permalink: /productivity-solutions-grant/solution2275
+permalink: /productivity-solutions-grant/solutionrepo/solution2275
 ---
 
 ## DST Inventory System Version 13
@@ -40,3 +40,4 @@ Contact Hotline: 8668 5292
 Contact Email: Sales@dstadvertising.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

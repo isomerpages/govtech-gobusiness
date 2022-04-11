@@ -1,6 +1,6 @@
 ---
 title: RetailNext In-Store Analytics Version 1
-permalink: /productivity-solutions-grant/solution1674
+permalink: /productivity-solutions-grant/solutionrepo/solution1674
 ---
 
 ## RetailNext In-Store Analytics Version 1
@@ -40,3 +40,4 @@ Contact Email: transform@retaildds.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

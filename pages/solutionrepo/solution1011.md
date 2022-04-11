@@ -1,6 +1,6 @@
 ---
 title: Quickbooks Online - QuickBooks Online Accounting Solution 
-permalink: /productivity-solutions-grant/solution1011
+permalink: /productivity-solutions-grant/solutionrepo/solution1011
 ---
 
 ## Quickbooks Online - QuickBooks Online Accounting Solution
@@ -41,3 +41,4 @@ Contact Email: sales@aba.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

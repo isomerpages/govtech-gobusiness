@@ -1,6 +1,6 @@
 ---
 title: Frontier e-HR Version 8
-permalink: /productivity-solutions-grant/solution405
+permalink: /productivity-solutions-grant/solutionrepo/solution405
 ---
 
 ## Frontier e-HR Version 8
@@ -41,3 +41,4 @@ Email: enquiry@frontier-ehr.com
 Tel: +65 6391 0921
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

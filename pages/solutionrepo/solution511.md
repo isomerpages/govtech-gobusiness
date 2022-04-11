@@ -1,6 +1,6 @@
 ---
 title: NinjaOS
-permalink: /productivity-solutions-grant/solution511
+permalink: /productivity-solutions-grant/solutionrepo/solution511
 ---
 
 ## NinjaOS
@@ -40,3 +40,4 @@ Email: sales@ninjaos.com
 Tel: +65 9001 3157
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

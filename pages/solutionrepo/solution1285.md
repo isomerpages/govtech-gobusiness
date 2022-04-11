@@ -1,6 +1,6 @@
 ---
 title: Venue management software Version 2.0 - Regular
-permalink: /productivity-solutions-grant/solution1285
+permalink: /productivity-solutions-grant/solutionrepo/solution1285
 ---
 
 ## Venue management software Version 20 - Regular
@@ -40,3 +40,4 @@ Contact Hotline: 84489750
 Contact Email: support.sg@venuerific.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,6 +1,6 @@
 ---
 title: Really Platform for PMs and FMs Version 2.4
-permalink: /productivity-solutions-grant/solution2296
+permalink: /productivity-solutions-grant/solutionrepo/solution2296
 ---
 
 ## Really Platform for PMs and FMs Version 24
@@ -40,3 +40,4 @@ Contact Email: info@really.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

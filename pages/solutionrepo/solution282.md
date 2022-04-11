@@ -1,6 +1,6 @@
 ---
 title: MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS)
-permalink: /productivity-solutions-grant/solution282
+permalink: /productivity-solutions-grant/solutionrepo/solution282
 ---
 
 ## MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS)
@@ -41,3 +41,4 @@ Contact Email: ABCDservice@lumen.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

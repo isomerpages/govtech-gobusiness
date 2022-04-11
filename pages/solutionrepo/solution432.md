@@ -1,6 +1,6 @@
 ---
 title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2
-permalink: /productivity-solutions-grant/solution432
+permalink: /productivity-solutions-grant/solutionrepo/solution432
 ---
 
 ## Getz F&B Contactless Dine-in Pickup and Islandwide Delivery Transformation Version 2
@@ -42,3 +42,4 @@ Contact Hotline: +WhatsApp: +65 8540 6590
 Contact Email: hello@getz.co
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

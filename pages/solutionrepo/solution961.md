@@ -1,6 +1,6 @@
 ---
 title: Microsoft Dynamics 365 Business Central for Wholesale
-permalink: /productivity-solutions-grant/solution961
+permalink: /productivity-solutions-grant/solutionrepo/solution961
 ---
 
 ## Microsoft Dynamics 365 Business Central for Wholesale
@@ -40,3 +40,4 @@ Email: jkulkarni@winspiresolutions.com
 Tel: +65 9835 7900 (mobile) / +65 6744 0324
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

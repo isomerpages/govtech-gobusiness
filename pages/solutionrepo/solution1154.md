@@ -1,6 +1,6 @@
 ---
 title: Novade
-permalink: /productivity-solutions-grant/solution1154
+permalink: /productivity-solutions-grant/solutionrepo/solution1154
 ---
 
 ## Novade
@@ -41,3 +41,4 @@ Contact Email: marketing@csglobal-group.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

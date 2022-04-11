@@ -1,6 +1,6 @@
 ---
 title: Globe3 ERP V5.6
-permalink: /productivity-solutions-grant/solution1239
+permalink: /productivity-solutions-grant/solutionrepo/solution1239
 ---
 
 ## Globe3 ERP V56
@@ -41,3 +41,4 @@ Contact Email: sales@globe3.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

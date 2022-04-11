@@ -1,6 +1,6 @@
 ---
 title: Dropbox Business
-permalink: /productivity-solutions-grant/solution998
+permalink: /productivity-solutions-grant/solutionrepo/solution998
 ---
 
 ## Dropbox Business
@@ -41,3 +41,4 @@ Contact Email: wilson@webimp.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

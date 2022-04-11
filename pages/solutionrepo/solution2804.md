@@ -1,6 +1,6 @@
 ---
 title: DM Cleverly Digital Marketing Packages
-permalink: /productivity-solutions-grant/solution2804
+permalink: /productivity-solutions-grant/solutionrepo/solution2804
 ---
 
 ## DM Cleverly Digital Marketing Packages
@@ -40,3 +40,4 @@ Contact Email: ernest@cleverly.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

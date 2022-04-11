@@ -1,6 +1,6 @@
 ---
 title: InfoMaster ERP Software - Asset Monitoring and Management
-permalink: /productivity-solutions-grant/solution2724
+permalink: /productivity-solutions-grant/solutionrepo/solution2724
 ---
 
 ## InfoMaster ERP Software - Asset Monitoring and Management
@@ -40,3 +40,4 @@ Contact Email: sales@ise.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

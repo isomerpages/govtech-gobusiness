@@ -1,6 +1,6 @@
 ---
 title: MIBC Ecommerce
-permalink: /productivity-solutions-grant/solution2543
+permalink: /productivity-solutions-grant/solutionrepo/solution2543
 ---
 
 ## MIBC Ecommerce
@@ -41,3 +41,4 @@ Contact Email: support@mibc.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

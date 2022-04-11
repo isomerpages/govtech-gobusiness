@@ -1,6 +1,6 @@
 ---
 title: SAP Business One, version for HANA Version 10
-permalink: /productivity-solutions-grant/solution475
+permalink: /productivity-solutions-grant/solutionrepo/solution475
 ---
 
 ## SAP Business One version for HANA Version 10
@@ -40,3 +40,4 @@ Email: enquiries@inecomworld.com
 Tel:+65 6225 9255
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

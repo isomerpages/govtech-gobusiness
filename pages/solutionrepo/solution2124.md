@@ -1,6 +1,6 @@
 ---
 title: Closed Containment System
-permalink: /productivity-solutions-grant/solution2124
+permalink: /productivity-solutions-grant/solutionrepo/solution2124
 ---
 
 ## Closed Containment System
@@ -37,3 +37,4 @@ To cultivate produce in a controlled environment that isolates and protects them
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

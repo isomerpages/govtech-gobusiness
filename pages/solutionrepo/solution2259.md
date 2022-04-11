@@ -1,6 +1,6 @@
 ---
 title: AdeptForms - Document Management Solution Version 1
-permalink: /productivity-solutions-grant/solution2259
+permalink: /productivity-solutions-grant/solutionrepo/solution2259
 ---
 
 ## AdeptForms - Document Management Solution Version 1
@@ -40,3 +40,4 @@ Contact Email: contact@adeptforms.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

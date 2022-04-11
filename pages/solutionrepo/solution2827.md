@@ -1,6 +1,6 @@
 ---
 title: ABSS Premier Version 23
-permalink: /productivity-solutions-grant/solution2827
+permalink: /productivity-solutions-grant/solutionrepo/solution2827
 ---
 
 ## ABSS Premier Version 23
@@ -40,3 +40,4 @@ Contact Email: consultants@andre.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

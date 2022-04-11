@@ -1,6 +1,6 @@
 ---
 title: Adventus Managed Firewall - Fortinet 
-permalink: /productivity-solutions-grant/solution1798
+permalink: /productivity-solutions-grant/solutionrepo/solution1798
 ---
 
 ## Adventus Managed Firewall - Fortinet
@@ -41,3 +41,4 @@ Contact Email: info@adventus.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,6 +1,6 @@
 ---
 title: MMS - Xero Accounting Solution
-permalink: /productivity-solutions-grant/solution2609
+permalink: /productivity-solutions-grant/solutionrepo/solution2609
 ---
 
 ## MMS - Xero Accounting Solution
@@ -40,3 +40,4 @@ Contact Email: ACCOUNTS@METROCORP.COM.SG
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

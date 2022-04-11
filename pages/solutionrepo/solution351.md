@@ -1,6 +1,6 @@
 ---
 title: Deskera People Version 10.0
-permalink: /productivity-solutions-grant/solution351
+permalink: /productivity-solutions-grant/solutionrepo/solution351
 ---
 
 ## Deskera People Version 100
@@ -40,3 +40,4 @@ Contact Hotline: (+65) 62021350
 Contact Email: hello@deskera.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,6 +1,6 @@
 ---
 title: Carbonate HR Version 1.0 
-permalink: /productivity-solutions-grant/solution280
+permalink: /productivity-solutions-grant/solutionrepo/solution280
 ---
 
 ## Carbonate HR Version 10
@@ -40,3 +40,4 @@ Email: info@carbonateapp.com
 Tel: +65 6797 6787
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

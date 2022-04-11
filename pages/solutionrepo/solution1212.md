@@ -1,6 +1,6 @@
 ---
 title: BIMAGE - Autodesk AEC Collection
-permalink: /productivity-solutions-grant/solution1212
+permalink: /productivity-solutions-grant/solutionrepo/solution1212
 ---
 
 ## BIMAGE - Autodesk AEC Collection
@@ -41,3 +41,4 @@ Contact Email: enquiry@bimageconsulting.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

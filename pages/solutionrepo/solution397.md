@@ -1,6 +1,6 @@
 ---
 title: FacilityBot
-permalink: /productivity-solutions-grant/solution397
+permalink: /productivity-solutions-grant/solutionrepo/solution397
 ---
 
 ## FacilityBot
@@ -41,3 +41,4 @@ Email: sales@facilitybot.co
 Tel: +65 9748 0484
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

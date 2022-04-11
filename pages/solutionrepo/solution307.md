@@ -1,6 +1,6 @@
 ---
 title: Corsiva Lab - E-Commerce Website Development Version 1.0 
-permalink: /productivity-solutions-grant/solution307
+permalink: /productivity-solutions-grant/solutionrepo/solution307
 ---
 
 ## Corsiva Lab - E-Commerce Website Development Version 10
@@ -41,3 +41,4 @@ Contact Email: contact@corsivalab.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

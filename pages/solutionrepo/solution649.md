@@ -1,6 +1,6 @@
 ---
 title: NMTODOO - ERP
-permalink: /productivity-solutions-grant/solution649
+permalink: /productivity-solutions-grant/solutionrepo/solution649
 ---
 
 ## NMTODOO - ERP
@@ -41,3 +41,4 @@ Email: info@neumediatechnology.com
 Tel: +65 6701 8203
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

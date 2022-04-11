@@ -1,6 +1,6 @@
 ---
 title: QuickBooks Online
-permalink: /productivity-solutions-grant/solution2235
+permalink: /productivity-solutions-grant/solutionrepo/solution2235
 ---
 
 ## QuickBooks Online
@@ -40,3 +40,4 @@ Contact Email: matthew@tischglobal.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

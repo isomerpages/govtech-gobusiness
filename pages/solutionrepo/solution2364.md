@@ -1,6 +1,6 @@
 ---
 title: HReasily Online Payroll Version 5
-permalink: /productivity-solutions-grant/solution2364
+permalink: /productivity-solutions-grant/solutionrepo/solution2364
 ---
 
 ## HReasily Online Payroll Version 5
@@ -40,3 +40,4 @@ Contact Email: enquiry@361dc.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

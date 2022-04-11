@@ -1,6 +1,6 @@
 ---
 title: KNOW Version 5
-permalink: /productivity-solutions-grant/solution2080
+permalink: /productivity-solutions-grant/solutionrepo/solution2080
 ---
 
 ## KNOW Version 5
@@ -40,3 +40,4 @@ Email: hello@getknowapp.com
 Tel: +65 9137 1392
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

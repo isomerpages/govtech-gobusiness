@@ -1,6 +1,6 @@
 ---
 title: I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS)
-permalink: /productivity-solutions-grant/solution1985
+permalink: /productivity-solutions-grant/solutionrepo/solution1985
 ---
 
 ## I-Man Facility Sprinter (IFS) Integrated Guarding Services Solution (IGSS)
@@ -42,3 +42,4 @@ Contact Email: alan.chua@concorde.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

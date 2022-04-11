@@ -1,6 +1,6 @@
 ---
 title: Underwater Camera 
-permalink: /productivity-solutions-grant/solution2168
+permalink: /productivity-solutions-grant/solutionrepo/solution2168
 ---
 
 ## Underwater Camera
@@ -37,3 +37,4 @@ Underwater cameras to have closer monitoring of the livestock activity in water 
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,6 +1,6 @@
 ---
 title: Pest/ Disease Monitoring and Control Equipment/ System
-permalink: /productivity-solutions-grant/solution2159
+permalink: /productivity-solutions-grant/solutionrepo/solution2159
 ---
 
 ## Pest/ Disease Monitoring and Control Equipment/ System
@@ -37,3 +37,4 @@ A device for pest or disease monitoring (e.g. software & field diagnostic device
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

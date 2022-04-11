@@ -1,6 +1,6 @@
 ---
 title: LFSuite Version 6.0
-permalink: /productivity-solutions-grant/solution1141
+permalink: /productivity-solutions-grant/solutionrepo/solution1141
 ---
 
 ## LFSuite Version 60
@@ -41,3 +41,4 @@ Contact Email: SHAWN@LFSOLUTIONS.NET
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,6 +1,6 @@
 ---
 title: Shell Telematics
-permalink: /productivity-solutions-grant/solution773
+permalink: /productivity-solutions-grant/solutionrepo/solution773
 ---
 
 ## Shell Telematics
@@ -41,3 +41,4 @@ Contact Email: generalcardrequests-sg@shell.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

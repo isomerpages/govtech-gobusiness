@@ -1,6 +1,6 @@
 ---
 title: WarelyEcom Version 1.3
-permalink: /productivity-solutions-grant/solution2195
+permalink: /productivity-solutions-grant/solutionrepo/solution2195
 ---
 
 ## WarelyEcom Version 13
@@ -40,3 +40,4 @@ Contact Email: Business@warelycorp.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

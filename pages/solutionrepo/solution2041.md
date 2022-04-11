@@ -1,6 +1,6 @@
 ---
 title: EQUIP Version 10
-permalink: /productivity-solutions-grant/solution2041
+permalink: /productivity-solutions-grant/solutionrepo/solution2041
 ---
 
 ## EQUIP Version 10
@@ -43,3 +43,4 @@ Contact Email: enquiries@hashmicro.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

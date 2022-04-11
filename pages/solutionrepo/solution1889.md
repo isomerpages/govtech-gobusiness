@@ -1,6 +1,6 @@
 ---
 title: arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection
-permalink: /productivity-solutions-grant/solution1889
+permalink: /productivity-solutions-grant/solutionrepo/solution1889
 ---
 
 ## arclite and arcops - Equipment Monitoring and Manufacturing Data Collection
@@ -40,3 +40,4 @@ Contact Email: contact@arcstone.co
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

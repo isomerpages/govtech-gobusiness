@@ -1,6 +1,6 @@
 ---
 title: WhyzeHR eScheduling
-permalink: /productivity-solutions-grant/solution2370
+permalink: /productivity-solutions-grant/solutionrepo/solution2370
 ---
 
 ## WhyzeHR eScheduling
@@ -40,3 +40,4 @@ Contact Email: enquiry@whyze.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

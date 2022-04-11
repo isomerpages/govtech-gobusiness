@@ -1,6 +1,6 @@
 ---
 title: Steel Plate Butt Joint Welding Alignment Tool
-permalink: /productivity-solutions-grant/solution128
+permalink: /productivity-solutions-grant/solutionrepo/solution128
 ---
 
 ## Steel Plate Butt Joint Welding Alignment Tool
@@ -39,3 +39,4 @@ Cost of equipment capped at $12,500 per unit
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

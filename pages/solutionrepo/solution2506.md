@@ -1,6 +1,6 @@
 ---
 title: ABSS Premier Version 23
-permalink: /productivity-solutions-grant/solution2506
+permalink: /productivity-solutions-grant/solutionrepo/solution2506
 ---
 
 ## ABSS Premier Version 23
@@ -41,3 +41,4 @@ Contact Email: info@dandelion.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

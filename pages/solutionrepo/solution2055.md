@@ -1,6 +1,6 @@
 ---
 title: FleetManager Version 5.0
-permalink: /productivity-solutions-grant/solution2055
+permalink: /productivity-solutions-grant/solutionrepo/solution2055
 ---
 
 ## FleetManager Version 50
@@ -40,3 +40,4 @@ Contact Email: support@logisfleet.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

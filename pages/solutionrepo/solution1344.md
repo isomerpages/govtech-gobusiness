@@ -1,6 +1,6 @@
 ---
 title: Trueblu CRM Version 3.2
-permalink: /productivity-solutions-grant/solution1344
+permalink: /productivity-solutions-grant/solutionrepo/solution1344
 ---
 
 ## Trueblu CRM Version 32
@@ -41,3 +41,4 @@ Contact Email: joel@activeinteractions.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

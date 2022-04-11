@@ -1,6 +1,6 @@
 ---
 title: Aeration System/ Oxygenation System
-permalink: /productivity-solutions-grant/solution2111
+permalink: /productivity-solutions-grant/solutionrepo/solution2111
 ---
 
 ## Aeration System/ Oxygenation System
@@ -37,3 +37,4 @@ For better water quality management by evenly distribute compressed air/ oxygen 
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,6 +1,6 @@
 ---
 title: SAP Business One Version Cloud
-permalink: /productivity-solutions-grant/solution122
+permalink: /productivity-solutions-grant/solutionrepo/solution122
 ---
 
 ## SAP Business One Version Cloud
@@ -41,3 +41,4 @@ Contact Email: sales@afon.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

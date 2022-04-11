@@ -1,6 +1,6 @@
 ---
 title: Kaspersky Endpoint Security Version 11.6.0
-permalink: /productivity-solutions-grant/solution2491
+permalink: /productivity-solutions-grant/solutionrepo/solution2491
 ---
 
 ## Kaspersky Endpoint Security Version 1160
@@ -41,3 +41,4 @@ Contact Email: info@techfount.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

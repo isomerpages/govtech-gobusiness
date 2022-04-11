@@ -1,6 +1,6 @@
 ---
 title: Pelleting Machine
-permalink: /productivity-solutions-grant/solution2148
+permalink: /productivity-solutions-grant/solutionrepo/solution2148
 ---
 
 ## Pelleting Machine
@@ -37,3 +37,4 @@ Animal feed pellet machine also known as feed pelletizer machine; it allows you 
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,6 +1,6 @@
 ---
 title: Cartrack Fleet Management Version 2
-permalink: /productivity-solutions-grant/solution1299
+permalink: /productivity-solutions-grant/solutionrepo/solution1299
 ---
 
 ## Cartrack Fleet Management Version 2
@@ -41,3 +41,4 @@ Contact Email: info@cartrack.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

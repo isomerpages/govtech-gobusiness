@@ -1,6 +1,6 @@
 ---
 title: ABSS Premier - Accounting and Sales Management System Version 23
-permalink: /productivity-solutions-grant/solution4
+permalink: /productivity-solutions-grant/solutionrepo/solution4
 ---
 
 ## ABSS Premier - Accounting and Sales Management System Version 23
@@ -41,3 +41,4 @@ Email: sales@01businesssolutions.com
 Tel: +65 6220 3306
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

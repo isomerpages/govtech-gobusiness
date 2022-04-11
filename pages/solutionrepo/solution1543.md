@@ -1,6 +1,6 @@
 ---
 title: Microsoft Dynamics 365 Business Central
-permalink: /productivity-solutions-grant/solution1543
+permalink: /productivity-solutions-grant/solutionrepo/solution1543
 ---
 
 ## Microsoft Dynamics 365 Business Central
@@ -40,3 +40,4 @@ Contact Hotline: 67440324
 Contact Email: jkulkarni@winspiresolutions.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

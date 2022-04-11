@@ -1,6 +1,6 @@
 ---
 title: PixelCommerce Version 5.2.5
-permalink: /productivity-solutions-grant/solution708
+permalink: /productivity-solutions-grant/solutionrepo/solution708
 ---
 
 ## PixelCommerce Version 525
@@ -41,3 +41,4 @@ Contact Email: info@pixelmechanics.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

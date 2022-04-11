@@ -1,6 +1,6 @@
 ---
 title: Multi-tier Cultivation System
-permalink: /productivity-solutions-grant/solution2145
+permalink: /productivity-solutions-grant/solutionrepo/solution2145
 ---
 
 ## Multi-tier Cultivation System
@@ -37,3 +37,4 @@ Multi-tier growing system with racks, irrigation and dosing system, LED grow lig
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

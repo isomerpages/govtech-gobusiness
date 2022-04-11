@@ -1,6 +1,6 @@
 ---
 title: Fortinet Fortigate (Next Generation Firewall)
-permalink: /productivity-solutions-grant/solution1909
+permalink: /productivity-solutions-grant/solutionrepo/solution1909
 ---
 
 ## Fortinet Fortigate (Next Generation Firewall)
@@ -40,3 +40,4 @@ Contact Email: SALES@AWECREATION.COM
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

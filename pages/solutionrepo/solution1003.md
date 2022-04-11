@@ -1,6 +1,6 @@
 ---
 title: Stendard Solution  Version 1.6.1
-permalink: /productivity-solutions-grant/solution1003
+permalink: /productivity-solutions-grant/solutionrepo/solution1003
 ---
 
 ## Stendard Solution  Version 161
@@ -41,3 +41,4 @@ Contact Email: contact@stendard.io
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

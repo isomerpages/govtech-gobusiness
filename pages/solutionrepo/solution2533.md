@@ -1,6 +1,6 @@
 ---
 title: Aggregate Cloud Accounting Software (Xero)
-permalink: /productivity-solutions-grant/solution2533
+permalink: /productivity-solutions-grant/solutionrepo/solution2533
 ---
 
 ## Aggregate Cloud Accounting Software (Xero)
@@ -40,3 +40,4 @@ Contact Email: sales@incorporateyour.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

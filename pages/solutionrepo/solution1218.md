@@ -1,6 +1,6 @@
 ---
 title: INNOCOM - AUTODESK AEC COLLECTION
-permalink: /productivity-solutions-grant/solution1218
+permalink: /productivity-solutions-grant/solutionrepo/solution1218
 ---
 
 ## INNOCOM - AUTODESK AEC COLLECTION
@@ -41,3 +41,4 @@ Contact Email: sales@innocom.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,6 +1,6 @@
 ---
 title: Go EBOS - SMECEN Dashbod Accounting Version 1.35.4
-permalink: /productivity-solutions-grant/solution2843
+permalink: /productivity-solutions-grant/solutionrepo/solution2843
 ---
 
 ## Go EBOS - SMECEN Dashbod Accounting Version 1354
@@ -40,3 +40,4 @@ Contact Email: ask@ebos-sg.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

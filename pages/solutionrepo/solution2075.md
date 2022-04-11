@@ -1,6 +1,6 @@
 ---
 title: Accounts101 - Xero Cloud Accounting Software
-permalink: /productivity-solutions-grant/solution2075
+permalink: /productivity-solutions-grant/solutionrepo/solution2075
 ---
 
 ## Accounts101 - Xero Cloud Accounting Software
@@ -40,3 +40,4 @@ Contact Hotline: 91782021
 Contact Email: Ernest@accounts101.com.sg / Sherman@accounts101.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

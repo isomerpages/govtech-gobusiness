@@ -1,6 +1,6 @@
 ---
 title: Automated Counter/ Biomass Estimation System
-permalink: /productivity-solutions-grant/solution2112
+permalink: /productivity-solutions-grant/solutionrepo/solution2112
 ---
 
 ## Automated Counter/ Biomass Estimation System
@@ -37,3 +37,4 @@ Automatic devices for measuring or estimating the number of produce in a period.
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,6 +1,6 @@
 ---
 title: KPMG Regulatory Integrated Solution Version 1.0
-permalink: /productivity-solutions-grant/solution1478
+permalink: /productivity-solutions-grant/solutionrepo/solution1478
 ---
 
 ## KPMG Regulatory Integrated Solution Version 10
@@ -41,3 +41,4 @@ Contact Email: grace_tan@kpmg.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

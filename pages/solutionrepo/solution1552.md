@@ -1,6 +1,6 @@
 ---
 title: IVMS (Intelligent Vehicle Monitoring System) Version 7
-permalink: /productivity-solutions-grant/solution1552
+permalink: /productivity-solutions-grant/solutionrepo/solution1552
 ---
 
 ## IVMS (Intelligent Vehicle Monitoring System) Version 7
@@ -43,3 +43,4 @@ Contact Email: ask@smartcomm.biz
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

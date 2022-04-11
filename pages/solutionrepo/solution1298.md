@@ -1,6 +1,6 @@
 ---
 title: ACE e-commerce solution
-permalink: /productivity-solutions-grant/solution1298
+permalink: /productivity-solutions-grant/solutionrepo/solution1298
 ---
 
 ## ACE e-commerce solution
@@ -41,3 +41,4 @@ Contact Email: marketing@co-enterprise.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

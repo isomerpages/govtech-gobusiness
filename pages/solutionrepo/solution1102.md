@@ -1,6 +1,6 @@
 ---
 title: Dynamics 365 Business Central with E-invoicing Version 15 
-permalink: /productivity-solutions-grant/solution1102
+permalink: /productivity-solutions-grant/solutionrepo/solution1102
 ---
 
 ## Dynamics 365 Business Central with E-invoicing Version 15
@@ -43,3 +43,4 @@ Contact Email: businesscentralgodigital@microlabs.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

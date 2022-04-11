@@ -1,6 +1,6 @@
 ---
 title: Autocount Accounting Version 2.0
-permalink: /productivity-solutions-grant/solution2694
+permalink: /productivity-solutions-grant/solutionrepo/solution2694
 ---
 
 ## Autocount Accounting Version 20
@@ -41,3 +41,4 @@ Contact Email: enquiry@creaworld.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

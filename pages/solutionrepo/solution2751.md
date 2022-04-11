@@ -1,6 +1,6 @@
 ---
 title: ePSProfessional Version 1.7
-permalink: /productivity-solutions-grant/solution2751
+permalink: /productivity-solutions-grant/solutionrepo/solution2751
 ---
 
 ## ePSProfessional Version 17
@@ -40,3 +40,4 @@ Contact Email: contact@efusiontech.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

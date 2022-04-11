@@ -1,6 +1,6 @@
 ---
 title: E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM
-permalink: /productivity-solutions-grant/solution2551
+permalink: /productivity-solutions-grant/solutionrepo/solution2551
 ---
 
 ## E-COMMERCE MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM
@@ -40,3 +40,4 @@ Contact Email: jiya@sunpro.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

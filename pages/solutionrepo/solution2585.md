@@ -1,6 +1,6 @@
 ---
 title: Xero by Book&Entries
-permalink: /productivity-solutions-grant/solution2585
+permalink: /productivity-solutions-grant/solutionrepo/solution2585
 ---
 
 ## Xero by Book&Entries
@@ -40,3 +40,4 @@ Contact Email: support@bookentries.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

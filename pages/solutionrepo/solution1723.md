@@ -1,6 +1,6 @@
 ---
 title: BOTG Version 1.0
-permalink: /productivity-solutions-grant/solution1723
+permalink: /productivity-solutions-grant/solutionrepo/solution1723
 ---
 
 ## BOTG Version 10
@@ -41,3 +41,4 @@ Contact Email: info@botg.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

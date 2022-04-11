@@ -1,6 +1,6 @@
 ---
 title: Microsoft Dynamics 365 Business Central Version SAAS
-permalink: /productivity-solutions-grant/solution1397
+permalink: /productivity-solutions-grant/solutionrepo/solution1397
 ---
 
 ## Microsoft Dynamics 365 Business Central Version SAAS
@@ -40,3 +40,4 @@ Contact Email: sales@9itgroup.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

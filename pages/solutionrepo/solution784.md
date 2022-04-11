@@ -1,6 +1,6 @@
 ---
 title: Ezyprocure Version 2.0
-permalink: /productivity-solutions-grant/solution784
+permalink: /productivity-solutions-grant/solutionrepo/solution784
 ---
 
 ## Ezyprocure Version 20
@@ -40,3 +40,4 @@ Email: info@sgebiz.com
 Tel: +65 6200 8021
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

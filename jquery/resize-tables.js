@@ -38,7 +38,11 @@ const customTables = [
   {
     path: "/licences/renew-amend-licence/",
     columns: ["68%", "32%"]
-  }
+  },
+  {
+    path: "/productivity-solutions-grant/solutionrepo/",
+    columns: ["10%", "auto", "22%", "22%", "22%"]
+  },
 ];
 
 $(document).ready(function () {

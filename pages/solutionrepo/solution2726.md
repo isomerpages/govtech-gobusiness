@@ -1,6 +1,6 @@
 ---
 title: OOM_Ecommerce_Solution
-permalink: /productivity-solutions-grant/solution2726
+permalink: /productivity-solutions-grant/solutionrepo/solution2726
 ---
 
 ## OOM_Ecommerce_Solution
@@ -40,3 +40,4 @@ Contact Email: support@oom.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

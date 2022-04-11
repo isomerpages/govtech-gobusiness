@@ -1,6 +1,6 @@
 ---
 title: Autocount Accounting Software Version 2.0
-permalink: /productivity-solutions-grant/solution1356
+permalink: /productivity-solutions-grant/solutionrepo/solution1356
 ---
 
 ## Autocount Accounting Software Version 20
@@ -41,3 +41,4 @@ Contact Email: isoft.bs@gmail.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

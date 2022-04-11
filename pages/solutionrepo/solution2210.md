@@ -1,6 +1,6 @@
 ---
 title: FITPRISE Job Inspection System
-permalink: /productivity-solutions-grant/solution2210
+permalink: /productivity-solutions-grant/solutionrepo/solution2210
 ---
 
 ## FITPRISE Job Inspection System
@@ -40,3 +40,4 @@ Contact Email: enquiries@enhanzcom.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

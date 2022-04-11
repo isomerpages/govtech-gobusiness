@@ -1,6 +1,6 @@
 ---
 title: VRcollab LITE
-permalink: /productivity-solutions-grant/solution1221
+permalink: /productivity-solutions-grant/solutionrepo/solution1221
 ---
 
 ## VRcollab LITE
@@ -41,3 +41,4 @@ Contact Email: INFO@VRCOLLAB.COM
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

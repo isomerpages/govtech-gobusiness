@@ -1,6 +1,6 @@
 ---
 title: PayAdvisorMobile@HRM Version 3
-permalink: /productivity-solutions-grant/solution262
+permalink: /productivity-solutions-grant/solutionrepo/solution262
 ---
 
 ## PayAdvisorMobile@HRM Version 3
@@ -41,3 +41,4 @@ Email: contact@capps.com.sg
 Tel: +65 6509 0309
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

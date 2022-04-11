@@ -1,6 +1,6 @@
 ---
 title: iCHEF Integrated Digital Ordering POS Version V 2.0
-permalink: /productivity-solutions-grant/solution994
+permalink: /productivity-solutions-grant/solutionrepo/solution994
 ---
 
 ## iCHEF Integrated Digital Ordering POS Version V 20
@@ -41,3 +41,4 @@ Contact Email: Jay@ichefpos.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

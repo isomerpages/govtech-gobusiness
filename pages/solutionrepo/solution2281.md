@@ -1,6 +1,6 @@
 ---
 title: Pepper Cloud CRM Version 14.0
-permalink: /productivity-solutions-grant/solution2281
+permalink: /productivity-solutions-grant/solutionrepo/solution2281
 ---
 
 ## Pepper Cloud CRM Version 140
@@ -44,3 +44,4 @@ Contact Email: sales@peppercloud.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

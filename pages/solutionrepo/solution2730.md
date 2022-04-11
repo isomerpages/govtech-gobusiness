@@ -1,6 +1,6 @@
 ---
 title: BricsCAD A.I Design Technologies
-permalink: /productivity-solutions-grant/solution2730
+permalink: /productivity-solutions-grant/solutionrepo/solution2730
 ---
 
 ## BricsCAD AI Design Technologies
@@ -41,3 +41,4 @@ Contact Email: enquiry@acapacific.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

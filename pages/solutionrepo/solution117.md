@@ -1,6 +1,6 @@
 ---
 title: Microsoft Dynamics 365 Business Central Version Cloud
-permalink: /productivity-solutions-grant/solution117
+permalink: /productivity-solutions-grant/solutionrepo/solution117
 ---
 
 ## Microsoft Dynamics 365 Business Central Version Cloud
@@ -41,3 +41,4 @@ Contact Email: sales@afon.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

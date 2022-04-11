@@ -1,6 +1,6 @@
 ---
 title: ABSS Premier V23 Version 23 
-permalink: /productivity-solutions-grant/solution30
+permalink: /productivity-solutions-grant/solutionrepo/solution30
 ---
 
 ## ABSS Premier V23 Version 23
@@ -40,3 +40,4 @@ Email: enquiry@361dc.com
 Tel: +65 6515 7906
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

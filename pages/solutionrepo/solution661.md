@@ -1,6 +1,6 @@
 ---
 title: Octopus Food Solution
-permalink: /productivity-solutions-grant/solution661
+permalink: /productivity-solutions-grant/solutionrepo/solution661
 ---
 
 ## Octopus Food Solution
@@ -41,3 +41,4 @@ Email: solutions@octopuspos.com
 Tel: +65 6221 6601
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

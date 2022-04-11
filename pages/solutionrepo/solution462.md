@@ -1,6 +1,6 @@
 ---
 title: Hubble Safety Management System
-permalink: /productivity-solutions-grant/solution462
+permalink: /productivity-solutions-grant/solutionrepo/solution462
 ---
 
 ## Hubble Safety Management System
@@ -40,3 +40,4 @@ Email: sales@hubble.sg
 Tel: +65 6816 7890
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

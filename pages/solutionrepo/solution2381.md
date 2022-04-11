@@ -1,6 +1,6 @@
 ---
 title: Eminet Sophos XGS Firewall
-permalink: /productivity-solutions-grant/solution2381
+permalink: /productivity-solutions-grant/solutionrepo/solution2381
 ---
 
 ## Eminet Sophos XGS Firewall
@@ -48,3 +48,4 @@ Contact Email: charles@eminet.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

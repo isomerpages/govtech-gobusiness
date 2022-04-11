@@ -1,6 +1,6 @@
 ---
 title: (SaaS) JustLogin HR Cloud
-permalink: /productivity-solutions-grant/solution533
+permalink: /productivity-solutions-grant/solutionrepo/solution533
 ---
 
 ## (SaaS) JustLogin HR Cloud
@@ -40,3 +40,4 @@ Email: info@justlogin.com
 Contact Hotline: +65 6909 9217
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

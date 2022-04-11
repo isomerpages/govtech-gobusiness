@@ -1,6 +1,6 @@
 ---
 title: Sage 300 Version 2021
-permalink: /productivity-solutions-grant/solution868
+permalink: /productivity-solutions-grant/solutionrepo/solution868
 ---
 
 ## Sage 300 Version 2021
@@ -40,3 +40,4 @@ Contact Hotline: 6741 9198
 Contact Email: sales@twm.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

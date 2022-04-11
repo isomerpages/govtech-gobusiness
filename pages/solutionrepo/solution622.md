@@ -1,6 +1,6 @@
 ---
 title: MuRho Inventory Management & Sales Management System
-permalink: /productivity-solutions-grant/solution622
+permalink: /productivity-solutions-grant/solutionrepo/solution622
 ---
 
 ## MuRho Inventory Management Sales Management System
@@ -45,3 +45,4 @@ Email:sales@murho.com.sg
 Tel:+65 6289 3802
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

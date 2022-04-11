@@ -1,6 +1,6 @@
 ---
 title: A2000ERP Version 12.X
-permalink: /productivity-solutions-grant/solution2023
+permalink: /productivity-solutions-grant/solutionrepo/solution2023
 ---
 
 ## A2000ERP Version 12X
@@ -40,3 +40,4 @@ Contact Email: info@a2000.net
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

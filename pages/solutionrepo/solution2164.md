@@ -1,6 +1,6 @@
 ---
 title: LED grow lights
-permalink: /productivity-solutions-grant/solution2164
+permalink: /productivity-solutions-grant/solutionrepo/solution2164
 ---
 
 ## LED grow lights
@@ -37,3 +37,4 @@ LED grow lights with smart dynamic lighting control to help plants grow.
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

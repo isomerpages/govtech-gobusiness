@@ -1,6 +1,6 @@
 ---
 title: Psoft Accounting Systems
-permalink: /productivity-solutions-grant/solution722
+permalink: /productivity-solutions-grant/solutionrepo/solution722
 ---
 
 ## Psoft Accounting Systems
@@ -40,3 +40,4 @@ Email: psoft@singnet.com.sg
 Tel: +65 6295 3292
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

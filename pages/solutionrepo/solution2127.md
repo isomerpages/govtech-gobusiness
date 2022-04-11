@@ -1,6 +1,6 @@
 ---
 title: Culture Tank System with Monitoring and Control System
-permalink: /productivity-solutions-grant/solution2127
+permalink: /productivity-solutions-grant/solutionrepo/solution2127
 ---
 
 ## Culture Tank System with Monitoring and Control System
@@ -37,3 +37,4 @@ Cultivation system with monitoring and control system
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

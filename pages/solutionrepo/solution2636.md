@@ -1,6 +1,6 @@
 ---
 title: aiCARE Shield Managed Security Version Ver1.0
-permalink: /productivity-solutions-grant/solution2636
+permalink: /productivity-solutions-grant/solutionrepo/solution2636
 ---
 
 ## aiCARE Shield Managed Security Version Ver10
@@ -43,3 +43,4 @@ Contact Email: keith@ntc.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

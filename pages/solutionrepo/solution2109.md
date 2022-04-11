@@ -1,6 +1,6 @@
 ---
 title: Ecommerce Web Development (WooCommerce) Version 0.8
-permalink: /productivity-solutions-grant/solution2109
+permalink: /productivity-solutions-grant/solutionrepo/solution2109
 ---
 
 ## Ecommerce Web Development (WooCommerce) Version 08
@@ -40,3 +40,4 @@ Contact Email: info@digitalsolutions.com.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

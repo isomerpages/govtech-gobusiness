@@ -1,6 +1,6 @@
 ---
 title: Milking Machine
-permalink: /productivity-solutions-grant/solution2144
+permalink: /productivity-solutions-grant/solutionrepo/solution2144
 ---
 
 ## Milking Machine
@@ -37,3 +37,4 @@ A machine that provides an efficient and convenient way of milking livestocks, w
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

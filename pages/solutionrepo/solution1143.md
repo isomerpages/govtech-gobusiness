@@ -1,6 +1,6 @@
 ---
 title: Battery-Powered Rope Ascender
-permalink: /productivity-solutions-grant/solution1143
+permalink: /productivity-solutions-grant/solutionrepo/solution1143
 ---
 
 ## Battery-Powered Rope Ascender
@@ -41,3 +41,4 @@ Cost of equipment capped at $18,750 per unit
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,6 +1,6 @@
 ---
 title: Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
-permalink: /productivity-solutions-grant/solution2161
+permalink: /productivity-solutions-grant/solutionrepo/solution2161
 ---
 
 ## Environment/ Water/ Nutrient Sampling Monitoring Control Equipment/ System
@@ -37,3 +37,4 @@ Dosers and sensors or sub-meters for water and energy monitoring of relevant far
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

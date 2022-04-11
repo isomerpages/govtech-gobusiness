@@ -1,6 +1,6 @@
 ---
 title: Salesforce Sales Cloud Professional Edition
-permalink: /productivity-solutions-grant/solution1514
+permalink: /productivity-solutions-grant/solutionrepo/solution1514
 ---
 
 ## Salesforce Sales Cloud Professional Edition
@@ -39,3 +39,4 @@ Contact Hotline: 800 1301 448
 Contact Email: apacemarketing@salesforce.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

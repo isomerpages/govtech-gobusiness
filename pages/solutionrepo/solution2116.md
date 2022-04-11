@@ -1,6 +1,6 @@
 ---
 title: Automated Mixer/ Compacter for Growing Media
-permalink: /productivity-solutions-grant/solution2116
+permalink: /productivity-solutions-grant/solutionrepo/solution2116
 ---
 
 ## Automated Mixer/ Compacter for Growing Media
@@ -37,3 +37,4 @@ Automated mixer/ compacter to handle a variety of growing media as well as vario
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

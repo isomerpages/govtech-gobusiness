@@ -1,6 +1,6 @@
 ---
 title: Network Box Next Generation Managed Security Version 5.5
-permalink: /productivity-solutions-grant/solution2546
+permalink: /productivity-solutions-grant/solutionrepo/solution2546
 ---
 
 ## Network Box Next Generation Managed Security Version 55
@@ -40,3 +40,4 @@ Contact Email: enquiry@network-box.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

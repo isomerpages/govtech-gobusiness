@@ -1,6 +1,6 @@
 ---
 title: Vertical Carousel
-permalink: /productivity-solutions-grant/solution159
+permalink: /productivity-solutions-grant/solutionrepo/solution159
 ---
 
 ## Vertical Carousel
@@ -39,3 +39,4 @@ Cost of equipment capped at $37,500 per unit
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

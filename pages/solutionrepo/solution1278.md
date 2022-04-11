@@ -1,6 +1,6 @@
 ---
 title: Managed Firewall Solution
-permalink: /productivity-solutions-grant/solution1278
+permalink: /productivity-solutions-grant/solutionrepo/solution1278
 ---
 
 ## Managed Firewall Solution
@@ -41,3 +41,4 @@ Contact Email: sales@lgatelecom.net
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

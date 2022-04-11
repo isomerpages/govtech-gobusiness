@@ -1,6 +1,6 @@
 ---
 title: FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0
-permalink: /productivity-solutions-grant/solution987
+permalink: /productivity-solutions-grant/solutionrepo/solution987
 ---
 
 ## FocusGuard FMS Version 20 - FocusGuard FMS Version 20
@@ -41,3 +41,4 @@ Contact Email: info@focusguard.sg
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

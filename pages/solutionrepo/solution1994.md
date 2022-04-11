@@ -1,6 +1,6 @@
 ---
 title: SAP Business One Version 10
-permalink: /productivity-solutions-grant/solution1994
+permalink: /productivity-solutions-grant/solutionrepo/solution1994
 ---
 
 ## SAP Business One Version 10
@@ -42,3 +42,4 @@ Contact Email: info@axxis-consulting.com
 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>
