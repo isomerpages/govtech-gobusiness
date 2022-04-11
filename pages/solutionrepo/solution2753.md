@@ -8,13 +8,13 @@ permalink:
 ## Description
 
 EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the widest range of third-party integrations and add-ons in Singapore, EPOS enables SMEs to easily manage all aspects of their business. 
-• Simple and easy to use for cashiers. 
-• Full-featured CRM
-• Powerful Promotions engine
-• Inventory management
-• Ecommerce integration 
-• Accounting integration 
-• E-payments, QR payment, credit card, NETS
+- Simple and easy to use for cashiers. 
+- Full-featured CRM
+- Powerful Promotions engine
+- Inventory management
+- Ecommerce integration 
+- Accounting integration 
+- E-payments, QR payment, credit card, NETS
 
 ## Solution Packages Option(s)
 

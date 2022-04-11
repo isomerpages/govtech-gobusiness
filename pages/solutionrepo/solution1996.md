@@ -9,7 +9,7 @@ permalink:
 
 Axxis Consulting is an SAP Platinum Partner in Singapore, providing leading expertise to support business transformations and related IT implementations. As a subsidiary of Nihon Unisys and a member of United VARS, Axxis supports customers in APJ and beyond with an experienced international SAP Consulting Team.
 
-SAP Business One is an ERP software designed for SMEs. It’s a single, affordable solution for managing the entire company and pre-configured to meet the needs of specific industries.
+SAP Business One is an ERP software designed for SMEs. It's a single, affordable solution for managing the entire company and pre-configured to meet the needs of specific industries.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ SAP Business One is an ERP software designed for SMEs. It’s a single, affordable
 </tr>
 <tr>
 <td>Option 1</td>
-<td>SAP Business One Version 10 - SAP Business One on HANA – Package D (15 Cloud Subscription Users)</td>
+<td>SAP Business One Version 10 - SAP Business One on HANA - Package D (15 Cloud Subscription Users)</td>
 <td><a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
 <td>54820</td>
 <td>42800</td>

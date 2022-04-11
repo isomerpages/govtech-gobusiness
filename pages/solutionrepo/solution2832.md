@@ -21,7 +21,7 @@ The XGS Firewall Series offers next-generation firewall features that provide vi
 </tr>
 <tr>
 <td>Option 1</td>
-<td>Sophos Firewall - Manage Firewall - Standard Protection for XGS 2100 - 12 MOS  </td>
+<td>Sophos Firewall - Manage Firewall - Standard Protection for XGS 2100 - 12 MOS  </td>
 <td><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
 <td>3809</td>
 <td>3809</td>

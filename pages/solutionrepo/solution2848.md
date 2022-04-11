@@ -21,7 +21,7 @@ Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize
 </tr>
 <tr>
 <td>Option 1</td>
-<td>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions – Package 4(51-100 employee) Version 21-3</td>
+<td>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 4(51-100 employee) Version 21-3</td>
 <td><a href='https://www.gobusiness.gov.sg/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
 <td>33800</td>
 <td>33800</td>

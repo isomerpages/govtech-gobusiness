@@ -7,7 +7,7 @@ permalink:
 
 ## Description
 
-Sophos safeguards all users’ devices under one management, either on premise or in the cloud with a single simplified management console, allowing users to easily control the overall network. By preventing further damage to business, it automatically removes detected malware or isolate compromised devices. Next gen protection, by identifying, preventing techniques, behaviors used in every exploit, it blocks malware and infections.
+Sophos safeguards all users' devices under one management, either on premise or in the cloud with a single simplified management console, allowing users to easily control the overall network. By preventing further damage to business, it automatically removes detected malware or isolate compromised devices. Next gen protection, by identifying, preventing techniques, behaviors used in every exploit, it blocks malware and infections.
 
 ## Solution Packages Option(s)
 
@@ -21,7 +21,7 @@ Sophos safeguards all users’ devices under one management, either on premise or 
 </tr>
 <tr>
 <td>Option 1</td>
-<td>Sophos Endpoint - Sophos Central Intercept X Advanced with EDR – 10 Licences (1 Year)</td>
+<td>Sophos Endpoint - Sophos Central Intercept X Advanced with EDR - 10 Licences (1 Year)</td>
 <td><a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
 <td>800</td>
 <td>800</td>

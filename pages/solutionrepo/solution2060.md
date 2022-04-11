@@ -7,8 +7,8 @@ permalink:
 
 ## Description
 
-Revel’s point of sale and business solutions provide a native cloud technology platform that is at the heart of our clients’ businesses. The Revel platform helps restaurants and retailers deliver a better customer experience, diversify revenue streams, and scale their businesses with ease. 
-The Revel Enterprise® solution is tailored for large chains and leads the industry with a broad footprint of national, big brand customer implementations.
+Revel's point of sale and business solutions provide a native cloud technology platform that is at the heart of our clients' businesses. The Revel platform helps restaurants and retailers deliver a better customer experience, diversify revenue streams, and scale their businesses with ease. 
+The Revel Enterprise solution is tailored for large chains and leads the industry with a broad footprint of national, big brand customer implementations.
 
 ## Solution Packages Option(s)
 

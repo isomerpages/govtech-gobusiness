@@ -7,8 +7,8 @@ permalink:
 
 ## Description
 
-BricsCAD® is a computer-aided design (CAD) system that is bringing new levels of performance and technical innovation to the industry-standard DWG format. The development team at Bricsys is incorporating A.I. / machine learning (ML) algorithms into BricsCAD®, to help improve 3D BIM and MCAD workflows for AEC and Manufacturing Industries.
-BricsCAD is Part of “Hexagon PPM” and a founding member of the Open Design Alliance.
+BricsCAD is a computer-aided design (CAD) system that is bringing new levels of performance and technical innovation to the industry-standard DWG format. The development team at Bricsys is incorporating A.I. / machine learning (ML) algorithms into BricsCAD, to help improve 3D BIM and MCAD workflows for AEC and Manufacturing Industries.
+BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Alliance.
 
 ## Solution Packages Option(s)
 

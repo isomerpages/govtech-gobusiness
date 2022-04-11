@@ -7,7 +7,7 @@ permalink:
 
 ## Description
 
-Morphisec is designed to protect critical applications from threat actors and evasive techniques that hide from detection-based solutions without prior knowledge. Made easy for SMEs with lean IT teams, EQCOMS’ Managed Security Service delivers operationally simple, instant pre-breach proactive protection against the most sophisticated  cyberattacks. Combined with their 24x7 monitoring centre, EQCOMS provides businesses with round-the-clock visibility on the security of their machines.
+Morphisec is designed to protect critical applications from threat actors and evasive techniques that hide from detection-based solutions without prior knowledge. Made easy for SMEs with lean IT teams, EQCOMS' Managed Security Service delivers operationally simple, instant pre-breach proactive protection against the most sophisticated  cyberattacks. Combined with their 24x7 monitoring centre, EQCOMS provides businesses with round-the-clock visibility on the security of their machines.
 
 ## Solution Packages Option(s)
 

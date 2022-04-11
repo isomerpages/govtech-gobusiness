@@ -7,7 +7,7 @@ permalink:
 
 ## Description
 
-FortiGate next-generation firewalls provide high performance, multilayered security and deep visibility for end-to-end protection across the enterprise network. Its purpose-built security processors (SPUs) deliver scalable performance and low latency.
+FortiGate next-generation firewalls provide high performance, multilayered security and deep visibility for end-to-end protection across the enterprise network. Its purpose-built security processors (SPUs) deliver scalable performance and low latency.
 
 ## Solution Packages Option(s)
 
@@ -21,7 +21,7 @@ FortiGate next-generation firewalls provide high performance, multilayered secur
 </tr>
 <tr>
 <td>Option 1</td>
-<td>Roycemedia Cybersecurity-Firewall - Package 2 – Fortigate 80F</td>
+<td>Roycemedia Cybersecurity-Firewall - Package 2 - Fortigate 80F</td>
 <td><a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_34.pdf'>View Details</a></td>
 <td>5620</td>
 <td>5620</td>
