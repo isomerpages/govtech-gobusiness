@@ -43,4 +43,5 @@ Email: solutions@xintesys.com
 Tel: +65 9011 5595
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+
 <script src="/jquery/resize-tables.js"></script>

@@ -37,4 +37,5 @@ A system that stores and converts solar energy into electrical energy for farm u
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+
 <script src="/jquery/resize-tables.js"></script>

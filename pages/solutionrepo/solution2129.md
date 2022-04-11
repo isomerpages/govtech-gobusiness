@@ -37,4 +37,5 @@ A machine used to place ear tags into the ears of livestocks to provide a means 
  
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+
 <script src="/jquery/resize-tables.js"></script>
