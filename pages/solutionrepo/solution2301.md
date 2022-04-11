@@ -26,15 +26,22 @@ Athena E-store is an e-commerce solution by Cleverly that makes having an online
 <td style='padding: 10px;'>8050</td>
 <td style='padding: 10px;'>8050</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E-store Solution-Athena E Store Solution</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: https://cleverly.sg/psg-e-commerce-solution/ <br>Contact Hotline: 8866 3438 <br>Contact Email: hello@cleverly.sg <br>
+ Web URL: https://track-asia.com/ <br>Contact Hotline: 91125883 <br>Contact Email: eugene_low@acecom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

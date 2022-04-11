@@ -26,6 +26,13 @@ Sunpro provides excellent web application development solutions for companies in
 <td style='padding: 10px;'>7960</td>
 <td style='padding: 10px;'>7960</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM - E-Commerce & Mobile Apps with Inventory Management System (Sunpro Supreme)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SUNPRO_INNO_20210006_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9960</td>
+<td style='padding: 10px;'>9960</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +41,7 @@ Sunpro provides excellent web application development solutions for companies in
 
 ## Vendor Information
 
- Web URL: www.sunpro.com.sg <br>Contact Hotline: 67504786 <br>Contact Email: jiya@sunpro.com.sg <br>
+ Web URL: www.infomaster.com.sg <br>Contact Hotline: 67475665 <br>Contact Email: sales@ise.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

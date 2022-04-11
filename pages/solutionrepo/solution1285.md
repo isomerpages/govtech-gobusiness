@@ -30,11 +30,11 @@ Venuerific was founded in Singapore in 2013 with the goal of helping venue owner
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - 
 
 ## Vendor Information
 
- Company Name:VENUERIFIC PTE. LTD. <br>Web URL: www.venuerific.com <br>Contact Hotline: 84489750 <br>Contact Email: support.sg@venuerific.com 
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

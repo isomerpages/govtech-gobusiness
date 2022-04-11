@@ -26,6 +26,27 @@ FITPRISE PMS is a web-based management system that manages the QA/QC project man
 <td style='padding: 10px;'>30000</td>
 <td style='padding: 10px;'>25100</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Job Inspection System - FITPRISE Job Inspection System (with Mobile App) - 10 users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>45000</td>
+<td style='padding: 10px;'>37000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Job Inspection System - FITPRISE Job Inspection System - 5 users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>25500</td>
+<td style='padding: 10px;'>20600</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Job Inspection System - FITPRISE Job Inspection System (with Mobile App) - 5 users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>40500</td>
+<td style='padding: 10px;'>37000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

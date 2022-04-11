@@ -37,7 +37,7 @@ Grant support: 80% of cost of probing system, up to $30,000 grant cap
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 

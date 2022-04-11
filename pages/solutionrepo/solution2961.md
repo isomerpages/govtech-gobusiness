@@ -26,6 +26,41 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2. Strategic Procurement</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Strategic-Procurement-1' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3. Digital Workplace: Business Process and Workflow Automation Design, Deploy and Manage</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digital-Workplace-Business-Process-Workflow-Automation-Design-Deploy-Manage-Synchronous-elearning-2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1. Data Analytics for Business Professionals </td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Data-Analytics-Business-Professionals' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2. Statistical Process Control (SPC) in Manufacturing</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Statistical-Process-Control-SPC-Manufacturing-2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3. Manage Quality System and Processes</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Quality-Systems-Processes-3' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

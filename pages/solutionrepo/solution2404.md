@@ -26,6 +26,34 @@ NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platf
 <td style='padding: 10px;'>14872</td>
 <td style='padding: 10px;'>11800</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package B - 1 Year (4 Units)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>23344</td>
+<td style='padding: 10px;'>17200</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package C - 1 Year (6 Units)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>31816</td>
+<td style='padding: 10px;'>22600</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package D - 1 Year (8 Units)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>40288</td>
+<td style='padding: 10px;'>28000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package E - 1 Year (10 Units)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>48760</td>
+<td style='padding: 10px;'>33400</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +62,7 @@ NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platf
 
 ## Vendor Information
 
- Web URL: https://www.engagenova.com/novavision <br>Contact Hotline: 88492042 <br>Contact Email: contact@engagenova.com <br>
+ Web URL: WWW.ASSEMBLYWORK.CO <br>Contact Hotline: 90883183 <br>Contact Email: shining@assemblyworks.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

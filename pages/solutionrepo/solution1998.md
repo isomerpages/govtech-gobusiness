@@ -26,15 +26,29 @@ Armfort Visitor Management System is an integrated solution that will assist bus
 <td style='padding: 10px;'>3250</td>
 <td style='padding: 10px;'>3250</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Software)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2800</td>
+<td style='padding: 10px;'>2800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Access)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5200</td>
+<td style='padding: 10px;'>5200</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: www.onethird.co <br>Contact Hotline: 96497552 <br>Contact Email: hello@onethird.co <br>
+ Web URL: www.uventures.com.sg <br>Contact Hotline: 67358135 <br>Contact Email: info@uventures.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

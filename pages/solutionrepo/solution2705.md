@@ -30,11 +30,11 @@ The solutions offered by Q-Zone Tech are carefully designed for users to access 
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: https://qzonetech.com/ <br>Contact Hotline: 93958688 <br>Contact Email: info@qzonetech.com <br>
+ Web URL: https://www.oom.com.sg/ <br>Contact Hotline: 63910930 <br>Contact Email: support@oom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

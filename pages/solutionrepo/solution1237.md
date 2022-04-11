@@ -26,15 +26,43 @@ Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, mul
 <td style='padding: 10px;'>32800</td>
 <td style='padding: 10px;'>31200</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP V5.6 - Package (5 Users) (PEPPOL Ready)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTNOSystemsAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>39400</td>
+<td style='padding: 10px;'>37800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP V5.6 - Package (8 Users)(PEPPOL Ready)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTNOSystemsAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>49300</td>
+<td style='padding: 10px;'>42800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP V5.6 - Package (10 Users)(PEPPOL Ready)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTNOSystemsAnnex3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>55900</td>
+<td style='padding: 10px;'>42800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP V5.6 - Package (5 Users with Cloud) (PEPPOL Ready)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTNOSystemsAnnex3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>22900</td>
+<td style='padding: 10px;'>21300</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name:TNO Systems Pte Ltd <br>Web URL: www.globe3.com <br>Contact Hotline: 67498823 <br>Contact Email: sales@globe3.com <br>
+ Company Name:V3 Smart Technologies Pte Ltd <br>Web URL: http://www.v3smarttech.com/solutions/workforce-assignment-mobility-wam/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

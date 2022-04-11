@@ -26,6 +26,13 @@ WarelyPOS is a home-grown brand that aims to help F&B vendors go digital. We bel
 <td style='padding: 10px;'>8300</td>
 <td style='padding: 10px;'>8300</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Premium</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>12800</td>
+<td style='padding: 10px;'>12800</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

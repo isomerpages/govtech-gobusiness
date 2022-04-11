@@ -30,11 +30,11 @@ This 6-in-1 platform provides each F&B establishment with their exclusive websit
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Company Name:C.O Enterprise Pte Ltd <br>Web URL: co-enterprise.com.sg <br>Contact Hotline: 97663115 <br>Contact Email: marketing@co-enterprise.com.sg <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

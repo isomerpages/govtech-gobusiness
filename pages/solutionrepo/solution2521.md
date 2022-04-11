@@ -26,15 +26,43 @@ OOm is a digital performance marketing agency founded in 2006. We are one of the
 <td style='padding: 10px;'>10000</td>
 <td style='padding: 10px;'>10000</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 2 Ecommerce SEM/SMA Starter Combo</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 3 LeadGen SEM/SEM Starter Combo</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 4 Ecommerce SMA/SMA Starter Combo</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 5 SEO/SEM Advanced Combo</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11500</td>
+<td style='padding: 10px;'>10000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: https://www.oom.com.sg/ <br>Contact Hotline: 63910930 <br>Contact Email: support@oom.com.sg <br>
+ Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -26,6 +26,20 @@ Extend your business online and generate higher sales revenue with our scalable 
 <td style='padding: 10px;'>$6,000.00</td>
 <td style='padding: 10px;'>$6,000.00</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Corsiva Lab - E-Commerce Website Development Version 1.0  - Customized E-Commerce Website Development Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_Annex_3_CR_wef_6_Jan_2022_Part_456.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Corsiva Lab - E-Commerce Website Development Version 1.0  - Customized E-Commerce Website with CRM & 2 Marketplace Integration</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_Annex_3_CR_wef_6_Jan_2022_Part_789.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +48,7 @@ Extend your business online and generate higher sales revenue with our scalable 
 
 ## Vendor Information
 
- Company Name:Corsiva Lab Pte Ltd <br>Web URL: www.corsivalab.com <br>Contact Hotline: +6581127835 <br>Contact Email: contact@corsivalab.com <br>
+ Company Name:Hubspot Asia Pte. Ltd. <br>Web URL: https://www.hubspot.com/products/get-started <br>Contact Hotline: 31583395 <br>Contact Email: imdagrant@hubspot.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

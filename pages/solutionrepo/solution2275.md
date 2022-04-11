@@ -26,6 +26,27 @@ DST RFID Inventory System uses handheld UHF RFID readers (deployed with Android 
 <td style='padding: 10px;'>2500</td>
 <td style='padding: 10px;'>2300</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package B (QR Code)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6000</td>
+<td style='padding: 10px;'>6000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package C (Barcode)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7500</td>
+<td style='padding: 10px;'>7300</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package D (RFID)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>14000</td>
+<td style='padding: 10px;'>12898</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

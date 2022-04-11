@@ -26,15 +26,29 @@ Beautec system aims to simplify the tedious workflow processes of the highly com
 <td style='padding: 10px;'>$5500.00</td>
 <td style='padding: 10px;'>$5500.00</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Beautec Version 3 centralized version - Package (POS Set A100)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Beautec_Annex_3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7600.00</td>
+<td style='padding: 10px;'>$6700.00</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Beautec Version 3 centralized version - Package (POS Set B100)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Beautec_Annex_3_CR_wef_14_Jan_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8000.00</td>
+<td style='padding: 10px;'>$6700.00</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Company Name: Beautec Pte Ltd<br>Web URL: www.beau-tec.com<br>Contact Hotline: 67772703 ext 202<br>Contact Email: sales@beau-tec.com
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -26,15 +26,22 @@ Process Construction & Maintenance (PCM) Solution is tailored to Singapore's Pro
 <td style='padding: 10px;'>49860</td>
 <td style='padding: 10px;'>36200</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix Process Construction and Maintenance - Synergix PCM 3-in-1 ERP Solution (10 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>70860</td>
+<td style='padding: 10px;'>36200</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

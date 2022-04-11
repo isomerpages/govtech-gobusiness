@@ -28,6 +28,34 @@ The procurement control, inventory management, sales, enquiry and quotation mana
 <td style='padding: 10px;'>29400</td>
 <td style='padding: 10px;'>24400</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 150 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>23200</td>
+<td style='padding: 10px;'>22400</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 100 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17600</td>
+<td style='padding: 10px;'>17000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 50 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>13800</td>
+<td style='padding: 10px;'>13200</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 20 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11400</td>
+<td style='padding: 10px;'>11400</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

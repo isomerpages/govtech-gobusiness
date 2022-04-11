@@ -26,6 +26,27 @@ Optimize your retail business productivity and efficiency with RetailPlan, our i
 <td style='padding: 10px;'>$5,040.00</td>
 <td style='padding: 10px;'>$5,040.00</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSUITE Version 6.0 - Package Functional</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$7,260.00</td>
+<td style='padding: 10px;'>$6,960.00</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSUITE Version 6.0 - Package Online2Offline</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$11,460.00</td>
+<td style='padding: 10px;'>$11,160.00</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSUITE Version 6.0 - Package Digital</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$5,420.00</td>
+<td style='padding: 10px;'>$5,120.00</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +55,7 @@ Optimize your retail business productivity and efficiency with RetailPlan, our i
 
 ## Vendor Information
 
- Company Name:LEVELFIVE PTE LTD <br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET <br>
+ Web URL: https://www.efusiontech.com <br>Contact Hotline: 62903086 <br>Contact Email: contact@efusiontech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

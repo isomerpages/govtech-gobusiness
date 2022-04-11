@@ -26,6 +26,34 @@ Tisch Global Corporate Advisory is offering A-Start , a seamless cloud accountin
 <td style='padding: 10px;'>1480</td>
 <td style='padding: 10px;'>1480</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Standard Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2980</td>
+<td style='padding: 10px;'>2980</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Medium Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3760</td>
+<td style='padding: 10px;'>3760</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Large Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6760</td>
+<td style='padding: 10px;'>6760</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Extra Large Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_5_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7260</td>
+<td style='padding: 10px;'>7260</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +62,7 @@ Tisch Global Corporate Advisory is offering A-Start , a seamless cloud accountin
 
 ## Vendor Information
 
- Web URL: www.tischglobal.com <br>Contact Hotline: 89212060 <br>Contact Email: matthew@tischglobal.com <br>
+ Company Name: Match Resources Pte Ltd<br>Web URL: www.matchresources.com.sg<br>Contact Hotline: 6653 1198<br>Contact Email: jobs@matchresources.com.sg<br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -26,6 +26,20 @@ SkipQoo provides Digital Ordering and Delivery System for F&B which has fully in
 <td style='padding: 10px;'>5800</td>
 <td style='padding: 10px;'>5800</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (All-in-one)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6800</td>
+<td style='padding: 10px;'>6800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SKIP QUEUE (F&B) - DIGITAL ORDERING - With Hardware (All-in-one)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7600</td>
+<td style='padding: 10px;'>7600</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +48,7 @@ SkipQoo provides Digital Ordering and Delivery System for F&B which has fully in
 
 ## Vendor Information
 
- Web URL: www.skipqoo.io <br>Contact Hotline: 88460000 <br>Contact Email: hello@skipqoo.io <br>
+ Web URL: https://cleverly.sg/psg-e-commerce-solution/ <br>Contact Hotline: 8866 3438 <br>Contact Email: hello@cleverly.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

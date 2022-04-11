@@ -26,15 +26,43 @@ Powerful & speedy cloud-based digital ordering system, accelerate your business 
 <td style='padding: 10px;'>3248</td>
 <td style='padding: 10px;'>3200</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (2 Waiters)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4546</td>
+<td style='padding: 10px;'>4450</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (3 Waiters)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5844</td>
+<td style='padding: 10px;'>5700</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (4 Waiters)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7142</td>
+<td style='padding: 10px;'>6450</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (5 Waiters)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8440</td>
+<td style='padding: 10px;'>7200</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg <br>
+ Web URL: https://www.p65marketing.com/ <br>Contact Hotline: 94501066 <br>Contact Email: Business@warelycorp.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

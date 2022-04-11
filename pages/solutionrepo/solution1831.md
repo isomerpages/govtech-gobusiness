@@ -31,11 +31,11 @@ The solution is able to comply with the revised MAS 610 regulatory reporting req
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - 
 
 ## Vendor Information
 
- Company Name: VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED<br>Web URL: www.vermeg.com<br>Contact Hotline: 6720 1012<br>Contact Email: info@vermeg.com<br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

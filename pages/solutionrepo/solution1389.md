@@ -26,15 +26,29 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1389
 <td style='padding: 10px;'>2500</td>
 <td style='padding: 10px;'>2500</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3D Omni Commerce Version 1.03 - PRO (Shopee Online Marketplace)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9000</td>
+<td style='padding: 10px;'>9000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3D Omni Commerce Version 1.03 - ENTERPRISE (Shopee, Lazada, Qoo10 Online Marketplaces)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>12000</td>
+<td style='padding: 10px;'>10000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 8881 2881  <br>Contact Email: hello@3dbrandagency.com 
+ Web URL: https://www.eisol.net/eats365 <br>Contact Hotline: 66816538 <br>Contact Email: hi@eisol.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

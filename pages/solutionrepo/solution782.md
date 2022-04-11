@@ -30,11 +30,11 @@ Shopmatic is a SaaS solution that offers an integrated business solutions for SM
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name:Shopmatic Pte Ltd <br>Web URL: www.goshopmatic.com <br>Contact Hotline: 69569202 <br>Contact Email: shopsupportsg@goshopmatic.com <br>
+ Company Name:W.L.P PTE LTD <br>Web URL:https://www.wlp.com.sg/ <br>Contact Hotline:64932970 <br>Contact Email:info@wlp.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

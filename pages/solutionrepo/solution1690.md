@@ -26,15 +26,22 @@ ChopeQueues is a contactless queue management that is fully integrated with our 
 <td style='padding: 10px;'>5700</td>
 <td style='padding: 10px;'>5700</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ChopeQueues - ChopeQueues as add-on to ChopeCloud or ChopeBook with 10k SMS Bundle</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chope_Group_20200196_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4500</td>
+<td style='padding: 10px;'>4500</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: restaurants.chope.co <br>Contact Hotline: 62256612 <br>Contact Email: sales.sg@chope.co <br>
+ Web URL: www.timcole.com.sg <br>Contact Hotline: 69245138 <br>Contact Email: enquiry@timcole.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

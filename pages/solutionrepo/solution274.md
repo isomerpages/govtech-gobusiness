@@ -26,15 +26,33 @@ Insight QSE Safety PTW System alleviates the current paper-based method of routi
 <td style='padding: 10px;'>18800</td>
 <td style='padding: 10px;'>15400</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> InSight QSE - Insight QSE Safety PTW System (Premium)
+
+ </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>27600</td>
+<td style='padding: 10px;'>26800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InSight QSE - Insight QSE Safety PTW System (Enterprise)
+
+ </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>37600</td>
+<td style='padding: 10px;'>28800</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Capps Solutions Pte Ltd<br>www.capps.com.sg<br>Email: contact@capps.com.sg<br>Tel: +65 6509 0309
+ Eurostop Singapore Pte Ltd<br>https://www.eurostop.com/<br>Email: sgsales@eurostop.com<br>Tel: +65 6561 1411
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

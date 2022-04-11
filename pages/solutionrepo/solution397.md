@@ -27,15 +27,29 @@ FacilityBot is the first-to-market omni-channel AI-powered facilities management
 <td style='padding: 10px;'>3600</td>
 <td style='padding: 10px;'>3600</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FacilityBot - Mid-Sized Facilities</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FacilityBot_20200189_Annex_3_20200625151434_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6000</td>
+<td style='padding: 10px;'>6000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FacilityBot - Large Facilities</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FacilityBot_20200189_Annex_3_20200625151434_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>12000</td>
+<td style='padding: 10px;'>12000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- FacilityBot Pte Ltd<br>http://facilitybot.co<br>Email: sales@facilitybot.co<br>Tel: +65 9748 0484
+ Globalsoft Solutions Pte Ltd<br>www.mng-solutions.com<br>Email: enquiries@mng-solutions.com<br>Tel: +65 6570 5012
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

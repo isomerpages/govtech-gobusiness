@@ -26,6 +26,34 @@ Xero is an online accounting software for SMEs, to be able to automate their eve
 <td style='padding: 10px;'>780</td>
 <td style='padding: 10px;'>725</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1580</td>
+<td style='padding: 10px;'>1525</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup & Migration)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2180</td>
+<td style='padding: 10px;'>2125</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup & Training)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2380</td>
+<td style='padding: 10px;'>2325</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup, Migration & Training)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2980</td>
+<td style='padding: 10px;'>2925</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

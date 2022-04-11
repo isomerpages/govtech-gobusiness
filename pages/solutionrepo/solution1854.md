@@ -28,6 +28,34 @@ Learn more at https://www.netsuite.com.sg or via the NetSuite blog.
 <td style='padding: 10px;'>26560</td>
 <td style='padding: 10px;'>26560</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NetSuite-SuiteSuccess Starter Plus with Implementation</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedOracleAnnexCRwef12August2021-_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>37402</td>
+<td style='padding: 10px;'>37402</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NetSuite-SuiteSuccess FinancialsFirst Standard Cloud Service</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedOracleAnnexCRwef12August2021-_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>27344</td>
+<td style='padding: 10px;'>27336</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NetSuite-SuiteSuccess FinancialsFirst Standard Cloud Service w/ implementation</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedOracleAnnexCRwef12August2021-_Part_78.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>50859</td>
+<td style='padding: 10px;'>42800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NetSuite-SuiteSuccess Standard and Inventory Management</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedOracleAnnexCRwef12August2021-_Part_910.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>32572</td>
+<td style='padding: 10px;'>32564</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

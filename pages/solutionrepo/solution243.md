@@ -27,6 +27,34 @@ Synchronize your promotions, customer data, inventory stock level, sales reports
 <td style='padding: 10px;'>17000</td>
 <td style='padding: 10px;'>17000</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaERP - Package (For SMEs)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_20190049_BONAERP_Annex_3_Part_23.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>30000</td>
+<td style='padding: 10px;'>30000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaERP - Package (For Sales & Supply Chain)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_20190049_BONAERP_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>42000</td>
+<td style='padding: 10px;'>41900</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaERP - Package (For Ecommerce & Point of Sales)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_20190049_BONAERP_Annex_3_Part_67.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>33000</td>
+<td style='padding: 10px;'>32600</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaERP - Package (For Ecommerce)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_20190049_BONAERP_Annex_3_Part_8.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>22500</td>
+<td style='padding: 10px;'>22500</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

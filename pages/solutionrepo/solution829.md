@@ -26,6 +26,34 @@ The system aims to streamline the front-end, back-end kitchen preparation proces
 <td style='padding: 10px;'>4800</td>
 <td style='padding: 10px;'>4600</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ellie Integrated System Version 2 - Package B (E-Waiter for 2 Users, KDS for 3 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SupplyEllie_Annex_3_CR_wef_3_Feb_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7700</td>
+<td style='padding: 10px;'>7500</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ellie Integrated System Version 2 - Package C (Online ordering, E-Waiter for 1 Users, KDS for 1 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SupplyEllie_Annex_3_CR_wef_3_Feb_2022_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11800</td>
+<td style='padding: 10px;'>10800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ellie Integrated System Version 2 - Package D (Online ordering, E-Waiter for 2 Users, KDS for 3 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SupplyEllie_Annex_3_CR_wef_3_Feb_2022_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>14700</td>
+<td style='padding: 10px;'>13700</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ellie Integrated System Version 2 - Package E (Online ordering, E-Waiter for 5 Users, KDS for 4 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SupplyEllie_Annex_3_CR_wef_3_Feb_2022_Part_78.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>18900</td>
+<td style='padding: 10px;'>17900</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +62,7 @@ The system aims to streamline the front-end, back-end kitchen preparation proces
 
 ## Vendor Information
 
- Company Name:Supply Ellie Pte Ltd <br>Web URL:www.supplyellie.com <br>Contact Hotline:91200059 <br>Contact Email:davidang@supplyellie.com <br>
+ Zetta Solution Pte Ltd<br>www.zetta-solution.com<br>Email: sales@zetta-solution.com<br>Tel: +65 6745 0866
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

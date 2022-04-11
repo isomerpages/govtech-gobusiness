@@ -26,6 +26,34 @@ Singtel Unified Threat Management (UTM) is a network perimeter security offering
 <td style='padding: 10px;'>2754</td>
 <td style='padding: 10px;'>2754</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-80F with 24x7 Monitoring and Alert Services</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3630</td>
+<td style='padding: 10px;'>3630</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with 24x7 Monitoring and Alert Services</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5817</td>
+<td style='padding: 10px;'>5817</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with Enhanced Managed Security Services</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8622</td>
+<td style='padding: 10px;'>8622</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-200F with Enhanced Managed Security Services</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11644</td>
+<td style='padding: 10px;'>11644</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

@@ -34,7 +34,7 @@ Battery-operated torque wrench or torque multiplier is a compact and portable to
 
 ## Vendor Information
 
- 
+ Web URL: www.therightcompany.com.sg <br>Contact Hotline: 97376168 <br>Contact Email: admin@therightcompany.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

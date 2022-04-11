@@ -26,6 +26,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2. Align Human Resource Services with Business Needs (SFw HR)</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Align-Human-Resource-Services-Business-Needs-SFw-HR-1' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3. Implement Manpower Planning Processes (SFw HR)</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Implement-Manpower-Planning-Processes-SFw-HR-1' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

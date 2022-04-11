@@ -26,6 +26,13 @@ GRAPHISOFT's BIM Collaboration Solution offers real-time, model-based BIM collab
 <td style='padding: 10px;'>6411.6</td>
 <td style='padding: 10px;'>3400</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - 1 Year Rental</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3900</td>
+<td style='padding: 10px;'>3400</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +41,7 @@ GRAPHISOFT's BIM Collaboration Solution offers real-time, model-based BIM collab
 
 ## Vendor Information
 
- Web URL: www.graphisoft.com.sg <br>Contact Hotline: 67107720 <br>Contact Email: mail@graphisoft.com.sg <br>
+ Web URL: https://scs-cpa.com/ <br>Contact Hotline: 69141114 <br>Contact Email: enquiry@scs-cpa.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

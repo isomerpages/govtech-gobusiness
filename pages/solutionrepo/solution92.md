@@ -41,7 +41,7 @@ Cost of equipment capped at $37,500 per unit
 
 ## Vendor Information
 
- 
+ Company Name: AG Net Pte Ltd <br>Web URL: https://web.aghrm.com/index.php/solutions/ <br>Contact Hotline: 68448712 <br>Contact Email: sales@aghrm.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

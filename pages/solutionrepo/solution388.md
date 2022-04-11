@@ -34,11 +34,11 @@ Cost of equipment capped at $30,000 per unit
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- 
+ FacilityBot Pte Ltd<br>http://facilitybot.co<br>Email: sales@facilitybot.co<br>Tel: +65 9748 0484
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

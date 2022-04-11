@@ -26,15 +26,43 @@ Characterized by its easy-to-use, fast operated speed, complete business logic c
 <td style='padding: 10px;'>3999</td>
 <td style='padding: 10px;'>3999</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 3 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5199</td>
+<td style='padding: 10px;'>5199</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 5 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10699</td>
+<td style='padding: 10px;'>10699</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 8 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>12499</td>
+<td style='padding: 10px;'>12499</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 12 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>14899</td>
+<td style='padding: 10px;'>14899</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Company Name:Ingenious Business Software Pte Ltd <br>Web URL: https://www.ingenious.sg/pre-approved-digital-solutions/ <br>Contact Hotline: 62234385 <br>Contact Email: enquiry@ingenious.sg <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

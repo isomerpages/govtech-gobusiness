@@ -30,7 +30,7 @@ A disinfection system for vehicles / personnel entering farm premises to prevent
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 

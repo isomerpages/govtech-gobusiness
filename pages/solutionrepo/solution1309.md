@@ -26,6 +26,34 @@ Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Count
 <td style='padding: 10px;'>500</td>
 <td style='padding: 10px;'>500</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SentroWeb - Regular 100</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1000</td>
+<td style='padding: 10px;'>1000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SentroWeb - Regular 500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1300</td>
+<td style='padding: 10px;'>1300</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SentroWeb - Regular DJ 1000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2600</td>
+<td style='padding: 10px;'>2600</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SentroWeb - Premium DJ 8K</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3200</td>
+<td style='padding: 10px;'>3200</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +62,7 @@ Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Count
 
 ## Vendor Information
 
- Company Name:Ingenique Solutions Pte Ltd <br>Web URL: https://www.ingenique.net/sentroweb-djx/ <br>Contact Hotline: 97374694 <br>Contact Email: martin.lim@ingenique.net <br>
+ Company Name:AVELOGIC PTE LTD <br>Web URL: www.avelogic.com <br>Contact Hotline: 63671128 <br>Contact Email: sales@avelogic.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

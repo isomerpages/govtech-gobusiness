@@ -26,15 +26,29 @@ ZETTAPPS is an integrated Accounting, Order Processing and Multi Currencies Mana
 <td style='padding: 10px;'>13800</td>
 <td style='padding: 10px;'>13800</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ZettApps Finance & Order Processing Version 4.2 - Package B - Premium</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>16800</td>
+<td style='padding: 10px;'>16800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ZettApps Finance & Order Processing Version 4.2 - Package C - Enterprise</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>19800</td>
+<td style='padding: 10px;'>19800</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Web URL: www.zetta-solution.com <br>Contact Hotline: 67450866 <br>Contact Email: sales@zetta-solution.com <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

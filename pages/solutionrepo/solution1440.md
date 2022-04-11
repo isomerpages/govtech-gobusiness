@@ -26,6 +26,34 @@ Eats365 POS System is design for chain restaurants, franchise or MNC. It automat
 <td style='padding: 10px;'>3207</td>
 <td style='padding: 10px;'>3207</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Grow)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4803</td>
+<td style='padding: 10px;'>4803</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Large)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8106</td>
+<td style='padding: 10px;'>7156</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Self-order Kiosk)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9130</td>
+<td style='padding: 10px;'>8580</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Dine-in self-order)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7589</td>
+<td style='padding: 10px;'>7289</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +62,7 @@ Eats365 POS System is design for chain restaurants, franchise or MNC. It automat
 
 ## Vendor Information
 
- Web URL: https://www.eisol.net/eats365 <br>Contact Hotline: 66816538 <br>Contact Email: hi@eisol.net <br>
+ Web URL: WWW.SMARTCOMM.BIZ <br>Contact Hotline: 65132389 <br>Contact Email: ask@smartcomm.biz <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

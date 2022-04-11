@@ -26,6 +26,20 @@ One-Stop Document Access is a document management system that offers browser and
 <td style='padding: 10px;'>3336</td>
 <td style='padding: 10px;'>2112</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>One-Stop Document Access - Plus (5 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6381</td>
+<td style='padding: 10px;'>5280</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>One-Stop Document Access - Pro (10 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10152</td>
+<td style='padding: 10px;'>10152</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +48,7 @@ One-Stop Document Access is a document management system that offers browser and
 
 ## Vendor Information
 
- Web URL: https://www.modernworkspace.biz/one-stopdocumentaccess<br>Contact Hotline: 64418406 <br>Contact Email: info@prominds.com.sg <br>
+ Company Name:LGA Telecom Pte Ltd <br>Web URL: https://www.lgatelecom.net <br>Contact Hotline: 68922308 <br>Contact Email: sales@lgatelecom.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

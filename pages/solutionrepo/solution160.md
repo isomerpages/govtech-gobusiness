@@ -30,7 +30,7 @@ Vertical storage and retrieval system designed to save floor space, maximise ver
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 

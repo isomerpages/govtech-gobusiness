@@ -30,7 +30,7 @@ A quarantine tank system for isolating and medicating sick fish fry, separating 
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 

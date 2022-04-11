@@ -27,6 +27,27 @@ BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Allia
 <td style='padding: 10px;'>3530</td>
 <td style='padding: 10px;'>2800</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD A.I Design Technologies - BricsCAD Ultimate + Communicator for BricsCAD Perpetual Single User License</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4410</td>
+<td style='padding: 10px;'>2800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD A.I Design Technologies - BricsCAD Ultimate Perpetual Network License</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5300</td>
+<td style='padding: 10px;'>2800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD A.I Design Technologies - BricsCAD Ultimate + Communicator for BricsCAD Perpetual Network License</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6650</td>
+<td style='padding: 10px;'>2800</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -35,7 +56,7 @@ BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Allia
 
 ## Vendor Information
 
- Web URL: https://aca-apac.com/sg/brands/-in-department/departments/bricsys <br>Contact Hotline: 65361728 <br>Contact Email: enquiry@acapacific.com.sg <br>
+ Web URL: www.roycemedia.com/products.html <br>Contact Hotline: 63232139 <br>Contact Email: sales@roycemedia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

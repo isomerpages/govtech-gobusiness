@@ -27,15 +27,36 @@ KEYfields leverages on technology, developing IT Solutions that are versatile an
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'>35000</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ONE LOGON - ONE LOGistics Online - Package 2 (iWMS On-Premise)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/KEYfields_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>42800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ONE LOGON - ONE LOGistics Online - Package 3 (iTMS SaaS)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/KEYfields_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>35000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ONE LOGON - ONE LOGistics Online - Package 4 (iTMS On-Premise)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/KEYfields_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>42800</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 
- KEYfields Pte. Ltd.<br>www.keyfields.com<br>Email: kenny@keyfields.com<br>Tel: +65 6842 7886
+ Web URL: https://www.bthrust.com/document-management-software.html<br>Contact Hotline: 68343026 <br>Contact Email: sales@bthrust.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

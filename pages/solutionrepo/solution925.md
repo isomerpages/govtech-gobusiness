@@ -27,15 +27,43 @@ By adopting Xero, unlimited users can log onto the system to perform the account
 <td style='padding: 10px;'>$$729</td>
 <td style='padding: 10px;'>$$729</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE-Xero Basic Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedW.L.PAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$1,529</td>
+<td style='padding: 10px;'>$1,529</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE-Xero Premier Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedW.L.PAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$2,329</td>
+<td style='padding: 10px;'>$2,329</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE-Xero Start-up Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedW.L.PAnnex3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$4,329</td>
+<td style='padding: 10px;'>$4,329</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE-Xero Booming Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedW.L.PAnnex3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$5,129</td>
+<td style='padding: 10px;'>$5,129</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name:W.L.P PTE LTD <br>Web URL:https://www.wlp.com.sg/ <br>Contact Hotline:64932970 <br>Contact Email:info@wlp.com.sg <br>
+ Winspire Solutions Pte Ltd<br>www.winspiresolutions.com<br>Email: jkulkarni@winspiresolutions.com<br>Tel: +65 9835 7900 (mobile) / +65 6744 0324
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

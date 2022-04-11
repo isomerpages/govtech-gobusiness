@@ -26,6 +26,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2. Knowledge Management</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Knowledge-Management-2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3. Effective Project Documentation</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Effective-Project-Documentation-Synchronous-elearning-2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

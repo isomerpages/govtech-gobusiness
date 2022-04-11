@@ -26,6 +26,20 @@ Stendard Solution  is a cloud-based document management system that allows you t
 <td style='padding: 10px;'>7000</td>
 <td style='padding: 10px;'>7000</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stendard Solution  Version 1.6.1 - Professional</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17000</td>
+<td style='padding: 10px;'>17000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stendard Solution  Version 1.6.1 - Enterprise</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>34000</td>
+<td style='padding: 10px;'>34000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +48,7 @@ Stendard Solution  is a cloud-based document management system that allows you t
 
 ## Vendor Information
 
- Company Name:YNL 360 Pte Ltd <br>Web URL: www.stendard.io/features <br>Contact Hotline: 87671969 <br>Contact Email: contact@stendard.io <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

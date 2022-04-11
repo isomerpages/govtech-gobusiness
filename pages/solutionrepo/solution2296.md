@@ -26,6 +26,34 @@ Really provides the state-of-the-art platform that helps property & facilities m
 <td style='padding: 10px;'>3900</td>
 <td style='padding: 10px;'>3800</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Really Platform for PMs and FMs Version 2.4-Small Property or Project Packaged Solution (portfolio of 2 - 10 properties or projects)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>12960</td>
+<td style='padding: 10px;'>12960</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Really Platform for PMs and FMs Version 2.4-Medium Property or Project Packaged Solution (portfolio of 11 - 50 properties or projects)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>24800</td>
+<td style='padding: 10px;'>24800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Really Platform for PMs and FMs Version 2.4-Large Property or Project Packaged Solution (portfolio of 51 - 90 properties or projects)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>34600</td>
+<td style='padding: 10px;'>34600</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Really Platform for PMs and FMs Version 2.4-Very Large Property or Project Packaged Solution (portfolio of 91 up to 150 properties or projects)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>49200</td>
+<td style='padding: 10px;'>49200</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +62,7 @@ Really provides the state-of-the-art platform that helps property & facilities m
 
 ## Vendor Information
 
- Web URL: https://www.really.sg/project-management-features/ <br>Contact Hotline: 69507563 <br>Contact Email: info@really.sg <br>
+ Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -26,6 +26,20 @@ Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, 
 <td style='padding: 10px;'>18500</td>
 <td style='padding: 10px;'>10000</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopcada Ecommerce and POS - Shopcada Premium Ecommerce Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9900</td>
+<td style='padding: 10px;'>8500</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopcada Ecommerce and POS - Shopcada Standard Ecommerce Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5900</td>
+<td style='padding: 10px;'>5220</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +48,7 @@ Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, 
 
 ## Vendor Information
 
- Company Name:Webcada Pte. Ltd. <br>Web URL: https://www.shopcada.com <br>Contact Hotline: 63343168 <br>Contact Email: sales@webcada.com <br>
+ Company Name:TNO Systems Pte Ltd <br>Web URL: www.globe3.com <br>Contact Hotline: 67498823 <br>Contact Email: sales@globe3.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

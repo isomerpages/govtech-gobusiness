@@ -30,7 +30,7 @@ Multi-tier growing system with racks, irrigation and dosing system, LED grow lig
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 

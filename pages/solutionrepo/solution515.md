@@ -26,6 +26,34 @@ Bitdefender GZ Advanced Business Security -- Guard against all threats and attac
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'>580.9</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EndPoint Protection Platform - 25 licenses</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_EndPoint_Protection_Platform_20200097_Annex_3_20200625151212_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>1311.25</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EndPoint Protection Platform - 50 Licenses</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_EndPoint_Protection_Platform_20200097_Annex_3_20200625151212_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>2341.5</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EndPoint Protection Platform - 100 Licenses</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_EndPoint_Protection_Platform_20200097_Annex_3_20200625151212_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>4455</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EndPoint Protection Platform - 200 Licenses</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_EndPoint_Protection_Platform_20200097_Annex_3_20200625151212_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>8434</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

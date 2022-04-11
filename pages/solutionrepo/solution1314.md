@@ -26,15 +26,43 @@ The GRmail removes the email threats even before it reaches the email server and
 <td style='padding: 10px;'>7170</td>
 <td style='padding: 10px;'>7170</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WFH Email Security with Cyber Essentials Online Course Package Version 1 - 50 x GR with Cyber Essential Course 1 Year Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10950</td>
+<td style='padding: 10px;'>10950</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WFH Email Security with Cyber Essentials Online Course Package Version 1 - 100 x GR with Cyber Essential Course 1 Year Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>18510</td>
+<td style='padding: 10px;'>18510</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WFH Email Security with Cyber Essentials Online Course Package Version 1 - 150 x GR with Cyber Essential Course 1 Year Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>25597.5</td>
+<td style='padding: 10px;'>25597.5</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WFH Email Security with Cyber Essentials Online Course Package Version 1 - 200 x GR with Cyber Essential Course 1 Year Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>31740</td>
+<td style='padding: 10px;'>31740</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name:Nucleo Consulting Pte Ltd <br>Web URL: www.nucleoconsulting.com/email-filtering-phishing-protection <br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com <br>
+ Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

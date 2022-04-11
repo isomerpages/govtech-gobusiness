@@ -26,15 +26,22 @@ VRcollab is a next generation VDC software solution for the construction industr
 <td style='padding: 10px;'>5650</td>
 <td style='padding: 10px;'>4499</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VRcollab LITE - LICENSE ONLY</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3900</td>
+<td style='padding: 10px;'>3000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Company Name:VRCOLLAB PTE. LTD. <br>Web URL: https://vrcollab.com/lite/ <br>Contact Hotline: +6591008417 <br>Contact Email: INFO@VRCOLLAB.COM <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

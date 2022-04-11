@@ -26,15 +26,43 @@ Rentalworks is a provider of sustainable IT device lease-to-use and endpoint sec
 <td style='padding: 10px;'>300</td>
 <td style='padding: 10px;'>300</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 10 Licenses (1 year)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>450</td>
+<td style='padding: 10px;'>450</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 25 Licenses (1 year)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1087.5</td>
+<td style='padding: 10px;'>1087.5</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 50 Licenses (1 year)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2025</td>
+<td style='padding: 10px;'>2025</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 100 Licenses (1 year)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3750</td>
+<td style='padding: 10px;'>3750</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: https://www.rentalworks.com.sg/curated-offers/ <br>Contact Hotline: 96119602 <br>Contact Email: psg@rentalworks.com.sg <br>
+ Web URL: https://.qbo.intuit.com/ <br>Contact Hotline: 69802981 <br>Contact Email: cksoo@qba.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -26,6 +26,27 @@ JustLogin is an Employee First Human Resource (HR) cloud platform that provides 
 <td style='padding: 10px;'>3100</td>
 <td style='padding: 10px;'>2740</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>JustLogin HR E-Scheduling - B (Up to 25 pax)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4850</td>
+<td style='padding: 10px;'>4400</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>JustLogin HR E-Scheduling - C (Up to 75 pax)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10150</td>
+<td style='padding: 10px;'>8800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>JustLogin HR E-Scheduling - D (Up to 125 pax)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>15850</td>
+<td style='padding: 10px;'>13500</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

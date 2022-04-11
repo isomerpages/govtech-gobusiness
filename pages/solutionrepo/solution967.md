@@ -26,6 +26,34 @@ Xero is a beautiful, intelligent software platform designed to make life better 
 <td style='padding: 10px;'>600</td>
 <td style='padding: 10px;'>561</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard, Set Up Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1250</td>
+<td style='padding: 10px;'>1211</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Premium, Set Up Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1430</td>
+<td style='padding: 10px;'>1379</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard, Set Up, Training Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2050</td>
+<td style='padding: 10px;'>2011</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Premium, Set Up, Training Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2230</td>
+<td style='padding: 10px;'>2179</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

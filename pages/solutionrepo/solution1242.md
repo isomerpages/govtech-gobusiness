@@ -26,15 +26,29 @@ Verz Design is one of the key and leading players when it comes to providing Mag
 <td style='padding: 10px;'>8000</td>
 <td style='padding: 10px;'>8000</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Magento and WooCommerce Solutions for Retail - Advanced WooCommerce Ecommerce by Verz Design (Emerald)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VerzDesign_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9000</td>
+<td style='padding: 10px;'>9000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Magento and WooCommerce Solutions for Retail - Adobe Magento Ecommerce Version 2 by Verz Design (Sapphire)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VerzDesign_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Company Name:Verz Design Pte Ltd <br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -27,15 +27,29 @@ Octopus Food Solutions provides a complete suites of innovative and easy-to-use 
 <td style='padding: 10px;'>4298</td>
 <td style='padding: 10px;'>3799</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Octopus Food Solution Version 7 - Package B (Bundle of 3 Mobile Ordering)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7296</td>
+<td style='padding: 10px;'>6797</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Octopus Food Solution Version 7 - Package D (Bundle of 2 Self-Checkout Kiosk)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10897</td>
+<td style='padding: 10px;'>6598</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Octopus Retail Management Pte Ltd<br>https://octopuspos.com<br>Email: solutions@octopuspos.com<br>Tel: +65 6221 6601
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

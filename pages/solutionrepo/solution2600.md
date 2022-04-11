@@ -26,6 +26,13 @@ Taidii is a company providing integrated solution to all the educational institu
 <td style='padding: 10px;'>2000</td>
 <td style='padding: 10px;'>2000</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii Smart E-Form Solution - Top-up</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1900</td>
+<td style='padding: 10px;'>1900</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +41,7 @@ Taidii is a company providing integrated solution to all the educational institu
 
 ## Vendor Information
 
- Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com <br>
+ Web URL: WWW.NTC.COM.SG <br>Contact Hotline: 97805234 <br>Contact Email: keith@ntc.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

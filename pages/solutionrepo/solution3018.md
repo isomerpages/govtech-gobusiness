@@ -26,6 +26,41 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2. Fundamentals of Cyber Security</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Fundamentals-Cyber-Security-2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3. NICF - CND - Certified Network Defender</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/NICF-CND-Certified-Network-Defender-SF-2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1. Cyber Security Incident Handling and Response</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/SF-Cyber-Security-Incident-Handling-Response-2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2. Big Data Analytics and AI / Machine Learning with Python Coding / Programming</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Big-Data-Analytics-AI-Machine-Learning-Python-Coding-Programming-Beginner-Intermediate-2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3. Fundamentals of Cyber Security</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Fundamentals-Cyber-Security-2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

@@ -26,15 +26,29 @@ Moiboo is an automobile business software which helps auto workshops, auto deale
 <td style='padding: 10px;'>5400</td>
 <td style='padding: 10px;'>5400</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>REACH MOIBOO Version 1.8 - Plan B</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10800</td>
+<td style='padding: 10px;'>10800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>REACH MOIBOO Version 1.8 - Plan C</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>16200</td>
+<td style='padding: 10px;'>16200</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name:REACH PROCESS OUTSOURCING PTE. LTD. <br>Web URL: www.moiboo.com <br>Contact Hotline: 98951817 <br>Contact Email: babu@moiboo.com <br>
+ SecureAge Technology Pte Ltd<br>www.secureage.com/secureaplus<br>Email: teowhin@secureage.com<br>Tel: +65 6873 3710
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

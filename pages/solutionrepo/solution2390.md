@@ -26,6 +26,20 @@ HRMS software assists an organization's human resources department by automating
 <td style='padding: 10px;'>3200</td>
 <td style='padding: 10px;'>3000</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartCursors Human Resource Management System (HRMS) - Silver (up to 25 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Smartcursors_HRMS_20200638_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5500</td>
+<td style='padding: 10px;'>5200</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartCursors Human Resource Management System (HRMS) - Gold (up to 100 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Smartcursors_HRMS_20200638_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17000</td>
+<td style='padding: 10px;'>16600</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +48,7 @@ HRMS software assists an organization's human resources department by automating
 
 ## Vendor Information
 
- Web URL: WWW.SMARTCURSORS.COM <br>Contact Hotline: 63365500 <br>Contact Email: CONTACT@SMARTCURSORS.COM <br>
+ Web URL: https://www.engagenova.com/novavision <br>Contact Hotline: 88492042 <br>Contact Email: contact@engagenova.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

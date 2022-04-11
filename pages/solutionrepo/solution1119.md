@@ -26,6 +26,34 @@ Our POS solution is customizable to use in multiple business sectors, which are 
 <td style='padding: 10px;'>$4,000.00</td>
 <td style='padding: 10px;'>$4,000.00</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (PRO)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (PRO PLUS)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'>$6,800.00</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (ENTERPRISE)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'>$9400.00</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (ENTERPRISE PLUS)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$12,400.00</td>
+<td style='padding: 10px;'>$11200.00</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +62,7 @@ Our POS solution is customizable to use in multiple business sectors, which are 
 
 ## Vendor Information
 
- Company Name:SUNTOYO TECHNOLOGY PTE LTD <br>Web URL: WWW.SUNTOYO.COM.SG <br>Contact Hotline: 65533855 <br>Contact Email: SUNTOYO@SUNTOYO.COM.SG <br>
+ Company Name:Aptsys Technology Solutions Pte Ltd <br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 64577991 <br>Contact Email: sales.demo@aptsys.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

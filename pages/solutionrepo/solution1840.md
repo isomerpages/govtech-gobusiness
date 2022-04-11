@@ -26,15 +26,29 @@ MyDoc's Telemedicine Solution for providers is a bundled package that providers 
 <td style='padding: 10px;'>$1510.00</td>
 <td style='padding: 10px;'>$1510.00</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyDoc Telemedicine Solution - Package 2 (2 Doctors)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MyDoc_Annex_3_PSG_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$2,570.00</td>
+<td style='padding: 10px;'>$2,570.00</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyDoc Telemedicine Solution - Package 3 (3 Doctors)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MyDoc_Annex_3_PSG_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$3630.00</td>
+<td style='padding: 10px;'>$3000.00</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Company Name: MyDoc Private Limited<br>Web URL: www.my-doc.com<br>Contact Hotline: 8309 2948<br>Contact Email: Zoe.bergin@my-doc.com
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

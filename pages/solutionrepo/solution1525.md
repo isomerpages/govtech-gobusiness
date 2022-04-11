@@ -34,7 +34,7 @@ Web Imp is an award winning SG tech firm with full in-house capabilities. They f
 
 ## Vendor Information
 
- Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact Email: sales@webimp.com.sg <br>
+ Web URL: https://sg.canon/en/business/therefore-online/product <br>Contact Hotline: 68622666 <br>Contact Email: Documentsolutions@canon.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -26,6 +26,34 @@ VSS is a comprehensive and user-friendly solution in wireless applications of Gl
 <td style='padding: 10px;'>24100</td>
 <td style='padding: 10px;'>24100</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Support System - Vehicle Support System (14 Vehicles Package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_GridPlus_Annex_3_wef_14_October_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>28100</td>
+<td style='padding: 10px;'>28100</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Support System - Vehicle Support System (16 Vehicles Package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_GridPlus_Annex_3_wef_14_October_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>32100</td>
+<td style='padding: 10px;'>32100</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Support System - Vehicle Support System (18 Vehicles Package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_GridPlus_Annex_3_wef_14_October_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>36100</td>
+<td style='padding: 10px;'>36100</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Support System - Vehicle Support System (20 Vehicles Package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_GridPlus_Annex_3_wef_14_October_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>40100</td>
+<td style='padding: 10px;'>40100</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +62,7 @@ VSS is a comprehensive and user-friendly solution in wireless applications of Gl
 
 ## Vendor Information
 
- Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
+ Web URL: http://swingvy.com/ <br>Contact Hotline: +6591877655 <br>Contact Email: support@swingvy.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

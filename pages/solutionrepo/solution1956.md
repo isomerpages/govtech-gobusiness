@@ -26,15 +26,43 @@ FoodZaps Technology is a Singapore company with the most comprehensive and integ
 <td style='padding: 10px;'>3150</td>
 <td style='padding: 10px;'>3150</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FoodZaps Version 4.0-Package B (eMenu with eWaiter)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4980</td>
+<td style='padding: 10px;'>4980</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FoodZaps Version 4.0-Package C (Customer QR/Online Self Ordering)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2850</td>
+<td style='padding: 10px;'>2850</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FoodZaps Version 4.0-Package D(eMenu, eWaiter, Customer QR/Online Self Ordering and Digital Payment all-in-one solution)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9960</td>
+<td style='padding: 10px;'>7880</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FoodZaps Version 4.0-Package E(eMenu with Customer QR/Online Self Ordering Contactless Ordering Solution)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7830</td>
+<td style='padding: 10px;'>7830</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Company Name:FoodZaps Technology Pte Ltd <br>Web URL: http://foodzaps.com/sg <br>Contact Hotline: 8921 4028 <br>Contact Email: sales@foodzaps.com <br>
+ Web URL: www.a2000erp.com <br>Contact Hotline: 67202000 <br>Contact Email: info@a2000.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

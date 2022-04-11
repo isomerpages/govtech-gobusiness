@@ -34,7 +34,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2531
 
 ## Vendor Information
 
- Web URL: www.2dfire.sg <br>Contact Hotline: 83210776 <br>Contact Email: cocowang@1-smart.com.sg<br>
+ Web URL: https://www.rentalworks.com.sg/curated-offers/ <br>Contact Hotline: 96119602 <br>Contact Email: psg@rentalworks.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

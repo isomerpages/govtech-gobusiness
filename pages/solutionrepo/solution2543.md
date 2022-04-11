@@ -31,11 +31,11 @@ Business owners save time to explore countless subscription-based Saas tools by 
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: https://mibc.sg/web-development/ <br>Contact Hotline: 63535152 <br>Contact Email: support@mibc.sg <br>
+ Web URL: www.qanvast.com <br>Contact Hotline: 65898354 <br>Contact Email: heretohelp@qanvast.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

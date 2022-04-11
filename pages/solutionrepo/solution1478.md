@@ -26,6 +26,34 @@ KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on 
 <td style='padding: 10px;'>1836000</td>
 <td style='padding: 10px;'>830000</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 3 Bank with Auto ETL)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2036000</td>
+<td style='padding: 10px;'>830000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2726000</td>
+<td style='padding: 10px;'>830000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank with Auto ETL - Small Engine)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2926000</td>
+<td style='padding: 10px;'>830000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank with Auto ETL - Medium Engine)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3174000</td>
+<td style='padding: 10px;'>830000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

@@ -27,6 +27,34 @@ AutoCount Accounting stands out as one of the best accounting software for today
 <td style='padding: 10px;'>5000</td>
 <td style='padding: 10px;'>5000</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Pro 3 users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7520</td>
+<td style='padding: 10px;'>7520</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 5 users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10520</td>
+<td style='padding: 10px;'>10520</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 7 users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11720</td>
+<td style='padding: 10px;'>11720</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 10 users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>13520</td>
+<td style='padding: 10px;'>13520</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -35,7 +63,7 @@ AutoCount Accounting stands out as one of the best accounting software for today
 
 ## Vendor Information
 
- Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg <br>
+ Web URL: https://hitachisunway-solutions.sg <br>Contact Hotline: 91053811 <br>Contact Email: enquiryplm-sg@hitachi-sunway-is.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -34,7 +34,7 @@ Grant support: 80% of cost of equipment, up to $16,000 grant
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 

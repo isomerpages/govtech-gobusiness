@@ -26,15 +26,36 @@ ChopeBook is a Table Management System (TMS) designed to make the most of a rest
 <td style='padding: 10px;'>4350</td>
 <td style='padding: 10px;'>4350</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ChopeBook - ChopeBook with Phone Line Mgmt Software Only </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6750</td>
+<td style='padding: 10px;'>6750</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ChopeBook - ChopeBook Software & Hardware</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4850</td>
+<td style='padding: 10px;'>4850</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ChopeBook - ChopeBook with Phone Line Management Software & Hardware</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7250</td>
+<td style='padding: 10px;'>7250</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - 
 
 ## Vendor Information
 
- Web URL: restaurants.chope.co <br>Contact Hotline: 62256612 <br>Contact Email: sales.sg@chope.co <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

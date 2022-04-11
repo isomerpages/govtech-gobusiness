@@ -26,15 +26,43 @@ Cybots ensures cyber resilience for all sectors, from SMEs to large multinationa
 <td style='padding: 10px;'>11900</td>
 <td style='padding: 10px;'>11300</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-2</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>21000</td>
+<td style='padding: 10px;'>20400</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-3</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>26250</td>
+<td style='padding: 10px;'>25650</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-4</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>30500</td>
+<td style='padding: 10px;'>29900</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-5</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>39500</td>
+<td style='padding: 10px;'>38900</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: https://cybotsai.com/cybersecurity-solutions/advanced-managed-detection-response/ <br>Contact Hotline: 69835690 <br>Contact Email: contactus@cybotsai.com <br>
+ Web URL: https://www.andrecorpl.com/abss-accounting-software/ <br>Contact Hotline: 92258858 <br>Contact Email: consultants@andre.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

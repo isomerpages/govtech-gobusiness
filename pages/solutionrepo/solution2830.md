@@ -26,15 +26,43 @@ The XGS Firewall Series offers next-generation firewall features that provide vi
 <td style='padding: 10px;'>1735</td>
 <td style='padding: 10px;'>1735</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 136 - 12 MOS</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2310</td>
+<td style='padding: 10px;'>2310</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 2100 - 12 MOS  </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3809</td>
+<td style='padding: 10px;'>3809</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 2300 - 12 MOS  </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5035</td>
+<td style='padding: 10px;'>5035</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 3100 - 12 MOS  </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8475</td>
+<td style='padding: 10px;'>8275</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Web URL: www.centricsnetworks.com.sg <br>Contact Hotline: 68337898 <br>Contact Email: sales@centricsnetworks.com.sg <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -26,15 +26,22 @@ Qornerstone Estate is an off-the-shelf solution to digitalize Property & Managem
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'>44400</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qornerstone Estate Management System Version 3.50 - Qornerstone Subscription Packages for Property Management Companies (MA)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>13500</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- IBASE Technology Pte Ltd<br>www.ibase.com.sg / www.qornerstone.com<br>Email: sales@qornerstone.com
+ Company Name:TrustyTech Pte Ltd <br>Web URL: https://www.easybus.app/ <br>Contact Hotline: 90999564 <br>Contact Email: business@trustytechgroup.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

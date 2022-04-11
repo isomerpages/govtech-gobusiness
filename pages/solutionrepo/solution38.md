@@ -32,7 +32,7 @@ Cost of equipment capped at $18,750 per unit
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 

@@ -26,6 +26,34 @@ Microsoft Dynamics 365 Business Central is a flexible, scalable, comprehensive a
 <td style='padding: 10px;'>39700</td>
 <td style='padding: 10px;'>23400</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package B (5 Users with PEPPOL unlimited + Field Sales App 3 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>45132</td>
+<td style='padding: 10px;'>28832</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package C (3 Perpetual Users with PEPPOL unlimited)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>41064.4</td>
+<td style='padding: 10px;'>23790</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package D (5 Users with PEPPOL unlimited + Customer Self Ordering App)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>47587</td>
+<td style='padding: 10px;'>31287</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package E (5 Users with PEPPOL unlimited + Warehouse Management App 3 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>45960</td>
+<td style='padding: 10px;'>29660</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

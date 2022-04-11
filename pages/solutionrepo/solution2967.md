@@ -26,6 +26,41 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2. Higher Nitec in Security System Integration</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Higher-Nitec-Security-System-Integration-2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3. Access Control Management (Plan and Implement Security Systems)</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Access-Control-Management-Plan-Implement-Security-Systems-2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1. Performance Management (Lead and Manage a Team of Security Officers)</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Performance-Management-Lead-Manage-Team-Security-Officers-5' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2. Guard and Patrol (Provide Guard and Patrol Services)</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Guard-Patrol-Provide-Guard-Patrol-Services-34' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3. Incident Response (Perform Monitoring and Reporting Duties at Central Command Centre)</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Incident-Response-Perform-Monitoring-Reporting-Duties-Central-Command-Centre-8' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

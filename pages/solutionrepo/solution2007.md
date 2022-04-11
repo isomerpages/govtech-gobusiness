@@ -28,15 +28,36 @@ Your team has the freedom to check rosters, accept and decline shifts, request l
 <td style='padding: 10px;'>3220</td>
 <td style='padding: 10px;'>3220</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roubler - Roubler 31- 60 Users </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roubler20200690_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5820</td>
+<td style='padding: 10px;'>5820</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roubler - Roubler 60 -100 Users </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roubler20200690_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7700</td>
+<td style='padding: 10px;'>7700</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roubler - Roubler 101 - 200 Users </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roubler20200690_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11600</td>
+<td style='padding: 10px;'>11400</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: www.roubler.com <br>Contact Hotline: 31636786 <br>Contact Email: info@roubler.com <br>
+ Company Name: Cloud Accounting & Consultancy Pte Ltd<br>Web URL: CFOSG.SG<br>Contact Hotline: 67219545<br>Contact Email: XERO@CFOSG.SG
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

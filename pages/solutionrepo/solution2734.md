@@ -26,6 +26,34 @@ Whyze Solutions is a HR & Payroll solution provider based in Singapore since 200
 <td style='padding: 10px;'>4600</td>
 <td style='padding: 10px;'>4600</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 50</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5850</td>
+<td style='padding: 10px;'>5850</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 100</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9200</td>
+<td style='padding: 10px;'>9200</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>13800</td>
+<td style='padding: 10px;'>13800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD PLUS 150</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>16900</td>
+<td style='padding: 10px;'>16900</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +62,7 @@ Whyze Solutions is a HR & Payroll solution provider based in Singapore since 200
 
 ## Vendor Information
 
- Web URL: https://whyze.com.sg/escheduling/ <br>Contact Hotline: 68380161 <br>Contact Email: enquiry@whyze.com.sg <br>
+ Web URL: www.murho.com.sg <br>Contact Hotline: 62893802 <br>Contact Email: sales@murho.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

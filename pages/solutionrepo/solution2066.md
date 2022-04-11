@@ -26,15 +26,43 @@ Autodesk BIM360 Design is a design collaboration software providing a platform f
 <td style='padding: 10px;'>2960</td>
 <td style='padding: 10px;'>2600</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Autodesk BIM Collaborate Pro - 5 Users Pack</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7100</td>
+<td style='padding: 10px;'>6100</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Autodesk BIM Collaborate Pro - 10 Users Pack</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11950</td>
+<td style='padding: 10px;'>11000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Autodesk BIM Collaborate Pro - 25 Users Pack</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>26350</td>
+<td style='padding: 10px;'>26350</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FacilityBot - FacilityBot Multiple Site Plan (100 Accounts)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedFacilityBotAnnex3CRwef10June2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>37500</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
+ Web URL: https://peppercloud.com/ <br>Contact Hotline: 97510475 <br>Contact Email: sales@peppercloud.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

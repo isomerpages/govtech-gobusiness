@@ -26,15 +26,43 @@ Align Group's payroll outsourcing simplifies payroll work for SME owners. SMEs c
 <td style='padding: 10px;'>9800</td>
 <td style='padding: 10px;'>9800</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 30 Employees</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>12200</td>
+<td style='padding: 10px;'>12200</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 50 Employees</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17000</td>
+<td style='padding: 10px;'>17000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 100 Employees</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>29000</td>
+<td style='padding: 10px;'>29000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 200 Employees</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>53000</td>
+<td style='padding: 10px;'>42800</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: https://www.aligngroup.asia/hr-business-partnering/ <br>Contact Hotline: 62225224 <br>Contact Email: service@aligngroup.asia <br>
+ Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim <br>Contact Hotline: 98894289 <br>Contact Email: angels@angelsbusiness.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

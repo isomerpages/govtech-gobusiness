@@ -26,15 +26,43 @@ AdeptForms help our clients to improve and grow by automating their business pro
 <td style='padding: 10px;'>12500</td>
 <td style='padding: 10px;'>12500</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package B (Up to 10 Sites)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>25000</td>
+<td style='padding: 10px;'>25000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package C (Up to 15 Sites)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>37500</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package D (Up to 5 Sites include Bodyworn)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17500</td>
+<td style='padding: 10px;'>15000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package E (Up to 10 Sites include Bodyworn)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>35000</td>
+<td style='padding: 10px;'>30000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: https://www.adeptforms.com/ <br>Contact Hotline: 90255587 <br>Contact Email: contact@adeptforms.com <br>
+ Web URL: https://cybotsai.com/cybersecurity-solutions/advanced-managed-detection-response/ <br>Contact Hotline: 69835690 <br>Contact Email: contactus@cybotsai.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

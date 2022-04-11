@@ -32,11 +32,11 @@ Cost of equipment capped at $10,000 per unit
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- 
+ Web URL: https://concordesecurity.com/our-solutions/i-man-facility-sprinter-ifs/ <br>Contact Hotline: 62960802 <br>Contact Email: alan.chua@concorde.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

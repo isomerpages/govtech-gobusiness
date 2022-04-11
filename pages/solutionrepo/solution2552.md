@@ -31,11 +31,11 @@ is doing at any given time.
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: www.uventures.com.sg <br>Contact Hotline: 67358135 <br>Contact Email: info@uventures.com.sg <br>
+ Web URL: https://sugatitravel.com/ <br>Contact Hotline: 91273257 <br>Contact Email: hello@sugatitravel.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

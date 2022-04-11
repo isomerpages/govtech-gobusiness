@@ -30,7 +30,7 @@ Integrated processing system to process produce into value-added products
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 

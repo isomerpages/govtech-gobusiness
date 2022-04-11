@@ -26,6 +26,34 @@ Xero is a comprehensive accounting software that provides accounting features li
 <td style='padding: 10px;'>5527</td>
 <td style='padding: 10px;'>5527</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Package C (Xero Premier with Training)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2328</td>
+<td style='padding: 10px;'>2328</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Package D (Xero Premier with setup)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1928.25</td>
+<td style='padding: 10px;'>1928.25</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Package E (Xero Subscription only)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>729</td>
+<td style='padding: 10px;'>729</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Package B (Xero Premier full package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3927</td>
+<td style='padding: 10px;'>3927</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

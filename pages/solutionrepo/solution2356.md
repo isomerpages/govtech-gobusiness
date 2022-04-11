@@ -26,15 +26,36 @@ Swipetask is a Workforce & Task-management solution for optimization, productivi
 <td style='padding: 10px;'>9968</td>
 <td style='padding: 10px;'>9968</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask PRO - Workforce & Task-Management solution incl. SensorTOILET</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17196</td>
+<td style='padding: 10px;'>15700</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask Facility-OPS</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>36388</td>
+<td style='padding: 10px;'>36388</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask Facility-OPS Plus</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>42388</td>
+<td style='padding: 10px;'>42388</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: www.swipetask.com <br>Contact Hotline: +6596391259 <br>Contact Email: info@swipetask.com <br>
+ Web URL: www.care.biz <br>Contact Hotline: 67448022 <br>Contact Email: sales@sg.care.biz <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

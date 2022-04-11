@@ -35,11 +35,11 @@ Subscription/Leasing: 80% of cost of equipment, up to $8,000/unit/year
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase,Subscription / Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 
- 
+ Web URL: https://www.staffany.com <br>Contact Hotline: 9755 8195 <br>Contact Email: hello@staffany.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

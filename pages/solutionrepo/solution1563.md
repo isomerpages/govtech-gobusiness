@@ -27,6 +27,34 @@ iMakan is widely used by new age diners who prefer digital menu and fast pace or
 <td style='padding: 10px;'>4580</td>
 <td style='padding: 10px;'>4580</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - Mobile Ordering (Direct Purchase) </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6980</td>
+<td style='padding: 10px;'>6980</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - Digital & QR Ordering Standard with Analytics</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7980</td>
+<td style='padding: 10px;'>7980</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - F&B Full Digitalisation with Analytics</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>13480</td>
+<td style='padding: 10px;'>13480</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - 2 x Kiosks + KDS & Number Display with Analytics</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17580</td>
+<td style='padding: 10px;'>16980</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -35,7 +63,7 @@ iMakan is widely used by new age diners who prefer digital menu and fast pace or
 
 ## Vendor Information
 
- Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg <br>
+ Web URL: https://www.solo.com.sg/safepass-facial-recognition-fever-screening-with-attendance-and-access-control-system/ <br>Contact Hotline: 65158803 <br>Contact Email: sales@solo.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

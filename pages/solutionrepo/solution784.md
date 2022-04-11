@@ -30,11 +30,11 @@ EzyProcure, Procure to Pay Solution which benefits both buyer and supplier by st
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Singapore E-business Pte Ltd<br>www.sgebiz.com<br>Email: info@sgebiz.com<br>Tel: +65 6200 8021
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -26,15 +26,43 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 <td style='padding: 10px;'>4980</td>
 <td style='padding: 10px;'>4900</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 10</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6720</td>
+<td style='padding: 10px;'>6720</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 20</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9840</td>
+<td style='padding: 10px;'>9840</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 40</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17419</td>
+<td style='padding: 10px;'>17419</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 60</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>24719</td>
+<td style='padding: 10px;'>24719</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: https://commercepromote.com/agency-management <br>Contact Hotline: 97508889 <br>Contact Email: cpsales@commercepromote.com <br>
+ Web URL: www.rahtech.com <br>Contact Hotline: 8766 5066<br>Contact Email: PSG@RAHTECH.COM<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

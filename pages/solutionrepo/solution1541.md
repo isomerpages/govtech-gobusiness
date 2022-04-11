@@ -26,6 +26,27 @@ Microsoft Dynamics 365 Business Central is an easily adaptable enterprise resour
 <td style='padding: 10px;'>77555.68</td>
 <td style='padding: 10px;'>42800</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central - Package C (PEPPOL e-invoicing-7 Subscription Licence)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex 3_CR wef_26_August_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>54508.8</td>
+<td style='padding: 10px;'>31708.8</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central - Package D (PEPPOL e-invoicing-15 Subscription Licence)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex 3_CR wef_26_August_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>66403.2</td>
+<td style='padding: 10px;'>42800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>D365 Business Central (Microsoft) - Package E (10 Subscription Licences)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex 3_CR wef_26_August_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>35275.2</td>
+<td style='padding: 10px;'>31275.2</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +55,7 @@ Microsoft Dynamics 365 Business Central is an easily adaptable enterprise resour
 
 ## Vendor Information
 
- Company Name: Winspire Solutions Pte Ltd<br>Web URL: www.winspiresolutions.com<br>Contact Hotline: 67440324<br>Contact Email: jkulkarni@winspiresolutions.com
+ Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

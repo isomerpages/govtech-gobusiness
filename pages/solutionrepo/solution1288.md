@@ -26,15 +26,43 @@ PEOPLECENTRAL is a comprehensive HRMS Solution. All-in-one platform empowering H
 <td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'>$5,000.00</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PEOPLECENTRAL HRMS Version 11 - Professional 100</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PeopleCentral_HRMS_Annex_3_CR_wef_4_Nov_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PEOPLECENTRAL HRMS Version 11 - Professional 150</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PeopleCentral_HRMS_Annex_3_CR_wef_4_Nov_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$15,000.00</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PEOPLECENTRAL HRMS Version 11 - Professional 200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PeopleCentral_HRMS_Annex_3_CR_wef_4_Nov_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>20000</td>
+<td style='padding: 10px;'>20000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PEOPLECENTRAL HRMS Version 11 - Professional 250</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PeopleCentral_HRMS_Annex_3_CR_wef_4_Nov_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>$24,850.00</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- <br>Web URL: www.peoplecentral.co <br>Contact Hotline: 68372336 <br>Contact Email: business@peoplecentral.co<br>
+ Company Name:Active Interactions Pte Ltd <br>Web URL: trueblu.co <br>Contact Hotline: 91697979 <br>Contact Email: joel@activeinteractions.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -30,7 +30,7 @@ A machine that sow seeds at a specified depth and position and ensures uniform a
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 

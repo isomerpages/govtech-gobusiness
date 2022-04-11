@@ -27,15 +27,43 @@ Since being established in 1996, AutoCount has grown into the TOP SME brands, se
 <td style='padding: 10px;'>4500</td>
 <td style='padding: 10px;'>4500</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - AutoCount Accounting Basic V2.0 ( 3 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AutoCount_20200013_Annex_3_20200625142956_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5700</td>
+<td style='padding: 10px;'>5700</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - AutoCount Accounting Professional V2.0 ( 3 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AutoCount_20200013_Annex_3_20200625142956_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7200</td>
+<td style='padding: 10px;'>6800</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - AutoCount Accounting Premium V2.0 ( 1 User)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AutoCount_20200013_Annex_3_20200625142956_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8400</td>
+<td style='padding: 10px;'>7200</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - AutoCount Accounting Premium V2.0 ( 5 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AutoCount_20200013_Annex_3_20200625142956_Part_6.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10800</td>
+<td style='padding: 10px;'>9600</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Autocount (S) Pte Ltd<br>www.autocountsoft.com.sg<br>Email: sales.sg@autocountsoft.com<br>Tel:+65 8321 9689
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

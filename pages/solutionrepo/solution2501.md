@@ -26,15 +26,29 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 <td style='padding: 10px;'>9800</td>
 <td style='padding: 10px;'>9800</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative eShop - Creative eShop Package Standard</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11800</td>
+<td style='padding: 10px;'>10000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative eShop - Creative eShop Package Premium</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>13800</td>
+<td style='padding: 10px;'>10000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg <br>
+ Web URL: https://quickbooks.intuit.com/sg <br>Contact Hotline: 68449633 <br>Contact Email: info@inbiz-solutions.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

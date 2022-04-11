@@ -34,7 +34,7 @@ Grant support: 80% of cost of equipment, up to $2,600 grant per unit.
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 

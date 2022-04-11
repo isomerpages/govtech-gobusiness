@@ -26,6 +26,13 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2739
 <td style='padding: 10px;'>9600</td>
 <td style='padding: 10px;'>9600</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM 3D Digital Booster - Package 2: SEO / SEM (3 Months)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_3D_BRAND_AGENCY_20210423_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8000</td>
+<td style='padding: 10px;'>8000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +41,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2739
 
 ## Vendor Information
 
- Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 88812881 <br>Contact Email: hello@3dbrandagency.com <br>
+ Web URL: https://www.opensofthr.com/products/ <br>Contact Hotline: 63461511 <br>Contact Email: sales@opensofthr.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

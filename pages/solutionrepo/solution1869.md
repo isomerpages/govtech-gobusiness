@@ -28,6 +28,34 @@ We provide EndPoint protection, vulnerability assessment, network threat hunting
 <td style='padding: 10px;'>5000</td>
 <td style='padding: 10px;'>5000</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) SME Lite with Next Business Day Security Support</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Toffs_Technologies_20200279_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11000</td>
+<td style='padding: 10px;'>11000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) SME Small with 24 x 7 Managed Security Support</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Toffs_Technologies_20200279_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>27450</td>
+<td style='padding: 10px;'>27450</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) SME Medium with 24 x 7 Managed security support </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Toffs_Technologies_20200279_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>37000</td>
+<td style='padding: 10px;'>37000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) Internet & Malware Defence Large SME with 24 x 7 Managed Support</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Toffs_Technologies_20200279_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>42800</td>
+<td style='padding: 10px;'>42800</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -36,7 +64,7 @@ We provide EndPoint protection, vulnerability assessment, network threat hunting
 
 ## Vendor Information
 
- Web URL: www.toffstech.com <br>Contact Hotline: 63861260 <br>Contact Email: marketing@toffstech.com <br>
+ Web URL: https://auk.industries <br>Contact Hotline: 68163655 <br>Contact Email: sales.web@auk.industries <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

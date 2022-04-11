@@ -26,15 +26,29 @@ OS Store is a web-based, e-commerce solution that enables SMEs to build a storef
 <td style='padding: 10px;'>5000</td>
 <td style='padding: 10px;'>5000</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OS Store E-Commerce - Pro</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8000</td>
+<td style='padding: 10px;'>8000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OS Store E-Commerce - Premium</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: https://www.orfeostory.com/psg/<br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com <br>
+ Web URL: www.asiacloud.com.sg <br>Contact Hotline: 64716179 <br>Contact Email: ES@asiacloud.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

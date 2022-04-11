@@ -36,7 +36,7 @@ Cost of equipment capped at $7,500 per unit
 
 ## Vendor Information
 
- 
+ Company Name:FoodZaps Technology Pte Ltd <br>Web URL: http://foodzaps.com/sg <br>Contact Hotline: 8921 4028 <br>Contact Email: sales@foodzaps.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

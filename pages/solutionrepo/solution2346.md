@@ -26,15 +26,36 @@ The end-to-end warehouse management solution helps improve efficiency of warehou
 <td style='padding: 10px;'>25200</td>
 <td style='padding: 10px;'>22200</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management Version 6 - Cloud Model ( 5 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>29700</td>
+<td style='padding: 10px;'>29200</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management Version 6 - Cloud Model ( 8 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>34000</td>
+<td style='padding: 10px;'>32400</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management Version 6 - On Premise (5 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>56000</td>
+<td style='padding: 10px;'>33400</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: https://simplr.net/solutions/ <br>Contact Hotline: 93801127 <br>Contact Email: ram@simplr.net <br>
+ Web URL: www.daisy.sg <br>Contact Hotline: 92736613 <br>Contact Email: kate@daisy.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

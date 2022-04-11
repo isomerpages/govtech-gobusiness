@@ -30,11 +30,11 @@ Welding is usually carried out manually by welders or operators of an auto weldi
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- 
+ Company Name:VENUERIFIC PTE. LTD. <br>Web URL: www.venuerific.com <br>Contact Hotline: 84489750 <br>Contact Email: support.sg@venuerific.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -26,15 +26,22 @@ LittleLives is a holistic school management system built to simplify complex sch
 <td style='padding: 10px;'>6537</td>
 <td style='padding: 10px;'>5301</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Lite Plan (Standalone center)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4797</td>
+<td style='padding: 10px;'>4797</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com <br>
+ Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

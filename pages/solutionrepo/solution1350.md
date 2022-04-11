@@ -26,15 +26,36 @@ FingerBooth POS System is an one stop solution for retail and beauty industry sh
 <td style='padding: 10px;'>6500</td>
 <td style='padding: 10px;'>6500</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FingerBooth POS System Version 1 - POS System Pro</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FingerBooth POS System Version 1 - POS System Pro + Online Appointment</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>16800</td>
+<td style='padding: 10px;'>16200</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FingerBooth POS System Version 1 - POS System Pro With Hardware</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11800</td>
+<td style='padding: 10px;'>11200</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name:BIG MOUTH MARKETING PTE LTD <br>Web URL: WWW.FINGERBOOTH.COM <br>Contact Hotline: 90604096 <br>Contact Email: SALES@FINGERBOOTH.COM <br>
+ Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 8881 2881  <br>Contact Email: hello@3dbrandagency.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

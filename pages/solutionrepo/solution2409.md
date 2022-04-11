@@ -28,15 +28,43 @@ Flick's Time Management System Enterprise Enhanced (TMSEE) is a time attendance 
 <td style='padding: 10px;'>3000</td>
 <td style='padding: 10px;'>3000</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 50</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4500</td>
+<td style='padding: 10px;'>4500</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 100</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8500</td>
+<td style='padding: 10px;'>8500</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 150</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11500</td>
+<td style='padding: 10px;'>11500</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>14500</td>
+<td style='padding: 10px;'>14500</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: www.flick.sg <br>Contact Hotline: 62768255 <br>Contact Email: sales@flick.sg <br>
+ Web URL: https://www.incorporateyour.com <br>Contact Hotline: 63349329 <br>Contact Email: sales@incorporateyour.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

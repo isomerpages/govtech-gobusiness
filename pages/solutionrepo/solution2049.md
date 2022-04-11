@@ -27,15 +27,43 @@ With this all-rounded EndPoint Protection, threats are disrupted, contained, and
 <td style='padding: 10px;'>1370</td>
 <td style='padding: 10px;'>1370</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (25 Units)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3175</td>
+<td style='padding: 10px;'>3175</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (50 Units)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5850</td>
+<td style='padding: 10px;'>5850</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (100 Units)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10700</td>
+<td style='padding: 10px;'>10700</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (150 Units)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>15850</td>
+<td style='padding: 10px;'>15850</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: https://adventus.com/ <br>Contact Hotline: 61003310 <br>Contact Email: info@adventus.com<br>
+ Web URL: https://iprodezign.sg/ecommerce-solutions-singapore/ <br>Contact Hotline: 69147727 <br>Contact Email: admin@iprodezign.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

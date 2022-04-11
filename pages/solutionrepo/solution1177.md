@@ -26,15 +26,43 @@ Madsoft Solutions is an integrated order processing, inventory and accounting so
 <td style='padding: 10px;'>8339</td>
 <td style='padding: 10px;'>8339</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Madsoft Solutions IAF Version 320 - Package B (Madsoft Business 5 users) with Peppol e-invoicing </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>13759</td>
+<td style='padding: 10px;'>13759</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Madsoft Solutions IAF Version 320 - Package C (Madsoft Enterprise 3 users with RFID Hardware) with Peppol e-invoicing</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17829</td>
+<td style='padding: 10px;'>17829</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Madsoft Solutions IAF Version 320 - Package D (Madsoft Enterprise 7 users) with Peppol e-invoicing</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>23469</td>
+<td style='padding: 10px;'>23469</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Madsoft Solutions IAF Version 320 - Package E (Madsoft Premier 4 users) with Peppol e-invoicing</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>19239</td>
+<td style='padding: 10px;'>19239</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Company Name:Madsoft Solutions Pte Ltd <br>Web URL: www.madsoft.com.sg <br>Contact Hotline: 62969919 <br>Contact Email: sales@madsoft.com.sg <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

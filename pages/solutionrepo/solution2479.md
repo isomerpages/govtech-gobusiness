@@ -26,6 +26,13 @@ The SAP2000 Ultimate Suite is the most advanced 3D finite element analysis and d
 <td style='padding: 10px;'>15900</td>
 <td style='padding: 10px;'>8500</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP2000 Ultimate Suite - Package 2 with Training (Perpetual)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Otte_International_SAP_2000_20210048_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>37400</td>
+<td style='padding: 10px;'>8500</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +41,7 @@ The SAP2000 Ultimate Suite is the most advanced 3D finite element analysis and d
 
 ## Vendor Information
 
- Web URL: www.ottegroup.com <br>Contact Hotline: 66842268 <br>Contact Email: sgsales@ottegroup.com <br>
+ Web URL: NA <br>Contact Hotline: 84991007 <br>Contact Email: TASDAVID90@GMAIL.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

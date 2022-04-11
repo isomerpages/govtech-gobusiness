@@ -26,6 +26,34 @@ A Digital costing platform, for the QS fraternity, whereby measurements of eleme
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'>13070</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 2 (5D BIM Takeoff for Rebar)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>14886</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 3 (5D BIM For BQ Cost Management)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>8940</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 4 (5D BIM Takeoff for MEP - Full specs)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>11500</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 5 (5D BIM Takeoff for Architecture & Structure with Rvt Integration)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>14686</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +62,7 @@ A Digital costing platform, for the QS fraternity, whereby measurements of eleme
 
 ## Vendor Information
 
- Glodon International Pte Ltd<br>https://www.glodon.com/en/<br>Email: SG@GLOBAL.GLODON.COM<br>Tel: +65 6567 1648
+ Hubble Pte Ltd<br>www.hubble.sg<br>Email: sales@hubble.sg<br>Tel: +65 6816 7890
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

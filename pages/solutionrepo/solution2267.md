@@ -26,15 +26,29 @@ Kaddra helps businesses turn loyalty into revenue, improve retention and acceler
 <td style='padding: 10px;'>1388</td>
 <td style='padding: 10px;'>1388</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KADDRA Mobile App Commerce Solution Version 1.9 - Advanced</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3188</td>
+<td style='padding: 10px;'>3188</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KADDRA Mobile App Commerce Solution Version 1.9 - Pro</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6788</td>
+<td style='padding: 10px;'>6788</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: www.kaddra.com/#solutions <br>Contact Hotline: 68776928 <br>Contact Email: Togi.Gouw@Kaddra.com <br>
+ Web URL: https://www.really.sg/project-management-features/ <br>Contact Hotline: 69507563 <br>Contact Email: info@really.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

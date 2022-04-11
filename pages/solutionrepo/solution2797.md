@@ -27,15 +27,43 @@ Times Software Pte Ltd has a team of employees who are equipped with in-depth kn
 <td style='padding: 10px;'>10400</td>
 <td style='padding: 10px;'>10400</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 2 (up to 50 pax)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>15600</td>
+<td style='padding: 10px;'>14400</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 3 (up to 100 pax)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>22800</td>
+<td style='padding: 10px;'>21600</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 4 (up to 150 pax)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>30000</td>
+<td style='padding: 10px;'>27000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 5 (up to 200 pax)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>38000</td>
+<td style='padding: 10px;'>31152</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: https://www.timesoftsg.com.sg/timesepayroll/ <br>Contact Hotline: 62951998 <br>Contact Email: sales@timesoftsg.com.sg <br>
+ Web URL: http://www.gabkotech.com <br>Contact Hotline: 66844419 <br>Contact Email: info@gabkotech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

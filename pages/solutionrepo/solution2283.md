@@ -26,6 +26,34 @@ Kegmil is on a mission to empower millions of deskless field service professiona
 <td style='padding: 10px;'>10880</td>
 <td style='padding: 10px;'>10880</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEGMIL FSM-Kegmil FSM Package B - 25 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>19000</td>
+<td style='padding: 10px;'>19000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEGMIL FSM-Kegmil FSM Package C - 40 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>24720</td>
+<td style='padding: 10px;'>24720</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEGMIL FSM-Kegmil FSM Package D - 60 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>30260</td>
+<td style='padding: 10px;'>30160</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEGMIL FSM-Kegmil FSM Package E - 100 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>38200</td>
+<td style='padding: 10px;'>37600</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

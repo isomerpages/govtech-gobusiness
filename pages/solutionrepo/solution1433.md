@@ -26,15 +26,43 @@ SQL Account includes full range of business Accounting features including AR, AP
 <td style='padding: 10px;'>3500</td>
 <td style='padding: 10px;'>3500</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SQL Account Version 5 - Package B (Advance - 1 User)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_SQL_Annex_3_CR_wef_31_Mar_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4500</td>
+<td style='padding: 10px;'>4500</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SQL Account Version 5 - Package C (Advance - 3 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_SQL_Annex_3_CR_wef_31_Mar_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7500</td>
+<td style='padding: 10px;'>7500</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SQL Account Version 5 - Package D (Advance - 5 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_SQL_Annex_3_CR_wef_31_Mar_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8700</td>
+<td style='padding: 10px;'>8700</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SQL Account Version 5 - Package E (Advance - 8 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_SQL_Annex_3_CR_wef_31_Mar_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10500</td>
+<td style='padding: 10px;'>10500</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Web URL: www.sqlaccounting.sg <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

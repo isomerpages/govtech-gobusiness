@@ -26,15 +26,43 @@ QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobil
 <td style='padding: 10px;'>1600</td>
 <td style='padding: 10px;'>1528</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 2</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2600</td>
+<td style='padding: 10px;'>2528</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 3</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4100</td>
+<td style='padding: 10px;'>4028</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Standard</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6100</td>
+<td style='padding: 10px;'>6028</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Large</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9100</td>
+<td style='padding: 10px;'>9028</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim <br>Contact Hotline: 98894289 <br>Contact Email: angels@angelsbusiness.sg <br>
+ Web URL: https://www.gurusofttech.com/WMS <br>Contact Hotline: 62708083 <br>Contact Email: sales@gurusoft.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

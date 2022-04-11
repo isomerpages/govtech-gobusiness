@@ -26,15 +26,22 @@ Synergix E1 Human Resource Management System helps your company to properly trac
 <td style='padding: 10px;'>42770</td>
 <td style='padding: 10px;'>27200</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SYNERGIX E1 Version TH6 - Package C : HRMS Standard with Staff Appraisal , Training and Recruitment</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>31200</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name:Synergix Technologies Pte Ltd <br>Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
+ Web URL: http://www.siacad.com/ <br>Contact Hotline: 62253823 <br>Contact Email: apex15@siacad.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

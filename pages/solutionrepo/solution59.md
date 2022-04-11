@@ -26,15 +26,43 @@ Acc Pro (Singapore), a Top-recommended Pro-Advisor for QuickBooks Online is prou
 <td style='padding: 10px;'>2778</td>
 <td style='padding: 10px;'>2778</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit Quickbooks Online Full Transformation Package -  Intuit Quickbooks Online - Full Digital Transformation for Medium Business Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAccProAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9978</td>
+<td style='padding: 10px;'>9978</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit Quickbooks Online Full Transformation Package - Intuit Quickbooks Online - Essential Plan</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAccProAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3678</td>
+<td style='padding: 10px;'>3678</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit Quickbooks Online Full Transformation Package - Intuit Quickbooks Online - Full Digital Transformation for Micro Business Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAccProAnnex3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5478</td>
+<td style='padding: 10px;'>5478</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit Quickbooks Online Full Transformation Package -  Intuit Quickbooks Online - Full Digital Transformation fo Small Business Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAccProAnnex3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6978</td>
+<td style='padding: 10px;'>6978</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Company Name:Acc Pro (Singapore) Pte. Ltd. <br>Web URL: www.accprosingapore.com <br>Contact Hotline: 63520103 <br>Contact Email: sales@accprosingapore.com <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -26,6 +26,20 @@ Xero offers a cloud-based accounting software platform for small and medium-size
 <td style='padding: 10px;'>2320</td>
 <td style='padding: 10px;'>2320</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounts101 - Xero Cloud Accounting Software - Package B (Premium w/ Fixed Asset)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2920</td>
+<td style='padding: 10px;'>2920</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounts101 - Xero Cloud Accounting Software - Package C(Premium w/ Fixed Asset & Inventory)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3920</td>
+<td style='padding: 10px;'>3920</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +48,7 @@ Xero offers a cloud-based accounting software platform for small and medium-size
 
 ## Vendor Information
 
- Company Name: Accounts101 Pte Ltd<br>Web URL: https://accounts101.com.sg/<br>Contact Hotline: 91782021<br>Contact Email: Ernest@accounts101.com.sg / Sherman@accounts101.com.sg
+ Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Contact Email: Info@akstech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

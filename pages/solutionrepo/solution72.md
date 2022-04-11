@@ -38,7 +38,7 @@ Grant support: 80% of cost of equipment, up to $24,000 grant
 
 ## Vendor Information
 
- 
+ Company Name:AFON Systems Pte Ltd <br>Web URL: https://www.afon.com.sg/microsoft-dynamics-365-business-central <br>Contact Hotline: 63230901 <br>Contact Email: sales@afon.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -26,6 +26,34 @@ Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hote
 <td style='padding: 10px;'>3500</td>
 <td style='padding: 10px;'>3500</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart - Zeemart Buyer Hub (Upto 10 outlets w/integration) (Package 2)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9650</td>
+<td style='padding: 10px;'>9200</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart - Zeemart Buyer Hub (Upto 20 outlets w/integration) (Package 3)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>13150</td>
+<td style='padding: 10px;'>11200</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart - Zeemart Buyer Hub (Upto 50 outlets w/integration) (Package 4)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>20150</td>
+<td style='padding: 10px;'>18200</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart - Zeemart Buyer Hub (Upto 100 outlets w/integration) (Package 5)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>25150</td>
+<td style='padding: 10px;'>23200</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -34,7 +62,7 @@ Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hote
 
 ## Vendor Information
 
- Web URL: www.zeemart.asia <br>Contact Hotline: +6565198064 <br>Contact Email: enquiry@zeemart.asia <br>
+ Web URL: www.logisfleet.com <br>Contact Hotline: 65520668 <br>Contact Email: support@logisfleet.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

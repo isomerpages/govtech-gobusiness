@@ -30,7 +30,7 @@ A machine to wash produce, it effectively separates the impurities and degrade t
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
