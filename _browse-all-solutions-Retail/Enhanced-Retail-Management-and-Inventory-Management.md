@@ -24,5 +24,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1182' target='_blank'>MEGAPOS </a><br>
+
 <a href='/productivity-solutions-grant/solutionrepo/solution1187' target='_blank'>Shortcuts Version 8</a><br>
+
 <a href='/productivity-solutions-grant/solutionrepo/solution1263' target='_blank'>MyRetailer Plus Version 4</a><br>
+

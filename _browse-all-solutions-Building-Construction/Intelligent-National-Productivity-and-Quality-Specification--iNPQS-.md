@@ -16,8 +16,14 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1753' target='_blank'>iCoreSpec</a><br>
+
 <a href='/productivity-solutions-grant/solutionrepo/solution1881' target='_blank'>iREP FM</a><br>
+
 <a href='/productivity-solutions-grant/solutionrepo/solution1884' target='_blank'>GS BIM collaboration Platform Version 1</a><br>
+
 <a href='/productivity-solutions-grant/solutionrepo/solution2066' target='_blank'>CSG - Autodesk BIM Collaborate Pro</a><br>
+
 <a href='/productivity-solutions-grant/solutionrepo/solution2283' target='_blank'>KEGMIL FSM</a><br>
+
 <a href='/productivity-solutions-grant/solutionrepo/solution2288' target='_blank'>INNOCOM - ASSEMBLE</a><br>
+

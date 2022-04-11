@@ -7,10 +7,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution27
 
 ## Description
 
-The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. 
-As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
-Grant support:80% of cost of equipment, up to $30,000 grant
-Purchase of pre-owned/used equipment not supportable
+The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
+
+Cost of equipment capped at $37,500 per unit 
+
 
 ## Solution Packages Option(s)
 

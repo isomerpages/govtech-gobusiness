@@ -9,10 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution754
 
 The Smart Cabinet provides continuous stock monitoring and access control to the inventory stored in the Smart Cabinet. User information and usage can be retrieved for tracking and monitoring purpose. The storage system is ideal for storing of consumables and high value items.
 
-Grant Support: 
-Direct Purchase: 80% of cost of equipment, up to $21,000 grant 
-Subscription/Leasing: 80% of cost of equipment, up to $8,000/unit/year
-
+Cost of equipment capped at $26,250 per unit (Direct Purchase) and $10,000 per unit (Subscription/Leasing). 
 
 ## Solution Packages Option(s)
 

@@ -7,11 +7,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution72
 
 ## Description
 
-Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
+Mobile Computer transforms paper-based data recording and manual inventory counting into automated electronic data capture and transmission Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
 
-Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
+Solution is highly recommended to be able to integrate with applicant's existing inventory or warehouse management system.
 
-Grant support: 80% of cost of equipment, up to $24,000 grant
+Cost of equipment capped at $30,000 per unit. 
 
 ## Solution Packages Option(s)
 

@@ -1,9 +1,9 @@
 ---
-title: Automated tools management system
+title: Automated Tools Management System
 permalink: /productivity-solutions-grant/solutionrepo/solution22
 ---
 
-## Automated tools management system
+## Automated Tools Management System
 
 ## Description
 
@@ -15,9 +15,10 @@ With customizable option to link to ERP or supplier online automated ordering pr
 Controls the issuing of tools per user's security access level
 
 2) Tool dispensing hardware
-Hardware can be in the form of a drawer or coil vending system.  
+Hardware can be in the form of a drawer or coil vending system. 
+ 
+Cost of equipment capped at $28,000 per unit
 
-Grant support: 80% of cost of equipment, up to $22,400 grant
 
 ## Solution Packages Option(s)
 
@@ -31,7 +32,7 @@ Grant support: 80% of cost of equipment, up to $22,400 grant
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated tools management system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tools Management System</td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'>28000</td>

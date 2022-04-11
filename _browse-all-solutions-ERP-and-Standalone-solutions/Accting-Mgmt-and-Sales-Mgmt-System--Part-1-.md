@@ -1,9 +1,9 @@
 ---
-title: Accounting Management and Sales Management System
-permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt-and-Sales-Mgmt-System
+title: Accounting Management and Sales Management System (Part 1)
+permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt-and-Sales-Mgmt-System--Part-1-
 ---
 
-## Accounting Management and Sales Management System
+## Accounting Management and Sales Management System (Part 1)
 ## Description
 
 **Support Level and Conditions**
@@ -16,4 +16,6 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution3' target='_blank'>ABSS Premier - Accounting and Sales Management System Version 23</a><br>
+
 <a href='/productivity-solutions-grant/solutionrepo/solution8' target='_blank'>Xero Cloud Accounting Software </a><br>
+

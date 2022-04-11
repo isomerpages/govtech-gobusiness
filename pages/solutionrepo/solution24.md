@@ -11,8 +11,7 @@ The Autonomous Material Transportation Robot carries out repetitive handling pro
 
 Solution may be semi-autonomous to transport the material movement between locations. The robot movement could be operated with line-track technology, follow-me technology or manually controlled.
 
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
+Cost of equipment capped at $37,500 per unit. 
 
 ## Solution Packages Option(s)
 

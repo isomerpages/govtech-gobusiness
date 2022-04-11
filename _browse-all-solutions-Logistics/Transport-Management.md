@@ -16,5 +16,8 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1428' target='_blank'>Haulio Community System Version 2.0</a><br>
+
 <a href='/productivity-solutions-grant/solutionrepo/solution1520' target='_blank'>SYSFREIGHT Version 8</a><br>
+
 <a href='/productivity-solutions-grant/solutionrepo/solution2220' target='_blank'>Detrack</a><br>
+

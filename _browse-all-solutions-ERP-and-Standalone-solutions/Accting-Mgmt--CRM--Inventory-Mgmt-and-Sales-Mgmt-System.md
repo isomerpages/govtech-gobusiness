@@ -16,7 +16,8 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution114' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br>
+
 <a href='/productivity-solutions-grant/solutionrepo/solution120' target='_blank'>SAP Business One Version Cloud</a><br>
+
 <a href='/productivity-solutions-grant/solutionrepo/solution133' target='_blank'>ABSS Premier Version 23.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution151' target='_blank'>ABSS Premier Version 23</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution187' target='_blank'>AutoCount Accounting</a><br>
+

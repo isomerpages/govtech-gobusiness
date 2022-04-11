@@ -11,7 +11,7 @@ The locking system leverages on functional elements of a lockset and the latest 
 
 The secure element provides tamper-proof security and stores all type of sensitive information. Solution leverages on industry standard encryption technologies.
 
-Grant support: 80% of cost of equipment, up to $16,000 grant
+Cost of equipment capped at $20,000 per unit. 
 
 ## Solution Packages Option(s)
 

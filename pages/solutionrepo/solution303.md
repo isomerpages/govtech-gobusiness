@@ -27,7 +27,7 @@ Cost of equipment capped at $35,000 per unit
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Packing and Sealing Machine</td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>35000</td>
 </tr>
 </table>
 

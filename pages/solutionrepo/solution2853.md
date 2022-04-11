@@ -58,11 +58,11 @@ Many SMEs manage, track and stock take their inventory and assets manually. Long
 
 ## Mode and Schedule of Payment
 
- - 
+ - Direct Purchase
 
 ## Vendor Information
 
- 
+ Web URL: www.carbonateapp.com <br>Contact Hotline: 66791003 <br>Contact Email: info@carbonateapp.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

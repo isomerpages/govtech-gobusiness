@@ -12,7 +12,7 @@ Robotic arms that are:
 - Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
 - Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 

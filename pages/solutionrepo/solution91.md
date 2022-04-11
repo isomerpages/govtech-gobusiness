@@ -14,7 +14,7 @@ Tool Setting Probe: Tool setting, length, radius, breakage detection
 Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
 Implementation: Equipment configuration, training
 
-Grant support: 80% of cost of probing system, up to $30,000 grant cap
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 

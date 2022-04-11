@@ -7,11 +7,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1409
 
 ## Description
 
-This powered pallet truck is used to transport loads within warehouses, factories, or to support delivery operations. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks. 
+This powered pallet truck is used to transport loads within warehouses, factories, or to support delivery operations. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks.
 
 The equipment can transport palletised goods of approximately 1000 to 2000 kg.
 
-Grant support: 80% of cost of equipment, up to $2,600 grant per unit.
+Cost of equipment capped at $3,250 per unit. 
 
 ## Solution Packages Option(s)
 
