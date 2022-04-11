@@ -1,0 +1,41 @@
+---
+title: Swipetask PRO
+permalink: /productivity-solutions-grant/solutionrepo/solution2358
+---
+
+## Swipetask PRO
+
+## Description
+
+Swipetask is a Workforce & Task-management solution for optimization, productivity-enhancement and advanced reporting for Distributed workforces. The solutions offers clear, fast, real-time Notifications, Attendance taking, Quality monitoring, micro-learning & ability to act on input from IoT sensors - all in one system. Reports from the system are 'instant' and allow for analysis. Swipetask is designed for many Use-cases incl. Professional Cleaning-Services & Integrated Facility-Management. 
+
+## Solution Packages Option(s)
+
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Solution Details</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask Facility-OPS</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>36388</td>
+<td style='padding: 10px;'>36388</td>
+</tr>
+</table>
+
+## Mode and Schedule of Payment
+
+ - Subscription / Leasing
+
+## Vendor Information
+
+ Web URL: www.swipetask.com <br>Contact Hotline: +6596391259 <br>Contact Email: info@swipetask.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+
+<script src="/jquery/resize-tables.js"></script>

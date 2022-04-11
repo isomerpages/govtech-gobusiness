@@ -1,0 +1,41 @@
+---
+title: LFSUITE Version 6.0
+permalink: /productivity-solutions-grant/solutionrepo/solution1878
+---
+
+## LFSUITE Version 60
+
+## Description
+
+Optimize your retail business productivity and efficiency with RetailPlan, our integrated suite of solutions under LFSuite. Stability, Ease of Use, Scalability, Ability to Customize and Open Integration Capability are 5 uniqueness of our system. We offer a cloud-hybrid POS system, with an online central management console (RetailConnect), where we manage procurement, inventory management and sales analysis reports. Other capabilities include sales invoicing, online ordering and finance module.
+
+## Solution Packages Option(s)
+
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Solution Details</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSUITE Version 6.0 - Package Functional</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$7,260.00</td>
+<td style='padding: 10px;'>$6,960.00</td>
+</tr>
+</table>
+
+## Mode and Schedule of Payment
+
+ - Direct Purchase
+
+## Vendor Information
+
+ Company Name:LEVELFIVE PTE LTD <br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+
+<script src="/jquery/resize-tables.js"></script>

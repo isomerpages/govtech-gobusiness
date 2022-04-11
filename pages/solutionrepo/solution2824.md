@@ -1,0 +1,41 @@
+---
+title: Xero Cloud Accounting Software
+permalink: /productivity-solutions-grant/solutionrepo/solution2824
+---
+
+## Xero Cloud Accounting Software
+
+## Description
+
+Xero is an online accounting software for small businesses that lets you share access to your latest business numbers with your team, accountant and bookkeeper - so everyone is up to speed. It's fast and simple to work together in the cloud, so you can make smart business decisions when it matters most - right now.
+
+## Solution Packages Option(s)
+
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Solution Details</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Package E (Xero Subscription only)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Xero_20210480_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>729</td>
+<td style='padding: 10px;'>725</td>
+</tr>
+</table>
+
+## Mode and Schedule of Payment
+
+ - Subscription or Leasing
+
+## Vendor Information
+
+ Web URL: https://361dc.com/xero-cloud-accounting/ <br>Contact Hotline: 65157906 <br>Contact Email: enquiry@361dc.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+
+<script src="/jquery/resize-tables.js"></script>

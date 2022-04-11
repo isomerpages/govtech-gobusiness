@@ -1,0 +1,45 @@
+---
+title: Xero
+permalink: /productivity-solutions-grant/solutionrepo/solution1802
+---
+
+## Xero
+
+## Description
+
+Our company has a long history of servicing small and medium enterprises. Two of the main challenges constantly faced when working with SMEs are limited resources in financial and manpower.  
+
+Proposal on changes to accounting processes and accounting solutions are usually met with reluctance due to capital expenditures and manpower to adapt to these new solutions.  
+
+Xero  is Cloud based and beautifully addresses challenging times where working from home or anywhere is the new norm.
+
+## Solution Packages Option(s)
+
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Solution Details</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Premier All-In</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Central_Management_20200563_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4696</td>
+<td style='padding: 10px;'>4696</td>
+</tr>
+</table>
+
+## Mode and Schedule of Payment
+
+ - Subscription / Leasing
+
+## Vendor Information
+
+ Web URL: https://centralms.com.sg/ <br>Contact Hotline: 63371295 <br>Contact Email: enquiries@centralms.com.sg <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+
+<script src="/jquery/resize-tables.js"></script>
