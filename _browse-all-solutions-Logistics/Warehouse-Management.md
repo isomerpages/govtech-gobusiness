@@ -17,7 +17,12 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Warehouse-Performance-Measurement-1'  target='_blank' rel='noopener'>1. Warehouse Performance Measurement</a>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Perform-Inventory-Stock-Control-Operations'  target='_blank' rel='noopener'>2. Perform Inventory and Stock Control Operations</a>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Perform-Warehouse-Management'  target='_blank' rel='noopener'>3. Perform Warehouse Management</a>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Warehouse-Performance-Measurement-1'  target='_blank' rel='noopener'>1. Warehouse Performance Measurement</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Perform-Inventory-Stock-Control-Operations'  target='_blank' rel='noopener'>2. Perform Inventory and Stock Control Operations</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Perform-Warehouse-Management'  target='_blank' rel='noopener'>3. Perform Warehouse Management</a><br>
 
+## Pre-Approved Solutions
+
+<a href='/productivity-solutions-grant/solutionrepo/solution2346' target='_blank'>Simplr Warehouse Management Version 6</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2425' target='_blank'>PORTNET</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2688' target='_blank'>Gurusoft Logistics Management System Version 11</a><br>

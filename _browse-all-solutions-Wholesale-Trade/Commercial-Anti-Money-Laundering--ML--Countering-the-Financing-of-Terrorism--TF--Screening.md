@@ -17,7 +17,14 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-risk-management-data-effective-use-risk-tools-2'  target='_blank' rel='noopener'>1. Analyse risk management data through the effective use of risk tools</a>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Conduct-Risk-Assessment-Business-Impact-Analysis-Classroom-Asynchronous-Elearning-2'  target='_blank' rel='noopener'>2. Conduct Risk Assessment and Business Impact Analysis</a>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Enterprise-Risk-Management-Programme-Module-1-Risk-Opportunity-Business-Model-Synchronous-ELearning-2'  target='_blank' rel='noopener'>3. Enterprise Risk Management Programme Module 1: Risk and Opportunity in Business Model</a>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-risk-management-data-effective-use-risk-tools-2'  target='_blank' rel='noopener'>1. Analyse risk management data through the effective use of risk tools</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Conduct-Risk-Assessment-Business-Impact-Analysis-Classroom-Asynchronous-Elearning-2'  target='_blank' rel='noopener'>2. Conduct Risk Assessment and Business Impact Analysis</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Enterprise-Risk-Management-Programme-Module-1-Risk-Opportunity-Business-Model-Synchronous-ELearning-2'  target='_blank' rel='noopener'>3. Enterprise Risk Management Programme Module 1: Risk and Opportunity in Business Model</a><br>
 
+## Pre-Approved Solutions
+
+<a href='/productivity-solutions-grant/solutionrepo/solution1319' target='_blank'>SentroWeb </a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1420' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2023' target='_blank'>A2000ERP Version 12.X</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2225' target='_blank'>Microsoft Dynamics 365 Business Central with Mobile Add-on for Wholesale Trade Version 18-3.01</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2835' target='_blank'>Creative Sales and Order</a><br>

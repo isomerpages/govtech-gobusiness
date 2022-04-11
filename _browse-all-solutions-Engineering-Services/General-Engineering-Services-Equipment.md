@@ -13,3 +13,20 @@ Up to 70% for SMEs, N.A. for non-SMEs
 Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
+## Pre-Approved Solutions
+
+<a href='/productivity-solutions-grant/solutionrepo/solution28' target='_blank'>Autonomous Mobile Robot</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution94' target='_blank'>Probing System</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution161' target='_blank'>Vertical Carousel</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution955' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1287' target='_blank'>Digital Welding Equipment </a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1470' target='_blank'>Flange Facer</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1471' target='_blank'>Torque Multiplier</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1472' target='_blank'>Bristle Blaster / Cup Brush / Power Brush</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1473' target='_blank'>Automatic Flange Spreader</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1474' target='_blank'>Automatic Nut Splitter</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1961' target='_blank'>Auto Welding Carriage</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2070' target='_blank'>Automated Labelling Machine </a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2071' target='_blank'>Liquid Filling Machine</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2072' target='_blank'>High pressure industrial vacuum cleaner</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2073' target='_blank'>High Pressure Rotating Head</a><br>

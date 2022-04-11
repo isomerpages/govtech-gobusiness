@@ -13,3 +13,9 @@ Up to 70% for SMEs, N.A. for non-SMEs
 Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
+## Pre-Approved Solutions
+
+<a href='/productivity-solutions-grant/solutionrepo/solution1898' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module)</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1902' target='_blank'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2697' target='_blank'>Q-DAS - Smart Quality Software</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2700' target='_blank'>Teamcenter Version 13</a><br>

@@ -13,3 +13,9 @@ Up to 70% for SMEs, N.A. for non-SMEs
 Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
+## Pre-Approved Solutions
+
+<a href='/productivity-solutions-grant/solutionrepo/solution82' target='_blank'>Ozonised Air + Surface Sterilization System</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1986' target='_blank'>Automatic Flow Wrap Packaging Machine</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1987' target='_blank'>Automatic Shrink Wrap Packaging Machine</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2001' target='_blank'>Ethylene Removal System</a><br>

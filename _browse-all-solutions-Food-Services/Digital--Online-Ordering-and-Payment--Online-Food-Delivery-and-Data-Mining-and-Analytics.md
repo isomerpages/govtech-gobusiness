@@ -17,7 +17,10 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digital-Customer-Experience-Management-2'  target='_blank' rel='noopener'>1. Digital Customer Experience Management</a>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Adapt-Change-Digitalization-Hawkers'  target='_blank' rel='noopener'>2. Adapt to Change - Digitalization for Hawkers</a>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/RETSFApplied-Data-Analytics-Synchronous-elearning-2'  target='_blank' rel='noopener'>3. RETSF-Applied Data Analytics</a>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digital-Customer-Experience-Management-2'  target='_blank' rel='noopener'>1. Digital Customer Experience Management</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Adapt-Change-Digitalization-Hawkers'  target='_blank' rel='noopener'>2. Adapt to Change - Digitalization for Hawkers</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/RETSFApplied-Data-Analytics-Synchronous-elearning-2'  target='_blank' rel='noopener'>3. RETSF-Applied Data Analytics</a><br>
 
+## Pre-Approved Solutions
+
+<a href='/productivity-solutions-grant/solutionrepo/solution1192' target='_blank'>SmartWeb V3 Version V3</a><br>

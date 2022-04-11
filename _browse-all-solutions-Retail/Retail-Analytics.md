@@ -13,3 +13,11 @@ Up to 80% for SMEs, N.A. for non-SMEs
 Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
+## Pre-Approved Solutions
+
+<a href='/productivity-solutions-grant/solutionrepo/solution1672' target='_blank'>RetailNext In-Store Analytics Version 1</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1719' target='_blank'>Intelli-Signage Version 3.1.4</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1722' target='_blank'>BOTG Version 1.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1724' target='_blank'>Qashier Smart Terminal</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1877' target='_blank'>LFSUITE Version 6.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2752' target='_blank'>EPOS Enhanced POS Version 2.0</a><br>
