@@ -20,11 +20,11 @@ iCHEF is an integrated digital ordering solution to help small F&B businesses op
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Large + Online Ordering)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_Annex_3_CR_wef_4_Nov_2021_Part_5.pdf'>View Details</a></td>
-<td>9810</td>
-<td>9810</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Large + Online Ordering)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_Annex_3_CR_wef_4_Nov_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9810</td>
+<td style='padding: 10px;'>9810</td>
 </tr>
 </table>
 

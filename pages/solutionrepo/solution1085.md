@@ -20,11 +20,11 @@ BIZ POS is a comprehensive POS built for easy usage and efficient sales/customer
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>BIZ POS Version 3.0 -BIZ POS VER 3.0 LAPTOP</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf'>View Details</a></td>
-<td>5000</td>
-<td>5000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIZ POS Version 3.0 -BIZ POS VER 3.0 LAPTOP</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5000</td>
+<td style='padding: 10px;'>5000</td>
 </tr>
 </table>
 

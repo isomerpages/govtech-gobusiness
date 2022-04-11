@@ -20,11 +20,11 @@ It's a powerful Mobile Application designed for Building and Construction indust
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>eBIS Version V1.0-eBIS (Advanced Package -3 Projects)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>52900</td>
-<td>52900</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eBIS Version V1.0-eBIS (Advanced Package -3 Projects)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>52900</td>
+<td style='padding: 10px;'>52900</td>
 </tr>
 </table>
 

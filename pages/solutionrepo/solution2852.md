@@ -20,11 +20,11 @@ MediaOne brings the power of almost a decade's worth of experience servicing tho
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package C (6 months)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_789.pdf'>View Details</a></td>
-<td>11888</td>
-<td>10000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package C (6 months)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_789.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11888</td>
+<td style='padding: 10px;'>10000</td>
 </tr>
 </table>
 

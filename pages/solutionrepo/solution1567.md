@@ -21,11 +21,11 @@ iMakan is widely used by new age diners who prefer digital menu and fast pace or
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>iMakan - 2 x Kiosks + KDS & Number Display with Analytics</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_5.pdf'>View Details</a></td>
-<td>17580</td>
-<td>16980</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - 2 x Kiosks + KDS & Number Display with Analytics</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17580</td>
+<td style='padding: 10px;'>16980</td>
 </tr>
 </table>
 

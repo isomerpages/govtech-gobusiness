@@ -20,11 +20,11 @@ Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, mul
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Globe3 ERP V5.6 - Package (5 Users) (PEPPOL Ready)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTNOSystemsAnnex3CRwef12August2021-_Part_2.pdf'>View Details</a></td>
-<td>39400</td>
-<td>37800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP V5.6 - Package (5 Users) (PEPPOL Ready)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTNOSystemsAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>39400</td>
+<td style='padding: 10px;'>37800</td>
 </tr>
 </table>
 

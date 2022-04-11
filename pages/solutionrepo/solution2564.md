@@ -20,11 +20,11 @@ Sugati is a Customer Relationship Management (CRM) solution based on the Salesfo
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Sugati Travel CRM Version 1.1037 - Package 1 - Sugati Travel CRM (upto 5 users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>10260</td>
-<td>10260</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 1 - Sugati Travel CRM (upto 5 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10260</td>
+<td style='padding: 10px;'>10260</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>1. Analyse risk management data through the effective use of risk tools</td>
-<td><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-risk-management-data-effective-use-risk-tools-2'>View Details</a></td>
-<td></td>
-<td></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1. Analyse risk management data through the effective use of risk tools</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-risk-management-data-effective-use-risk-tools-2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 

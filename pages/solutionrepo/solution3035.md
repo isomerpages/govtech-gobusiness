@@ -20,11 +20,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>3. Apply Workplace Safety and Health in Logistics and Transportation</td>
-<td><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Workplace-Safety-Health-Logistics-Transportation-7'>View Details</a></td>
-<td></td>
-<td></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3. Apply Workplace Safety and Health in Logistics and Transportation</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Workplace-Safety-Health-Logistics-Transportation-7' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 

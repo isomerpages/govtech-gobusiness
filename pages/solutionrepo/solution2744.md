@@ -22,11 +22,11 @@ SMEs can process foreign currency transactions, track GST, analyze business perf
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>ABSS - Premier Plus Version 23 - Single User with InvoiceNow</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Asian_Business_20210432_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>3777.57</td>
-<td>3777.57</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Premier Plus Version 23 - Single User with InvoiceNow</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Asian_Business_20210432_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3777.57</td>
+<td style='padding: 10px;'>3777.57</td>
 </tr>
 </table>
 

@@ -21,11 +21,11 @@ A Digital costing platform, for the QS fraternity, whereby measurements of eleme
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 5 (5D BIM Takeoff for Architecture & Structure with Rvt Integration)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_5.pdf'>View Details</a></td>
-<td></td>
-<td>14686</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 5 (5D BIM Takeoff for Architecture & Structure with Rvt Integration)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>14686</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Auk Industries is a disruptive end-to-end technology provider for Industrial IoT
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Pilot Kit (Business) - 12mths</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Auk_Industries_Annex_3__CR_wef_30_Sept_2021_Part_3.pdf'>View Details</a></td>
-<td>28800</td>
-<td>28800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Pilot Kit (Business) - 12mths</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Auk_Industries_Annex_3__CR_wef_30_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>28800</td>
+<td style='padding: 10px;'>28800</td>
 </tr>
 </table>
 

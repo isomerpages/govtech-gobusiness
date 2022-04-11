@@ -24,11 +24,11 @@ Xero  is Cloud based and beautifully addresses challenging times where working f
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Xero - Premier with Set-Up and Training </td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Central_Management_20200563_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>3896</td>
-<td>3896</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Premier with Set-Up and Training </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Central_Management_20200563_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3896</td>
+<td style='padding: 10px;'>3896</td>
 </tr>
 </table>
 

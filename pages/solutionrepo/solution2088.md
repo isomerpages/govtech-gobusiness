@@ -20,11 +20,11 @@ Our Ecommerce solutions are developed using WordPress WooCommerce technology, al
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>eCommerce Masterplan Version 1.0 - Basic</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aks_Tech_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf'>View Details</a></td>
-<td>6000</td>
-<td>6000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eCommerce Masterplan Version 1.0 - Basic</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aks_Tech_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6000</td>
+<td style='padding: 10px;'>6000</td>
 </tr>
 </table>
 

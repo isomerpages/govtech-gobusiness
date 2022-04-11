@@ -20,11 +20,11 @@ A2000ERP is a business management tool, integrated with components necessary for
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>A2000ERP SOLUTION Version 12.X - A2000ERP STANDARD System for 5 Users (Cloud Based-1 Yr SAAS)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/A2000ERP_(Generic__20210321_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>21400</td>
-<td>21400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP SOLUTION Version 12.X - A2000ERP STANDARD System for 5 Users (Cloud Based-1 Yr SAAS)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/A2000ERP_(Generic__20210321_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>21400</td>
+<td style='padding: 10px;'>21400</td>
 </tr>
 </table>
 

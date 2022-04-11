@@ -20,11 +20,11 @@ Sophos Intercept X stops the widest range of attacks with a unique combination o
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (75 users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>3375</td>
-<td>3375</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (75 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3375</td>
+<td style='padding: 10px;'>3375</td>
 </tr>
 </table>
 

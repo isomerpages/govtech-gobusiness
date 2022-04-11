@@ -22,11 +22,11 @@ Xero is a cloud-based accounting software for businesses to improve cashflow, ga
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Xero Accounting System - Xero Accounting System - Go EBOS - All In One Starter</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_20210353_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>1580</td>
-<td>1525</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Xero Accounting System - Go EBOS - All In One Starter</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_20210353_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1580</td>
+<td style='padding: 10px;'>1525</td>
 </tr>
 </table>
 

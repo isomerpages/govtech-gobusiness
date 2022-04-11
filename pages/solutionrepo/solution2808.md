@@ -20,11 +20,11 @@ Cybots ensures cyber resilience for all sectors, from SMEs to large multinationa
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Cybots AMDR - Standard Package Solution-4</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>30500</td>
-<td>29900</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-4</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>30500</td>
+<td style='padding: 10px;'>29900</td>
 </tr>
 </table>
 

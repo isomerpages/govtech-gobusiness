@@ -22,11 +22,11 @@ SAP Business One is an ERP software designed for SMEs. It's a single, affordable
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SAP Business One Version 10 - SAP Business One on HANA - Package C (10 Cloud Subscription Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>46840</td>
-<td>39240</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version 10 - SAP Business One on HANA - Package C (10 Cloud Subscription Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>46840</td>
+<td style='padding: 10px;'>39240</td>
 </tr>
 </table>
 

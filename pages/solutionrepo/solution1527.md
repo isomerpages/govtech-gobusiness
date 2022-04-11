@@ -20,11 +20,11 @@ With advanced CRM features like workflow management, advanced analytics, territo
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Zoho One-7 Users + Free Online Tutorials</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zolution_Annex_3_CR_wef_22_July_2021_Part_2.pdf'>View Details</a></td>
-<td>3840</td>
-<td>3840</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho One-7 Users + Free Online Tutorials</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zolution_Annex_3_CR_wef_22_July_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3840</td>
+<td style='padding: 10px;'>3840</td>
 </tr>
 </table>
 

@@ -23,11 +23,11 @@ BIM 360 Build - For construction project management (RFI, Submittal) and Field m
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Autodesk BIM 360 - Autodesk Docs - 25 User Package (Formerly BIM 360 Docs) </td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_2.pdf'>View Details</a></td>
-<td>8600</td>
-<td>8400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autodesk BIM 360 - Autodesk Docs - 25 User Package (Formerly BIM 360 Docs) </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8600</td>
+<td style='padding: 10px;'>8400</td>
 </tr>
 </table>
 

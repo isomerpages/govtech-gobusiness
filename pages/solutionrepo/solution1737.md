@@ -33,11 +33,11 @@ One Payroll process run per month
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 50</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>17400</td>
-<td>17400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 50</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17400</td>
+<td style='padding: 10px;'>17400</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Detrack is a cloud-based real-time vehicle tracking and electronic proof of deli
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Detrack - Detrack Delivery Tracking & E-POD + Route Optimisation Upgrade - 20 Vehicles</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>15250</td>
-<td>15250</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Detrack - Detrack Delivery Tracking & E-POD + Route Optimisation Upgrade - 20 Vehicles</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>15250</td>
+<td style='padding: 10px;'>15250</td>
 </tr>
 </table>
 

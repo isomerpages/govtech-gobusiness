@@ -20,11 +20,11 @@ AxiomSL (MAS 610/1003) is a cloud-based Regulatory Reporting solution for banks,
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>AxiomSL MAS 610 SaaS version 4 - Package (Standard Data Loading)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>532000</td>
-<td>402000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AxiomSL MAS 610 SaaS version 4 - Package (Standard Data Loading)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>532000</td>
+<td style='padding: 10px;'>402000</td>
 </tr>
 </table>
 

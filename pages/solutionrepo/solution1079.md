@@ -20,11 +20,11 @@ An intuitive user interface designed for sales. A Dashboard for a better overvie
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>OdooCRM -Alitec Enterprise (3 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_2.pdf'>View Details</a></td>
-<td>5100</td>
-<td>4940</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OdooCRM -Alitec Enterprise (3 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5100</td>
+<td style='padding: 10px;'>4940</td>
 </tr>
 </table>
 

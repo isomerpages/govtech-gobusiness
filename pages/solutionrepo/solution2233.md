@@ -20,11 +20,11 @@ Tisch Global Corporate Advisory is offering A-Start , a seamless cloud accountin
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>QuickBooks Online - A-Start Tisch Accounting QuickBooks Standard Package</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>2980</td>
-<td>2980</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Standard Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2980</td>
+<td style='padding: 10px;'>2980</td>
 </tr>
 </table>
 

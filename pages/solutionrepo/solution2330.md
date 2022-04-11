@@ -22,11 +22,11 @@ The procurement control, inventory management, sales, enquiry and quotation mana
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 100 Users</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_3.pdf'>View Details</a></td>
-<td>17600</td>
-<td>17000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 100 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17600</td>
+<td style='padding: 10px;'>17000</td>
 </tr>
 </table>
 

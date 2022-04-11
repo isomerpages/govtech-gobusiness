@@ -20,11 +20,11 @@ QuickHR offers cutting-edge cloud-based HRMS solutions to SMEs in dire need of b
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>2020 QuickHR Version 9 - Cloud HRMS - Enterprise 200</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_5.pdf'>View Details</a></td>
-<td>26000</td>
-<td>26000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2020 QuickHR Version 9 - Cloud HRMS - Enterprise 200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>26000</td>
+<td style='padding: 10px;'>26000</td>
 </tr>
 </table>
 

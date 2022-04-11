@@ -20,11 +20,11 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Creative eShop - Creative eShop Package Standard</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>11800</td>
-<td>10000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative eShop - Creative eShop Package Standard</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11800</td>
+<td style='padding: 10px;'>10000</td>
 </tr>
 </table>
 

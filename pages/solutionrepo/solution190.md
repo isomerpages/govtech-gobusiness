@@ -21,11 +21,11 @@ Since being established in 1996, AutoCount has grown into the TOP SME brands, se
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>AutoCount Accounting - AutoCount Accounting Premium V2.0 ( 1 User)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/AutoCount_20200013_Annex_3_20200625142956_Part_5.pdf'>View Details</a></td>
-<td>8400</td>
-<td>7200</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - AutoCount Accounting Premium V2.0 ( 1 User)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AutoCount_20200013_Annex_3_20200625142956_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8400</td>
+<td style='padding: 10px;'>7200</td>
 </tr>
 </table>
 

@@ -22,11 +22,11 @@ Our solutions help retail owners run sales and promotions, track inventory, mana
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Octopus Retail Solution - Package E (Multi Terminal + CRM + eCommerce)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Octopus_Retail_20200548_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>23758</td>
-<td>19196</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Octopus Retail Solution - Package E (Multi Terminal + CRM + eCommerce)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Octopus_Retail_20200548_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>23758</td>
+<td style='padding: 10px;'>19196</td>
 </tr>
 </table>
 

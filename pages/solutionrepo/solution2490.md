@@ -20,11 +20,11 @@ Xero is a cloud-based accounting software that connects people with the right nu
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>XERO CLOUD APPLICATION - Xero Comprehensive Package D (Premium Package)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>3300</td>
-<td>3225</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD APPLICATION - Xero Comprehensive Package D (Premium Package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3300</td>
+<td style='padding: 10px;'>3225</td>
 </tr>
 </table>
 

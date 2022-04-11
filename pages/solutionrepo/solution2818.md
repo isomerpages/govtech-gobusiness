@@ -20,11 +20,11 @@ Payboy is a Payroll and HR Management Software which automates the essential HR 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Payboy HRMS - Package D (120 Employees)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>20000</td>
-<td>20000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package D (120 Employees)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>20000</td>
+<td style='padding: 10px;'>20000</td>
 </tr>
 </table>
 

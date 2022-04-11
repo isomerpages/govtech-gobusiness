@@ -20,11 +20,11 @@ With five different Digital Marketing Packages, RHAD helps businesses enhance br
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>DM RHAD Digital Marketing Package Version 1 - PPC Starter (6 months)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_78.pdf'>View Details</a></td>
-<td>9000</td>
-<td>9000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - PPC Starter (6 months)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9000</td>
+<td style='padding: 10px;'>9000</td>
 </tr>
 </table>
 

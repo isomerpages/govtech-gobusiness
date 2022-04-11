@@ -20,11 +20,11 @@ Carbonate HR is a web and mobile application based HR management system that foc
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Carbonate HR Version 1.0 - Package (Power 150)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_Annex 3_CR_wef_Part_3.pdf'>View Details</a></td>
-<td>21600</td>
-<td>21600</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1.0 - Package (Power 150)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_Annex 3_CR_wef_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>21600</td>
+<td style='padding: 10px;'>21600</td>
 </tr>
 </table>
 

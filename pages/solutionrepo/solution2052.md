@@ -21,11 +21,11 @@ With this all-rounded EndPoint Protection, threats are disrupted, contained, and
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (100 Units)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_4.pdf'>View Details</a></td>
-<td>10700</td>
-<td>10700</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (100 Units)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10700</td>
+<td style='padding: 10px;'>10700</td>
 </tr>
 </table>
 

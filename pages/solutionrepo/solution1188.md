@@ -20,11 +20,11 @@ Shortcuts Fusion/SMART is a salon management solution for hair beauty spa and re
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Shortcuts Version 8 - Shortcuts Fusion + Network Client</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_2.pdf'>View Details</a></td>
-<td>6110</td>
-<td>6110</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shortcuts Version 8 - Shortcuts Fusion + Network Client</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6110</td>
+<td style='padding: 10px;'>6110</td>
 </tr>
 </table>
 

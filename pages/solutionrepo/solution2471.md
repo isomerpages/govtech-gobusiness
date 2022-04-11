@@ -20,11 +20,11 @@ This package by Next Level SG is designed to help SMEs with increasing and accel
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Lead Generation</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>9900</td>
-<td>9900</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Lead Generation</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9900</td>
+<td style='padding: 10px;'>9900</td>
 </tr>
 </table>
 

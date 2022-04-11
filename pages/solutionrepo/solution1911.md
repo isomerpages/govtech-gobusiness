@@ -20,11 +20,11 @@ AWECREATION PTE LTD is an authorized Managed Service Provider for Fortinet Forti
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Fortinet Fortigate (Next Generation Firewall) - 200E with 1 Year Onsite support for quarterly firmware update</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_5.pdf'>View Details</a></td>
-<td>7700</td>
-<td>7700</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate (Next Generation Firewall) - 200E with 1 Year Onsite support for quarterly firmware update</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7700</td>
+<td style='padding: 10px;'>7700</td>
 </tr>
 </table>
 

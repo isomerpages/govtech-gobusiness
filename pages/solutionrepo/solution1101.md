@@ -22,11 +22,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1101
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Dynamics 365 Business Central with E-invoicing Version 15 -Dynamics 365 BC Essential 6 Users</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Microlabs_20200231_Annex_3_20200630144142_Part_2.pdf'>View Details</a></td>
-<td>35200</td>
-<td>30000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dynamics 365 Business Central with E-invoicing Version 15 -Dynamics 365 BC Essential 6 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Microlabs_20200231_Annex_3_20200630144142_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>35200</td>
+<td style='padding: 10px;'>30000</td>
 </tr>
 </table>
 

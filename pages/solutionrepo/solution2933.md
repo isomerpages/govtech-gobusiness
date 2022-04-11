@@ -20,11 +20,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise</td>
-<td><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Human-Resource-Analytics-Insights-Level-4-Manage-Human-Resource-AnalyticsSynchronous-eLearning-2'>View Details</a></td>
-<td></td>
-<td></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Human-Resource-Analytics-Insights-Level-4-Manage-Human-Resource-AnalyticsSynchronous-eLearning-2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 

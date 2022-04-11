@@ -20,11 +20,11 @@ SHOPLINE provides extensive e-commerce support: inventory management, payment an
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SHOPLINE e-Commerce Solution - Advanced Ecommerce & O2O (ALL IN ONE) + Digital Marketing (Basic) </td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Shopline20200902_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>4958</td>
-<td>4678</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SHOPLINE e-Commerce Solution - Advanced Ecommerce & O2O (ALL IN ONE) + Digital Marketing (Basic) </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Shopline20200902_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4958</td>
+<td style='padding: 10px;'>4678</td>
 </tr>
 </table>
 

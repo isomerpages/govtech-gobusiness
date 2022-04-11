@@ -20,11 +20,11 @@ Sophos XG Firewall brings a fresh new approach to the way you manage your firewa
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Netpluz Managed Firewall  - Sophos XGS - Sophos XGS 126 Sophos Standard Protection - 12 Months</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Netpluz_Asia_Annex_3_CR_wef_28_Oct_21_Part_1.pdf'>View Details</a></td>
-<td>1539</td>
-<td>1539</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netpluz Managed Firewall  - Sophos XGS - Sophos XGS 126 Sophos Standard Protection - 12 Months</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Netpluz_Asia_Annex_3_CR_wef_28_Oct_21_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1539</td>
+<td style='padding: 10px;'>1539</td>
 </tr>
 </table>
 

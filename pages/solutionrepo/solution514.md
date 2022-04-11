@@ -21,11 +21,11 @@ We help build online e commerce stores for F&B merchants so that they can grow t
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>NinjaOS - Package E (NinjaEnterprise - 5 Modules)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Jankosoft_20200023_Annex_3_20200625144914_Part_5.pdf'>View Details</a></td>
-<td>29100</td>
-<td>27900</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NinjaOS - Package E (NinjaEnterprise - 5 Modules)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Jankosoft_20200023_Annex_3_20200625144914_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>29100</td>
+<td style='padding: 10px;'>27900</td>
 </tr>
 </table>
 

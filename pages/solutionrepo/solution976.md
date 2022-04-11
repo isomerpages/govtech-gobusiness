@@ -20,11 +20,11 @@ Singapore Food & Beverage is running out of manpower. Aigens aspire to bring inn
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Kiosk  & BYOD - Digital Order Channel Package Plus</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_23.pdf'>View Details</a></td>
-<td>11460</td>
-<td>11460</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk  & BYOD - Digital Order Channel Package Plus</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_23.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11460</td>
+<td style='padding: 10px;'>11460</td>
 </tr>
 </table>
 

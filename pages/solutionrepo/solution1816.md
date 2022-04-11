@@ -20,11 +20,11 @@ Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Redoc Version 1.0 - Package 1 (Up to 5 users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_1.pdf'>View Details</a></td>
-<td>4800</td>
-<td>4800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc Version 1.0 - Package 1 (Up to 5 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4800</td>
+<td style='padding: 10px;'>4800</td>
 </tr>
 </table>
 

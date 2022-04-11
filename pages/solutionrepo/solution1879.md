@@ -20,11 +20,11 @@ Optimize your retail business productivity and efficiency with RetailPlan, our i
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>LFSUITE Version 6.0 - Package Online2Offline</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_3.pdf'>View Details</a></td>
-<td>$11,460.00</td>
-<td>$11,160.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSUITE Version 6.0 - Package Online2Offline</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$11,460.00</td>
+<td style='padding: 10px;'>$11,160.00</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Synergix E1 Human Resource Management System helps your company to properly trac
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SYNERGIX E1 Version TH6 - Package C : HRMS Standard with Staff Appraisal , Training and Recruitment</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_3.pdf'>View Details</a></td>
-<td></td>
-<td>31200</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SYNERGIX E1 Version TH6 - Package C : HRMS Standard with Staff Appraisal , Training and Recruitment</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>31200</td>
 </tr>
 </table>
 

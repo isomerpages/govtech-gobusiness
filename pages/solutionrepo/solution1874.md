@@ -20,11 +20,11 @@ ZETTAPPS is an integrated Accounting, Order Processing and Multi Currencies Mana
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>ZettApps Finance & Order Processing Version 4.2 - Package A - SME</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>13800</td>
-<td>13800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ZettApps Finance & Order Processing Version 4.2 - Package A - SME</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>13800</td>
+<td style='padding: 10px;'>13800</td>
 </tr>
 </table>
 

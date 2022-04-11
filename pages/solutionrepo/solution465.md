@@ -20,11 +20,11 @@ The solutions offered by Hubspot Asia Pte Ltd are a suite of Customer Relationsh
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub -CRM (Service/E-commerce Package) - Hubspot</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Hubspot_Asia_Annex3_CR_wef_7_Sept_2020_Part_3.pdf'>View Details</a></td>
-<td>9100</td>
-<td>5700</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub -CRM (Service/E-commerce Package) - Hubspot</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Hubspot_Asia_Annex3_CR_wef_7_Sept_2020_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9100</td>
+<td style='padding: 10px;'>5700</td>
 </tr>
 </table>
 

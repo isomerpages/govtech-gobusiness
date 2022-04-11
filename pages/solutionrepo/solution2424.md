@@ -33,11 +33,11 @@ Xero can connect with other apps.
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Daisy XERO Accounting Software - Subscription + Implementation + Training + Migration</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Daisy_Consultants_20200678_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>3200</td>
-<td>3145</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Daisy XERO Accounting Software - Subscription + Implementation + Training + Migration</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Daisy_Consultants_20200678_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3200</td>
+<td style='padding: 10px;'>3145</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Yumstone's Management System enables F&B operators and restaurants to empower th
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Yumstone F&B Solutions Version 5.0 - Package 5: Emenu, Kiosk, Qrcode and CRM</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_56.pdf'>View Details</a></td>
-<td>14195</td>
-<td>11720</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Yumstone F&B Solutions Version 5.0 - Package 5: Emenu, Kiosk, Qrcode and CRM</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>14195</td>
+<td style='padding: 10px;'>11720</td>
 </tr>
 </table>
 

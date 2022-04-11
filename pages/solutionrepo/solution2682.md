@@ -22,11 +22,11 @@ BridgED e-Forms for Preschool is a function to allow the parents to enrol their 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>e-Forms for Preschool Version 1.0 - BridgED e-Forms for Preschool </td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Cyberland_E-Forms_20210410_Desensitised_Annex_3.pdf'>View Details</a></td>
-<td>1200</td>
-<td>1200</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>e-Forms for Preschool Version 1.0 - BridgED e-Forms for Preschool </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cyberland_E-Forms_20210410_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1200</td>
+<td style='padding: 10px;'>1200</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ RavenPOS offers standard to full scale business enterprise software automation s
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with CRM</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_3.pdf'>View Details</a></td>
-<td>11860</td>
-<td>9200</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with CRM</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11860</td>
+<td style='padding: 10px;'>9200</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Fooyo Mini Shop is a SaaS(Software-as-a-service) ordering solution that helps me
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Fooyo Mini Shop Version 2.0-Basic Web Package</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>6188</td>
-<td>6188</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fooyo Mini Shop Version 2.0-Basic Web Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6188</td>
+<td style='padding: 10px;'>6188</td>
 </tr>
 </table>
 

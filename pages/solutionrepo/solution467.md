@@ -20,11 +20,11 @@ Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Pro)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_2.pdf'>View Details</a></td>
-<td>12000</td>
-<td>10000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Pro)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>12000</td>
+<td style='padding: 10px;'>10000</td>
 </tr>
 </table>
 

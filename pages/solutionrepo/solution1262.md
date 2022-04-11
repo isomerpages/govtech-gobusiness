@@ -20,11 +20,11 @@ Aptsys online CRM, marketing and advertising capabilities will propel businesses
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Aptsys Customer Relation Management System (CRM/Loyalty Programme) - Package B</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Annex_3_CR_wef_14_Jan_2021_Part_2.pdf'>View Details</a></td>
-<td>4400</td>
-<td>4400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aptsys Customer Relation Management System (CRM/Loyalty Programme) - Package B</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Annex_3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4400</td>
+<td style='padding: 10px;'>4400</td>
 </tr>
 </table>
 

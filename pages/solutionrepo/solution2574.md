@@ -20,11 +20,11 @@ Profectant has established a sound track record in simplifying and implementing 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Profectant Xero - Premium Package (5 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>4125</td>
-<td>4125</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Premium Package (5 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4125</td>
+<td style='padding: 10px;'>4125</td>
 </tr>
 </table>
 

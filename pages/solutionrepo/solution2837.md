@@ -20,11 +20,11 @@ Creative Sales and order management is an user friendly end-to end solution that
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Creative Sales and Order - Sales & Order Management System Standard</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>15000</td>
-<td>15000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System Standard</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>15000</td>
+<td style='padding: 10px;'>15000</td>
 </tr>
 </table>
 

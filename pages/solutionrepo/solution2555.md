@@ -20,11 +20,11 @@ AdeptForms help our clients to improve and grow by automating their business pro
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>AdeptForms Security Operational Management Version 2 - Package C (Up to 15 Sites)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>37500</td>
-<td>37500</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package C (Up to 15 Sites)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>37500</td>
 </tr>
 </table>
 

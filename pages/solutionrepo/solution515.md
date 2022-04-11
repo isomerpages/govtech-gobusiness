@@ -20,11 +20,11 @@ Bitdefender GZ Advanced Business Security -- Guard against all threats and attac
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>EndPoint Protection Platform - 10 Licenses</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_EndPoint_Protection_Platform_20200097_Annex_3_20200625151212_Part_1.pdf'>View Details</a></td>
-<td></td>
-<td>580.9</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EndPoint Protection Platform - 10 Licenses</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_EndPoint_Protection_Platform_20200097_Annex_3_20200625151212_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>580.9</td>
 </tr>
 </table>
 

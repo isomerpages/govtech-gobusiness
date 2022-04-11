@@ -20,11 +20,11 @@ InfoMaster ERP's Asset Monitoring and Management system allows tracking and moni
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>InfoMaster ERP Software - Asset Monitoring and Management - Premium Edition - 5 Users</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>36000</td>
-<td>28000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InfoMaster ERP Software - Asset Monitoring and Management - Premium Edition - 5 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>36000</td>
+<td style='padding: 10px;'>28000</td>
 </tr>
 </table>
 

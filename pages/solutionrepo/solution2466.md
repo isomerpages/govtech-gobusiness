@@ -23,11 +23,11 @@ Impossible Marketing, a Google and Facebook partner company, is one of the leadi
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>DM Impossible Marketing Digital Marketing Packages - Diversification - 3 Months</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Impossible_Marketing_DM_Annex_3_CR_wef_25_Nov_2021_Part_34.pdf'>View Details</a></td>
-<td>9999.99</td>
-<td>9999.99</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Impossible Marketing Digital Marketing Packages - Diversification - 3 Months</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Impossible_Marketing_DM_Annex_3_CR_wef_25_Nov_2021_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9999.99</td>
+<td style='padding: 10px;'>9999.99</td>
 </tr>
 </table>
 

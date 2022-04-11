@@ -28,11 +28,11 @@ OCi Sales and Accounting Management system is a straight-forward and comprehensi
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>OCi Sales & Accounting Management System (SAM) Version 11 -Package (2 Concurrent Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_OCi_SYSTEMS_20200267_Annex_3_20200707122945_Part_2.pdf'>View Details</a></td>
-<td>6120</td>
-<td>6020</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OCi Sales & Accounting Management System (SAM) Version 11 -Package (2 Concurrent Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_OCi_SYSTEMS_20200267_Annex_3_20200707122945_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6120</td>
+<td style='padding: 10px;'>6020</td>
 </tr>
 </table>
 

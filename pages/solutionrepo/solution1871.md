@@ -22,11 +22,11 @@ We provide EndPoint protection, vulnerability assessment, network threat hunting
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) SME Small with 24 x 7 Managed Security Support</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Toffs_Technologies_20200279_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>27450</td>
-<td>27450</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) SME Small with 24 x 7 Managed Security Support</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Toffs_Technologies_20200279_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>27450</td>
+<td style='padding: 10px;'>27450</td>
 </tr>
 </table>
 

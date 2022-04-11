@@ -20,11 +20,11 @@ Our POS solution is customizable to use in multiple business sectors, which are 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (ENTERPRISE PLUS)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_5.pdf'>View Details</a></td>
-<td>$12,400.00</td>
-<td>$11200.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (ENTERPRISE PLUS)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$12,400.00</td>
+<td style='padding: 10px;'>$11200.00</td>
 </tr>
 </table>
 

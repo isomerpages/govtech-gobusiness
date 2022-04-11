@@ -20,11 +20,11 @@ ABSS premier is an on-premise full fledge and integrated accounting, sales, inve
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>ABSS Premier Version 23.0 - Package B (Three User Licence full package)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>3550</td>
-<td>3550</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23.0 - Package B (Three User Licence full package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3550</td>
+<td style='padding: 10px;'>3550</td>
 </tr>
 </table>
 

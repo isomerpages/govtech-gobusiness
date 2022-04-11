@@ -21,11 +21,11 @@ ABSS Premier is a leading SME business integrated simple and easy to use account
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>ABSS Premier Version 23 - 1U+Setup+Training</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_1.pdf'>View Details</a></td>
-<td>3180</td>
-<td>3180</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - 1U+Setup+Training</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3180</td>
+<td style='padding: 10px;'>3180</td>
 </tr>
 </table>
 

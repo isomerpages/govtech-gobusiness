@@ -22,11 +22,11 @@ Cost of equipment capped at $37,500 per unit
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Combi Oven</td>
-<td><a href=''>View Details</a></td>
-<td></td>
-<td>37500</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Combi Oven</td>
+<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>37500</td>
 </tr>
 </table>
 

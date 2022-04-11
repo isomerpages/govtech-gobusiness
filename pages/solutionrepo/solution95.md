@@ -20,11 +20,11 @@ MoneyWorks was built from the ground up for the needs of business, finance and a
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9 - Package A Moneyworks Gold - 1 User Software Only</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advanced_Micro_Control_Annex_3_CR_wef_9_Dec_2021_Part_1.pdf'>View Details</a></td>
-<td>895</td>
-<td>895</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9 - Package A Moneyworks Gold - 1 User Software Only</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advanced_Micro_Control_Annex_3_CR_wef_9_Dec_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>895</td>
+<td style='padding: 10px;'>895</td>
 </tr>
 </table>
 

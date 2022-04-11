@@ -20,11 +20,11 @@ Sleek provides a fully digital solution for accounting, tax, HR and sales manage
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>A-Class Accounting & Sales Management by Sleek Version 1 - A - Slim</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_1.pdf'>View Details</a></td>
-<td>900</td>
-<td>900</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Accounting & Sales Management by Sleek Version 1 - A - Slim</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>900</td>
+<td style='padding: 10px;'>900</td>
 </tr>
 </table>
 

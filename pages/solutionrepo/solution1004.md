@@ -20,11 +20,11 @@ Stendard Solution  is a cloud-based document management system that allows you t
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Stendard Solution  Version 1.6.1 - Professional</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>17000</td>
-<td>17000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stendard Solution  Version 1.6.1 - Professional</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17000</td>
+<td style='padding: 10px;'>17000</td>
 </tr>
 </table>
 

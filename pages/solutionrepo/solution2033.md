@@ -20,11 +20,11 @@ Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hote
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Zeemart - Zeemart Buyer Hub (Upto 50 outlets w/integration) (Package 4)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_4.pdf'>View Details</a></td>
-<td>20150</td>
-<td>18200</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart - Zeemart Buyer Hub (Upto 50 outlets w/integration) (Package 4)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>20150</td>
+<td style='padding: 10px;'>18200</td>
 </tr>
 </table>
 

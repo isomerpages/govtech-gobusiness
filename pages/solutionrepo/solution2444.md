@@ -20,11 +20,11 @@ As an EduTech company, LittleLives facilitates day-to-day school operations thro
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>LittleLives 4.5 - Thermal Pro</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelives_20200132_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>16410</td>
-<td>16410</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - Thermal Pro</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelives_20200132_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>16410</td>
+<td style='padding: 10px;'>16410</td>
 </tr>
 </table>
 

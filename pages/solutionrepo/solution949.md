@@ -21,11 +21,11 @@ Companies in wholesale sector used our fully web based system to manage all the 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>WhyzeHR Workforce Management System Version 12 - Package D (50 Standard Package)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_4.pdf'>View Details</a></td>
-<td>9850</td>
-<td>9350</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Workforce Management System Version 12 - Package D (50 Standard Package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9850</td>
+<td style='padding: 10px;'>9350</td>
 </tr>
 </table>
 

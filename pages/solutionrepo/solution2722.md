@@ -20,11 +20,11 @@ CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store orderin
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>BIZ FNB DIGITAL ORDERING - BIZ FNB V3.5 Inventory + CRM</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Coobiz_Biz_Fnb_20210467_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>13580</td>
-<td>11424</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIZ FNB DIGITAL ORDERING - BIZ FNB V3.5 Inventory + CRM</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Coobiz_Biz_Fnb_20210467_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>13580</td>
+<td style='padding: 10px;'>11424</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ MyDoc's Telemedicine Solution for providers is a bundled package that providers 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>MyDoc Telemedicine Solution - Package 3 (3 Doctors)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MyDoc_Annex_3_PSG_Part_3.pdf'>View Details</a></td>
-<td>$3630.00</td>
-<td>$3000.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyDoc Telemedicine Solution - Package 3 (3 Doctors)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MyDoc_Annex_3_PSG_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$3630.00</td>
+<td style='padding: 10px;'>$3000.00</td>
 </tr>
 </table>
 

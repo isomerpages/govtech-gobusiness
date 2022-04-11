@@ -20,11 +20,11 @@ Assemble Systems provides a SaaS platform that consumes BIM models, drawings, an
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>INNOCOM - ASSEMBLE-OFFICE -1 YEAR</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>32800</td>
-<td>16000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - ASSEMBLE-OFFICE -1 YEAR</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>32800</td>
+<td style='padding: 10px;'>16000</td>
 </tr>
 </table>
 

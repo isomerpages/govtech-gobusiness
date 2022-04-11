@@ -20,11 +20,11 @@ Aggregate Consultancy Services provides one stop digital solution to digitalise 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Aggregate Cloud Accounting Software (Xero) - Package D (Premium Plus)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_56.pdf'>View Details</a></td>
-<td>6720</td>
-<td>6720</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package D (Premium Plus)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6720</td>
+<td style='padding: 10px;'>6720</td>
 </tr>
 </table>
 

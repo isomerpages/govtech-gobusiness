@@ -21,11 +21,11 @@ SecureAPlus is an EndPoint protection solution that uses the right combination o
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SecureAPlus Version 6.x - (150 Pax)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_4.pdf'>View Details</a></td>
-<td></td>
-<td>4500</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SecureAPlus Version 6.x - (150 Pax)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>4500</td>
 </tr>
 </table>
 

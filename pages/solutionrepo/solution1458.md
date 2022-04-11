@@ -20,11 +20,11 @@ Track 365 Automotive Tracking System is a cloud based telematics solution. Due t
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Automotive Tracking System-Package B (6 Vehicles)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>4194</td>
-<td>4194</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automotive Tracking System-Package B (6 Vehicles)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4194</td>
+<td style='padding: 10px;'>4194</td>
 </tr>
 </table>
 

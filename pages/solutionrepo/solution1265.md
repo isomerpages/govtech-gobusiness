@@ -20,11 +20,11 @@ MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-us
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>MyRetailer Plus Version 4 - Package C with Web Store</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPLUSAnnex3CRwef12August2021-_Part_3.pdf'>View Details</a></td>
-<td>5650</td>
-<td>4370</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyRetailer Plus Version 4 - Package C with Web Store</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPLUSAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5650</td>
+<td style='padding: 10px;'>4370</td>
 </tr>
 </table>
 

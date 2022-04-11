@@ -23,11 +23,11 @@ It is built with a user definable workflow driven engine suitable for SMEs to ca
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Xintesys Sales and Inventory Management Solution Version V30DC_01-001 - Start Up Pack (5 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Xintesys_Consultanc_20200109_Annex_3_20200625143843_Part_1.pdf'>View Details</a></td>
-<td>13200</td>
-<td>13200</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xintesys Sales and Inventory Management Solution Version V30DC_01-001 - Start Up Pack (5 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Xintesys_Consultanc_20200109_Annex_3_20200625143843_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>13200</td>
+<td style='padding: 10px;'>13200</td>
 </tr>
 </table>
 

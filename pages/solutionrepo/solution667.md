@@ -21,11 +21,11 @@ Octopus Food Solutions provides a complete suites of innovative and easy-to-use 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Octopus Food Solution Version 7 - Package B (Bundle of 3 Mobile Ordering)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_2.pdf'>View Details</a></td>
-<td>7296</td>
-<td>6797</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Octopus Food Solution Version 7 - Package B (Bundle of 3 Mobile Ordering)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7296</td>
+<td style='padding: 10px;'>6797</td>
 </tr>
 </table>
 

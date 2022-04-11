@@ -20,11 +20,11 @@ Sleek provides fully digital, secure and hassle-free HR admin & payroll services
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan A</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_1.pdf'>View Details</a></td>
-<td>280.38</td>
-<td>280.38</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan A</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>280.38</td>
+<td style='padding: 10px;'>280.38</td>
 </tr>
 </table>
 

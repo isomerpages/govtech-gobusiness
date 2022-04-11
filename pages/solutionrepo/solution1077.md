@@ -20,11 +20,11 @@ Xero is an online accounting software for SMEs, to be able to automate their eve
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup, Migration & Training)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_5.pdf'>View Details</a></td>
-<td>2980</td>
-<td>2925</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup, Migration & Training)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2980</td>
+<td style='padding: 10px;'>2925</td>
 </tr>
 </table>
 

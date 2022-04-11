@@ -20,11 +20,11 @@ Tekla Solutions is a suite of 3D modelling software for Contractors to create an
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Tekla Solutions - Tekla 3D Modelling Basic with Training</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Trimble_Annex_3_CR_wef_31_Mar_2022_Part_4.pdf'>View Details</a></td>
-<td>5375</td>
-<td>3620</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tekla Solutions - Tekla 3D Modelling Basic with Training</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Trimble_Annex_3_CR_wef_31_Mar_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5375</td>
+<td style='padding: 10px;'>3620</td>
 </tr>
 </table>
 

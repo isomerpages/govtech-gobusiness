@@ -20,11 +20,11 @@ QuickBooks Online is an IRAS-registered cloud accounting software which helps sm
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>QuickBooks Online - Acloud - QBO Quick Start - Set D</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>2999</td>
-<td>2961</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - Acloud - QBO Quick Start - Set D</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2999</td>
+<td style='padding: 10px;'>2961</td>
 </tr>
 </table>
 

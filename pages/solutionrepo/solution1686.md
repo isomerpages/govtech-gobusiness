@@ -20,11 +20,11 @@ SoloTracking is an industry-proven, advanced and productivity-oriented fleet man
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SoloTracking Version 2 - Package A (40 vehicles)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Solo_tracking_Annex_3_CR_wef_21_Oct_2021_Part_2.pdf'>View Details</a></td>
-<td>31612</td>
-<td>31612</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SoloTracking Version 2 - Package A (40 vehicles)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Solo_tracking_Annex_3_CR_wef_21_Oct_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>31612</td>
+<td style='padding: 10px;'>31612</td>
 </tr>
 </table>
 

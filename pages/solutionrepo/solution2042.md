@@ -22,11 +22,11 @@ Our package comprises automated solutions for CRM, Sales, Purchase, Inventory, a
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>EQUIP Version 10 - EQUIP S1 - 20 Users</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/20200831_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>31600</td>
-<td>31600</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQUIP Version 10 - EQUIP S1 - 20 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200831_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>31600</td>
+<td style='padding: 10px;'>31600</td>
 </tr>
 </table>
 

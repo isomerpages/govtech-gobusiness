@@ -21,11 +21,11 @@ R Systems is a global technology and analytics services company that helps busin
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Microsoft Dynamics 365 Business Central - Essentials - 5 Users</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/20200421_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>32570</td>
-<td>21770</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central - Essentials - 5 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200421_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>32570</td>
+<td style='padding: 10px;'>21770</td>
 </tr>
 </table>
 

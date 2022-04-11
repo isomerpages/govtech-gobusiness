@@ -22,11 +22,11 @@ Learn more at https://www.netsuite.com.sg or via the NetSuite blog.
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>NetSuite-SuiteSuccess Standard and Inventory Management</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedOracleAnnexCRwef12August2021-_Part_910.pdf'>View Details</a></td>
-<td>32572</td>
-<td>32564</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NetSuite-SuiteSuccess Standard and Inventory Management</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedOracleAnnexCRwef12August2021-_Part_910.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>32572</td>
+<td style='padding: 10px;'>32564</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Acc Pro (Singapore), a Top-recommended Pro-Advisor for QuickBooks Online is prou
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Intuit Quickbooks Online Full Transformation Package - Intuit Quickbooks Online - Essential Plan</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAccProAnnex3CRwef12August2021-_Part_3.pdf'>View Details</a></td>
-<td>3678</td>
-<td>3678</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit Quickbooks Online Full Transformation Package - Intuit Quickbooks Online - Essential Plan</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAccProAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3678</td>
+<td style='padding: 10px;'>3678</td>
 </tr>
 </table>
 

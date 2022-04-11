@@ -22,11 +22,11 @@ To Digitize all SME products and services into a single platform, all hardcopy p
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>KEEPITAL Sales Management Business Solution Version 3 - Package (250 Product Showcase)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Keep_20190044_Annex_3_20200625143301_Part_3.pdf'>View Details</a></td>
-<td>11000</td>
-<td>10700</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (250 Product Showcase)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Keep_20190044_Annex_3_20200625143301_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11000</td>
+<td style='padding: 10px;'>10700</td>
 </tr>
 </table>
 

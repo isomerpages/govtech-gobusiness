@@ -20,11 +20,11 @@ Mobile platform that connects the top-floor to the shop-floor. KNOW is a communi
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>KNOW Version 5 - Xlarge Package (up to 200 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Loctoc_Annex_3_wef_23_April_2020_Part_4.pdf'>View Details</a></td>
-<td>11700</td>
-<td>9200</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KNOW Version 5 - Xlarge Package (up to 200 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Loctoc_Annex_3_wef_23_April_2020_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11700</td>
+<td style='padding: 10px;'>9200</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ An easily adaptable enterprise resource planning (ERP) solution, it helps small 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Microsoft Dynamics 365 Business Central for Wholesale - Package A (7 Perpetual Licenses) with  PEPPOL e-invoicing</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_1.pdf'>View Details</a></td>
-<td>47038.56</td>
-<td>32316</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central for Wholesale - Package A (7 Perpetual Licenses) with  PEPPOL e-invoicing</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>47038.56</td>
+<td style='padding: 10px;'>32316</td>
 </tr>
 </table>
 

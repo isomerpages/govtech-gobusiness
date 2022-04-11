@@ -20,11 +20,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2740
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>DM 3D Digital Booster - Package 2: SEO / SEM (3 Months)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DM_3D_BRAND_AGENCY_20210423_Desensitised_Annex_3_Part_34.pdf'>View Details</a></td>
-<td>8000</td>
-<td>8000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM 3D Digital Booster - Package 2: SEO / SEM (3 Months)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_3D_BRAND_AGENCY_20210423_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8000</td>
+<td style='padding: 10px;'>8000</td>
 </tr>
 </table>
 

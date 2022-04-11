@@ -20,11 +20,11 @@ Flavor CRM is a robust solution for keeping tracking of leads, conversion and ma
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Flavor Customer Relationship Management System Version 1 - Expert Mode 1</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>10600</td>
-<td>10600</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flavor Customer Relationship Management System Version 1 - Expert Mode 1</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10600</td>
+<td style='padding: 10px;'>10600</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Simplify FSM solution connects and empowers field technicians while simplifying 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Simplify Version 1 - Simplify - Business (Unlimited Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Noid_20210357_Desensitised_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>36500</td>
-<td>32300</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify Version 1 - Simplify - Business (Unlimited Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Noid_20210357_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>36500</td>
+<td style='padding: 10px;'>32300</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ SmartFM is an integrated, cloud based, facility management solution. It is desig
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SmartFM Version 1.0 - Commercial (Unlimited)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>32000</td>
-<td>28400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartFM Version 1.0 - Commercial (Unlimited)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>32000</td>
+<td style='padding: 10px;'>28400</td>
 </tr>
 </table>
 

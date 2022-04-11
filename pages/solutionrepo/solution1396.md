@@ -20,11 +20,11 @@ Microsoft Dynamics 365 Business Central delivers integrated functionality to pro
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Microsoft Dynamics 365 Business Central Version SAAS-Small Business</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Illum_20200074_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>25750</td>
-<td>20670</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version SAAS-Small Business</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Illum_20200074_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>25750</td>
+<td style='padding: 10px;'>20670</td>
 </tr>
 </table>
 

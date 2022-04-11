@@ -20,11 +20,11 @@ Cartrack Fleet offers companies the visibility of their fleet, enabling better c
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package C)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cartrack_Annex_3_CR_wef_29_Oct_2020_Part_3.pdf'>View Details</a></td>
-<td>$6,000.00</td>
-<td>$6,000.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package C)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cartrack_Annex_3_CR_wef_29_Oct_2020_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
 </tr>
 </table>
 

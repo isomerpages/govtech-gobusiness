@@ -20,11 +20,11 @@ Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of exp
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 50/15</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>7720</td>
-<td>7720</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 50/15</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7720</td>
+<td style='padding: 10px;'>7720</td>
 </tr>
 </table>
 

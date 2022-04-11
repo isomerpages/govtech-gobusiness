@@ -20,11 +20,11 @@ The One Stop Mobile App for Business Contact Data Storage & Salesman Management 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Carddio Version 1 - Plus Package</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>7800</td>
-<td>7800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carddio Version 1 - Plus Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7800</td>
+<td style='padding: 10px;'>7800</td>
 </tr>
 </table>
 

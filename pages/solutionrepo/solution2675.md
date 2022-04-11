@@ -20,11 +20,11 @@ JustLogin is an Employee First Human Resource (HR) cloud platform that provides 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>JustLogin HR E-Scheduling - C (Up to 75 pax)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>10150</td>
-<td>8800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>JustLogin HR E-Scheduling - C (Up to 75 pax)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10150</td>
+<td style='padding: 10px;'>8800</td>
 </tr>
 </table>
 

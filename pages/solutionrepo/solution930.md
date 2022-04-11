@@ -20,11 +20,11 @@ Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Shopcada Ecommerce and POS - Shopcada Premium Ecommerce with Grow Mobile Package</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_1-2.pdf'>View Details</a></td>
-<td>18500</td>
-<td>10000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopcada Ecommerce and POS - Shopcada Premium Ecommerce with Grow Mobile Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_1-2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>18500</td>
+<td style='padding: 10px;'>10000</td>
 </tr>
 </table>
 

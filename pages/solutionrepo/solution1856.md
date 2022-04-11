@@ -22,11 +22,11 @@ Learn more at https://www.netsuite.com.sg or via the NetSuite blog.
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>NetSuite-SuiteSuccess FinancialsFirst Standard Cloud Service</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedOracleAnnexCRwef12August2021-_Part_56.pdf'>View Details</a></td>
-<td>27344</td>
-<td>27336</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NetSuite-SuiteSuccess FinancialsFirst Standard Cloud Service</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedOracleAnnexCRwef12August2021-_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>27344</td>
+<td style='padding: 10px;'>27336</td>
 </tr>
 </table>
 

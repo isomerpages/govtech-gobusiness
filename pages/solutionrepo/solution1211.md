@@ -20,11 +20,11 @@ Autodesk's AEC collection equips the Industry to design & construct high quality
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>BIMAGE - Autodesk AEC Collection - 1 Year AEC</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_1.pdf'>View Details</a></td>
-<td>3190</td>
-<td>1590</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIMAGE - Autodesk AEC Collection - 1 Year AEC</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3190</td>
+<td style='padding: 10px;'>1590</td>
 </tr>
 </table>
 

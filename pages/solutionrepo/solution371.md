@@ -20,11 +20,11 @@ EquipPOS Retail Solutions combines the strength a traditional POS and a cloud-ba
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>EquipPOS Retail Solutions Version 3 - Package B (Basic + Multi Outlet Control + Appointment & Commission)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgework_Annex_3_CR_wef_25_Nov_2021_Part_2.pdf'>View Details</a></td>
-<td>$6,210.00</td>
-<td>$5,500.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EquipPOS Retail Solutions Version 3 - Package B (Basic + Multi Outlet Control + Appointment & Commission)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgework_Annex_3_CR_wef_25_Nov_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$6,210.00</td>
+<td style='padding: 10px;'>$5,500.00</td>
 </tr>
 </table>
 

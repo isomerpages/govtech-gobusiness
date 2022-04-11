@@ -20,11 +20,11 @@ Airsquire 360- Virtual Sites helps capture, visualize and share your site's "360
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>AirGo 360- Virtual Sites platform - Annual Project Subscription (GFA <=100,000sqm)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>22500</td>
-<td>20100</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AirGo 360- Virtual Sites platform - Annual Project Subscription (GFA <=100,000sqm)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>22500</td>
+<td style='padding: 10px;'>20100</td>
 </tr>
 </table>
 

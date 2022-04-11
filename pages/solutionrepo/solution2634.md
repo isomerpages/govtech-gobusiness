@@ -23,11 +23,11 @@ Support Time : 9am-6pm
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle501</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>6590</td>
-<td>6590</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle501</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6590</td>
+<td style='padding: 10px;'>6590</td>
 </tr>
 </table>
 

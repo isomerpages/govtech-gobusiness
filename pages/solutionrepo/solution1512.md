@@ -20,11 +20,11 @@ Salesforce is the #1 CRM, bringing companies and customers together in the digit
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Salesforce Sales Cloud Professional Edition - Premier Success and Jumpstart Setup (10 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSalesforce_Annex_3_CRwef12August2021-_Part_3.pdf'>View Details</a></td>
-<td>17947</td>
-<td>15494.7</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Salesforce Sales Cloud Professional Edition - Premier Success and Jumpstart Setup (10 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSalesforce_Annex_3_CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17947</td>
+<td style='padding: 10px;'>15494.7</td>
 </tr>
 </table>
 

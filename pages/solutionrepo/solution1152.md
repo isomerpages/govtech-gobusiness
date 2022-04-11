@@ -20,11 +20,11 @@ Novade provides an enterprise platform for site operations. Novade leverages mob
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Novade - Package 2: Novade Safety (1 Project, up to 2 years)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>31000</td>
-<td>15800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Novade - Package 2: Novade Safety (1 Project, up to 2 years)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>31000</td>
+<td style='padding: 10px;'>15800</td>
 </tr>
 </table>
 

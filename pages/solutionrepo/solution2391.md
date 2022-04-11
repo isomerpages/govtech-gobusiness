@@ -20,11 +20,11 @@ HRMS software assists an organization's human resources department by automating
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SmartCursors Human Resource Management System (HRMS) - Silver (up to 25 users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Smartcursors_HRMS_20200638_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>5500</td>
-<td>5200</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartCursors Human Resource Management System (HRMS) - Silver (up to 25 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Smartcursors_HRMS_20200638_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5500</td>
+<td style='padding: 10px;'>5200</td>
 </tr>
 </table>
 

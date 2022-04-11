@@ -20,11 +20,11 @@ At MetroCorp, we believe in being your partner in management services. Our team'
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>MMS - Xero Accounting Solution - E -  Xero Premium Full Integration Package</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>4620</td>
-<td>4620</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - E -  Xero Premium Full Integration Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4620</td>
+<td style='padding: 10px;'>4620</td>
 </tr>
 </table>
 

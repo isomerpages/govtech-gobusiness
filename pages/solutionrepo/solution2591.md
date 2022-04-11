@@ -21,11 +21,11 @@ ADAS and DSM System is a product based on deep-learning technology, the product 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Fleet Safety Management System Version 7 - 6 vehicles</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/SmartComm_Electronics_20210158_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>14820</td>
-<td>12060</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Safety Management System Version 7 - 6 vehicles</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SmartComm_Electronics_20210158_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>14820</td>
+<td style='padding: 10px;'>12060</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Firstcom Solutions is a Google Premier Partner and also a Facebook Business Part
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>DM Firstcom Digital Marketing Programme - Social Media Brand Awareness & Lead Generation</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DM_Firstcom_Solutions_20210328_Desensitised_Annex_3.pdf'>View Details</a></td>
-<td>10000</td>
-<td>10000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Firstcom Digital Marketing Programme - Social Media Brand Awareness & Lead Generation</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_Firstcom_Solutions_20210328_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
 </tr>
 </table>
 

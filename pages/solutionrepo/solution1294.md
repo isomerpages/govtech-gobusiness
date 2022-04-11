@@ -20,11 +20,11 @@ Ascent's iSPOT FMS enable companies to transform their business with data-driven
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Ascent iSPOT Fleet Management System - iSPOT FMS Tracking and Workflow management - Package B (20 Vehicles)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ascent_20200175_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>6000</td>
-<td>6000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ascent iSPOT Fleet Management System - iSPOT FMS Tracking and Workflow management - Package B (20 Vehicles)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ascent_20200175_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6000</td>
+<td style='padding: 10px;'>6000</td>
 </tr>
 </table>
 

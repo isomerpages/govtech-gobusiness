@@ -20,11 +20,11 @@ Qornerstone Estate is an off-the-shelf solution to digitalize Property & Managem
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Qornerstone Estate Management System Version 3.50 - Qornerstone Subscription Package for Building Owners</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_3.pdf'>View Details</a></td>
-<td></td>
-<td>44400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qornerstone Estate Management System Version 3.50 - Qornerstone Subscription Package for Building Owners</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>44400</td>
 </tr>
 </table>
 

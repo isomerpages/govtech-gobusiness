@@ -20,11 +20,11 @@ Process Construction & Maintenance (PCM) Solution is tailored to Singapore's Pro
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Synergix Process Construction and Maintenance - Synergix PCM 3-in1 ERP Solution (5 users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_1.pdf'>View Details</a></td>
-<td>49860</td>
-<td>36200</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix Process Construction and Maintenance - Synergix PCM 3-in1 ERP Solution (5 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>49860</td>
+<td style='padding: 10px;'>36200</td>
 </tr>
 </table>
 

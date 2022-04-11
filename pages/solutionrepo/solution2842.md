@@ -20,11 +20,11 @@ DashBod is a cloud accounting software that is one of the software listed on Inl
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Booming - 1A</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>4790</td>
-<td>4640</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Booming - 1A</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4790</td>
+<td style='padding: 10px;'>4640</td>
 </tr>
 </table>
 

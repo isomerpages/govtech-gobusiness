@@ -20,11 +20,11 @@ Odoo is an integrated suite of business applications that have thousand of modul
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Applivon - Odoo - App15</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Applivon_20210515_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>15953</td>
-<td>15953</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Applivon - Odoo - App15</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Applivon_20210515_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>15953</td>
+<td style='padding: 10px;'>15953</td>
 </tr>
 </table>
 

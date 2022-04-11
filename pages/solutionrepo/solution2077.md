@@ -20,11 +20,11 @@ Xero offers a cloud-based accounting software platform for small and medium-size
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Accounts101 - Xero Cloud Accounting Software - Package C(Premium w/ Fixed Asset & Inventory)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>3920</td>
-<td>3920</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounts101 - Xero Cloud Accounting Software - Package C(Premium w/ Fixed Asset & Inventory)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3920</td>
+<td style='padding: 10px;'>3920</td>
 </tr>
 </table>
 

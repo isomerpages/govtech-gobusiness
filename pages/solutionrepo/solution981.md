@@ -22,11 +22,11 @@ AZ Digital ordering solution provides an up scaling process in engaging customer
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( 22" Customer Self Ordering Station Package )</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_Annex_3_CR_wef_11_Nov_2021_Part_2.pdf'>View Details</a></td>
-<td>7500</td>
-<td>6600</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( 22" Customer Self Ordering Station Package )</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_Annex_3_CR_wef_11_Nov_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7500</td>
+<td style='padding: 10px;'>6600</td>
 </tr>
 </table>
 

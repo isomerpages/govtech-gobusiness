@@ -20,11 +20,11 @@ Cloud-Based POS System with product management, inventory management, promotion 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>KYBIO Version 3.0.9.3 - Version 3.0.9.3Package (Basic - Mobile)               </td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_4.pdf'>View Details</a></td>
-<td>$$2,572.00</td>
-<td>$$2,572.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KYBIO Version 3.0.9.3 - Version 3.0.9.3Package (Basic - Mobile)               </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$$2,572.00</td>
+<td style='padding: 10px;'>$$2,572.00</td>
 </tr>
 </table>
 

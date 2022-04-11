@@ -20,11 +20,11 @@ The SAP Business One application offers a single, affordable way to manage your 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SAP Business One 9.3 Package - Package (6 Professional Users on Cloud)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedIntegratedInfoSystemsAnnex3CRwef12August2021-_Part_3.pdf'>View Details</a></td>
-<td>38292</td>
-<td>37392</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One 9.3 Package - Package (6 Professional Users on Cloud)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedIntegratedInfoSystemsAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>38292</td>
+<td style='padding: 10px;'>37392</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ A complete end-to-end software system tailor-made for centres where there are st
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>HAVENCE Version 4 - HAVSMART ENRICHED</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desenstitised_Havence_20200647_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>10620</td>
-<td>10620</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVENCE Version 4 - HAVSMART ENRICHED</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desenstitised_Havence_20200647_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10620</td>
+<td style='padding: 10px;'>10620</td>
 </tr>
 </table>
 

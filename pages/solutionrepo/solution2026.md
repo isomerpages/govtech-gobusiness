@@ -20,11 +20,11 @@ A2000 Solutions Pte. Ltd. is an established ERP business software development co
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>A2000ERP Version 12.X - Package (D) - A2000ERP Wholesale System 10 Users + 8 Mobile Users + E-Commerce Annual Subscription</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_A2000_ERP_Annex_3_CR_wef_21_Oct_21_Part_4.pdf'>View Details</a></td>
-<td>37168</td>
-<td>33400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP Version 12.X - Package (D) - A2000ERP Wholesale System 10 Users + 8 Mobile Users + E-Commerce Annual Subscription</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_A2000_ERP_Annex_3_CR_wef_21_Oct_21_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>37168</td>
+<td style='padding: 10px;'>33400</td>
 </tr>
 </table>
 

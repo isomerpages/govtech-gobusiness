@@ -22,11 +22,11 @@ Getz solution is a fully integrated platform that comprehensively resolves F&B's
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2-Package B (Contactless Pickup, Islandwide Delivery, CRM Transformation - 3 Mods) </td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Getz_Group_Annex_3_20200702223650_Part_2.pdf'>View Details</a></td>
-<td>10800</td>
-<td>9100</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2-Package B (Contactless Pickup, Islandwide Delivery, CRM Transformation - 3 Mods) </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Getz_Group_Annex_3_20200702223650_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10800</td>
+<td style='padding: 10px;'>9100</td>
 </tr>
 </table>
 

@@ -22,11 +22,11 @@ The IFS Platform is manned by a team of three highly trained security profession
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS) - Standard</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Concorde_Security_20200212_Desensitised_Annex_3.pdf'>View Details</a></td>
-<td>30000</td>
-<td>30000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS) - Standard</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Concorde_Security_20200212_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>30000</td>
+<td style='padding: 10px;'>30000</td>
 </tr>
 </table>
 

@@ -21,11 +21,11 @@ Designed for the next-generation salons, VEON@Experience is extremely visual and
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>VEON@Experience Version 1.0 - Package A (VEON Basic (no hardware))</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_1.pdf'>View Details</a></td>
-<td>5168</td>
-<td>5168</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VEON@Experience Version 1.0 - Package A (VEON Basic (no hardware))</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5168</td>
+<td style='padding: 10px;'>5168</td>
 </tr>
 </table>
 

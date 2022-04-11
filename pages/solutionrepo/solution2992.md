@@ -20,11 +20,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>2. Manage Budgeting and Forecasting Processes for the Business Unit</td>
-<td><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Budgeting-Forecasting-Processes-Business-Unit-5'>View Details</a></td>
-<td></td>
-<td></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2. Manage Budgeting and Forecasting Processes for the Business Unit</td>
+<td style='padding: 10px;'><a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Budgeting-Forecasting-Processes-Business-Unit-5' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 

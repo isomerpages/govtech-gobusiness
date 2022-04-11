@@ -20,11 +20,11 @@ Since 2014, HEXA Singapore has been building websites and applications from stra
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>i3 E-Commerce Store - E-Commerce Store Development (Customized WooCommerce)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Hexa_20200809_Desensitised_Annex_3_Part12.pdf'>View Details</a></td>
-<td>10000</td>
-<td>10000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>i3 E-Commerce Store - E-Commerce Store Development (Customized WooCommerce)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hexa_20200809_Desensitised_Annex_3_Part12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
 </tr>
 </table>
 

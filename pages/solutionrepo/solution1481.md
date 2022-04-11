@@ -20,11 +20,11 @@ KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank with Auto ETL - Small Engine)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>2926000</td>
-<td>830000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank with Auto ETL - Small Engine)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2926000</td>
+<td style='padding: 10px;'>830000</td>
 </tr>
 </table>
 

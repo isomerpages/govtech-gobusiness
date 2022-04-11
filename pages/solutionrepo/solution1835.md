@@ -20,11 +20,11 @@ Yumstone's Management System enables F&B operators and restaurants to empower th
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Yumstone F&B Solutions Version 5.0 - Package 4: Qrcode Ordering and CRM</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_4.pdf'>View Details</a></td>
-<td>9715</td>
-<td>8840</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Yumstone F&B Solutions Version 5.0 - Package 4: Qrcode Ordering and CRM</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9715</td>
+<td style='padding: 10px;'>8840</td>
 </tr>
 </table>
 

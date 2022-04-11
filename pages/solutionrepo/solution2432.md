@@ -22,11 +22,11 @@ It is capable of capturing the profiles of students and staff, allowing for the 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>BridgED Version 2.0 - BridgED 50/15</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cyberland_20200637_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>6870</td>
-<td>6770</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BridgED Version 2.0 - BridgED 50/15</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cyberland_20200637_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6870</td>
+<td style='padding: 10px;'>6770</td>
 </tr>
 </table>
 

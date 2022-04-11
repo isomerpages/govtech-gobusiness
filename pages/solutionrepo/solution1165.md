@@ -20,11 +20,11 @@ Xero is an accounting software for small business that lives in the cloud and wo
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Xero accounting software - ASL Advisory - Xero setup, subscription, training, migration of past year data</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_Annex_3_CR_wef_2_Sept_2021_Part_5.pdf'>View Details</a></td>
-<td>5060</td>
-<td>5005</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero accounting software - ASL Advisory - Xero setup, subscription, training, migration of past year data</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_Annex_3_CR_wef_2_Sept_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5060</td>
+<td style='padding: 10px;'>5005</td>
 </tr>
 </table>
 

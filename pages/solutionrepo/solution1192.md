@@ -20,11 +20,11 @@ SmartWeb is one of the unique solutions in the market which allows online orderi
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SmartWeb V3 Version V3 - Smartweb V3 (License Only)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>4800</td>
-<td>4800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb V3 Version V3 - Smartweb V3 (License Only)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4800</td>
+<td style='padding: 10px;'>4800</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Second CRM is an easy to use cloud based business automation solution designed t
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Second CRM Version 7.1 - Package B (5 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>6125</td>
-<td>6125</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Second CRM Version 7.1 - Package B (5 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6125</td>
+<td style='padding: 10px;'>6125</td>
 </tr>
 </table>
 

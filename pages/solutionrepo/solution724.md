@@ -20,11 +20,11 @@ Our company specializes in business software applications ie selling Psoft Accou
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Psoft Accounting Systems - Package (Web-Based Three Users with PEPPOL)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PSoft_Annex_3_CR_wef_4_Nov_2021_Part_5.pdf'>View Details</a></td>
-<td>6660</td>
-<td>5210</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Psoft Accounting Systems - Package (Web-Based Three Users with PEPPOL)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PSoft_Annex_3_CR_wef_4_Nov_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6660</td>
+<td style='padding: 10px;'>5210</td>
 </tr>
 </table>
 

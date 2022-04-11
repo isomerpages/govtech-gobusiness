@@ -20,11 +20,11 @@ HReasily is a cloud-based HR solution that provides end-to-end employee data col
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>HReasily Online Payroll Version 5 - Package A - 5 Employees</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_HReasily_20210092_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>900</td>
-<td>900</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HReasily Online Payroll Version 5 - Package A - 5 Employees</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_HReasily_20210092_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>900</td>
+<td style='padding: 10px;'>900</td>
 </tr>
 </table>
 

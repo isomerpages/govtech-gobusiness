@@ -21,11 +21,11 @@ Designed for the next-generation salons, VEON@Experience is extremely visual and
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>VEON@Experience Version 1.0 - Package D (VEON Basic (+ hardware) + 5 Stylist, Assistant, Freelancer tool + 2 Software powerpacks)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_45.pdf'>View Details</a></td>
-<td>11437</td>
-<td>9563</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VEON@Experience Version 1.0 - Package D (VEON Basic (+ hardware) + 5 Stylist, Assistant, Freelancer tool + 2 Software powerpacks)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_45.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11437</td>
+<td style='padding: 10px;'>9563</td>
 </tr>
 </table>
 

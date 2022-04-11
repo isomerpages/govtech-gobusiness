@@ -20,11 +20,11 @@ Eats365 POS System is design for chain restaurants, franchise or MNC. It automat
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Large)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>8106</td>
-<td>7156</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Large)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8106</td>
+<td style='padding: 10px;'>7156</td>
 </tr>
 </table>
 

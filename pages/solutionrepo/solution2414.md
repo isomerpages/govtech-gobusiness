@@ -20,11 +20,11 @@ OS Store is a web-based, e-commerce solution that enables SMEs to build a storef
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>OS Store E-Commerce - Standard</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_12.pdf'>View Details</a></td>
-<td>5000</td>
-<td>5000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OS Store E-Commerce - Standard</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5000</td>
+<td style='padding: 10px;'>5000</td>
 </tr>
 </table>
 

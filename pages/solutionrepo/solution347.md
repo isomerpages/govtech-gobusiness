@@ -20,11 +20,11 @@ MyRetailer Android POS is a powerful all in one point-of-sale solution with buil
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>MyRetailer Android POS - Package D with Dashboard & Unified Payments</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_4.pdf'>View Details</a></td>
-<td>3160</td>
-<td>2950</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyRetailer Android POS - Package D with Dashboard & Unified Payments</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3160</td>
+<td style='padding: 10px;'>2950</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Kegmil is on a mission to empower millions of deskless field service professiona
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>KEGMIL FSM-Kegmil FSM Package C - 40 Users</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>24720</td>
-<td>24720</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEGMIL FSM-Kegmil FSM Package C - 40 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>24720</td>
+<td style='padding: 10px;'>24720</td>
 </tr>
 </table>
 

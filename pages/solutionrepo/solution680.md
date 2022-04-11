@@ -20,11 +20,11 @@ Moneyworks by Cognito Software provides a powerful, feature rich platform that u
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Moneyworks Version 9 - Now (3 users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo-Moneywork-Annex_3_CR_wef_28_Oct_21_Part_2.pdf'>View Details</a></td>
-<td>5740</td>
-<td>5440</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Now (3 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo-Moneywork-Annex_3_CR_wef_28_Oct_21_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5740</td>
+<td style='padding: 10px;'>5440</td>
 </tr>
 </table>
 

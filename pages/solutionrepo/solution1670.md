@@ -20,11 +20,11 @@ The amount of trade conducted electronically in Singapore and globally has alrea
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>iFoundries E-commerce Jump Start Package Version 1 - Standard</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iFoundries_20200498_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>$10000</td>
-<td>10000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iFoundries E-commerce Jump Start Package Version 1 - Standard</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iFoundries_20200498_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$10000</td>
+<td style='padding: 10px;'>10000</td>
 </tr>
 </table>
 

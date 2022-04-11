@@ -20,11 +20,11 @@ Solution which leverages asset information and behavioral analytics to identify,
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 10 endpoint agents with 24/7 SOC</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Tech_Annex_3_CR_wef_14_Oct_21_Part_1.pdf'>View Details</a></td>
-<td>2700</td>
-<td>2700</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 10 endpoint agents with 24/7 SOC</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Tech_Annex_3_CR_wef_14_Oct_21_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2700</td>
+<td style='padding: 10px;'>2700</td>
 </tr>
 </table>
 

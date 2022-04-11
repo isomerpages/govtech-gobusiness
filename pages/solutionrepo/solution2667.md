@@ -22,11 +22,11 @@ XERO being a cloud based and IRAS approved accounting software, it allows compan
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Xero - ACE XERO Cloud Accounting Software - Package C (Full Package)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/ACE_Business_20210364_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>3580</td>
-<td>3525</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - ACE XERO Cloud Accounting Software - Package C (Full Package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACE_Business_20210364_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3580</td>
+<td style='padding: 10px;'>3525</td>
 </tr>
 </table>
 

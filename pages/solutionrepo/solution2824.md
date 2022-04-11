@@ -20,11 +20,11 @@ Xero is an online accounting software for small businesses that lets you share a
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Xero Cloud Accounting Software - Package E (Xero Subscription only)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Xero_20210480_Desensitised_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>729</td>
-<td>725</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Package E (Xero Subscription only)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Xero_20210480_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>729</td>
+<td style='padding: 10px;'>725</td>
 </tr>
 </table>
 

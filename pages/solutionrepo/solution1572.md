@@ -20,11 +20,11 @@ Sleek offers a fully digital experience for the effortless management of corpora
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan E</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_5.pdf'>View Details</a></td>
-<td>1009.35</td>
-<td>1009.35</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan E</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1009.35</td>
+<td style='padding: 10px;'>1009.35</td>
 </tr>
 </table>
 

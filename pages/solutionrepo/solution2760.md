@@ -20,11 +20,11 @@ FortiGate next-generation firewalls provide high performance, multilayered secur
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Roycemedia Cybersecurity-Firewall - Package 3 - Fortigate 81F</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_56.pdf'>View Details</a></td>
-<td>6373</td>
-<td>6373</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 3 - Fortigate 81F</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6373</td>
+<td style='padding: 10px;'>6373</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Cadstudio is a comprehensive enterprise resource planning (ERP) software made up
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Multi Edition)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_3.pdf'>View Details</a></td>
-<td>10110</td>
-<td>10110</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Multi Edition)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10110</td>
+<td style='padding: 10px;'>10110</td>
 </tr>
 </table>
 

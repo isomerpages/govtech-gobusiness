@@ -20,13 +20,13 @@ Insight QSE Safety PTW System alleviates the current paper-based method of routi
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td> InSight QSE - Insight QSE Safety PTW System (Premium)
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> InSight QSE - Insight QSE Safety PTW System (Premium)
 
  </td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_2.pdf'>View Details</a></td>
-<td>27600</td>
-<td>26800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>27600</td>
+<td style='padding: 10px;'>26800</td>
 </tr>
 </table>
 

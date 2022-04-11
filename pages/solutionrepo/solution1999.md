@@ -20,11 +20,11 @@ Armfort Visitor Management System is an integrated solution that will assist bus
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Software)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>2800</td>
-<td>2800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Software)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2800</td>
+<td style='padding: 10px;'>2800</td>
 </tr>
 </table>
 

@@ -21,11 +21,11 @@ ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>ZETTAPPS Cloud-based Inventory & Order Processing Version 3.7 - Package (Peppol ready - For Multi Location)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Zetta_Solution_20200015_Annex_3_20200625143545_Part_2.pdf'>View Details</a></td>
-<td>15000</td>
-<td>15000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ZETTAPPS Cloud-based Inventory & Order Processing Version 3.7 - Package (Peppol ready - For Multi Location)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zetta_Solution_20200015_Annex_3_20200625143545_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>15000</td>
+<td style='padding: 10px;'>15000</td>
 </tr>
 </table>
 

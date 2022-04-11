@@ -20,11 +20,11 @@ Xero is a cloud-based accounting software that connects people with the right nu
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Wealthbridge - Xero  - Standard Subscription Only</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Wealthbridge_20210012_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>560</td>
-<td>560</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wealthbridge - Xero  - Standard Subscription Only</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Wealthbridge_20210012_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>560</td>
+<td style='padding: 10px;'>560</td>
 </tr>
 </table>
 

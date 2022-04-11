@@ -23,11 +23,11 @@ Grant support: 80% of cost of equipment, up to $17,000 grant
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Static Parcel Dimension, Weight and Scan Equipment</td>
-<td><a href=''>View Details</a></td>
-<td></td>
-<td>21250</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Static Parcel Dimension, Weight and Scan Equipment</td>
+<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>21250</td>
 </tr>
 </table>
 

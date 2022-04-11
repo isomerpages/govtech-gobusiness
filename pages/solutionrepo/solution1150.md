@@ -22,11 +22,11 @@ Million Accounting supports Multi-Company and Multi-Currency and has four module
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Million Accounting and Stock Control System Version 3 - Package E (5 Users with Mobile App access)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedRockbellMillionStockAnnex3CRwef12August2021-_Part_5.pdf'>View Details</a></td>
-<td>7549</td>
-<td>7549</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Accounting and Stock Control System Version 3 - Package E (5 Users with Mobile App access)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedRockbellMillionStockAnnex3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7549</td>
+<td style='padding: 10px;'>7549</td>
 </tr>
 </table>
 

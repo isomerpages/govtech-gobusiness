@@ -20,11 +20,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2531
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>2DFire online ordering and payment Version 5.8.98 - Package A</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/1-Smart_Technologies_20200875_Desensitised_Annex_3.pdf'>View Details</a></td>
-<td>7600</td>
-<td>6600</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2DFire online ordering and payment Version 5.8.98 - Package A</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/1-Smart_Technologies_20200875_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7600</td>
+<td style='padding: 10px;'>6600</td>
 </tr>
 </table>
 

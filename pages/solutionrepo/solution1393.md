@@ -20,11 +20,11 @@ Artemis is the simple, cost-effective one-stop automation of a complex regulator
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Artemis-500 searches for 1 year</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>2488</td>
-<td>2488</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Artemis-500 searches for 1 year</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2488</td>
+<td style='padding: 10px;'>2488</td>
 </tr>
 </table>
 

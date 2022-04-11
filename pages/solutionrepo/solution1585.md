@@ -24,11 +24,11 @@ INNOCOM - Autodesk BIM 360
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (25 User Pack)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_3.pdf'>View Details</a></td>
-<td>$26000.00</td>
-<td>$26000.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (25 User Pack)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$26000.00</td>
+<td style='padding: 10px;'>$26000.00</td>
 </tr>
 </table>
 

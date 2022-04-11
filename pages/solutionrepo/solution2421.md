@@ -20,11 +20,11 @@ Acc Pro (Singapore), a Xero Certified Partner is proud to offer Xero accounting 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Xero - Full Transformation Packages for SMEs Version 2021 - Xero Premium - Full Digital Transformation Package - for Small Business</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Acc_Pro_Xero_20210222_Desensitised_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>6025</td>
-<td>6025</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Full Transformation Packages for SMEs Version 2021 - Xero Premium - Full Digital Transformation Package - for Small Business</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Acc_Pro_Xero_20210222_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6025</td>
+<td style='padding: 10px;'>6025</td>
 </tr>
 </table>
 

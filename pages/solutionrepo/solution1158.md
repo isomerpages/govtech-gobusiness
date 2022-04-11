@@ -20,11 +20,11 @@ Xero solution which is a cloud based solution which enable businesses to work fr
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Xero Cloud Accounting Software - Aba Xero Accounting Solution - Premium</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>4900</td>
-<td>4900</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Aba Xero Accounting Solution - Premium</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4900</td>
+<td style='padding: 10px;'>4900</td>
 </tr>
 </table>
 

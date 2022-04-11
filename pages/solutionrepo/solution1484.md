@@ -20,11 +20,11 @@ OneSumX solution is a modular end-to-end solution suite designed on an integrate
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>OneSumX for Regulatory Reporting Version 3.1.0 -  Package (Tier 3)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>749920</td>
-<td>749920</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OneSumX for Regulatory Reporting Version 3.1.0 -  Package (Tier 3)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>749920</td>
+<td style='padding: 10px;'>749920</td>
 </tr>
 </table>
 

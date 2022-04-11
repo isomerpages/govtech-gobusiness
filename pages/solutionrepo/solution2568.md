@@ -20,11 +20,11 @@ Alitec is a Singapore-based Odoo Gold Partner. Our business analysts and technic
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Alitec odooCRM and sales - STEPS-AS2/(Portal)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>13000</td>
-<td>13000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Alitec odooCRM and sales - STEPS-AS2/(Portal)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>13000</td>
+<td style='padding: 10px;'>13000</td>
 </tr>
 </table>
 

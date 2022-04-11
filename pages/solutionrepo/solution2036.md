@@ -30,11 +30,11 @@ Cost of equipment capped at $28,000 per unit
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Automated tools management system</td>
-<td><a href=''>View Details</a></td>
-<td></td>
-<td>28000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated tools management system</td>
+<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>28000</td>
 </tr>
 </table>
 

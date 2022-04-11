@@ -20,11 +20,11 @@ CrossTrack GO is a fleet management platform that is available on both desktop a
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>CROSSTRACK GO - Fleet Management Package 4 - 4 Vehicles</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Crosstrack_Annex_3_CR_wef_10_Feb_2022_Part_4.pdf'>View Details</a></td>
-<td>5268</td>
-<td>4328</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CROSSTRACK GO - Fleet Management Package 4 - 4 Vehicles</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Crosstrack_Annex_3_CR_wef_10_Feb_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5268</td>
+<td style='padding: 10px;'>4328</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Xero is an universal accounting software that provides a complete list of accoun
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>CFOsg Xero Cloud Accounting Solution E</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Revised_Part_5.pdf'>View Details</a></td>
-<td>5929</td>
-<td>5929</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CFOsg Xero Cloud Accounting Solution E</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Revised_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5929</td>
+<td style='padding: 10px;'>5929</td>
 </tr>
 </table>
 

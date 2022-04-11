@@ -20,11 +20,11 @@ RetailNext In-Store Analytics Platform uses IoT Video Analytics and AI technolog
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>RetailNext In-Store Analytics Version 1 - RETAILNEXT IN-STORE ANALYTICS - PATH TO PURCHASE</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_RetailDDS_20200406_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>6912</td>
-<td>5776</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RetailNext In-Store Analytics Version 1 - RETAILNEXT IN-STORE ANALYTICS - PATH TO PURCHASE</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_RetailDDS_20200406_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6912</td>
+<td style='padding: 10px;'>5776</td>
 </tr>
 </table>
 

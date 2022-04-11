@@ -20,11 +20,11 @@ QuickHR eScheduling offers cutting-edge cloud-based Automated Scheduling & Workf
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>(eScheduling) QuickHR - Cloud eScheduling - Essential 25</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>3500</td>
-<td>3500</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(eScheduling) QuickHR - Cloud eScheduling - Essential 25</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3500</td>
+<td style='padding: 10px;'>3500</td>
 </tr>
 </table>
 

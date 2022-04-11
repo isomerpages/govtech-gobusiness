@@ -20,11 +20,11 @@ Madsoft Solutions is an integrated order processing, inventory and accounting so
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td> Madsoft Solutions IAF Version 320 - Package D (Madsoft Enterprise 7 users) with Peppol e-invoicing</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_4.pdf'>View Details</a></td>
-<td>23469</td>
-<td>23469</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Madsoft Solutions IAF Version 320 - Package D (Madsoft Enterprise 7 users) with Peppol e-invoicing</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>23469</td>
+<td style='padding: 10px;'>23469</td>
 </tr>
 </table>
 

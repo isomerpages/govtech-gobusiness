@@ -24,11 +24,11 @@ Developed by SMEs, for SMEs. bonaforce is a Singapore-grown solution. #SGUnited
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>BonaForce-bonaFORCE Portal</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BonaForce_Annex_3_Part_78.pdf'>View Details</a></td>
-<td>4700</td>
-<td>4700</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaForce-bonaFORCE Portal</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BonaForce_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4700</td>
+<td style='padding: 10px;'>4700</td>
 </tr>
 </table>
 

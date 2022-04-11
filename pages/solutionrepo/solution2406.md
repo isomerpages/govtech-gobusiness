@@ -20,11 +20,11 @@ NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platf
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package C - 1 Year (6 Units)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>31816</td>
-<td>22600</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package C - 1 Year (6 Units)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>31816</td>
+<td style='padding: 10px;'>22600</td>
 </tr>
 </table>
 

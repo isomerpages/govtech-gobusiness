@@ -21,11 +21,11 @@ PayAdvisorMobile @HRM PayAdvisorMobile , a Mobile Workforce Management Software-
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>PayAdvisorMobile@HRM Version 3 - Package (Tier 4 - 150 users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_PayAdvisorMobile_HRM 20200040_Annex_3_20200625143624_Part_4.pdf'>View Details</a></td>
-<td>17050</td>
-<td>16450</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile@HRM Version 3 - Package (Tier 4 - 150 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_PayAdvisorMobile_HRM 20200040_Annex_3_20200625143624_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17050</td>
+<td style='padding: 10px;'>16450</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ The unique thing about iDee InfoCom as a solution provider is our ability to und
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>vTrak Version 1.4 - 5 VEHICLES</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Idee_Infocomm_Annex_3_CR_wef_16_Dec_2021_Part_1.pdf'>View Details</a></td>
-<td>10294</td>
-<td>9994</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>vTrak Version 1.4 - 5 VEHICLES</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Idee_Infocomm_Annex_3_CR_wef_16_Dec_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10294</td>
+<td style='padding: 10px;'>9994</td>
 </tr>
 </table>
 

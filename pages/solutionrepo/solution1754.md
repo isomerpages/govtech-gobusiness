@@ -20,11 +20,11 @@ The solution is a cloud-based, common digital platform - the Intelligent Nationa
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>iCoreSpec - Single User (Full Suite)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>5600</td>
-<td>5600</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iCoreSpec - Single User (Full Suite)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5600</td>
+<td style='padding: 10px;'>5600</td>
 </tr>
 </table>
 

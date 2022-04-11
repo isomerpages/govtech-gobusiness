@@ -22,11 +22,11 @@ Cost of equipment capped at $3,000 per unit
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Bristle Blaster / Cup Brush / Power Brush</td>
-<td><a href=''>View Details</a></td>
-<td></td>
-<td>3000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bristle Blaster / Cup Brush / Power Brush</td>
+<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>3000</td>
 </tr>
 </table>
 

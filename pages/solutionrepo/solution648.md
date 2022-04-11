@@ -21,11 +21,11 @@ NMTODOO is a comprehensive, integrated, cloud-based CRM, Sales and Accounting Ma
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>NMTODOO - ERP  - Package Basic</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNeuMediaAnnex3CRwef12August2021-_Part_1.pdf'>View Details</a></td>
-<td>20000</td>
-<td>20000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NMTODOO - ERP  - Package Basic</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNeuMediaAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>20000</td>
+<td style='padding: 10px;'>20000</td>
 </tr>
 </table>
 

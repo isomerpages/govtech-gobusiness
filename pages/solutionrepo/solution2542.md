@@ -20,11 +20,11 @@ QuickBooks is #1 rated globally and best-selling small business accounting softw
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>QuickBooks Online - DigiAcc Basic</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/InBusiness_Solutions_20200762_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>1128</td>
-<td>1128</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - DigiAcc Basic</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/InBusiness_Solutions_20200762_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1128</td>
+<td style='padding: 10px;'>1128</td>
 </tr>
 </table>
 

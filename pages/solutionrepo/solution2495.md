@@ -21,11 +21,11 @@ It combines multi-layered, next-generation threat protection with additional pro
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus (200 License)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>8800</td>
-<td>8800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus (200 License)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8800</td>
+<td style='padding: 10px;'>8800</td>
 </tr>
 </table>
 

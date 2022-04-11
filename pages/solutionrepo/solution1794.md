@@ -20,11 +20,11 @@ Revel Systems iPad Point of Sale is the most versatile solution in the market to
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Revel Systems POS Version 2 - Package A: Revel 2 device license w/ e-Menu Ordering</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_System_Holdings_20200105_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>9132.72</td>
-<td>9132.72</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems POS Version 2 - Package A: Revel 2 device license w/ e-Menu Ordering</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_System_Holdings_20200105_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9132.72</td>
+<td style='padding: 10px;'>9132.72</td>
 </tr>
 </table>
 

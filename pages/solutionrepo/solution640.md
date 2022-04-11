@@ -20,11 +20,11 @@ Netiquette Software is a complete cloud business solution that comprises Account
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Netiquette Cloud Business Suite - Package B (Saas for 10 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>5540</td>
-<td>5540</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package B (Saas for 10 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5540</td>
+<td style='padding: 10px;'>5540</td>
 </tr>
 </table>
 

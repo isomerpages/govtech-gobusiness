@@ -20,11 +20,11 @@ Hubble Safety Management System helps you manage and monitor the safety of your 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Hubble Safety Management System - Package (Up to 3 Projects)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_3.pdf'>View Details</a></td>
-<td></td>
-<td>26600</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble Safety Management System - Package (Up to 3 Projects)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>26600</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ SEMS Smart FM solution enables organizations to manage their estate(s) at ease. 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Smart Estate Management System - Contractors Pack</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>$10440</td>
-<td>10100</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Estate Management System - Contractors Pack</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$10440</td>
+<td style='padding: 10px;'>10100</td>
 </tr>
 </table>
 

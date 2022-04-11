@@ -20,11 +20,11 @@ FacilityBot is the first-to-market omni-channel AI-powered facilities management
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>FacilityBot - FacilityBot Multiple Site Plan (100 Accounts)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedFacilityBotAnnex3CRwef10June2021_Part_4.pdf'>View Details</a></td>
-<td>37500</td>
-<td>37500</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FacilityBot - FacilityBot Multiple Site Plan (100 Accounts)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedFacilityBotAnnex3CRwef10June2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>37500</td>
 </tr>
 </table>
 

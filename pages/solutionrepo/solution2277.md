@@ -20,11 +20,11 @@ DST RFID Inventory System uses handheld UHF RFID readers (deployed with Android 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>DST Inventory System Version 1.3 - Package C (Barcode)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_3.pdf'>View Details</a></td>
-<td>7500</td>
-<td>7300</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package C (Barcode)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7500</td>
+<td style='padding: 10px;'>7300</td>
 </tr>
 </table>
 

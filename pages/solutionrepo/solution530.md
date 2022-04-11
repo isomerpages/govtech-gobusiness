@@ -21,11 +21,11 @@ For happy HR, bosses and employees, you want a platform that can help your team 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>(SaaS) JustLogin HR Cloud - D (Up to 150 pax)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_4.pdf'>View Details</a></td>
-<td>25800</td>
-<td>25000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - D (Up to 150 pax)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>25800</td>
+<td style='padding: 10px;'>25000</td>
 </tr>
 </table>
 

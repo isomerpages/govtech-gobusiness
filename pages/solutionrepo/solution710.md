@@ -20,11 +20,11 @@ PixelCommerce is a complete e-Store solution that enables SMEs to boost business
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>PixelCommerce Version 5.2.5 - AI</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_3.pdf'>View Details</a></td>
-<td>11970</td>
-<td>10000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.2.5 - AI</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11970</td>
+<td style='padding: 10px;'>10000</td>
 </tr>
 </table>
 

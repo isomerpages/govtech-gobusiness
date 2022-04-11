@@ -20,11 +20,11 @@ Xero is a beautiful, intelligent software platform designed to make life better 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard, Set Up Package</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_2.pdf'>View Details</a></td>
-<td>1250</td>
-<td>1211</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard, Set Up Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1250</td>
+<td style='padding: 10px;'>1211</td>
 </tr>
 </table>
 

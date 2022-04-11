@@ -20,11 +20,11 @@ LittleLives is a holistic school management system built to simplify complex sch
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Basic Plan</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>6537</td>
-<td>5301</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Basic Plan</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6537</td>
+<td style='padding: 10px;'>5301</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Accounting Consultancy Pte Ltd offers ABSS Accounting, formerly known as MYOB. A
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>ABSS - Accounting Consultancy - 3 users + Setup + Training + Remote Access</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_5.pdf'>View Details</a></td>
-<td>5945</td>
-<td>5945</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Accounting Consultancy - 3 users + Setup + Training + Remote Access</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5945</td>
+<td style='padding: 10px;'>5945</td>
 </tr>
 </table>
 

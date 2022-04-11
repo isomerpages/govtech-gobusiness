@@ -20,11 +20,11 @@ Sage CRM is a customer relationship management solution designed to help small a
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Sage CRM Standard for Sales, Service and Project Management Version v2021 - D. Standard CRM for 15 Named Users</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>11460</td>
-<td>11460</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - D. Standard CRM for 15 Named Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11460</td>
+<td style='padding: 10px;'>11460</td>
 </tr>
 </table>
 

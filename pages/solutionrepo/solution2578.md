@@ -24,11 +24,11 @@ Transform the way your team works together - give them a secure, shared workspac
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Zoho Workplace PSG Edition - 25 users</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>2394</td>
-<td>2394</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 25 users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2394</td>
+<td style='padding: 10px;'>2394</td>
 </tr>
 </table>
 

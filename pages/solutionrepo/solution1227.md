@@ -20,11 +20,11 @@ VSS is a comprehensive and user-friendly solution in wireless applications of Gl
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Vehicle Safety System - GridPlus VSS (2 Vehicle Package)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>6500</td>
-<td>6500</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Safety System - GridPlus VSS (2 Vehicle Package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6500</td>
+<td style='padding: 10px;'>6500</td>
 </tr>
 </table>
 

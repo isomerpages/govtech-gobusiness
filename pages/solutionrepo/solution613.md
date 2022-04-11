@@ -21,11 +21,11 @@ SAP Business One is an ERP solution with built-in advanced analytical processing
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (10 Licenses)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_3.pdf'>View Details</a></td>
-<td>14500</td>
-<td>42800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (10 Licenses)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>14500</td>
+<td style='padding: 10px;'>42800</td>
 </tr>
 </table>
 

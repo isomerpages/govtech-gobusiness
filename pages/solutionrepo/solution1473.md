@@ -22,11 +22,11 @@ Cost of equipment capped at $4,000 per unit
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Automatic Flange Spreader</td>
-<td><a href=''>View Details</a></td>
-<td></td>
-<td>4000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flange Spreader</td>
+<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>4000</td>
 </tr>
 </table>
 

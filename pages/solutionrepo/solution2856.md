@@ -20,11 +20,11 @@ Synergix software is a web and browser-based digital solution built for local SM
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Synergix E1 Sales & Accounting - Package (5 users with InvoiceNow) - TH6</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Synergix_E1_Sales__Acc_20210526_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>51740</td>
-<td>37400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix E1 Sales & Accounting - Package (5 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Synergix_E1_Sales__Acc_20210526_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>51740</td>
+<td style='padding: 10px;'>37400</td>
 </tr>
 </table>
 

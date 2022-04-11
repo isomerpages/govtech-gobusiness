@@ -20,11 +20,11 @@ A fully integrated cloud-based information management solution.
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>APEX - APEX Basic</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/SIACAD_20210266_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>2600</td>
-<td>2600</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>APEX - APEX Basic</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SIACAD_20210266_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2600</td>
+<td style='padding: 10px;'>2600</td>
 </tr>
 </table>
 

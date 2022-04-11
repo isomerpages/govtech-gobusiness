@@ -20,11 +20,11 @@ GenicDocs is very user-friendly interface and secured Document Management Softwa
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>GenicDocs - Document Management Software - Package A</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_Annex_3_CR_wef_23_September_2021_Part_1.pdf'>View Details</a></td>
-<td>5000</td>
-<td>5000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GenicDocs - Document Management Software - Package A</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_Annex_3_CR_wef_23_September_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5000</td>
+<td style='padding: 10px;'>5000</td>
 </tr>
 </table>
 

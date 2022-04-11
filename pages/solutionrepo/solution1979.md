@@ -21,11 +21,11 @@ On the other hand, users will also be able to see the money that is coming in an
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Vodich- Xero Cloud Accounting - Package B - Standard</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>2400</td>
-<td>2400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vodich- Xero Cloud Accounting - Package B - Standard</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2400</td>
+<td style='padding: 10px;'>2400</td>
 </tr>
 </table>
 

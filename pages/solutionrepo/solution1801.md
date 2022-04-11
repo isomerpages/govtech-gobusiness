@@ -21,11 +21,11 @@ With this all-rounded Firewall Network Perimeter Protection, a proper firewall c
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Adventus Managed Firewall - Fortinet  - FortiGate-100F 24x7 - 1 Year</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Adventus_Annex_3_CR_wef_14_Jan_2021_Part_4.pdf'>View Details</a></td>
-<td>8092.2</td>
-<td>8092.2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed Firewall - Fortinet  - FortiGate-100F 24x7 - 1 Year</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Adventus_Annex_3_CR_wef_14_Jan_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8092.2</td>
+<td style='padding: 10px;'>8092.2</td>
 </tr>
 </table>
 

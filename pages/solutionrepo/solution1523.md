@@ -20,11 +20,11 @@ SysFreight is an advanced TOTAL FREIGHT MANAGEMENT SOLUTION that delivers compre
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SYSFREIGHT Version 8 - Standard 12 User</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sysmagic_Software_Annex_3_CR_wef_3_Feb_2022_Part_4.pdf'>View Details</a></td>
-<td>35680</td>
-<td>32800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SYSFREIGHT Version 8 - Standard 12 User</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sysmagic_Software_Annex_3_CR_wef_3_Feb_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>35680</td>
+<td style='padding: 10px;'>32800</td>
 </tr>
 </table>
 

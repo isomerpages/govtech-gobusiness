@@ -23,11 +23,11 @@ Stormshield delivers high-performance, best-of-breed security features, ensuring
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Stormshield UTM Firewall - SN510</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>5950</td>
-<td>5950</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall - SN510</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5950</td>
+<td style='padding: 10px;'>5950</td>
 </tr>
 </table>
 

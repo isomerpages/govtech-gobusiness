@@ -20,11 +20,11 @@ Andre Corporate is a software company specializing in accounting software provid
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>ABSS Premier Version 23 - Package E (Three User Licence Full package with remote access)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_20220008_Desensitised_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>4250</td>
-<td>4250</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - Package E (Three User Licence Full package with remote access)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_20220008_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4250</td>
+<td style='padding: 10px;'>4250</td>
 </tr>
 </table>
 

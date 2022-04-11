@@ -20,11 +20,11 @@ Therefore is a scalable Cloud Document Management Solution, that provides a cent
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>THEREFORE - Therefore-in-e-Cloud Package 5 (Up to 30 users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_5.pdf'>View Details</a></td>
-<td>25500</td>
-<td>25500</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>THEREFORE - Therefore-in-e-Cloud Package 5 (Up to 30 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>25500</td>
+<td style='padding: 10px;'>25500</td>
 </tr>
 </table>
 

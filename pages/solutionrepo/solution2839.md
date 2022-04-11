@@ -20,11 +20,11 @@ Inventory System uses different technologies such as barcode, QR and/or RFID ont
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>DST Inventory System Version 1.3 - Package B (Barcode)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_2.pdf'>View Details</a></td>
-<td>8020</td>
-<td>7795</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package B (Barcode)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8020</td>
+<td style='padding: 10px;'>7795</td>
 </tr>
 </table>
 

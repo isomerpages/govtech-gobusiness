@@ -23,11 +23,11 @@ Alternatively, SGDATAPOS can integrate with third party system such as e-commerc
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SGDATAPOS Version 5.1 - Package (With Customer Relationship Management, With Hardware)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singapore_Data_Hub_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf'>View Details</a></td>
-<td>$6,800.00</td>
-<td>$6,800.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Version 5.1 - Package (With Customer Relationship Management, With Hardware)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singapore_Data_Hub_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'>$6,800.00</td>
 </tr>
 </table>
 

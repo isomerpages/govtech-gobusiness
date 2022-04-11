@@ -20,11 +20,11 @@ Extend your business online and generate higher sales revenue with our scalable 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Corsiva Lab - E-Commerce Website Development Version 1.0  - Customized E-Commerce Website Development Package</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_Annex_3_CR_wef_6_Jan_2022_Part_456.pdf'>View Details</a></td>
-<td>$9,000.00</td>
-<td>$9,000.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Corsiva Lab - E-Commerce Website Development Version 1.0  - Customized E-Commerce Website Development Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_Annex_3_CR_wef_6_Jan_2022_Part_456.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
 </tr>
 </table>
 

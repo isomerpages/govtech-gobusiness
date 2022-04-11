@@ -20,11 +20,11 @@ ETABS Ultimate Suite is an integrated 3D finite element software package for the
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>ETABS Ultimate Suite Version 19 - Package 1 with Training (1 Year Subscription)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Otte_International_20210040_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>15900</td>
-<td>8500</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ETABS Ultimate Suite Version 19 - Package 1 with Training (1 Year Subscription)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Otte_International_20210040_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>15900</td>
+<td style='padding: 10px;'>8500</td>
 </tr>
 </table>
 

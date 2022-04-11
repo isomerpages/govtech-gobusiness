@@ -23,11 +23,11 @@ BIM 360 Build - For construction project management (RFI, Submittal) and Field m
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Autodesk BIM 360 - BIM Collaborate Pro - 10 User Package (Formerly BIM 360 Design)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_4.pdf'>View Details</a></td>
-<td>$12000</td>
-<td>$9800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autodesk BIM 360 - BIM Collaborate Pro - 10 User Package (Formerly BIM 360 Design)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$12000</td>
+<td style='padding: 10px;'>$9800</td>
 </tr>
 </table>
 

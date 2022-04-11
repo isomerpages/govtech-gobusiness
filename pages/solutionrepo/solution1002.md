@@ -20,11 +20,11 @@ Dropbox is a file storage solution known to many individuals, but the business e
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Dropbox Business - Dropbox Business: 20 Users</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>7100</td>
-<td>7100</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dropbox Business - Dropbox Business: 20 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7100</td>
+<td style='padding: 10px;'>7100</td>
 </tr>
 </table>
 

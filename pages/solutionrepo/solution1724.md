@@ -20,11 +20,11 @@ Qashier provides smart point-of-sale (POS) solutions to help small merchants dig
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Qashier Smart Terminal - Package A (Growth + Premier Setup + Training)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_1.pdf'>View Details</a></td>
-<td>$4497.00</td>
-<td>$4497.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart Terminal - Package A (Growth + Premier Setup + Training)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$4497.00</td>
+<td style='padding: 10px;'>$4497.00</td>
 </tr>
 </table>
 

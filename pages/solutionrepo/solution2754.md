@@ -27,11 +27,11 @@ EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>EPOS Enhanced POS Version 2.0 - Package (Enhanced POS All In 1 with Smart Inventory with Integration</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/EPOS_Enhanced_POS_20210372_Desensitised_Annex_3_Part_45.pdf'>View Details</a></td>
-<td>11324</td>
-<td>11324</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (Enhanced POS All In 1 with Smart Inventory with Integration</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EPOS_Enhanced_POS_20210372_Desensitised_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11324</td>
+<td style='padding: 10px;'>11324</td>
 </tr>
 </table>
 

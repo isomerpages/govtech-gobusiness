@@ -22,11 +22,11 @@ Microsoft Dynamics 365 Business Central is an ERP Solution that automates and st
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 10 Users with InvoiceNow</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>46000</td>
-<td>34800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 10 Users with InvoiceNow</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>46000</td>
+<td style='padding: 10px;'>34800</td>
 </tr>
 </table>
 

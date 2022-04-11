@@ -20,11 +20,11 @@ The GRmail removes the email threats even before it reaches the email server and
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>WFH Email Security with Cyber Essentials Online Course Package Version 1 - 150 x GR with Cyber Essential Course 1 Year Package</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>25597.5</td>
-<td>25597.5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WFH Email Security with Cyber Essentials Online Course Package Version 1 - 150 x GR with Cyber Essential Course 1 Year Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>25597.5</td>
+<td style='padding: 10px;'>25597.5</td>
 </tr>
 </table>
 

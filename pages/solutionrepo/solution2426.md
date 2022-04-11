@@ -20,11 +20,11 @@ PORTNET is the first nation-wide business-to-business (B2B) port community solut
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>PORTNET - Portnet Package B</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Portnet_20200827_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>3350</td>
-<td>3350</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PORTNET - Portnet Package B</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Portnet_20200827_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3350</td>
+<td style='padding: 10px;'>3350</td>
 </tr>
 </table>
 

@@ -22,11 +22,11 @@ AZ Digital ordering solution provides an up scaling process in engaging customer
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( Mobile QR Web Ordering Solution Package )</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_Annex_3_CR_wef_11_Nov_2021_Part_4.pdf'>View Details</a></td>
-<td>6800</td>
-<td>6800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( Mobile QR Web Ordering Solution Package )</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_Annex_3_CR_wef_11_Nov_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6800</td>
+<td style='padding: 10px;'>6800</td>
 </tr>
 </table>
 

@@ -26,11 +26,11 @@ a complete business solution.
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Xero - Xero Basic Implementation (Plus) - XBI+</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_5.pdf'>View Details</a></td>
-<td>3000</td>
-<td>2960</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Xero Basic Implementation (Plus) - XBI+</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3000</td>
+<td style='padding: 10px;'>2960</td>
 </tr>
 </table>
 

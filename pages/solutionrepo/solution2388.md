@@ -23,11 +23,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2388
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>QuickBooks Online Version 1 - VCSG QBO Existing Basic</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_67.pdf'>View Details</a></td>
-<td>5580</td>
-<td>4768</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Existing Basic</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_67.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5580</td>
+<td style='padding: 10px;'>4768</td>
 </tr>
 </table>
 

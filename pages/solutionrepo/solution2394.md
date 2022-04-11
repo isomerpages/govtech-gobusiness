@@ -20,11 +20,11 @@ Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, b
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>HubSpot - Package B Hubspot sales pro + marketing (1000 contacts) + Customised Onboarding</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>16220</td>
-<td>15320</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package B Hubspot sales pro + marketing (1000 contacts) + Customised Onboarding</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>16220</td>
+<td style='padding: 10px;'>15320</td>
 </tr>
 </table>
 

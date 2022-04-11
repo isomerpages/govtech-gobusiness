@@ -20,11 +20,11 @@ With Arcstone's Equipment Monitoring and Manufacturing Data Collection solution,
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - Annual Subscription License - Basic</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>24420</td>
-<td>24420</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - Annual Subscription License - Basic</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>24420</td>
+<td style='padding: 10px;'>24420</td>
 </tr>
 </table>
 

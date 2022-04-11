@@ -20,11 +20,11 @@ FITPRISE Project Management System is a flexible business system for SMEs where 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>FITPRISE Project Management System - PCM - Package 1 (5 users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_1.pdf'>View Details</a></td>
-<td>27500</td>
-<td>24600</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Project Management System - PCM - Package 1 (5 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>27500</td>
+<td style='padding: 10px;'>24600</td>
 </tr>
 </table>
 

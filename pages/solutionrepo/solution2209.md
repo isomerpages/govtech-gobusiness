@@ -20,11 +20,11 @@ FITPRISE PMS is a web-based management system that manages the QA/QC project man
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>FITPRISE Job Inspection System - FITPRISE Job Inspection System - 10 users</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_1.pdf'>View Details</a></td>
-<td>30000</td>
-<td>25100</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Job Inspection System - FITPRISE Job Inspection System - 10 users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>30000</td>
+<td style='padding: 10px;'>25100</td>
 </tr>
 </table>
 

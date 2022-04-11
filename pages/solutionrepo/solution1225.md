@@ -22,11 +22,11 @@ With the advancement of technology, Edgeworks Solutions is able to now use the b
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module) - eCommerce Integration</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_4.pdf'>View Details</a></td>
-<td>11158</td>
-<td>10858</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module) - eCommerce Integration</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11158</td>
+<td style='padding: 10px;'>10858</td>
 </tr>
 </table>
 

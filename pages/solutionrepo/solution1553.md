@@ -23,11 +23,11 @@ The system is also able to add in a variety of Telematics smart sensors to meet 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 4 Vehicles</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>12266</td>
-<td>8666</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 4 Vehicles</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>12266</td>
+<td style='padding: 10px;'>8666</td>
 </tr>
 </table>
 

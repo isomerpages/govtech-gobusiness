@@ -24,11 +24,11 @@ INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps pr
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 150)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_HRMS_20200222_Annex_3_20200826091546_Part_4.pdf'>View Details</a></td>
-<td>25300</td>
-<td>24400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 150)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_HRMS_20200222_Annex_3_20200826091546_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>25300</td>
+<td style='padding: 10px;'>24400</td>
 </tr>
 </table>
 

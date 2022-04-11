@@ -20,11 +20,11 @@ Match Resources Pte Ltd is a full-service Human Resources consulting firm that u
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>HRSS & Payroll Processing with JustLogin - Package (101- 200 Employees)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_5.pdf'>View Details</a></td>
-<td>$56,300.00</td>
-<td>$42,800.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRSS & Payroll Processing with JustLogin - Package (101- 200 Employees)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$56,300.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
 </tr>
 </table>
 

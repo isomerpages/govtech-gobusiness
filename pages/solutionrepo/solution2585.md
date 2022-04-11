@@ -20,11 +20,11 @@ Since 2015, Book&Entries has continued to serve and provide clients with our var
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Xero by Book&Entries - Package A (Premium Package - Software only)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>720</td>
-<td>720</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package A (Premium Package - Software only)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>720</td>
+<td style='padding: 10px;'>720</td>
 </tr>
 </table>
 

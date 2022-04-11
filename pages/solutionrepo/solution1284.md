@@ -20,11 +20,11 @@ V3Nity-FMS Fleet Management System is a Web based Telematics system powered by V
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package E</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>26400</td>
-<td>23400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package E</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>26400</td>
+<td style='padding: 10px;'>23400</td>
 </tr>
 </table>
 

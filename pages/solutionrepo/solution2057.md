@@ -20,11 +20,11 @@ FleetManager App software is a modern fleet management system offered by Logisfl
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>FleetManager Version 5.0 - FleetManager Leasing Plan for 60 vehicles</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Logisfleet_Annex_3_CR_wef_25_Nov_2021_Part_4.pdf'>View Details</a></td>
-<td>21000</td>
-<td>21000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FleetManager Version 5.0 - FleetManager Leasing Plan for 60 vehicles</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Logisfleet_Annex_3_CR_wef_25_Nov_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>21000</td>
+<td style='padding: 10px;'>21000</td>
 </tr>
 </table>
 

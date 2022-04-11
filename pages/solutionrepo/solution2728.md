@@ -20,11 +20,11 @@ MetroERP is a cloud Inventory and Sales Management solution which makes it easie
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (15 Users, PEPPOL-Included)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Metro_ERP_20210373_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>16900</td>
-<td>12856</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (15 Users, PEPPOL-Included)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Metro_ERP_20210373_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>16900</td>
+<td style='padding: 10px;'>12856</td>
 </tr>
 </table>
 

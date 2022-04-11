@@ -20,11 +20,11 @@ TimeCentral solution assists clients in scheduling and rostering their workforce
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>TimeCentral Version 11 - 	TimeCentral 100</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_People_Central_Timecentral_Annex_3_CR_wef_4_Nov_2021_Part_3.pdf'>View Details</a></td>
-<td>8000</td>
-<td>8000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TimeCentral Version 11 - 	TimeCentral 100</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_People_Central_Timecentral_Annex_3_CR_wef_4_Nov_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8000</td>
+<td style='padding: 10px;'>8000</td>
 </tr>
 </table>
 

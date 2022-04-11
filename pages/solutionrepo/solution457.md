@@ -20,11 +20,11 @@ Hubble Workforce Management System is a cloud solution on both web and mobile, t
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Hubble Workforce Management System Version 2.0 - Package (Up to 250 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>32500</td>
-<td>26200</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble Workforce Management System Version 2.0 - Package (Up to 250 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>32500</td>
+<td style='padding: 10px;'>26200</td>
 </tr>
 </table>
 

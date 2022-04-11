@@ -21,11 +21,11 @@ The QBOL is IRAS Approved Online Accounting Software solutions
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Quickbooks online solutions - AB Simple Solution</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Aven&Bill20200479_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>4400</td>
-<td>3800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks online solutions - AB Simple Solution</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Aven&Bill20200479_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4400</td>
+<td style='padding: 10px;'>3800</td>
 </tr>
 </table>
 

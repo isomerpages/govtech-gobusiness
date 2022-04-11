@@ -20,11 +20,11 @@ WESS, a leading professional cloud management software made easy for the Beauty,
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>WESS - Wellness Management Software Version 2.0 -WESS Lite</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Refine_Solutions_20200124_Annex_3(mti)_Part_1.pdf'>View Details</a></td>
-<td>2100</td>
-<td>2100</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 -WESS Lite</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Refine_Solutions_20200124_Annex_3(mti)_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2100</td>
+<td style='padding: 10px;'>2100</td>
 </tr>
 </table>
 

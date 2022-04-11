@@ -20,11 +20,11 @@ Many SMEs manage, track and stock take their inventory and assets manually. Long
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>RFID Inventory Management System - STANDARD</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>24000</td>
-<td>13512.5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - STANDARD</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>24000</td>
+<td style='padding: 10px;'>13512.5</td>
 </tr>
 </table>
 

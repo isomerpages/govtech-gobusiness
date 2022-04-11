@@ -20,11 +20,11 @@ ABSS Premier is an integrated accounting, sales, inventory and multiple-currency
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>ABSS Premier - Accounting and Sales Management System Version 23 - Package E with onsite training and remote access (1 user)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_5.pdf'>View Details</a></td>
-<td>4353</td>
-<td>4353</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier - Accounting and Sales Management System Version 23 - Package E with onsite training and remote access (1 user)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4353</td>
+<td style='padding: 10px;'>4353</td>
 </tr>
 </table>
 

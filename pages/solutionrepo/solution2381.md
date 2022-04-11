@@ -28,11 +28,11 @@ Sophos XG Cybersecurity Solution that provides :
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Eminet Sophos XGS Firewall - XG 116</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_1.pdf'>View Details</a></td>
-<td>1670</td>
-<td>1670</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XG 116</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1670</td>
+<td style='padding: 10px;'>1670</td>
 </tr>
 </table>
 

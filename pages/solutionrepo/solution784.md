@@ -20,11 +20,11 @@ EzyProcure, Procure to Pay Solution which benefits both buyer and supplier by st
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Ezyprocure Version 2.0-Package 1</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Singapore E-business 20200201_Annex_3_20200625152606_Part_1.pdf'>View Details</a></td>
-<td>5000</td>
-<td>4950</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ezyprocure Version 2.0-Package 1</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singapore E-business 20200201_Annex_3_20200625152606_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5000</td>
+<td style='padding: 10px;'>4950</td>
 </tr>
 </table>
 

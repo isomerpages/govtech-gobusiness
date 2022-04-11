@@ -20,11 +20,11 @@ Sunpro provides excellent web application development solutions for companies in
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM - E-Commerce & Mobile Apps with Inventory Management System (Sunpro Elite)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/SUNPRO_INNO_20210006_Desensitised_Annex_3_Part_12.pdf'>View Details</a></td>
-<td>7960</td>
-<td>7960</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM - E-Commerce & Mobile Apps with Inventory Management System (Sunpro Elite)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SUNPRO_INNO_20210006_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7960</td>
+<td style='padding: 10px;'>7960</td>
 </tr>
 </table>
 

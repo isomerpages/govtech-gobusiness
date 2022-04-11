@@ -22,11 +22,11 @@ Beaufort's range of 5 packages, allows a wide selection.
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Beaufort-Xero Digital Solutions - Package C - Subscription + Set Up + Training (B)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>2452</td>
-<td>2392.2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Beaufort-Xero Digital Solutions - Package C - Subscription + Set Up + Training (B)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2452</td>
+<td style='padding: 10px;'>2392.2</td>
 </tr>
 </table>
 

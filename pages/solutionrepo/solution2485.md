@@ -20,11 +20,11 @@ Sage has more than 30 years of experience helping millions of small and medium c
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>IT Infinity Sage 300  - Package A4 (Advanced Edition - 10 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_4.pdf'>View Details</a></td>
-<td>42485</td>
-<td>42385</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IT Infinity Sage 300  - Package A4 (Advanced Edition - 10 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>42485</td>
+<td style='padding: 10px;'>42385</td>
 </tr>
 </table>
 

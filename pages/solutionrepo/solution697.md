@@ -20,11 +20,11 @@ USA Fleet Solutions offers top fleet management hardware and software products t
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package E (12 Vehicles)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>8160</td>
-<td>8000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package E (12 Vehicles)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8160</td>
+<td style='padding: 10px;'>8000</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ EasyBus is a true all in one platform designed specifically for service industry
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>EasyBus Version 2.0 - EasyBus Factory (Retail + Hotel)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_6.pdf'>View Details</a></td>
-<td>18000</td>
-<td>15000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EasyBus Version 2.0 - EasyBus Factory (Retail + Hotel)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_6.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>18000</td>
+<td style='padding: 10px;'>15000</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ A specialized solution for wholesalers to optimize their order fulfilment to cus
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>MEVO DMS 8.3 - MEVO Sales (10 Users Bundle)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MEVO_Annex_3_CR_wef_30_Sept_2021_Part_5.pdf'>View Details</a></td>
-<td>32000</td>
-<td>32000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO Sales (10 Users Bundle)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MEVO_Annex_3_CR_wef_30_Sept_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>32000</td>
+<td style='padding: 10px;'>32000</td>
 </tr>
 </table>
 

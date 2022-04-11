@@ -20,11 +20,11 @@ The end-to-end warehouse management solution helps improve efficiency of warehou
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Simplr Warehouse Management Version 6 - On Premise (5 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>56000</td>
-<td>33400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management Version 6 - On Premise (5 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>56000</td>
+<td style='padding: 10px;'>33400</td>
 </tr>
 </table>
 

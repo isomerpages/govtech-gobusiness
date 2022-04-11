@@ -20,11 +20,11 @@ The end-to-end warehouse management solution helps improve efficiency of warehou
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Simplr Warehouse Management Version 6 - Cloud Model (3 users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>25200</td>
-<td>22200</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management Version 6 - Cloud Model (3 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>25200</td>
+<td style='padding: 10px;'>22200</td>
 </tr>
 </table>
 

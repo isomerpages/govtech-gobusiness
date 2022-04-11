@@ -21,11 +21,11 @@ The Revel Enterprise solution is tailored for large chains and leads the industr
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Revel Systems - Revel Essentials - Bundle: 2 order license & 2 KDS</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_4.pdf'>View Details</a></td>
-<td>9168</td>
-<td>8970</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials - Bundle: 2 order license & 2 KDS</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9168</td>
+<td style='padding: 10px;'>8970</td>
 </tr>
 </table>
 

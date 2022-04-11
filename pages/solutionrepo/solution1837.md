@@ -20,11 +20,11 @@ The HeartVoice Telehealth Platform provides for teleconsultation services to ena
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>HeartVoice Telehealth Platform - Package (1 Doctor)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_1.pdf'>View Details</a></td>
-<td>2780</td>
-<td>2780</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HeartVoice Telehealth Platform - Package (1 Doctor)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2780</td>
+<td style='padding: 10px;'>2780</td>
 </tr>
 </table>
 

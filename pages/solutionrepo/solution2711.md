@@ -22,11 +22,11 @@ The platform enables estate agents and salespersons to automate sales process an
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Redoc - Document Management & Transaction Records Version 1.0 - Package 1 (Up to 5 users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>4800</td>
-<td>4800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 1 (Up to 5 users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4800</td>
+<td style='padding: 10px;'>4800</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>2. Business Forecasting</td>
-<td><a href='https://sfec-microsite.enterprisejobskills.gov.sg/courses/details/TGS-2018508939'>View Details</a></td>
-<td></td>
-<td></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2. Business Forecasting</td>
+<td style='padding: 10px;'><a href='https://sfec-microsite.enterprisejobskills.gov.sg/courses/details/TGS-2018508939' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 

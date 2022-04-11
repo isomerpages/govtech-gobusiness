@@ -22,11 +22,11 @@ WooCommerce is friendly to new eCommerce retailers. It is flexible in core featu
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>E-Commerce Portal Development (WooCommerce) - Basic Package</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/IproDesign20200736_Desensitised_Annex_3_Part_1-.pdf'>View Details</a></td>
-<td>8000</td>
-<td>8000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-Commerce Portal Development (WooCommerce) - Basic Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/IproDesign20200736_Desensitised_Annex_3_Part_1-.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8000</td>
+<td style='padding: 10px;'>8000</td>
 </tr>
 </table>
 

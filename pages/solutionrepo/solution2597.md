@@ -20,11 +20,11 @@ Taidii is a company providing integrated solution to all the educational institu
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Taidii SMART IT Solution for Preschool (PMS + E-form) - Economy</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_3.pdf'>View Details</a></td>
-<td>8600</td>
-<td>8600</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Economy</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8600</td>
+<td style='padding: 10px;'>8600</td>
 </tr>
 </table>
 

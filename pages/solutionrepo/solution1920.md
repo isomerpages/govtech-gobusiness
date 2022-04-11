@@ -20,11 +20,11 @@ Build everlasting customer relationships with the world's favorite CRM. Zoho CRM
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Zoho CRM - Zoho CRM - ENTERPRISE edition, 20 users</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>10800</td>
-<td>5000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho CRM - Zoho CRM - ENTERPRISE edition, 20 users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10800</td>
+<td style='padding: 10px;'>5000</td>
 </tr>
 </table>
 

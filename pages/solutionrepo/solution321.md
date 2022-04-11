@@ -23,11 +23,11 @@ Creative Sales and Order Management System is a B2B ecommerce platform that faci
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Creative Sales & Order Management - Package (Standard)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_3.pdf'>View Details</a></td>
-<td></td>
-<td>15000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales & Order Management - Package (Standard)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>15000</td>
 </tr>
 </table>
 

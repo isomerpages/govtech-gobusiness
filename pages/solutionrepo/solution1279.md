@@ -20,11 +20,11 @@ LGA's Managed Firewall Service provides robust next-generation firewall protecti
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Managed Firewall Solution - Fortigate 200F</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_5.pdf'>View Details</a></td>
-<td>7540</td>
-<td>7540</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Firewall Solution - Fortigate 200F</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7540</td>
+<td style='padding: 10px;'>7540</td>
 </tr>
 </table>
 

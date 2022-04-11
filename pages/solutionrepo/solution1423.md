@@ -20,11 +20,11 @@ Simplr is an easy-to-use, intuitive mobility solution for distribution managemen
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Simplr Warehouse Management and Simplr Sales Management Version 6 - Cloud Model (8 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>34000</td>
-<td>32400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management and Simplr Sales Management Version 6 - Cloud Model (8 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>34000</td>
+<td style='padding: 10px;'>32400</td>
 </tr>
 </table>
 

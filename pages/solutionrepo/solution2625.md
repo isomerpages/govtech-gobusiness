@@ -20,11 +20,11 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 40</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>17419</td>
-<td>17419</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 40</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>17419</td>
+<td style='padding: 10px;'>17419</td>
 </tr>
 </table>
 

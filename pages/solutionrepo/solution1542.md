@@ -20,11 +20,11 @@ Microsoft Dynamics 365 Business Central is an easily adaptable enterprise resour
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Microsoft Dynamics 365 Business Central - Package C (PEPPOL e-invoicing-7 Subscription Licence)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex 3_CR wef_26_August_2021_Part_3.pdf'>View Details</a></td>
-<td>54508.8</td>
-<td>31708.8</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central - Package C (PEPPOL e-invoicing-7 Subscription Licence)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex 3_CR wef_26_August_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>54508.8</td>
+<td style='padding: 10px;'>31708.8</td>
 </tr>
 </table>
 

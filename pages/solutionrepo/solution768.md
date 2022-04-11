@@ -20,11 +20,11 @@ Sage 300 is a business accounting software that provides accounting software for
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Sage 300 - Package (Advanced Edition - 5 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSEGITServicesAnnex3CRwef12August2021-_Part_2.pdf'>View Details</a></td>
-<td>25411</td>
-<td>22450</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 - Package (Advanced Edition - 5 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSEGITServicesAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>25411</td>
+<td style='padding: 10px;'>22450</td>
 </tr>
 </table>
 

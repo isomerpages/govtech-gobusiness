@@ -20,11 +20,11 @@ Frontwave Cloud is a retail management system specifically designed for an optic
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Frontwave Cloud Version 8 -  Package (Cloud Enterprise)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_Annex_3_CR_wef_4_Sept_2020_Part_1.pdf'>View Details</a></td>
-<td>6560</td>
-<td>6260</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontwave Cloud Version 8 -  Package (Cloud Enterprise)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_Annex_3_CR_wef_4_Sept_2020_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6560</td>
+<td style='padding: 10px;'>6260</td>
 </tr>
 </table>
 

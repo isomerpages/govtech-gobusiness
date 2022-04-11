@@ -21,11 +21,11 @@ KEYfields leverages on technology, developing IT Solutions that are versatile an
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>ONE LOGON - ONE LOGistics Online - Package 3 (iTMS SaaS)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/KEYfields_Annex_3_Part_3.pdf'>View Details</a></td>
-<td></td>
-<td>35000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ONE LOGON - ONE LOGistics Online - Package 3 (iTMS SaaS)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/KEYfields_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>35000</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobil
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 3</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>4100</td>
-<td>4028</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 3</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4100</td>
+<td style='padding: 10px;'>4028</td>
 </tr>
 </table>
 

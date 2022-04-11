@@ -20,11 +20,11 @@ Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Firewall Security Protection - Rah Tech Fortinet 100F with Managed Services - P5</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>7800</td>
-<td>7800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 100F with Managed Services - P5</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7800</td>
+<td style='padding: 10px;'>7800</td>
 </tr>
 </table>
 

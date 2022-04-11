@@ -20,11 +20,11 @@ ChopeBook is a Table Management System (TMS) designed to make the most of a rest
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>ChopeBook - ChopeBook with Phone Line Management Software & Hardware</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>7250</td>
-<td>7250</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ChopeBook - ChopeBook with Phone Line Management Software & Hardware</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7250</td>
+<td style='padding: 10px;'>7250</td>
 </tr>
 </table>
 

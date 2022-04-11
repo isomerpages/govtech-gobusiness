@@ -20,11 +20,11 @@ VSS is a comprehensive and user-friendly solution in wireless applications of Gl
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Vehicle Support System - Vehicle Support System (12 Vehicles Package)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_GridPlus_Annex_3_wef_14_October_2021_Part_1.pdf'>View Details</a></td>
-<td>24100</td>
-<td>24100</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Support System - Vehicle Support System (12 Vehicles Package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_GridPlus_Annex_3_wef_14_October_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>24100</td>
+<td style='padding: 10px;'>24100</td>
 </tr>
 </table>
 

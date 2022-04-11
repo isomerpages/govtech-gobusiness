@@ -20,11 +20,11 @@ The Qanvast Leads Management System is a software platform that manages leads fo
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Qanvast Leads Management System - Package A - 12 months</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Qanvast_20210257_Desensitised_Annex_3.pdf'>View Details</a></td>
-<td>10200</td>
-<td>6800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qanvast Leads Management System - Package A - 12 months</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Qanvast_20210257_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10200</td>
+<td style='padding: 10px;'>6800</td>
 </tr>
 </table>
 

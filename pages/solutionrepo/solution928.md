@@ -21,11 +21,11 @@ By adopting Xero, unlimited users can log onto the system to perform the account
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>XERO CLOUD ACCOUNTING SOFTWARE-Xero Start-up Package</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedW.L.PAnnex3CRwef12August2021-_Part_4.pdf'>View Details</a></td>
-<td>$4,329</td>
-<td>$4,329</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE-Xero Start-up Package</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedW.L.PAnnex3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$4,329</td>
+<td style='padding: 10px;'>$4,329</td>
 </tr>
 </table>
 

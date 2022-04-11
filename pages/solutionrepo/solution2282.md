@@ -24,11 +24,11 @@ We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We al
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Pepper Cloud CRM Version 14.0-Enterprise</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>22000</td>
-<td>20500</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pepper Cloud CRM Version 14.0-Enterprise</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>22000</td>
+<td style='padding: 10px;'>20500</td>
 </tr>
 </table>
 

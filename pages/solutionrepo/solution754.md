@@ -25,11 +25,11 @@ Subscription/Leasing: 80% of cost of equipment, up to $8,000/unit/year
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Smart Cabinet</td>
-<td><a href=''>View Details</a></td>
-<td></td>
-<td>Up to 26250</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Cabinet</td>
+<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>Up to 26250</td>
 </tr>
 </table>
 

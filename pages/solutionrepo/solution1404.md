@@ -20,11 +20,11 @@ StaffAny is a software-as-a-service that helps business owners reduce work dedic
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>StaffAny Version 1.0-Package A (25 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>3200</td>
-<td>3200</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>StaffAny Version 1.0-Package A (25 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3200</td>
+<td style='padding: 10px;'>3200</td>
 </tr>
 </table>
 

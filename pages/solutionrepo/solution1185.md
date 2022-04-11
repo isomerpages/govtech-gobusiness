@@ -20,11 +20,11 @@ A cost-effective POS solution that comes with sleek hardware, feature-rich softw
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>MEGAPOS - MEGAPOS Professional+</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>7030</td>
-<td>6730</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - MEGAPOS Professional+</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7030</td>
+<td style='padding: 10px;'>6730</td>
 </tr>
 </table>
 

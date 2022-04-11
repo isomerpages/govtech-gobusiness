@@ -21,11 +21,11 @@ The solution is able to comply with the revised MAS 610 regulatory reporting req
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vermeg_Annex_3.pdf'>View Details</a></td>
-<td>459200</td>
-<td>459200</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vermeg_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>459200</td>
+<td style='padding: 10px;'>459200</td>
 </tr>
 </table>
 

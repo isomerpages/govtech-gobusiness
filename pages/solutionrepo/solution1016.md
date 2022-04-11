@@ -20,11 +20,11 @@ Sage 300 takes the complexity out of managing your business finances across bord
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Sage 300 Advanced Edition - Cloud Enhanced Package S1 (5 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Comptrac_Annex_3_CR_wef_30_Dec_2021_Part_4.pdf'>View Details</a></td>
-<td>23980</td>
-<td>23480</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 Advanced Edition - Cloud Enhanced Package S1 (5 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Comptrac_Annex_3_CR_wef_30_Dec_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>23980</td>
+<td style='padding: 10px;'>23480</td>
 </tr>
 </table>
 

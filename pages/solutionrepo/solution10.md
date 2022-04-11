@@ -20,11 +20,11 @@ Xero is a comprehensive accounting software that provides accounting features li
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Xero Cloud Accounting Software - Package D (Xero Premier with setup)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_4.pdf'>View Details</a></td>
-<td>1928.25</td>
-<td>1928.25</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Package D (Xero Premier with setup)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1928.25</td>
+<td style='padding: 10px;'>1928.25</td>
 </tr>
 </table>
 

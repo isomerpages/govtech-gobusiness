@@ -20,11 +20,11 @@ Microsoft Dynamics 365 Business Central is a flexible, scalable, comprehensive a
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package D (5 Users with PEPPOL unlimited + Customer Self Ordering App)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_4.pdf'>View Details</a></td>
-<td>47587</td>
-<td>31287</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package D (5 Users with PEPPOL unlimited + Customer Self Ordering App)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>47587</td>
+<td style='padding: 10px;'>31287</td>
 </tr>
 </table>
 

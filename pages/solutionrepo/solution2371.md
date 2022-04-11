@@ -20,11 +20,11 @@ WhyzeHR E-Scheduling automates tedious processing of manual time card. It matche
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 200</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>8900</td>
-<td>8900</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8900</td>
+<td style='padding: 10px;'>8900</td>
 </tr>
 </table>
 

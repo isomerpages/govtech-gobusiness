@@ -25,11 +25,11 @@ APM Smart Access Solutions enables users to automate access control for various 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>APM Smart Access System Version 1.0 - Access System Upgrading-Pkg 2</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/APM_Global_20210292_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>8900</td>
-<td>6050</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>APM Smart Access System Version 1.0 - Access System Upgrading-Pkg 2</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/APM_Global_20210292_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8900</td>
+<td style='padding: 10px;'>6050</td>
 </tr>
 </table>
 

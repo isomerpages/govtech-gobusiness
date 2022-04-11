@@ -20,11 +20,11 @@ SkipQoo provides Digital Ordering and Delivery System for F&B which has fully in
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SKIP QUEUE (F&B) - DIGITAL ORDERING - With Hardware (All-in-one)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_3.pdf'>View Details</a></td>
-<td>7600</td>
-<td>7600</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SKIP QUEUE (F&B) - DIGITAL ORDERING - With Hardware (All-in-one)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>7600</td>
+<td style='padding: 10px;'>7600</td>
 </tr>
 </table>
 

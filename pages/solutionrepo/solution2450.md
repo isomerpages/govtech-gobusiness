@@ -20,11 +20,11 @@ Taidii SMART integrated preschool management system provides innovation solution
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Taidii SMART IT Solution for Preschool - Taidii School Management Smart IT Solution (Premium)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Taidii_20200641_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>11700</td>
-<td>11700</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool - Taidii School Management Smart IT Solution (Premium)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Taidii_20200641_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11700</td>
+<td style='padding: 10px;'>11700</td>
 </tr>
 </table>
 

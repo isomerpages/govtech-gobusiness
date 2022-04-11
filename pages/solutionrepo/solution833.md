@@ -20,11 +20,11 @@ The system aims to streamline the front-end, back-end kitchen preparation proces
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Ellie Integrated System Version 2 - Package E (Online ordering, E-Waiter for 5 Users, KDS for 4 Users)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SupplyEllie_Annex_3_CR_wef_3_Feb_2022_Part_78.pdf'>View Details</a></td>
-<td>18900</td>
-<td>17900</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ellie Integrated System Version 2 - Package E (Online ordering, E-Waiter for 5 Users, KDS for 4 Users)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SupplyEllie_Annex_3_CR_wef_3_Feb_2022_Part_78.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>18900</td>
+<td style='padding: 10px;'>17900</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Network Box is a Managed Security Service Provider, with a narrow scope. The foc
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Network Box Next Generation Managed Security Version 5.5 - Package V - M-295i</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>19950</td>
-<td>19950</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package V - M-295i</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>19950</td>
+<td style='padding: 10px;'>19950</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Intelli-Signage solution combine touch screen system, age and gender recognition
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Intelli-Signage Version 3.1.4 - Intelli-Signage 1 unit</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Anewtech_Annex_3.pdf'>View Details</a></td>
-<td>5000</td>
-<td>4670</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intelli-Signage Version 3.1.4 - Intelli-Signage 1 unit</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Anewtech_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5000</td>
+<td style='padding: 10px;'>4670</td>
 </tr>
 </table>
 

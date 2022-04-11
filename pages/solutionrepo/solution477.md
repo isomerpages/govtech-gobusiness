@@ -20,11 +20,11 @@ Characterized by its easy-to-use, fast operated speed, complete business logic c
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 3 Users</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_2.pdf'>View Details</a></td>
-<td>5199</td>
-<td>5199</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 3 Users</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5199</td>
+<td style='padding: 10px;'>5199</td>
 </tr>
 </table>
 

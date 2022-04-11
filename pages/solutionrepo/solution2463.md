@@ -22,11 +22,11 @@ At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on th
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>DM Corsiva Lab Digital Marketing Packages - Search Engine Optimization (20 Keywords) & Social Media Advertising [6 Months Package]</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DM_Corsiva_Lab_Annex_3_CR_wef_25_Nov_2021_Part_101112.pdf'>View Details</a></td>
-<td>9000</td>
-<td>9000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Corsiva Lab Digital Marketing Packages - Search Engine Optimization (20 Keywords) & Social Media Advertising [6 Months Package]</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DM_Corsiva_Lab_Annex_3_CR_wef_25_Nov_2021_Part_101112.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9000</td>
+<td style='padding: 10px;'>9000</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ InnoGlas is an augmented reality (AR) glasses solution, capable of many industri
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Smart Glasses - InnoGlas - SE customization package (6 sets) - Package 5</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_5.pdf'>View Details</a></td>
-<td>35560</td>
-<td>20560</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Glasses - InnoGlas - SE customization package (6 sets) - Package 5</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>35560</td>
+<td style='padding: 10px;'>20560</td>
 </tr>
 </table>
 

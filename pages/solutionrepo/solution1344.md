@@ -20,11 +20,11 @@ TRUEBLU CRM is a Customer Relationship Management (CRM) tool with Social Media I
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Trueblu CRM Version 3.2 - Active Trueblu - Social CRM ( Standard Package)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Active_Interactions_20200392_Annex_3.pdf'>View Details</a></td>
-<td>5800</td>
-<td>5800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Trueblu CRM Version 3.2 - Active Trueblu - Social CRM ( Standard Package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Active_Interactions_20200392_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5800</td>
+<td style='padding: 10px;'>5800</td>
 </tr>
 </table>
 

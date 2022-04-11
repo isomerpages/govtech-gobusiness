@@ -20,11 +20,11 @@ Firewalla is an Intrusion Detection System and Intrusion Prevention System with 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Firewalla Gold Package - Package C - 3 Sites</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>4020</td>
-<td>4020</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package C - 3 Sites</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4020</td>
+<td style='padding: 10px;'>4020</td>
 </tr>
 </table>
 

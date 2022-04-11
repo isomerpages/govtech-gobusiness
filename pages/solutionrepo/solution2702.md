@@ -20,11 +20,11 @@ Hitachi Sunway Information Systems (Singapore) is driven by a vision to be the l
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Teamcenter Version 13 - SolidWorks</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_56.pdf'>View Details</a></td>
-<td>27984</td>
-<td>26584</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Teamcenter Version 13 - SolidWorks</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>27984</td>
+<td style='padding: 10px;'>26584</td>
 </tr>
 </table>
 

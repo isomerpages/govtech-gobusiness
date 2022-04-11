@@ -20,11 +20,11 @@ LittleLives is a holistic school management system built to simplify complex sch
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>LittleLives School Management System (e-form) - LittleLives 4.5 - E-form only </td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_(e-form)_20210381_Desensitised_Annex_3.pdf'>View Details</a></td>
-<td>1340</td>
-<td>1340</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (e-form) - LittleLives 4.5 - E-form only </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_(e-form)_20210381_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1340</td>
+<td style='padding: 10px;'>1340</td>
 </tr>
 </table>
 

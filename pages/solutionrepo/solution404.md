@@ -21,11 +21,11 @@ Frontier e-HR is a user friendly cloud based Human Resource Management System ( 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Frontier e-HR Version 8 - AutomateHR eFrontier 25</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_1.pdf'>View Details</a></td>
-<td>5950</td>
-<td>5950</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier 25</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>5950</td>
+<td style='padding: 10px;'>5950</td>
 </tr>
 </table>
 

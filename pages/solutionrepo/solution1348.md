@@ -20,11 +20,11 @@ Administrator manage the company's HR requirements, payroll, schedule, Leave and
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE D (100 Employees)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>12000</td>
-<td>12000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE D (100 Employees)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>12000</td>
+<td style='padding: 10px;'>12000</td>
 </tr>
 </table>
 

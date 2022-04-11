@@ -20,11 +20,11 @@ With Arcstone's Manufacturing Quality Management solution, manufacturers can gai
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>arc.ops - Manufacturing Quality Management - All-in-One Annual Subscription License - Basic</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>38420</td>
-<td>25000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>arc.ops - Manufacturing Quality Management - All-in-One Annual Subscription License - Basic</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>38420</td>
+<td style='padding: 10px;'>25000</td>
 </tr>
 </table>
 

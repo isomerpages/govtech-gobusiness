@@ -20,11 +20,11 @@ Powerful & speedy cloud-based digital ordering system, accelerate your business 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (2 Waiters)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>4546</td>
-<td>4450</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (2 Waiters)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4546</td>
+<td style='padding: 10px;'>4450</td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@ Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabil
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Microsoft Dynamics 365 Business Central (NAV) - Package C (Premium: 10 Users with Peppol)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_3.pdf'>View Details</a></td>
-<td>$37,335.00</td>
-<td>$29,235.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central (NAV) - Package C (Premium: 10 Users with Peppol)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$37,335.00</td>
+<td style='padding: 10px;'>$29,235.00</td>
 </tr>
 </table>
 

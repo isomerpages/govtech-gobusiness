@@ -20,11 +20,11 @@ Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm that supports local SMEs 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - Digital Payroll Processing and Year-end Payroll Submission Services (8 Pax)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_34.pdf'>View Details</a></td>
-<td>4992</td>
-<td>4992</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - Digital Payroll Processing and Year-end Payroll Submission Services (8 Pax)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4992</td>
+<td style='padding: 10px;'>4992</td>
 </tr>
 </table>
 

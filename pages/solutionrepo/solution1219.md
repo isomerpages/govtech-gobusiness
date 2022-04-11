@@ -20,11 +20,11 @@ AEC Collection consists of a set of BIM and CAD tools that support projects from
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>INNOCOM - AUTODESK AEC COLLECTION - AEC Collection - 3 Years</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_-_AEC_Collection_Annex_3_CR_wef_19_Nov_2020_Part_2.pdf'>View Details</a></td>
-<td>8880</td>
-<td>1590</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - AUTODESK AEC COLLECTION - AEC Collection - 3 Years</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_-_AEC_Collection_Annex_3_CR_wef_19_Nov_2020_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8880</td>
+<td style='padding: 10px;'>1590</td>
 </tr>
 </table>
 

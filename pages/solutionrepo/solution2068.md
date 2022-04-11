@@ -20,11 +20,11 @@ Autodesk BIM360 Design is a design collaboration software providing a platform f
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>CSG - Autodesk BIM Collaborate Pro - 10 Users Pack</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_3.pdf'>View Details</a></td>
-<td>11950</td>
-<td>11000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Autodesk BIM Collaborate Pro - 10 Users Pack</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11950</td>
+<td style='padding: 10px;'>11000</td>
 </tr>
 </table>
 

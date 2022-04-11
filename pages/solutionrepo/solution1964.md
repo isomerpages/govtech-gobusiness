@@ -20,11 +20,11 @@ Sophos safeguards all users' devices under one management, either on premise or 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Sophos Endpoint - Sophos Central Intercept X Advanced with EDR - 50 Licences (1 Year)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_3.pdf'>View Details</a></td>
-<td>4000</td>
-<td>4000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Endpoint - Sophos Central Intercept X Advanced with EDR - 50 Licences (1 Year)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4000</td>
+<td style='padding: 10px;'>4000</td>
 </tr>
 </table>
 

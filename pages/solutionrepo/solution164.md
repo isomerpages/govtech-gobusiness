@@ -21,11 +21,11 @@ For clinic operation, the solution offers capturing of NRIC records and health d
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>STUDIO MANAGER Version 7 - Package B (Professional)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_2.pdf'>View Details</a></td>
-<td></td>
-<td>15300</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STUDIO MANAGER Version 7 - Package B (Professional)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>15300</td>
 </tr>
 </table>
 

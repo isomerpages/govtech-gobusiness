@@ -20,11 +20,11 @@ Visual Optical RMS is a retail management system specifically designed for an op
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Visual Optical Retail Management System Version 8 Software - Package (Business Starter)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_1.pdf'>View Details</a></td>
-<td>4500</td>
-<td>4500</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Visual Optical Retail Management System Version 8 Software - Package (Business Starter)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4500</td>
+<td style='padding: 10px;'>4500</td>
 </tr>
 </table>
 

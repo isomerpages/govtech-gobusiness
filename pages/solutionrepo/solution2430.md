@@ -20,11 +20,11 @@ Qoqolo is a one-stop-shop preschool management system for centres to accelerate 
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>Qoqolo School Management System Version 4 - 5-in-1  Modules + Private Label</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_4.pdf'>View Details</a></td>
-<td>11888</td>
-<td>11888</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qoqolo School Management System Version 4 - 5-in-1  Modules + Private Label</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>11888</td>
+<td style='padding: 10px;'>11888</td>
 </tr>
 </table>
 

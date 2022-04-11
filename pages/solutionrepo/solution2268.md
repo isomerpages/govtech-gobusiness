@@ -20,11 +20,11 @@ Kaddra helps businesses turn loyalty into revenue, improve retention and acceler
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>KADDRA Mobile App Commerce Solution Version 1.9 - Advanced</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_2.pdf'>View Details</a></td>
-<td>3188</td>
-<td>3188</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KADDRA Mobile App Commerce Solution Version 1.9 - Advanced</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3188</td>
+<td style='padding: 10px;'>3188</td>
 </tr>
 </table>
 

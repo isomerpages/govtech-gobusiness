@@ -24,11 +24,11 @@ T-Guard is a complete system that provides utmost safe driving management system
 <td><b>Total Qualifying</b></td>
 </tr>
 <tr>
-<td>Option 1</td>
-<td>T-Guard - Package (5 Vehicles)</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_3.pdf'>View Details</a></td>
-<td>27690</td>
-<td>19540</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard - Package (5 Vehicles)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>27690</td>
+<td style='padding: 10px;'>19540</td>
 </tr>
 </table>
 
