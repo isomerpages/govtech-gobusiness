@@ -58,11 +58,11 @@ Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hote
 
 ## Mode and Schedule of Payment
 
- - 
+ - Direct Purchase
 
 ## Vendor Information
 
- 
+ Company Name:Serixx Business Solutions <br>Web URL: www.serixx.com <br>Contact Hotline: 91092480 <br>Contact Email: info@serixx.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

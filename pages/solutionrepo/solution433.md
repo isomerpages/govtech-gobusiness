@@ -44,11 +44,11 @@ Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabil
 
 ## Mode and Schedule of Payment
 
- - 
+ - Direct Purchase
 
 ## Vendor Information
 
- 
+ Inecom Pte Ltd<br>www.inecom.com.sg<br>Email: enquiries@inecomworld.com<br>Tel:+65 6225 9255
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

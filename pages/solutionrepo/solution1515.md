@@ -59,11 +59,11 @@ Highnix ERP has APIs which allow integration of third party applications. It wil
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: https://www.modernworkspace.biz/one-stopdocumentaccess<br>Contact Hotline: 64418406 <br>Contact Email: info@prominds.com.sg <br>
+ Web URL: www.toffstech.com <br>Contact Hotline: 63861260 <br>Contact Email: marketing@toffstech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

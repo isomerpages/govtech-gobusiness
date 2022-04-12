@@ -58,11 +58,11 @@ Accounting Consultancy Pte Ltd offers ABSS Accounting, formerly known as MYOB. A
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: www.firstcom.com.sg <br>Contact Hotline: 68484984 <br>Contact Email: sales@firstcom.com.sg <br>
+ Company Name:FacilityBot Pte Ltd <br>Web URL: facilitybot.co <br>Contact Hotline: 97480484 <br>Contact Email: sales@facilitybot.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

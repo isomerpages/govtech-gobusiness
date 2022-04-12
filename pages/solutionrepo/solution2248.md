@@ -58,11 +58,11 @@ ABSS Premier is an Accounting & Sales Management Software that is fully integrat
 
 ## Mode and Schedule of Payment
 
- - 
+ - Direct Purchase
 
 ## Vendor Information
 
- 
+ Web URL: www.firstcom.com.sg <br>Contact Hotline: 68484984 <br>Contact Email: sales@firstcom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

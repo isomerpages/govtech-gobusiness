@@ -58,11 +58,11 @@ Acc Pro (Singapore), a Top-recommended Pro-Advisor for QuickBooks Online is prou
 
 ## Mode and Schedule of Payment
 
- - 
+ - Direct Purchase
 
 ## Vendor Information
 
- 
+ Company Name:Lumen Technologies<br>Web URL:https://www.lumen.com/en-sg/home.html<br>Contact Hotline:67688000<br>Contact Email: ABCDservice@lumen.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

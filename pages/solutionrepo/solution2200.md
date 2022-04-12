@@ -47,15 +47,50 @@ Xero package include 1 year of Xero subscription, setting up of COA and form, mi
 <td style='padding: 10px;'>4888</td>
 <td style='padding: 10px;'>4888</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software-Harvest - Software</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>560</td>
+<td style='padding: 10px;'>560</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software-Harvest - Software and Setup</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2160</td>
+<td style='padding: 10px;'>2160</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software-Harvest - Software, Setup and Training</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2960</td>
+<td style='padding: 10px;'>2960</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software-Harvest - Software Setup and Migration</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingAnnex3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3360</td>
+<td style='padding: 10px;'>3360</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software-Harvest - Software Setup, Migration and Training</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingAnnex3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4160</td>
+<td style='padding: 10px;'>4160</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: www.dynsln.com.sg <br>Contact Hotline: 62617881 <br>Contact Email: info@dynsln.com.sg <br>
+ Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408<br>Contact Email: ask@harvestaccounting.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

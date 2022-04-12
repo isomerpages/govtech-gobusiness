@@ -44,7 +44,7 @@ As system implementation consultant and accounting firm, we explore and assist c
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 

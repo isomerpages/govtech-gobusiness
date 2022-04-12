@@ -48,7 +48,7 @@ ZETTAPPS is an integrated Accounting, Order Processing and Multi Currencies Mana
 
 ## Vendor Information
 
- Company Name:FacilityBot Pte Ltd <br>Web URL: facilitybot.co <br>Contact Hotline: 97480484 <br>Contact Email: sales@facilitybot.co <br>
+ Web URL: https://www.modernworkspace.biz/one-stopdocumentaccess<br>Contact Hotline: 64418406 <br>Contact Email: info@prominds.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

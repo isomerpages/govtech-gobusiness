@@ -44,11 +44,11 @@ Xero offers a cloud-based accounting software platform for small and medium-size
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- 361 Degree Consultancy Pte Ltd<br>www.361dc.com<br>Email: enquiry@361dc.com<br>Tel: +65 6515 7906
+ Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Contact Email: Info@akstech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

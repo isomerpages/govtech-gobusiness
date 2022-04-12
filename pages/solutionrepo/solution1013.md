@@ -58,11 +58,11 @@ Sage 300 takes the complexity out of managing your business finances across bord
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: www.toffstech.com <br>Contact Hotline: 63861260 <br>Contact Email: marketing@toffstech.com <br>
+ Company Name:Microlabs Pte Ltd <br>Web URL: http://www.microlabs.com.sg/microsoft-business-central/ <br>Contact Hotline: 68440558 <br>Contact Email: businesscentralgodigital@microlabs.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
