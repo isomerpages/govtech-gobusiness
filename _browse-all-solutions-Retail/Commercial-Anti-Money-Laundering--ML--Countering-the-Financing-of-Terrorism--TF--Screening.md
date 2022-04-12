@@ -25,11 +25,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1309' target='_blank'>SentroWeb </a><br>
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1350' target='_blank'>FingerBooth POS System Version 1 </a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution1392' target='_blank'>Artemis</a><br>
-
-<a href='/productivity-solutions-grant/solutionrepo/solution1447' target='_blank'>Octopus Retail Solution</a><br>
-
-<a href='/productivity-solutions-grant/solutionrepo/solution1500' target='_blank'>SGDATAPOS Version 5.1</a><br>
 

@@ -27,5 +27,3 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 <a href='/productivity-solutions-grant/solutionrepo/solution2810' target='_blank'>iREP Security System Version 4.0</a><br>
 
-<a href='/productivity-solutions-grant/solutionrepo/solution2967' target='_blank'>SSJ-Related</a><br>
-

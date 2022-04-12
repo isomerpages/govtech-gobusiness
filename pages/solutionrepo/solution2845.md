@@ -58,7 +58,7 @@ Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 

@@ -51,11 +51,11 @@ JustLogin is an Employee First Human Resource (HR) cloud platform that provides 
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - 
 
 ## Vendor Information
 
- Web URL: https://justlogin.com <br>Contact Hotline: 69099217 <br>Contact Email: info@justlogin.com <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

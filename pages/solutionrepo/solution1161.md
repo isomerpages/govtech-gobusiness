@@ -58,11 +58,11 @@ Xero is an accounting software for small business that lives in the cloud and wo
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name:ASL Advisory Pte. Ltd. <br>Web URL: www.asladvisory.com <br>Contact Hotline: 96607769 <br>Contact Email: Contact@asladvisory.com <br>
+ Company Name:Haulio Pte Ltd <br>Web URL: www.haulio.io <br>Contact Hotline: 85082327 <br>Contact Email: hello@haulio.io <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

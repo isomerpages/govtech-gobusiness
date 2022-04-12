@@ -62,7 +62,7 @@ SoloTracking is an industry-proven, advanced and productivity-oriented fleet man
 
 ## Vendor Information
 
- Web URL: https://www.secondcrm.com <br>Contact Hotline: 63048022 <br>Contact Email: sales@secondcrm.com <br>
+ Web URL: https://adventus.com/ <br>Contact Hotline: 61003310 <br>Contact Email: info@adventus.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

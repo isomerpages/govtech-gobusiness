@@ -49,7 +49,7 @@ FacilityBot is the first-to-market omni-channel AI-powered facilities management
 
 ## Vendor Information
 
- Globalsoft Solutions Pte Ltd<br>www.mng-solutions.com<br>Email: enquiries@mng-solutions.com<br>Tel: +65 6570 5012
+ Company Name:I Concept Innovation Pte Ltd <br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -17,8 +17,6 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 <a href='/productivity-solutions-grant/solutionrepo/solution430' target='_blank'>Getz F&B Integrated Instore and Online Transformation Version 2</a><br>
 
-<a href='/productivity-solutions-grant/solutionrepo/solution431' target='_blank'>Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution510' target='_blank'>NinjaOS</a><br>
 
 <a href='/productivity-solutions-grant/solutionrepo/solution661' target='_blank'>Octopus Food Solution</a><br>

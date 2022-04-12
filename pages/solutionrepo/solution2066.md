@@ -47,13 +47,6 @@ Autodesk BIM360 Design is a design collaboration software providing a platform f
 <td style='padding: 10px;'>26350</td>
 <td style='padding: 10px;'>26350</td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FacilityBot - FacilityBot Multiple Site Plan (100 Accounts)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedFacilityBotAnnex3CRwef10June2021_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>37500</td>
-<td style='padding: 10px;'>37500</td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -62,7 +55,7 @@ Autodesk BIM360 Design is a design collaboration software providing a platform f
 
 ## Vendor Information
 
- Web URL: https://peppercloud.com/ <br>Contact Hotline: 97510475 <br>Contact Email: sales@peppercloud.com <br>
+ Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

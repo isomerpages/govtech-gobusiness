@@ -44,11 +44,11 @@ Eber Smart Member Solution is a smart member system that comes with comprehensiv
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: https://eber.co <br>Contact Hotline: 31590888 <br>Contact Email: hello@eber.co <br>
+ Advocado Pte Ltd<br>https://www.advocadoapp.com<br>Email: hello@advocado.me<br>Tel: +65 6444 9556
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

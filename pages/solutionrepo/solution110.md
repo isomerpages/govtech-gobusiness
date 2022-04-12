@@ -55,7 +55,7 @@ Advocado Cloud Loyalty Customer Relationship Management software empowers SMEs t
 
 ## Vendor Information
 
- Advocado Pte Ltd<br>https://www.advocadoapp.com<br>Email: hello@advocado.me<br>Tel: +65 6444 9556
+ Company Name:Bona Technologies Systems Pte Ltd <br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

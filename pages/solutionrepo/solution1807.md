@@ -62,7 +62,7 @@ Data Connect Technologies propose FortiGate F-series for CyberSecurity Unified T
 
 ## Vendor Information
 
- Web URL: www.tnts.com.sg <br>Contact Hotline: 98338687 <br>Contact Email: ivy_lee@tnts.com.sg <br>
+ Web URL: https://auk.industries <br>Contact Hotline: 68163655 <br>Contact Email: sales.web@auk.industries <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

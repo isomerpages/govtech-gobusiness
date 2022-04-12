@@ -58,11 +58,11 @@ Sage 300 is a business accounting software that provides accounting software for
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Company Name:Supply Ellie Pte Ltd <br>Web URL:www.supplyellie.com <br>Contact Hotline:91200059 <br>Contact Email:davidang@supplyellie.com <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

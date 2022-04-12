@@ -17,5 +17,19 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 <a href='/productivity-solutions-grant/solutionrepo/solution243' target='_blank'>BonaERP</a><br>
 
-<a href='/productivity-solutions-grant/solutionrepo/solution250' target='_blank'>BonaForce</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution322' target='_blank'>CADStudio Version 0.1.3</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution622' target='_blank'>MuRho Inventory Management & Sales Management System</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution737' target='_blank'>REACH MOIBOO Version 1.8</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution963' target='_blank'>Xintesys Sales and Inventory Management Solution Version V30DC</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution972' target='_blank'>ZETTAPPS Cloud-based Inventory & Order Processing Version 3.7</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution2606' target='_blank'>Enhanzcom - FITPRISE Sales & Inventory System</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution2727' target='_blank'>MetroERP Version 1.0</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution2768' target='_blank'>Applivon - Odoo</a><br>
 

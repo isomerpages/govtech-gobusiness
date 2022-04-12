@@ -47,6 +47,27 @@ Odoo is an integrated suite of business applications that have thousand of modul
 <td style='padding: 10px;'>20400</td>
 <td style='padding: 10px;'>20400</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack A  (SaaS with hardware)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6000</td>
+<td style='padding: 10px;'>6000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack B  (Perpetual license on cloud with hardware)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>8000</td>
+<td style='padding: 10px;'>8000</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack C (Perpetual license on cloud with hardware)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -55,7 +76,7 @@ Odoo is an integrated suite of business applications that have thousand of modul
 
 ## Vendor Information
 
- Web URL: https://applivon.com/odoo/ <br>Contact Hotline: 65898939 <br>Contact Email: team@applivon.com <br>
+ Company Name:Bona Technologies Systems Pte Ltd <br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

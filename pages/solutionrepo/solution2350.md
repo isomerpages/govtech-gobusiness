@@ -62,7 +62,7 @@ CrossTrack GO is a fleet management platform that is available on both desktop a
 
 ## Vendor Information
 
- Web URL: www.bookentries.com.sg <br>Contact Hotline: 62214246 <br>Contact Email: support@bookentries.com.sg <br>
+ Company Name:Edgeworks Solutions Pte Ltd <br>Web URL: www.edgeworks.com.sg <br>Contact Hotline: 67504498 <br>Contact Email: sales@edgeworks.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

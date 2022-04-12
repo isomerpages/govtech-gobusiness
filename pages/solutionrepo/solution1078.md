@@ -58,11 +58,11 @@ An intuitive user interface designed for sales. A Dashboard for a better overvie
 
 ## Mode and Schedule of Payment
 
- - 
+ - Direct Purchase
 
 ## Vendor Information
 
- 
+ Company Name:ASL Advisory Pte. Ltd. <br>Web URL: www.asladvisory.com <br>Contact Hotline: 96607769 <br>Contact Email: Contact@asladvisory.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

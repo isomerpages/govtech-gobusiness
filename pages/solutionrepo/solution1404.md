@@ -58,11 +58,11 @@ StaffAny is a software-as-a-service that helps business owners reduce work dedic
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Web URL: https://octopuspos.com/ <br>Contact Hotline: 62216601 <br>Contact Email: solutions@octopuspos.com <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

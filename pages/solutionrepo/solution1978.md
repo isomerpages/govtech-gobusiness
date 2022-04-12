@@ -56,7 +56,7 @@ On the other hand, users will also be able to see the money that is coming in an
 
 ## Vendor Information
 
- 
+ Web URL: www.revelsystems.com <br>Contact Hotline: +6531633097 <br>Contact Email: sales@revelsystems.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -58,11 +58,11 @@ Rentalworks is a provider of sustainable IT device lease-to-use and endpoint sec
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: https://.qbo.intuit.com/ <br>Contact Hotline: 69802981 <br>Contact Email: cksoo@qba.com.sg <br>
+ Juss Solutions Group Pte Ltd<br>www.jussolve.com<br>Email: sales@jussolve.com<br>Tel: +65 6659 1811
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

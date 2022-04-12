@@ -62,7 +62,7 @@ Xero is a cloud-based accounting software platform for small and medium-sized bu
 
 ## Vendor Information
 
- Company Name:FacilityBot Pte Ltd <br>Web URL: facilitybot.co <br>Contact Hotline: 97480484 <br>Contact Email: sales@facilitybot.co <br>
+ Web URL: https://www.fooyo.sg/mini-shop-social-ecommerce/ <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

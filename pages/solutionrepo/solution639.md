@@ -51,11 +51,11 @@ Netiquette Software is a complete cloud business solution that comprises Account
 
 ## Mode and Schedule of Payment
 
- - 
+ - Direct Purchase
 
 ## Vendor Information
 
- 
+ Nspire Group Pte Ltd<br>https://www.RavenPOS.com<br>Email: ravenpos@gmail.com<br>Tel: +65 6100 2628
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

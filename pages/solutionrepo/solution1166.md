@@ -51,11 +51,11 @@ The One Stop Mobile App for Business Contact Data Storage & Salesman Management 
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name:Frontwave Software Pte Ltd <br>Web URL: https://www.frontwave.com.sg/frontwave-cloud <br>Contact Hotline: 62899125 <br>Contact Email: info@frontwave.com.sg <br>
+ Company Name:V3 Smart Technologies Pte Ltd <br>Web URL: http://www.v3smarttech.com/solutions/workforce-assignment-mobility-wam/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

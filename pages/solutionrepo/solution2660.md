@@ -62,7 +62,7 @@ Simplify FSM solution connects and empowers field technicians while simplifying 
 
 ## Vendor Information
 
- Web URL: https://metrogroup.solutions <br>Contact Hotline: 87714911 <br>Contact Email: info@metrogroup.solutions <br>
+ Web URL: www.roycemedia.com/products.html <br>Contact Hotline: 63232139 <br>Contact Email: sales@roycemedia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

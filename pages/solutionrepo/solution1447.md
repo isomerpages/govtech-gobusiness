@@ -60,11 +60,11 @@ Our solutions help retail owners run sales and promotions, track inventory, mana
 
 ## Mode and Schedule of Payment
 
- - 
+ - Subscription / Leasing
 
 ## Vendor Information
 
- 
+ Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

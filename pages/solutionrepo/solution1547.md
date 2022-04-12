@@ -58,11 +58,11 @@ Sophos InterceptX Advanced EndPoint Protection is a centralized cloud managed pl
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - 
 
 ## Vendor Information
 
- Web URL: https://revelsystems.com.sg/sgd-packaged-solutions/ <br>Contact Hotline: 62936275 <br>Contact Email: sales@revelsystems.com.sg <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

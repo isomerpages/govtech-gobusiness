@@ -37,11 +37,11 @@ PORTNET is the first nation-wide business-to-business (B2B) port community solut
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: cyberland.edu.sg/bridged <br>Contact Hotline: 65666601 <br>Contact Email: casey@cyberland.edu.sg <br>
+ Web URL: www.mindmaster.com.sg <br>Contact Hotline: 62505623 <br>Contact Email: info@mindmastersg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

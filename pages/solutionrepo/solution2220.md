@@ -58,11 +58,11 @@ Detrack is a cloud-based real-time vehicle tracking and electronic proof of deli
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: www.mindmaster.com.sg <br>Contact Hotline: 62505623 <br>Contact Email: info@mindmastersg.com <br>
+ Web URL: www.daisy.sg <br>Contact Hotline: 92736613 <br>Contact Email: kate@daisy.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

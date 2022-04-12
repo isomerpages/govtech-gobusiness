@@ -40,6 +40,13 @@ Gabkotech recognises the need for the digital transformation of the Facilities M
 <td style='padding: 10px;'>44100</td>
 <td style='padding: 10px;'>42500</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FacilityBot - FacilityBot Multiple Site Plan (100 Accounts)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedFacilityBotAnnex3CRwef10June2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>37500</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -48,7 +55,7 @@ Gabkotech recognises the need for the digital transformation of the Facilities M
 
 ## Vendor Information
 
- Web URL: http://www.gabkotech.com <br>Contact Hotline: 66844419 <br>Contact Email: info@gabkotech.com <br>
+ Web URL: https://peppercloud.com/ <br>Contact Hotline: 97510475 <br>Contact Email: sales@peppercloud.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

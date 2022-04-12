@@ -62,7 +62,7 @@ Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, mul
 
 ## Vendor Information
 
- Company Name:V3 Smart Technologies Pte Ltd <br>Web URL: http://www.v3smarttech.com/solutions/workforce-assignment-mobility-wam/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com 
+ Company Name:BIG MOUTH MARKETING PTE LTD <br>Web URL: WWW.FINGERBOOTH.COM <br>Contact Hotline: 90604096 <br>Contact Email: SALES@FINGERBOOTH.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

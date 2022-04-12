@@ -48,7 +48,7 @@ As system implementation consultant and accounting firm, we explore and assist c
 
 ## Vendor Information
 
- Company Name:Abundant Accounting Pte Ltd  <br>Web URL: www.aba.com.sg <br>Contact Hotline: 90181833 <br>Contact Email: sales@aba.com.sg <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

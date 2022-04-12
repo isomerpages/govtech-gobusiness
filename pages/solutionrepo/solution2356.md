@@ -55,7 +55,7 @@ Swipetask is a Workforce & Task-management solution for optimization, productivi
 
 ## Vendor Information
 
- Web URL: www.care.biz <br>Contact Hotline: 67448022 <br>Contact Email: sales@sg.care.biz <br>
+ Web URL: g-segmentict@singtel.com <br>Contact Hotline: 68385510 <br>Contact Email: g-segmentict@singtel.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

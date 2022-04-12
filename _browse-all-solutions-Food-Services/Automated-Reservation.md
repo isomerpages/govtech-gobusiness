@@ -25,5 +25,3 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1557' target='_blank'>ChopeBook</a><br>
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1563' target='_blank'>iMakan</a><br>
-

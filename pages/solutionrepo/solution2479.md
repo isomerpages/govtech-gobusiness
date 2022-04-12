@@ -41,7 +41,7 @@ The SAP2000 Ultimate Suite is the most advanced 3D finite element analysis and d
 
 ## Vendor Information
 
- Web URL: NA <br>Contact Hotline: 84991007 <br>Contact Email: TASDAVID90@GMAIL.COM <br>
+ Web URL: https://metrogroup.solutions <br>Contact Hotline: 87714911 <br>Contact Email: info@metrogroup.solutions <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

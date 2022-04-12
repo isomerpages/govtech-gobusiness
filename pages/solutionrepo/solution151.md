@@ -58,11 +58,11 @@ APSCOM Solutions provides ABSS Premier, formerly known as MYOB, includes Account
 
 ## Mode and Schedule of Payment
 
- - 
+ - Subscription / Leasing
 
 ## Vendor Information
 
- 
+ Company Name:Microlabs Pte Ltd <br>Web URL: http://www.microlabs.com.sg/microsoft-business-central/ <br>Contact Hotline: 68440558 <br>Contact Email: businesscentralgodigital@microlabs.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

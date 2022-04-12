@@ -60,11 +60,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1100
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Company Name:Microlabs Pte Ltd <br>Web URL: http://www.microlabs.com.sg/microsoft-business-central/ <br>Contact Hotline: 68440558 <br>Contact Email: businesscentralgodigital@microlabs.com.sg <br>
+ Web URL: https://www.tekla.com/sg <br>Contact Hotline: 62738775 <br>Contact Email: tekla.sales.sea@trimble.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

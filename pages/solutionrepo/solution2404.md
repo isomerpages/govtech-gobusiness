@@ -62,7 +62,7 @@ NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platf
 
 ## Vendor Information
 
- Web URL: WWW.ASSEMBLYWORK.CO <br>Contact Hotline: 90883183 <br>Contact Email: shining@assemblyworks.co <br>
+ Web URL: www.Nextlevel.sg <br>Contact Hotline: 83765715 <br>Contact Email: info@nextlevel.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -25,5 +25,3 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 <a href='/productivity-solutions-grant/solutionrepo/solution946' target='_blank'>WhyzeHR Workforce Management System Version 12</a><br>
 
-<a href='/productivity-solutions-grant/solutionrepo/solution951' target='_blank'>EZYSALESORDER Version 2.0</a><br>
-

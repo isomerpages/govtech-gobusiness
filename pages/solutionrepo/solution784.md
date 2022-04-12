@@ -30,11 +30,11 @@ EzyProcure, Procure to Pay Solution which benefits both buyer and supplier by st
 
 ## Mode and Schedule of Payment
 
- - 
+ - Direct Purchase
 
 ## Vendor Information
 
- 
+ Web URL: https://www.p65marketing.com/warelypos/ <br>Contact Hotline: 96681774 <br>Contact Email: Business@p65marketing.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

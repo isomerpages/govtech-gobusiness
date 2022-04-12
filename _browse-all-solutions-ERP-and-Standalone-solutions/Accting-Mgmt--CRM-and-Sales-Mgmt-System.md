@@ -17,7 +17,5 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 <a href='/productivity-solutions-grant/solutionrepo/solution490' target='_blank'>SAP Business One 9.3 Package</a><br>
 
-<a href='/productivity-solutions-grant/solutionrepo/solution611' target='_blank'>SAP Business One SQL & HANA Version 9.3 PL6/10.0</a><br>
-
-<a href='/productivity-solutions-grant/solutionrepo/solution616' target='_blank'>Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution)</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution648' target='_blank'>NMTODOO - ERP</a><br>
 

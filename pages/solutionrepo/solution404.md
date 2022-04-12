@@ -59,11 +59,11 @@ Frontier e-HR is a user friendly cloud based Human Resource Management System ( 
 
 ## Mode and Schedule of Payment
 
- - 
+ - Direct Purchase
 
 ## Vendor Information
 
- 
+ Company Name:Carddio Pte Ltd <br>Web URL: www.carddio.com.sg <br>Contact Hotline: 6258 9852 <br>Contact Email: psg@carddio.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

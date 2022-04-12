@@ -58,11 +58,11 @@ Xero is a comprehensive accounting software that provides accounting features li
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- 361 Degree Consultancy Pte Ltd<br>www.361dc.com<br>Email: enquiry@361dc.com<br>Tel: +65 6515 7906
+ Company Name:Lumen Technologies<br>Web URL:https://www.lumen.com/en-sg/home.html<br>Contact Hotline:67688000<br>Contact Email: ABCDservice@lumen.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

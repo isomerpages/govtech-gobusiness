@@ -19,5 +19,3 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 <a href='/productivity-solutions-grant/solutionrepo/solution2711' target='_blank'>Redoc - Document Management & Transaction Records Version 1.0</a><br>
 
-<a href='/productivity-solutions-grant/solutionrepo/solution2946' target='_blank'>SSJ-Related</a><br>
-

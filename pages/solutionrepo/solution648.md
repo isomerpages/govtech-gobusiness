@@ -49,7 +49,7 @@ NMTODOO is a comprehensive, integrated, cloud-based CRM, Sales and Accounting Ma
 
 ## Vendor Information
 
- Nspire Group Pte Ltd<br>https://www.RavenPOS.com<br>Email: ravenpos@gmail.com<br>Tel: +65 6100 2628
+ Web URL: www.msc-consulting.com.sg <br>Contact Hotline: 63172050 <br>Contact Email: alex.goh@msc-consulting.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -54,6 +54,13 @@ QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobil
 <td style='padding: 10px;'>9100</td>
 <td style='padding: 10px;'>9028</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - QBA Simple</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Quest_Business_Advisory_20210337_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2288</td>
+<td style='padding: 10px;'>2076.12</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -62,7 +69,7 @@ QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobil
 
 ## Vendor Information
 
- Web URL: https://www.gurusofttech.com/WMS <br>Contact Hotline: 62708083 <br>Contact Email: sales@gurusoft.com.sg <br>
+ Web URL: https://applivon.com/odoo/ <br>Contact Hotline: 65898939 <br>Contact Email: team@applivon.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

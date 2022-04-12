@@ -41,7 +41,7 @@ SAFE is the ultimate tool for designing concrete floor and foundation systems. F
 
 ## Vendor Information
 
- Web URL: www.Nextlevel.sg <br>Contact Hotline: 83765715 <br>Contact Email: info@nextlevel.sg <br>
+ Web URL: https://innowave.com.sg/innoglas/ <br>Contact Hotline: 88313613 <br>Contact Email: hello@innowave.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

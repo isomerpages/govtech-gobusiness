@@ -19,13 +19,3 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1719' target='_blank'>Intelli-Signage Version 3.1.4</a><br>
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1722' target='_blank'>BOTG Version 1.0</a><br>
-
-<a href='/productivity-solutions-grant/solutionrepo/solution1724' target='_blank'>Qashier Smart Terminal</a><br>
-
-<a href='/productivity-solutions-grant/solutionrepo/solution1877' target='_blank'>LFSUITE Version 6.0</a><br>
-
-<a href='/productivity-solutions-grant/solutionrepo/solution2752' target='_blank'>EPOS Enhanced POS Version 2.0</a><br>
-
-<a href='/productivity-solutions-grant/solutionrepo/solution2912' target='_blank'>SSJ-Related</a><br>
-

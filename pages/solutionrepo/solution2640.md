@@ -62,7 +62,7 @@ Flavor CRM is a robust solution for keeping tracking of leads, conversion and ma
 
 ## Vendor Information
 
- Web URL: www.flavorcrm.com <br>Contact Hotline: 66791003 <br>Contact Email: info@flavorcrm.com <br>
+ Web URL: https://hitachisunway-solutions.sg <br>Contact Hotline: 91053811 <br>Contact Email: enquiryplm-sg@hitachi-sunway-is.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

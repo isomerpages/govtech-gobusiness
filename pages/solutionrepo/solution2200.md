@@ -55,7 +55,7 @@ Xero package include 1 year of Xero subscription, setting up of COA and form, mi
 
 ## Vendor Information
 
- Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
+ Web URL: www.dynsln.com.sg <br>Contact Hotline: 62617881 <br>Contact Email: info@dynsln.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

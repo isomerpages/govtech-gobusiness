@@ -62,7 +62,7 @@ Really provides the state-of-the-art platform that helps property & facilities m
 
 ## Vendor Information
 
- Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
+ Web URL: https://hexa.sg/products/ <br>Contact Hotline: 69777797 <br>Contact Email: howdy@hexa.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

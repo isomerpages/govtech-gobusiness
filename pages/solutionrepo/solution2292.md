@@ -55,7 +55,7 @@ It's a powerful Mobile Application designed for Building and Construction indust
 
 ## Vendor Information
 
- Web URL: www.ngt.com.sg <br>Contact Hotline: 68469334 <br>Contact Email: info@ngt.com.sg <br>
+ Web URL: NA <br>Contact Hotline: 84991007 <br>Contact Email: TASDAVID90@GMAIL.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -44,11 +44,11 @@ The solutions offered by Hubspot Asia Pte Ltd are a suite of Customer Relationsh
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- IBASE Technology Pte Ltd<br>www.ibase.com.sg / www.qornerstone.com<br>Email: sales@qornerstone.com
+ Company Name:Agere Accounting & Advisory Pte Ltd <br>Web URL: www.agere-ca.com <br>Contact Hotline: 63850609 <br>Contact Email: elainelim@agere-ca.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

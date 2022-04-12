@@ -17,5 +17,11 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1023' target='_blank'>Autodesk BIM 360</a><br>
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1151' target='_blank'>Novade</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1583' target='_blank'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN )</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution1884' target='_blank'>GS BIM collaboration Platform Version 1</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution2066' target='_blank'>CSG - Autodesk BIM Collaborate Pro</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution2337' target='_blank'>APEX</a><br>
 

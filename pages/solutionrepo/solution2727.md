@@ -48,7 +48,7 @@ MetroERP is a cloud Inventory and Sales Management solution which makes it easie
 
 ## Vendor Information
 
- Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 88812881 <br>Contact Email: hello@3dbrandagency.com <br>
+ Web URL: http://www.apmglobal.com.sg <br>Contact Hotline: 67104938 <br>Contact Email: bella@apmglobal.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

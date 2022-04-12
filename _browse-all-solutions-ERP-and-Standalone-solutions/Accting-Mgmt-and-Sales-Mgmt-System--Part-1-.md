@@ -19,3 +19,17 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 <a href='/productivity-solutions-grant/solutionrepo/solution8' target='_blank'>Xero Cloud Accounting Software </a><br>
 
+<a href='/productivity-solutions-grant/solutionrepo/solution287' target='_blank'>CFOsg Xero Cloud Accounting</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution720' target='_blank'>Psoft Accounting Systems</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution834' target='_blank'>Synergix E1 Sales & Accounting</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution967' target='_blank'>Xero Cloud Accounting Software Version 10.5</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution1008' target='_blank'>Quickbooks Online - Aba QuickBooks Online Accounting Solution</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution1010' target='_blank'>Quickbooks Online - QuickBooks Online Accounting Solution </a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution2075' target='_blank'>Accounts101 - Xero Cloud Accounting Software</a><br>
+

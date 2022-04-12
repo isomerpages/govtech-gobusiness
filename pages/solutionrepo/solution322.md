@@ -44,11 +44,11 @@ Cadstudio is a comprehensive enterprise resource planning (ERP) software made up
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name:Getz Group Pte Ltd<br>Web URL:http://www.getz.co/<br>Contact Hotline: +WhatsApp: +65 8540 6590<br>Contact Email: hello@getz.co
+ MuRho Pte Ltd <br>www.murho.com.sg<br>Email:sales@murho.com.sg<br>Tel:+65 6289 3802
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -37,11 +37,11 @@ Qornerstone Estate is an off-the-shelf solution to digitalize Property & Managem
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Company Name:TrustyTech Pte Ltd <br>Web URL: https://www.easybus.app/ <br>Contact Hotline: 90999564 <br>Contact Email: business@trustytechgroup.com <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

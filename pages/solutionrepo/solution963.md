@@ -40,11 +40,11 @@ It is built with a user definable workflow driven engine suitable for SMEs to ca
 
 ## Mode and Schedule of Payment
 
- - 
+ - Direct Purchase
 
 ## Vendor Information
 
- 
+ Web URL: https://www.yoio-sg.com/#ourexpertise <br>Contact Hotline: 91793142 <br>Contact Email: hanz@yoio-sg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

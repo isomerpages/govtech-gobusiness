@@ -55,7 +55,7 @@ FingerBooth POS System is an one stop solution for retail and beauty industry sh
 
 ## Vendor Information
 
- Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 8881 2881  <br>Contact Email: hello@3dbrandagency.com 
+ Web URL: www.equotix.com/web-development <br>Contact Hotline: 68022697 <br>Contact Email: contact@equotix.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

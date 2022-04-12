@@ -58,55 +58,48 @@ SMEs can process foreign currency transactions, track GST, analyze business perf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 3 Users with InvoiceNow</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>24000</td>
-<td style='padding: 10px;'>24000</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - Package A (Single User Licence product only)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_20220008_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1850</td>
+<td style='padding: 10px;'>1850</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 5 Users with InvoiceNow</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>32000</td>
-<td style='padding: 10px;'>28800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - Package B (Three User Licence product only)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_20220008_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2650</td>
+<td style='padding: 10px;'>2650</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 8 Users with InvoiceNow</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>41200</td>
-<td style='padding: 10px;'>32400</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - Package C (Single User Licence Full Package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_20220008_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2750</td>
+<td style='padding: 10px;'>2750</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 10 Users with InvoiceNow</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>46000</td>
-<td style='padding: 10px;'>34800</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - Package D (Three User Licence Full Package)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_20220008_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3550</td>
+<td style='padding: 10px;'>3550</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Premium Edition - SaaS 8 Users with InvoiceNow</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>56800</td>
-<td style='padding: 10px;'>36400</td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 11</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - QBA Simple</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Quest_Business_Advisory_20210337_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>2288</td>
-<td style='padding: 10px;'>2076.12</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - Package E (Three User Licence Full package with remote access)</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_20220008_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4250</td>
+<td style='padding: 10px;'>4250</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 
- Web URL: http://www.apmglobal.com.sg <br>Contact Hotline: 67104938 <br>Contact Email: bella@apmglobal.com.sg <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

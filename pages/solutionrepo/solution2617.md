@@ -62,7 +62,7 @@ Airsquire 360- Virtual Sites helps capture, visualize and share your site's "360
 
 ## Vendor Information
 
- Web URL: g-segmentict@singtel.com <br>Contact Hotline: 68385510 <br>Contact Email: g-segmentict@singtel.com <br>
+ Web URL: www.ottegroup.com <br>Contact Hotline: 66842268 <br>Contact Email: sgsales@ottegroup.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

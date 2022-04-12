@@ -55,7 +55,7 @@ DashBod is a cloud accounting software that is one of the software listed on Inl
 
 ## Vendor Information
 
- Web URL: mediaone.co <br>Contact Hotline: 67899852 <br>Contact Email: contact@mediaone.co <br>
+ Web URL: https://satoasiapacific.com/ <br>Contact Hotline: 62762722 <br>Contact Email: salesorder-sap@sato-global.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -58,11 +58,11 @@ Panda Adaptive Defense 360 is an Endpoint Detection and Response (EDR) solution 
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: www.mylunchbox.app <br>Contact Hotline: 81298905 <br>Contact Email: office@mylunchbox.app <br>
+ Web URL: www.a2000erp.com <br>Contact Hotline: 67202000 <br>Contact Email: info@a2000.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

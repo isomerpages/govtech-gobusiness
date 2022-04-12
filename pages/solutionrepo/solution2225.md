@@ -43,7 +43,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2225
 
 ## Vendor Information
 
- Web URL: www.centricsnetworks.com.sg <br>Contact Hotline: 68337898 <br>Contact Email: sales@centricsnetworks.com.sg <br>
+ Company Name:VRCOLLAB PTE. LTD. <br>Web URL: https://vrcollab.com/lite/ <br>Contact Hotline: +6591008417 <br>Contact Email: INFO@VRCOLLAB.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

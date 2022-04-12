@@ -17,3 +17,7 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 <a href='/productivity-solutions-grant/solutionrepo/solution2558' target='_blank'>LittleLives School Management System (e-form)</a><br>
 
+<a href='/productivity-solutions-grant/solutionrepo/solution2600' target='_blank'>Taidii Smart E-Form Solution</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution2682' target='_blank'>e-Forms for Preschool Version 1.0</a><br>
+

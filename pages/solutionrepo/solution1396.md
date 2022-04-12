@@ -48,7 +48,7 @@ Microsoft Dynamics 365 Business Central delivers integrated functionality to pro
 
 ## Vendor Information
 
- Company Name:Haulio Pte Ltd <br>Web URL: www.haulio.io <br>Contact Hotline: 85082327 <br>Contact Email: hello@haulio.io <br>
+ Web URL: https://sfdc.co/smes-go-digital<br>Contact Hotline: 800 1301 448<br>Contact Email: apacemarketing@salesforce.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

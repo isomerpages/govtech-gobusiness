@@ -25,13 +25,3 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1319' target='_blank'>SentroWeb </a><br>
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1420' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6</a><br>
-
-<a href='/productivity-solutions-grant/solutionrepo/solution2023' target='_blank'>A2000ERP Version 12.X</a><br>
-
-<a href='/productivity-solutions-grant/solutionrepo/solution2225' target='_blank'>Microsoft Dynamics 365 Business Central with Mobile Add-on for Wholesale Trade Version 18-3.01</a><br>
-
-<a href='/productivity-solutions-grant/solutionrepo/solution2835' target='_blank'>Creative Sales and Order</a><br>
-
-<a href='/productivity-solutions-grant/solutionrepo/solution2958' target='_blank'>SSJ-Related</a><br>
-

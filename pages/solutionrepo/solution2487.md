@@ -47,41 +47,6 @@ Xero is a cloud-based accounting software that connects people with the right nu
 <td style='padding: 10px;'>3300</td>
 <td style='padding: 10px;'>3225</td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - 1U+Setup+Training</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3180</td>
-<td style='padding: 10px;'>3180</td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - 3U+Setup+Training</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>4130</td>
-<td style='padding: 10px;'>4130</td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - 3U+Remote+Setup+Training</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5680</td>
-<td style='padding: 10px;'>5680</td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - PremierPlus 1U+Setup+Training</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5990</td>
-<td style='padding: 10px;'>5990</td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - PremierPlus 3U+Remote+Setup+Training</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_56.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>7550</td>
-<td style='padding: 10px;'>7550</td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment

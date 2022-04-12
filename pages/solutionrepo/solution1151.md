@@ -58,11 +58,11 @@ Novade provides an enterprise platform for site operations. Novade leverages mob
 
 ## Mode and Schedule of Payment
 
- - 
+ - Direct Purchase
 
 ## Vendor Information
 
- 
+ Eurostop Singapore Pte Ltd<br>https://www.eurostop.com/<br>Email: sgsales@eurostop.com<br>Tel: +65 6561 1411
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

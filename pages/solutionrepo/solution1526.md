@@ -58,11 +58,11 @@ With advanced CRM features like workflow management, advanced analytics, territo
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - 
 
 ## Vendor Information
 
- Web URL: https://www.tekla.com/sg <br>Contact Hotline: 62738775 <br>Contact Email: tekla.sales.sea@trimble.com <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

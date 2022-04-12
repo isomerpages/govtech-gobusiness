@@ -58,11 +58,11 @@ Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm that supports local SMEs 
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: https://value.com.sg/grants<br>Contact Hotline: +65 3165 9568<br>Contact Email: info@vmcsg.com 
+ Web URL: https://www.incorporateyour.com <br>Contact Hotline: 63349329 <br>Contact Email: sales@incorporateyour.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -62,7 +62,7 @@ VSS is a comprehensive and user-friendly solution in wireless applications of Gl
 
 ## Vendor Information
 
- Company Name:LGA Telecom Pte Ltd <br>Web URL: https://www.lgatelecom.net <br>Contact Hotline: 68922308 <br>Contact Email: sales@lgatelecom.net <br>
+ Web URL: https://www.secondcrm.com <br>Contact Hotline: 63048022 <br>Contact Email: sales@secondcrm.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

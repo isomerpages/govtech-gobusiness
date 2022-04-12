@@ -51,11 +51,11 @@ ChopeBook is a Table Management System (TMS) designed to make the most of a rest
 
 ## Mode and Schedule of Payment
 
- - 
+ - Direct Purchase
 
 ## Vendor Information
 
- 
+ Web URL: https://www.solo.com.sg/safepass-facial-recognition-fever-screening-with-attendance-and-access-control-system/ <br>Contact Hotline: 65158803 <br>Contact Email: sales@solo.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

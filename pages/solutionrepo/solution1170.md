@@ -58,7 +58,7 @@ QuickHR eScheduling offers cutting-edge cloud-based Automated Scheduling & Workf
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - 
 
 ## Vendor Information
 

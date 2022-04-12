@@ -58,11 +58,11 @@ Moneyworks by Cognito Software provides a powerful, feature rich platform that u
 
 ## Mode and Schedule of Payment
 
- - 
+ - Subscription / Leasing
 
 ## Vendor Information
 
- 
+ SecureAge Technology Pte Ltd<br>www.secureage.com/secureaplus<br>Email: teowhin@secureage.com<br>Tel: +65 6873 3710
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

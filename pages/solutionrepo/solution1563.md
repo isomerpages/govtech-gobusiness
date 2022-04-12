@@ -59,11 +59,11 @@ iMakan is widely used by new age diners who prefer digital menu and fast pace or
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: https://www.solo.com.sg/safepass-facial-recognition-fever-screening-with-attendance-and-access-control-system/ <br>Contact Hotline: 65158803 <br>Contact Email: sales@solo.com.sg <br>
+ Web URL: www.a2000erp.com <br>Contact Hotline: 67202000 <br>Contact Email: info@a2000.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

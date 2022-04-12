@@ -55,7 +55,7 @@ Arcstone's Product and Manufacturing Process Configuration solution empowers man
 
 ## Vendor Information
 
- Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: contact@arcstone.co <br>
+ Web URL: https://www.hexagonmi.com <br>Contact Hotline: 64636242 <br>Contact Email: contact.sg.mi@hexagon.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

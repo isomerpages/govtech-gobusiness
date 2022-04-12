@@ -17,3 +17,15 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 <a href='/productivity-solutions-grant/solutionrepo/solution13' target='_blank'>ABSS Premier V23 Version 23 </a><br>
 
+<a href='/productivity-solutions-grant/solutionrepo/solution65' target='_blank'>SAGE 300Cloud Version 2021</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution95' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution133' target='_blank'>ABSS Premier Version 23.0</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution187' target='_blank'>AutoCount Accounting</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution433' target='_blank'>Microsoft Dynamics 365 Business Central (NAV) Version 17</a><br>
+
+<a href='/productivity-solutions-grant/solutionrepo/solution611' target='_blank'>SAP Business One SQL & HANA Version 9.3 PL6/10.0</a><br>
+

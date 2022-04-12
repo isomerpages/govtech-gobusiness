@@ -30,11 +30,11 @@ AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: www.ottegroup.com <br>Contact Hotline: 66842268 <br>Contact Email: sgsales@ottegroup.com <br>
+ Web URL: https://sugatitravel.com/ <br>Contact Hotline: 91273257 <br>Contact Email: hello@sugatitravel.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

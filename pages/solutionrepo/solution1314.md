@@ -62,7 +62,7 @@ The GRmail removes the email threats even before it reaches the email server and
 
 ## Vendor Information
 
- Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
+ Web URL: www.tnts.com.sg <br>Contact Hotline: 98338687 <br>Contact Email: ivy_lee@tnts.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

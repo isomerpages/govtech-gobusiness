@@ -58,11 +58,11 @@ Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation 
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: admin@realestatedoc.co <br>
+ Web URL: https://.qbo.intuit.com/ <br>Contact Hotline: 69802981 <br>Contact Email: cksoo@qba.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

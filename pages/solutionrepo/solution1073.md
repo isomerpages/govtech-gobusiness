@@ -54,6 +54,41 @@ Xero is an online accounting software for SMEs, to be able to automate their eve
 <td style='padding: 10px;'>2980</td>
 <td style='padding: 10px;'>2925</td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Aba Xero Accounting solution - Starter</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>2300</td>
+<td style='padding: 10px;'>2300</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Aba Xero Accounting Solution - Essential</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>3600</td>
+<td style='padding: 10px;'>3600</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Aba Xero Accounting Solution - Premium</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>4900</td>
+<td style='padding: 10px;'>4900</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Xero Accounting Solution - Inventory</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>6900</td>
+<td style='padding: 10px;'>6900</td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Xero Accounting Solution _Enterprise</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>9900</td>
+<td style='padding: 10px;'>9900</td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -62,7 +97,7 @@ Xero is an online accounting software for SMEs, to be able to automate their eve
 
 ## Vendor Information
 
- Company Name:Agere Accounting & Advisory Pte Ltd <br>Web URL: www.agere-ca.com <br>Contact Hotline: 63850609 <br>Contact Email: elainelim@agere-ca.com <br>
+ Company Name:Abundant Accounting Pte Ltd  <br>Web URL: www.aba.com.sg <br>Contact Hotline: 90181833 <br>Contact Email: sales@aba.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

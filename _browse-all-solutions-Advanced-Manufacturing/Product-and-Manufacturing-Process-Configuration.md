@@ -17,11 +17,5 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1898' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module)</a><br>
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1902' target='_blank'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform</a><br>
-
-<a href='/productivity-solutions-grant/solutionrepo/solution2697' target='_blank'>Q-DAS - Smart Quality Software</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2700' target='_blank'>Teamcenter Version 13</a><br>
-
-<a href='/productivity-solutions-grant/solutionrepo/solution2961' target='_blank'>SSJ-Related</a><br>
 
