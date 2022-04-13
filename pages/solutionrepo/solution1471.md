@@ -17,16 +17,16 @@ Cost of equipment capped at $20,000 per unit
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Torque Multiplier</td>
-<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'>20000</td>
+<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

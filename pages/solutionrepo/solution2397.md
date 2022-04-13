@@ -15,44 +15,44 @@ FortiGate firewalls are purpose-built with security processers to enable the ind
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 40 F</td>
+<td style='padding: 10px;'>4475</td>
+<td style='padding: 10px;'>4475</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>4475</td>
-<td style='padding: 10px;'>4475</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 60 F</td>
+<td style='padding: 10px;'>5055</td>
+<td style='padding: 10px;'>5055</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5055</td>
-<td style='padding: 10px;'>5055</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 80 F</td>
+<td style='padding: 10px;'>6718</td>
+<td style='padding: 10px;'>6718</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>6718</td>
-<td style='padding: 10px;'>6718</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 101 F</td>
+<td style='padding: 10px;'>11818</td>
+<td style='padding: 10px;'>11818</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>11818</td>
-<td style='padding: 10px;'>11818</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 200 F</td>
+<td style='padding: 10px;'>13570</td>
+<td style='padding: 10px;'>13570</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>13570</td>
-<td style='padding: 10px;'>13570</td>
 </tr>
 </table>
 

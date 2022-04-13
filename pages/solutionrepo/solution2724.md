@@ -15,23 +15,23 @@ InfoMaster ERP's Asset Monitoring and Management system allows tracking and moni
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InfoMaster ERP Software - Asset Monitoring and Management - Standard Edition - 3 Users</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>27000</td>
 <td style='padding: 10px;'>21400</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InfoMaster ERP Software - Asset Monitoring and Management - Premium Edition - 5 Users</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>36000</td>
 <td style='padding: 10px;'>28000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -17,37 +17,37 @@ Your team has the freedom to check rosters, accept and decline shifts, request l
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roubler - Roubler 1 - 30 Users </td>
+<td style='padding: 10px;'>3220</td>
+<td style='padding: 10px;'>3220</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roubler20200690_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3220</td>
-<td style='padding: 10px;'>3220</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roubler - Roubler 31- 60 Users </td>
+<td style='padding: 10px;'>5820</td>
+<td style='padding: 10px;'>5820</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roubler20200690_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5820</td>
-<td style='padding: 10px;'>5820</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roubler - Roubler 60 -100 Users </td>
+<td style='padding: 10px;'>7700</td>
+<td style='padding: 10px;'>7700</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roubler20200690_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>7700</td>
-<td style='padding: 10px;'>7700</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roubler - Roubler 101 - 200 Users </td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roubler20200690_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>11600</td>
 <td style='padding: 10px;'>11400</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roubler20200690_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

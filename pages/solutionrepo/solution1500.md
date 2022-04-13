@@ -18,44 +18,44 @@ Alternatively, SGDATAPOS can integrate with third party system such as e-commerc
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Version 5.1 - Package (Basic With Hardware)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singapore_Data_Hub_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>$4,800.00</td>
 <td style='padding: 10px;'>4800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singapore_Data_Hub_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Version 5.1 - Package (Basic Without Hardware)</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singapore_Data_Hub_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>$2,800.00</td>
-<td style='padding: 10px;'>$2,800.00</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Version 5.1 - Package (With Customer Relationship Management, With Hardware)</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'>$6,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singapore_Data_Hub_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'>$6,800.00</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Version 5.1 - Package (With Customer Relationship Management, Without Hardware)</td>
+<td style='padding: 10px;'>4800</td>
+<td style='padding: 10px;'>4800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singapore_Data_Hub_Annex_3_CR_wef_2_Sept_2021_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>4800</td>
-<td style='padding: 10px;'>4800</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Version 5.1 - Package (Wellness & Spa with CRM Module)</td>
+<td style='padding: 10px;'>6800</td>
+<td style='padding: 10px;'>6800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singapore_Data_Hub_Annex_3_CR_wef_2_Sept_2021_Part_5.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>6800</td>
-<td style='padding: 10px;'>6800</td>
 </tr>
 </table>
 

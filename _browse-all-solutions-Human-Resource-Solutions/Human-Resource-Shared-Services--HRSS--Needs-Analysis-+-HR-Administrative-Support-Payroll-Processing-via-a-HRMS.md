@@ -24,14 +24,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1680' target='_blank'>A-Class HRSS & Payroll Processing by Sleek Version 1</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution1736' target='_blank'>FeHR HRSS and Payroll Processing Version 8</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2237' target='_blank'>HRSS & Payroll Processing with JustLogin</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2373' target='_blank'>HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero)</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2536' target='_blank'>ALIGN HRSS - PAYROLL OUTSOURCING</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2845' target='_blank'>HR administration with payroll processing via SaaS solutions Version 21-3.1</a><br>
-

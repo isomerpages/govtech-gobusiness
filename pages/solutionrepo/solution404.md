@@ -16,44 +16,44 @@ Frontier e-HR is a user friendly cloud based Human Resource Management System ( 
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier 25</td>
+<td style='padding: 10px;'>5950</td>
+<td style='padding: 10px;'>5950</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5950</td>
-<td style='padding: 10px;'>5950</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier 50</td>
+<td style='padding: 10px;'>8950</td>
+<td style='padding: 10px;'>8950</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>8950</td>
-<td style='padding: 10px;'>8950</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontierPlus 50</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>12320</td>
 <td style='padding: 10px;'>11720</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontierPlus 100</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_4.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>21260</td>
 <td style='padding: 10px;'>19800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontierPlus 200 + Learning</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_5.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>29440</td>
 <td style='padding: 10px;'>27200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

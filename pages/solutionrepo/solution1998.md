@@ -15,30 +15,30 @@ Armfort Visitor Management System is an integrated solution that will assist bus
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Essential)</td>
+<td style='padding: 10px;'>3250</td>
+<td style='padding: 10px;'>3250</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3250</td>
-<td style='padding: 10px;'>3250</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Software)</td>
+<td style='padding: 10px;'>2800</td>
+<td style='padding: 10px;'>2800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>2800</td>
-<td style='padding: 10px;'>2800</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Access)</td>
+<td style='padding: 10px;'>5200</td>
+<td style='padding: 10px;'>5200</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5200</td>
-<td style='padding: 10px;'>5200</td>
 </tr>
 </table>
 

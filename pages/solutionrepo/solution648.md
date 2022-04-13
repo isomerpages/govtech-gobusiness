@@ -16,30 +16,30 @@ NMTODOO is a comprehensive, integrated, cloud-based CRM, Sales and Accounting Ma
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NMTODOO - ERP  - Package Basic</td>
+<td style='padding: 10px;'>20000</td>
+<td style='padding: 10px;'>20000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNeuMediaAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>20000</td>
-<td style='padding: 10px;'>20000</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NMTODOO - ERP  - Package Standard</td>
+<td style='padding: 10px;'>24900</td>
+<td style='padding: 10px;'>24900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNeuMediaAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>24900</td>
-<td style='padding: 10px;'>24900</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NMTODOO - ERP  - Package Premium</td>
+<td style='padding: 10px;'>30000</td>
+<td style='padding: 10px;'>30000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNeuMediaAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>30000</td>
-<td style='padding: 10px;'>30000</td>
 </tr>
 </table>
 

@@ -15,37 +15,37 @@ Netiquette Software is a complete cloud business solution that comprises Account
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package A (Saas for 5 Users)</td>
+<td style='padding: 10px;'>4340</td>
+<td style='padding: 10px;'>4340</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>4340</td>
-<td style='padding: 10px;'>4340</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package B (Saas for 10 Users)</td>
+<td style='padding: 10px;'>5540</td>
+<td style='padding: 10px;'>5540</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5540</td>
-<td style='padding: 10px;'>5540</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package C (Saas for 15 Users)</td>
+<td style='padding: 10px;'>6340</td>
+<td style='padding: 10px;'>6340</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>6340</td>
-<td style='padding: 10px;'>6340</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package D (Saas for 25 Users)</td>
+<td style='padding: 10px;'>7240</td>
+<td style='padding: 10px;'>7240</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>7240</td>
-<td style='padding: 10px;'>7240</td>
 </tr>
 </table>
 

@@ -16,37 +16,37 @@ With this all-rounded Firewall Network Perimeter Protection, a proper firewall c
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed Firewall - Fortinet  - FortiGate-60F 24x7 - 1 Year</td>
+<td style='padding: 10px;'>4264.7</td>
+<td style='padding: 10px;'>4264.7</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Adventus_Annex_3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>4264.7</td>
-<td style='padding: 10px;'>4264.7</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed Firewall - Fortinet  - FortiGate-80E 24x7 - 1 Year</td>
+<td style='padding: 10px;'>4822</td>
+<td style='padding: 10px;'>4822</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Adventus_Annex_3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>4822</td>
-<td style='padding: 10px;'>4822</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed Firewall - Fortinet  - FortiGate-100E 24x7 - 1 Year</td>
+<td style='padding: 10px;'>6638.55</td>
+<td style='padding: 10px;'>6638.55</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Adventus_Annex_3_CR_wef_14_Jan_2021_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>6638.55</td>
-<td style='padding: 10px;'>6638.55</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed Firewall - Fortinet  - FortiGate-100F 24x7 - 1 Year</td>
+<td style='padding: 10px;'>8092.2</td>
+<td style='padding: 10px;'>8092.2</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Adventus_Annex_3_CR_wef_14_Jan_2021_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>8092.2</td>
-<td style='padding: 10px;'>8092.2</td>
 </tr>
 </table>
 

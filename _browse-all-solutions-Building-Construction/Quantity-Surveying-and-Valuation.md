@@ -16,6 +16,4 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution436' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2288' target='_blank'>INNOCOM - ASSEMBLE</a><br>
-

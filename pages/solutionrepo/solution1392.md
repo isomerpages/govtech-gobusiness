@@ -15,37 +15,37 @@ Artemis is the simple, cost-effective one-stop automation of a complex regulator
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Artemis-100 searches for 1 year</td>
+<td style='padding: 10px;'>1788</td>
+<td style='padding: 10px;'>1788</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>1788</td>
-<td style='padding: 10px;'>1788</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Artemis-500 searches for 1 year</td>
+<td style='padding: 10px;'>2488</td>
+<td style='padding: 10px;'>2488</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>2488</td>
-<td style='padding: 10px;'>2488</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Artemis-1000 searches for 1 year</td>
+<td style='padding: 10px;'>3288</td>
+<td style='padding: 10px;'>3288</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3288</td>
-<td style='padding: 10px;'>3288</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Artemis-3000 searches for 1 year</td>
+<td style='padding: 10px;'>3988</td>
+<td style='padding: 10px;'>3988</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3988</td>
-<td style='padding: 10px;'>3988</td>
 </tr>
 </table>
 

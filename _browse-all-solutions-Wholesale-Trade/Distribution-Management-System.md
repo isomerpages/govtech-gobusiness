@@ -24,4 +24,3 @@ When adopting the solutions under this sub-category, you might wish to think abo
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution945' target='_blank'>VersaFleet Version 6-W</a><br>
-

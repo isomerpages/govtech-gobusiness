@@ -15,30 +15,30 @@ Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabil
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central (NAV) - Package A (Ready To Go: 3 Users)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_1.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>$11,628.00</td>
 <td style='padding: 10px;'>$10728.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central (NAV) - Package B (Level Up: 5 Users)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_2.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>$19,380.00</td>
 <td style='padding: 10px;'>$16,980.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central (NAV) - Package C (Premium: 10 Users with Peppol)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>$37,335.00</td>
 <td style='padding: 10px;'>$29,235.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

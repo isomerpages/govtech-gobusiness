@@ -15,30 +15,30 @@ Eber Smart Member Solution is a smart member system that comes with comprehensiv
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eber Smart Members Solution - Basic package</td>
+<td style='padding: 10px;'>1428</td>
+<td style='padding: 10px;'>1428</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Eber_Smart_20210502_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>1428</td>
-<td style='padding: 10px;'>1428</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eber Smart Members Solution - Basic Package with Professional Services</td>
+<td style='padding: 10px;'>2228</td>
+<td style='padding: 10px;'>2228</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Eber_Smart_20210502_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>2228</td>
-<td style='padding: 10px;'>2228</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eber Smart Members Solution - Premium Package with Professional Services</td>
+<td style='padding: 10px;'>5600</td>
+<td style='padding: 10px;'>5600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Eber_Smart_20210502_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5600</td>
-<td style='padding: 10px;'>5600</td>
 </tr>
 </table>
 

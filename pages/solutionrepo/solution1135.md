@@ -15,30 +15,30 @@ Visual Optical RMS is a retail management system specifically designed for an op
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Visual Optical Retail Management System Version 8 Software - Package (Business Starter)</td>
+<td style='padding: 10px;'>4500</td>
+<td style='padding: 10px;'>4500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>4500</td>
-<td style='padding: 10px;'>4500</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Visual Optical Retail Management System Version 8 Software - Package (Business Pro)</td>
+<td style='padding: 10px;'>7800</td>
+<td style='padding: 10px;'>7800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>7800</td>
-<td style='padding: 10px;'>7800</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Visual Optical Retail Management System Version 8 Software - Package (Business Enterprise)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>9200</td>
 <td style='padding: 10px;'>8900</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

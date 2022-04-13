@@ -15,44 +15,44 @@ QuickHR eScheduling offers cutting-edge cloud-based Automated Scheduling & Workf
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(eScheduling) QuickHR - Cloud eScheduling - Essential 25</td>
+<td style='padding: 10px;'>3500</td>
+<td style='padding: 10px;'>3500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3500</td>
-<td style='padding: 10px;'>3500</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(eScheduling) QuickHR - Cloud eScheduling - Enhanced 100</td>
+<td style='padding: 10px;'>10400</td>
+<td style='padding: 10px;'>10400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>10400</td>
-<td style='padding: 10px;'>10400</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(eScheduling) QuickHR - Cloud eScheduling - Enhanced 175</td>
+<td style='padding: 10px;'>16700</td>
+<td style='padding: 10px;'>16700</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>16700</td>
-<td style='padding: 10px;'>16700</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(eScheduling) QuickHR - Cloud eScheduling  - Enterprise 250</td>
+<td style='padding: 10px;'>23000</td>
+<td style='padding: 10px;'>23000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>23000</td>
-<td style='padding: 10px;'>23000</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(eScheduling) QuickHR - Cloud eScheduling  - Enterprise 300</td>
+<td style='padding: 10px;'>27200</td>
+<td style='padding: 10px;'>27200</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>27200</td>
-<td style='padding: 10px;'>27200</td>
 </tr>
 </table>
 

@@ -17,44 +17,44 @@ Million Accounting supports Multi-Company and Multi-Currency and has four module
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Accounting and Stock Control System Version 3 - Package A (1 User)</td>
+<td style='padding: 10px;'>3969</td>
+<td style='padding: 10px;'>3969</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedRockbellMillionStockAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3969</td>
-<td style='padding: 10px;'>3969</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Accounting and Stock Control System Version 3 - Package B (2 Users)</td>
+<td style='padding: 10px;'>4969</td>
+<td style='padding: 10px;'>4969</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedRockbellMillionStockAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>4969</td>
-<td style='padding: 10px;'>4969</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Accounting and Stock Control System Version 3 - Package C (3 Users)</td>
+<td style='padding: 10px;'>5969</td>
+<td style='padding: 10px;'>5969</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedRockbellMillionStockAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5969</td>
-<td style='padding: 10px;'>5969</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Accounting and Stock Control System Version 3 - Package D (5 Users)</td>
+<td style='padding: 10px;'>7269</td>
+<td style='padding: 10px;'>7269</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedRockbellMillionStockAnnex3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>7269</td>
-<td style='padding: 10px;'>7269</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Accounting and Stock Control System Version 3 - Package E (5 Users with Mobile App access)</td>
+<td style='padding: 10px;'>7549</td>
+<td style='padding: 10px;'>7549</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedRockbellMillionStockAnnex3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>7549</td>
-<td style='padding: 10px;'>7549</td>
 </tr>
 </table>
 

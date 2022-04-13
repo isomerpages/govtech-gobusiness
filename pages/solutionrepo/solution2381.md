@@ -23,37 +23,37 @@ Sophos XG Cybersecurity Solution that provides :
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XG 116</td>
+<td style='padding: 10px;'>1670</td>
+<td style='padding: 10px;'>1670</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>1670</td>
-<td style='padding: 10px;'>1670</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XG 136</td>
+<td style='padding: 10px;'>2675</td>
+<td style='padding: 10px;'>2675</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>2675</td>
-<td style='padding: 10px;'>2675</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XG 2100</td>
+<td style='padding: 10px;'>3862</td>
+<td style='padding: 10px;'>3862</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3862</td>
-<td style='padding: 10px;'>3862</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XG 2300</td>
+<td style='padding: 10px;'>5168</td>
+<td style='padding: 10px;'>5168</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5168</td>
-<td style='padding: 10px;'>5168</td>
 </tr>
 </table>
 

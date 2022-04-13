@@ -15,44 +15,44 @@ Sophos XG Firewall brings a fresh new approach to the way you manage your firewa
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netpluz Managed Firewall  - Sophos XGS - Sophos XGS 126 Sophos Standard Protection - 12 Months</td>
+<td style='padding: 10px;'>1539</td>
+<td style='padding: 10px;'>1539</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Netpluz_Asia_Annex_3_CR_wef_28_Oct_21_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>1539</td>
-<td style='padding: 10px;'>1539</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netpluz Managed Firewall  - Sophos XGS - Sophos XGS 136 Sophos Standard Protection - 12 Months</td>
+<td style='padding: 10px;'>2126</td>
+<td style='padding: 10px;'>2126</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Netpluz_Asia_Annex_3_CR_wef_28_Oct_21_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>2126</td>
-<td style='padding: 10px;'>2126</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netpluz Managed Firewall  - Sophos XGS - Sophos XGS 2100 Sophos Standard Protection - 12 Months</td>
+<td style='padding: 10px;'>3194</td>
+<td style='padding: 10px;'>3194</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Netpluz_Asia_Annex_3_CR_wef_28_Oct_21_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3194</td>
-<td style='padding: 10px;'>3194</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netpluz Managed Firewall  - Sophos XGS - Sophos XGS 2300 Sophos Standard Protection - 12 Months</td>
+<td style='padding: 10px;'>4420</td>
+<td style='padding: 10px;'>4420</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Netpluz_Asia_Annex_3_CR_wef_28_Oct_21_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>4420</td>
-<td style='padding: 10px;'>4420</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netpluz Managed Firewall  -  Sophos XGS - Sophos XGS 3100 Sophos Standard Protection - 12 Months</td>
+<td style='padding: 10px;'>7774</td>
+<td style='padding: 10px;'>7774</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Netpluz_Asia_Annex_3_CR_wef_28_Oct_21_Part_5.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>7774</td>
-<td style='padding: 10px;'>7774</td>
 </tr>
 </table>
 

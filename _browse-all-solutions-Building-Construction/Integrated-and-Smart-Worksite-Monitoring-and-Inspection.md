@@ -16,6 +16,4 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution2292' target='_blank'>eBIS Version V1.0</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2617' target='_blank'>AirGo 360- Virtual Sites platform</a><br>
-

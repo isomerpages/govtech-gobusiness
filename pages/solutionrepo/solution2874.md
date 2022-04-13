@@ -15,44 +15,44 @@ SAP Business One application offers an affordable way to manage the entire busin
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 3 Perpetual Starter Users SQL on Premise with Remote Desktop License</td>
+<td style='padding: 10px;'>17985</td>
+<td style='padding: 10px;'>17985</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>17985</td>
-<td style='padding: 10px;'>17985</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 5 Perpetual Starter Users SQL on Premise with Remote Desktop License</td>
+<td style='padding: 10px;'>23135</td>
+<td style='padding: 10px;'>23135</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>23135</td>
-<td style='padding: 10px;'>23135</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 5 Perpetual Pro Users SQL on Premise with Remote Desktop License</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>39160</td>
 <td style='padding: 10px;'>34800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 3 Perpetual Pro Users Hana on Cloud</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>36180</td>
 <td style='padding: 10px;'>34560</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 5 Perpetual Pro Users Hana on Cloud</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>48660</td>
 <td style='padding: 10px;'>34800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -15,30 +15,30 @@ Going digital is not only about moving to cloud-based accounting software but al
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Premium Package</td>
+<td style='padding: 10px;'>7928</td>
+<td style='padding: 10px;'>7928</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSingaporeCorporateServices_Annex_3_CRwef29April2021_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>7928</td>
-<td style='padding: 10px;'>7928</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - Setup + Training Standard Package</td>
+<td style='padding: 10px;'>3741</td>
+<td style='padding: 10px;'>3741</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3741</td>
-<td style='padding: 10px;'>3741</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Standard Package</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>5341</td>
 <td style='padding: 10px;'>4541</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

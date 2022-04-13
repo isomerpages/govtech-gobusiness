@@ -15,44 +15,44 @@ MyRetailer Android POS is a powerful all in one point-of-sale solution with buil
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyRetailer Android POS - Package A Standalone</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>1800</td>
 <td style='padding: 10px;'>1590</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyRetailer Android POS - Package B with Dashboard</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>2800</td>
 <td style='padding: 10px;'>2590</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyRetailer Android POS - Package C with Unified Payments</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>2360</td>
 <td style='padding: 10px;'>2150</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyRetailer Android POS - Package D with Dashboard & Unified Payments</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>3160</td>
 <td style='padding: 10px;'>2950</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyRetailer Android POS - Package E with Unified Payments & Web Store</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>3860</td>
 <td style='padding: 10px;'>3650</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

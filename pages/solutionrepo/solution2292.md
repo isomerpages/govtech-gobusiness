@@ -15,37 +15,37 @@ It's a powerful Mobile Application designed for Building and Construction indust
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eBIS Version V1.0-eBIS (Basic Package -1 Project)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>30100</td>
 <td style='padding: 10px;'>19660</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eBIS Version V1.0-eBIS (Intermediate Package -2 Projects)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>42700</td>
 <td style='padding: 10px;'>37820</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eBIS Version V1.0-eBIS (Advanced Package -3 Projects)</td>
+<td style='padding: 10px;'>52900</td>
+<td style='padding: 10px;'>52900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>52900</td>
-<td style='padding: 10px;'>52900</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eBIS Version V1.0- 	eBIS (Super Advanced Package -4 Projects)</td>
+<td style='padding: 10px;'>61900</td>
+<td style='padding: 10px;'>61900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>61900</td>
-<td style='padding: 10px;'>61900</td>
 </tr>
 </table>
 

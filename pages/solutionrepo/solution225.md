@@ -15,30 +15,30 @@ Beautec system aims to simplify the tedious workflow processes of the highly com
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Beautec Version 3 centralized version - Package (Standard without HW)</td>
+<td style='padding: 10px;'>$5500.00</td>
+<td style='padding: 10px;'>$5500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Beautec_Annex_3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>$5500.00</td>
-<td style='padding: 10px;'>$5500.00</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Beautec Version 3 centralized version - Package (POS Set A100)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Beautec_Annex_3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>7600.00</td>
 <td style='padding: 10px;'>$6700.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Beautec_Annex_3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Beautec Version 3 centralized version - Package (POS Set B100)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Beautec_Annex_3_CR_wef_14_Jan_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>8000.00</td>
 <td style='padding: 10px;'>$6700.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Beautec_Annex_3_CR_wef_14_Jan_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

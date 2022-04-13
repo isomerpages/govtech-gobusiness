@@ -24,6 +24,4 @@ When adopting the solutions under this sub-category, you might wish to think abo
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1816' target='_blank'>Redoc Version 1.0</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2185' target='_blank'>RealtyPromote Version 3.2</a><br>
-

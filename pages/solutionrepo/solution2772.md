@@ -17,44 +17,44 @@ Beaufort's range of 5 packages, allows a wide selection.
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Beaufort-Xero Digital Solutions - Package A - Subscription Only</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>780</td>
 <td style='padding: 10px;'>725</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Beaufort-Xero Digital Solutions - Package B - Subscription + Set Up</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>1580</td>
 <td style='padding: 10px;'>1525</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Beaufort-Xero Digital Solutions - Package C - Subscription + Set Up + Training (B)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>2452</td>
 <td style='padding: 10px;'>2392.2</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Beaufort-Xero Digital Solutions - Package D - Subscription + Set Up + Training (B,I) + Custom + Data (Opening)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>6052</td>
 <td style='padding: 10px;'>5992.2</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Beaufort-Xero Digital Solutions - Package E - Subscription + Set Up + Training (B,I,A) + Custom + Data (Opening & 1-Yr)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_67.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>9852</td>
 <td style='padding: 10px;'>9792.2</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_67.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

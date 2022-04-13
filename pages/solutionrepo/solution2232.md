@@ -15,44 +15,44 @@ Tisch Global Corporate Advisory is offering A-Start , a seamless cloud accountin
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Lite Package</td>
+<td style='padding: 10px;'>1480</td>
+<td style='padding: 10px;'>1480</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>1480</td>
-<td style='padding: 10px;'>1480</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Standard Package</td>
+<td style='padding: 10px;'>2980</td>
+<td style='padding: 10px;'>2980</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>2980</td>
-<td style='padding: 10px;'>2980</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Medium Package</td>
+<td style='padding: 10px;'>3760</td>
+<td style='padding: 10px;'>3760</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3760</td>
-<td style='padding: 10px;'>3760</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Large Package</td>
+<td style='padding: 10px;'>6760</td>
+<td style='padding: 10px;'>6760</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>6760</td>
-<td style='padding: 10px;'>6760</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Extra Large Package</td>
+<td style='padding: 10px;'>7260</td>
+<td style='padding: 10px;'>7260</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_5_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>7260</td>
-<td style='padding: 10px;'>7260</td>
 </tr>
 </table>
 

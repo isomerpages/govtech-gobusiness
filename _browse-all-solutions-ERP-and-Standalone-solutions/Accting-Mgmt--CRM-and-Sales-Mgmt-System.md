@@ -16,6 +16,4 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution490' target='_blank'>SAP Business One 9.3 Package</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution648' target='_blank'>NMTODOO - ERP</a><br>
-

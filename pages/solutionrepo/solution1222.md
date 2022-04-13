@@ -17,44 +17,44 @@ With the advancement of technology, Edgeworks Solutions is able to now use the b
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Equip Wholesale Solutions Version 3 - Package (Basic)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>6158</td>
 <td style='padding: 10px;'>5858</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>8158</td>
 <td style='padding: 10px;'>7858</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module) - PEPPOL Ready</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>9398</td>
 <td style='padding: 10px;'>9098</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module) - eCommerce Integration</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_4.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>11158</td>
 <td style='padding: 10px;'>10858</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module) - 2 License Bundle</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_5.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>13936</td>
 <td style='padding: 10px;'>13336</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -15,44 +15,44 @@ EQCOMS's Managed Security Service deliver operationally simple, proactive preven
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME micro</td>
+<td style='padding: 10px;'>2800</td>
+<td style='padding: 10px;'>2800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>2800</td>
-<td style='padding: 10px;'>2800</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME mini</td>
+<td style='padding: 10px;'>5900</td>
+<td style='padding: 10px;'>5900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5900</td>
-<td style='padding: 10px;'>5900</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (S)</td>
+<td style='padding: 10px;'>21360</td>
+<td style='padding: 10px;'>21360</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>21360</td>
-<td style='padding: 10px;'>21360</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (M)</td>
+<td style='padding: 10px;'>33680</td>
+<td style='padding: 10px;'>33680</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>33680</td>
-<td style='padding: 10px;'>33680</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (L)</td>
+<td style='padding: 10px;'>39960</td>
+<td style='padding: 10px;'>39960</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>39960</td>
-<td style='padding: 10px;'>39960</td>
 </tr>
 </table>
 

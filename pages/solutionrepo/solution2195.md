@@ -15,23 +15,23 @@ WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digi
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyEcom Version 1.3 - Express</td>
+<td style='padding: 10px;'>6300</td>
+<td style='padding: 10px;'>6300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>6300</td>
-<td style='padding: 10px;'>6300</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyEcom Version 1.3 - Premium</td>
+<td style='padding: 10px;'>9000</td>
+<td style='padding: 10px;'>9000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>9000</td>
-<td style='padding: 10px;'>9000</td>
 </tr>
 </table>
 

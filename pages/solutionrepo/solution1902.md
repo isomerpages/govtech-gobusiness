@@ -15,44 +15,44 @@ Auk Industries is a disruptive end-to-end technology provider for Industrial IoT
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Starter Kit (Business) - 12mths</td>
+<td style='padding: 10px;'>19800</td>
+<td style='padding: 10px;'>19800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Auk_Industries_Annex_3__CR_wef_30_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>19800</td>
-<td style='padding: 10px;'>19800</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Starter Kit (Professional) - 12mths</td>
+<td style='padding: 10px;'>21800</td>
+<td style='padding: 10px;'>21800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Auk_Industries_Annex_3__CR_wef_30_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>21800</td>
-<td style='padding: 10px;'>21800</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Pilot Kit (Business) - 12mths</td>
+<td style='padding: 10px;'>28800</td>
+<td style='padding: 10px;'>28800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Auk_Industries_Annex_3__CR_wef_30_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>28800</td>
-<td style='padding: 10px;'>28800</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Standard Kit (Business) - 12mths</td>
+<td style='padding: 10px;'>41800</td>
+<td style='padding: 10px;'>41800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Auk_Industries_Annex_3__CR_wef_30_Sept_2021_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>41800</td>
-<td style='padding: 10px;'>41800</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Scale-up Kit (Business) - 12mths</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Auk_Industries_Annex_3__CR_wef_30_Sept_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>74700</td>
 <td style='padding: 10px;'>57500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Auk_Industries_Annex_3__CR_wef_30_Sept_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

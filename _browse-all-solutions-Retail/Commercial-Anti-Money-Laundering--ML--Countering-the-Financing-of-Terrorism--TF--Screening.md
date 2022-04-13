@@ -24,6 +24,4 @@ When adopting the solutions under this sub-category, you might wish to think abo
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1309' target='_blank'>SentroWeb </a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution1392' target='_blank'>Artemis</a><br>
-

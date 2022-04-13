@@ -15,30 +15,30 @@ ZETTAPPS is an integrated Accounting, Order Processing and Multi Currencies Mana
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ZettApps Finance & Order Processing Version 4.2 - Package A - SME</td>
+<td style='padding: 10px;'>13800</td>
+<td style='padding: 10px;'>13800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>13800</td>
-<td style='padding: 10px;'>13800</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ZettApps Finance & Order Processing Version 4.2 - Package B - Premium</td>
+<td style='padding: 10px;'>16800</td>
+<td style='padding: 10px;'>16800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>16800</td>
-<td style='padding: 10px;'>16800</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ZettApps Finance & Order Processing Version 4.2 - Package C - Enterprise</td>
+<td style='padding: 10px;'>19800</td>
+<td style='padding: 10px;'>19800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>19800</td>
-<td style='padding: 10px;'>19800</td>
 </tr>
 </table>
 

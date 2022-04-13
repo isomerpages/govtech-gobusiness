@@ -15,23 +15,23 @@ Athena E-store is an e-commerce solution by Cleverly that makes having an online
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E-store Solution-Athena E Store Lite Version</td>
+<td style='padding: 10px;'>8050</td>
+<td style='padding: 10px;'>8050</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>8050</td>
-<td style='padding: 10px;'>8050</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E-store Solution-Athena E Store Solution</td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'>10000</td>
 </tr>
 </table>
 

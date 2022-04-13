@@ -18,44 +18,44 @@ The system is also able to add in a variety of Telematics smart sensors to meet 
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 2 Vehicles</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>6458</td>
 <td style='padding: 10px;'>4558</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 4 Vehicles</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>12266</td>
 <td style='padding: 10px;'>8666</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 6 Vehicles</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>18074</td>
 <td style='padding: 10px;'>12774</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 8 Vehicles</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>23882</td>
 <td style='padding: 10px;'>16882</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 10 Vehicles</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>29190</td>
 <td style='padding: 10px;'>20490</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

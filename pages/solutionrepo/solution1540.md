@@ -15,16 +15,16 @@ Microsoft Dynamics 365 Business Central is an easily adaptable enterprise resour
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>D365 Business Central (Microsoft) - Package A (5 Subscription Licences)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex 3_CR wef_26_August_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>31478.4</td>
 <td style='padding: 10px;'>27478.4</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex 3_CR wef_26_August_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

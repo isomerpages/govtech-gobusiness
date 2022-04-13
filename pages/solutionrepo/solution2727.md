@@ -15,30 +15,30 @@ MetroERP is a cloud Inventory and Sales Management solution which makes it easie
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (5 Users, PEPPOL-Included)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Metro_ERP_20210373_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>15400</td>
 <td style='padding: 10px;'>12856</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Metro_ERP_20210373_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (15 Users, PEPPOL-Included)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Metro_ERP_20210373_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>16900</td>
 <td style='padding: 10px;'>12856</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Metro_ERP_20210373_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (50 Users & PEPPOL-Included)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Metro_ERP_20210373_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>18400</td>
 <td style='padding: 10px;'>12856</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Metro_ERP_20210373_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

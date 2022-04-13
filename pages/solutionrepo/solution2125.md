@@ -15,16 +15,16 @@ A conveyor system that automates farming processes such as production, feeding, 
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Conveyor System for transporting materials</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
 </tr>
 </table>
 

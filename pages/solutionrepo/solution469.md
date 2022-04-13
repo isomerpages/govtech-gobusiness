@@ -15,23 +15,23 @@ Qornerstone Estate is an off-the-shelf solution to digitalize Property & Managem
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qornerstone Estate Management System Version 3.50 - Qornerstone Subscription Package for Building Owners</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'>44400</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qornerstone Estate Management System Version 3.50 - Qornerstone Subscription Packages for Property Management Companies (MA)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_12.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'>13500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

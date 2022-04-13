@@ -15,16 +15,16 @@ Accurate infrared temperature monitoring and labelling devices that improves pro
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Temperature montoring/ labelling device</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
 </tr>
 </table>
 

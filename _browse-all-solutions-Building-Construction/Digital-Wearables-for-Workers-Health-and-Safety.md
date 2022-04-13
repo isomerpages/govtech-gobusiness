@@ -16,6 +16,4 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution2404' target='_blank'>NovaVision Remote Assist Version 1.0</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2474' target='_blank'>Smart Glasses - InnoGlas</a><br>
-

@@ -15,44 +15,44 @@ Flavor CRM is a robust solution for keeping tracking of leads, conversion and ma
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flavor Customer Relationship Management System Version 1 - Basic Mode</td>
+<td style='padding: 10px;'>9200</td>
+<td style='padding: 10px;'>9200</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>9200</td>
-<td style='padding: 10px;'>9200</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flavor Customer Relationship Management System Version 1 - Advanced Mode 1</td>
+<td style='padding: 10px;'>10400</td>
+<td style='padding: 10px;'>10400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>10400</td>
-<td style='padding: 10px;'>10400</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flavor Customer Relationship Management System Version 1 - Advanced Mode 2</td>
+<td style='padding: 10px;'>10400</td>
+<td style='padding: 10px;'>10400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>10400</td>
-<td style='padding: 10px;'>10400</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flavor Customer Relationship Management System Version 1 - Advanced Mode 3</td>
+<td style='padding: 10px;'>10600</td>
+<td style='padding: 10px;'>10600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>10600</td>
-<td style='padding: 10px;'>10600</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flavor Customer Relationship Management System Version 1 - Expert Mode 1</td>
+<td style='padding: 10px;'>10600</td>
+<td style='padding: 10px;'>10600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>10600</td>
-<td style='padding: 10px;'>10600</td>
 </tr>
 </table>
 

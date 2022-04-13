@@ -18,30 +18,30 @@ MuRho Inventory Management System includes:
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management System - MuRho Inventory Management System - Perpetual license on cloud with hardware starter pack</td>
+<td style='padding: 10px;'>5000</td>
+<td style='padding: 10px;'>5000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MuRho_Inventory_20200003_Annex_3_20200625142512_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5000</td>
-<td style='padding: 10px;'>5000</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management System - MuRho Inventory Management System - SaaS with hardware starter pack</td>
+<td style='padding: 10px;'>5000</td>
+<td style='padding: 10px;'>5000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MuRho_Inventory_20200003_Annex_3_20200625142512_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5000</td>
-<td style='padding: 10px;'>5000</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management System - MuRho Inventory Management System - Perpetual license on cloud software only starter pack</td>
+<td style='padding: 10px;'>5000</td>
+<td style='padding: 10px;'>5000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MuRho_Inventory_20200003_Annex_3_20200625142512_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5000</td>
-<td style='padding: 10px;'>5000</td>
 </tr>
 </table>
 

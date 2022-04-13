@@ -24,6 +24,4 @@ When adopting the solutions under this sub-category, you might wish to think abo
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1890' target='_blank'>arc.ops - Manufacturing Quality Management</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2697' target='_blank'>Q-DAS - Smart Quality Software</a><br>
-

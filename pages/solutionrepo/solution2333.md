@@ -15,23 +15,23 @@ FITPRISE Project Management System is a flexible business system for SMEs where 
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Project Management System - PCM - Package 1 (5 users)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>27500</td>
 <td style='padding: 10px;'>24600</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Project Management System - PCM - Package 2 (10 users)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>32000</td>
 <td style='padding: 10px;'>29100</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

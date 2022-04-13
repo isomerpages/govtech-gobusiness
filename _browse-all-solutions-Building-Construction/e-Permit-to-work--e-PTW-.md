@@ -16,8 +16,5 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution274' target='_blank'>InSight QSE</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution458' target='_blank'>Hubble Safety Management System</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution1151' target='_blank'>Novade</a><br>
-

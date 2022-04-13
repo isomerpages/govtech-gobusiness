@@ -15,30 +15,30 @@ SkipQoo provides Digital Ordering and Delivery System for F&B which has fully in
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (Takeaway, Delivery & Reservation Booking)</td>
+<td style='padding: 10px;'>5800</td>
+<td style='padding: 10px;'>5800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5800</td>
-<td style='padding: 10px;'>5800</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (All-in-one)</td>
+<td style='padding: 10px;'>6800</td>
+<td style='padding: 10px;'>6800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>6800</td>
-<td style='padding: 10px;'>6800</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SKIP QUEUE (F&B) - DIGITAL ORDERING - With Hardware (All-in-one)</td>
+<td style='padding: 10px;'>7600</td>
+<td style='padding: 10px;'>7600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>7600</td>
-<td style='padding: 10px;'>7600</td>
 </tr>
 </table>
 

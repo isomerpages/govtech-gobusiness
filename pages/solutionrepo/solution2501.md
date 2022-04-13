@@ -15,30 +15,30 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative eShop - Creative eShop Package Lite</td>
+<td style='padding: 10px;'>9800</td>
+<td style='padding: 10px;'>9800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>9800</td>
-<td style='padding: 10px;'>9800</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative eShop - Creative eShop Package Standard</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>11800</td>
 <td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative eShop - Creative eShop Package Premium</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>13800</td>
 <td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -15,23 +15,23 @@ Synergix E1 Human Resource Management System helps your company to properly trac
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SYNERGIX E1 Version TH6 - Package B : HRMS Standard with Staff Appraisal and Training</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SynergixTechnologies20200119_Annex_3_20200625151643.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>42770</td>
 <td style='padding: 10px;'>27200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SynergixTechnologies20200119_Annex_3_20200625151643.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SYNERGIX E1 Version TH6 - Package C : HRMS Standard with Staff Appraisal , Training and Recruitment</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'>31200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

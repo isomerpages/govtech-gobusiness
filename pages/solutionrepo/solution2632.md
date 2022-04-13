@@ -18,44 +18,44 @@ Support Time : 9am-6pm
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle10</td>
+<td style='padding: 10px;'>1220</td>
+<td style='padding: 10px;'>1220</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>1220</td>
-<td style='padding: 10px;'>1220</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle25</td>
+<td style='padding: 10px;'>3050</td>
+<td style='padding: 10px;'>3050</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3050</td>
-<td style='padding: 10px;'>3050</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle501</td>
+<td style='padding: 10px;'>6590</td>
+<td style='padding: 10px;'>6590</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>6590</td>
-<td style='padding: 10px;'>6590</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle752</td>
+<td style='padding: 10px;'>10130</td>
+<td style='padding: 10px;'>10130</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>10130</td>
-<td style='padding: 10px;'>10130</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle1003</td>
+<td style='padding: 10px;'>13670</td>
+<td style='padding: 10px;'>13670</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>13670</td>
-<td style='padding: 10px;'>13670</td>
 </tr>
 </table>
 

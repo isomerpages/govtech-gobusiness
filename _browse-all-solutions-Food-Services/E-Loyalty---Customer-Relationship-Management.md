@@ -16,4 +16,3 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution1261' target='_blank'>Aptsys Customer Relation Management System (CRM/Loyalty Programme)</a><br>
-

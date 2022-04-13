@@ -15,16 +15,16 @@ Shopmatic is a SaaS solution that offers an integrated business solutions for SM
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopmatic - Shopmatic Pro Concierge</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shopmatic_Modified_Annex_3_wef_1_march_2021.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>3000</td>
 <td style='padding: 10px;'>2250</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shopmatic_Modified_Annex_3_wef_1_march_2021.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

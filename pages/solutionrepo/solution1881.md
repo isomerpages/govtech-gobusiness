@@ -15,37 +15,37 @@ Gabkotech recognises the need for the digital transformation of the Facilities M
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP FM - FM (Mobile Inspection) Basic</td>
+<td style='padding: 10px;'>28600</td>
+<td style='padding: 10px;'>28600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>28600</td>
-<td style='padding: 10px;'>28600</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP FM - FM (Mobile Inspection) Standard</td>
+<td style='padding: 10px;'>36100</td>
+<td style='padding: 10px;'>36100</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>36100</td>
-<td style='padding: 10px;'>36100</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP FM - FM (Mobile Inspection) Full</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>44100</td>
 <td style='padding: 10px;'>42500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FacilityBot - FacilityBot Multiple Site Plan (100 Accounts)</td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>37500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedFacilityBotAnnex3CRwef10June2021_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>37500</td>
-<td style='padding: 10px;'>37500</td>
 </tr>
 </table>
 

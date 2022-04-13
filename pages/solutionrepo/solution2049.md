@@ -16,44 +16,44 @@ With this all-rounded EndPoint Protection, threats are disrupted, contained, and
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (10 Units)</td>
+<td style='padding: 10px;'>1370</td>
+<td style='padding: 10px;'>1370</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>1370</td>
-<td style='padding: 10px;'>1370</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (25 Units)</td>
+<td style='padding: 10px;'>3175</td>
+<td style='padding: 10px;'>3175</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3175</td>
-<td style='padding: 10px;'>3175</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (50 Units)</td>
+<td style='padding: 10px;'>5850</td>
+<td style='padding: 10px;'>5850</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5850</td>
-<td style='padding: 10px;'>5850</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (100 Units)</td>
+<td style='padding: 10px;'>10700</td>
+<td style='padding: 10px;'>10700</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>10700</td>
-<td style='padding: 10px;'>10700</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (150 Units)</td>
+<td style='padding: 10px;'>15850</td>
+<td style='padding: 10px;'>15850</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_5.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>15850</td>
-<td style='padding: 10px;'>15850</td>
 </tr>
 </table>
 

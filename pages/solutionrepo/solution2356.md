@@ -15,37 +15,37 @@ Swipetask is a Workforce & Task-management solution for optimization, productivi
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask PRO - Standard Workforce & Task-Management solution</td>
+<td style='padding: 10px;'>9968</td>
+<td style='padding: 10px;'>9968</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>9968</td>
-<td style='padding: 10px;'>9968</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask PRO - Workforce & Task-Management solution incl. SensorTOILET</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>17196</td>
 <td style='padding: 10px;'>15700</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask Facility-OPS</td>
+<td style='padding: 10px;'>36388</td>
+<td style='padding: 10px;'>36388</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>36388</td>
-<td style='padding: 10px;'>36388</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask Facility-OPS Plus</td>
+<td style='padding: 10px;'>42388</td>
+<td style='padding: 10px;'>42388</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>42388</td>
-<td style='padding: 10px;'>42388</td>
 </tr>
 </table>
 

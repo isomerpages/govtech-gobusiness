@@ -15,44 +15,44 @@ VSS is a comprehensive and user-friendly solution in wireless applications of Gl
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Safety System - GridPlus VSS (2 Vehicle Package)</td>
+<td style='padding: 10px;'>6500</td>
+<td style='padding: 10px;'>6500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>6500</td>
-<td style='padding: 10px;'>6500</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Safety System - GridPlus VSS (4 Vehicle Package)</td>
+<td style='padding: 10px;'>12900</td>
+<td style='padding: 10px;'>12900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>12900</td>
-<td style='padding: 10px;'>12900</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Safety System - GridPlus VSS (6 Vehicle Package)</td>
+<td style='padding: 10px;'>19300</td>
+<td style='padding: 10px;'>19300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>19300</td>
-<td style='padding: 10px;'>19300</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Safety System - GridPlus VSS (8 Vehicle Package)</td>
+<td style='padding: 10px;'>25700</td>
+<td style='padding: 10px;'>25700</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>25700</td>
-<td style='padding: 10px;'>25700</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Safety System - GridPlus VSS (10 Vehicle Package)</td>
+<td style='padding: 10px;'>32100</td>
+<td style='padding: 10px;'>32100</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>32100</td>
-<td style='padding: 10px;'>32100</td>
 </tr>
 </table>
 

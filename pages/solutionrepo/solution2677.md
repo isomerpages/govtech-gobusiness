@@ -15,44 +15,44 @@ Rockbell's HRMS is an all-inclusive human resource management solution that fulf
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - 30 Employees)</td>
+<td style='padding: 10px;'>3599</td>
+<td style='padding: 10px;'>3599</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>3599</td>
-<td style='padding: 10px;'>3599</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - 60 Employees)</td>
+<td style='padding: 10px;'>5399</td>
+<td style='padding: 10px;'>5399</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>5399</td>
-<td style='padding: 10px;'>5399</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - Unlimited Employees)</td>
+<td style='padding: 10px;'>7199</td>
+<td style='padding: 10px;'>7199</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>7199</td>
-<td style='padding: 10px;'>7199</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (3 concurrent users - Unlimited Employees)</td>
+<td style='padding: 10px;'>7999</td>
+<td style='padding: 10px;'>7999</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>7999</td>
-<td style='padding: 10px;'>7999</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (5 concurrent users - Unlimited Employees)</td>
+<td style='padding: 10px;'>8999</td>
+<td style='padding: 10px;'>8999</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>8999</td>
-<td style='padding: 10px;'>8999</td>
 </tr>
 </table>
 

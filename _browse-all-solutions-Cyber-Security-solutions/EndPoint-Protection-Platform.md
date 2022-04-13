@@ -24,26 +24,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution515' target='_blank'>EndPoint Protection Platform</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution762' target='_blank'>SecureAPlus Version 6.x</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution1547' target='_blank'>Sophos EndPoint Protection</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2049' target='_blank'>Adventus Managed EndPoint Protection</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2104' target='_blank'>Sophos Central EndPoint Protection</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2176' target='_blank'>EndPoint Standard</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2264' target='_blank'>TRENDMICRO ENDPOINT PROTECTION</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2491' target='_blank'>Kaspersky Endpoint Security Version 11.6.0</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2496' target='_blank'>Panda Adaptive Defense 360</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2632' target='_blank'>aiCARE Shield Managed Security Version Ver1.0</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2655' target='_blank'>Singtel Endpoint Security</a><br>
-
 <a href='/productivity-solutions-grant/solutionrepo/solution2716' target='_blank'>Eset Protect Entry</a><br>
-

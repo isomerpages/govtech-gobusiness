@@ -20,30 +20,30 @@ Key features:
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 1</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>28400</td>
 <td style='padding: 10px;'>28200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 2</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>34000</td>
 <td style='padding: 10px;'>29000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 3</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>40400</td>
 <td style='padding: 10px;'>33000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

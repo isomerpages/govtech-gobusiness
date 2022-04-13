@@ -15,30 +15,30 @@ MediaOne brings the power of almost a decade's worth of experience servicing tho
 <tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
-<td><b>Solution Details</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying</b></td>
+<td><b>Solution Details</b></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package A (6 months)</td>
+<td style='padding: 10px;'>8888</td>
+<td style='padding: 10px;'>8888</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_123.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>8888</td>
-<td style='padding: 10px;'>8888</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package B (6 months)</td>
+<td style='padding: 10px;'>9988</td>
+<td style='padding: 10px;'>9988</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_456.pdf' target='_blank'>View Details</a></td>
-<td style='padding: 10px;'>9988</td>
-<td style='padding: 10px;'>9988</td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package C (6 months)</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_789.pdf' target='_blank'>View Details</a></td>
 <td style='padding: 10px;'>11888</td>
 <td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_789.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
