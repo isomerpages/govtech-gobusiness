@@ -1,6 +1,6 @@
 ---
 layout: gobusiness-blog-post
-title: 'Four ways to creatively market your brand'
+title: Four ways to creatively market your brand
 permalink: /gobusiness-blog/marketurbrand
 tags: Business Tips & Tricks
 pillar: Business Tips & Tricks
