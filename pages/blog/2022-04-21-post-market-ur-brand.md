@@ -4,7 +4,7 @@ title: Four ways to creatively market your brand
 permalink: /gobusiness-blog/marketurbrand
 tags: Business Tips & Tricks
 pillar: Business Tips & Tricks
-crumbs: business-tips-&-tricks
+crumbs: business-tips-and-tricks
 description: From song jingles to influencer marketing, find out how to create greater brand awareness for your consumers.
 ---
 
