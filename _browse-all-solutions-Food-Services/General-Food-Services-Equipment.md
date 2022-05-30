@@ -4,13 +4,13 @@ permalink: /browse-all-solutions-Food-Services/General-Food-Services-Equipment
 ---
 
 ## General Food Services Equipment
-## Description
+## Overview
 
 **Support Level and Conditions**
 
 Up to 80% for SMEs, N.A. for non-SMEs
 
-Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
+nextPrint
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
 ## Pre-Approved Solutions
@@ -22,7 +22,7 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 <a href='/productivity-solutions-grant/solutionrepo/solution20' target='_blank'>Automated Rice Washer</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution21' target='_blank'>Automated Sushi Making Machine</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution56' target='_blank'>High Speed Oven</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution401' target='_blank'>Combi Oven</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2518' target='_blank'>Automated Deep Fryer</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2519' target='_blank'>Blast Chiller</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2520' target='_blank'>Ozonised Air + Surface Sterilization System</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution402' target='_blank'>Combi Oven</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2519' target='_blank'>Automated Deep Fryer</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2520' target='_blank'>Blast Chiller</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2521' target='_blank'>Ozonised Air + Surface Sterilization System</a><br>

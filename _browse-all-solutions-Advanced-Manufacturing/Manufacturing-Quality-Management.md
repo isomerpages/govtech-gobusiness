@@ -4,13 +4,13 @@ permalink: /browse-all-solutions-Advanced-Manufacturing/Manufacturing-Quality-Ma
 ---
 
 ## Manufacturing Quality Management
-## Description
+## Overview
 
 **Support Level and Conditions**
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
+nextPrint
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
 **Recommended courses**
@@ -23,5 +23,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1890' target='_blank'>arc.ops - Manufacturing Quality Management</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2697' target='_blank'>Q-DAS - Smart Quality Software</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1891' target='_blank'>arc.ops - Manufacturing Quality Management</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2698' target='_blank'>Q-DAS - Smart Quality Software</a><br>

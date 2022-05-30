@@ -4,13 +4,13 @@ permalink: /browse-all-solutions-Wholesale-Trade/Sales-Management
 ---
 
 ## Sales Management
-## Description
+## Overview
 
 **Support Level and Conditions**
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
+nextPrint
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
 **Recommended courses**
@@ -24,8 +24,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution319' target='_blank'>Creative Sales & Order Management</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution535' target='_blank'>KEEPITAL Sales Management Business Solution Version 3</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution605' target='_blank'>MEVO DMS 8.3</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution951' target='_blank'>EZYSALESORDER Version 2.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1420' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2835' target='_blank'>Creative Sales and Order</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution536' target='_blank'>KEEPITAL Sales Management Business Solution Version 3</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution606' target='_blank'>MEVO DMS 8.3</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution952' target='_blank'>EZYSALESORDER Version 2.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1421' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2836' target='_blank'>Creative Sales and Order</a><br>

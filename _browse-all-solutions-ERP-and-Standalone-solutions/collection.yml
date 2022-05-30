@@ -3,11 +3,15 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Accting-Mgmt-and-Sales-Mgmt-System.md
-      - Accting-Mgmt--Inventory-Mgmt-and-Sales-Mgmt-System.md
+      - Accting-Mgmt-and-Sales-Mgmt-System--Part-1-.md
+      - Accting-Mgmt--Inventory-Mgmt-and-Sales-Mgmt-System--Part-1-.md
+      - Accting-Mgmt-and-Sales-Mgmt-System--Part-3-.md
       - CRM.md
       - Accting-Mgmt--CRM--Inventory-Mgmt-and-Sales-Mgmt-System.md
+      - Accting-Mgmt--Inventory-Mgmt-and-Sales-Mgmt-System--Part-3-.md
       - Inventory-Mgmt-and-Sales-Mgmt-System.md
       - CRM-and-Sales-Mgmt-System.md
+      - Accting-Mgmt--Inventory-Mgmt-and-Sales-Mgmt-System--Part-2-.md
       - Accting-Mgmt--CRM-and-Sales-Mgmt-System.md
       - Inventory-Mgmt-System.md
+      - Accting-Mgmt-and-Sales-Mgmt-System--Part-2-.md
