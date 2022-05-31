@@ -58,10 +58,6 @@ Sophos InterceptX Advanced EndPoint Protection is a centralized cloud managed pl
 </tr>
 </table>
 
-## Mode and Schedule of Payment
-
- - Direct Purchase
-
 ## Vendor Information
 
  

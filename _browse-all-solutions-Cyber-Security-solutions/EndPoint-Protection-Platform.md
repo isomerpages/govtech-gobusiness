@@ -34,10 +34,8 @@ It protects your entire business through a layered protection approach, an innov
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution516' target='_blank'>EndPoint Protection Platform</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution763' target='_blank'>SecureAPlus Version 6.x</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1548' target='_blank'>Sophos EndPoint Protection</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1963' target='_blank'>Sophos Endpoint</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution2050' target='_blank'>Adventus Managed EndPoint Protection</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution2105' target='_blank'>Sophos Central EndPoint Protection</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution2177' target='_blank'>EndPoint Standard</a><br>
