@@ -1,10 +1,10 @@
 ---
-title: B2B Marketplace/E-Procurement System
+title: 'B2B Marketplace/E-Procurement System'
 permalink: /browse-all-solutions-Food-Services/B2B-Marketplace-E-Procurement-System
 ---
 
 ## B2B Marketplace/E-Procurement System
-## Description
+## Overview
 
 **Support Level and Conditions**
 
@@ -23,5 +23,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution784' target='_blank'>Ezyprocure Version 2.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2030' target='_blank'>Zeemart</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution785' target='_blank'>Ezyprocure Version 2.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2031' target='_blank'>Zeemart</a><br>

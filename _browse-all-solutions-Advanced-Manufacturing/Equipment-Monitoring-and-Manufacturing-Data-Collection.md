@@ -1,10 +1,10 @@
 ---
-title: Equipment Monitoring and Manufacturing Data Collection
+title: 'Equipment Monitoring and Manufacturing Data Collection'
 permalink: /browse-all-solutions-Advanced-Manufacturing/Equipment-Monitoring-and-Manufacturing-Data-Collection
 ---
 
 ## Equipment Monitoring and Manufacturing Data Collection
-## Description
+## Overview
 
 **Support Level and Conditions**
 
@@ -23,5 +23,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1886' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1902' target='_blank'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1887' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1903' target='_blank'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform</a><br>
