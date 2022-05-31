@@ -1,7 +1,0 @@
-collections:
-  browse-all-solutions-Cyber-Security--Generic-:
-    output: true
-    order:
-      - back-to-all-psg-solutions.md
-      - EndPoint-Protection-Platform.md
-      - Managed-Detection-and-Response.md

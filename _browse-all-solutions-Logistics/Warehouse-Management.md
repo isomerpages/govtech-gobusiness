@@ -4,7 +4,7 @@ permalink: /browse-all-solutions-Logistics/Warehouse-Management
 ---
 
 ## Warehouse Management
-## Description
+## Overview
 
 **Support Level and Conditions**
 
@@ -23,5 +23,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution2346' target='_blank'>Simplr Warehouse Management Version 6</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2688' target='_blank'>Gurusoft Logistics Management System Version 11</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2347' target='_blank'>Simplr Warehouse Management Version 6</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2689' target='_blank'>Gurusoft Logistics Management System Version 11</a><br>
