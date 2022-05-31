@@ -50,7 +50,7 @@ Stendard Solution  is a cloud-based document management system that allows you t
 
 ## Vendor Information
 
- Company Name:YNL 360 Pte Ltd <br>Web URL: www.stendard.io/features <br>Contact Hotline: 87671969 <br>Contact Email: contact@stendard.io <br>
+ Company Name:YNL 360 Pte Ltd <br><br>Web URL: www.stendard.io/features <br><br>Contact Hotline: 87671969 <br><br>Contact Email: contact@stendard.io <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
