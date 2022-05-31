@@ -4,7 +4,7 @@ permalink: /browse-all-solutions-Human-Resource-Solutions/Human-Resource-Managem
 ---
 
 ## Human Resource Management System (HRMS)
-## Overview
+## Description
 
 **Support Level and Conditions**
 
@@ -30,26 +30,26 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 <a href='/productivity-solutions-grant/solutionrepo/solution125' target='_blank'>AGHRM</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution259' target='_blank'>PayAdvisorMobile@HRM Version 3</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution277' target='_blank'>Carbonate HR Version 1.0 </a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution349' target='_blank'>Deskera People Version 10.0</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution376' target='_blank'>2020 QuickHR Version 9 - Cloud HRMS</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution450' target='_blank'>HRM Human Resource Management System</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution455' target='_blank'>Hubble Workforce Management System Version 2.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution531' target='_blank'>(SaaS) JustLogin HR Cloud</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1092' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1289' target='_blank'>PEOPLECENTRAL HRMS Version 11</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1346' target='_blank'>SMARTHRMS Version 1</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1453' target='_blank'>Swingvy</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2254' target='_blank'>SYNERGIX E1 Version TH6</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2255' target='_blank'>SYNERGIX E1 Version TH7</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2342' target='_blank'>ITAPS</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2361' target='_blank'>HReasily Online Payroll Version 5</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2366' target='_blank'>BIPO Human Resource Management System</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2391' target='_blank'>SmartCursors Human Resource Management System (HRMS)</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2678' target='_blank'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2735' target='_blank'>WhyzeHR Version 12</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2788' target='_blank'>OpensoftHR Version 18</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2798' target='_blank'>TIMES SOFTWARE HRMS Version 18</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2816' target='_blank'>Payboy HRMS</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2862' target='_blank'>Carbonate HR Version 1</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2890' target='_blank'>Adaptive Pay Version 2022</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2920' target='_blank'>Frontier e-HR Version 8 - AutomateHR eFrontier</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution404' target='_blank'>Frontier e-HR Version 8</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution449' target='_blank'>HRM Human Resource Management System</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution454' target='_blank'>Hubble Workforce Management System Version 2.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution530' target='_blank'>(SaaS) JustLogin HR Cloud</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1091' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1288' target='_blank'>PEOPLECENTRAL HRMS Version 11</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1345' target='_blank'>SMARTHRMS Version 1</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1452' target='_blank'>Swingvy</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2253' target='_blank'>SYNERGIX E1 Version TH6</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2254' target='_blank'>SYNERGIX E1 Version TH7</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2341' target='_blank'>ITAPS</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2360' target='_blank'>HReasily Online Payroll Version 5</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2365' target='_blank'>BIPO Human Resource Management System</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2390' target='_blank'>SmartCursors Human Resource Management System (HRMS)</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2677' target='_blank'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2734' target='_blank'>WhyzeHR Version 12</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2787' target='_blank'>OpensoftHR Version 18</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2797' target='_blank'>TIMES SOFTWARE HRMS Version 18</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2815' target='_blank'>Payboy HRMS</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2861' target='_blank'>Carbonate HR Version 1</a><br>

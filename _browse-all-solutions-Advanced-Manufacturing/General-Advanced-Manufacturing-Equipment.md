@@ -4,7 +4,7 @@ permalink: /browse-all-solutions-Advanced-Manufacturing/General-Advanced-Manufac
 ---
 
 ## General Advanced Manufacturing Equipment
-## Overview
+## Description
 
 **Support Level and Conditions**
 
