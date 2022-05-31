@@ -1,5 +1,5 @@
 ---
-title: Smart Estate Management System
+title: 'Smart Estate Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1644
 ---
 

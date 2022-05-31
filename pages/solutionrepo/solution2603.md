@@ -1,5 +1,5 @@
 ---
-title: Firewalla Gold Package
+title: 'Firewalla Gold Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution2603
 ---
 

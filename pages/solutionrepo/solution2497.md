@@ -1,5 +1,5 @@
 ---
-title: Panda Adaptive Defense 360
+title: 'Panda Adaptive Defense 360'
 permalink: /productivity-solutions-grant/solutionrepo/solution2497
 ---
 

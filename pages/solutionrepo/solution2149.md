@@ -1,5 +1,5 @@
 ---
-title: Pelleting Machine
+title: 'Pelleting Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2149
 ---
 

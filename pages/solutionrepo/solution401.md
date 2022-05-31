@@ -1,5 +1,5 @@
 ---
-title: Combi Oven
+title: 'Combi Oven'
 permalink: /productivity-solutions-grant/solutionrepo/solution401
 ---
 

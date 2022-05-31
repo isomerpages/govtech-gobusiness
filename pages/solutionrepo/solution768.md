@@ -1,5 +1,5 @@
 ---
-title: Sage 300
+title: 'Sage 300'
 permalink: /productivity-solutions-grant/solutionrepo/solution768
 ---
 

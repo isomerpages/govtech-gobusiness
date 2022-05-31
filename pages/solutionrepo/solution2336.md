@@ -1,5 +1,5 @@
 ---
-title: Synergix Process Construction and Maintenance
+title: 'Synergix Process Construction and Maintenance'
 permalink: /productivity-solutions-grant/solutionrepo/solution2336
 ---
 

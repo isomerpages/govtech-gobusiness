@@ -1,5 +1,5 @@
 ---
-title: BIPO Human Resource Management System
+title: 'BIPO Human Resource Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2366
 ---
 

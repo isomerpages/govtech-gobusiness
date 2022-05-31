@@ -1,5 +1,5 @@
 ---
-title: Frontwave Cloud Version 8
+title: 'Frontwave Cloud Version 8'
 permalink: /productivity-solutions-grant/solutionrepo/solution1176
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Adventus Managed Firewall - Fortinet 
+title: 'Adventus Managed Firewall - Fortinet '
 permalink: /productivity-solutions-grant/solutionrepo/solution1799
 ---
 

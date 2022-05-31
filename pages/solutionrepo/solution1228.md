@@ -1,5 +1,5 @@
 ---
-title: Vehicle Safety System
+title: 'Vehicle Safety System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1228
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: APEX
+title: 'APEX'
 permalink: /productivity-solutions-grant/solutionrepo/solution2338
 ---
 

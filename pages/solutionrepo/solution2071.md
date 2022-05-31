@@ -1,5 +1,5 @@
 ---
-title: Automated Labelling Machine 
+title: 'Automated Labelling Machine '
 permalink: /productivity-solutions-grant/solutionrepo/solution2071
 ---
 

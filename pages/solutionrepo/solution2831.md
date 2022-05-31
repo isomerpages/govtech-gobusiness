@@ -1,5 +1,5 @@
 ---
-title: Sophos Firewall
+title: 'Sophos Firewall'
 permalink: /productivity-solutions-grant/solutionrepo/solution2831
 ---
 

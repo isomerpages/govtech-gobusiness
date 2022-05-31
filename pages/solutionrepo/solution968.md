@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software Version 10.5
+title: 'Xero Cloud Accounting Software Version 10.5'
 permalink: /productivity-solutions-grant/solutionrepo/solution968
 ---
 

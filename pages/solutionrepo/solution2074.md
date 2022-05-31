@@ -1,5 +1,5 @@
 ---
-title: High Pressure Rotating Head
+title: 'High Pressure Rotating Head'
 permalink: /productivity-solutions-grant/solutionrepo/solution2074
 ---
 

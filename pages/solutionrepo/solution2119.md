@@ -1,5 +1,5 @@
 ---
-title: Automatic case labelling machine
+title: 'Automatic case labelling machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2119
 ---
 

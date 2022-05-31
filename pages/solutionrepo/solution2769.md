@@ -1,5 +1,5 @@
 ---
-title: Applivon - Odoo
+title: 'Applivon - Odoo'
 permalink: /productivity-solutions-grant/solutionrepo/solution2769
 ---
 

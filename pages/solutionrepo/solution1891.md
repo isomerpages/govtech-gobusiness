@@ -1,5 +1,5 @@
 ---
-title: arc.ops - Manufacturing Quality Management
+title: 'arc.ops - Manufacturing Quality Management'
 permalink: /productivity-solutions-grant/solutionrepo/solution1891
 ---
 

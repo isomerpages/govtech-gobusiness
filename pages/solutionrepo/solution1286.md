@@ -1,5 +1,5 @@
 ---
-title: Venue management software Version 2.0 - Regular
+title: 'Venue management software Version 2.0 - Regular'
 permalink: /productivity-solutions-grant/solutionrepo/solution1286
 ---
 

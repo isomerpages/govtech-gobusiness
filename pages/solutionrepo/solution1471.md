@@ -1,5 +1,5 @@
 ---
-title: Flange Facer
+title: 'Flange Facer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1471
 ---
 

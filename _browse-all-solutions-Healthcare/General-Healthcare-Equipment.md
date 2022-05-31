@@ -1,5 +1,5 @@
 ---
-title: General Healthcare Equipment
+title: 'General Healthcare Equipment'
 permalink: /browse-all-solutions-Healthcare/General-Healthcare-Equipment
 ---
 

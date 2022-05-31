@@ -1,5 +1,5 @@
 ---
-title: Zoho Workplace PSG Edition
+title: 'Zoho Workplace PSG Edition'
 permalink: /productivity-solutions-grant/solutionrepo/solution2576
 ---
 

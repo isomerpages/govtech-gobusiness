@@ -1,5 +1,5 @@
 ---
-title: Humidifier Equipment
+title: 'Humidifier Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution2141
 ---
 

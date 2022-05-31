@@ -1,5 +1,5 @@
 ---
-title: Automated Counter/ Biomass Estimation System
+title: 'Automated Counter/ Biomass Estimation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2113
 ---
 

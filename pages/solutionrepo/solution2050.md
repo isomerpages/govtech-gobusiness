@@ -1,5 +1,5 @@
 ---
-title: Adventus Managed EndPoint Protection
+title: 'Adventus Managed EndPoint Protection'
 permalink: /productivity-solutions-grant/solutionrepo/solution2050
 ---
 

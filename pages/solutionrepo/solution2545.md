@@ -1,5 +1,5 @@
 ---
-title: Network Box Next Generation Managed Security Version 5.5
+title: 'Network Box Next Generation Managed Security Version 5.5'
 permalink: /productivity-solutions-grant/solutionrepo/solution2545
 ---
 

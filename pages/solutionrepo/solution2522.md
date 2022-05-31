@@ -1,5 +1,5 @@
 ---
-title: DM OOm Digital Performance Marketing Package
+title: 'DM OOm Digital Performance Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution2522
 ---
 

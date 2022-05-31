@@ -1,5 +1,5 @@
 ---
-title: DM RHAD Digital Marketing Package Version 1
+title: 'DM RHAD Digital Marketing Package Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution2793
 ---
 

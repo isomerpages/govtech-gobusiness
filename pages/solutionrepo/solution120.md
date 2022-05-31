@@ -1,5 +1,5 @@
 ---
-title: SAP Business One Version Cloud
+title: 'SAP Business One Version Cloud'
 permalink: /productivity-solutions-grant/solutionrepo/solution120
 ---
 

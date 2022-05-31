@@ -1,5 +1,5 @@
 ---
-title: Tableau Visualization
+title: 'Tableau Visualization'
 permalink: /productivity-solutions-grant/solutionrepo/solution2884
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Vodich- Xero Cloud Accounting
+title: 'Vodich- Xero Cloud Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution1979
 ---
 

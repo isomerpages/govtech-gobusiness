@@ -1,5 +1,5 @@
 ---
-title: LFSUITE Version 6.0
+title: 'LFSUITE Version 6.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1878
 ---
 

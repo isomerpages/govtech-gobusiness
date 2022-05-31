@@ -1,5 +1,5 @@
 ---
-title: TRC e-Commerce Solutions
+title: 'TRC e-Commerce Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution2859
 ---
 

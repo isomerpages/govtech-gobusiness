@@ -1,5 +1,5 @@
 ---
-title: Automated tools management system
+title: 'Automated tools management system'
 permalink: /productivity-solutions-grant/solutionrepo/solution2037
 ---
 

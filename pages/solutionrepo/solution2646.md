@@ -1,5 +1,5 @@
 ---
-title: Royal Management Services XERO ACCOUNTING
+title: 'Royal Management Services XERO ACCOUNTING'
 permalink: /productivity-solutions-grant/solutionrepo/solution2646
 ---
 

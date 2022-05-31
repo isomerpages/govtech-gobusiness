@@ -1,5 +1,5 @@
 ---
-title: Static Parcel Dimension, Weight and Scan Equipment
+title: 'Static Parcel Dimension, Weight and Scan Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution754
 ---
 

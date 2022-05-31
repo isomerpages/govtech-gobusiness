@@ -1,5 +1,5 @@
 ---
-title: SAP BUSINESS ONE
+title: 'SAP BUSINESS ONE'
 permalink: /productivity-solutions-grant/solutionrepo/solution2875
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: iCoreSpec
+title: 'iCoreSpec'
 permalink: /productivity-solutions-grant/solutionrepo/solution1754
 ---
 

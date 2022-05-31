@@ -1,5 +1,5 @@
 ---
-title: Highnix ERP Plus 2 Version 4-3-30
+title: 'Highnix ERP Plus 2 Version 4-3-30'
 permalink: /productivity-solutions-grant/solutionrepo/solution1516
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Singtel-Fortinet Unified Threat Management Version 1
+title: 'Singtel-Fortinet Unified Threat Management Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution2651
 ---
 

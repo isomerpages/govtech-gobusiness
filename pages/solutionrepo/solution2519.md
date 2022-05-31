@@ -1,5 +1,5 @@
 ---
-title: Automated Deep Fryer
+title: 'Automated Deep Fryer'
 permalink: /productivity-solutions-grant/solutionrepo/solution2519
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: CFOsg Xero Cloud Accounting
+title: 'CFOsg Xero Cloud Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution287
 ---
 

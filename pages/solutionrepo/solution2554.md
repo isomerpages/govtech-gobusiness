@@ -1,5 +1,5 @@
 ---
-title: AdeptForms Security Operational Management Version 2
+title: 'AdeptForms Security Operational Management Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution2554
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Form Fill Seal Machine
+title: 'Form Fill Seal Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution304
 ---
 

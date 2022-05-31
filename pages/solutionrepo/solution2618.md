@@ -1,5 +1,5 @@
 ---
-title: AirGo 360- Virtual Sites platform
+title: 'AirGo 360- Virtual Sites platform'
 permalink: /productivity-solutions-grant/solutionrepo/solution2618
 ---
 

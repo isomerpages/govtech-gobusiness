@@ -1,5 +1,5 @@
 ---
-title: Fleet Safety Management System Version 7
+title: 'Fleet Safety Management System Version 7'
 permalink: /productivity-solutions-grant/solutionrepo/solution2591
 ---
 

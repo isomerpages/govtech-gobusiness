@@ -1,5 +1,5 @@
 ---
-title: Octopus Food Solution
+title: 'Octopus Food Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution662
 ---
 

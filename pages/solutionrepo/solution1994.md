@@ -1,5 +1,5 @@
 ---
-title: SAP Business One Version 10
+title: 'SAP Business One Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution1994
 ---
 

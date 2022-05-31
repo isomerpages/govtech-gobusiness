@@ -1,5 +1,5 @@
 ---
-title: EZ Accounting and Inventory Software
+title: 'EZ Accounting and Inventory Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1360
 ---
 

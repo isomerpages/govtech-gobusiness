@@ -1,5 +1,5 @@
 ---
-title: Beaufort-Xero Digital Solutions
+title: 'Beaufort-Xero Digital Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution2773
 ---
 

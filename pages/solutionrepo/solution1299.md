@@ -1,5 +1,5 @@
 ---
-title: ACE e-commerce solution
+title: 'ACE e-commerce solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1299
 ---
 

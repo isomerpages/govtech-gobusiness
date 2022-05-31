@@ -1,5 +1,5 @@
 ---
-title: Climate & Environment Monitoring Control Equipment/ System
+title: 'Climate & Environment Monitoring Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2161
 ---
 

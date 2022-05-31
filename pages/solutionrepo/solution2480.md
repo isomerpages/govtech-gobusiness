@@ -1,5 +1,5 @@
 ---
-title: SAP2000 Ultimate Suite
+title: 'SAP2000 Ultimate Suite'
 permalink: /productivity-solutions-grant/solutionrepo/solution2480
 ---
 

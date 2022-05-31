@@ -1,5 +1,5 @@
 ---
-title: FleetManager Version 5.0
+title: 'FleetManager Version 5.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2055
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Sophos Endpoint
+title: 'Sophos Endpoint'
 permalink: /productivity-solutions-grant/solutionrepo/solution1963
 ---
 

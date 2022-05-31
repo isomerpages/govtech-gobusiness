@@ -1,5 +1,5 @@
 ---
-title: Singtel Endpoint Security
+title: 'Singtel Endpoint Security'
 permalink: /productivity-solutions-grant/solutionrepo/solution2656
 ---
 

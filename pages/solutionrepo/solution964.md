@@ -1,5 +1,5 @@
 ---
-title: Xintesys Sales and Inventory Management Solution Version V30DC
+title: 'Xintesys Sales and Inventory Management Solution Version V30DC'
 permalink: /productivity-solutions-grant/solutionrepo/solution964
 ---
 

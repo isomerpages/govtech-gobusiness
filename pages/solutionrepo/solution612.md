@@ -1,5 +1,5 @@
 ---
-title: SAP Business One SQL & HANA Version 9.3 PL6/10.0
+title: 'SAP Business One SQL & HANA Version 9.3 PL6/10.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution612
 ---
 

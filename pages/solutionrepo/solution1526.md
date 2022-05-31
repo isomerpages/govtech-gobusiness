@@ -1,5 +1,5 @@
 ---
-title: Mobile Responsive E-Commerce Version 1
+title: 'Mobile Responsive E-Commerce Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1526
 ---
 

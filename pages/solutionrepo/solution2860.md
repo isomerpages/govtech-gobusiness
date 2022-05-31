@@ -1,5 +1,5 @@
 ---
-title: Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
+title: 'Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench'
 permalink: /productivity-solutions-grant/solutionrepo/solution2860
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Pest/ Disease Monitoring and Control Equipment/ System
+title: 'Pest/ Disease Monitoring and Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2160
 ---
 

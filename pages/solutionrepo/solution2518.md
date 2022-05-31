@@ -1,5 +1,5 @@
 ---
-title: 3D Intraoral Scanner
+title: '3D Intraoral Scanner'
 permalink: /productivity-solutions-grant/solutionrepo/solution2518
 ---
 

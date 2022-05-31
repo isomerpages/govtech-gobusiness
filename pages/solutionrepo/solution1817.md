@@ -1,5 +1,5 @@
 ---
-title: Redoc Version 1.0
+title: 'Redoc Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1817
 ---
 

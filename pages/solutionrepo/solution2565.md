@@ -1,5 +1,5 @@
 ---
-title: Sugati Travel CRM Version 1.1037
+title: 'Sugati Travel CRM Version 1.1037'
 permalink: /productivity-solutions-grant/solutionrepo/solution2565
 ---
 

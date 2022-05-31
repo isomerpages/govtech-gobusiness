@@ -1,5 +1,5 @@
 ---
-title: Yumstone F&B Solutions Version 5.0
+title: 'Yumstone F&B Solutions Version 5.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1833
 ---
 

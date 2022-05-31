@@ -1,5 +1,5 @@
 ---
-title: Sterilizer Equipment
+title: 'Sterilizer Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution2153
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Hubble Safety Management System
+title: 'Hubble Safety Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution459
 ---
 

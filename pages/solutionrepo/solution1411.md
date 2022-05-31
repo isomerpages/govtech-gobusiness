@@ -1,5 +1,5 @@
 ---
-title: GenicDocs - Document Management Software
+title: 'GenicDocs - Document Management Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1411
 ---
 

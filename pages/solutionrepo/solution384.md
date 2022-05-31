@@ -1,5 +1,5 @@
 ---
-title: Standalone Automated Industrial Utensil Washer
+title: 'Standalone Automated Industrial Utensil Washer'
 permalink: /productivity-solutions-grant/solutionrepo/solution384
 ---
 

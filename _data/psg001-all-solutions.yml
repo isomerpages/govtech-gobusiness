@@ -1,7 +1,7 @@
 - accordion:
   letter: a
   data:
-    - title: Advanced Manufacturing
+    - title: 'Advanced Manufacturing'
       content: |
         
         **IT Solution**
@@ -14,14 +14,14 @@
         - <a href='/browse-all-solutions-Advanced-Manufacturing/General-Advanced-Manufacturing-Equipment'>General Advanced Manufacturing Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Banks
+    - title: 'Banks'
       content: |
         
         **IT Solution**
         - <a href='/browse-all-solutions-Banks/Regulatory-Reporting-for-Banks'>Regulatory Reporting for Banks</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Building & Construction
+    - title: 'Building & Construction'
       content: |
         
         **IT Solution**
@@ -37,7 +37,7 @@
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Early Childhood
+    - title: 'Early Childhood'
       content: |
         
         **IT Solution**
@@ -47,7 +47,7 @@
         - <a href='/browse-all-solutions-Early-Childhood/Data-Analytics-for-Centre-Operations'>Data Analytics for Centre Operations</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Engineering Services
+    - title: 'Engineering Services'
       content: |
         
         **IT Solution**
@@ -59,7 +59,7 @@
         - <a href='/browse-all-solutions-Engineering-Services/General-Engineering-Services-Equipment'>General Engineering Services Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Estate Agency
+    - title: 'Estate Agency'
       content: |
         
         **IT Solution**
@@ -67,21 +67,21 @@
         - <a href='/browse-all-solutions-Estate-Agency/Document-Management-and-Transaction-Records-Submission-for-Estate-Agents'>Document Management and Transaction Records Submission for Estate Agents</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Food
+    - title: 'Food'
       content: |
         
         **Equipment**
         - <a href='/browse-all-solutions-Food/Food'>Food</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Food Manufacturing
+    - title: 'Food Manufacturing'
       content: |
         
         **Equipment**
         - <a href='/browse-all-solutions-Food-Manufacturing/General-Food-Manufacturing-Equipment'>General Food Manufacturing Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Food Services
+    - title: 'Food Services'
       content: |
         
         **IT Solution**
@@ -97,7 +97,7 @@
         - <a href='/browse-all-solutions-Food-Services/General-Food-Services-Equipment'>General Food Services Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Healthcare
+    - title: 'Healthcare'
       content: |
         
         **IT Solution**
@@ -107,7 +107,7 @@
         - <a href='/browse-all-solutions-Healthcare/General-Healthcare-Equipment'>General Healthcare Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Logistics
+    - title: 'Logistics'
       content: |
         
         **IT Solution**
@@ -120,7 +120,7 @@
         - <a href='/browse-all-solutions-Logistics/General-Logistics-Equipment'>General Logistics Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Marine & Offshore
+    - title: 'Marine & Offshore'
       content: |
         
         **IT Solution**
@@ -133,14 +133,14 @@
         - <a href='/browse-all-solutions-Marine-Offshore/General-M&O-Equipment'>General M&O Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Precision Engineering
+    - title: 'Precision Engineering'
       content: |
         
         **Equipment**
         - <a href='/browse-all-solutions-Precision-Engineering/General-Precision-Engineering-Equipment'>General Precision Engineering Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Retail
+    - title: 'Retail'
       content: |
         
         **IT Solution**
@@ -150,7 +150,7 @@
         - <a href='/browse-all-solutions-Retail/Retail-Analytics'>Retail Analytics</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Security
+    - title: 'Security'
       content: |
         
         **IT Solution**
@@ -159,14 +159,14 @@
         - <a href='/browse-all-solutions-Security/Mobile-Enabled-Patrol-and-Incident-Management'>Mobile-Enabled Patrol and Incident Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Travel Agents
+    - title: 'Travel Agents'
       content: |
         
         **IT Solution**
         - <a href='/browse-all-solutions-Travel-Agents/Travel-Management-System--Operations-'>Travel Management System (Operations)</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Wholesale Trade
+    - title: 'Wholesale Trade'
       content: |
         
         **IT Solution**
@@ -184,14 +184,14 @@
 - accordion:
   letter: b
   data:
-    - title: Human Resource Solutions
+    - title: 'Human Resource Solutions'
       content: |
         
         **IT Solution**
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Management-System--HRMS-'>Human Resource Management System (HRMS)</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-scheduling-System'>Human Resource E-scheduling System</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-Services--HRSS--Needs-Analysis-+-HR-Administrative-Support-Payroll-Processing-via-a-HRMS'>Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS</a>
-    - title: ERP and Standalone solutions
+    - title: 'ERP and Standalone solutions'
       content: |
         <b>Enterprise Resource Planning (ERP)</b><br>
         <br>
@@ -275,28 +275,28 @@
         <br>
         <b>Note:</b><br>
         Standalone solutions may be supported on top of any ERP solution category that does not contain similar features.  For example, a company who purchased an ‘Accounting, CRM and Sales’ solution can be supported if they apply for a standalone ‘Inventory Management’ solution. However, they will not be supported if they apply for a standalone CRM solution.<br>
-    - title: Fleet Safety and Fleet Management System
+    - title: 'Fleet Safety and Fleet Management System'
       content: |
         
         **IT Solution**
         - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Management-System'>Fleet Management System</a>
         - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Safety-Management-System'>Fleet Safety Management System</a>
-    - title: Document Management and Mobile Access System
+    - title: 'Document Management and Mobile Access System'
       content: |
         
         **IT Solution**
         - <a href='/browse-all-solutions-Document-Management-and-Mobile-Access-System/Document-Management-and-Mobile-Access-System'>Document Management and Mobile Access System</a>
-    - title: Digital Marketing solutions
+    - title: 'Digital Marketing solutions'
       content: |
         
         **IT Solution**
         - <a href='/browse-all-solutions-Digital-Marketing-solutions/Digital-Marketing-Packages'>Digital Marketing Packages</a>
-    - title: E-Commerce solutions
+    - title: 'E-Commerce solutions'
       content: |
         
         **IT Solution**
         - <a href='/browse-all-solutions-E-Commerce-solutions/E-Commerce---Online-Shop--B2C-'>E-Commerce - Online Shop (B2C)</a>
-    - title: Cyber Security solutions
+    - title: 'Cyber Security solutions'
       content: |
         
         **IT Solution**

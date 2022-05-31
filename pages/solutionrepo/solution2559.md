@@ -1,5 +1,5 @@
 ---
-title: LittleLives School Management System (e-form)
+title: 'LittleLives School Management System (e-form)'
 permalink: /productivity-solutions-grant/solutionrepo/solution2559
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Xero by Book&Entries
+title: 'Xero by Book&Entries'
 permalink: /productivity-solutions-grant/solutionrepo/solution2586
 ---
 

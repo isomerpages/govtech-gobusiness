@@ -1,5 +1,5 @@
 ---
-title: Daisy XERO Accounting Software
+title: 'Daisy XERO Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution2423
 ---
 

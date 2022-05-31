@@ -1,5 +1,5 @@
 ---
-title: MEVO DMS 8.3
+title: 'MEVO DMS 8.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution606
 ---
 

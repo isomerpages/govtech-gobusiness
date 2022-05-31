@@ -1,5 +1,5 @@
 ---
-title: CalendarOne CRM Solution Ver 2.0
+title: 'CalendarOne CRM Solution Ver 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution255
 ---
 

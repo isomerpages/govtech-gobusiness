@@ -1,5 +1,5 @@
 ---
-title: Pepper Cloud CRM Version 14.0
+title: 'Pepper Cloud CRM Version 14.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2280
 ---
 

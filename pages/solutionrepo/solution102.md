@@ -1,5 +1,5 @@
 ---
-title: Robotic arms
+title: 'Robotic arms'
 permalink: /productivity-solutions-grant/solutionrepo/solution102
 ---
 

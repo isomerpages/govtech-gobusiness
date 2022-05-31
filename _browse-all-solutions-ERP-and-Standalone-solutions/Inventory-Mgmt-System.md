@@ -1,5 +1,5 @@
 ---
-title: Inventory Management System
+title: 'Inventory Management System'
 permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Inventory-Mgmt-System
 ---
 

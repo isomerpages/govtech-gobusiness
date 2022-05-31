@@ -1,5 +1,5 @@
 ---
-title: Auto Welding Carriage
+title: 'Auto Welding Carriage'
 permalink: /productivity-solutions-grant/solutionrepo/solution1962
 ---
 

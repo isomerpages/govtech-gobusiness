@@ -1,5 +1,5 @@
 ---
-title: Ecommflow Version 2.0
+title: 'Ecommflow Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2262
 ---
 

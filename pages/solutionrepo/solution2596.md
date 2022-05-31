@@ -1,5 +1,5 @@
 ---
-title: Taidii SMART IT Solution for Preschool (PMS + E-form)
+title: 'Taidii SMART IT Solution for Preschool (PMS + E-form)'
 permalink: /productivity-solutions-grant/solutionrepo/solution2596
 ---
 

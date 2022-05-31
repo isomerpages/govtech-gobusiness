@@ -1,5 +1,5 @@
 ---
-title: Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub
+title: 'Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub'
 permalink: /productivity-solutions-grant/solutionrepo/solution464
 ---
 

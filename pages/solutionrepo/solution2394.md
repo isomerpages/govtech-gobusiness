@@ -1,5 +1,5 @@
 ---
-title: HubSpot
+title: 'HubSpot'
 permalink: /productivity-solutions-grant/solutionrepo/solution2394
 ---
 

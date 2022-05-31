@@ -1,5 +1,5 @@
 ---
-title: RetailNext In-Store Analytics Version 1
+title: 'RetailNext In-Store Analytics Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1673
 ---
 

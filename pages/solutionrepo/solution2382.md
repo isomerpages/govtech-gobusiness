@@ -1,5 +1,5 @@
 ---
-title: Eminet Sophos XGS Firewall
+title: 'Eminet Sophos XGS Firewall'
 permalink: /productivity-solutions-grant/solutionrepo/solution2382
 ---
 

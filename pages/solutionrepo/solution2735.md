@@ -1,5 +1,5 @@
 ---
-title: WhyzeHR Version 12
+title: 'WhyzeHR Version 12'
 permalink: /productivity-solutions-grant/solutionrepo/solution2735
 ---
 

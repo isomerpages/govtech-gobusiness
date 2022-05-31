@@ -1,5 +1,5 @@
 ---
-title: Steel Plate Butt Joint Welding Alignment Tool
+title: 'Steel Plate Butt Joint Welding Alignment Tool'
 permalink: /productivity-solutions-grant/solutionrepo/solution128
 ---
 

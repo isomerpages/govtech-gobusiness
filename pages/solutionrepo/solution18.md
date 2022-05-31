@@ -1,5 +1,5 @@
 ---
-title: Automated Noodle Maker
+title: 'Automated Noodle Maker'
 permalink: /productivity-solutions-grant/solutionrepo/solution18
 ---
 

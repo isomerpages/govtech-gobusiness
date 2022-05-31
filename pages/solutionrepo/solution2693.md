@@ -1,5 +1,5 @@
 ---
-title: Autocount Accounting Version 2.0
+title: 'Autocount Accounting Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2693
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: iMakan
+title: 'iMakan'
 permalink: /productivity-solutions-grant/solutionrepo/solution1564
 ---
 

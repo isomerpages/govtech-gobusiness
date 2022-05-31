@@ -1,5 +1,5 @@
 ---
-title: Fortigate UTP - 60F / Fortigate UTP - 100F
+title: 'Fortigate UTP - 60F / Fortigate UTP - 100F'
 permalink: /productivity-solutions-grant/solutionrepo/solution1808
 ---
 

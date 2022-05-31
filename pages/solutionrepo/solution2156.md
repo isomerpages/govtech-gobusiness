@@ -1,5 +1,5 @@
 ---
-title: Farm Produce Washing Machine
+title: 'Farm Produce Washing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2156
 ---
 

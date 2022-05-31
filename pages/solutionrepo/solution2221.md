@@ -1,5 +1,5 @@
 ---
-title: Detrack
+title: 'Detrack'
 permalink: /productivity-solutions-grant/solutionrepo/solution2221
 ---
 

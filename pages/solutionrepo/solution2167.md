@@ -1,5 +1,5 @@
 ---
-title: Packing machine
+title: 'Packing machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2167
 ---
 

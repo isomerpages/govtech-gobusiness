@@ -1,5 +1,5 @@
 ---
-title: Really Platform for PMs and FMs Version 2.4
+title: 'Really Platform for PMs and FMs Version 2.4'
 permalink: /productivity-solutions-grant/solutionrepo/solution2297
 ---
 

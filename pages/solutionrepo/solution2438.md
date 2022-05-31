@@ -1,5 +1,5 @@
 ---
-title: HAVENCE Version 4
+title: 'HAVENCE Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution2438
 ---
 

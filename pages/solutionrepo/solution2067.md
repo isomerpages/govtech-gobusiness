@@ -1,5 +1,5 @@
 ---
-title: CSG - Autodesk BIM Collaborate Pro
+title: 'CSG - Autodesk BIM Collaborate Pro'
 permalink: /productivity-solutions-grant/solutionrepo/solution2067
 ---
 

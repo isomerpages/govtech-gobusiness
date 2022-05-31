@@ -1,5 +1,5 @@
 ---
-title: SMARTHRMS Version 1
+title: 'SMARTHRMS Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1346
 ---
 

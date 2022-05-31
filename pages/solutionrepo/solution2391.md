@@ -1,5 +1,5 @@
 ---
-title: SmartCursors Human Resource Management System (HRMS)
+title: 'SmartCursors Human Resource Management System (HRMS)'
 permalink: /productivity-solutions-grant/solutionrepo/solution2391
 ---
 

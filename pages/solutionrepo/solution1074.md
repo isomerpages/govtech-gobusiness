@@ -1,5 +1,5 @@
 ---
-title: AGERE - Xero Cloud Accounting Software 
+title: 'AGERE - Xero Cloud Accounting Software '
 permalink: /productivity-solutions-grant/solutionrepo/solution1074
 ---
 

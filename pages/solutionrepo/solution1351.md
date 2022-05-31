@@ -1,5 +1,5 @@
 ---
-title: FingerBooth POS System Version 1 
+title: 'FingerBooth POS System Version 1 '
 permalink: /productivity-solutions-grant/solutionrepo/solution1351
 ---
 

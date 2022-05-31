@@ -1,5 +1,5 @@
 ---
-title: BonaERP
+title: 'BonaERP'
 permalink: /productivity-solutions-grant/solutionrepo/solution243
 ---
 

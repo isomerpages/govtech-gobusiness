@@ -1,5 +1,5 @@
 ---
-title: Crate/ Tray washing machine
+title: 'Crate/ Tray washing machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2127
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Digital quality testing equipment
+title: 'Digital quality testing equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution2168
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: FITPRISE Job Inspection System
+title: 'FITPRISE Job Inspection System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2210
 ---
 

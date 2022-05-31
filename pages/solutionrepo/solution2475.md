@@ -1,5 +1,5 @@
 ---
-title: Smart Glasses - InnoGlas
+title: 'Smart Glasses - InnoGlas'
 permalink: /productivity-solutions-grant/solutionrepo/solution2475
 ---
 
