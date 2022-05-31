@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Food-Services/General-Food-Services-Equipment
 
 Up to 80% for SMEs, N.A. for non-SMEs
 
-Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
+nextPrint
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
 ## Pre-Approved Solutions

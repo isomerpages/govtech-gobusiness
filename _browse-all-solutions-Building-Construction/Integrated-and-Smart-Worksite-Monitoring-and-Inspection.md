@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Building-Construction/Integrated-and-Smart-Work
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-For more information, please refer to
+nextPrint
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
 ## Pre-Approved Solutions

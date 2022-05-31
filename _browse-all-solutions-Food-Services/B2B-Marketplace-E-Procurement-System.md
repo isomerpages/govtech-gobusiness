@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Food-Services/B2B-Marketplace-E-Procurement-Sys
 
 Up to 80% for SMEs, N.A. for non-SMEs
 
-Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
+nextPrint
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
 **Recommended courses**

@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Food/Food
 
 Up to 50% for SMEs, 50% for non-SMEs
 
-For more information, please refer to
+nextPrint
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
 ## Pre-Approved Solutions
