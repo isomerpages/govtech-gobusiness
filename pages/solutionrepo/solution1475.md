@@ -1,5 +1,5 @@
 ---
-title: 'Automatic Nut Splitter'
+title: Automatic Nut Splitter
 permalink: /productivity-solutions-grant/solutionrepo/solution1475
 ---
 

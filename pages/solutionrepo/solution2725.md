@@ -1,5 +1,5 @@
 ---
-title: 'InfoMaster ERP Software - Asset Monitoring and Management'
+title: InfoMaster ERP Software - Asset Monitoring and Management
 permalink: /productivity-solutions-grant/solutionrepo/solution2725
 ---
 

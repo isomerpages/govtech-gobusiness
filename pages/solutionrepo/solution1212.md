@@ -1,5 +1,5 @@
 ---
-title: 'BIMAGE - Autodesk AEC Collection'
+title: BIMAGE - Autodesk AEC Collection
 permalink: /productivity-solutions-grant/solutionrepo/solution1212
 ---
 

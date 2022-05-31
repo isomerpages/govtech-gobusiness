@@ -1,5 +1,5 @@
 ---
-title: 'iFoundries E-commerce Jump Start Package Version 1'
+title: iFoundries E-commerce Jump Start Package Version 1
 permalink: /productivity-solutions-grant/solutionrepo/solution1671
 ---
 

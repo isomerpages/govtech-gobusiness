@@ -1,5 +1,5 @@
 ---
-title: 'Swingvy'
+title: Swingvy
 permalink: /productivity-solutions-grant/solutionrepo/solution1453
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'NinjaOS'
+title: NinjaOS
 permalink: /productivity-solutions-grant/solutionrepo/solution511
 ---
 

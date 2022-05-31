@@ -1,5 +1,5 @@
 ---
-title: 'OS Store E-Commerce'
+title: OS Store E-Commerce
 permalink: /productivity-solutions-grant/solutionrepo/solution2415
 ---
 

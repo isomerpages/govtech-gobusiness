@@ -1,5 +1,5 @@
 ---
-title: 'Madsoft Solutions IAF Version 320'
+title: Madsoft Solutions IAF Version 320
 permalink: /productivity-solutions-grant/solutionrepo/solution1178
 ---
 

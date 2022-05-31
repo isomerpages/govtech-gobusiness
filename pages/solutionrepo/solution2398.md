@@ -1,5 +1,5 @@
 ---
-title: 'Fortigate Firewall for IT Security or VPN - CARE IT'
+title: Fortigate Firewall for IT Security or VPN - CARE IT
 permalink: /productivity-solutions-grant/solutionrepo/solution2398
 ---
 

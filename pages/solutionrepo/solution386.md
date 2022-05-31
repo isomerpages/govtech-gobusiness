@@ -1,5 +1,5 @@
 ---
-title: 'Planetary or Spiral Mixer'
+title: Planetary or Spiral Mixer
 permalink: /productivity-solutions-grant/solutionrepo/solution386
 ---
 

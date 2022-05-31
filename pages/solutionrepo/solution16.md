@@ -1,5 +1,5 @@
 ---
-title: 'Automated Dishwasher'
+title: Automated Dishwasher
 permalink: /productivity-solutions-grant/solutionrepo/solution16
 ---
 

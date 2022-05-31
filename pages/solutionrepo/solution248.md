@@ -1,5 +1,5 @@
 ---
-title: 'BonaEcom'
+title: BonaEcom
 permalink: /productivity-solutions-grant/solutionrepo/solution248
 ---
 

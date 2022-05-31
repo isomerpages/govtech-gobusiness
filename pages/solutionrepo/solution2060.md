@@ -1,5 +1,5 @@
 ---
-title: 'Revel Systems'
+title: Revel Systems
 permalink: /productivity-solutions-grant/solutionrepo/solution2060
 ---
 

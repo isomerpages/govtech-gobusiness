@@ -1,5 +1,5 @@
 ---
-title: 'Revel Systems POS Version 2'
+title: Revel Systems POS Version 2
 permalink: /productivity-solutions-grant/solutionrepo/solution1795
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: '(eScheduling) QuickHR'
+title: (eScheduling) QuickHR
 permalink: /productivity-solutions-grant/solutionrepo/solution1171
 ---
 

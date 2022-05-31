@@ -1,5 +1,5 @@
 ---
-title: 'D365 Business Central (Microsoft)'
+title: D365 Business Central (Microsoft)
 permalink: /productivity-solutions-grant/solutionrepo/solution1541
 ---
 

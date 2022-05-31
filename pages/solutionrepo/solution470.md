@@ -1,5 +1,5 @@
 ---
-title: 'Qornerstone Estate Management System'
+title: Qornerstone Estate Management System
 permalink: /productivity-solutions-grant/solutionrepo/solution470
 ---
 

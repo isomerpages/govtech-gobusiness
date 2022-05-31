@@ -1,5 +1,5 @@
 ---
-title: 'Closed Containment System'
+title: Closed Containment System
 permalink: /productivity-solutions-grant/solutionrepo/solution2125
 ---
 

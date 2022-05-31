@@ -1,5 +1,5 @@
 ---
-title: 'Automated Sushi Making Machine'
+title: Automated Sushi Making Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution21
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'i3 E-Commerce Store'
+title: i3 E-Commerce Store
 permalink: /productivity-solutions-grant/solutionrepo/solution2356
 ---
 

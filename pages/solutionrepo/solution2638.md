@@ -1,5 +1,5 @@
 ---
-title: 'LittleLives School Management System (Data Mining & Analytics)'
+title: LittleLives School Management System (Data Mining & Analytics)
 permalink: /productivity-solutions-grant/solutionrepo/solution2638
 ---
 

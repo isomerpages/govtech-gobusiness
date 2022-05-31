@@ -1,5 +1,5 @@
 ---
-title: 'ABSS Premier - Accounting and Sales Management System Version 23'
+title: ABSS Premier - Accounting and Sales Management System Version 23
 permalink: /productivity-solutions-grant/solutionrepo/solution3
 ---
 

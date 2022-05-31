@@ -1,5 +1,5 @@
 ---
-title: 'SUNTOYO POS SOLUTION Version 8.1'
+title: SUNTOYO POS SOLUTION Version 8.1
 permalink: /productivity-solutions-grant/solutionrepo/solution1120
 ---
 

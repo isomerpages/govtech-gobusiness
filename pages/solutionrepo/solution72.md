@@ -1,5 +1,5 @@
 ---
-title: 'Mobile Computer (Warehouse application)'
+title: Mobile Computer (Warehouse application)
 permalink: /productivity-solutions-grant/solutionrepo/solution72
 ---
 

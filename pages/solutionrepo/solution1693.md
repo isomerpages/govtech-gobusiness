@@ -1,5 +1,5 @@
 ---
-title: 'Intuit QBO'
+title: Intuit QBO
 permalink: /productivity-solutions-grant/solutionrepo/solution1693
 ---
 

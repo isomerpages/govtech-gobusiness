@@ -1,5 +1,5 @@
 ---
-title: 'Automated Rice Washer'
+title: Automated Rice Washer
 permalink: /productivity-solutions-grant/solutionrepo/solution20
 ---
 

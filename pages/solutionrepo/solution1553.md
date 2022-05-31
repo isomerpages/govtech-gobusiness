@@ -1,5 +1,5 @@
 ---
-title: 'IVMS (Intelligent Vehicle Monitoring System) Version 7'
+title: IVMS (Intelligent Vehicle Monitoring System) Version 7
 permalink: /productivity-solutions-grant/solutionrepo/solution1553
 ---
 

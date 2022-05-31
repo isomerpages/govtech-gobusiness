@@ -1,5 +1,5 @@
 ---
-title: 'Autonomous Mobile Robot'
+title: Autonomous Mobile Robot
 permalink: /productivity-solutions-grant/solutionrepo/solution25
 ---
 

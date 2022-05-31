@@ -1,5 +1,5 @@
 ---
-title: 'Portable Automatic Gas Cutting Machine'
+title: Portable Automatic Gas Cutting Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution89
 ---
 

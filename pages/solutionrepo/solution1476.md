@@ -1,5 +1,5 @@
 ---
-title: 'AxiomSL MAS 610 SaaS version 4'
+title: AxiomSL MAS 610 SaaS version 4
 permalink: /productivity-solutions-grant/solutionrepo/solution1476
 ---
 

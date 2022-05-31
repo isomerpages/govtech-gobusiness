@@ -1,5 +1,5 @@
 ---
-title: 'XERO CLOUD APPLICATION'
+title: XERO CLOUD APPLICATION
 permalink: /productivity-solutions-grant/solutionrepo/solution2488
 ---
 

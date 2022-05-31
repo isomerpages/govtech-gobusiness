@@ -1,5 +1,5 @@
 ---
-title: '3D Omni Commerce Version 1.03'
+title: 3D Omni Commerce Version 1.03
 permalink: /productivity-solutions-grant/solutionrepo/solution1390
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Automated Vaccination'
+title: Automated Vaccination
 permalink: /productivity-solutions-grant/solutionrepo/solution2115
 ---
 

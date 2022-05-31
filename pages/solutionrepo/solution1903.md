@@ -1,5 +1,5 @@
 ---
-title: 'Auk Edge IoT Device and Auk Industrial IoT Analytics Platform'
+title: Auk Edge IoT Device and Auk Industrial IoT Analytics Platform
 permalink: /productivity-solutions-grant/solutionrepo/solution1903
 ---
 

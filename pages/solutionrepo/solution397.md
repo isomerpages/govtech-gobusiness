@@ -1,5 +1,5 @@
 ---
-title: 'FacilityBot'
+title: FacilityBot
 permalink: /productivity-solutions-grant/solutionrepo/solution397
 ---
 

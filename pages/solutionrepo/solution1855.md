@@ -1,5 +1,5 @@
 ---
-title: 'NetSuite'
+title: NetSuite
 permalink: /productivity-solutions-grant/solutionrepo/solution1855
 ---
 

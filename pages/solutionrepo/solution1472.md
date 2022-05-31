@@ -1,5 +1,5 @@
 ---
-title: 'Torque Multiplier'
+title: Torque Multiplier
 permalink: /productivity-solutions-grant/solutionrepo/solution1472
 ---
 

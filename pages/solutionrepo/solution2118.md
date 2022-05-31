@@ -1,5 +1,5 @@
 ---
-title: 'Automated Slaughtering Equipment'
+title: Automated Slaughtering Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2118
 ---
 

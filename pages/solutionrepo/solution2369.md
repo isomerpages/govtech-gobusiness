@@ -1,5 +1,5 @@
 ---
-title: 'WhyzeHR eScheduling'
+title: WhyzeHR eScheduling
 permalink: /productivity-solutions-grant/solutionrepo/solution2369
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Circular Gas Cutter'
+title: Circular Gas Cutter
 permalink: /productivity-solutions-grant/solutionrepo/solution38
 ---
 

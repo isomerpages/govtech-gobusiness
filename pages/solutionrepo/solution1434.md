@@ -1,5 +1,5 @@
 ---
-title: 'SQL Account Version 5'
+title: SQL Account Version 5
 permalink: /productivity-solutions-grant/solutionrepo/solution1434
 ---
 

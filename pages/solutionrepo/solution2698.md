@@ -1,5 +1,5 @@
 ---
-title: 'Q-DAS - Smart Quality Software'
+title: Q-DAS - Smart Quality Software
 permalink: /productivity-solutions-grant/solutionrepo/solution2698
 ---
 

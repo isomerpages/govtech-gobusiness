@@ -1,5 +1,5 @@
 ---
-title: 'Vertical Carousel'
+title: Vertical Carousel
 permalink: /productivity-solutions-grant/solutionrepo/solution161
 ---
 

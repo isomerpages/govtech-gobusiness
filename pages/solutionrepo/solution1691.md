@@ -1,5 +1,5 @@
 ---
-title: 'ChopeQueues'
+title: ChopeQueues
 permalink: /productivity-solutions-grant/solutionrepo/solution1691
 ---
 

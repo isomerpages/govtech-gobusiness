@@ -1,5 +1,5 @@
 ---
-title: 'Microsoft Cybersecurity Package'
+title: Microsoft Cybersecurity Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2900
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: '2DFire online ordering and payment Version 5.8.98'
+title: 2DFire online ordering and payment Version 5.8.98
 permalink: /productivity-solutions-grant/solutionrepo/solution2532
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'vTrak Version 1.4'
+title: vTrak Version 1.4
 permalink: /productivity-solutions-grant/solutionrepo/solution2314
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Flavor Customer Relationship Management System Version 1'
+title: Flavor Customer Relationship Management System Version 1
 permalink: /productivity-solutions-grant/solutionrepo/solution2641
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'WFH Email Security with Cyber Essentials Online Course Package Version 1'
+title: WFH Email Security with Cyber Essentials Online Course Package Version 1
 permalink: /productivity-solutions-grant/solutionrepo/solution1315
 ---
 

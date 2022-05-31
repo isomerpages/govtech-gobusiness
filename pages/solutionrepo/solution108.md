@@ -1,5 +1,5 @@
 ---
-title: 'Rotary Wok Fryer'
+title: Rotary Wok Fryer
 permalink: /productivity-solutions-grant/solutionrepo/solution108
 ---
 

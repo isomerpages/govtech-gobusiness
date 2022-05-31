@@ -1,5 +1,5 @@
 ---
-title: 'MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS)'
+title: MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS)
 permalink: /productivity-solutions-grant/solutionrepo/solution282
 ---
 

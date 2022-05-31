@@ -1,5 +1,5 @@
 ---
-title: 'Automatic Flange Spreader'
+title: Automatic Flange Spreader
 permalink: /productivity-solutions-grant/solutionrepo/solution1474
 ---
 

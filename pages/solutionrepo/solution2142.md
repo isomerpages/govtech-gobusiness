@@ -1,5 +1,5 @@
 ---
-title: 'Inoculation Cabinet (Laminar flow cabinet)'
+title: Inoculation Cabinet (Laminar flow cabinet)
 permalink: /productivity-solutions-grant/solutionrepo/solution2142
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'eBIS Version V1.0'
+title: eBIS Version V1.0
 permalink: /productivity-solutions-grant/solutionrepo/solution2293
 ---
 

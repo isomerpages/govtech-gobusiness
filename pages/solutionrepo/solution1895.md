@@ -1,5 +1,5 @@
 ---
-title: 'arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking'
+title: arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking
 permalink: /productivity-solutions-grant/solutionrepo/solution1895
 ---
 

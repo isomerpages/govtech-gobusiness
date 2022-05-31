@@ -1,5 +1,5 @@
 ---
-title: 'Collection Systems'
+title: Collection Systems
 permalink: /productivity-solutions-grant/solutionrepo/solution2131
 ---
 

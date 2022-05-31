@@ -1,5 +1,5 @@
 ---
-title: 'Ellie Integrated System Version 2'
+title: Ellie Integrated System Version 2
 permalink: /productivity-solutions-grant/solutionrepo/solution830
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Feed Processing Machine'
+title: Feed Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2139
 ---
 

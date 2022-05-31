@@ -1,5 +1,5 @@
 ---
-title: 'Doctor Anywhere Platform'
+title: Doctor Anywhere Platform
 permalink: /productivity-solutions-grant/solutionrepo/solution1840
 ---
 

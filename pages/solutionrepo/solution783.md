@@ -1,5 +1,5 @@
 ---
-title: 'Shopmatic'
+title: Shopmatic
 permalink: /productivity-solutions-grant/solutionrepo/solution783
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'HReasily Online Payroll Version 5'
+title: HReasily Online Payroll Version 5
 permalink: /productivity-solutions-grant/solutionrepo/solution2361
 ---
 

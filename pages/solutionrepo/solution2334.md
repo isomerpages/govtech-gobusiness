@@ -1,5 +1,5 @@
 ---
-title: 'FITPRISE Project Management System - PCM'
+title: FITPRISE Project Management System - PCM
 permalink: /productivity-solutions-grant/solutionrepo/solution2334
 ---
 

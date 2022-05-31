@@ -1,5 +1,5 @@
 ---
-title: 'Globe3 ERP V5.6'
+title: Globe3 ERP V5.6
 permalink: /productivity-solutions-grant/solutionrepo/solution1238
 ---
 

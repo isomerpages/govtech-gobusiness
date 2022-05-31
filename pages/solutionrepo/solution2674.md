@@ -1,5 +1,5 @@
 ---
-title: 'JustLogin HR E-Scheduling'
+title: JustLogin HR E-Scheduling
 permalink: /productivity-solutions-grant/solutionrepo/solution2674
 ---
 

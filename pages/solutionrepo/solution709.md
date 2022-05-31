@@ -1,5 +1,5 @@
 ---
-title: 'PixelCommerce Version 5.2.5'
+title: PixelCommerce Version 5.2.5
 permalink: /productivity-solutions-grant/solutionrepo/solution709
 ---
 

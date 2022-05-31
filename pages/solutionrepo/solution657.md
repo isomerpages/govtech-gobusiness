@@ -1,5 +1,5 @@
 ---
-title: 'OCi Sales & Accounting Management System (SAM) Version 11 '
+title: OCi Sales & Accounting Management System (SAM) Version 11 
 permalink: /productivity-solutions-grant/solutionrepo/solution657
 ---
 

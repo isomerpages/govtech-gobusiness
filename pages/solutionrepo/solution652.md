@@ -1,5 +1,5 @@
 ---
-title: 'RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE'
+title: RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE
 permalink: /productivity-solutions-grant/solutionrepo/solution652
 ---
 

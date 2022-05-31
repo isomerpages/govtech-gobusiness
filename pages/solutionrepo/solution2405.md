@@ -1,5 +1,5 @@
 ---
-title: 'NovaVision Remote Assist Version 1.0'
+title: NovaVision Remote Assist Version 1.0
 permalink: /productivity-solutions-grant/solutionrepo/solution2405
 ---
 

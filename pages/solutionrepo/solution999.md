@@ -1,5 +1,5 @@
 ---
-title: 'Dropbox Business'
+title: Dropbox Business
 permalink: /productivity-solutions-grant/solutionrepo/solution999
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Moneyworks Version 9'
+title: Moneyworks Version 9
 permalink: /productivity-solutions-grant/solutionrepo/solution680
 ---
 

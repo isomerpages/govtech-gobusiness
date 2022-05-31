@@ -1,5 +1,5 @@
 ---
-title: 'THEREFORE'
+title: THEREFORE
 permalink: /productivity-solutions-grant/solutionrepo/solution1666
 ---
 

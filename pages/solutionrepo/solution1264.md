@@ -1,5 +1,5 @@
 ---
-title: 'MyRetailer Plus Version 4'
+title: MyRetailer Plus Version 4
 permalink: /productivity-solutions-grant/solutionrepo/solution1264
 ---
 

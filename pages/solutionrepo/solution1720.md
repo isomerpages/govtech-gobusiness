@@ -1,5 +1,5 @@
 ---
-title: 'Intelli-Signage Version 3.1.4'
+title: Intelli-Signage Version 3.1.4
 permalink: /productivity-solutions-grant/solutionrepo/solution1720
 ---
 

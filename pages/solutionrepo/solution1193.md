@@ -1,5 +1,5 @@
 ---
-title: 'SmartWeb V3 Version V3'
+title: SmartWeb V3 Version V3
 permalink: /productivity-solutions-grant/solutionrepo/solution1193
 ---
 

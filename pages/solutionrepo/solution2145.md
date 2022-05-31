@@ -1,5 +1,5 @@
 ---
-title: 'Milking Machine'
+title: Milking Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2145
 ---
 

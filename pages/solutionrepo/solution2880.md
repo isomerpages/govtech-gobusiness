@@ -1,5 +1,5 @@
 ---
-title: 'CSG - Matterport Pro2 3D Solution'
+title: CSG - Matterport Pro2 3D Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution2880
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'High Speed Oven'
+title: High Speed Oven
 permalink: /productivity-solutions-grant/solutionrepo/solution56
 ---
 

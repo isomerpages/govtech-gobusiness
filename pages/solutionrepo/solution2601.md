@@ -1,5 +1,5 @@
 ---
-title: 'Taidii Smart E-Form Solution'
+title: Taidii Smart E-Form Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution2601
 ---
 

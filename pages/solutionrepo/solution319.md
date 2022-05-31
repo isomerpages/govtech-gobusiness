@@ -1,5 +1,5 @@
 ---
-title: 'Creative Sales & Order Management'
+title: Creative Sales & Order Management
 permalink: /productivity-solutions-grant/solutionrepo/solution319
 ---
 

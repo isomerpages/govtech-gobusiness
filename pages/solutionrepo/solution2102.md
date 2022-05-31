@@ -1,5 +1,5 @@
 ---
-title: 'E-Commerce Portal Development (WooCommerce)'
+title: E-Commerce Portal Development (WooCommerce)
 permalink: /productivity-solutions-grant/solutionrepo/solution2102
 ---
 

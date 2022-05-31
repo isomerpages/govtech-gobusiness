@@ -1,5 +1,5 @@
 ---
-title: 'Automated Irrigation Equipment/ System'
+title: Automated Irrigation Equipment/ System
 permalink: /productivity-solutions-grant/solutionrepo/solution2163
 ---
 

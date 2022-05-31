@@ -1,5 +1,5 @@
 ---
-title: 'ChopeBook'
+title: ChopeBook
 permalink: /productivity-solutions-grant/solutionrepo/solution1558
 ---
 

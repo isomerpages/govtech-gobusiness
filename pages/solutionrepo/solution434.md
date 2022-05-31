@@ -1,5 +1,5 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central (NAV) Version 17'
+title: Microsoft Dynamics 365 Business Central (NAV) Version 17
 permalink: /productivity-solutions-grant/solutionrepo/solution434
 ---
 

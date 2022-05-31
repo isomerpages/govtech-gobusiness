@@ -1,5 +1,5 @@
 ---
-title: 'Farm Washing System'
+title: Farm Washing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2134
 ---
 

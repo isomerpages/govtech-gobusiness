@@ -1,5 +1,5 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution)'
+title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution)
 permalink: /productivity-solutions-grant/solutionrepo/solution617
 ---
 

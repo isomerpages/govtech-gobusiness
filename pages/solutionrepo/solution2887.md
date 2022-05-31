@@ -1,5 +1,5 @@
 ---
-title: 'ABSS Accounting Software Version 23.7'
+title: ABSS Accounting Software Version 23.7
 permalink: /productivity-solutions-grant/solutionrepo/solution2887
 ---
 

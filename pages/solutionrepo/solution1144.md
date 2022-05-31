@@ -1,5 +1,5 @@
 ---
-title: 'Battery-Powered Rope Ascender'
+title: Battery-Powered Rope Ascender
 permalink: /productivity-solutions-grant/solutionrepo/solution1144
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'LittleLives 4.5'
+title: LittleLives 4.5
 permalink: /productivity-solutions-grant/solutionrepo/solution2443
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Million Stock Control System Version 3'
+title: Million Stock Control System Version 3
 permalink: /productivity-solutions-grant/solutionrepo/solution2870
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'BricsCAD A.I Design Technologies'
+title: BricsCAD A.I Design Technologies
 permalink: /productivity-solutions-grant/solutionrepo/solution2731
 ---
 

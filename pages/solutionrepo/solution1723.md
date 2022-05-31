@@ -1,5 +1,5 @@
 ---
-title: 'BOTG Version 1.0'
+title: BOTG Version 1.0
 permalink: /productivity-solutions-grant/solutionrepo/solution1723
 ---
 

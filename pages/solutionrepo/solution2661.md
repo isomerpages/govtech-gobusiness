@@ -1,5 +1,5 @@
 ---
-title: 'Simplify Version 1'
+title: Simplify Version 1
 permalink: /productivity-solutions-grant/solutionrepo/solution2661
 ---
 

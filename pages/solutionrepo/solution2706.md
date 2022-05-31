@@ -1,5 +1,5 @@
 ---
-title: 'WEB360 Version 2.0.0'
+title: WEB360 Version 2.0.0
 permalink: /productivity-solutions-grant/solutionrepo/solution2706
 ---
 

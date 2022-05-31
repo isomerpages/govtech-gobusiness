@@ -1,5 +1,5 @@
 ---
-title: 'Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System'
+title: Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
 permalink: /productivity-solutions-grant/solutionrepo/solution2162
 ---
 

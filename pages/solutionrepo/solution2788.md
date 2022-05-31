@@ -1,5 +1,5 @@
 ---
-title: 'OpensoftHR Version 18'
+title: OpensoftHR Version 18
 permalink: /productivity-solutions-grant/solutionrepo/solution2788
 ---
 

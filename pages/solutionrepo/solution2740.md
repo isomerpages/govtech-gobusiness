@@ -1,5 +1,5 @@
 ---
-title: 'DM 3D Digital Booster'
+title: DM 3D Digital Booster
 permalink: /productivity-solutions-grant/solutionrepo/solution2740
 ---
 

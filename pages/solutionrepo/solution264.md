@@ -1,5 +1,5 @@
 ---
-title: 'Augmented Reality Welding Training Solution'
+title: Augmented Reality Welding Training Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution264
 ---
 

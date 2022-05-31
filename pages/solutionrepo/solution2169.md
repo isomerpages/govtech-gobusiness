@@ -1,5 +1,5 @@
 ---
-title: 'Underwater Camera '
+title: Underwater Camera 
 permalink: /productivity-solutions-grant/solutionrepo/solution2169
 ---
 

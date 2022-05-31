@@ -1,5 +1,5 @@
 ---
-title: 'Adaptive Pay Version 2022'
+title: Adaptive Pay Version 2022
 permalink: /productivity-solutions-grant/solutionrepo/solution2890
 ---
 

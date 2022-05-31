@@ -1,5 +1,5 @@
 ---
-title: 'PEOPLECENTRAL HRMS Version 11'
+title: PEOPLECENTRAL HRMS Version 11
 permalink: /productivity-solutions-grant/solutionrepo/solution1289
 ---
 

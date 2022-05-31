@@ -1,5 +1,5 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central Version SAAS'
+title: Microsoft Dynamics 365 Business Central Version SAAS
 permalink: /productivity-solutions-grant/solutionrepo/solution1397
 ---
 

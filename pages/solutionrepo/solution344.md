@@ -1,5 +1,5 @@
 ---
-title: 'MyRetailer Android POS'
+title: MyRetailer Android POS
 permalink: /productivity-solutions-grant/solutionrepo/solution344
 ---
 

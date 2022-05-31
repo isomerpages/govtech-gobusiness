@@ -1,5 +1,5 @@
 ---
-title: 'Teamcenter Version 13'
+title: Teamcenter Version 13
 permalink: /productivity-solutions-grant/solutionrepo/solution2701
 ---
 

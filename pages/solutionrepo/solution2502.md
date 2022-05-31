@@ -1,5 +1,5 @@
 ---
-title: 'Creative eShop'
+title: Creative eShop
 permalink: /productivity-solutions-grant/solutionrepo/solution2502
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Simplr Warehouse Management and Simplr Sales Management Version 6'
+title: Simplr Warehouse Management and Simplr Sales Management Version 6
 permalink: /productivity-solutions-grant/solutionrepo/solution1421
 ---
 

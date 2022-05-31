@@ -1,5 +1,5 @@
 ---
-title: 'Blast Freezer'
+title: Blast Freezer
 permalink: /productivity-solutions-grant/solutionrepo/solution388
 ---
 

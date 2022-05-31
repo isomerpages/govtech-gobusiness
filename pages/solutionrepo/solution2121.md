@@ -1,5 +1,5 @@
 ---
-title: 'Automatic Harvester'
+title: Automatic Harvester
 permalink: /productivity-solutions-grant/solutionrepo/solution2121
 ---
 

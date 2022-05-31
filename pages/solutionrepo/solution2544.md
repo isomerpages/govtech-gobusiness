@@ -1,5 +1,5 @@
 ---
-title: 'MIBC Ecommerce'
+title: MIBC Ecommerce
 permalink: /productivity-solutions-grant/solutionrepo/solution2544
 ---
 

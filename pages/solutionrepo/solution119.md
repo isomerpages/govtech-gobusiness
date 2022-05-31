@@ -1,5 +1,5 @@
 ---
-title: 'Secure Locking System for Access Control'
+title: Secure Locking System for Access Control
 permalink: /productivity-solutions-grant/solutionrepo/solution119
 ---
 

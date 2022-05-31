@@ -1,5 +1,5 @@
 ---
-title: 'High pressure industrial vacuum cleaner'
+title: High pressure industrial vacuum cleaner
 permalink: /productivity-solutions-grant/solutionrepo/solution2073
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'SAGE 300Cloud Version 2021'
+title: SAGE 300Cloud Version 2021
 permalink: /productivity-solutions-grant/solutionrepo/solution65
 ---
 

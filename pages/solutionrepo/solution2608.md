@@ -1,5 +1,5 @@
 ---
-title: 'MMS - Xero Accounting Solution'
+title: MMS - Xero Accounting Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution2608
 ---
 
