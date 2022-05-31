@@ -4,7 +4,7 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-
 ---
 
 ## Managed Detection and Response
-## Overview
+## Description
 
 **Support Level and Conditions**
 
@@ -16,8 +16,6 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution282' target='_blank'>MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS)</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1315' target='_blank'>WFH Email Security with Cyber Essentials Online Course Package Version 1</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1870' target='_blank'>MSSP for CSA Asset Based Cyber Defence</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2003' target='_blank'>Morphisec Version 5.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2806' target='_blank'>Cybots AMDR</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2900' target='_blank'>Microsoft Cybersecurity Package</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1314' target='_blank'>WFH Email Security with Cyber Essentials Online Course Package Version 1</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1869' target='_blank'>MSSP for CSA Asset Based Cyber Defence</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2805' target='_blank'>Cybots AMDR</a><br>

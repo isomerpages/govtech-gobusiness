@@ -4,7 +4,7 @@ permalink: /browse-all-solutions-Retail/Retail-Analytics
 ---
 
 ## Retail Analytics
-## Overview
+## Description
 
 **Support Level and Conditions**
 
@@ -15,5 +15,5 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1673' target='_blank'>RetailNext In-Store Analytics Version 1</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1720' target='_blank'>Intelli-Signage Version 3.1.4</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1672' target='_blank'>RetailNext In-Store Analytics Version 1</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1719' target='_blank'>Intelli-Signage Version 3.1.4</a><br>
