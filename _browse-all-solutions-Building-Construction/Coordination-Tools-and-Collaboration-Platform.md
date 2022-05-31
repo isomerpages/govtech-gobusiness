@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Building-Construction/Coordination-Tools-and-Co
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-nextPrint
+For more information, please refer to
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
 ## Pre-Approved Solutions
