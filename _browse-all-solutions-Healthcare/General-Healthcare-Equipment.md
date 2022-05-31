@@ -4,7 +4,7 @@ permalink: /browse-all-solutions-Healthcare/General-Healthcare-Equipment
 ---
 
 ## General Healthcare Equipment
-## Description
+## Overview
 
 **Support Level and Conditions**
 
@@ -15,4 +15,4 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution2517' target='_blank'>3D Intraoral Scanner</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2518' target='_blank'>3D Intraoral Scanner</a><br>
