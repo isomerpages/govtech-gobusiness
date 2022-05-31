@@ -4,7 +4,7 @@ permalink: /browse-all-solutions-Wholesale-Trade/Enterprise-Resource-Planning--E
 ---
 
 ## Enterprise Resource Planning (ERP) Software for Wholesale
-## Overview
+## Description
 
 **Support Level and Conditions**
 
@@ -23,5 +23,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution960' target='_blank'>Microsoft Dynamics 365 Business Central for Wholesale</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2024' target='_blank'>A2000ERP Version 12.X</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution959' target='_blank'>Microsoft Dynamics 365 Business Central for Wholesale</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2023' target='_blank'>A2000ERP Version 12.X</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2225' target='_blank'>Microsoft Dynamics 365 Business Central with Mobile Add-on for Wholesale Trade Version 18-3.01</a><br>
