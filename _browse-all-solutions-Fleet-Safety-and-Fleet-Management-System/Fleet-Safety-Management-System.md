@@ -4,13 +4,13 @@ permalink: /browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-
 ---
 
 ## Fleet Safety Management System
-## Overview
+## Description
 
 **Support Level and Conditions**
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-nextPrint
+Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
 **Recommended courses**
@@ -23,7 +23,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1228' target='_blank'>Vehicle Safety System</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1865' target='_blank'>T-Guard</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2591' target='_blank'>Fleet Safety Management System Version 7</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2613' target='_blank'>School Bus Management System Version SBMS.V2</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1227' target='_blank'>Vehicle Safety System</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1864' target='_blank'>T-Guard</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2590' target='_blank'>Fleet Safety Management System Version 7</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2612' target='_blank'>School Bus Management System Version SBMS.V2</a><br>

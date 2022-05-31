@@ -4,16 +4,16 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt--CRM-
 ---
 
 ## Accounting Management Customer Relationship Management (CRM) and Sales Management System
-## Overview
+## Description
 
 **Support Level and Conditions**
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-nextPrint
+Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution491' target='_blank'>SAP Business One 9.3 Package</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution649' target='_blank'>NMTODOO - ERP</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution490' target='_blank'>SAP Business One 9.3 Package</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution648' target='_blank'>NMTODOO - ERP</a><br>

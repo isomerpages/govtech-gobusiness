@@ -7,7 +7,8 @@ permalink: /productivity-solutions-grant/all-psg-solutions/
 
 ### Solutions for specific sectors
 
-Select the sector your business is in to see the solutions you are eligible for. This should be based on the SSIC that you have registered with ACRA. 
+Select the sector your business is in to see the solutions you're eligible for.<br>
+This should be based on your ACRA-registered business nature.
 
 {% include letter-accordion.html accordions=site.data.psg001-all-solutions letter="a" %}
 

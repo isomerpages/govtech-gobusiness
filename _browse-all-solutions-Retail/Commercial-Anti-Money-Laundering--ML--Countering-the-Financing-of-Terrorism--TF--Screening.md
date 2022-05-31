@@ -4,13 +4,13 @@ permalink: /browse-all-solutions-Retail/Commercial-Anti-Money-Laundering--ML--Co
 ---
 
 ## Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening
-## Overview
+## Description
 
 **Support Level and Conditions**
 
 Up to 80% for SMEs, N.A. for non-SMEs
 
-nextPrint
+Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
 **Recommended courses**
@@ -23,5 +23,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1310' target='_blank'>SentroWeb </a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1393' target='_blank'>Artemis</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1309' target='_blank'>SentroWeb </a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1392' target='_blank'>Artemis</a><br>

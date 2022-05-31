@@ -4,16 +4,16 @@ permalink: /browse-all-solutions-Advanced-Manufacturing/Product-and-Manufacturin
 ---
 
 ## Product and Manufacturing Process Configuration
-## Overview
+## Description
 
 **Support Level and Conditions**
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-nextPrint
+Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1899' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module)</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2701' target='_blank'>Teamcenter Version 13</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1898' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module)</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2700' target='_blank'>Teamcenter Version 13</a><br>

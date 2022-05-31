@@ -4,13 +4,13 @@ permalink: /browse-all-solutions-Food-Services/B2B-Marketplace-E-Procurement-Sys
 ---
 
 ## B2B Marketplace/E-Procurement System
-## Overview
+## Description
 
 **Support Level and Conditions**
 
 Up to 80% for SMEs, N.A. for non-SMEs
 
-nextPrint
+Funded and administrated by Enterprise Singapore (ESG). For more information, please refer to
 [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
 
 **Recommended courses**
@@ -23,5 +23,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution785' target='_blank'>Ezyprocure Version 2.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2031' target='_blank'>Zeemart</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution784' target='_blank'>Ezyprocure Version 2.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2030' target='_blank'>Zeemart</a><br>
