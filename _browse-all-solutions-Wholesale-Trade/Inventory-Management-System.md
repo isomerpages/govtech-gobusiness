@@ -4,7 +4,7 @@ permalink: /browse-all-solutions-Wholesale-Trade/Inventory-Management-System
 ---
 
 ## Inventory Management System
-## Description
+## Overview
 
 **Support Level and Conditions**
 
@@ -23,4 +23,4 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1222' target='_blank'>Equip Wholesale Solutions Version 3</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1223' target='_blank'>Equip Wholesale Solutions Version 3</a><br>
