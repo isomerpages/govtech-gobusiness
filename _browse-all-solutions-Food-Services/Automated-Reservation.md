@@ -1,10 +1,10 @@
 ---
-title: 'Automated Reservation'
+title: Automated Reservation
 permalink: /browse-all-solutions-Food-Services/Automated-Reservation
 ---
 
 ## Automated Reservation
-## Overview
+## Description
 
 **Support Level and Conditions**
 
@@ -23,4 +23,4 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1558' target='_blank'>ChopeBook</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1557' target='_blank'>ChopeBook</a><br>

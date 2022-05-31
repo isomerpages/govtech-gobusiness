@@ -1,10 +1,10 @@
 ---
-title: 'General Precision Engineering Equipment'
+title: General Precision Engineering Equipment
 permalink: /browse-all-solutions-Precision-Engineering/General-Precision-Engineering-Equipment
 ---
 
 ## General Precision Engineering Equipment
-## Overview
+## Description
 
 **Support Level and Conditions**
 

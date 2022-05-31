@@ -1,10 +1,10 @@
 ---
-title: 'Automated Visitor Management'
+title: Automated Visitor Management
 permalink: /browse-all-solutions-Security/Automated-Visitor-Management
 ---
 
 ## Automated Visitor Management
-## Overview
+## Description
 
 **Support Level and Conditions**
 
@@ -15,4 +15,4 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1999' target='_blank'>Armfort Security Visitor Management System Version 1.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1998' target='_blank'>Armfort Security Visitor Management System Version 1.0</a><br>

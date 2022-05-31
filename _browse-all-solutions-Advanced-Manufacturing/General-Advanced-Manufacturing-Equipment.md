@@ -1,10 +1,10 @@
 ---
-title: 'General Advanced Manufacturing Equipment'
+title: General Advanced Manufacturing Equipment
 permalink: /browse-all-solutions-Advanced-Manufacturing/General-Advanced-Manufacturing-Equipment
 ---
 
 ## General Advanced Manufacturing Equipment
-## Overview
+## Description
 
 **Support Level and Conditions**
 

@@ -1,10 +1,10 @@
 ---
-title: 'E-Freight Management'
+title: E-Freight Management
 permalink: /browse-all-solutions-Logistics/E-Freight-Management
 ---
 
 ## E-Freight Management
-## Overview
+## Description
 
 **Support Level and Conditions**
 
@@ -15,5 +15,5 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1416' target='_blank'>Freight Master Version 8.1</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1521' target='_blank'>SYSFREIGHT Version 8</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1415' target='_blank'>Freight Master Version 8.1</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1520' target='_blank'>SYSFREIGHT Version 8</a><br>

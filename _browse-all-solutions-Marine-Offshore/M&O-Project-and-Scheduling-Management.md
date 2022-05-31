@@ -1,10 +1,10 @@
 ---
-title: 'M&O Project and Scheduling Management'
+title: M&O Project and Scheduling Management
 permalink: /browse-all-solutions-Marine-Offshore/M&O-Project-and-Scheduling-Management
 ---
 
 ## M&O Project and Scheduling Management
-## Overview
+## Description
 
 **Support Level and Conditions**
 
@@ -15,4 +15,4 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution2210' target='_blank'>FITPRISE Job Inspection System</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2209' target='_blank'>FITPRISE Job Inspection System</a><br>

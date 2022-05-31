@@ -1,10 +1,10 @@
 ---
-title: 'General M&O Equipment'
+title: General M&O Equipment
 permalink: /browse-all-solutions-Marine-Offshore/General-M&O-Equipment
 ---
 
 ## General M&O Equipment
-## Overview
+## Description
 
 **Support Level and Conditions**
 
@@ -24,13 +24,13 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 <a href='/productivity-solutions-grant/solutionrepo/solution128' target='_blank'>Steel Plate Butt Joint Welding Alignment Tool</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution159' target='_blank'>Vertical Carousel</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution264' target='_blank'>Augmented Reality Welding Training Solution</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1144' target='_blank'>Battery-Powered Rope Ascender</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1145' target='_blank'>Laser Geometric Alignment System</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1146' target='_blank'>Auto Welding Carriage</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1287' target='_blank'>Digital Welding Equipment </a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2036' target='_blank'>Mobile Computer (Warehouse application)</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2037' target='_blank'>Automated tools management system</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2038' target='_blank'>Automatic Nut Splitter</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2075' target='_blank'>Battery-operated Torque Wrench</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2860' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2861' target='_blank'>Robotic arms</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1143' target='_blank'>Battery-Powered Rope Ascender</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1144' target='_blank'>Laser Geometric Alignment System</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1145' target='_blank'>Auto Welding Carriage</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1286' target='_blank'>Digital Welding Equipment </a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2035' target='_blank'>Mobile Computer (Warehouse application)</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2036' target='_blank'>Automated tools management system</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2037' target='_blank'>Automatic Nut Splitter</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2074' target='_blank'>Battery-operated Torque Wrench</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2859' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2860' target='_blank'>Robotic arms</a><br>

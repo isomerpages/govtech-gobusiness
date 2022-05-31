@@ -1,10 +1,10 @@
 ---
-title: 'Human Resource E-scheduling System'
+title: Human Resource E-scheduling System
 permalink: /browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-scheduling-System
 ---
 
 ## Human Resource E-scheduling System
-## Overview
+## Description
 
 **Support Level and Conditions**
 
@@ -15,10 +15,11 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1171' target='_blank'>(eScheduling) QuickHR</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1405' target='_blank'>StaffAny Version 1.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1661' target='_blank'>TimeCentral Version 11</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2008' target='_blank'>Roubler</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2369' target='_blank'>WhyzeHR eScheduling</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2410' target='_blank'>Flick Time Management System Enterprise Enhanced (TMSEE)</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2674' target='_blank'>JustLogin HR E-Scheduling</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1170' target='_blank'>(eScheduling) QuickHR</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1404' target='_blank'>StaffAny Version 1.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1660' target='_blank'>TimeCentral Version 11</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2007' target='_blank'>Roubler</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2078' target='_blank'>KNOW Version 5</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2368' target='_blank'>WhyzeHR eScheduling</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2409' target='_blank'>Flick Time Management System Enterprise Enhanced (TMSEE)</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2673' target='_blank'>JustLogin HR E-Scheduling</a><br>

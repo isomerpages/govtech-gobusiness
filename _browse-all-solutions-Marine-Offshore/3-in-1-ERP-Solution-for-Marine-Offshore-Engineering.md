@@ -1,10 +1,10 @@
 ---
-title: '3-in-1 ERP Solution for Marine Offshore Engineering'
+title: 3-in-1 ERP Solution for Marine Offshore Engineering
 permalink: /browse-all-solutions-Marine-Offshore/3-in-1-ERP-Solution-for-Marine-Offshore-Engineering
 ---
 
 ## 3-in-1 ERP Solution for Marine Offshore Engineering
-## Overview
+## Description
 
 **Support Level and Conditions**
 
@@ -15,4 +15,4 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution2214' target='_blank'>Synergix</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2213' target='_blank'>Synergix</a><br>
