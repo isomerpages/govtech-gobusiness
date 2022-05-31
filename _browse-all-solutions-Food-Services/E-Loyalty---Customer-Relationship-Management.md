@@ -4,7 +4,7 @@ permalink: /browse-all-solutions-Food-Services/E-Loyalty---Customer-Relationship
 ---
 
 ## E-Loyalty / Customer Relationship Management
-## Overview
+## Description
 
 **Support Level and Conditions**
 
@@ -15,4 +15,4 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1262' target='_blank'>Aptsys Customer Relation Management System (CRM/Loyalty Programme)</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1261' target='_blank'>Aptsys Customer Relation Management System (CRM/Loyalty Programme)</a><br>
