@@ -58,13 +58,9 @@ Sophos safeguards all users' devices under one management, either on premise or 
 </tr>
 </table>
 
-## Mode and Schedule of Payment
-
- - Direct Purchase
-
 ## Vendor Information
 
- Web URL: www.jussolve.com <br>Contact Hotline: 66591811 <br>Contact Email: sales@jussolve.com <br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

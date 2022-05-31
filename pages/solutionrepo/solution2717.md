@@ -60,11 +60,11 @@ Rentalworks is a provider of sustainable IT device lease-to-use and endpoint sec
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: https://axiomitsolns.com/our-solutions/modern-workplace/ <br>Contact Hotline: 62857288 <br>Contact Email: sales@axiomitsolns.com <br>
+ Web URL: www.jussolve.com <br>Contact Hotline: 66591811 <br>Contact Email: sales@jussolve.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

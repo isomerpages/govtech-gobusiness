@@ -58,10 +58,6 @@ Bitdefender GZ Advanced Business Security -- Guard against all threats and attac
 </tr>
 </table>
 
-## Mode and Schedule of Payment
-
- - Direct Purchase
-
 ## Vendor Information
 
  

@@ -3,7 +3,7 @@ title: AM8ZE ERP: VISTA
 permalink: /productivity-solutions-grant/solutionrepo/solution2895
 ---
 
-## AM8ZE ERP: VISTA
+## AM8ZE ERP- VISTA
 
 ## Overview
 
