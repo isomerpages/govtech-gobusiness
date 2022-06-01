@@ -4,7 +4,7 @@ permalink: /browse-all-solutions-Food-Services/Queue-Management
 ---
 
 ## Queue Management
-## Description
+## Overview
 
 **Support Level and Conditions**
 
@@ -15,4 +15,4 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1690' target='_blank'>ChopeQueues</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1691' target='_blank'>ChopeQueues</a><br>

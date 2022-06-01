@@ -4,7 +4,7 @@ permalink: /browse-all-solutions-Retail/Enhanced-Retail-Management-and-Inventory
 ---
 
 ## Enhanced Retail Management and Inventory Management
-## Description
+## Overview
 
 **Support Level and Conditions**
 
@@ -20,9 +20,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Retail-Sf-Inventory-Control-Perform-Stock-Control-Retail-Operations-2'  target='_blank' rel='noopener'>1. WSQ Retail (Sf): Inventory Control (Perform Stock Control for Retail Operations)</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Retail-Sf-Sales-Closure-Perform-Point-Sale-Operations-2'  target='_blank' rel='noopener'>2. WSQ Retail (Sf): Sales Closure (Perform Point of Sale Operations)</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/RETSF-Sales-Analytics-2'  target='_blank' rel='noopener'>3. RETSF Sales Analytics</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Retail-Sf-Inventory-Control-Perform-Stock-Control-Retail-Operations-2'  target='_blank' rel='noopener'>1. WSQ Retail (Sf): Inventory Control (Perform Stock Control for Retail Operations)</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Retail-Sf-Sales-Closure-Perform-Point-Sale-Operations-2'  target='_blank' rel='noopener'>2. WSQ Retail (Sf): Sales Closure (Perform Point of Sale Operations)</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/RETSF-Sales-Analytics-2'  target='_blank' rel='noopener'>3. RETSF Sales Analytics</a><br>
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1182' target='_blank'>MEGAPOS </a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1350' target='_blank'>FingerBooth POS System Version 1 </a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1447' target='_blank'>Octopus Retail Solution</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1183' target='_blank'>MEGAPOS </a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1351' target='_blank'>FingerBooth POS System Version 1 </a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1448' target='_blank'>Octopus Retail Solution</a><br>
