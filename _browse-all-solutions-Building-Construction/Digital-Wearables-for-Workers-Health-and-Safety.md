@@ -10,9 +10,6 @@ permalink: /browse-all-solutions-Building-Construction/Digital-Wearables-for-Wor
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-For more information, please refer to
-[https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
-
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution2409' target='_blank'>NovaVision Remote Assist Version 1.0</a><br>
