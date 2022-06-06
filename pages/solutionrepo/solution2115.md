@@ -1,15 +1,15 @@
 ---
-title: Automated Vaccination
+title: Aeration System/ Oxygenation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2115
 ---
 
-## Automated Vaccination
+## Aeration System/ Oxygenation System
 
 ## Overview
 
 **Description**
 
-Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
+For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ Automatic vaccination machine that increases accuracy and rate of vaccination, a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Vaccination</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

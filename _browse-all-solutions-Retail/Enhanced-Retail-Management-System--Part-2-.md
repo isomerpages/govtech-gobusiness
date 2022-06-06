@@ -29,9 +29,9 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 <a href='/productivity-solutions-grant/solutionrepo/solution1264' target='_blank'>MyRetailer Plus Version 4</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1501' target='_blank'>SGDATAPOS Version 5.1</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1723' target='_blank'>BOTG Version 1.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1878' target='_blank'>LFSUITE Version 6.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2753' target='_blank'>EPOS Enhanced POS Version 2.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2905' target='_blank'>AZ Digital POS solution</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2915' target='_blank'>EQuipPOS Retail Solutions Version 3</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution3006' target='_blank'>Shopcada POS Version 2</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1879' target='_blank'>LFSUITE Version 6.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2757' target='_blank'>EPOS Enhanced POS Version 2.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2909' target='_blank'>AZ Digital POS solution</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2919' target='_blank'>EQuipPOS Retail Solutions Version 3</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution3009' target='_blank'>Shopcada POS Version 2</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution3164' target='_blank'>SSJ-Related</a><br>

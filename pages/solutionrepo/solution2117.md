@@ -1,15 +1,15 @@
 ---
-title: Automated Mixer/ Compacter for Growing Media
+title: Automated Sorter/ Grader
 permalink: /productivity-solutions-grant/solutionrepo/solution2117
 ---
 
-## Automated Mixer/ Compacter for Growing Media
+## Automated Sorter/ Grader
 
 ## Overview
 
 **Description**
 
-Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
+Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ Automated mixer/ compacter to handle a variety of growing media as well as vario
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Mixer/ Compacter for Growing Media</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Sorter/ Grader</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

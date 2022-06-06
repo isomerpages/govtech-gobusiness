@@ -1,15 +1,15 @@
 ---
-title: Conveyor System for transporting materials
+title: Automatic Seed Sowing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2126
 ---
 
-## Conveyor System for transporting materials
+## Automatic Seed Sowing Machine
 
 ## Overview
 
 **Description**
 
-A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
+A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A conveyor system that automates farming processes such as production, feeding, 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Conveyor System for transporting materials</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Sowing Machine</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

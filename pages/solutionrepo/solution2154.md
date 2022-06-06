@@ -1,15 +1,15 @@
 ---
-title: Substrate Mixing and Packing Machine
+title: Robot Cleaner
 permalink: /productivity-solutions-grant/solutionrepo/solution2154
 ---
 
-## Substrate Mixing and Packing Machine
+## Robot Cleaner
 
 ## Overview
 
 **Description**
 
-A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
+A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A machine that mix and fill substrate bags with various nutrients that's necessa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Substrate Mixing and Packing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robot Cleaner </td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

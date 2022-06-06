@@ -1,15 +1,15 @@
 ---
-title: Automated Slaughtering Equipment
+title: Automated Vaccination
 permalink: /productivity-solutions-grant/solutionrepo/solution2118
 ---
 
-## Automated Slaughtering Equipment
+## Automated Vaccination
 
 ## Overview
 
 **Description**
 
-Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
+Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ Automated line to slaughter livestock from cutting, deskinning and deboning line
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Slaughtering Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Vaccination</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

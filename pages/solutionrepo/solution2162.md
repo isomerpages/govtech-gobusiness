@@ -1,15 +1,15 @@
 ---
-title: Environment/ Water/ Nutrient Sampling Monitoring Control Equipment/ System
+title: Water Treatment System for Water Recirculation or Discharge
 permalink: /productivity-solutions-grant/solutionrepo/solution2162
 ---
 
-## Environment/ Water/ Nutrient Sampling Monitoring Control Equipment/ System
+## Water Treatment System for Water Recirculation or Discharge
 
 ## Overview
 
 **Description**
 
-Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
+A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ Dosers and sensors or sub-meters for water and energy monitoring of relevant far
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Treatment System for Water Recirculation or Discharge</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

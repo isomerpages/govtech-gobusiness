@@ -23,18 +23,18 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 <a href='/productivity-solutions-grant/solutionrepo/solution1289' target='_blank'>PEOPLECENTRAL HRMS Version 11</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1346' target='_blank'>SMARTHRMS Version 1</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1453' target='_blank'>Swingvy</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2254' target='_blank'>SYNERGIX E1 Version TH6</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2255' target='_blank'>SYNERGIX E1 Version TH7</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2342' target='_blank'>ITAPS</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2361' target='_blank'>HReasily Online Payroll Version 5</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2366' target='_blank'>BIPO Human Resource Management System</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2391' target='_blank'>SmartCursors Human Resource Management System (HRMS)</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2678' target='_blank'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2735' target='_blank'>WhyzeHR Version 12</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2788' target='_blank'>OpensoftHR Version 18</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2798' target='_blank'>TIMES SOFTWARE HRMS Version 18</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2816' target='_blank'>Payboy HRMS</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2862' target='_blank'>Carbonate HR Version 1</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2890' target='_blank'>Adaptive Pay Version 2022</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2920' target='_blank'>Frontier e-HR Version 8 - AutomateHR eFrontier</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2257' target='_blank'>SYNERGIX E1 Version TH6</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2258' target='_blank'>SYNERGIX E1 Version TH7</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2345' target='_blank'>ITAPS</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2365' target='_blank'>HReasily Online Payroll Version 5</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2370' target='_blank'>BIPO Human Resource Management System</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2395' target='_blank'>SmartCursors Human Resource Management System (HRMS)</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2682' target='_blank'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2739' target='_blank'>WhyzeHR Version 12</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2792' target='_blank'>OpensoftHR Version 18</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2802' target='_blank'>TIMES SOFTWARE HRMS Version 18</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2820' target='_blank'>Payboy HRMS</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2866' target='_blank'>Carbonate HR Version 1</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2894' target='_blank'>Adaptive Pay Version 2022</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2924' target='_blank'>Frontier e-HR Version 8 - AutomateHR eFrontier</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution3181' target='_blank'>SSJ-Related</a><br>

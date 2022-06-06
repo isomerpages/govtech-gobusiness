@@ -1,16 +1,16 @@
 ---
-title: Autocount Accounting Version 20
+title: Gurusoft Logistics Management System Version 11
 permalink: /productivity-solutions-grant/solutionrepo/solution2693
 ---
 
-## Autocount Accounting Version 20
+## Gurusoft Logistics Management System Version 11
 
 ## Overview
 
 **Description**
 
-A flexible, versatile and user-friendly system that covers all your accounting and inventory needs.
-AutoCount Accounting stands out as one of the best accounting software for today business requirements. It has a powerful tool to manage your business data, to analyze your business performance, to share your business information and to help you make informed business decisions.
+Gurusoft is a Singapore based company founded in 2003 with 19 years of special focus in Warehousing, Transportation and Supply Chain, our systems are used by more than 6,000 logistics professionals.
+Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS solutions designed specifically for local SME customers in mind.  Our system is fully configurable and very easy to use. Most of our implementations are done faster than expected with very minimum training.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +24,31 @@ AutoCount Accounting stands out as one of the best accounting software for today
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Basic 2 users</td>
-<td style='padding: 10px;'>5000</td>
-<td style='padding: 10px;'>5000</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System -  3 Users Pack</td>
+<td style='padding: 10px;'>20260</td>
+<td style='padding: 10px;'>20260</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Pro 3 users</td>
-<td style='padding: 10px;'>7520</td>
-<td style='padding: 10px;'>7520</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 5 Users Pack</td>
+<td style='padding: 10px;'>25800</td>
+<td style='padding: 10px;'>25800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 5 users</td>
-<td style='padding: 10px;'>10520</td>
-<td style='padding: 10px;'>10520</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 10 Users Pack</td>
+<td style='padding: 10px;'>35900</td>
+<td style='padding: 10px;'>33400</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 7 users</td>
-<td style='padding: 10px;'>11720</td>
-<td style='padding: 10px;'>11720</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 10 users</td>
-<td style='padding: 10px;'>13520</td>
-<td style='padding: 10px;'>13520</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - On Premise </td>
+<td style='padding: 10px;'>50000</td>
+<td style='padding: 10px;'>43000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +58,7 @@ AutoCount Accounting stands out as one of the best accounting software for today
 
 ## Vendor Information
 
- Web URL: www.creaworld.com.sg <br><br>Contact Hotline: 63922857 <br><br>Contact Email: enquiry@creaworld.com.sg <br><br>
+ Web URL: https://www.gurusofttech.com/WMS <br><br>Contact Hotline: 62708083 <br><br>Contact Email: sales@gurusoft.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

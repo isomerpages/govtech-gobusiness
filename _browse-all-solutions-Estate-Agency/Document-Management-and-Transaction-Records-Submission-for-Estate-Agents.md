@@ -15,5 +15,5 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution2623' target='_blank'>RealtyPromote - Document Management & Transaction Records Version 3.2TM</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2712' target='_blank'>Redoc - Document Management & Transaction Records Version 1.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2627' target='_blank'>RealtyPromote - Document Management & Transaction Records Version 3.2TM</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2716' target='_blank'>Redoc - Document Management & Transaction Records Version 1.0</a><br>

@@ -1,15 +1,15 @@
 ---
-title: Water Filtration System
+title: Vacuum Cooler Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2158
 ---
 
-## Water Filtration System
+## Vacuum Cooler Equipment
 
 ## Overview
 
 **Description**
 
-A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
+A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A system for filtration of water used for farming to improve growing conditions,
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Filtration System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Cooler Equipment</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

@@ -1,15 +1,15 @@
 ---
-title: Automatic Seed Sowing Machine
+title: Automatic Feeding/ Drinking System
 permalink: /productivity-solutions-grant/solutionrepo/solution2123
 ---
 
-## Automatic Seed Sowing Machine
+## Automatic Feeding/ Drinking System
 
 ## Overview
 
 **Description**
 
-A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
+A system that automates the feeding/ drinking process at a predetermined time and ensures that animals are fed with precision with reduced feed/ water wastage. It includes the components that makes up the automatic feeding/ drinking system, e.g. container (hopper), mechanism for distribution, control unit for starting / stopping the distribution mechanism, etc.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A machine that sow seeds at a specified depth and position and ensures uniform a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Sowing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Feeding/ Drinking System</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

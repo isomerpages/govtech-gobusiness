@@ -23,6 +23,6 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 <a href='/productivity-solutions-grant/solutionrepo/solution21' target='_blank'>Automated Sushi Making Machine</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution56' target='_blank'>High Speed Oven</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution402' target='_blank'>Combi Oven</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2519' target='_blank'>Automated Deep Fryer</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2520' target='_blank'>Blast Chiller</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2521' target='_blank'>Ozonised Air + Surface Sterilization System</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2523' target='_blank'>Automated Deep Fryer</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2524' target='_blank'>Blast Chiller</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2525' target='_blank'>Ozonised Air + Surface Sterilization System</a><br>

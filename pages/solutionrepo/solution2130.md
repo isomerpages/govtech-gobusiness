@@ -1,15 +1,15 @@
 ---
-title: Ear Tagging Machine
+title: Crate/ Tray washing machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2130
 ---
 
-## Ear Tagging Machine
+## Crate/ Tray washing machine
 
 ## Overview
 
 **Description**
 
-A machine used to place ear tags into the ears of livestocks to provide a means of identification.
+A machine used to wash crates and trays used for farming.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A machine used to place ear tags into the ears of livestocks to provide a means 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ear Tagging Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

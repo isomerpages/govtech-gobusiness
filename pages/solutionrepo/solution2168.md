@@ -1,15 +1,15 @@
 ---
-title: Digital quality testing equipment
+title: LED grow lights
 permalink: /productivity-solutions-grant/solutionrepo/solution2168
 ---
 
-## Digital quality testing equipment
+## LED grow lights
 
 ## Overview
 
 **Description**
 
-Quality testing equipment in measuring the produce quality and freshness
+LED grow lights with smart dynamic lighting control to help plants grow.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ Quality testing equipment in measuring the produce quality and freshness
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital quality testing equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LED grow lights</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

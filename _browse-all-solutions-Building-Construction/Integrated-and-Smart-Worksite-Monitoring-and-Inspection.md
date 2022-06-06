@@ -15,5 +15,5 @@ For more information, please refer to
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution2293' target='_blank'>eBIS Version V1.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2618' target='_blank'>AirGo 360- Virtual Sites platform</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2296' target='_blank'>eBIS Version V1.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2622' target='_blank'>AirGo 360- Virtual Sites platform</a><br>

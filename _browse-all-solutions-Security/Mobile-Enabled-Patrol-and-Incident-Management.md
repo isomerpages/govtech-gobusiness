@@ -26,5 +26,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution2554' target='_blank'>AdeptForms Security Operational Management Version 2</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2811' target='_blank'>iREP Security System Version 4.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2558' target='_blank'>AdeptForms Security Operational Management Version 2</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2815' target='_blank'>iREP Security System Version 4.0</a><br>

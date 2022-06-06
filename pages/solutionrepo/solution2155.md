@@ -1,15 +1,15 @@
 ---
-title: Vacuum Cooler Equipment
+title: Solar Panels System and Energy Storage System
 permalink: /productivity-solutions-grant/solutionrepo/solution2155
 ---
 
-## Vacuum Cooler Equipment
+## Solar Panels System and Energy Storage System
 
 ## Overview
 
 **Description**
 
-A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
+A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A system that rapidly cools from produce to extend shelf life and be more energy
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Cooler Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solar Panels System and Energy Storage System</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

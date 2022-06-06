@@ -1,15 +1,15 @@
 ---
-title: Culture Tank System with Monitoring and Control System
+title: Closed Containment System
 permalink: /productivity-solutions-grant/solutionrepo/solution2128
 ---
 
-## Culture Tank System with Monitoring and Control System
+## Closed Containment System
 
 ## Overview
 
 **Description**
 
-Cultivation system with monitoring and control system
+To cultivate produce in a controlled environment that isolates and protects them from external factors.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ Cultivation system with monitoring and control system
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Culture Tank System with Monitoring and Control System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Closed Containment System</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

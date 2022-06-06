@@ -15,4 +15,4 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution2214' target='_blank'>Synergix</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2217' target='_blank'>Synergix</a><br>

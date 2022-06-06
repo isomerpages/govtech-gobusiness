@@ -1,16 +1,15 @@
 ---
-title: Kaspersky Endpoint Security Version 1160
+title: XERO CLOUD APPLICATION
 permalink: /productivity-solutions-grant/solutionrepo/solution2492
 ---
 
-## Kaspersky Endpoint Security Version 1160
+## XERO CLOUD APPLICATION
 
 ## Overview
 
 **Description**
 
-Kaspersky Endpoint Security is the world's most tested, most awarded security application powered by next-generation technologies to protect all endpoints - and the data on them.
-It combines multi-layered, next-generation threat protection with additional proactive technologies such as Application, Web and Device controls, vulnerability and patch management and data encryption into an EDR-ready endpoint agent to protect your sensitive data on every endpoint.
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
 
 ## Solution Packages Option(s)
 
@@ -24,48 +23,41 @@ It combines multi-layered, next-generation threat protection with additional pro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus (10 License)</td>
-<td style='padding: 10px;'>750</td>
-<td style='padding: 10px;'>750</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD APPLICATION - Xero Comprehensive Package A (Inclusive of subscription cost)</td>
+<td style='padding: 10px;'>800</td>
+<td style='padding: 10px;'>725</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus  (25 License)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD APPLICATION - Xero Comprehensive Package B (Inclusive of set-up)</td>
+<td style='padding: 10px;'>1800</td>
 <td style='padding: 10px;'>1725</td>
-<td style='padding: 10px;'>1725</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus (50 License)</td>
-<td style='padding: 10px;'>3150</td>
-<td style='padding: 10px;'>3150</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD APPLICATION - Xero Comprehensive Package C (Inclusive of training)</td>
+<td style='padding: 10px;'>2300</td>
+<td style='padding: 10px;'>2225</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - 	Kaspersky Endpoint Security Cloud Plus (100 License)</td>
-<td style='padding: 10px;'>4800</td>
-<td style='padding: 10px;'>4800</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus (200 License)</td>
-<td style='padding: 10px;'>8800</td>
-<td style='padding: 10px;'>8800</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD APPLICATION - Xero Comprehensive Package D (Premium Package)</td>
+<td style='padding: 10px;'>3300</td>
+<td style='padding: 10px;'>3225</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Web URL: http://www.techfount.com <br><br>Contact Hotline: 65478900 <br><br>Contact Email: info@techfount.com <br><br>
+ Web URL: WWW.SMARTCURSORS.COM <br><br>Contact Hotline: 63365500 <br><br>Contact Email: CONTACT@SMARTCURSORS.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

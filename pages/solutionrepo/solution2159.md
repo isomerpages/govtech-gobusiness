@@ -1,15 +1,15 @@
 ---
-title: Water Treatment System for Water Recirculation or Discharge
+title: Farm Produce Washing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2159
 ---
 
-## Water Treatment System for Water Recirculation or Discharge
+## Farm Produce Washing Machine
 
 ## Overview
 
 **Description**
 
-A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
+A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A system for wastewater treatment to improve the water quality before the water 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Treatment System for Water Recirculation or Discharge</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

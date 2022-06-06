@@ -1,15 +1,15 @@
 ---
-title: Dehusking Machine/ Shaker
+title: Conveyor System for transporting materials
 permalink: /productivity-solutions-grant/solutionrepo/solution2129
 ---
 
-## Dehusking Machine/ Shaker
+## Conveyor System for transporting materials
 
 ## Overview
 
 **Description**
 
-Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
+A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and co
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dehusking Machine/ Shaker</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Conveyor System for transporting materials</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

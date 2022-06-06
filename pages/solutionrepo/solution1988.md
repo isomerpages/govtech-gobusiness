@@ -1,15 +1,15 @@
 ---
-title: Automatic Shrink Wrap Packaging Machine
+title: Automatic Flow Wrap Packaging Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution1988
 ---
 
-## Automatic Shrink Wrap Packaging Machine
+## Automatic Flow Wrap Packaging Machine
 
 ## Overview
 
 **Description**
 
-Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
+Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
 
 Cost of equipment capped at $37,500 per unit
 
@@ -25,7 +25,7 @@ Cost of equipment capped at $37,500 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Shrink Wrap Packaging Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flow Wrap Packaging Machine</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'>37500</td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

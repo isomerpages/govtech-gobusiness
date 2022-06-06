@@ -1,15 +1,17 @@
 ---
-title: Morphisec Version 50
+title: Ethylene Removal System
 permalink: /productivity-solutions-grant/solutionrepo/solution2003
 ---
 
-## Morphisec Version 50
+## Ethylene Removal System
 
 ## Overview
 
 **Description**
 
-EQCOMS's Managed Security Service deliver operationally simple, proactive prevention unbound by the limits of detection and prediction. We partnering Morphisec - They protect businesses around the globe from the most dangerous and sophisticated cyberattacks immediately, efficiently and absolutely.
+An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
+
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -23,48 +25,20 @@ EQCOMS's Managed Security Service deliver operationally simple, proactive preven
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME micro</td>
-<td style='padding: 10px;'>2800</td>
-<td style='padding: 10px;'>2800</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME mini</td>
-<td style='padding: 10px;'>5900</td>
-<td style='padding: 10px;'>5900</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (S)</td>
-<td style='padding: 10px;'>21360</td>
-<td style='padding: 10px;'>21360</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (M)</td>
-<td style='padding: 10px;'>33680</td>
-<td style='padding: 10px;'>33680</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (L)</td>
-<td style='padding: 10px;'>39960</td>
-<td style='padding: 10px;'>39960</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ethylene Removal System</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: www.eqcoms.com <br><br>Contact Hotline: 67453177 <br><br>Contact Email: salesadmin@eqcoms.com <br><br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: Temperature montoring/ labelling device
+title: Packing machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2170
 ---
 
-## Temperature montoring/ labelling device
+## Packing machine
 
 ## Overview
 
 **Description**
 
-Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
+A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ Accurate infrared temperature monitoring and labelling devices that improves pro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Temperature montoring/ labelling device</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing machine</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

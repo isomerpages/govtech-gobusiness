@@ -1,15 +1,15 @@
 ---
-title: Automatic case labelling machine
+title: Automated Irrigation Dosing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2119
 ---
 
-## Automatic case labelling machine
+## Automated Irrigation Dosing System
 
 ## Overview
 
 **Description**
 
-Case printing system or pack labelling system which allow the user to fully customize their label.
+Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ Case printing system or pack labelling system which allow the user to fully cust
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic case labelling machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation & Dosing System</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

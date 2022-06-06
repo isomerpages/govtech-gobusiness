@@ -1,16 +1,15 @@
 ---
-title: BricsCAD AI Design Technologies
+title: OOM_Ecommerce_Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution2731
 ---
 
-## BricsCAD AI Design Technologies
+## OOM_Ecommerce_Solution
 
 ## Overview
 
 **Description**
 
-BricsCAD is a computer-aided design (CAD) system that is bringing new levels of performance and technical innovation to the industry-standard DWG format. The development team at Bricsys is incorporating A.I. / machine learning (ML) algorithms into BricsCAD, to help improve 3D BIM and MCAD workflows for AEC and Manufacturing Industries.
-BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Alliance.
+OOm is a digital performance marketing agency founded in 2006, with high competency in performance marketing to drive results for SMEs using Google and Facebook. OOm has since expanded to the Philippines, China and Hong Kong to accommodate the growing local and regional demands in digital marketing. SMEs can tap on OOm's Ecommerce Solution to set up a new ecommerce website and leverage on OOm's expertise in digital marketing to drive results for their business after the website is set up.
 
 ## Solution Packages Option(s)
 
@@ -24,31 +23,10 @@ BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Allia
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD A.I Design Technologies - BricsCAD Ultimate Perpetual Single User License</td>
-<td style='padding: 10px;'>3530</td>
-<td style='padding: 10px;'>2800</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD A.I Design Technologies - BricsCAD Ultimate + Communicator for BricsCAD Perpetual Single User License</td>
-<td style='padding: 10px;'>4410</td>
-<td style='padding: 10px;'>2800</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD A.I Design Technologies - BricsCAD Ultimate Perpetual Network License</td>
-<td style='padding: 10px;'>5300</td>
-<td style='padding: 10px;'>2800</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD A.I Design Technologies - BricsCAD Ultimate + Communicator for BricsCAD Perpetual Network License</td>
-<td style='padding: 10px;'>6650</td>
-<td style='padding: 10px;'>2800</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OOM_Ecommerce_Solution - Value Plan</td>
+<td style='padding: 10px;'>8000</td>
+<td style='padding: 10px;'>8000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_Ecommerce_20200761_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -58,7 +36,7 @@ BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Allia
 
 ## Vendor Information
 
- Web URL: https://aca-apac.com/sg/brands/-in-department/departments/bricsys <br><br>Contact Hotline: 65361728 <br><br>Contact Email: enquiry@acapacific.com.sg <br><br>
+ Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

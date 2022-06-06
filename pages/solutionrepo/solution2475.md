@@ -1,15 +1,15 @@
 ---
-title: Smart Glasses - InnoGlas
+title: DM Accelerated Digital Marketing For SMEs
 permalink: /productivity-solutions-grant/solutionrepo/solution2475
 ---
 
-## Smart Glasses - InnoGlas
+## DM Accelerated Digital Marketing For SMEs
 
 ## Overview
 
 **Description**
 
-InnoGlas is an augmented reality (AR) glasses solution, capable of many industrial applications, including hands-free remote assistance, customized SOP, and facial recognition.
+This package by Next Level SG is designed to help SMEs with increasing and accelerating their digital marketing presence. It is geared for companies that want expert help to grow and scale their online branding and sales.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ InnoGlas is an augmented reality (AR) glasses solution, capable of many industri
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Glasses - InnoGlas - SE (2 sets) - Package 1</td>
-<td style='padding: 10px;'>8420</td>
-<td style='padding: 10px;'>7420</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Paid Advertising</td>
+<td style='padding: 10px;'>7000</td>
+<td style='padding: 10px;'>7000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Glasses - InnoGlas - SE (4 sets) - Package 2</td>
-<td style='padding: 10px;'>14740</td>
-<td style='padding: 10px;'>12740</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Lead Generation</td>
+<td style='padding: 10px;'>9900</td>
+<td style='padding: 10px;'>9900</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Glasses - InnoGlas - SE (6 sets) - Package 3</td>
-<td style='padding: 10px;'>21060</td>
-<td style='padding: 10px;'>18060</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Live Streaming</td>
+<td style='padding: 10px;'>9900</td>
+<td style='padding: 10px;'>9900</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Glasses - InnoGlas - SE with Facial Recognition function (4 sets) - Package 4</td>
-<td style='padding: 10px;'>15240</td>
-<td style='padding: 10px;'>13240</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Glasses - InnoGlas - SE customization package (6 sets) - Package 5</td>
-<td style='padding: 10px;'>35560</td>
-<td style='padding: 10px;'>20560</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Creative Video Campaign</td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ InnoGlas is an augmented reality (AR) glasses solution, capable of many industri
 
 ## Vendor Information
 
- Web URL: https://innowave.com.sg/innoglas/ <br><br>Contact Hotline: 88313613 <br><br>Contact Email: hello@innowave.com.sg <br><br>
+ Web URL: www.Nextlevel.sg <br><br>Contact Hotline: 83765715 <br><br>Contact Email: info@nextlevel.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

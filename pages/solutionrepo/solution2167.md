@@ -1,15 +1,15 @@
 ---
-title: Packing machine
+title: HVAC system
 permalink: /productivity-solutions-grant/solutionrepo/solution2167
 ---
 
-## Packing machine
+## HVAC system
 
 ## Overview
 
 **Description**
 
-A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
+Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A machine that automates the packing of farm produce with high speed and high de
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

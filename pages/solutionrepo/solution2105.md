@@ -1,15 +1,17 @@
 ---
-title: Sophos Central EndPoint Protection
+title: E-Commerce Portal Development (WooCommerce)
 permalink: /productivity-solutions-grant/solutionrepo/solution2105
 ---
 
-## Sophos Central EndPoint Protection
+## E-Commerce Portal Development (WooCommerce)
 
 ## Overview
 
 **Description**
 
-Sophos Intercept X stops the widest range of attacks with a unique combination of deep learning malware detection, exploit prevention, anti-ransomware, and more.
+WooCommerce is an open-source, completely customizable eCommerce platform developed in the Wordpress CMS. It's estimated that WooCommerce is used by around 3.9 million websites worldwide.
+
+WooCommerce is friendly to new eCommerce retailers. It is flexible in core features management, e.g. product & inventory, CRM, payments, marketing features, reporting and shipping integration. Apart from physical products, it allows us to sell digital products, subscriptions, appointments, and much more.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,24 @@ Sophos Intercept X stops the widest range of attacks with a unique combination o
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (25 users)</td>
-<td style='padding: 10px;'>1200</td>
-<td style='padding: 10px;'>1200</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-Commerce Portal Development (WooCommerce) - Basic Package</td>
+<td style='padding: 10px;'>8000</td>
+<td style='padding: 10px;'>8000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/IproDesign20200736_Desensitised_Annex_3_Part_1-.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (50 users) </td>
-<td style='padding: 10px;'>2300</td>
-<td style='padding: 10px;'>2300</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-Commerce Portal Development (WooCommerce) - Advanced Package</td>
+<td style='padding: 10px;'>12000</td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/IproDesign20200736_Desensitised_Annex_3_Part_2-.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (75 users)</td>
-<td style='padding: 10px;'>3375</td>
-<td style='padding: 10px;'>3375</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (100 users)</td>
-<td style='padding: 10px;'>4400</td>
-<td style='padding: 10px;'>4400</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (150 users)</td>
-<td style='padding: 10px;'>6450</td>
-<td style='padding: 10px;'>6450</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-Commerce Portal Development (WooCommerce) - Intermediate Package</td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/IproDesign20200736_Desensitised_Annex_3_Part_3-.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +52,7 @@ Sophos Intercept X stops the widest range of attacks with a unique combination o
 
 ## Vendor Information
 
- Web URL: www.netpluz.asia <br><br>Contact Hotline: 68058998 <br><br>Contact Email: contact@netpluz.asia <br><br>
+ Web URL: https://iprodezign.sg/ecommerce-solutions-singapore/ <br><br>Contact Hotline: 69147727 <br><br>Contact Email: admin@iprodezign.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

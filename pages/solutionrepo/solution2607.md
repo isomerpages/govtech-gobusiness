@@ -1,15 +1,15 @@
 ---
-title: Enhanzcom - FITPRISE Sales Inventory System
+title: Firewalla Gold Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2607
 ---
 
-## Enhanzcom - FITPRISE Sales Inventory System
+## Firewalla Gold Package
 
 ## Overview
 
 **Description**
 
-FITPRISE Sales & Inventory System is a flexible business system platform for Sales and Stock Inventory operations. System provides tracking of sales leads through to quotation creation and/or management of the issuance, receipt and movement of stock inventory items. The solution provides the flexibility to create customized reports, fields, logic to meet the SMEs operations workflow. This helps with user system acceptance as system processes are more familiar to their daily operations.
+Firewalla is an Intrusion Detection System and Intrusion Prevention System with a modern mobile interface, and a powerful cloud.  Firewalla Gold is the world's most affordable multi-gigabit smart firewall that protecting your business and family that combines features you love, easy to install, simple to use, and no monthly fees.  Anzen Global has partnered with Firewalla (USA), a progressive Cyber Security technologist to make cybersecurity simple and affordable for Singapore SMEs.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,31 @@ FITPRISE Sales & Inventory System is a flexible business system platform for Sal
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enhanzcom - FITPRISE Sales & Inventory System - (5 users)</td>
-<td style='padding: 10px;'>26900</td>
-<td style='padding: 10px;'>21400</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom_Inventory_20210029_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package A - 1 Site</td>
+<td style='padding: 10px;'>1380</td>
+<td style='padding: 10px;'>1380</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package B - 2 Sites</td>
+<td style='padding: 10px;'>2680</td>
+<td style='padding: 10px;'>2680</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package C - 3 Sites</td>
+<td style='padding: 10px;'>4020</td>
+<td style='padding: 10px;'>4020</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package D - 4 Sites</td>
+<td style='padding: 10px;'>5360</td>
+<td style='padding: 10px;'>5360</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +57,7 @@ FITPRISE Sales & Inventory System is a flexible business system platform for Sal
 
 ## Vendor Information
 
- Web URL: www.enhanzcom.com <br><br>Contact Hotline: 62761128 <br><br>Contact Email: enquiries@enhanzcom.com <br><br>
+ Web URL: Cybersecurity Products and Services <br><br>Contact Hotline: 97520811 <br><br>Contact Email: info@anzenglobal.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: Tableau Visualization
+title: CSG - Matterport Pro2 3D Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution2884
 ---
 
-## Tableau Visualization
+## CSG - Matterport Pro2 3D Solution
 
 ## Overview
 
 **Description**
 
-The Tableau Visualization packages offered by Oak Consulting Pte Ltd will help pre-school centre operators with their data mining and data analytics needs in areas such as parent management analysis, staff management analysis, health and safety management analysis, and finance management analysis.  As part of the package, Oak Consulting will also develop a dashboard in Tableau that display up to 4 data sources provided by the pre-school centre operators.
+The Matterport Pro2 Camera together with the Cloud platform is the gold standard for 3D capture and walkthrough. It's perfect for simple residential to large and complex commercial spaces. No camera captures as much detail with the speed of the Pro2, while delivering exceptional dimensional accuracy and stunning image quality on the platform for visualization. For the AEC industry, Matterport captures spaces with the highest accuracy, enabling the most detailed point cloud files.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,41 @@ The Tableau Visualization packages offered by Oak Consulting Pte Ltd will help p
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tableau Visualization - Tableau Starter Pack 1</td>
-<td style='padding: 10px;'>5060</td>
-<td style='padding: 10px;'>5000</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Oak_Consulting_20210449_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Matterport Pro2 3D Solution - Matterport Professional</td>
+<td style='padding: 10px;'>7788</td>
+<td style='padding: 10px;'>4500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tableau Visualization - Tableau Starter Pack 2</td>
-<td style='padding: 10px;'>8720</td>
-<td style='padding: 10px;'>5000</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Oak_Consulting_20210449_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Matterport Pro2 3D Solution - Matterport Professional Plus</td>
+<td style='padding: 10px;'>14076</td>
+<td style='padding: 10px;'>7500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Matterport Pro2 3D Solution - Matterport Business</td>
+<td style='padding: 10px;'>30652</td>
+<td style='padding: 10px;'>15900</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Matterport Pro2 3D Solution - Matterport Business Plus</td>
+<td style='padding: 10px;'>62604</td>
+<td style='padding: 10px;'>28800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: www.oakconsulting.com.sg/ECDA-analytics-solutions <br><br>Contact Hotline: 67444792 <br><br>Contact Email: sales@oakconsulting.com.sg <br><br>
+ Web URL: www.csglobal-group.com <br><br>Contact Hotline: 65882378 <br><br>Contact Email: marketing@csglobal-group.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

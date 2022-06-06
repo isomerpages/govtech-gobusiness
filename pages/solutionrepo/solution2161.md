@@ -1,15 +1,15 @@
 ---
-title: Climate Environment Monitoring Control Equipment/ System
+title: Water Filtration System
 permalink: /productivity-solutions-grant/solutionrepo/solution2161
 ---
 
-## Climate Environment Monitoring Control Equipment/ System
+## Water Filtration System
 
 ## Overview
 
 **Description**
 
-Climate control system (smart roof ventilator/ vents, smart misting, sustainable shade netting e.g. Polycarbonate sheeting with UV coating, heat pump, cooling system, thermostat controller etc)
+A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ Climate control system (smart roof ventilator/ vents, smart misting, sustainable
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Climate & Environment Monitoring Control Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Filtration System</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

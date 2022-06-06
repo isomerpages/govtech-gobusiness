@@ -1,15 +1,17 @@
 ---
-title: ABSS - Accounting Consultancy
+title: Automatic Shrink Wrap Packaging Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution1989
 ---
 
-## ABSS - Accounting Consultancy
+## Automatic Shrink Wrap Packaging Machine
 
 ## Overview
 
 **Description**
 
-Accounting Consultancy Pte Ltd offers ABSS Accounting, formerly known as MYOB. ABSS is an accounting software to help businesses process sales and purchases, track receivables, payables and GST, email quotes and invoices and more.
+Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
+
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,10 @@ Accounting Consultancy Pte Ltd offers ABSS Accounting, formerly known as MYOB. A
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Accounting Consultancy - 3 users + Setup + Training</td>
-<td style='padding: 10px;'>4545</td>
-<td style='padding: 10px;'>4545</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Accounting Consultancy - 3 users + Setup</td>
-<td style='padding: 10px;'>3745</td>
-<td style='padding: 10px;'>3745</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Accounting Consultancy - 1 user + Setup + Training</td>
-<td style='padding: 10px;'>3700</td>
-<td style='padding: 10px;'>3700</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Accounting Consultancy - 1 user + Setup</td>
-<td style='padding: 10px;'>2900</td>
-<td style='padding: 10px;'>2900</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Accounting Consultancy - 3 users + Setup + Training + Remote Access</td>
-<td style='padding: 10px;'>5945</td>
-<td style='padding: 10px;'>5945</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Shrink Wrap Packaging Machine</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +38,7 @@ Accounting Consultancy Pte Ltd offers ABSS Accounting, formerly known as MYOB. A
 
 ## Vendor Information
 
- Web URL: https://accountingconsultancy.com <br><br>Contact Hotline: 63888378 <br><br>Contact Email: enquiry@accountingconsultancy.com <br><br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

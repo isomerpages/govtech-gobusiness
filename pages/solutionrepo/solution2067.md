@@ -1,15 +1,15 @@
 ---
-title: CSG - Autodesk BIM Collaborate Pro
+title: Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1
 permalink: /productivity-solutions-grant/solutionrepo/solution2067
 ---
 
-## CSG - Autodesk BIM Collaborate Pro
+## Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1
 
 ## Overview
 
 **Description**
 
-Autodesk BIM360 Design is a design collaboration software providing a platform for real-time cloud worksharing and collaboration workflows. It helps to improve productivity, reduce rework, and accelerate project delivery.
+Going digital is not only about moving to cloud-based accounting software but also about the integration of different tools specific to business processes, creating a process that will synchronize with each other, creating a workflow that is practically usable in the day-to-day operations. For each transformation solutions development,  SCS provides Transformation Consultation, Integration Recommendations, Project Management, Implementation as well as Onsite Training and Technical Support.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,34 @@ Autodesk BIM360 Design is a design collaboration software providing a platform f
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Autodesk BIM Collaborate Pro - 2 User Pack</td>
-<td style='padding: 10px;'>2960</td>
-<td style='padding: 10px;'>2600</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Premium Package</td>
+<td style='padding: 10px;'>7928</td>
+<td style='padding: 10px;'>7928</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSingaporeCorporateServices_Annex_3_CRwef29April2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Autodesk BIM Collaborate Pro - 5 Users Pack</td>
-<td style='padding: 10px;'>7100</td>
-<td style='padding: 10px;'>6100</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - Setup + Training Standard Package</td>
+<td style='padding: 10px;'>3741</td>
+<td style='padding: 10px;'>3741</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Autodesk BIM Collaborate Pro - 10 Users Pack</td>
-<td style='padding: 10px;'>11950</td>
-<td style='padding: 10px;'>11000</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Autodesk BIM Collaborate Pro - 25 Users Pack</td>
-<td style='padding: 10px;'>26350</td>
-<td style='padding: 10px;'>26350</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Standard Package</td>
+<td style='padding: 10px;'>5341</td>
+<td style='padding: 10px;'>4541</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: www.csglobal-group.com <br><br>Contact Hotline: 65882378 <br><br>Contact Email: marketing@csglobal-group.com <br><br>
+ Web URL: https://scs-cpa.com/ <br><br>Contact Hotline: 69141114 <br><br>Contact Email: enquiry@scs-cpa.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

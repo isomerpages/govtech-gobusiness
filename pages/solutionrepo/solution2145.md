@@ -1,15 +1,15 @@
 ---
-title: Milking Machine
+title: Inoculation Cabinet (Laminar flow cabinet)
 permalink: /productivity-solutions-grant/solutionrepo/solution2145
 ---
 
-## Milking Machine
+## Inoculation Cabinet (Laminar flow cabinet)
 
 ## Overview
 
 **Description**
 
-A machine that provides an efficient and convenient way of milking livestocks, with minimal stress. 
+For cultivation of mushrooms and other fungi. The laminar flow cabinet provides laboratory conditions and minimises/ prevents contamination. 
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A machine that provides an efficient and convenient way of milking livestocks, w
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Milking Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Inoculation Cabinet (Laminar flow cabinet)</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

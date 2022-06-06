@@ -1,15 +1,15 @@
 ---
-title: Rainwater harvesting system and storage tank
+title: Automated Irrigation Equipment/ System
 permalink: /productivity-solutions-grant/solutionrepo/solution2166
 ---
 
-## Rainwater harvesting system and storage tank
+## Automated Irrigation Equipment/ System
 
 ## Overview
 
 **Description**
 
-A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
+Water efficient irrigation system (e.g. sprinkler)
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A system with pumps, tanks and purification systems that collects and stores rai
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rainwater harvesting system and storage tank</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation Equipment/ System</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

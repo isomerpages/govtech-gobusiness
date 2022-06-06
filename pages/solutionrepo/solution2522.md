@@ -1,15 +1,17 @@
 ---
-title: DM OOm Digital Performance Marketing Package
+title: 3D Intraoral Scanner
 permalink: /productivity-solutions-grant/solutionrepo/solution2522
 ---
 
-## DM OOm Digital Performance Marketing Package
+## 3D Intraoral Scanner
 
 ## Overview
 
 **Description**
 
-OOm is a digital performance marketing agency founded in 2006. We are one of the few independent agencies that is accredited by both Google and Facebook as their premier partner and business partner respectively. Our digital marketing solutions consist of 5 packages to cater to different SMEs' needs, with the aim of helping them to leverage on Digital Marketing to grow their business. [The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]
+The Intraoral Scanner allows dentists to see detailed, 3D images of the patient's teeth and surrounding soft tissues. This allows generation of a digital dental impression quickly and accurately. The digital file can then be sent to dental labs for milling or printing of crowns/aligners. Digital impressions also enable dentists to conduct treatment outcome simulation, as well as data analysis.
+
+Grant support: 80% of cost of equipment, up to $20,000 grant per unit.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,10 @@ OOm is a digital performance marketing agency founded in 2006. We are one of the
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 1 LeadGen SEM/SMA Starter Combo</td>
-<td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 2 Ecommerce SEM/SMA Starter Combo</td>
-<td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 3 LeadGen SEM/SEM Starter Combo</td>
-<td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 4 Ecommerce SMA/SMA Starter Combo</td>
-<td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 5 SEO/SEM Advanced Combo</td>
-<td style='padding: 10px;'>11500</td>
-<td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3D Intraoral Scanner</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +38,7 @@ OOm is a digital performance marketing agency founded in 2006. We are one of the
 
 ## Vendor Information
 
- Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
+ 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

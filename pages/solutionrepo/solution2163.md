@@ -1,15 +1,15 @@
 ---
-title: Automated Irrigation Equipment/ System
+title: Pest/ Disease Monitoring and Control Equipment/ System
 permalink: /productivity-solutions-grant/solutionrepo/solution2163
 ---
 
-## Automated Irrigation Equipment/ System
+## Pest/ Disease Monitoring and Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-Water efficient irrigation system (e.g. sprinkler)
+A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ Water efficient irrigation system (e.g. sprinkler)
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pest/ Disease Monitoring and Control Equipment/ System</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

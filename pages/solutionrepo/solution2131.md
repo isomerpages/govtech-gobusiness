@@ -1,15 +1,15 @@
 ---
-title: Collection Systems
+title: Culture Tank System with Monitoring and Control System
 permalink: /productivity-solutions-grant/solutionrepo/solution2131
 ---
 
-## Collection Systems
+## Culture Tank System with Monitoring and Control System
 
 ## Overview
 
 **Description**
 
-Automatic collector used to collect produce, which can also reduce the damage rate.
+Cultivation system with monitoring and control system
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ Automatic collector used to collect produce, which can also reduce the damage ra
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collection Systems</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Culture Tank System with Monitoring and Control System</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

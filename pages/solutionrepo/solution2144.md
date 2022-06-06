@@ -1,15 +1,15 @@
 ---
-title: Manure Treatment System
+title: Humidifier Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2144
 ---
 
-## Manure Treatment System
+## Humidifier Equipment
 
 ## Overview
 
 **Description**
 
-A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
+A device that increases humidity in farm premises for more optimal plant growth. 
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A treatment system that results in a final product which is germ-free and allows
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manure Treatment System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Humidifier Equipment</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

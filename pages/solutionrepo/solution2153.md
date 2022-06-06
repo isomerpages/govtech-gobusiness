@@ -1,15 +1,15 @@
 ---
-title: Sterilizer Equipment
+title: Recirculating Aquaculture System
 permalink: /productivity-solutions-grant/solutionrepo/solution2153
 ---
 
-## Sterilizer Equipment
+## Recirculating Aquaculture System
 
 ## Overview
 
 **Description**
 
-A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
+A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A machine that eliminates harmful microorganisms and pathogens for healthy growt
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sterilizer Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Recirculating Aquaculture System</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

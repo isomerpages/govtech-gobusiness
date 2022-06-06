@@ -1,15 +1,15 @@
 ---
-title: Automatic Seed Plug Transplanter
+title: Automatic case labelling machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2122
 ---
 
-## Automatic Seed Plug Transplanter
+## Automatic case labelling machine
 
 ## Overview
 
 **Description**
 
-A machine that completes transplantation.
+Case printing system or pack labelling system which allow the user to fully customize their label.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A machine that completes transplantation.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Plug Transplanter</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic case labelling machine</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

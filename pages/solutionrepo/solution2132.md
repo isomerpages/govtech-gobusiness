@@ -1,15 +1,15 @@
 ---
-title: Farm Processing Machine
+title: Dehusking Machine/ Shaker
 permalink: /productivity-solutions-grant/solutionrepo/solution2132
 ---
 
-## Farm Processing Machine
+## Dehusking Machine/ Shaker
 
 ## Overview
 
 **Description**
 
-Integrated processing system to process produce into value-added products
+Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ Integrated processing system to process produce into value-added products
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Processing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dehusking Machine/ Shaker</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

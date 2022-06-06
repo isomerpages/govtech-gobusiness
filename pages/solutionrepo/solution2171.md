@@ -1,15 +1,15 @@
 ---
-title: Fish fry quarantine tank system
+title: Digital quality testing equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2171
 ---
 
-## Fish fry quarantine tank system
+## Digital quality testing equipment
 
 ## Overview
 
 **Description**
 
-A quarantine tank system for isolating and medicating sick fish fry, separating them from the healthy fish, thus halting the spread of disease to the other fishes in the tank
+Quality testing equipment in measuring the produce quality and freshness
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ A quarantine tank system for isolating and medicating sick fish fry, separating 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fish fry quarantine tank system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital quality testing equipment</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

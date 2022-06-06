@@ -1,17 +1,17 @@
 ---
-title: High Pressure Rotating Head
+title: Automated Labelling Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2074
 ---
 
-## High Pressure Rotating Head
+## Automated Labelling Machine
 
 ## Overview
 
 **Description**
 
-The high pressure rotating head features a nozzle that rotates and swivels with high flow rates at a high operating pressure. It can be fixed to various rotors and extensions to cater for cleaning different tanks/vessels. 
+The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
 
-Cost of equipment capped at $8750 per unit 
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -25,9 +25,9 @@ Cost of equipment capped at $8750 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High Pressure Rotating Head</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Labelling Machine </td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>8750</td>
+<td style='padding: 10px;'>37500</td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
 </tr>
 </table>

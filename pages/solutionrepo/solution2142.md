@@ -1,15 +1,15 @@
 ---
-title: Inoculation Cabinet (Laminar flow cabinet)
+title: Feed Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2142
 ---
 
-## Inoculation Cabinet (Laminar flow cabinet)
+## Feed Processing Machine
 
 ## Overview
 
 **Description**
 
-For cultivation of mushrooms and other fungi. The laminar flow cabinet provides laboratory conditions and minimises/ prevents contamination. 
+A machine to mix and chop up the materials for animal feed. 
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ For cultivation of mushrooms and other fungi. The laminar flow cabinet provides 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Inoculation Cabinet (Laminar flow cabinet)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Feed Processing Machine</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

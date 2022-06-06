@@ -20,9 +20,9 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 <a href='/productivity-solutions-grant/solutionrepo/solution1101' target='_blank'>Dynamics 365 Business Central with E-invoicing Version 15 </a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1541' target='_blank'>D365 Business Central (Microsoft)</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1542' target='_blank'>Microsoft Dynamics 365 Business Central</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1855' target='_blank'>NetSuite</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1994' target='_blank'>SAP Business One Version 10</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2042' target='_blank'>EQUIP Version 10</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2875' target='_blank'>SAP BUSINESS ONE</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2895' target='_blank'>AM8ZE ERP: VISTA</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2954' target='_blank'>SAP Business One SQL & HANA Version 10.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1856' target='_blank'>NetSuite</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1995' target='_blank'>SAP Business One Version 10</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2045' target='_blank'>EQUIP Version 10</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2879' target='_blank'>SAP BUSINESS ONE</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2899' target='_blank'>AM8ZE ERP: VISTA</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2958' target='_blank'>SAP Business One SQL & HANA Version 10.0</a><br>

@@ -1,15 +1,15 @@
 ---
-title: LED grow lights
+title: Environment/ Water/ Nutrient Sampling Monitoring Control Equipment/ System
 permalink: /productivity-solutions-grant/solutionrepo/solution2165
 ---
 
-## LED grow lights
+## Environment/ Water/ Nutrient Sampling Monitoring Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-LED grow lights with smart dynamic lighting control to help plants grow.
+Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ LED grow lights with smart dynamic lighting control to help plants grow.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LED grow lights</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>

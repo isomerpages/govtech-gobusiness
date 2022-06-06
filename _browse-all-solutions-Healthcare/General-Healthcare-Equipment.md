@@ -15,4 +15,4 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution2518' target='_blank'>3D Intraoral Scanner</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution2522' target='_blank'>3D Intraoral Scanner</a><br>

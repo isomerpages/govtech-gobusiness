@@ -1,17 +1,19 @@
 ---
-title: Battery-operated Torque Wrench
+title: Liquid Filling Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2075
 ---
 
-## Battery-operated Torque Wrench
+## Liquid Filling Machine
 
 ## Overview
 
 **Description**
 
-Battery-operated torque wrench/torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates manual torquing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, worker will be able to carry out torquing independently and more efficiently.
+A fully or semi-automated filling machine replaces manual liquid filling into drums/pallets IBC and/or other containers. The machine can be customised to fit unit requirements eg. 200L/120L drum or 1L/3L tin/jerry cans.
+Semi-automatic: Operator involved in the process (e.g. placing the containers under nozzles, transferring containers to the next process)
+Fully automatic: Operator ensures settings are correct, minimal mechanical adjustment required
 
-Cost of equipment capped at $11,250 per unit
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -25,9 +27,9 @@ Cost of equipment capped at $11,250 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-operated Torque Wrench</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Liquid Filling Machine</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>11250</td>
+<td style='padding: 10px;'>37500</td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
 </tr>
 </table>

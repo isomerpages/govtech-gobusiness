@@ -1,15 +1,15 @@
 ---
-title: Live Pump
+title: Hi-jack Cleaning Machinery
 permalink: /productivity-solutions-grant/solutionrepo/solution2143
 ---
 
-## Live Pump
+## Hi-jack Cleaning Machinery
 
 ## Overview
 
 **Description**
 
-An equipment that ensure safe, gentle, fast way to transfer produce.
+Hi-jack cleaning machine for sterilisation and cleaning of production facilities
 
 ## Solution Packages Option(s)
 
@@ -23,7 +23,7 @@ An equipment that ensure safe, gentle, fast way to transfer produce.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Live Pump</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hi-jack Cleaning Machinery</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
