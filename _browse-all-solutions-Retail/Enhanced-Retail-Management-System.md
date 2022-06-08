@@ -1,9 +1,9 @@
 ---
-title: Enhanced Retail Management System (Part 2)
-permalink: /browse-all-solutions-Retail/Enhanced-Retail-Management-System--Part-2-
+title: Enhanced Retail Management System
+permalink: /browse-all-solutions-Retail/Enhanced-Retail-Management-System
 ---
 
-## Enhanced Retail Management System (Part 2)
+## Enhanced Retail Management System
 ## Overview
 
 **Support Level and Conditions**
@@ -14,7 +14,13 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 
 ## Pre-Approved Solutions
 
+<a href='/productivity-solutions-grant/solutionrepo/solution163' target='_blank'>STUDIO MANAGER Version 7</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution225' target='_blank'>Beautec Version 3 centralized version</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution344' target='_blank'>MyRetailer Android POS</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution396' target='_blank'>Eurostop EPOS and E-retail Inventory Management Version 10</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution424' target='_blank'>VEON@Experience Version 1.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution652' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution741' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution936' target='_blank'>KYBIO Version 3.0.9.3</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1019' target='_blank'>EasyBus Version 2.0</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1020' target='_blank'>EasyBus Version 2.1</a><br>
@@ -22,6 +28,7 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 <a href='/productivity-solutions-grant/solutionrepo/solution1022' target='_blank'>EasyBus Version 2.3</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1023' target='_blank'>EasyBus Version 2.4</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1084' target='_blank'>BIZ POS Version 3.0</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution1120' target='_blank'>SUNTOYO POS SOLUTION Version 8.1</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1136' target='_blank'>Visual Optical Retail Management System Version 8</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1176' target='_blank'>Frontwave Cloud Version 8</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1188' target='_blank'>Shortcuts Version 8</a><br>
@@ -33,4 +40,4 @@ Funded and administrated by Enterprise Singapore (ESG). For more information, pl
 <a href='/productivity-solutions-grant/solutionrepo/solution2909' target='_blank'>AZ Digital POS solution</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution2919' target='_blank'>EQuipPOS Retail Solutions Version 3</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution3009' target='_blank'>Shopcada POS Version 2</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution3164' target='_blank'>SSJ-Related</a><br>
+<a href='/productivity-solutions-grant/solutionrepo/solution3161' target='_blank'>SSJ-Related</a><br>
