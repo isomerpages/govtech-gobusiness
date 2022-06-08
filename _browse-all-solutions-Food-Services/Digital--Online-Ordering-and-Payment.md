@@ -16,8 +16,6 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 
 <a href='/productivity-solutions-grant/solutionrepo/solution431' target='_blank'>Getz F&B Integrated Instore and Online Transformation Version 2</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution511' target='_blank'>NinjaOS</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution662' target='_blank'>Octopus Food Solution</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution667' target='_blank'>Octopus Food Solution Version 7</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution830' target='_blank'>Ellie Integrated System Version 2</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution976' target='_blank'>Kiosk  & BYOD</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution981' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br>
