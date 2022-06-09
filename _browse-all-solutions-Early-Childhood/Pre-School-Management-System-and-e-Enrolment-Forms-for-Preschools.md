@@ -10,6 +10,8 @@ permalink: /browse-all-solutions-Early-Childhood/Pre-School-Management-System-an
 
 Up to 70% for SMEs, 50% for non-SMEs
 
+Funded and administrated by Early Child Development Agency (ECDA).
+
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution2564' target='_blank'>LittleLives School Management System (PMS + e-form)</a><br>

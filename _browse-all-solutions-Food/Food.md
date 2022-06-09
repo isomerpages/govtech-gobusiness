@@ -10,6 +10,8 @@ permalink: /browse-all-solutions-Food/Food
 
 Up to 50% for SMEs, 50% for non-SMEs
 
+Funded and administrated by Singapore Food Agency (SFA).
+
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution2115' target='_blank'>Aeration System/ Oxygenation System</a><br>

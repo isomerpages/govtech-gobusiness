@@ -10,6 +10,8 @@ permalink: /browse-all-solutions-Early-Childhood/Data-Analytics-for-Centre-Opera
 
 Up to 70% for SMEs, 50% for non-SMEs
 
+Funded and administrated by Early Child Development Agency (ECDA).
+
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution2642' target='_blank'>LittleLives School Management System (Data Mining & Analytics)</a><br>

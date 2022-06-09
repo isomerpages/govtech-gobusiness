@@ -10,6 +10,8 @@ permalink: /browse-all-solutions-Building-Construction/FM-Workflow-Automation
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
+Funded and administrated by Building and Construction Authority (BCA).
+
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution397' target='_blank'>FacilityBot</a><br>

@@ -10,6 +10,8 @@ permalink: /browse-all-solutions-Building-Construction/Digital-Wearables-for-Wor
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
+Funded and administrated by Building and Construction Authority (BCA).
+
 ## Pre-Approved Solutions
 
 <a href='/productivity-solutions-grant/solutionrepo/solution2409' target='_blank'>NovaVision Remote Assist Version 1.0</a><br>

@@ -56,62 +56,6 @@ Xero is a cloud-based accounting software platform for small and medium-sized bu
 <td style='padding: 10px;'>3450</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO - Cloud Accounting Software- Aspire Starter Plan A</td>
-<td style='padding: 10px;'>720</td>
-<td style='padding: 10px;'>720</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Basic Plan B</td>
-<td style='padding: 10px;'>1820</td>
-<td style='padding: 10px;'>1820</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Advance Plan C</td>
-<td style='padding: 10px;'>2460</td>
-<td style='padding: 10px;'>2460</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Super Plan D</td>
-<td style='padding: 10px;'>3010</td>
-<td style='padding: 10px;'>3010</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Wonderful Plan E</td>
-<td style='padding: 10px;'>4385</td>
-<td style='padding: 10px;'>4385</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 11</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Xero Subscription</td>
-<td style='padding: 10px;'>710</td>
-<td style='padding: 10px;'>710</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Budget_Accounts_20200723_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 12</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Xero Set-Up Package</td>
-<td style='padding: 10px;'>1510</td>
-<td style='padding: 10px;'>1510</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Budget_Accounts_20200723_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 13</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Xero Set-Up with Training</td>
-<td style='padding: 10px;'>2210</td>
-<td style='padding: 10px;'>2210</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Budget_Accounts_20200723_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment
