@@ -24,11 +24,7 @@ Cost of equipment capped at $6,250 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Portable Automatic Gas Cutting Machine</td>
 <td style='padding: 10px;'>6250</td>
-<td style='padding: 10px;'>Automatic traveling gas cutting operations
-Cutting speed: minimum 110 mm/min
-Adjustable bevel angle
-Maintenance costs not supported
-Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
+<td style='padding: 10px;'>Automatic traveling gas cutting operations<br>Cutting speed: minimum 110 mm/min<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
 </tr>
 </table>
 

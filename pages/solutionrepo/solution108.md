@@ -25,10 +25,7 @@ Cost of equipment capped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rotary Wok Fryer</td>
 <td style='padding: 10px;'>37500</td>
-<td style='padding: 10px;'>- Automatic Cleaning 
-- Time and heating presetting function e.g. 15 minutes cooking time, like a microwave
-
-</td>
+<td style='padding: 10px;'>- Automatic Cleaning <br>- Time and heating presetting function e.g. 15 minutes cooking time, like a microwave<br><br></td>
 </tr>
 </table>
 

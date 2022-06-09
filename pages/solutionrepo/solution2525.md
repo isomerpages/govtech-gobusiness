@@ -25,17 +25,7 @@ Cost of equipment capped at $10,000 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ozonised Air + Surface Sterilization System</td>
 <td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'>Equipment must meet the following:
-
-Generate active oxygen at an output between 20mg - 1g/hr
-
-Emit negative ion at more than 2 million/cm3
-
-Area coverage at least 36.5 m2
-
-Effective sterilisation & reduce bacteria count by 90%
-
-</td>
+<td style='padding: 10px;'>Equipment must meet the following:<br><br>Generate active oxygen at an output between 20mg - 1g/hr<br><br>Emit negative ion at more than 2 million/cm3<br><br>Area coverage at least 36.5 m2<br><br>Effective sterilisation & reduce bacteria count by 90%<br><br></td>
 </tr>
 </table>
 

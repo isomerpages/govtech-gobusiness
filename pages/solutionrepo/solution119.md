@@ -26,13 +26,7 @@ Cost of equipment capped at $20,000 per unit.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Secure Locking System for Access Control</td>
 <td style='padding: 10px;'>20000</td>
-<td style='padding: 10px;'>Mandatory specifications:
-- Automate access request and provisioning
-- Physically secure spaces without the need for power supply to operate 
-- Provide traceability of all access into the secured spaces
-- Installed with Management software to administer access to users
-- Installation cost is supported
-- Maintenance cost is not supported</td>
+<td style='padding: 10px;'>Mandatory specifications:<br>- Automate access request and provisioning<br>- Physically secure spaces without the need for power supply to operate <br>- Provide traceability of all access into the secured spaces<br>- Installed with Management software to administer access to users<br>- Installation cost is supported<br>- Maintenance cost is not supported</td>
 </tr>
 </table>
 

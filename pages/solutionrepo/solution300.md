@@ -24,9 +24,7 @@ Cost of equipment capped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tray Sealer</td>
 <td style='padding: 10px;'>37500</td>
-<td style='padding: 10px;'>- Minimum 400 trays per hour
-
-</td>
+<td style='padding: 10px;'>- Minimum 400 trays per hour<br><br></td>
 </tr>
 </table>
 

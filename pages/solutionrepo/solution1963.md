@@ -24,9 +24,7 @@ Cost of equipment capped at $18,750 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
 <td style='padding: 10px;'>18750</td>
-<td style='padding: 10px;'>Adjustable arm torch angle
-Maintenance not included
-Communication to link multiple sets (optional)</td>
+<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
 </tr>
 </table>
 

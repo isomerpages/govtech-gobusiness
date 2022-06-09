@@ -26,8 +26,7 @@ Cost of equipment capped at $18,750 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-Powered Rope Ascender</td>
 <td style='padding: 10px;'>18750</td>
-<td style='padding: 10px;'>Ascent speed: minimum 1 ft/s
-Maintenance cost not supported</td>
+<td style='padding: 10px;'>Ascent speed: minimum 1 ft/s<br>Maintenance cost not supported</td>
 </tr>
 </table>
 

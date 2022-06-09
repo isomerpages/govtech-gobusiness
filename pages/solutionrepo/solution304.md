@@ -25,9 +25,7 @@ Cost of equipment  capped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Form Fill Seal Machine</td>
 <td style='padding: 10px;'>37500</td>
-<td style='padding: 10px;'>- Temperature and speed control
-
-</td>
+<td style='padding: 10px;'>- Temperature and speed control<br><br></td>
 </tr>
 </table>
 

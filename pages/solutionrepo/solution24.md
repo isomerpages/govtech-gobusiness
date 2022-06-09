@@ -26,13 +26,7 @@ Cost of equipment capped at $37,500 per unit.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Material Transportation Robot</td>
 <td style='padding: 10px;'>37500</td>
-<td style='padding: 10px;'>Mandatory specifications: 
-- Transport materials between points
-- Manoeuvre safely around obstacles
-- Min. payload of 100kg
-- Equipped with a rechargeable battery
-- Accessories e.g. towing arm, mountable shelf are supportable
-- Installation and maintenance cost are not supported</td>
+<td style='padding: 10px;'>Mandatory specifications: <br>- Transport materials between points<br>- Manoeuvre safely around obstacles<br>- Min. payload of 100kg<br>- Equipped with a rechargeable battery<br>- Accessories e.g. towing arm, mountable shelf are supportable<br>- Installation and maintenance cost are not supported</td>
 </tr>
 </table>
 

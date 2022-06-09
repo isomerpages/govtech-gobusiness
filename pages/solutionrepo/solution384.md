@@ -25,11 +25,7 @@ Cost of equipment capped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standalone Automated Industrial Utensil Washer</td>
 <td style='padding: 10px;'>37500</td>
-<td style='padding: 10px;'>- Automated washing that only requires loading, no need for handwashing. 
-- Wash tank capacity of at least 15 litres. 
-- Support does not include accessories
-
-</td>
+<td style='padding: 10px;'>- Automated washing that only requires loading, no need for handwashing. <br>- Wash tank capacity of at least 15 litres. <br>- Support does not include accessories<br><br></td>
 </tr>
 </table>
 

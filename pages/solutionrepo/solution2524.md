@@ -25,13 +25,7 @@ Cost of equipment capped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Chiller</td>
 <td style='padding: 10px;'>37500</td>
-<td style='padding: 10px;'>Minimum Specifications
-
-Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.
-
-Minimum capacity of 5 GN 1/1
-
-</td>
+<td style='padding: 10px;'>Minimum Specifications<br><br>Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.<br><br>Minimum capacity of 5 GN 1/1<br><br></td>
 </tr>
 </table>
 

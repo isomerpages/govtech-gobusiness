@@ -28,10 +28,7 @@ Support capped at $5,000 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
 <td style='padding: 10px;'>5000</td>
-<td style='padding: 10px;'>Mandatory Specification:
-- Unit comes with automated drain pump, detergent and rinse pumps. 
-- Minimum water tank capacity of 15 litres
-</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Unit comes with automated drain pump, detergent and rinse pumps. <br>- Minimum water tank capacity of 15 litres<br></td>
 </tr>
 </table>
 

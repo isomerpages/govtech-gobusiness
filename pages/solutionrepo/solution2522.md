@@ -24,21 +24,7 @@ Grant support: 80% of cost of equipment, up to $20,000 grant per unit.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3D Intraoral Scanner</td>
 <td style='padding: 10px;'>37500</td>
-<td style='padding: 10px;'>Hardware
-- Scanner wand
-- Autoclavable/single-use sleeves
-
-Functionality
-- Open system format - .stl/.ply files etc.
-- Treatment simulation 
-- CAD/CAM software
-
-Supportable costs: 
-- Hardware (incl. software), 1 set of tips/sleeves, Training, 1st yr subscription, 3 yr warranty
-
-*Support is only granted for 1 unit per clinic location.
-Basic equipment costs (e.g. laptop) unsupportable
-Additional criteria: Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR</td>
+<td style='padding: 10px;'>Hardware<br>- Scanner wand<br>- Autoclavable/single-use sleeves<br><br>Functionality<br>- Open system format - .stl/.ply files etc.<br>- Treatment simulation <br>- CAD/CAM software<br><br>Supportable costs: <br>- Hardware (incl. software), 1 set of tips/sleeves, Training, 1st yr subscription, 3 yr warranty<br><br>*Support is only granted for 1 unit per clinic location.<br>Basic equipment costs (e.g. laptop) unsupportable<br>Additional criteria: Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR</td>
 </tr>
 </table>
 

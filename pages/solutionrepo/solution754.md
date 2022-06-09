@@ -24,15 +24,7 @@ Cost of equipment capped at $21,250 per unit.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Static Parcel Dimension, Weight and Scan Equipment</td>
 <td style='padding: 10px;'>21250</td>
-<td style='padding: 10px;'>Mandatory Specification
-- Parts: Computer; Optical Part (Camera); Weighing Scale; Stereometry (Binocular Camera); Barcode scanner; Frame to hold the equipment together
-- Weigh parcel up to 30kg
-- Weighing accuracy of +/- 10g
-- Stereometry accuracy within +/- 5mm
-- Throughput approx 400/hour
-- Data transmitted to a software/ERP via wireless/LAN connection
-- Installation cost is supported.
-- Maintenance cost is not supported</td>
+<td style='padding: 10px;'>Mandatory Specification<br>- Parts: Computer; Optical Part (Camera); Weighing Scale; Stereometry (Binocular Camera); Barcode scanner; Frame to hold the equipment together<br>- Weigh parcel up to 30kg<br>- Weighing accuracy of +/- 10g<br>- Stereometry accuracy within +/- 5mm<br>- Throughput approx 400/hour<br>- Data transmitted to a software/ERP via wireless/LAN connection<br>- Installation cost is supported.<br>- Maintenance cost is not supported</td>
 </tr>
 </table>
 

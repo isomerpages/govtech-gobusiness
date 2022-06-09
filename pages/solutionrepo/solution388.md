@@ -24,9 +24,7 @@ Cost of equipment capped at $30,000 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Freezer</td>
 <td style='padding: 10px;'>30000</td>
-<td style='padding: 10px;'>- Minimum of 10 trays (GN 1/1)
-- Freezer must be able to reach -18?C
-</td>
+<td style='padding: 10px;'>- Minimum of 10 trays (GN 1/1)<br>- Freezer must be able to reach -18?C<br></td>
 </tr>
 </table>
 

@@ -24,11 +24,7 @@ Cost of equipment capped at $12,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High pressure industrial vacuum cleaner</td>
 <td style='padding: 10px;'>12500</td>
-<td style='padding: 10px;'>- Must be certified intrinsically safe (e.g. ATEX certified)
-- Contains an immersion separator as a filter 
-- Training costs can be supported
-
-</td>
+<td style='padding: 10px;'>- Must be certified intrinsically safe (e.g. ATEX certified)<br>- Contains an immersion separator as a filter <br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 
