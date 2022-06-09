@@ -43,4 +43,3 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 - <a href='/productivity-solutions-grant/solutionrepo/solution2756' target='_blank'>ePSProfessional Version 1.7</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2863' target='_blank'>TRC e-Commerce Solutions</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2977' target='_blank'>Cub3commerce</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution3167' target='_blank'>SSJ-Related</a><br>

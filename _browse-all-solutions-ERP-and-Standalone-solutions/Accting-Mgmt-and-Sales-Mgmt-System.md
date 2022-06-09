@@ -54,4 +54,3 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 - <a href='/productivity-solutions-grant/solutionrepo/solution2846' target='_blank'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2943' target='_blank'>Counto DIY Version 1</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3010' target='_blank'>Moneyworks</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution3172' target='_blank'>SSJ-Related</a><br>

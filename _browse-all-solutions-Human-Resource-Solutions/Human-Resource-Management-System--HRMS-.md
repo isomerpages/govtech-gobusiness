@@ -39,4 +39,3 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 - <a href='/productivity-solutions-grant/solutionrepo/solution2866' target='_blank'>Carbonate HR Version 1</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2894' target='_blank'>Adaptive Pay Version 2022</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2924' target='_blank'>Frontier e-HR Version 8 - AutomateHR eFrontier</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution3178' target='_blank'>SSJ-Related</a><br>

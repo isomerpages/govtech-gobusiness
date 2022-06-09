@@ -16,4 +16,3 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution2350' target='_blank'>Simplr Warehouse Management Version 6</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2693' target='_blank'>Gurusoft Logistics Management System Version 11</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution3192' target='_blank'>SSJ-Related</a><br>

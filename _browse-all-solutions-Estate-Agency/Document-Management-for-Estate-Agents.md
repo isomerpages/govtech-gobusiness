@@ -16,4 +16,3 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution1818' target='_blank'>Redoc Version 1.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2189' target='_blank'>RealtyPromote Version 3.2</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution3195' target='_blank'>SSJ-Related</a><br>
