@@ -17,8 +17,6 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 <a href='/productivity-solutions-grant/solutionrepo/solution114' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution120' target='_blank'>SAP Business One Version Cloud</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1101' target='_blank'>Dynamics 365 Business Central with E-invoicing Version 15 </a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1541' target='_blank'>D365 Business Central (Microsoft)</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1542' target='_blank'>Microsoft Dynamics 365 Business Central</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1856' target='_blank'>NetSuite</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution1995' target='_blank'>SAP Business One Version 10</a><br>
 <a href='/productivity-solutions-grant/solutionrepo/solution2045' target='_blank'>EQUIP Version 10</a><br>
