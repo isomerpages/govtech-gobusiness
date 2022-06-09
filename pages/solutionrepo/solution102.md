@@ -20,28 +20,26 @@ Cost of equipment capped at $37,500 per unit
 
 <table>
 <tr>
-<td><b>No.</b></td>
-<td><b>Package Name</b></td>
-<td><b>Total Package Cost</b></td>
-<td><b>Total Qualifying Cost</b></td>
-<td><b>Solution Details</b></td>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
-<td style='padding: 10px;'></td>
 <td style='padding: 10px;'>37500</td>
-<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>Equipment must meet the following specifications: 
+
+- Robotic arms of various axis (e.g., 2-axis, 4-axis, 6-axis, 8-axis etc.) 
+- Robotic arms of various payload i.e. weight that a robot arm can lift, including weight of the end of arm tooling (EOAT) 
+
+Support excludes end-effectors, sensors, programming and integration cost
+</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
  - Direct Purchase
-
-## Vendor Information
-
- 
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

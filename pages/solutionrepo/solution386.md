@@ -19,28 +19,27 @@ Cost of equipment capped at $10,000 per unit
 
 <table>
 <tr>
-<td><b>No.</b></td>
-<td><b>Package Name</b></td>
-<td><b>Total Package Cost</b></td>
-<td><b>Total Qualifying Cost</b></td>
-<td><b>Solution Details</b></td>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Planetary or Spiral Mixer</td>
-<td style='padding: 10px;'></td>
 <td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>- Minimum bowl capacity of 20 liters
+- Minimally 3 speed options for Planetary Mixer
+- Minimally 2 speed options for Spiral Mixer 
+- Speeds range from 100 to 500 rpm for smaller mixers (less than 100 liters)
+- Comes with bowl and minimum of 2 out of 3 tools (Mixing paddle, whisk, hook and similar tools. Similar tools will include beater, whip. Safety guard should be supportable)
+
+
+</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
  - Direct Purchase
-
-## Vendor Information
-
- 
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -17,28 +17,25 @@ Cost of equipment capped at $26,250 per unit (Direct Purchase) and $10,000 per u
 
 <table>
 <tr>
-<td><b>No.</b></td>
-<td><b>Package Name</b></td>
-<td><b>Total Package Cost</b></td>
-<td><b>Total Qualifying Cost</b></td>
-<td><b>Solution Details</b></td>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Cabinet</td>
-<td style='padding: 10px;'></td>
 <td style='padding: 10px;'>Up to 26250</td>
-<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>Mandatory Specification
+- Access controlled and tracked with RFID or other relevant technology
+- Equipped with the necessary sensor to track the essential inventory information stored in the cabinet: Item Description, Stock Quantity
+- Hardware must be linked with a software/ERP system to access the logs and inventory information
+- Installation and maintenance fee are not supported.
+</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
  - Direct Purchase,Subscription / Leasing
-
-## Vendor Information
-
- 
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -17,28 +17,24 @@ Cost of equipment capped at $20,000 per unit
 
 <table>
 <tr>
-<td><b>No.</b></td>
-<td><b>Package Name</b></td>
-<td><b>Total Package Cost</b></td>
-<td><b>Total Qualifying Cost</b></td>
-<td><b>Solution Details</b></td>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Torque Multiplier</td>
-<td style='padding: 10px;'></td>
 <td style='padding: 10px;'>20000</td>
-<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>- Produce at least 2,000N.m torquing force 
+- 1 battery pack or power unit per equipment can be supported
+- Training costs can be supported
+
+</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
  - Direct Purchase
-
-## Vendor Information
-
- 
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

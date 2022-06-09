@@ -19,28 +19,27 @@ Cost of equipment capped at $3,250 per unit.
 
 <table>
 <tr>
-<td><b>No.</b></td>
-<td><b>Package Name</b></td>
-<td><b>Total Package Cost</b></td>
-<td><b>Total Qualifying Cost</b></td>
-<td><b>Solution Details</b></td>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Electric Pedestrian Pallet Truck</td>
-<td style='padding: 10px;'></td>
 <td style='padding: 10px;'>3250</td>
-<td style='padding: 10px;'><a href='' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>Mandatory Specifications:
+-Rechargeable battery. Charging accessories & 1 spare battery/unit is supportable
+-Loading cap. of 1 to 2 tonnes. Min. 5% gradeability w/o load & 3% with load
+-1 worker/unit
+-Safety features eg emergency stop
+-Deployment: Own facility or w delivery trucks. Provide supporting docs if deploying at customer site.
+-Only 1 application per coy will be supported
+- Installation and maintenance fee are not supported.</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
  - Direct Purchase
-
-## Vendor Information
-
- 
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
