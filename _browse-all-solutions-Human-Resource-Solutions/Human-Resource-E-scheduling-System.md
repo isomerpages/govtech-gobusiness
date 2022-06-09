@@ -14,10 +14,10 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1171' target='_blank'>(eScheduling) QuickHR</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1405' target='_blank'>StaffAny Version 1.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1661' target='_blank'>TimeCentral Version 11</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2009' target='_blank'>Roubler</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2373' target='_blank'>WhyzeHR eScheduling</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2414' target='_blank'>Flick Time Management System Enterprise Enhanced (TMSEE)</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2678' target='_blank'>JustLogin HR E-Scheduling</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1171' target='_blank'>(eScheduling) QuickHR</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1405' target='_blank'>StaffAny Version 1.0</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1661' target='_blank'>TimeCentral Version 11</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2009' target='_blank'>Roubler</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2373' target='_blank'>WhyzeHR eScheduling</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2414' target='_blank'>Flick Time Management System Enterprise Enhanced (TMSEE)</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2678' target='_blank'>JustLogin HR E-Scheduling</a><br>

@@ -25,18 +25,18 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution694' target='_blank'>iTrack Fleet Management Version 2.8.8</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution774' target='_blank'>Shell Telematics</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution986' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1281' target='_blank'>V3Nity-FMS Fleet Management System Version 3 </a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1294' target='_blank'>Ascent iSPOT Fleet Management System - 	iSPOT FMS Tracking and Workflow management </a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1300' target='_blank'>Cartrack Fleet Management Version 2</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1305' target='_blank'>Vehicle Support System</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1458' target='_blank'>Automotive Tracking System</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1553' target='_blank'>IVMS (Intelligent Vehicle Monitoring System) Version 7</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1686' target='_blank'>SoloTracking Version 2</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2058' target='_blank'>FleetManager Version 5.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2317' target='_blank'>vTrak Version 1.4</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2322' target='_blank'>Fleet Management System</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2354' target='_blank'>CROSSTRACK GO</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution3184' target='_blank'>SSJ-Related</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution694' target='_blank'>iTrack Fleet Management Version 2.8.8</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution774' target='_blank'>Shell Telematics</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution986' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1281' target='_blank'>V3Nity-FMS Fleet Management System Version 3 </a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1294' target='_blank'>Ascent iSPOT Fleet Management System - 	iSPOT FMS Tracking and Workflow management </a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1300' target='_blank'>Cartrack Fleet Management Version 2</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1305' target='_blank'>Vehicle Support System</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1458' target='_blank'>Automotive Tracking System</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1553' target='_blank'>IVMS (Intelligent Vehicle Monitoring System) Version 7</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1686' target='_blank'>SoloTracking Version 2</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2058' target='_blank'>FleetManager Version 5.0</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2317' target='_blank'>vTrak Version 1.4</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2322' target='_blank'>Fleet Management System</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2354' target='_blank'>CROSSTRACK GO</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution3184' target='_blank'>SSJ-Related</a><br>

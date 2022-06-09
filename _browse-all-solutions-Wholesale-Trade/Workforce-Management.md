@@ -25,4 +25,4 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution947' target='_blank'>WhyzeHR Workforce Management System Version 12</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution947' target='_blank'>WhyzeHR Workforce Management System Version 12</a><br>

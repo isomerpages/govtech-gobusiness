@@ -14,5 +14,5 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1900' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module)</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2705' target='_blank'>Teamcenter Version 13</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1900' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module)</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2705' target='_blank'>Teamcenter Version 13</a><br>

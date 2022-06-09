@@ -14,6 +14,6 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1839' target='_blank'>HeartVoice Telehealth Platform</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1841' target='_blank'>Doctor Anywhere Platform</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1842' target='_blank'>MyDoc Telemedicine Solution</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1839' target='_blank'>HeartVoice Telehealth Platform</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1841' target='_blank'>Doctor Anywhere Platform</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1842' target='_blank'>MyDoc Telemedicine Solution</a><br>

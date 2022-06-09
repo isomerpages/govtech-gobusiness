@@ -25,18 +25,18 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution516' target='_blank'>EndPoint Protection Platform</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution763' target='_blank'>SecureAPlus Version 6.x</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1548' target='_blank'>Sophos EndPoint Protection</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1964' target='_blank'>Sophos Endpoint</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2053' target='_blank'>Adventus Managed EndPoint Protection</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2108' target='_blank'>Sophos Central EndPoint Protection</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2180' target='_blank'>EndPoint Standard</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2268' target='_blank'>TRENDMICRO ENDPOINT PROTECTION</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2496' target='_blank'>Kaspersky Endpoint Security Version 11.6.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2501' target='_blank'>Panda Adaptive Defense 360</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2637' target='_blank'>aiCARE Shield Managed Security Version Ver1.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2660' target='_blank'>Singtel Endpoint Security</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2721' target='_blank'>Eset Protect Entry</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2914' target='_blank'>Cloudable Data Protection Suite-Powered by Acronis</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2934' target='_blank'>Sophos Central Intercept X Advanced</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution516' target='_blank'>EndPoint Protection Platform</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution763' target='_blank'>SecureAPlus Version 6.x</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1548' target='_blank'>Sophos EndPoint Protection</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1964' target='_blank'>Sophos Endpoint</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2053' target='_blank'>Adventus Managed EndPoint Protection</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2108' target='_blank'>Sophos Central EndPoint Protection</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2180' target='_blank'>EndPoint Standard</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2268' target='_blank'>TRENDMICRO ENDPOINT PROTECTION</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2496' target='_blank'>Kaspersky Endpoint Security Version 11.6.0</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2501' target='_blank'>Panda Adaptive Defense 360</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2637' target='_blank'>aiCARE Shield Managed Security Version Ver1.0</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2660' target='_blank'>Singtel Endpoint Security</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2721' target='_blank'>Eset Protect Entry</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2914' target='_blank'>Cloudable Data Protection Suite-Powered by Acronis</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2934' target='_blank'>Sophos Central Intercept X Advanced</a><br>

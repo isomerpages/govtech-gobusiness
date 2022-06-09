@@ -14,4 +14,4 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution2729' target='_blank'>InfoMaster ERP Software - Asset Monitoring and Management</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2729' target='_blank'>InfoMaster ERP Software - Asset Monitoring and Management</a><br>

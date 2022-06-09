@@ -14,4 +14,4 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1262' target='_blank'>Aptsys Customer Relation Management System (CRM/Loyalty Programme)</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1262' target='_blank'>Aptsys Customer Relation Management System (CRM/Loyalty Programme)</a><br>

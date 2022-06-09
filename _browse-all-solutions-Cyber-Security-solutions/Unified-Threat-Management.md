@@ -25,18 +25,18 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution521' target='_blank'>Stormshield UTM Firewall</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1276' target='_blank'>Managed Firewall Solution</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1800' target='_blank'>Adventus Managed Firewall - Fortinet </a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1809' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1909' target='_blank'>Fortinet Fortigate (Next Generation Firewall)</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2274' target='_blank'>Netpluz Managed Firewall </a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2386' target='_blank'>Eminet Sophos XGS Firewall</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2402' target='_blank'>Fortigate Firewall for IT Security or VPN - CARE IT</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2517' target='_blank'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2549' target='_blank'>Network Box Next Generation Managed Security Version 5.5</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2607' target='_blank'>Firewalla Gold Package</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2655' target='_blank'>Singtel-Fortinet Unified Threat Management Version 1</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2711' target='_blank'>Firewall Security Protection</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2763' target='_blank'>Roycemedia Cybersecurity-Firewall</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2835' target='_blank'>Sophos Firewall</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution521' target='_blank'>Stormshield UTM Firewall</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1276' target='_blank'>Managed Firewall Solution</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1800' target='_blank'>Adventus Managed Firewall - Fortinet </a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1809' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1909' target='_blank'>Fortinet Fortigate (Next Generation Firewall)</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2274' target='_blank'>Netpluz Managed Firewall </a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2386' target='_blank'>Eminet Sophos XGS Firewall</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2402' target='_blank'>Fortigate Firewall for IT Security or VPN - CARE IT</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2517' target='_blank'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2549' target='_blank'>Network Box Next Generation Managed Security Version 5.5</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2607' target='_blank'>Firewalla Gold Package</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2655' target='_blank'>Singtel-Fortinet Unified Threat Management Version 1</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2711' target='_blank'>Firewall Security Protection</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2763' target='_blank'>Roycemedia Cybersecurity-Firewall</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2835' target='_blank'>Sophos Firewall</a><br>

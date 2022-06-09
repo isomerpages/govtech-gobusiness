@@ -25,6 +25,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1183' target='_blank'>MEGAPOS </a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1351' target='_blank'>FingerBooth POS System Version 1 </a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1448' target='_blank'>Octopus Retail Solution</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1183' target='_blank'>MEGAPOS </a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1351' target='_blank'>FingerBooth POS System Version 1 </a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1448' target='_blank'>Octopus Retail Solution</a><br>

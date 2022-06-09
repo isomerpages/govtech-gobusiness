@@ -14,7 +14,7 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution82' target='_blank'>Ozonised Air + Surface Sterilization System</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1988' target='_blank'>Automatic Flow Wrap Packaging Machine</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution1989' target='_blank'>Automatic Shrink Wrap Packaging Machine</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2003' target='_blank'>Ethylene Removal System</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution82' target='_blank'>Ozonised Air + Surface Sterilization System</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1988' target='_blank'>Automatic Flow Wrap Packaging Machine</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1989' target='_blank'>Automatic Shrink Wrap Packaging Machine</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2003' target='_blank'>Ethylene Removal System</a><br>

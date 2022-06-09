@@ -22,4 +22,4 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1193' target='_blank'>SmartWeb V3 Version V3</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1193' target='_blank'>SmartWeb V3 Version V3</a><br>

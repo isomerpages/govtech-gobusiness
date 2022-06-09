@@ -14,7 +14,7 @@ Funded and administrated by Enterprise Singapore (EnterpriseSG). For more inform
 
 ## Pre-Approved Solutions
 
-<a href='/productivity-solutions-grant/solutionrepo/solution1429' target='_blank'>Haulio Community System Version 2.0</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2224' target='_blank'>Detrack</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2430' target='_blank'>PORTNET</a><br>
-<a href='/productivity-solutions-grant/solutionrepo/solution2966' target='_blank'>TrackSYNQ</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1429' target='_blank'>Haulio Community System Version 2.0</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2224' target='_blank'>Detrack</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2430' target='_blank'>PORTNET</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2966' target='_blank'>TrackSYNQ</a><br>
