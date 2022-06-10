@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Travel-Agents/Travel-Management-System--Operati
 
 Up to 70% for SMEs, 50% for non-SMEs
 
-Funded and administrated by Singapore Tourism Board (STB).
+This solution is supported by by Singapore Tourism Board (STB).
 
 ## Pre-Approved Solutions
 
