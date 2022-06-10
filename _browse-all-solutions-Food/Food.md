@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Food/Food
 
 Up to 50% for SMEs, 50% for non-SMEs
 
-This solution is supported by by Singapore Food Agency (SFA).
+This solution is supported by Singapore Food Agency (SFA).
 
 ## Pre-Approved Solutions
 

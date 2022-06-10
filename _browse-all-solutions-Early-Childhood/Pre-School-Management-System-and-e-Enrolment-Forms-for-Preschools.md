@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Early-Childhood/Pre-School-Management-System-an
 
 Up to 70% for SMEs, 50% for non-SMEs
 
-This solution is supported by by Early Child Development Agency (ECDA).
+This solution is supported by Early Child Development Agency (ECDA).
 
 ## Pre-Approved Solutions
 

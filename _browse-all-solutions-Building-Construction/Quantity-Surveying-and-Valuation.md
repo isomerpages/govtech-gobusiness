@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Building-Construction/Quantity-Surveying-and-Va
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-This solution is supported by by Building and Construction Authority (BCA).
+This solution is supported by Building and Construction Authority (BCA).
 
 ## Pre-Approved Solutions
 

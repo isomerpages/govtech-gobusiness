@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Banks/Regulatory-Reporting-for-Banks
 
 Up to 30% for SMEs, N.A. for non-SMEs
 
-This solution is supported by by Monetary Authority of Singapore (MAS).
+This solution is supported by Monetary Authority of Singapore (MAS).
 
 ## Pre-Approved Solutions
 
