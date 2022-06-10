@@ -1,5 +1,5 @@
 ---
-title: AppsPOS Bring Your Own Device (BYOD) Solution Version 50
+title: 'AppsPOS Bring Your Own Device (BYOD) Solution Version 50'
 permalink: /productivity-solutions-grant/solutionrepo/solution3034
 ---
 

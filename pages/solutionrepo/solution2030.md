@@ -1,5 +1,5 @@
 ---
-title: WarelyPOS Version 11
+title: 'WarelyPOS Version 11'
 permalink: /productivity-solutions-grant/solutionrepo/solution2030
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Pasteurisation Equipment/ Plant
+title: 'Pasteurisation Equipment/ Plant'
 permalink: /productivity-solutions-grant/solutionrepo/solution2151
 ---
 

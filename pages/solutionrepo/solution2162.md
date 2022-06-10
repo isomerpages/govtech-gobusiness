@@ -1,5 +1,5 @@
 ---
-title: Water Treatment System for Water Recirculation or Discharge
+title: 'Water Treatment System for Water Recirculation or Discharge'
 permalink: /productivity-solutions-grant/solutionrepo/solution2162
 ---
 

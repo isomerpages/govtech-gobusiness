@@ -1,5 +1,5 @@
 ---
-title: Trueblu CRM Version 32
+title: 'Trueblu CRM Version 32'
 permalink: /productivity-solutions-grant/solutionrepo/solution1345
 ---
 

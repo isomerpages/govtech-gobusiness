@@ -1,5 +1,5 @@
 ---
-title: Simplr Warehouse Management Version 6
+title: 'Simplr Warehouse Management Version 6'
 permalink: /productivity-solutions-grant/solutionrepo/solution2350
 ---
 

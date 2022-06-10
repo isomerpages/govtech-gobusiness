@@ -1,5 +1,5 @@
 ---
-title: DM Firstcom Digital Marketing Programme
+title: 'DM Firstcom Digital Marketing Programme'
 permalink: /productivity-solutions-grant/solutionrepo/solution2644
 ---
 

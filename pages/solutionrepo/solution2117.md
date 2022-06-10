@@ -1,5 +1,5 @@
 ---
-title: Automated Sorter/ Grader
+title: 'Automated Sorter/ Grader'
 permalink: /productivity-solutions-grant/solutionrepo/solution2117
 ---
 

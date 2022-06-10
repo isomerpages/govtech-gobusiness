@@ -1,5 +1,5 @@
 ---
-title: Wealthbridge - Xero
+title: 'Wealthbridge - Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution2531
 ---
 

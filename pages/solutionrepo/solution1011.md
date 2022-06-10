@@ -1,5 +1,5 @@
 ---
-title: Quickbooks Online - QuickBooks Online Accounting Solution
+title: 'Quickbooks Online - QuickBooks Online Accounting Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1011
 ---
 

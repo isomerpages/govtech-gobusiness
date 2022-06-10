@@ -1,5 +1,5 @@
 ---
-title: HRM Labs Shared Service
+title: 'HRM Labs Shared Service'
 permalink: /productivity-solutions-grant/solutionrepo/solution2984
 ---
 

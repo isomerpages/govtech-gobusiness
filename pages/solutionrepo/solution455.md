@@ -1,5 +1,5 @@
 ---
-title: Hubble Workforce Management System Version 20
+title: 'Hubble Workforce Management System Version 20'
 permalink: /productivity-solutions-grant/solutionrepo/solution455
 ---
 

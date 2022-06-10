@@ -1,5 +1,5 @@
 ---
-title: arclite and arcops - Process Configuration (arclink Module)
+title: 'arclite and arcops - Process Configuration (arclink Module)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1900
 ---
 

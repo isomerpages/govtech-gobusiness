@@ -1,5 +1,5 @@
 ---
-title: Fortinet Fortigate (Next Generation Firewall)
+title: 'Fortinet Fortigate (Next Generation Firewall)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1909
 ---
 

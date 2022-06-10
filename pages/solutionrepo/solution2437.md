@@ -1,5 +1,5 @@
 ---
-title: BridgED Version 20
+title: 'BridgED Version 20'
 permalink: /productivity-solutions-grant/solutionrepo/solution2437
 ---
 

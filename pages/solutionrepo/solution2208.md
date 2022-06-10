@@ -1,5 +1,5 @@
 ---
-title: cuteOffice ERP Version 20
+title: 'cuteOffice ERP Version 20'
 permalink: /productivity-solutions-grant/solutionrepo/solution2208
 ---
 

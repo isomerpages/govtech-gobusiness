@@ -1,5 +1,5 @@
 ---
-title: Electric Pedestrian Pallet Truck
+title: 'Electric Pedestrian Pallet Truck'
 permalink: /productivity-solutions-grant/solutionrepo/solution1410
 ---
 

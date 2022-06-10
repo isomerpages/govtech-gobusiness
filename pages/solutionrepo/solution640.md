@@ -1,5 +1,5 @@
 ---
-title: Netiquette Cloud Business Suite
+title: 'Netiquette Cloud Business Suite'
 permalink: /productivity-solutions-grant/solutionrepo/solution640
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Second CRM Version 71
+title: 'Second CRM Version 71'
 permalink: /productivity-solutions-grant/solutionrepo/solution1861
 ---
 

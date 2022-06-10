@@ -1,5 +1,5 @@
 ---
-title: EndPoint Standard
+title: 'EndPoint Standard'
 permalink: /productivity-solutions-grant/solutionrepo/solution2180
 ---
 

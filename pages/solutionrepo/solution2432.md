@@ -1,5 +1,5 @@
 ---
-title: Qoqolo School Management System Version 4
+title: 'Qoqolo School Management System Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution2432
 ---
 

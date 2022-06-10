@@ -1,5 +1,5 @@
 ---
-title: SAP Business One SQL HANA Version 93 PL6/100
+title: 'SAP Business One SQL HANA Version 93 PL6/100'
 permalink: /productivity-solutions-grant/solutionrepo/solution612
 ---
 

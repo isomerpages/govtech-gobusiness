@@ -1,5 +1,5 @@
 ---
-title: Eset Protect Entry
+title: 'Eset Protect Entry'
 permalink: /productivity-solutions-grant/solutionrepo/solution2721
 ---
 

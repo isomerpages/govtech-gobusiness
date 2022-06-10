@@ -1,5 +1,5 @@
 ---
-title: A2000ERP SOLUTION Version 12X
+title: 'A2000ERP SOLUTION Version 12X'
 permalink: /productivity-solutions-grant/solutionrepo/solution2632
 ---
 

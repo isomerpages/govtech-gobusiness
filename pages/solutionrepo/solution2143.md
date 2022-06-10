@@ -1,5 +1,5 @@
 ---
-title: Hi-jack Cleaning Machinery
+title: 'Hi-jack Cleaning Machinery'
 permalink: /productivity-solutions-grant/solutionrepo/solution2143
 ---
 

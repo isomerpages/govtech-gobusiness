@@ -1,5 +1,5 @@
 ---
-title: Magento and Woo Commerce Solutions for Retail
+title: 'Magento and Woo Commerce Solutions for Retail'
 permalink: /productivity-solutions-grant/solutionrepo/solution1243
 ---
 

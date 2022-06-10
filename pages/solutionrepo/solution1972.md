@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central
+title: 'Microsoft Dynamics 365 Business Central'
 permalink: /productivity-solutions-grant/solutionrepo/solution1972
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: CROSSTRACK GO
+title: 'CROSSTRACK GO'
 permalink: /productivity-solutions-grant/solutionrepo/solution2354
 ---
 

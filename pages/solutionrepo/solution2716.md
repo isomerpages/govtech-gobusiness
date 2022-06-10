@@ -1,5 +1,5 @@
 ---
-title: Redoc - Document Management Transaction Records Version 10
+title: 'Redoc - Document Management Transaction Records Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution2716
 ---
 

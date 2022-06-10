@@ -1,5 +1,5 @@
 ---
-title: Autonomous Material Transportation Robot
+title: 'Autonomous Material Transportation Robot'
 permalink: /productivity-solutions-grant/solutionrepo/solution24
 ---
 

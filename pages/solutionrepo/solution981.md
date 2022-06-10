@@ -1,5 +1,5 @@
 ---
-title: AZ DIGITAL ORDERING SOLUTION Version 10
+title: 'AZ DIGITAL ORDERING SOLUTION Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution981
 ---
 

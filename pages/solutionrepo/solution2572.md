@@ -1,5 +1,5 @@
 ---
-title: Alitec odooCRM and sales
+title: 'Alitec odooCRM and sales'
 permalink: /productivity-solutions-grant/solutionrepo/solution2572
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Morphisec Version 50
+title: 'Morphisec Version 50'
 permalink: /productivity-solutions-grant/solutionrepo/solution2004
 ---
 

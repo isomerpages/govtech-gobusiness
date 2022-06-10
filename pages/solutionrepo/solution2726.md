@@ -1,5 +1,5 @@
 ---
-title: BIZ FNB DIGITAL ORDERING
+title: 'BIZ FNB DIGITAL ORDERING'
 permalink: /productivity-solutions-grant/solutionrepo/solution2726
 ---
 

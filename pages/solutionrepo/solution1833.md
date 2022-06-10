@@ -1,5 +1,5 @@
 ---
-title: AgileREPORTER Version 193
+title: 'AgileREPORTER Version 193'
 permalink: /productivity-solutions-grant/solutionrepo/solution1833
 ---
 

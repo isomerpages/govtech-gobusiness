@@ -1,5 +1,5 @@
 ---
-title: ITAPS
+title: 'ITAPS'
 permalink: /productivity-solutions-grant/solutionrepo/solution2345
 ---
 

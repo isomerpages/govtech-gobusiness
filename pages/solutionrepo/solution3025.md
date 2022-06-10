@@ -1,5 +1,5 @@
 ---
-title: OPS SALES ORDER MANAGEMENT SOLUTION Version v90
+title: 'OPS SALES ORDER MANAGEMENT SOLUTION Version v90'
 permalink: /productivity-solutions-grant/solutionrepo/solution3025
 ---
 

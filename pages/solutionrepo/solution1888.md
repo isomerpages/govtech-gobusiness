@@ -1,5 +1,5 @@
 ---
-title: arclite and arcops - Equipment Monitoring and Manufacturing Data Collection
+title: 'arclite and arcops - Equipment Monitoring and Manufacturing Data Collection'
 permalink: /productivity-solutions-grant/solutionrepo/solution1888
 ---
 

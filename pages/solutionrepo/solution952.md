@@ -1,5 +1,5 @@
 ---
-title: EZYSALESORDER Version 20
+title: 'EZYSALESORDER Version 20'
 permalink: /productivity-solutions-grant/solutionrepo/solution952
 ---
 

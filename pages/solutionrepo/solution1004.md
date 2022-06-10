@@ -1,5 +1,5 @@
 ---
-title: Stendard Solution  Version 161
+title: 'Stendard Solution  Version 161'
 permalink: /productivity-solutions-grant/solutionrepo/solution1004
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Digital Welding Equipment
+title: 'Digital Welding Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1288
 ---
 

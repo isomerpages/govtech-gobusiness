@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Version 105
+title: 'Xero Cloud Accounting Version 105'
 permalink: /productivity-solutions-grant/solutionrepo/solution2245
 ---
 

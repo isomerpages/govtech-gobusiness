@@ -1,5 +1,5 @@
 ---
-title: QuickBooks Online Version 1
+title: 'QuickBooks Online Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution2390
 ---
 

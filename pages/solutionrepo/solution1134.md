@@ -1,5 +1,5 @@
 ---
-title: Aptsys - Customer Mobile Self Ordering with Payment Version 10
+title: 'Aptsys - Customer Mobile Self Ordering with Payment Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution1134
 ---
 

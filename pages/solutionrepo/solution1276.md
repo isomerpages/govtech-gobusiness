@@ -1,5 +1,5 @@
 ---
-title: Managed Firewall Solution
+title: 'Managed Firewall Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1276
 ---
 

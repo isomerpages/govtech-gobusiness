@@ -1,5 +1,5 @@
 ---
-title: SHOPLINE e-Commerce Solution
+title: 'SHOPLINE e-Commerce Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution2327
 ---
 

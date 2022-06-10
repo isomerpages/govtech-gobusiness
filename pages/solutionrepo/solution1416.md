@@ -1,5 +1,5 @@
 ---
-title: Freight Master Version 81
+title: 'Freight Master Version 81'
 permalink: /productivity-solutions-grant/solutionrepo/solution1416
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Automatic Feeding/ Drinking System
+title: 'Automatic Feeding/ Drinking System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2123
 ---
 

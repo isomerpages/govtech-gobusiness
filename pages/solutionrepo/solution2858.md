@@ -1,5 +1,5 @@
 ---
-title: RFID Inventory Management System
+title: 'RFID Inventory Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2858
 ---
 

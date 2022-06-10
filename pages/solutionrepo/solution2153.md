@@ -1,5 +1,5 @@
 ---
-title: Recirculating Aquaculture System
+title: 'Recirculating Aquaculture System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2153
 ---
 

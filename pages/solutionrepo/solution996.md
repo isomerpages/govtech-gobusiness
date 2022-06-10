@@ -1,5 +1,5 @@
 ---
-title: Dining Butler system
+title: 'Dining Butler system'
 permalink: /productivity-solutions-grant/solutionrepo/solution996
 ---
 

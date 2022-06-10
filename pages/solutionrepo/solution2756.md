@@ -1,5 +1,5 @@
 ---
-title: ePSProfessional Version 17
+title: 'ePSProfessional Version 17'
 permalink: /productivity-solutions-grant/solutionrepo/solution2756
 ---
 

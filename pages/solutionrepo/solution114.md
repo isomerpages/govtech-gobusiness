@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central Version Cloud
+title: 'Microsoft Dynamics 365 Business Central Version Cloud'
 permalink: /productivity-solutions-grant/solutionrepo/solution114
 ---
 

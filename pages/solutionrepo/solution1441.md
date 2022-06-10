@@ -1,5 +1,5 @@
 ---
-title: EISOL F&B (Eats365) Version 10
+title: 'EISOL F&B (Eats365) Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution1441
 ---
 

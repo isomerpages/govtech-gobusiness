@@ -1,5 +1,5 @@
 ---
-title: EPOS Enhanced POS Version 20
+title: 'EPOS Enhanced POS Version 20'
 permalink: /productivity-solutions-grant/solutionrepo/solution2757
 ---
 

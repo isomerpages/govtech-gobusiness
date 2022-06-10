@@ -1,5 +1,5 @@
 ---
-title: SYNERGIX E1 Version TH7
+title: 'SYNERGIX E1 Version TH7'
 permalink: /productivity-solutions-grant/solutionrepo/solution2258
 ---
 

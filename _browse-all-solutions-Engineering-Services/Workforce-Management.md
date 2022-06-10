@@ -1,5 +1,5 @@
 ---
-title: Workforce Management
+title: 'Workforce Management'
 permalink: /browse-all-solutions-Engineering-Services/Workforce-Management
 ---
 

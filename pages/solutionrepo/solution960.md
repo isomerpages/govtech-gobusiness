@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central for Wholesale
+title: 'Microsoft Dynamics 365 Business Central for Wholesale'
 permalink: /productivity-solutions-grant/solutionrepo/solution960
 ---
 

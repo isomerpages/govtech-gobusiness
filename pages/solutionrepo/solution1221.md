@@ -1,5 +1,5 @@
 ---
-title: VRcollab LITE
+title: 'VRcollab LITE'
 permalink: /productivity-solutions-grant/solutionrepo/solution1221
 ---
 

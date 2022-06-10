@@ -1,5 +1,5 @@
 ---
-title: Regulatory Reporting for Banks
+title: 'Regulatory Reporting for Banks'
 permalink: /browse-all-solutions-Banks/Regulatory-Reporting-for-Banks
 ---
 

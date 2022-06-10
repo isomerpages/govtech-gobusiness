@@ -1,5 +1,5 @@
 ---
-title: EPOINT Version 9
+title: 'EPOINT Version 9'
 permalink: /productivity-solutions-grant/solutionrepo/solution2994
 ---
 

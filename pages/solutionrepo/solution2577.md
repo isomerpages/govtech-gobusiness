@@ -1,5 +1,5 @@
 ---
-title: Profectant Xero
+title: 'Profectant Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution2577
 ---
 

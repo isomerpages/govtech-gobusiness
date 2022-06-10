@@ -1,5 +1,5 @@
 ---
-title: HR administration with payroll processing via SaaS solutions Version 21-31
+title: 'HR administration with payroll processing via SaaS solutions Version 21-31'
 permalink: /productivity-solutions-grant/solutionrepo/solution2850
 ---
 

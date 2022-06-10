@@ -1,5 +1,5 @@
 ---
-title: DM APEC Solutions Digital Marketing Packages
+title: 'DM APEC Solutions Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution3015
 ---
 

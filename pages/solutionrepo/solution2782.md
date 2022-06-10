@@ -1,5 +1,5 @@
 ---
-title: Xero Accounting System
+title: 'Xero Accounting System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2782
 ---
 

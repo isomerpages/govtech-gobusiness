@@ -1,5 +1,5 @@
 ---
-title: VEON@Experience Version 10
+title: 'VEON@Experience Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution424
 ---
 

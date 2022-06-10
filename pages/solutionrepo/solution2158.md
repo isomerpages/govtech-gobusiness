@@ -1,5 +1,5 @@
 ---
-title: Vacuum Cooler Equipment
+title: 'Vacuum Cooler Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution2158
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: BIZ POS Version 30
+title: 'BIZ POS Version 30'
 permalink: /productivity-solutions-grant/solutionrepo/solution1084
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Automatic Seed Plug Transplanter
+title: 'Automatic Seed Plug Transplanter'
 permalink: /productivity-solutions-grant/solutionrepo/solution2125
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: SecureAPlus Version 6x
+title: 'SecureAPlus Version 6x'
 permalink: /productivity-solutions-grant/solutionrepo/solution763
 ---
 

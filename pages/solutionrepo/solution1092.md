@@ -1,5 +1,5 @@
 ---
-title: (AI) INFO-TECH Cloud HRMS Version 80
+title: '(AI) INFO-TECH Cloud HRMS Version 80'
 permalink: /productivity-solutions-grant/solutionrepo/solution1092
 ---
 

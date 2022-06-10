@@ -1,5 +1,5 @@
 ---
-title: Shopcada POS Version 2
+title: 'Shopcada POS Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution3009
 ---
 

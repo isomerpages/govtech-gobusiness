@@ -1,5 +1,5 @@
 ---
-title: Commercial Inkjet Printer
+title: 'Commercial Inkjet Printer'
 permalink: /productivity-solutions-grant/solutionrepo/solution302
 ---
 

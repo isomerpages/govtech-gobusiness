@@ -1,5 +1,5 @@
 ---
-title: Farm Processing Machine
+title: 'Farm Processing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2135
 ---
 

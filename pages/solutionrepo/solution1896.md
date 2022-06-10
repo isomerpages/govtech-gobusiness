@@ -1,5 +1,5 @@
 ---
-title: arclite and arcops - Real-time Production Scheduling and Job Tracking
+title: 'arclite and arcops - Real-time Production Scheduling and Job Tracking'
 permalink: /productivity-solutions-grant/solutionrepo/solution1896
 ---
 

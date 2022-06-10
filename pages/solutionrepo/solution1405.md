@@ -1,5 +1,5 @@
 ---
-title: StaffAny Version 10
+title: 'StaffAny Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution1405
 ---
 

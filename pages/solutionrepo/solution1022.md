@@ -1,5 +1,5 @@
 ---
-title: EasyBus Version 23
+title: 'EasyBus Version 23'
 permalink: /productivity-solutions-grant/solutionrepo/solution1022
 ---
 

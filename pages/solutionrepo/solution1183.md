@@ -1,5 +1,5 @@
 ---
-title: MEGAPOS
+title: 'MEGAPOS'
 permalink: /productivity-solutions-grant/solutionrepo/solution1183
 ---
 

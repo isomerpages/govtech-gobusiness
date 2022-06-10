@@ -1,5 +1,5 @@
 ---
-title: EQuipPOS Retail Solutions Version 3
+title: 'EQuipPOS Retail Solutions Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution2919
 ---
 

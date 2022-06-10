@@ -1,5 +1,5 @@
 ---
-title: SGDATAPOS Digital Ordering
+title: 'SGDATAPOS Digital Ordering'
 permalink: /productivity-solutions-grant/solutionrepo/solution3030
 ---
 

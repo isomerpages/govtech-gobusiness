@@ -1,5 +1,5 @@
 ---
-title: iREP Security System Version 40
+title: 'iREP Security System Version 40'
 permalink: /productivity-solutions-grant/solutionrepo/solution2815
 ---
 

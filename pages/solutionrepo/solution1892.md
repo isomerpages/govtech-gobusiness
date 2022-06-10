@@ -1,5 +1,5 @@
 ---
-title: arcops - Manufacturing Quality Management
+title: 'arcops - Manufacturing Quality Management'
 permalink: /productivity-solutions-grant/solutionrepo/solution1892
 ---
 

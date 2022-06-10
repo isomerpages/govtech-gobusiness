@@ -1,5 +1,5 @@
 ---
-title: Autocount Accounting System Version 20
+title: 'Autocount Accounting System Version 20'
 permalink: /productivity-solutions-grant/solutionrepo/solution1106
 ---
 

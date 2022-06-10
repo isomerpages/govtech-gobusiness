@@ -1,5 +1,5 @@
 ---
-title: OdooCRM
+title: 'OdooCRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1079
 ---
 

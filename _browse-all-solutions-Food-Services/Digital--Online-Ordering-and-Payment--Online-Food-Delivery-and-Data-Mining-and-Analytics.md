@@ -1,9 +1,9 @@
 ---
-title: Digital/ Online Ordering and Payment Online Food Delivery and Data Mining and Analytics
+title: 'Digital/ Online Ordering and Payment, Online Food Delivery and Data Mining and Analytics'
 permalink: /browse-all-solutions-Food-Services/Digital--Online-Ordering-and-Payment--Online-Food-Delivery-and-Data-Mining-and-Analytics
 ---
 
-## Digital/ Online Ordering and Payment Online Food Delivery and Data Mining and Analytics
+## Digital/ Online Ordering and Payment, Online Food Delivery and Data Mining and Analytics
 ## Overview
 
 **Support Level and Conditions**

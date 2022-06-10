@@ -1,5 +1,5 @@
 ---
-title: FoodZaps Version 40
+title: 'FoodZaps Version 40'
 permalink: /productivity-solutions-grant/solutionrepo/solution1958
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: BonaForce
+title: 'BonaForce'
 permalink: /productivity-solutions-grant/solutionrepo/solution250
 ---
 

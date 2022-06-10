@@ -1,5 +1,5 @@
 ---
-title: Swipetask PRO
+title: 'Swipetask PRO'
 permalink: /productivity-solutions-grant/solutionrepo/solution2360
 ---
 

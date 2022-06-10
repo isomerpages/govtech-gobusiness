@@ -1,5 +1,5 @@
 ---
-title: Automated Noodle Boiler
+title: 'Automated Noodle Boiler'
 permalink: /productivity-solutions-grant/solutionrepo/solution17
 ---
 

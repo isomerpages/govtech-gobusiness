@@ -1,5 +1,5 @@
 ---
-title: Taidii SMART IT Solution for Preschool
+title: 'Taidii SMART IT Solution for Preschool'
 permalink: /productivity-solutions-grant/solutionrepo/solution2452
 ---
 

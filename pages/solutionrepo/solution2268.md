@@ -1,5 +1,5 @@
 ---
-title: TRENDMICRO ENDPOINT PROTECTION
+title: 'TRENDMICRO ENDPOINT PROTECTION'
 permalink: /productivity-solutions-grant/solutionrepo/solution2268
 ---
 

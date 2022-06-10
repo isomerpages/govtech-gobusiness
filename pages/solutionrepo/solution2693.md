@@ -1,5 +1,5 @@
 ---
-title: Gurusoft Logistics Management System Version 11
+title: 'Gurusoft Logistics Management System Version 11'
 permalink: /productivity-solutions-grant/solutionrepo/solution2693
 ---
 

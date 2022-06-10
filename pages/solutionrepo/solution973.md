@@ -1,5 +1,5 @@
 ---
-title: ZETTAPPS Cloud-based Inventory Order Processing Version 37
+title: 'ZETTAPPS Cloud-based Inventory Order Processing Version 37'
 permalink: /productivity-solutions-grant/solutionrepo/solution973
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Carbonate HR Version 1
+title: 'Carbonate HR Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution2866
 ---
 

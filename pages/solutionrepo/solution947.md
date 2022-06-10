@@ -1,5 +1,5 @@
 ---
-title: WhyzeHR Workforce Management System Version 12
+title: 'WhyzeHR Workforce Management System Version 12'
 permalink: /productivity-solutions-grant/solutionrepo/solution947
 ---
 

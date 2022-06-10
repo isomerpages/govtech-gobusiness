@@ -1,5 +1,5 @@
 ---
-title: Dehusking Machine/ Shaker
+title: 'Dehusking Machine/ Shaker'
 permalink: /productivity-solutions-grant/solutionrepo/solution2132
 ---
 

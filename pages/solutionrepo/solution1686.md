@@ -1,5 +1,5 @@
 ---
-title: SoloTracking Version 2
+title: 'SoloTracking Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1686
 ---
 

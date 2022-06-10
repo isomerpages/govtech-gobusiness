@@ -1,5 +1,5 @@
 ---
-title: Temperature montoring/ labelling device
+title: 'Temperature montoring/ labelling device'
 permalink: /productivity-solutions-grant/solutionrepo/solution2173
 ---
 

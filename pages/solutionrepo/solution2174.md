@@ -1,5 +1,5 @@
 ---
-title: Fish fry quarantine tank system
+title: 'Fish fry quarantine tank system'
 permalink: /productivity-solutions-grant/solutionrepo/solution2174
 ---
 

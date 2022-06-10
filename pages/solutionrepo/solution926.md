@@ -1,5 +1,5 @@
 ---
-title: XERO CLOUD ACCOUNTING SOFTWARE
+title: 'XERO CLOUD ACCOUNTING SOFTWARE'
 permalink: /productivity-solutions-grant/solutionrepo/solution926
 ---
 

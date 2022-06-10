@@ -1,5 +1,5 @@
 ---
-title: Blast Chiller
+title: 'Blast Chiller'
 permalink: /productivity-solutions-grant/solutionrepo/solution2524
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Kiosk  BYOD
+title: 'Kiosk  BYOD'
 permalink: /productivity-solutions-grant/solutionrepo/solution976
 ---
 

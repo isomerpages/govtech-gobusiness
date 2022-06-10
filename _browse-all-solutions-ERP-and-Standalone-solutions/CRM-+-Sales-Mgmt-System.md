@@ -1,5 +1,5 @@
 ---
-title: Customer Relationship Management (CRM) + Sales Management System
+title: 'Customer Relationship Management (CRM) + Sales Management System'
 permalink: /browse-all-solutions-ERP-and-Standalone-solutions/CRM-+-Sales-Mgmt-System
 ---
 

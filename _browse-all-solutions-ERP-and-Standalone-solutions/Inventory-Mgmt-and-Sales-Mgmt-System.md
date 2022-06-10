@@ -1,5 +1,5 @@
 ---
-title: Inventory Management and Sales Management System
+title: 'Inventory Management and Sales Management System'
 permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Inventory-Mgmt-and-Sales-Mgmt-System
 ---
 

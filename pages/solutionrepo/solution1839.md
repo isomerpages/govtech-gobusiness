@@ -1,5 +1,5 @@
 ---
-title: HeartVoice Telehealth Platform
+title: 'HeartVoice Telehealth Platform'
 permalink: /productivity-solutions-grant/solutionrepo/solution1839
 ---
 

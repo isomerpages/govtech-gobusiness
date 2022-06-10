@@ -1,5 +1,5 @@
 ---
-title: DM Accelerated Digital Marketing For SMEs
+title: 'DM Accelerated Digital Marketing For SMEs'
 permalink: /productivity-solutions-grant/solutionrepo/solution2475
 ---
 

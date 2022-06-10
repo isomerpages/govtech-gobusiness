@@ -1,5 +1,5 @@
 ---
-title: SUNTOYO POS SOLUTION Version 81
+title: 'SUNTOYO POS SOLUTION Version 81'
 permalink: /productivity-solutions-grant/solutionrepo/solution1120
 ---
 

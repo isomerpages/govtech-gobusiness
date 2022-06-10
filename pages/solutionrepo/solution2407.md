@@ -1,5 +1,5 @@
 ---
-title: ETABS Ultimate Suite Version 19
+title: 'ETABS Ultimate Suite Version 19'
 permalink: /productivity-solutions-grant/solutionrepo/solution2407
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: AGHRM
+title: 'AGHRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution125
 ---
 

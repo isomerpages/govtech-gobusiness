@@ -1,5 +1,5 @@
 ---
-title: Sophos Central Intercept X Advanced
+title: 'Sophos Central Intercept X Advanced'
 permalink: /productivity-solutions-grant/solutionrepo/solution2934
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Frontier e-HR Version 8 - AutomateHR eFrontier
+title: 'Frontier e-HR Version 8 - AutomateHR eFrontier'
 permalink: /productivity-solutions-grant/solutionrepo/solution2924
 ---
 

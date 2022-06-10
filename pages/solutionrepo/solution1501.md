@@ -1,5 +1,5 @@
 ---
-title: SGDATAPOS Version 51
+title: 'SGDATAPOS Version 51'
 permalink: /productivity-solutions-grant/solutionrepo/solution1501
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: LED grow lights
+title: 'LED grow lights'
 permalink: /productivity-solutions-grant/solutionrepo/solution2168
 ---
 

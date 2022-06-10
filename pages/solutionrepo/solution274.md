@@ -1,5 +1,5 @@
 ---
-title: InSight QSE
+title: 'InSight QSE'
 permalink: /productivity-solutions-grant/solutionrepo/solution274
 ---
 

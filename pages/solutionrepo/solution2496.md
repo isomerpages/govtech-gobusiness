@@ -1,5 +1,5 @@
 ---
-title: Kaspersky Endpoint Security Version 1160
+title: 'Kaspersky Endpoint Security Version 1160'
 permalink: /productivity-solutions-grant/solutionrepo/solution2496
 ---
 

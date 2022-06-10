@@ -1,5 +1,5 @@
 ---
-title: Athena E-store Solution
+title: 'Athena E-store Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution2305
 ---
 

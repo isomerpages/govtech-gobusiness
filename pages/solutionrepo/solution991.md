@@ -1,5 +1,5 @@
 ---
-title: iCHEF Integrated Digital Ordering POS Version V 20
+title: 'iCHEF Integrated Digital Ordering POS Version V 20'
 permalink: /productivity-solutions-grant/solutionrepo/solution991
 ---
 

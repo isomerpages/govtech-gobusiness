@@ -1,5 +1,5 @@
 ---
-title: eCommerce Masterplan Version 10
+title: 'eCommerce Masterplan Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution2092
 ---
 

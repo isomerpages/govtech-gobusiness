@@ -1,5 +1,5 @@
 ---
-title: LFSuite Version 60
+title: 'LFSuite Version 60'
 permalink: /productivity-solutions-grant/solutionrepo/solution1139
 ---
 

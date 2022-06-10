@@ -1,5 +1,5 @@
 ---
-title: DM MediaPlus Digital Marketing Package
+title: 'DM MediaPlus Digital Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution2979
 ---
 

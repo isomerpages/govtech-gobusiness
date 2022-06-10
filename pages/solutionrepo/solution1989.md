@@ -1,5 +1,5 @@
 ---
-title: Automatic Shrink Wrap Packaging Machine
+title: 'Automatic Shrink Wrap Packaging Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1989
 ---
 

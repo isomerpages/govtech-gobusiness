@@ -1,5 +1,5 @@
 ---
-title: iTrack Fleet Management Version 288
+title: 'iTrack Fleet Management Version 288'
 permalink: /productivity-solutions-grant/solutionrepo/solution694
 ---
 

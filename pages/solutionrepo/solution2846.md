@@ -1,5 +1,5 @@
 ---
-title: Go EBOS - SMECEN Dashbod Accounting Version 1354
+title: 'Go EBOS - SMECEN Dashbod Accounting Version 1354'
 permalink: /productivity-solutions-grant/solutionrepo/solution2846
 ---
 

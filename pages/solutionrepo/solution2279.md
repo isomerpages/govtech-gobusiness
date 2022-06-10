@@ -1,5 +1,5 @@
 ---
-title: DST Inventory System Version 13
+title: 'DST Inventory System Version 13'
 permalink: /productivity-solutions-grant/solutionrepo/solution2279
 ---
 

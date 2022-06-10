@@ -1,5 +1,5 @@
 ---
-title: Nett VMS Version 4
+title: 'Nett VMS Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution3020
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: SAP Business One 93 Package
+title: 'SAP Business One 93 Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution491
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Deskera People Version 100
+title: 'Deskera People Version 100'
 permalink: /productivity-solutions-grant/solutionrepo/solution349
 ---
 

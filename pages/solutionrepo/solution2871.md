@@ -1,5 +1,5 @@
 ---
-title: Eber Smart Members Solution
+title: 'Eber Smart Members Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution2871
 ---
 

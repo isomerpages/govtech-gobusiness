@@ -1,5 +1,5 @@
 ---
-title: Retail Analytics
+title: 'Retail Analytics'
 permalink: /browse-all-solutions-Retail/Retail-Analytics
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: MetroERP Version 10
+title: 'MetroERP Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution2732
 ---
 
