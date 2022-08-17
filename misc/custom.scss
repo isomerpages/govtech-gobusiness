@@ -890,7 +890,11 @@ table {
 .bp-footer{
   .bp-container{
     .row{
-      display: none;
+      .col{
+        .sub-header{
+          display: none;
+        }
+      }
     }
   }
 }
