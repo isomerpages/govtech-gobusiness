@@ -887,6 +887,17 @@ table {
     }
   }
 }
+.bp-footer{
+  .bp-container{
+    .row{
+      .col{
+        .sub-header{
+          display: none;
+        }
+      }
+    }
+  }
+}
 
 hr {
   height: 1px;
