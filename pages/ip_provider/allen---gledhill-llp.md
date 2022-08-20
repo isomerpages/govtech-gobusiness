@@ -1,6 +1,6 @@
 ---
 title: 'Allen & Gledhill LLP'
-permalink: /pip-provider/allen---gledhill-llp
+permalink: /ip-provider/allen---gledhill-llp
 ---
 
 ## ABSS Premier - Accounting and Sales Management System Version 23
