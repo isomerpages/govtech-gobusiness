@@ -103,7 +103,20 @@ Allen & Gledhill is an award-winning full-service South-east Asian law firm prov
 <a name="list-of-key-practice-experts"></a>
 <h3>List of key practice experts</h3>
 
--
+<strong>Stanley Lai</strong>
+Head of the Intellectual Property Practice and Co-Head of the Cybersecurity & Data Protection Practice
+
+Dr Stanley Lai, SC is the Head of the Firm’s Intellectual Property Practice and Co-Head of the Cybersecurity & Data Protection Practice. Stanley specialises in all forms of IP litigation and information technology disputes, and is also a commercial/chancery litigator. He maintains a strong advisory practice for IP/data management and cybersecurity, serving a broad spectrum of clients. He also represents clients in investigations that are undertaken by the Personal Data Protection Commission. In the biomedical and pharmaceutical sectors, Stanley has substantial experience in advising on healthcare and medical IP and regulatory issues concerning medicines, generics, patent linkage, bio-similars, medical devices, clinical trials, product recalls and product liability.
+
+<strong>Low Pei Lin</strong>
+Partner
+
+Pei Lin’s principal area of practice is Intellectual Property (IP) and is a Singapore Registered Patent Attorney. She leads a team of patent professionals that drafts and prosecutes patent applications with local and foreign patent offices. Pei Lin graduated from the National University of Singapore with an LL.B. (Hons) degree in 1996 and joined Allen & Gledhill after being called to the Singapore Bar in 1997. Specialising in IP protection, portfolio and rights management, she has extensive experience in preparation and review of IP documentation as well as managing the patents, trademarks and designs portfolio for clients worldwide. Her clients include local/overseas institutes of higher learning and research institutes, government agencies, multinational corporations, global news and entertainment corporations, hotel groups as well as local/foreign banks.
+
+<strong>Vignesh Vaerhn</strong>
+Partner
+
+Vignesh’s areas of expertise span all forms of Intellectual Property including Intellectual Property/Information Technology Litigation and Disputes. He has extensive experience in Intellectual Property infringement/revocation /opposition/entitlement actions including copyright disputes, both civil and criminal. He has also successfully advised and conducted proceedings for the recovery of domain and business names. He advises on the protection of trade secrets and confidential information as well as regulatory issues relating to the licensing of pharmaceutical products in Singapore and he has been involved in disputes involving the laws relating to patent linkage and pharmaceutical products. He maintains an advisory practice relating to Intellectual Property protection and portfolio management, in particular Intellectual Property exploitation strategies, including issues arising out of Intellectual Property audits/due diligence and commercialisation.
 
 <hr>
 
