@@ -19,7 +19,7 @@ Allen & Gledhill is an award-winning full-service South-east Asian law firm prov
 
 {% include button.html text="Connect" src="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" type="primary" %}
 
-{% include panels-overview.html description="<br>On this page:" %}
+{% include panels-overview.html description="<br><b>On this page:</b><br><ul><li><a href="#ip-expertise">IP expertise</a></li></ul><br>" %}
 
 <hr>
 
