@@ -26,8 +26,9 @@ Looking to source and connect with the right partner across various categories o
 {% include button.html text="Go to e-Adviser for IP Services Directory" src="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" type="primary" %}
 
 <hr>
-
-<img src="/images/ipgrow/providers/Allen & Gledhill LLP.png" alt="Allen & Gledhill LLP logo">
+<div style="text-align: left;">
+<img src="/images/ipgrow/providers/Allen & Gledhill LLP.png" alt="Allen & Gledhill LLP logo" width="auto>
+</div>
 
 ### Allen & Gledhill LLP
 
