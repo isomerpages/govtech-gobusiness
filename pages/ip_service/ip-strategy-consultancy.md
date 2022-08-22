@@ -26,9 +26,7 @@ Looking to source and connect with the right partner across various categories o
 {% include button.html text="Go to e-Adviser for IP Services Directory" src="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" type="primary" %}
 
 <hr>
-<div style="text-align: left;">
 <img src="/images/ipgrow/providers/Allen & Gledhill LLP.png" alt="Allen & Gledhill LLP logo" width="auto">
-</div>
 
 ### Allen & Gledhill LLP
 
@@ -55,8 +53,9 @@ We are a young Singapore law firm looking to create a modern brand of legal prac
 <a class="btn" href="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
 
 <hr>
-
-![Piece Future Pte Ltd logo](/images/ipgrow/providers/Piece Future Pte Ltd.png)
+<div style="text-align: left;">
+<img src="/images/ipgrow/providers/Piece Future Pte Ltd.png" alt="Piece Future Pte Ltd logo" width="auto">
+</div>
 
 Piece Future is an Asia-headquartered and innovation-driven Intellectual Property bank. We manage IP-rich corporations, institutions, SMEs and start-ups worldwide, offering strategic IP banking and innovation services ranging from IP Investment Advisory, IP Asset Management, Capital Advisory and Innovation Platforms.
 
@@ -68,8 +67,9 @@ Piece Future is an Asia-headquartered and innovation-driven Intellectual Propert
 <a class="btn" href="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
 
 <hr>
-
-![Wong Partnership logo](/images/ipgrow/providers/Wong Partnership.png)
+<div style="text-align: left;">
+<img src="/images/ipgrow/providers/Wong Partnership.png" alt="Wong Partnership logo" width="auto">
+</div>
 
 Headquartered in Singapore, WongPartnership is an award-winning law firm and one of the largest in the country.Together, WPG offers the expertise of over 400 professionals to meet the needs of our clients throughout the region. Our expertise spans the full suite of legal services to include both advisory and transactional work where we have been involved in landmark corporate transactions, as well as complex and high-profile litigation and arbitration matters. WongPartnership is also a member of the globally renowned World Law Group, one of the oldest and largest networks of leading law firms.
 
