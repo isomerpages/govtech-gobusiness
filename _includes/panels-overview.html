@@ -42,7 +42,6 @@
 
 </style>
 <div class="spanels">
-    {% for spanel in include.spanels %}
     <div class="spanel">
         {% if {{spanel.label}} %}
         <div class="spanel-label">{% include label.html label=spanel.label %}</div>
@@ -90,5 +89,4 @@
         </div>
         {% endif %}
     </div>
-    {% endfor %}
 </div>
