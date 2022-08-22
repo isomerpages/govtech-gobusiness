@@ -26,7 +26,7 @@ Looking to source and connect with the right partner across various categories o
 {% include button.html text="Go to e-Adviser for IP Services Directory" src="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" type="primary" %}
 
 <hr>
-<img src="/images/ipgrow/providers/Allen & Gledhill LLP.png" alt="Allen & Gledhill LLP logo">
+![Allen & Gledhill LLP logo](/images/ipgrow/providers/Allen & Gledhill LLP.png)
 
 ### Allen & Gledhill LLP
 
@@ -40,8 +40,9 @@ Allen & Gledhill is an award-winning full-service South-east Asian law firm prov
 <a class="btn" href="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
 
 <hr>
-
 ![CHP LAW LLC logo](/images/ipgrow/providers/CHP LAW LLC.png)
+
+### CHP LAW LLC
 
 We are a young Singapore law firm looking to create a modern brand of legal practice that is founded on the idea that simplicity is efficiency. When it comes to our clients, this is reflected in our commitment to forging lasting relations, hand-holding them and in providing quality advice.
 
@@ -53,9 +54,9 @@ We are a young Singapore law firm looking to create a modern brand of legal prac
 <a class="btn" href="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
 
 <hr>
-<div style="text-align: left;">
-<img src="/images/ipgrow/providers/Piece Future Pte Ltd.png" alt="Piece Future Pte Ltd logo" width="auto">
-</div>
+![Piece Future Pte Ltd logo](/images/ipgrow/providers/Piece Future Pte Ltd.png)
+
+### Piece Future Pte Ltd logo
 
 Piece Future is an Asia-headquartered and innovation-driven Intellectual Property bank. We manage IP-rich corporations, institutions, SMEs and start-ups worldwide, offering strategic IP banking and innovation services ranging from IP Investment Advisory, IP Asset Management, Capital Advisory and Innovation Platforms.
 
@@ -67,9 +68,9 @@ Piece Future is an Asia-headquartered and innovation-driven Intellectual Propert
 <a class="btn" href="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
 
 <hr>
-<div style="text-align: left;">
-<img src="/images/ipgrow/providers/Wong Partnership.png" alt="Wong Partnership logo" width="auto">
-</div>
+![Wong Partnership logo](/images/ipgrow/providers/Wong Partnership.png)
+
+### Wong Partnership
 
 Headquartered in Singapore, WongPartnership is an award-winning law firm and one of the largest in the country.Together, WPG offers the expertise of over 400 professionals to meet the needs of our clients throughout the region. Our expertise spans the full suite of legal services to include both advisory and transactional work where we have been involved in landmark corporate transactions, as well as complex and high-profile litigation and arbitration matters. WongPartnership is also a member of the globally renowned World Law Group, one of the oldest and largest networks of leading law firms.
 
