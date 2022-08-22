@@ -42,6 +42,12 @@
 
 </style>
 <div class="spanels">
+    {% if include.description %}
+    <div class="spanel">
+        <p class="spanel-description">{{ include.description }}</p>
+    </div>
+    {% endif %}
+    {% for spanel in include.spanels %}
     <div class="spanel">
         {% if {{spanel.label}} %}
         <div class="spanel-label">{% include label.html label=spanel.label %}</div>
@@ -52,9 +58,6 @@
         <h4 class="spanel-title">{{ spanel.title }}</h4>
         {% if spanel.description %}
         <p class="spanel-description">{{ spanel.description }}</p>
-        {% endif %}
-        {% if include.description %}
-        <p class="spanel-description">{{ include.description }}</p>
         {% endif %}
         {% if spanel.tel or spanel.email or spanel.url %}
         <div class="spanel-links-container">
@@ -89,4 +92,5 @@
         </div>
         {% endif %}
     </div>
+    {% endfor %}
 </div>
