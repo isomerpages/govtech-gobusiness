@@ -110,10 +110,10 @@ Allen & Gledhill is an award-winning full-service South-east Asian law firm prov
 <a name="basic-entity-info"></a>
 <h3>Basic entity info</h3>
 
-Business Entity: Allen & Gledhill LLP
-Website: https://www.allenandgledhill.com/
-UEN/ID: T07LL0925F
-Date of formation: 01/07/2007
+Business Entity: Allen & Gledhill LLP<br>
+Website: https://www.allenandgledhill.com/<br>
+UEN/ID: T07LL0925F<br>
+Date of formation: 01/07/2007<br>
 
 
-<p font-size:16px;>Last updated date: 10/08/2021</p>
+Last updated date: 10/08/2021
