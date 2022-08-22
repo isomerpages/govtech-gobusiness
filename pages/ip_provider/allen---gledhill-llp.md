@@ -17,7 +17,7 @@ Allen & Gledhill is an award-winning full-service South-east Asian law firm prov
 
 <strong>Key Office Presence in SG:</strong> One Marina Boulevard
 
-{% include button.html text="Connect" src="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" type="primary" %}
+{% include button.html text="Connect" src="https://form.gov.sg/62ec739b9b241b0012385a5d" type="primary" %}
 
 {% include panels-overview.html description="<br><b>On this page:</b><br><ul><li><a href=\"#ip-expertise\">IP expertise</a></li><li><a href=\"#industry-focus\">Industry focus</a></li><li><a href=\"#markets-served\">Market served</a></li><li><a href=\"#list-of-key-practice-experts\">List of key practice experts</a></li><li><a href=\"#basic-entity-info\">Basic entity info</a></li></ul><br>" %}
 

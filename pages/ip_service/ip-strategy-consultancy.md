@@ -17,13 +17,13 @@ Benefits of effective IA/IP management include:
 
 - Mitigation of business risks and protection from competition
 
-Use the [Connect form](){:target="_blank"}{:rel="noopener"} to connect with any of the service providers below.
+Use the [Connect form](https://form.gov.sg/62ec739b9b241b0012385a5d){:target="_blank"}{:rel="noopener"} to connect with any of the service providers below.
 
 ## Find an IP Service Provider
 
 Looking to source and connect with the right partner across various categories of IP Expertise? Use our e-Adviser for IP Services Directory to get recommendations on service providers.
 
-{% include button.html text="Go to e-Adviser for IP Services Directory" src="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" type="primary" %}
+{% include button.html text="E-Adviser for IP Service" src="https://eadviser.gobusiness.io/ipserviceproviders?src=ipstrategyconsultancy" type="primary" %}
 
 <hr>
 ![Allen & Gledhill LLP logo](/images/ipgrow/providers/Allen & Gledhill LLP.png)
@@ -37,7 +37,7 @@ Allen & Gledhill is an award-winning full-service South-east Asian law firm prov
 **Year of Establishment:** -<br>
 **Key Office Presence in SG:** -<br>
 
-<a class="btn" href="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
+<a class="btn" href="https://form.gov.sg/62ec739b9b241b0012385a5d" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
 
 <hr>
 ![CHP LAW LLC logo](/images/ipgrow/providers/CHP LAW LLC.png)
@@ -51,7 +51,7 @@ We are a young Singapore law firm looking to create a modern brand of legal prac
 **Year of Establishment:** -<br>
 **Key Office Presence in SG:** -<br>
 
-<a class="btn" href="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
+<a class="btn" href="https://form.gov.sg/62ec739b9b241b0012385a5d" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
 
 <hr>
 ![Piece Future Pte Ltd logo](/images/ipgrow/providers/Piece Future Pte Ltd.png)
@@ -65,7 +65,7 @@ Piece Future is an Asia-headquartered and innovation-driven Intellectual Propert
 **Year of Establishment:** -<br>
 **Key Office Presence in SG:** -<br>
 
-<a class="btn" href="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
+<a class="btn" href="https://form.gov.sg/62ec739b9b241b0012385a5d" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
 
 <hr>
 ![Wong Partnership logo](/images/ipgrow/providers/Wong Partnership.png)
@@ -79,6 +79,6 @@ Headquartered in Singapore, WongPartnership is an award-winning law firm and one
 **Year of Establishment:** 1992<br>
 **Key Office Presence in SG:** 12 Marina Boulevard Level 28 Marina Bay Financial Centre Tower 3<br>
 
-<a class="btn" href="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
+<a class="btn" href="https://form.gov.sg/62ec739b9b241b0012385a5d" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
 
 <hr>
