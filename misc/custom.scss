@@ -729,9 +729,9 @@ img[src*="/images/licences/cp.png"] {
   height: auto;
 }
 
-p > img[src*="/images/ipgrow/"] {
+img[src*="/images/ipgrow/"] {
   width: auto;
-  text-align: left;
+  display: inline;
 }
 
 p > img[src*="/images/blog/"] {
