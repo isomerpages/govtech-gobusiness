@@ -21,9 +21,9 @@ Use the [Connect form](https://form.gov.sg/62ec739b9b241b0012385a5d){:target="_b
 
 ## Find an IP Service Provider
 
-Looking to source and connect with the right partner across various categories of IP Expertise? Use our e-Adviser for IP Services Directory to get recommendations on service providers.
+Looking to source and connect with the right partner across various categories of IP Expertise? Use our e-Adviser for IP Service Providers to get recommendations on service providers.
 
-{% include button.html text="E-Adviser for IP Service" src="https://eadviser.gobusiness.io/ipserviceproviders?src=ipstrategyconsultancy" type="primary" %}
+{% include button.html text="e-Adviser for IP Service" src="https://eadviser.gobusiness.io/ipserviceproviders?src=ipstrategyconsultancy" type="primary" %}
 
 <hr>
 ![Allen & Gledhill LLP logo](/images/ipgrow/providers/Allen & Gledhill LLP.png)
