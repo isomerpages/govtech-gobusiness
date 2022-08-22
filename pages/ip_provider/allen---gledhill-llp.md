@@ -3,69 +3,117 @@ title: 'Allen & Gledhill LLP'
 permalink: /ip-provider/allen---gledhill-llp
 ---
 
-## ABSS Premier - Accounting and Sales Management System Version 23
+<h2>About Allen & Gledhill LLP</h2>
 
-## Overview
+<img src="/images/ipgrow/providers/Allen & Gledhill LLP.png" alt="Allen & Gledhill LLP logo" />
 
-**Description**
+Allen & Gledhill is an award-winning full-service South-east Asian law firm providing legal services to a wide range of premier clients, including local and multinational corporations and financial institutions. The Firm is consistently ranked as a market leader in Singapore and South-east Asia, having been involved in a number of challenging, complex and significant deals, many of which are the first of its kind. The Firm’s reputation for high-quality advice is regularly affirmed by top rankings in leading publications, and by various awards and accolades. With its network of associate firms and offices, it is well-placed to advise clients on their business interests involving the Asian region. With its offices in Singapore, Myanmar and Vietnam, as well as its associate firm in Malaysia (Rahmat Lim & Partners), and its network firm Soemadipradja & Taher in Indonesia, Allen & Gledhill has over 650 lawyers across the region, making it one of the largest law firms in South-east Asia.
 
-ABSS Premier is an integrated accounting, sales, inventory and multiple-currency management solution which integrate with  PEPPOL e-invoicing network. Listed in the IRAS Accounting Software Register, ABSS Premier is GST-compliant and a business management software that helps businesses to streamline their accounting procedures, simplify complex inventory issues, has full multi-currency capability, supports multi-users, and increases productivity.
+<strong>Budget range:</strong> \$\$-\$\$\$\$
 
-## Solution Packages Option(s)
+<strong>IP Professionals:</strong> 51-100
 
-<table>
-<tr>
-<td><b>No.</b></td>
-<td><b>Package Name</b></td>
-<td><b>Total Package Cost</b></td>
-<td><b>Total Qualifying Cost</b></td>
-<td><b>Solution Details</b></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier - Accounting and Sales Management System Version 23 - Package A with onsite training (1 user)</td>
-<td style='padding: 10px;'>3553</td>
-<td style='padding: 10px;'>3553</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier - Accounting and Sales Management System Version 23 - Package B with onsite training (3 users)</td>
-<td style='padding: 10px;'>4694</td>
-<td style='padding: 10px;'>4694</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier - Accounting and Sales Management System Version 23 - Package C (1 user)</td>
-<td style='padding: 10px;'>1903</td>
-<td style='padding: 10px;'>1903</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier - Accounting and Sales Management System Version 23 - Package D (3 users)</td>
-<td style='padding: 10px;'>2744</td>
-<td style='padding: 10px;'>2744</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier - Accounting and Sales Management System Version 23 - Package E with onsite training and remote access (1 user)</td>
-<td style='padding: 10px;'>4353</td>
-<td style='padding: 10px;'>4353</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_5.pdf' target='_blank'>View Details</a></td>
-</tr>
-</table>
+<strong>Year of Establishment:</strong> 1902
 
-## Mode and Schedule of Payment
+<strong>Key Office Presence in SG:</strong> One Marina Boulevard
 
- - Direct Purchase
+{% include button.html text="Connect" src="https://eadviser.gobusiness.gov.sg/govassist/?src=ipstrategyconsultancy" type="primary" %}
 
-## Vendor Information
+{% include panels-overview.html description="<br><b>On this page:</b>" %}
 
- 01 BUSINESS SOLUTIONS PTE LTD<br>https://www.01businesssolutions.com/psg-grant/<br>Email: sales@01businesssolutions.com<br>Tel: +65 6220 3306
+<hr>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+<a name="ip-expertise"></a>
+<h3>IP expertise</h3>
 
-<script src="/jquery/resize-tables.js"></script>
+- IP Portfolio Management
+
+- Patent Agent's services
+
+- IP Strategy Consultancy
+
+- Trademark Agent's services
+
+- IP Valuation
+
+- Dispute Resolution
+
+- IP Legal Services
+
+- Patent Analytics
+
+- IP Brokerage (Licensing/Sale)
+
+- IP Taxation Advisory
+
+- IP Training
+
+- Branding Strategy
+
+- IP Insurance
+
+- IP Securitisation Consultation
+
+- IP Enforcement
+
+<hr>
+
+<a name="industry-focus"></a>
+<h3>Industry focus</h3>
+
+- Precision Engineering
+
+- Energy and Chemicals
+
+- Electronics
+
+- Security
+
+- Wholesale Trade
+
+- Healthcare
+
+- Education
+
+- Professional Services
+
+- Financial Services
+
+- ICT and Media
+
+- Food Manufacturing
+
+- Retail
+
+<hr>
+
+<a name="markets-served"></a>
+<h3>Market served</h3>
+
+- Indonesia
+
+- Malaysia
+
+- Myanmar
+
+- Singapore
+
+<hr>
+
+<a name="list-of-key-practice-experts"></a>
+<h3>List of key practice experts</h3>
+
+-
+
+<hr>
+
+<a name="basic-entity-info"></a>
+<h3>Basic entity info</h3>
+
+Business Entity: Allen & Gledhill LLP
+Website: https://www.allenandgledhill.com/
+UEN/ID: T07LL0925F
+Date of formation: 01/07/2007
+
+
+<p font-size:16px;>Last updated date: 10/08/2021</p>
