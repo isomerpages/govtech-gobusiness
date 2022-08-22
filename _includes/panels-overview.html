@@ -54,6 +54,9 @@
         {% if spanel.description %}
         <p class="spanel-description">{{ spanel.description }}</p>
         {% endif %}
+        {% if include.description %}
+        <p class="spanel-description">{{ include.description }}</p>
+        {% endif %}
         {% if spanel.tel or spanel.email or spanel.url %}
         <div class="spanel-links-container">
             {% if spanel.tel %}
