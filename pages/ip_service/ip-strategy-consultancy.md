@@ -27,7 +27,7 @@ Looking to source and connect with the right partner across various categories o
 
 <hr>
 <div style="text-align: left;">
-<img src="/images/ipgrow/providers/Allen & Gledhill LLP.png" alt="Allen & Gledhill LLP logo" width="auto>
+<img src="/images/ipgrow/providers/Allen & Gledhill LLP.png" alt="Allen & Gledhill LLP logo" width="auto">
 </div>
 
 ### Allen & Gledhill LLP
