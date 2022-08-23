@@ -26,7 +26,7 @@ Looking to source and connect with the right partner across various categories o
 {% include button.html text="e-Adviser for IP Service Providers" src="https://eadviser.gobusiness.io/ipserviceproviders?src=ipstrategyconsultancy" type="primary" %}
 
 <hr>
-![Allen & Gledhill LLP logo](/images/ipgrow/providers/Allen & Gledhill LLP.png)
+![Allen & Gledhill LLP logo](/images/ipgrow/providers/Allen-Gledhill-LLP.png)
 
 ### Allen & Gledhill LLP
 
@@ -40,7 +40,7 @@ Allen & Gledhill is an award-winning full-service South-east Asian law firm prov
 <a class="btn" href="https://form.gov.sg/62ec739b9b241b0012385a5d" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
 
 <hr>
-![CHP LAW LLC logo](/images/ipgrow/providers/CHP LAW LLC.png)
+![CHP LAW LLC logo](/images/ipgrow/providers/CHP-LAW-LLC.png)
 
 ### CHP LAW LLC
 
@@ -54,7 +54,7 @@ We are a young Singapore law firm looking to create a modern brand of legal prac
 <a class="btn" href="https://form.gov.sg/62ec739b9b241b0012385a5d" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
 
 <hr>
-![Piece Future Pte Ltd logo](/images/ipgrow/providers/Piece Future Pte Ltd.png)
+![Piece Future Pte Ltd logo](/images/ipgrow/providers/Piece-Future-Pte-Ltd.png)
 
 ### Piece Future Pte Ltd logo
 
@@ -68,7 +68,7 @@ Piece Future is an Asia-headquartered and innovation-driven Intellectual Propert
 <a class="btn" href="https://form.gov.sg/62ec739b9b241b0012385a5d" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/ip-provider/allen---gledhill-llp)
 
 <hr>
-![Wong Partnership logo](/images/ipgrow/providers/Wong Partnership.png)
+![Wong Partnership logo](/images/ipgrow/providers/Wong-Partnership.png)
 
 ### Wong Partnership
 

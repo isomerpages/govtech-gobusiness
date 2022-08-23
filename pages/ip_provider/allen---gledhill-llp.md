@@ -5,7 +5,7 @@ permalink: /ip-provider/allen---gledhill-llp
 
 <h2>About Allen & Gledhill LLP</h2>
 
-<img src="/images/ipgrow/providers/Allen & Gledhill LLP.png" alt="Allen & Gledhill LLP logo" />
+<img src="/images/ipgrow/providers/Allen-Gledhill-LLP.png" alt="Allen & Gledhill LLP logo" />
 
 Allen & Gledhill is an award-winning full-service South-east Asian law firm providing legal services to a wide range of premier clients, including local and multinational corporations and financial institutions. The Firm is consistently ranked as a market leader in Singapore and South-east Asia, having been involved in a number of challenging, complex and significant deals, many of which are the first of its kind. The Firm’s reputation for high-quality advice is regularly affirmed by top rankings in leading publications, and by various awards and accolades. With its network of associate firms and offices, it is well-placed to advise clients on their business interests involving the Asian region. With its offices in Singapore, Myanmar and Vietnam, as well as its associate firm in Malaysia (Rahmat Lim & Partners), and its network firm Soemadipradja & Taher in Indonesia, Allen & Gledhill has over 650 lawyers across the region, making it one of the largest law firms in South-east Asia.
 
