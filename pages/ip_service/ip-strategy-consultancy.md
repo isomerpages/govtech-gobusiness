@@ -56,7 +56,7 @@ We are a young Singapore law firm looking to create a modern brand of legal prac
 <hr>
 ![Piece Future Pte Ltd logo](/images/ipgrow/providers/Piece-Future-Pte-Ltd.png)
 
-### Piece Future Pte Ltd logo
+### Piece Future Pte Ltd
 
 Piece Future is an Asia-headquartered and innovation-driven Intellectual Property bank. We manage IP-rich corporations, institutions, SMEs and start-ups worldwide, offering strategic IP banking and innovation services ranging from IP Investment Advisory, IP Asset Management, Capital Advisory and Innovation Platforms.
 
