@@ -1,5 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine On
-RewriteBase /
-RewriteCond %{HTTP_HOST} ^govtech-gb-staging\.netlify\.com$ [NC]
-RewriteRule ^(.*)$ https://www.gobusiness.gov.sg/ [R=301,L]
