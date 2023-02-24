@@ -1,5 +1,0 @@
-collections:
-  permittedservices:
-    output: true
-    order:
-      - list-of-permitted-services.md

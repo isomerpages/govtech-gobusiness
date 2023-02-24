@@ -1,0 +1,7 @@
+collections:
+  productivity_solutions_grant:
+    output: true
+    order:
+      - overview.md
+      - all-psg-solutions.md
+      - faq.md

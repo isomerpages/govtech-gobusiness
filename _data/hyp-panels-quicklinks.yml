@@ -1,0 +1,49 @@
+panels:
+  - title: Guides for Businesses
+    image: /images/signpost.svg
+    alt: signpost
+    links:
+      - text: e-Adviser for Events
+        href: https://eadviser.gobusiness.gov.sg/events?src=quicklinks
+        target: _blank
+        is_new: true
+      - text: e-Adviser for Premises Use
+        href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=quicklinks
+        target: _blank
+      - text: e-Adviser for Starting a Business
+        href: https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices_quicklinks
+        target: _blank
+      - text: e-Adviser for Government Assistance
+        href: https://eadviser.gobusiness.gov.sg/govassist/?src=quicklinks
+        target: _blank
+    info-text: <a class="panel-content-links underline" href="/e-services/guides-for-biz/">View all guides for businesses</a>
+  - title: Licences and Permits
+    image: /images/licences-80.svg
+    alt: licences
+    links:
+      - text: Apply for licences
+        href: /licences/
+        imageClass: login
+        image: /images/login.svg
+        alt: login
+      - text: Cancel or renew licence
+        href: /licences/#renew-amend-licence
+        imageClass: login
+        image: /images/login.svg
+        alt: login
+      - text: Food Services Licence Guided Journey
+        href: https://foodservices.gobusiness.gov.sg/licences/foodservices?src=eservices_licence&permits
+        target: _blank
+  - title: For Covid-19
+    image: /images/Covid.svg
+    alt: covid
+    links:
+      - text: Onsite Manpower Declaration
+        href: https://go.gov.sg/covidbusinessresumptions/?src=eservices_covid
+        target: _blank
+      - text: Business Resumption/Exemption Status
+        href: https://go.gov.sg/covidbusinessresumptions/?src=eservices_covid
+        target: _blank
+      - text: User Guides for Declarations and Applications
+        href: /guides/?src=eservices_covid
+        target: _blank

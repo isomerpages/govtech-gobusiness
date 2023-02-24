@@ -1,0 +1,171 @@
+<style>
+  .panel {
+    background: #ffffff;
+    border: 1px solid #dbdfe4;
+    box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
+      0px 10.367px 37.0249px rgba(22, 26, 29, 0.03),
+      0px 5.92398px 17.772px rgba(22, 26, 29, 0.03);
+    border-radius: 5px;
+    width: 366px;
+    min-height: 306px;
+    padding: 14px;
+  }
+
+  /* Panel header */
+
+  .panel-header-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: start;
+    row-gap: 13px;
+    margin: 0 0 0 12px !important;
+  }
+
+  .panel-header-icon {
+    height: 80px;
+    width: auto !important;
+    position: relative;
+    left: -39%;
+  }
+
+  .panel-header-text {
+    font-family: hknova-semibold;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #313840 !important;
+    margin-top: 0 !important;
+  }
+
+  /* Panel content */
+
+  .panel-content {
+    display: flex;
+    margin: 10px 0;
+    align-items: center;
+  }
+  .panel-content-line {
+    height: 1px;
+    border: 1px solid #dbdfe4;
+    position: relative;
+    width: 365px;
+    left: -4%;
+    margin: 24px 0;
+  }
+
+  .panel-content-info-container {
+    display: flex;
+  }
+
+  .panel-content-info-text {
+    font-family: hknova-regular !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 22px !important;
+    margin: 0px 0px 10px 8px !important; 
+  }
+
+  .panel-content-info-text a {
+    font-family: hknova-regular !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 22px !important;
+    color: #647283 !important;
+    text-decoration: none !important;
+  }
+
+  .panel-content-links {
+    margin: 0 0 0 12px !important;
+    color: #2a6ebb !important;
+    text-decoration: none !important;
+    font-size: 16px;
+    line-height: 24px !important;
+  }
+
+  .panel-content-links:hover {
+    text-decoration-line: underline !important;
+    color: #084e8a !important;
+  }
+
+  .panel-content-links:visited {
+    color: #89579b !important;
+  }
+
+  .panel-content-links:visited:hover {
+    text-decoration-line: underline;
+    color: #521b88 !important;
+  }
+
+  .underline {
+    margin-left: 0 !important;
+    text-decoration: underline !important;
+    font-size: 14px !important;
+  }
+
+  /* Icon */
+  .login {
+    height: 14px;
+    width: 13.48px !important;
+    margin: unset !important;
+  }
+
+  .right-arrow {
+    height: 16px;
+    width: 16px !important;
+    margin: unset !important;
+  }
+
+  @media (max-width: 760px) {
+    .panel {
+      width: 339px;
+      height: auto;
+    }
+
+    .panel-content-line {
+      width: 338px;
+      left: -4.5%;
+    }
+  }
+</style>
+
+{% for panel in {{include.panels}} %}
+<div class="panel">
+  <div class="panel-header-container">
+    <img class="panel-header-icon" src="{{panel.image}}" alt="{{panel.alt}}" />
+    <h3 class="p1 panel-header-text">{{panel.title}}</h3>
+  </div>
+
+  {% for link in panel.links %}
+  <div class="panel-content">
+    <!-- <img
+      class="{% if {{link.imageClass}} %}{{link.imageClass}}{% else %}right-arrow{% endif %}"
+      src="{% if {{link.image}} %}{{link.image}}{% else %}/images/right-arrow.svg{% endif %}"
+      alt="{% if {{link.alt}} %}{{link.alt}}{% else %}right-arrow{% endif %}" /> -->
+    <a
+      class="panel-content-links"
+      href="{{link.href}}"
+      target="{% if {{link.target}} %}{{link.target}}{% else %}_self{% endif %}"
+      rel="noopener"
+      >{{link.text}}</a
+    >
+    <!-- {% if link.is_new %}
+    <span style="margin-left: 8px;">
+      {% include new-tag.html %}
+    </span>
+    {% endif %} -->
+  </div>
+  {% endfor %} 
+  {% if panel.info-text %}
+    <div class="panel-content-line"></div>
+    <div class="panel-content-info-container">
+    <p class="panel-content-info-text">{{panel.info-text}}</p>
+    <img 
+    style="width: 21px; margin: 0 10px 10px 10px; "
+    src="/images/next_arrow.svg" alt="next-arrow" />
+  </div>
+  {% endif %}
+</div>
+{% endfor %}

@@ -1,0 +1,209 @@
+---
+layout: skeleton
+---
+
+<body>
+  <style>
+    /* TODO: Refactor and make it mobile first */
+    /* Desktop */
+    .home-content .section-1 {
+      position: relative;
+      width: 100%;
+      height: 350px;
+    }
+
+    .home-content .hero-container {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      z-index: 0;
+      overflow: hidden;
+      background-image: url("/images/home_hero-banner.svg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+    .home-content .cta-container {
+      position: relative;
+      top: 62px;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .home-content .cta-container>h1 {
+      text-align: center;
+      letter-spacing: -1px;
+      color: #ffffff;
+      text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .home-content .cta-container>p {
+      font-size: 18px;
+      line-height: 28px;
+      text-align: center;
+      color: #ffffff;
+      margin-top: 25px;
+      margin-bottom: 23px;
+    }
+
+    .home-primary-btn-wrapper {
+      margin-top: 24px;
+    }
+
+    .home-content .section-5 {
+      width: 100%;
+      height: auto;
+      padding: 50px 0;
+      position: relative;
+      z-index: 1;
+      background-color: white;
+    }
+
+    .home-content .section-5 .view-more {
+      text-align: center;
+      padding: 28px 0 10px;
+    }
+
+    .home-content .section-5>h4 {
+      margin-bottom: 16px;
+    }
+
+    .home-content .uppercase-text {
+      text-transform: uppercase;
+      font-size: 16px;
+      line-height: 24px;
+      text-align: center;
+      letter-spacing: 1.5px;
+      color: #484848;
+      margin: 30px 0 16px;
+    }
+
+    .home-content .section-5>h1 {
+      font-weight: 600;
+      font-size: 48px;
+      line-height: 52px;
+      text-align: center;
+      letter-spacing: -1px;
+      color: #037e8a;
+    }
+
+    .home-content .col {
+      cursor: pointer;
+    }
+
+    .home-content .break-desktop {
+      display: block;
+    }
+
+    .home-content .break-mobile {
+      display: none;
+      z-index: 2;
+      position: relative;
+    }
+
+    .home-content .blogCard__section {
+      display: flex;
+      flex-direction: column;
+      row-gap: 16px;
+      max-width: 1140px;
+      margin: 48px auto 96px;
+    }
+
+    .home-content.blogCard__buttonContainer {
+      padding: 16px 20px 0 20px;
+      margin-bottom: 96px;
+    }
+
+    /* iPad */
+
+    @media (max-width: 1279px) {
+      .home-content .break-ipad {
+        display: block;
+      }
+    }
+
+    /* Mobile */
+
+    @media (max-width: 760px) {
+      .home-content .break-mobile {
+        display: block;
+      }
+
+      .home-content .break-desktop {
+        display: none;
+      }
+
+      .home-content .cta-container {
+        top: 40px;
+      }
+
+      .home-content .cta-container>h1 {
+        font-size: 40px;
+        line-height: 44px;
+      }
+
+      .home-content .cta-container>p {
+        font-size: 18px;
+        line-height: 28px;
+        max-width: 370px;
+        margin: 25px auto 23px;
+      }
+
+      .home-content .section-1 {
+        height: 348px;
+      }
+
+      .home-content .col {
+        margin: 0 auto;
+        padding: 0.75em 0;
+      }
+
+      .home-content .section-5>h1 {
+        font-size: 40px;
+        line-height: 44px;
+        text-align: center;
+      }
+    }
+  </style>
+  <div class="home-content">
+    <div class="section-1">
+      <div class="hero-container"></div>
+      <div class="cta-container">
+        <h1>Government <br class="break-mobile" />e-Services<br class="break-desktop" /> for<br
+            class="break-mobile" /> your business</h1>
+        <div class="home-primary-btn-wrapper">
+          {% include primary-btn.html href="https://dashboard.gobusiness.gov.sg/login?src=hero_banner" text="Log In to GoBusiness" %}
+        </div>
+      </div>
+    </div>
+    {% include hpgCard.html hpgCardData=site.data.hpgCardData %}
+
+    <div class="blogCard__section">
+      <div class="blogCard__sectionHeader">
+        <h1 class="blogCard__title">Latest Stories</h1>
+        <div class="blogCard__buttonContainer">
+          {% include primary-btn.html href="/gobusiness-blog/?src=home_blog" text="More Stories" %}
+        </div>
+      </div>
+      {% include blogCard.html blogPostData=site.data.blogPostData limit=3 keyword='all' %}
+
+      <div class="home-content blogCard__buttonContainer">
+        {% include primary-btn.html href="/gobusiness-blog" text="More Stories" %}
+      </div>
+    </div>
+
+    {% include news-and-updates.html %}
+
+    {% include subscribe-mailer.html %}
+
+    {% include goBizIntro.html %}
+
+    {% include sisterbrand.html %}
+  </div>
+
+  <script src="https://connect.facebook.net/signals/config/199274315251589?v=2.9.39&amp;r=stable" async></script>
+  <script src="/jquery/jquery.min.js"></script>
+  <script src="/jquery/notifications.js"></script>
+</body>
