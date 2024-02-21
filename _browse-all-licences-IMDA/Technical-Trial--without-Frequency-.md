@@ -20,5 +20,5 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Documents Needed</H3>
 
-Documents information abit weird. Here's how it is shown on isomer. can double check? https://govtech-gb-staging.netlify.app/browse-all-licences/infocomm-media-development-authority-(imda)/localised-radio-communication-station-licence
+Documents information abit weird. Here's how it is shown on isomer. can double check? /browse-all-licences/infocomm-media-development-authority-(imda)/localised-radio-communication-station-licence
 
